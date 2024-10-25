@@ -1,5 +1,42 @@
 import pandas as pd 
 from bs4 import BeautifulSoup
+import time
+
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
+
+
+
+def click_next_page(driver):
+    """Function to click the "next" page if it's active"""
+    try:
+        # Locate the "next" page element
+        wait_sec = 3
+        next_button = WebDriverWait(driver, wait_sec).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, "li.next a.active"))
+        )
+        if next_button:
+            next_button.click()
+            time.sleep(2)  # Allow time for the page to load
+            return True
+    except Exception as e:
+        print(f"Error occurred: {e}")
+        print("No more active 'next' button found.")
+        return False
+
+
+def scrape_esma_table(driver):
+    """Scrape table from ESMA prospects register and transform to df""" 
+    ESMA_DOC_DOWNLOAD_BASE_URL = 'https://registers.esma.europa.eu/publication/'
+    page_source = driver.page_source
+    soup = BeautifulSoup(page_source, 'html.parser')
+    # Find all document links in the table with id "T01"
+    table = soup.find("table", {"id": "T01"})
+    table_df = parse_table_to_df(table)
+    # add working download link 
+    table_df['physical_doc_downl_url'] = ESMA_DOC_DOWNLOAD_BASE_URL + table_df['Physical Document'].astype(str)
+    return table_df
 
 
 def parse_table_to_df(table):
