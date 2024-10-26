@@ -1,3 +1,8 @@
+""" 
+Run this script to collect metadata about prospectus document 
+    from the ESMA register using Selenium
+"""
+
 import pandas as pd
 import time
 
@@ -7,10 +12,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 
 from utils import scrape_esma_table, click_next_page
-
-
-WRITE_RESULT_CSV = 'esma_prospectus_metadata.csv'
-ESMA_PROS_URL = 'https://registers.esma.europa.eu/publication/searchRegister?core=esma_registers_priii_documents'
+from config import CONFIG_DICT
 
 
 def apply_filters(driver):
@@ -21,7 +23,9 @@ def apply_filters(driver):
         dropdown_doc_type.select_by_value("BPWO") # Base prospectus without Final terms
         
         # # select home member state
-        # dropdown_home_member_state = Select(driver.find_element(By.NAME, "home_member_state_code"))
+        # dropdown_home_member_state = Select(
+        #     driver.find_element(By.NAME, "home_member_state_code")
+        # )
         # dropdown_home_member_state.select_by_value("NL") # Netherlands 
 
         #  add language as option 
@@ -52,13 +56,11 @@ def apply_filters(driver):
         update_button.click()
 
 
-
-
 def main():
     driver = webdriver.Firefox()
 
     try:
-        driver.get(ESMA_PROS_URL)
+        driver.get(CONFIG_DICT['ESMA_PROS_REGISTER_URL'])
 
         # Wait for the page to load completely
         time.sleep(2)
@@ -87,15 +89,17 @@ def main():
         # Loop through all pages until "next" is inactive
         while click_next_page(driver):
             table_df = scrape_esma_table(driver)
-            print(len(table_df))
             table_df_list.append(table_df)
-        
 
         # concat all table dfs
         final_df = pd.concat(table_df_list, ignore_index=True)
+         # add working download link 
+        final_df['physical_doc_downl_url'] = (
+             CONFIG_DICT['ESMA_DOC_DOWNLOAD_BASE_URL'] + table_df['Physical Document'].astype(str)
+        )
 
         # write result to csv 
-        final_df.to_csv(WRITE_RESULT_CSV, index=False, encoding="utf-8", sep=";")
+        final_df.to_csv(CONFIG_DICT['WRITE_METADATA_RESULT_CSV'], index=False, encoding="utf-8", sep=";")
 
     finally:
         # Close the browser
