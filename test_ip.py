@@ -1,3 +1,4 @@
+"""Run this file to check the IP selenium is using to perform requests."""
 
 from selenium import webdriver
 from bs4 import BeautifulSoup
