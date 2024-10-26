@@ -1,5 +1,8 @@
 CONFIG_DICT = {
 
+    # general 
+    'DATA_FOLDER':'.//data//',
+
     # esma_prospectus_collector.py
     'WRITE_METADATA_RESULT_CSV': 'esma_prospectus_metadata.csv',
     'ESMA_PROS_REGISTER_URL': 'https://registers.esma.europa.eu/publication/searchRegister?core=esma_registers_priii_documents',

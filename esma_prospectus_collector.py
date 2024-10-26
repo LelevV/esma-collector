@@ -5,6 +5,7 @@ Run this script to collect metadata about prospectus document
 
 import pandas as pd
 import time
+import os
 
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select, WebDriverWait
@@ -21,18 +22,25 @@ def apply_filters(driver):
         # select doctype 
         dropdown_doc_type = Select(driver.find_element(By.NAME, "document_type"))
         dropdown_doc_type.select_by_value("BPWO") # Base prospectus without Final terms
+
+        time.sleep(1)
         
-        # # select home member state
-        # dropdown_home_member_state = Select(
-        #     driver.find_element(By.NAME, "home_member_state_code")
-        # )
-        # dropdown_home_member_state.select_by_value("NL") # Netherlands 
+        # select home member state
+        dropdown_home_member_state = Select(
+            driver.find_element(By.NAME, "home_member_state_code")
+        )
+        dropdown_home_member_state.select_by_value("NL") # Netherlands 
+
+        time.sleep(1)
 
         #  add language as option 
         # Locate the dropdown element by its ID
         extra_filer_dropdown = Select(driver.find_element(By.ID, "ID005"))
         # Select the "Language" option by visible text
         extra_filer_dropdown.select_by_visible_text("Language")
+
+        time.sleep(1)
+
         # select English
         dropdown_language = Select(driver.find_element(By.NAME, "document_language_code"))
         dropdown_language.select_by_value("en")  
@@ -57,6 +65,9 @@ def apply_filters(driver):
 
 
 def main():
+    # create datafolder if does not exist
+    os.makedirs(os.path.dirname(CONFIG_DICT['DATA_FOLDER']), exist_ok=True)
+
     driver = webdriver.Firefox()
 
     try:
@@ -99,7 +110,10 @@ def main():
         )
 
         # write result to csv 
-        final_df.to_csv(CONFIG_DICT['WRITE_METADATA_RESULT_CSV'], index=False, encoding="utf-8", sep=";")
+        final_df.to_csv(
+             CONFIG_DICT['DATA_FOLDER'] + CONFIG_DICT['WRITE_METADATA_RESULT_CSV'], 
+             index=False, encoding="utf-8", sep=";"
+        )
 
     finally:
         # Close the browser
