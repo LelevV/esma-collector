@@ -111,7 +111,7 @@ def main():
 
         # write result to csv 
         final_df.to_csv(
-             CONFIG_DICT['DATA_FOLDER'] + CONFIG_DICT['WRITE_METADATA_RESULT_CSV'], 
+             CONFIG_DICT['DATA_FOLDER'] + CONFIG_DICT['METADATA_RESULT_CSV'], 
              index=False, encoding="utf-8", sep=";"
         )
 
