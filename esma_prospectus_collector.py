@@ -16,7 +16,7 @@ from utils import scrape_esma_table, click_next_page
 from config import CONFIG_DICT
 
 
-def apply_filters(driver):
+def apply_filters(driver) -> None:
         """Put all your filters for ESMA prospectus Register here"""
          
         # select doctype 
