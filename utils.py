@@ -18,7 +18,7 @@ def download_pdf(url: str, write_file: str) -> None:
         print(f'Failed to download PDF. HTTP Status Code: {response.status_code}')
 
 
-def click_next_page(driver):
+def click_next_page(driver) -> bool:
     """Function to click the "next" page if it's active"""
     try:
         # Locate the "next" page element
@@ -36,7 +36,7 @@ def click_next_page(driver):
         return False
 
 
-def scrape_esma_table(driver):
+def scrape_esma_table(driver) -> pd.DataFrame:
     """Scrape table from ESMA prospects register and transform to df""" 
     page_source = driver.page_source
     soup = BeautifulSoup(page_source, 'html.parser')
@@ -46,7 +46,7 @@ def scrape_esma_table(driver):
     return table_df
 
 
-def parse_table_to_df(table):
+def parse_table_to_df(table) -> pd.DataFrame:
     """
     Parses an HTML table (as a BeautifulSoup object) into a pandas DataFrame.
 
