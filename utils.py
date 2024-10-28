@@ -1,10 +1,21 @@
 import pandas as pd 
 from bs4 import BeautifulSoup
 import time
+import requests
 
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+
+
+def download_pdf(url: str, write_file: str) -> None:
+    response = requests.get(url)
+    if response.status_code == 200:
+        with open(write_file, 'wb') as file:
+            file.write(response.content)
+        print(f'wrote {url} to {write_file}')
+    else:
+        print(f'Failed to download PDF. HTTP Status Code: {response.status_code}')
 
 
 def click_next_page(driver):

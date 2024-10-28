@@ -104,9 +104,18 @@ def main():
 
         # concat all table dfs
         final_df = pd.concat(table_df_list, ignore_index=True)
-         # add working download link 
+
+        # add working download link 
         final_df['physical_doc_downl_url'] = (
              CONFIG_DICT['ESMA_DOC_DOWNLOAD_BASE_URL'] + table_df['Physical Document'].astype(str)
+        )
+
+        # add file name
+        final_df['file_name'] = (
+            final_df['Issuer(s) Name / LEI'].str.replace(' ', '_')
+                + '__' + final_df['Prospectus Type'].str.replace(' ', '_') 
+                + '__' + final_df['Approval or filing date'].str.replace(' ', '_').replace('/', '-', regex=True)
+                + '.pdf'
         )
 
         # write result to csv 
