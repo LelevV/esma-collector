@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import time
 
 
-def check_ip():
+def check_ip() -> str:
     """Function to get current IP address using Selenium"""
     # Set up the Firefox driver
     driver = webdriver.Firefox()
@@ -27,6 +27,7 @@ def check_ip():
         ip_address = ip_element.text.strip('"')
 
         print(f"Your current IP address is: {ip_address}")
+        return ip_address
 
     finally:
         # Close the browser
