@@ -112,10 +112,12 @@ def main():
 
         # add file name
         final_df['file_name'] = (
-            final_df['Issuer(s) Name / LEI'].str.replace(' ', '_')
+            (
+                final_df['Issuer(s) Name / LEI'].str.replace(' ', '_')
                 + '__' + final_df['Prospectus Type'].str.replace(' ', '_') 
                 + '__' + final_df['Approval or filing date'].str.replace(' ', '_').replace('/', '-', regex=True)
-                + '.pdf'
+            ).replace(['\.', ','], '', regex=True)
+            + '.pdf'
         )
 
         # write result to csv 
