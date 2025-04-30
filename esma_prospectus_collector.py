@@ -108,7 +108,7 @@ def main():
 
         # add working download link 
         final_df['physical_doc_downl_url'] = (
-             CONFIG_DICT['ESMA_DOC_DOWNLOAD_BASE_URL'] + table_df['Physical Document'].astype(str)
+             CONFIG_DICT['ESMA_DOC_DOWNLOAD_BASE_URL'] + final_df['Physical Document'].astype(str)
         )
 
         # add file name
@@ -117,7 +117,7 @@ def main():
                 final_df['Issuer(s) Name / LEI'].str.replace(' ', '_')
                 + '__' + final_df['Prospectus Type'].str.replace(' ', '_') 
                 + '__' + final_df['Approval or filing date'].str.replace(' ', '_').replace('/', '-', regex=True)
-            ).replace(['\.', ','], '', regex=True)
+            ).replace([r'\.', ','], '', regex=True)
             + '.pdf'
         )
 
