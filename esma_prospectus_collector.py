@@ -16,7 +16,7 @@ from utils import scrape_esma_table, click_next_page
 from config import CONFIG_DICT
 
 
-def apply_filters(driver) -> None:
+def apply_filters(driver, home_member_state_code=None) -> None:
         """Put all your filters for ESMA prospectus Register here"""
          
         # select doctype 
@@ -25,13 +25,14 @@ def apply_filters(driver) -> None:
 
         time.sleep(1)
         
-        # select home member state
-        dropdown_home_member_state = Select(
-            driver.find_element(By.NAME, "home_member_state_code")
-        )
-        dropdown_home_member_state.select_by_value("NL") # Netherlands 
+        if home_member_state_code:
+            # select home member state
+            dropdown_home_member_state = Select(
+                driver.find_element(By.NAME, home_member_state_code)
+            )
+            dropdown_home_member_state.select_by_value("NL") # Netherlands 
 
-        time.sleep(1)
+            time.sleep(1)
 
         #  add language as option 
         # Locate the dropdown element by its ID
