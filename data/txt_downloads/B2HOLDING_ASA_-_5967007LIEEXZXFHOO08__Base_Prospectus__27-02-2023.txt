@@ -1,0 +1,3706 @@
+--- Page 1 ---
+B2Holding ASA 
+Base Prospectus 
+Oslo, 27 February 2023
+
+--- Page 2 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+2
+Important information 
+The Base Prospectus is based on sources such as annual reports and publicly available information and forward-
+looking information based on current expectations, estimates and projections about global economic conditions, as 
+well as the economic conditions of the regions and industries that are major markets for B2Holding ASA’s (the 
+Company) lines of business. 
+A prospective investor should consider carefully the factors set forth in Chapter 1 Risk factors, and elsewhere in the 
+Prospectus, and should consult his or her own expert advisors as to the suitability of an investment in the bonds. 
+IMPORTANT – EEA AND UK RETAIL INVESTORS - If the Final Terms in respect of any bonds includes a legend 
+titled "Prohibition of Sales to EEA Retail Investors" and/or "Prohibition of Sales to UK Retail Investors", the bonds 
+are not intended to be offered, sold or otherwise made available to and should not be offered, sold or otherwise 
+made available to any retail investor in the European Economic Area (‘EEA’) and/or in the United Kingdom (the 
+“UK”). Consequently no key information document required by Regulation (EU) No. 1286/2014 (as amended) (the 
+PRIIPs Regulation) (and for UK, as it forms part of domestic law by virtue of the EUWA (the UK PRIIPs Regulation)) 
+for offering or selling the bonds or otherwise making them available to retail investors in the EEA and/or the UK has 
+been prepared and therefore offering or selling the bonds or otherwise making them available to any retail investor 
+in the EEA and/or the UK may be unlawful under the PRIIPs Regulation and/ or the UK PRIIPS Regulation. 
+MiFID II product governance and/or UK MiFIR product governance – The Final Terms in respect of any bonds 
+will include a legend titled “MiFID II product governance” and/or “UK MiFIR product governance” which will outline 
+the target market assessment in respect of the bonds and which channels for distribution of the bonds are 
+appropriate. Any person subsequently offering, selling or recommending the bonds (a “distributor”) should take into 
+consideration the target market assessment; however, a distributor subject to MiFID II is responsible for undertaking 
+its own target market assessment in respect of the bonds (by either adopting or refining the target market 
+assessment) and determining appropriate distribution channels. 
+This Base Prospectus is subject to the general business terms of the Joint Global Coordinators and the Joint Lead 
+Managers, available at their websites (www.dnb.no, www.nordea.no, www.paretosec.com and www.arctic.com.) 
+The Joint Global Coordinators and the Joint Lead Managers and/or any of its affiliated companies and/or officers, 
+directors and employees may be a market maker or hold a position in any instrument or related instrument discussed 
+in this Base Prospectus and may perform or seek to perform financial advisory or banking services related to such 
+instruments. The Joint Global Coordinators and the Joint Lead Managers’ corporate finance department may act 
+as manager or co-manager for this Company in private and/or public placement and/or resale not publicly available 
+or commonly known.   
+Copies of this Base Prospectus are not being mailed or otherwise distributed or sent in or into or made available in 
+the United States. Persons receiving this document (including custodians, nominees and trustees) must not 
+distribute or send such documents or any related documents in or into the United States. 
+Other than in compliance with applicable United States securities laws, no solicitations are being made or will be 
+made, directly or indirectly, in the United States. Securities will not be registered under the United States Securities 
+Act of 1933 and may not be offered or sold in the United States without registration or an applicable exemption from 
+registration requirements. 
+The distribution of the Base Prospectus may be limited by law also in other jurisdictions, for example in non-EEA 
+countries. Approval of the Base Prospectus by Finanstilsynet (the Norwegian FSA) implies that the Base Prospectus 
+may be used in any EEA country. No other measures have been taken to obtain authorisation to distribute the Base 
+Prospectus in any jurisdiction where such action is required. 
+The Base Prospectus dated 27 February 2023 together with a Final Terms and any supplements to these 
+documents constitute the Prospectus. 
+The content of this Base Prospectus does not constitute legal, financial or tax advice and potential investors should 
+seek legal, financial and/or tax advice. 
+Unless otherwise stated, this Base Prospectus is subject to Norwegian law. In the event of any dispute regarding 
+the Base Prospectus, Norwegian law will apply.
+
+--- Page 3 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+3
+TABLE OF CONTENTS: 
+DESCRIPTION OF THE BASE PROSPECTUS ..............................................................................4
+1 RISK FACTORS .................................................................................................................5
+2 DEFINITIONS ................................................................................................................. 13
+3 PERSONS RESPONSIBLE .................................................................................................. 15
+4 STATUTORY AUDITORS ................................................................................................... 16
+5 INFORMATION ABOUT THE ISSUER ................................................................................... 17
+6 BUSINESS OVERVIEW ..................................................................................................... 18
+7 TREND INFORMATION ..................................................................................................... 30
+8 ADMINISTRATIVE, MANAGEMENT AND SUPERVISORY BODIES ............................................. 31
+9 MAJOR SHAREHOLDERS .................................................................................................. 34
+THERE ARE NO ARRANGEMENTS, KNOWN TO THE ISSUER, THE OPERATION OF WHICH 
+MAY AT A SUBSEQUENT DATE RESULT IN A CHANGE IN CONTROL OF THE ISSUER. ....... 34
+TO THE EXTENT KNOWN TO THE ISSUER, THE ISSUER IS NOT DIRECTLY OR INDIRECTLY 
+OWNED OR CONTROLLED........................................................................................ 34
+10 FINANCIAL INFORMATION CONCERNING THE COMPANY'S ASSETS AND LIABILITIES, 
+FINANCIAL POSITION AND PROFITS AND LOSSES ...................................................... 35
+11 REGULATORY DISCLOSURES .......................................................................................... 36
+12 DOCUMENTS AVAILABLE ................................................................................................ 48
+13 FINANCIAL INSTRUMENTS THAT CAN BE ISSUED UNDER THE BASE PROSPECTUS ................ 49
+14 THIRD PARTY INFORMATION .......................................................................................... 59
+CROSS REFERENCE LIST .................................................................................................... 60
+JOINT GLOBAL COORDINATORS’ AND JOINT LEAD MANAGERS’ DISCLAIMER ............................ 61
+ANNEX 1 ARTICLES OF ASSOCIATION FOR B2HOLDING ASA .................................................. 62
+ANNEX 2 TEMPLATE FOR FINAL TERMS FOR FIXED AND FLOATING RATE BONDS ...................... 63
+
+--- Page 4 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+4
+Description of the Base Prospectus 
+Under this Base Prospectus (as supplemented and amended from time to time), the Issuer may from time to time 
+issue and list bonds (“Bonds”) denominated in any currency agreed between the Issuer and the relevant dealer.  
+The Bonds will be issued on a senior basis as secured or unsecured, with fixed or floating interest rate. The Bonds 
+may have put- and call options and they may be green or sustainability-linked. 
+The Bonds will be electronically registered in the Norwegian Central Securities Depository or any other CSD that 
+allows for bonds issued in uncertificated and dematerialised book-entry form. 
+There is no limit with regard to the maximum aggregate nominal amount of all bonds from time to time outstanding 
+under the prospectus. However, each issue of bonds will have either a given borrowing amount in the case where 
+there is only one tranche, or a given borrowing limit in the case of more than one tranche.     
+The Bonds may be issued on a continuing basis to any dealer that the Issuer decides upon.  
+The Base Prospectus has been approved by the Financial Supervisory Authority of Norway as competent authority 
+under Regulation (EU) 2017/1129, as amended (the “Prospectus Regulation”) as a base prospectus issued in 
+compliance with the Prospectus Regulation for the purpose of giving information regarding the bonds issued under 
+the prospectus. The Base Prospectus is valid within twelve months from the date of the Base Prospectus. 
+Information on website(s) mentioned in the Base Prospectus/the Final Terms does not form part of the Base 
+Prospectus/the Final Terms unless that information is incorporated by reference into the Base Prospectus/the Final 
+Terms.
+
+--- Page 5 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+5
+1 Risk factors  
+An investment in the Bonds involves risks. An investor should carefully consider the risks described below before 
+investing in the Bonds. If any of the events described below actually occurs, our business, results of operations, 
+financial condition or prospects could be materially adversely affected and, accordingly, the value and the trading 
+price of the Bonds may decline, resulting in a loss of all or part of any investment in the Bonds. Furthermore, the 
+risks and uncertainties described herein may not be the only ones that we face.  
+In each category below, the Issuer sets out the most material risks, in its assessment, taking into account the 
+negative impact of such risk on the Issuer and the probability of its occurrence. 
+1.1 Risk factors related to the Issuer 
+Risks related to the industry in which we operate 
+The value of our existing portfolios may deteriorate, or we may not be able to collect sufficient amounts on 
+our portfolios to take advantage of opportunities for portfolio purchases as they arise in the market. 
+As the length of time involved in collecting on our existing portfolios may be extensive and the factors affecting debt 
+collection rates may be volatile and outside of our control, we may be unable to identify economic trends or make 
+changes in our purchasing strategies in a timely manner. 
+Subsequently, it is uncertain that any of the claims in our portfolio of purchased loans and receivables will eventually 
+be collected. If the cash flows from our existing portfolios (and the debt portfolios we purchase in the future) are 
+less than anticipated, we may be unable to purchase all of the new portfolios that we would like to purchase, we 
+may have to pay a higher interest rate to finance the purchase of new portfolios or we may have to accept lower 
+returns, which could in turn have a material adverse effect on our business, results of operation and financial 
+condition. 
+We may not be able to purchase portfolios at appropriate prices or of sufficient quality. 
+If we are unable to identify sufficient levels of attractive portfolios and generate an appropriate return on purchased 
+loans and receivables, we may experience difficulties covering the expenses of our business operations and may, 
+as a consequence, have to reduce the number of our collection personnel or take other measures to reduce costs. 
+These developments could lead to disruptions in our operations, loss of efficiency, low employee loyalty, fewer 
+experienced employees and excess costs associated with unused space in our facilities. Any of these developments 
+may have a material adverse effect on our business, results of operation and financial condition. 
+We are exposed to risk relating to assumption of ownership of collateral provided under our secured debt 
+portfolios. 
+We may, in order to secure our claim, assume ownership of collateral provided under any secured debt. We cannot 
+foresee whether we will be able to divest such collateral in a manner and price that will result in collection of the 
+underlying debt. Further, we may incur costs, i.e., maintenance and insurance costs, and we may be exposed to 
+liability (such as insurance obligations and claims for damages) relating to collateral for which we have assumed 
+ownership. 
+Our purchasing patterns and the seasonality of our business may lead to volatility in our cash flow. 
+Our business depends on the ability to collect on our debt portfolios and purchase portfolios of debt. Debt collection 
+is affected by seasonal factors, including the number of workdays in a given month, the propensity of customers to 
+take holidays at particular times of the year and annual cycles in disposable income. The combination of seasonal 
+collections and costs and uneven purchases may result in low cash flow at a time when attractive debt portfolios 
+become available. It could occur that in the future we will not be able to obtain interim funding by making other 
+borrowings. A lack of cash flow could prevent us from purchasing otherwise desirable debt portfolios or prevent us 
+from meeting our obligations under any forward flow agreements we may enter into, either of which could have a 
+material adverse effect on our business, results of operation and financial condition. 
+Our collections may decrease and/or the timing on when we collect may be delayed if the number of 
+consumers becoming subject to personal insolvency procedures increases. 
+We recover on claims that may become subject to insolvency procedures under applicable laws and we also 
+purchase portfolios containing claims that are currently subject to insolvency proceedings. We are generally unable 
+to collect on portfolios under insolvency procedures involving the sale of a person's assets. As a result, our ability
+
+--- Page 6 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+6
+to successfully collect on portfolios may decline or the timing on when we collect on portfolios may be delayed with 
+an increase in personal insolvency procedures, which could have a material adverse effect on our business, results 
+of operation and financial condition. 
+We may purchase portfolios that contain accounts which are not eligible to be collected, and it may not 
+be possible firms to bring successful claims pursuant to purchase contracts or otherwise. 
+Some of the portfolios that we purchase may include some individual accounts which are not eligible to be collected, 
+often due to the inadequate quality and completeness, or total lack, of historical customer documentation needed 
+for servicers to collect on those accounts. If we purchase portfolios containing too many accounts that are not 
+eligible for collection and/or that are unenforceable and if we are unable to return those accounts to, or have 
+recourse against, the relevant debt sellers, servicers may not recover anticipated returns or anything at all from 
+such accounts, which could make such purchases unprofitable and consequently have a material adverse effect on 
+our business, results of operation and financial condition.
+A portion of the collections from debt portfolios depends on successful legal proceedings and such 
+proceedings may not always be successful. 
+Our future revenues will depend on the success of such legal proceedings and should any such proceedings or a 
+higher proportion of such proceedings in comparison to past experience fail to succeed, we may not obtain the 
+expected returns on our investments, which may have a material adverse effect on our business, results of operation 
+and financial condition. 
+Our operations in multiple jurisdictions expose us to local risks in a number of European jurisdictions. 
+We currently have local platforms, offices and/or portfolios in several European jurisdictions. We are subject to 
+applicable laws, regulations and licensing requirements of those jurisdictions, which differ between jurisdictions. 
+Any failure to comply with applicable legislation or regulation of the debt purchase and collections sector and the 
+broader consumer credit industry could result in the suspension, termination or impairment of our ability to conduct 
+business. This could in turn have a material adverse effect on our business, results of operation and financial 
+condition. 
+We rely on third parties to collect amounts under our credit portfolios. 
+We outsource certain collection and litigation activities on accounts in our credit portfolios to third party servicers, 
+debt collection agencies, law firms and other external agents. Any failure by third parties to adequately perform 
+services for us could materially reduce our cash flow, income and profitability or affect our reputation. Any 
+deterioration in or loss of any key relationships may have a material adverse effect on our business, results of 
+operation and financial condition. 
+Risks related to the organization and governance of the Issuer 
+The statistical models and analytical tools we use may prove to be inaccurate. 
+We have developed and use models to project the remaining cash flow generation from our credit portfolios and 
+assess alternative strategies for improving the collectability of the credit portfolios. At the time of purchase, however, 
+we have imperfect information about the precise age of the receivables, the ability of the customer to pay, the time 
+at which the customer will pay, and the cost required to service and collect such debt. In addition, our statistical 
+models and analytical tools assess information which to some extent is provided to us by third parties, such as 
+credit agencies and other mainstream or public sources, or generated by software products, which may be 
+inaccurate or become unavailable in the future. Consequently, it could happen that we will be unable to achieve the 
+recoveries forecasted by the models used to value the portfolios. If we are unable to achieve the forecasted levels 
+of collections, valuation impairments may be recognized, and revenue and returns on portfolio purchases may be 
+reduced. 
+Our decentralized organization exposes us to compliance risks and quality control risk at Group level.  
+We have operating entities with established organisational structures in several of the markets in which we are 
+currently conducting business. The head office in Norway is responsible for financing, administrative control and 
+business development at the Group level. Although we have established risk management and internal control 
+measures to ensure compliance and quality control throughout our organization, our decentralized organization and 
+dependence on local operations to implement our control measures and mitigate risks exposes us to increased 
+risks relating to non-compliance and quality control.
+
+--- Page 7 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+7
+We are exposed to significant reputational risk and are subject to codes of conduct. 
+Negative attention and news regarding the debt purchase and collection industry and individual debt purchasers or 
+collectors, including us, may have a negative impact on a debtor's willingness to pay a debt owed to us and may 
+diminish our attractiveness as a counterparty for debt sellers and other third parties. We are exposed to the risk 
+that negative publicity may arise from the activities of legislators, pressure groups and the media, on the basis of 
+real or perceived abusive collection practices for example, which may tarnish our reputation in the market. 
+Additionally, we are increasingly becoming subject to codes of conduct. If our business model or collection strategy 
+is unable to continue to adhere to these codes of conduct, this may result in a loss of opportunity for us. 
+Improper disclosure of our clients’ sensitive data, customer data or a breach of data protection laws could 
+negatively affect our business or reputation. 
+We collect, handle, process and retain large amounts of potentially sensitive or confidential information, such as 
+personal information of customers, including names and account numbers, locations, contact information and other 
+account specific data. Failure to comply with data protection and privacy obligations may result in financial penalties, 
+regulatory oversight, significant brand and reputational damage, legal action (class action or breach of contract) 
+and shareholder divestment. Consequently, a significant violation of data protection laws could have a material 
+adverse effect on our business, results of operation and financial condition. 
+Our risk management procedures may fail to identify or anticipate future risks. 
+We continually review our risk management policies and procedures, in particular related to know-your-
+customer/anti-money laundering rules and regulations, fair collection practices, and (internal) anti-corruption 
+practices.   
+A breach or a failure, or the perception that we have failed, to develop, implement, monitor and when necessary, 
+pre-emptively upgrade our risk management policies and procedures, in particular in relation to the above 
+mentioned topics, such as for example a KYC or AML breach, and in particular with regard to more sensitive/risk-
+prone business areas such as secured asset management and secured collections, could give rise to (severe) 
+reputational issues for us and may result in breaches of our contractual obligations, for which we may incur 
+substantial losses.  
+Risks that we fail to anticipate and/or adequately address could have a material adverse effect on our business, 
+results of operation and financial condition. 
+Our operations are highly dependent upon access to, and the functioning and integrity of, our core IT 
+applications, systems and infrastructure. 
+Our success depends in large part on our ability to record and process significant amounts of data quickly and 
+accurately to access, maintain and expand the databases we use for pricing and collection activities. We also use 
+our systems to identify large numbers of customers, store personal data of our customers, analyse and segment 
+accounts and monitor the results of collection efforts. These and other systems could be interrupted by events, 
+including telecommunications and network failures, power losses, physical or electronic security breaches, fraud, 
+identity theft, process failures, deficiencies or errors in internal processes and control routines, human errors, IT 
+systems failure, computer viruses, computer hacking attacks, malicious employee acts, terrorist attacks, natural 
+disasters or similar events.  
+Any material disruption to, or failure of, our data analytics systems, our collection systems and platform, or the 
+systems of our third-party providers or the systems of the banking and other sectors that are integral to our business, 
+especially if it also impacts our backup or disaster recovery systems, would disrupt our operations materially, and 
+prevent us from correctly performing portfolio valuations and portfolio pricing, or partially or completely impair our 
+ability to collect on portfolios, and subsequently adversely affect our business.  
+Any security or privacy breach of our systems could expose us to personal data/GDPR liability and regulatory 
+scrutiny, increase expenses relating to the resolution of these breaches and potential fines, and harm our reputation. 
+Deficiencies or errors in internal processes and control routines, human errors, IT systems failure or external events 
+that affect operations may occur. This could result in a material adverse effect on our business, affect results of 
+operations, impair the correct valuation of our backbook, and therefore the financial condition of the Company its 
+ability to make payments due under the Bonds. 
+Furthermore, we may be unsuccessful in anticipating, managing or adopting technological changes within the debt 
+purchase and collection industry on a timely basis, which could reduce profitability or disrupt operations and harm 
+our business.
+
+--- Page 8 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+8
+Our senior management team members and key employees are important to our continued success and 
+the loss of one or more members of our senior management team or one or more of our key employees 
+could have a material adverse effect on our business. 
+Our core business of collecting on secured and unsecured portfolios is to a large extent dependent on highly 
+qualified and skilled personnel and management, and our continued ability to compete effectively and implement 
+our strategy depends on our ability to attract new and well qualified employees and retain and motivate existing 
+employees. Due to the specificity of the collection business, in particular with regard to secured collections, training 
+personnel is quite time and resource intensive. Combined with the relatively limited market and pool of (qualified) 
+staff, any loss of key employees, particularly to competitors, or the inability to attract and retain highly skilled 
+personnel could have a material adverse effect on our collections, , the results of operation and overall financial 
+condition. 
+Risks related to our Financial Profile 
+Any inability to comply with the terms of our existing debt and to refinance any existing debt as it comes 
+due and payable or an increase in interest rate levels may have a negative effect on our financial condition. 
+We are subject to certain restrictive covenants under our debt arrangements, which may limit our ability to engage 
+in other transactions or otherwise place us at a competitive disadvantage to our competitors that have less debt. If 
+we are not able to refinance existing debt we might have to sell asset to high discount to repay the maturing debt. 
+In addition, non-compliance with the terms of our debt arrangements could have a negative effect on our business. 
+Further, certain of our debt arrangements are subject to floating interest rates and our finance cost will accordingly 
+be affected by an increase in interest rate levels. Any of these developments could have a material adverse effect 
+on our business, financial condition and results of operation. 
+We are exposed to interest rate risk. 
+Fluctuations in market interest rates may affect our financial performance. A substantial portion of our indebtedness 
+will bear interest at per annum rates equal to applicable EURIBOR, adjusted periodically, plus a spread. These 
+interest rates could rise significantly in the future, thereby increasing our interest expenses associated with these 
+obligations, reducing cash flow available for capital expenditures and hindering the Company's ability to make 
+payments on the Bonds. 
+We employ hedging strategies such as interest rate swaps and interest rate caps which enable us to monitor or 
+reduce our interest rate risk exposure. I may occur that we would be unable to successfully hedge all of our interest 
+rate risk or be able to maintain our current hedging policy in the future on commercially acceptable terms. 
+We are subject to covenants under our financing arrangements that limit our operating and financial 
+flexibility. 
+Our financing agreements contain or will contain certain covenants which, subject to certain exceptions and 
+qualifications, impose significant restrictions on the way we can operate. In addition, we will be subject to the 
+affirmative and negative covenants contained in the respective agreements. Such arrangements require us to 
+maintain specified financial ratios under certain circumstances. Our ability to meet these financial ratios can be 
+affected by events beyond our control, and we cannot assure you that we will meet them. A breach of any of those 
+covenants, ratios or restrictions could result in an event of default under any of such agreements. Any default under 
+any of such agreements could lead to an event of default and acceleration under other debt instruments that contain 
+cross default or cross-acceleration provisions. Even if we carefully monitor the key financial indicators and ratios, 
+we may not be able to comply with financial covenants in the future. Failure to do so may have a material adverse 
+effect on our business, results of operation and financial condition. 
+We may not be able to procure sufficient funding to purchase further debt portfolios as they become 
+available on acceptable terms. 
+Our business depends on our ability to purchase portfolios of defaulted debt. Historically, we have funded such 
+purchases through equity capital, borrowings and cash generated by our operations. Our ability to obtain funding in 
+the future will depend on our performance and our prospects, as well as factors over which we do not exercise 
+control. Such factors may include weak economic and capital market conditions during or prior to periods in which 
+attractive debt portfolios are available for purchase, the ability and willingness of banks or other financial institutions 
+to lend to our industry generally or to us in particular, and changes in fiscal, monetary and other government policies, 
+among others. 
+If, in the longer term, we do not have sufficient headroom in our existing funding, we may be unable to raise funds 
+on acceptable terms for debt portfolio purchases or on a timely basis, which may limit our ability to take advantage 
+of opportunities for loan portfolio purchases arising in the market. If, in the longer term, we are unable to borrow,
+
+--- Page 9 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+9
+generate or otherwise obtain sufficient funds to purchase debt portfolios on attractive terms, or at all, when 
+opportunities arise. 
+We are a holding company and are dependent upon cash flow from our subsidiaries to meet obligations, in 
+general and under the Bonds. 
+We currently conduct our operations through, and most of our assets are owned by, our subsidiaries. As such, the 
+cash that we obtain from our subsidiaries is the principal source of funds necessary to meet our obligations. 
+Contractual provisions or laws, including laws or regulations related to the repatriation of foreign earnings, corporate 
+benefit and financial assistance, as well as its subsidiaries' financial condition, operating requirements, restrictive 
+covenants in debt arrangements and debt requirements, may limit the our ability to obtain cash from our 
+subsidiaries. 
+The inability of our subsidiaries to transfer cash to us may mean that, even though we may have sufficient resources 
+on a consolidated basis to meet our obligations under debt agreements, we may not be able to meet such 
+obligations. A payment default by us, or any of our subsidiaries, on any debt instrument may have a material adverse 
+effect on our business, results of operation and financial condition. 
+Our substantial leverage and debt service obligations could adversely affect our business and prevent us 
+from fulfilling our obligations with respect to the Bonds. 
+We have a significant amount of outstanding debt with substantial debt service requirements. In addition, we may 
+incur substantial additional debt in the future. We may not be able to generate sufficient cash flow from operations 
+or obtain enough capital to service our debt or to fund our future acquisitions or other working capital 
+expenditures. 
+We will require a significant amount of cash to meet our obligations under our indebtedness, a substantial 
+amount of which will mature prior to the Bonds, and to sustain our operations, which we may not be able 
+to generate or raise. 
+Our ability to make principal or interest payments when due on our indebtedness, a substantial amount of which 
+will mature prior to the Bonds, and to fund our ongoing operations, will depend on our future performance and our 
+ability to generate cash, which is subject to general economic, financial, competitive, legislative, legal, regulatory 
+and other factors discussed in these "Risk Factors," many of which are beyond our control. 
+We are exposed to the risk of currency fluctuations. 
+We are exposed to both translation and transaction risk. Furthermore, in each of the jurisdictions in which we are 
+present, all revenues and the majority of the expenses are in local currency. To the extent that foreign exchange 
+rate exposures are not hedged, any significant movements in the relevant exchange rates may have a material 
+adverse effect on our business, results of operation and financial condition. 
+Our hedging agreements may expose us to credit default risks and potential losses if our hedging 
+counterparties fall into bankruptcy. 
+We are party to interest rate swaps, interest rate caps and other derivative financial instruments and we may enter 
+into additional hedging agreements to hedge our exposure to fluctuations in currency or interest rates. Under any 
+such agreements, we are exposed to credit risks of our counterparties. If one or more of our counterparties falls 
+into bankruptcy, claims we have under the swap agreements or other hedging arrangements may become 
+worthless. In addition, in the event that we refinance our debt or otherwise terminate hedging agreements, we may 
+be required to make termination payments, which would result in a loss.
+
+--- Page 10 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+10
+1.2 Risk factors related to the Bonds 
+The Company is a holding company and is dependent upon cash flow from its subsidiaries to meet its 
+obligations, in general and under the Bonds. 
+The Company currently conducts its operations through, and most of its assets are owned by, its subsidiaries. As 
+such, the cash that the Company obtains from its subsidiaries is the principal source of funds necessary to meet its 
+obligations. Contractual provisions or laws, including laws or regulations related to the repatriation of foreign 
+earnings, corporate benefit and financial assistance, as well as its subsidiaries' financial condition, operating 
+requirements, restrictive covenants in their debt arrangements and debt requirements, may limit the Company's 
+ability to obtain cash from its subsidiaries that they require to pay their expenses or meet their current or future debt 
+service obligations. 
+The inability of the Company's subsidiaries to transfer cash to the Company may mean that, even though the 
+Company may have sufficient resources on a consolidated basis to meet its obligations under its debt agreements, 
+it may not be able to meet such obligations. A payment default by the Company, or any of its subsidiaries, on any 
+debt instrument may have a material adverse effect on our business, results of operation and financial condition. 
+Your right to receive payments under the Bonds will be effectively subordinated to claims of our existing 
+and future secured creditors. 
+Initially, the Bonds will not be secured by any of our assets. As a result, the indebtedness represented by the Bonds 
+will be effectively subordinated to any existing and future secured indebtedness we may incur and certain hedging 
+obligations to the extent of the value of the assets securing such indebtedness. Accordingly, in the event of a 
+bankruptcy, insolvency, liquidation, dissolution, reorganization or similar proceeding affecting the Company, your 
+rights to receive payment will be effectively subordinated to those of secured creditors up to the value of the 
+collateral securing such indebtedness. Holders of the Bonds will participate with all holders of our unsecured 
+indebtedness that is deemed to be of the same class as the Bonds, and potentially with all of our other general 
+creditors, based on the respective amounts owed to each holder or creditor, in our remaining assets. 
+In addition, if secured lenders were to declare a default with respect to their loans and enforce their rights with 
+respect to their collateral, our remaining assets might not be sufficient to satisfy our other obligations, including our 
+obligations with respect to the Bonds. In any of the foregoing events, there could be insufficient assets to pay 
+amounts due on the Bonds.  
+The Bonds will be structurally subordinated to the liabilities and preference shares (if any) of our 
+subsidiaries that do not guarantee the Bonds. 
+Initially, none of our subsidiaries will guarantee or have any obligations to pay amounts due under the Bonds or to 
+make funds available for that purpose. Generally, claims of creditors of a subsidiary, certain hedge providers, trade 
+creditors, and claims of preference shareholders (if any) of the subsidiary, will have priority with respect to the 
+assets and earnings of the subsidiary over the claims of creditors of its parent entity, including by holders of the 
+Bonds. In the event of any foreclosure, dissolution, winding-up, liquidation, reorganization, administration or other 
+bankruptcy or insolvency proceeding of any of our subsidiaries, holders of their indebtedness and their trade 
+creditors will generally be entitled to payment of their claims from the assets of those subsidiaries before any assets 
+are made available for distribution to its parent entity. Our creditors (including the holders of the Bonds) will have 
+no right to proceed against the assets of such subsidiary. As such, the Bonds will be structurally subordinated to 
+the creditors (including trade creditors) and preference shareholders (if any) of our subsidiaries. 
+The Bond Terms will provide that the Bond Trustee may accept any guarantee and/or security offered to the 
+bondholders in accordance with the exception from the applicable financial support restrictions, on substantially the 
+same terms as any guarantee granted as security for financial indebtedness with maturity date after the final 
+maturity date of the Bonds. However, there is no obligation on the Company to grant or procure any guarantees as 
+security for the obligations under the Bonds, and as a result, you should not rely on such potential guarantees as a 
+basis of your investment decision. 
+We may not be able to finance a put option redemption. 
+The Bond Agreement will require us to make an offer to repurchase the Bonds at % of their aggregate principal 
+amount if we experience certain change of control events or a de-listing event (a bondholder put option). Our failure 
+to effect a put option when required would constitute an event of default under the Bond Agreement. In addition, 
+our ability to repurchase the Bonds as may be required by the Bond Agreement will depend on our access to funds 
+at such time, and we may not be able to secure access to enough cash to finance the repurchase. Upon a change 
+of control event or a de-listing event, we may be required to mandatorily prepay the outstanding loans under the
+
+--- Page 11 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+11
+Revolving Credit Facility Agreement. It cannot be guaranteed that there will be sufficient funds available upon a 
+change of control or a de-listing event to make these repayments and repurchases of tendered Bonds. 
+Risk of being unable to pay interest and principal on its indebtedness, including the Bonds 
+During the lifetime of the Bonds, the Company is required to make scheduled interest payments on the Bonds. The 
+Company's ability to generate cash flow from operations and to make scheduled payments on and to repay its 
+indebtedness, including the Bonds, will depend on the future financial performance of the Group. If the Group is 
+unable to service its indebtedness, it will be forced to adopt an alternative strategy that may include actions such 
+as reducing or delaying capital expenditures, selling assets, restructuring or refinancing indebtedness or seeking 
+equity capital. The Group cannot assure investors that any of these alternative strategies could be achieved on 
+satisfactory terms, if at all, or that they would yield sufficient funds to make required payments on or to repay the 
+Bonds and the Group's other indebtedness. 
+The interests of our shareholders may not be aligned with the interests of the holders of the Bonds. 
+The interests of our shareholders could conflict with the interests of the holders of the Bonds, particularly if we 
+encounter financial difficulties or are unable to pay our debts when due. Our principal shareholders could also have 
+an interest in pursuing acquisitions, divestitures, financings, dividend distributions or other transactions that, in their 
+judgment, could benefit their equity investments, although such transactions might involve risks to the holders of 
+the Bonds. Finally, our direct and indirect shareholders may have strategic objectives or business interests that 
+could conflict with our own strategies or interests. 
+The Bonds may be subject to optional redemption by the Company, which may have a material adverse 
+effect on the value of the Bonds.  
+The terms and conditions of the Bond Agreement will provide that the Bonds shall be subject to optional redemption 
+by the Company at their outstanding principal amount, plus accrued and unpaid interest to the date of redemption, 
+plus a premium calculated in accordance with the terms and conditions of the Bond Agreement. This is likely to limit 
+the market value of the Bonds. It may not be possible for bondholders to reinvest proceeds at an effective interest 
+rate as high as the interest rate on the Bonds. 
+Credit ratings may not reflect all risks, are not recommendations to buy or hold securities and may be 
+subject to revision, suspension or withdrawal at any time. 
+One or more independent credit rating agencies may assign credit ratings to the Bonds. The ratings may not reflect 
+the potential impact of all risks related to the structure, market, additional risk factors discussed herein and other 
+factors that may affect the value of the Bonds. A credit rating is not a recommendation to buy, sell or hold securities 
+and may be subject to revision, suspension or withdrawal by the rating agency at any time. Since these are not 
+inflexible, a credit rating could change over any given period of time or a credit rating could be lowered or withdrawn 
+entirely by the credit rating agency if, in its judgment, circumstances in the future so warrant. A suspension, 
+reduction or withdrawal at any time of the credit rating assigned to the Bonds by one or more of the credit rating 
+agencies may adversely affect our access to capital, the cost and terms and conditions of our financings and the 
+value 
+An active trading market may not develop for the Bonds, in which case you may not be able to resell the 
+Bonds. 
+There is no existing trading market for the Bonds and we cannot assure you that an active or liquid trading market 
+will develop for the Bonds. No market-making agreement has been made for the Bonds. We will apply for listing of 
+the Bonds on Oslo Børs or another reputable stock exchange. Future liquidity will depend, among other things, on 
+the number of holders of the Bonds, our financial performance, the market for similar securities and the interest of 
+securities dealers in making a market in the Bonds. In addition, changes in the overall market for high yield securities 
+and changes in our financial performance or in the markets where we operate may adversely affect the liquidity of 
+the trading market in the Bonds and the market price quoted for the Bonds. As a result, we cannot assure you that 
+an active trading market will actually develop for the Bonds. Historically, the markets for non-investment grade debt 
+such as the Bonds have been subject to disruptions that have caused substantial volatility in their prices. The 
+market, if any, for the Bonds may be subject to similar disruptions. Any disruptions may have an adverse effect on 
+the holders of the Bonds. 
+Transfer of the Bonds will be restricted, which may adversely affect the value of the Bonds. 
+Because the Bonds have not been, and are not required to be, registered under the U.S. Securities Act or with any 
+securities regulatory authority of any state or other jurisdiction of the United States, they may not be offered or sold 
+except pursuant to an exemption from, or in a transaction not subject to, the registration requirements of the U.S. 
+Securities Act and all other applicable laws. These restrictions may limit your ability to resell the Bonds. It is your
+
+--- Page 12 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+12
+obligation to ensure that your offers and sales of the Bonds within the United States and other countries comply 
+with applicable securities laws. 
+The terms and conditions of the Bond Agreement will allow for modification of the Bonds or waivers or 
+authorizations of breaches and substitution of the Company which, in certain circumstances, may be 
+affected without the consent of bondholders. 
+The Bond Agreement will contain provisions for calling meetings of bondholders. These provisions permit defined 
+majorities to make decisions affecting and binding all bondholders. The Bond Trustee may, without the consent of 
+the bondholders, agree to certain modifications of the Bond Agreement and other finance documents which, in the 
+opinion of the Bond Trustee, are proper to make.
+
+--- Page 13 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+13
+2 Definitions 
+Annual Report 2021 
+B2Holding ASA's financial report of 2021 
+Q2 Report 2022 
+B2Holding ASA's financial half-yearly report of 2022 
+Q3 Report 2022 
+B2Holding ASA's Third quarter report of 2022 
+Q4 Report 2022 
+B2Holding ASA's Fourth quarter report of 2022 
+Articles of Association 
+The articles of association of B2Holding ASA, as amended and currently in 
+effect 
+Base Prospectus 
+This document dated 27 February 2023. 
+The Base Prospectus has been approved by the Norwegian FSA, as 
+competent authority under Regulation (EU) 2017/1129. The Norwegian FSA 
+only approves this Base Prospectus as meeting the standards of 
+completeness, comprehensibility and consistency imposed by Regulation 
+(EU) 2017/1129. Such approval should not be considered as an 
+endorsement of the Issuer that is the subject of this Base Prospectus. The 
+Base Prospectus has been drawn up as part of a simplified prospectus in 
+accordance with Article 14 of Regulation (EU) 2017/1129. 
+Board or  
+Board of Directors 
+The board of directors of B2Holding ASA 
+Bonds 
+The Bonds means the debt instruments issued by the Issuer. 
+Companies Registry 
+The Norwegian Registry of Business Enterprises (Foretaksregisteret) 
+Company/Issuer/B2Holding 
+B2Holding ASA the parent company of the Group 
+ECB 
+European Central Bank 
+EEA 
+European Economic Area 
+ERC 
+Estimated Remaining Collection - the gross cash amount estimated to be      
+collected 
+ESG 
+Environmental Social and Governance 
+EU 
+The European Union  
+Final Terms 
+Document to be prepared for each new issue of bonds under the 
+Prospectus. The template for Final Terms is included in the Base 
+Prospectus as Annex 2. 
+The template for Final Terms has been approved by the Norwegian FSA, 
+as competent authority under Regulation (EU) 2017/1129. The Norwegian 
+FSA only approves this template for Final Terms as meeting the standards 
+of completeness, comprehensibility and consistency imposed by 
+Regulation (EU) 2017/1129. Such approval should not be considered as an 
+endorsement of the quality of the securities that are the subject of this 
+template for Final Terms. Investors should make their own assessment as 
+to the suitability of investing in the securities. 
+FTE 
+Full-Time Equivalent 
+FX 
+Forex (global electronic marketplace for trading international currencies)  
+Group 
+The Issuer and its subsidiaries from time to time 
+IFRS 
+International Financial Reporting Standards 
+Joint Global Coordinators: 
+DNB Markets, a part of DNB Bank ASA, Dronning Eufemias gate 30, 0191 
+Oslo, Norway,
+
+--- Page 14 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+14
+Nordea Bank Abp, filial I Norge, P.O. Box 1166 Sentrum, NO-0107 Oslo, 
+Norway and  
+Pareto Securities AS, Dronning Mauds gate 3, P.O. Box 1411 Vika, 0115  
+Oslo Norway. 
+Joint Lead Managers: 
+Arctic Securities AS, Haakon VIIs gate 5, 0161 Oslo Norway, 
+DNB Markets, a part of DNB Bank ASA, Dronning Eufemias gate 30, 0191 
+Oslo, Norway, 
+Nordea Bank Abp, filial I Norge, P.O. Box 1166 Sentrum, NO-0107 Oslo, 
+Norway and  
+Pareto Securities AS, Dronning Mauds gate 3, P.O. Box 1411 Vika, 0115  
+Oslo Norway. 
+NOK 
+Norwegian kroner 
+NPL 
+Non-performing loan 
+REO 
+Real Estate Owned assets 
+SDG 
+Sustainable Development Goals 
+VPS or VPS System 
+The Norwegian Central Securities Depository, Verdipapirsentralen ASA 
+We, us, our and the Group 
+     and other similar terms refer, unless the context otherwise requires, to the  
+     Company and its consolidated subsidiaries.
+
+--- Page 15 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+15
+3 Persons responsible  
+3.1 Persons responsible for the information 
+Persons responsible for the information given in the Base Prospectus are as follows: 
+B2Holding ASA, Cort Adelers gate 30, 0254 Oslo, Norway. 
+3.2 Declaration by persons responsible 
+B2Holding ASA confirms that to the best of its knowledge, the information contained in the Base Prospectus is in 
+accordance with the facts and that the Base Prospectus makes no omission likely to affect its import.    
+Oslo, 27 February 2023 
+B2Holding ASA 
+__________________________ 
+Erik Just Johnsen 
+CEO 
+3.3 Competent Authority Approval 
+The Base Prospectus has been approved by the Norwegian FSA, as competent authority under Regulation (EU) 
+2017/1129. The Norwegian FSA only approves this Base Prospectus as meeting the standards of completeness, 
+comprehensibility and consistency imposed by Regulation (EU) 2017/1129. Such approval should not be 
+considered as an endorsement of the Issuer that is the subject of this Base Prospectus. Such approval should not 
+be considered as an endorsement of the quality of the securities that are the subject of the template for Final Terms. 
+Investors should make their own assessment as to the suitability of investing in the securities.
+
+--- Page 16 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+16
+4 Statutory Auditors   
+4.1 Names and addresses 
+Ernst & Young AS, independent State Authorised Public Accountants, Dronning Eufemias gate 6, 0191 Oslo has 
+been the Issuer's auditor since December 2014. Phone number +47 24 00 24 00. 
+State Authorised Public Accountant Kjetil Rimstad has been liable for the Auditor's report for 2021.  
+Ernst & Young AS is member of the Norwegian Institute of Public Accountants.
+
+--- Page 17 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+17
+5 Information about the Issuer 
+5.1 Legal and commercial name of the Issuer 
+The legal name of the Issuer is B2Holding ASA and the commercial name is B2Holding. 
+5.1.2 Place of registration and registration number  
+The Company is registered in the Norwegian Companies Registry with registration number 992 249 986. 
+5.2 Domicile and legal form 
+The Company is a public limited liability company incorporated in Norway and operating under Norwegian law 
+including the Companies Act. LEI-code (legal entity identifier): 5967007LIEEXZXFHOO08.  
+The Company's registered business address and postal address is Cort Adelers gate 30, 0254 Oslo, Norway.  
+The Company’s telephone number is +47 22 83 39 50. 
+Website: https://www.b2holding.no
+
+Disclaimer:
+The information on the website does not form part of the prospectus unless that information is incorporated by reference into 
+the prospectus.
+
+--- Page 18 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+18
+6 Business overview 
+6.1 Introduction 
+A professional and reliable debt specialist 
+B2Holding is a pan-European debt investor and servicer. Our vision is to become the trusted partner that actively re-
+shapes the credit management industry.  
+Through our business solutions we contribute to handling society’s debt problems, bridging the gap that defaulted debt 
+represents in the credit chain. Our business is about people and creating shared value for business and society. Being a 
+socially responsible creditor and a trusted solution provider for our partners are fundamental in our way of doing business.
+Source: Company information 
+BUSINESS LINES 
+The Group’s main business lines are Unsecured and Secured Asset Management. The markets are allocated according 
+to their dominant ERC asset class and expected market potential.  
+Unsecured markets: 
+Norway, Sweden, Denmark, Finland, Estonia, Latvia, Lithuania, Poland, Spain, Bulgaria, Czech Republic, Hungary. 
+Secured markets: 
+Italy, France, Romania, Greece, Cyprus, Slovenia, Croatia, Serbia, Bosnia and Herzegovina, Montenegro.
+
+--- Page 19 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+19
+Source: Company information 
+6.2 B2Holding’s Industry and Services
+6.2.1 B2Holding’s Industry 
+In an advanced credit market, specialised expertise in following up defaulted loan agreements is essential. 
+B2Holding specialises in purchasing and collecting non-performing and performing consumer debts.  
+Banks and other creditors are increasingly aware that this is not part of their core business, and therefore choose 
+professional business partners. Throughout Europe debt purchasers act as an integrated part of banks' outsourcing 
+model, and the debt purchasing industry has become an important part of the finance sector. 
+This trend provides greater efficiency in the economy. Banks that sell such portfolios, achieve better liquidity and 
+risk management, putting them in a better position to distribute new capital and fulfil their true role. 
+Those of the banks' customers with payment problems will at the same time get a new opportunity to pay back their 
+debt. While banks must largely treat all their loan customers the same, our industry can show flexibility and go far 
+to help debtors who are willing to discuss solutions. However, effective systems have been established to recover 
+debt through legal action when necessary. 
+Following the financial crisis, banks were subject to new and stricter requirements for capital adequacy. This has 
+led to an increasing need for banks to get non-performing loans (NPLs) off their balance sheet. Increasing
+
+--- Page 20 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+20
+regulations and shortage of capital among banks are main drivers for the debt purchasing industry throughout 
+Europe. 
+Source: Company information 
+6.2.2 B2Holding’s Services 
+Debt purchase 
+At B2Holding we have built strong relationships with financial institutions and other large corporate vendors.  
+The number of completed transactions of non-performing loans (NPLs), as well as the scale of the Group's 
+operations, guarantee an efficient and professional handling. We have the necessary know-how to conduct the 
+entire process of purchasing debt portfolios. 
+Our long-term experience of NPL portfolio pricing provides an efficient and reliable pricing for any industry, resulting 
+in a realistic market value of the portfolios. 
+Debt collection 
+B2Holding offers tailored collection strategies for the follow-up of unsettled claims.  
+We help debtors back on track and provide optimal collections through amicable solutions or legal processes.
+
+--- Page 21 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+21
+B2Holding presents a flexible approach to the restructuring of debts. Such an approach is often of considerable 
+benefit to a debtor, whose goal, despite temporary problems, is to restore his/her financial credibility and status as 
+a reliable consumer.  
+In our communication with the debtor, we will focus on understanding and co-operation, rather than denying that a 
+debt problem exists. 
+B2Holding has two main collection strategies: 
+
+Amicable collection 
+For debtors who are willing to co-operate and are ready for negotiations and settlement.  
+
+Legal collection 
+For debtors with fixed income (salary, pension) who are unreachable and thus prevent the repayment of 
+their debt through an amicable negotiation and settlement process. 
+A strategy of actions depends on the nature of the debt and an individual analysis of the debtor's financial capability. 
+B2Holding offers a wide scope of debt collection methods. Regardless of method, the most important principles are 
+compliance with ethical and moral standards, protection of our partners' and vendors' reputation, and respect of 
+debtor rights. 
+Credit information 
+B2Holding offers credit information as a service through Credit reform in Latvia.  
+Credit reform is the leading player within credit information in Latvia and has a large data base of credit information 
+where credit reports are prepared and sold to customers. 
+Third party debt collection 
+Third party debt collection is offered as a service in the Baltics, Finland, Norway and Sweden.  
+As opposed to debt purchasing, third party debt collection is collection of debt on behalf of customers. In some of 
+the markets where B2Holding operates, we carry out third party debt collection and purchase debt from the same 
+customers. 
+Consumer lending 
+B2Holding offers consumer lending in Poland.  
+As of today, B2Holding has one consumer lending companies, Takto Finans in Poland.  
+6.3 The nature of the business and its operations 
+B2Holding ASA (“the Company”) is a Nordic-based debt solutions provider with a vison to be a trusted partner that 
+actively re-shapes the credit management industry. The Company is the parent company of the B2Holding 
+consolidated group of companies (together “the Group” or “B2Holding”) and since incorporation in 2011, the Group 
+has grown to become a pan-European debt solutions provider. The Group aims to maintain its position in the 
+European non-performing loan (“NPL”) markets.
+The Group’s mission is to contribute towards addressing society’s debt problems and to bridge the gap that 
+defaulted debt represents in the credit chain, in short “bridging the gap”. The Group’s core values are Agility, 
+Integrity, Diversity, Excellence and Responsibility and these values reflect the Group’s culture and guide the 
+behavior and actions of all its employees.  
+The Group provides debt solutions for customers (referred to as debtors) both within unsecured and secured debt, 
+ranging from consumer credits, residential credits, credits to small and medium-sized enterprise (“SMEs”), as well 
+as to corporate customers. In addition, the Group provides services for third-party debt collection, credit information 
+and project management as a full-service provider of debt management and servicing for co-investors and financial 
+partners and NPL vendors. 
+The strategy set out in the business plan from 2020 remained unchanged in 2021. The main pillars continue to  
+be profitable growth through focused investments in core markets and strengthening the Group’s servicing 
+capabilities through a focus on efficiency over footprint. During 2020 and 2021 the Group has responded to the 
+Covid-19 pandemic (hereafter referred to as “Covid-19” or “the pandemic”) by strict price discipline and a cautious 
+approach to investment. Growth has thus slowed the past two years but will once again be a focus for the Groups 
+strategy going forward. Operational efficiency is a prerequisite for sustainable platforms and is strived for through 
+adopting digital transformation processes and leverage on scale.
+
+--- Page 22 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+22
+B2Holding is undertaking a 5-year digital business program powered by data, analytics and technology with the  
+aim of transforming the Group into an analytical player in the debt industry. This program is already showing early 
+signs of increased business value. The program is expected to continue to drive growth in collections and improve 
+operational efficiency and effectiveness through pioneering machine learning and artificial intelligence techniques, 
+intelligent automation at scale and cutting-edge technology. Related costs are expensed for. 
+The Group strategy and goals are assessed and evaluated annually. This strategy aims to transform the Group 
+towards a more cost-efficient model and leverage the Group’s servicing capabilities by increasing assets under 
+management. The Group is structured with a clear distinction between asset classes and increased operational 
+focus. Further, in 2021 it has established functions and senior positions within risk management, compliance, and 
+internal control. 
+2021 was the second year of the Covid-19 pandemic with various mutations and steps and the Group continued  
+to observe a significantly changed macroeconomic environment characterized by a lot of uncertainty. 
+Ethical and responsible collections have always driven the Group’s business, but especially in such challenging 
+times. B2Holding acknowledges its social responsibility and closely monitors its operations to ensure that the Group 
+demonstrates required sensibility towards those customers that are most vulnerable. 
+With access to the many NPL markets in Europe, the Group focuses its investments in markets with growth potential 
+that are of strategic importance. During 2021, the Group has maintained a price disciplined and opportunistic 
+investment approach consistent with the Group’s response to the uncertainty caused by the pandemic.  
+Forward flow contracts were renegotiated in 2020 and this positively affected the returns and the performance in 
+2021. 74 % of the portfolio investments in 2021 were in Northern Europe and Poland, both being regions that were 
+only moderately impacted by the pandemic.  
+Towards the end of the year 2021, the Group observed increased activity in the European NPL markets and a 
+greater supply of portfolios. Throughout 2021 the Group has maintained a prudent approach to investments and 
+continues to see a positive development in expected returns for new portfolio investments. 
+The Group works actively with partners on solutions to optimize overall asset risk exposure, to expand the Group’s  
+total investment capacity, and to enhance servicing capacity and scalability. 
+6.3.1 Operations in Q4 2022 
+Investment activity picked up and both Cash collections and Cash EBITDA (please see Annual Report 2021 
+pages 159-160 and Q4 Report 2022 pages 20-23 for information about Alternative performance measures – 
+reconciliation and definitions) were very strong in Q4 2022 due to high values of asset sales and cash received 
+from JVs.
+Source: Company information
+
+--- Page 23 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+23
+Higher investment activity and a targeted investment approach in Q4 allowed for portfolio purchases of NOK 769m 
+with an additional NOK 435m signed late in December. In total the purchased portfolios added ERC of NOK 2.8bn. 
+The Group will continue to maintain a disciplined and selective approach to portfolio investments going forward and 
+expects the levels of returns to gradually improve during 2023. 
+COLLECTIONS, RECOVERIES, REPOSSESSION AND SERVICING 
+Unsecured portfolios 
+Q4 2022 Gross collections were NOK 885m and 101.4% of the latest forecast compared with NOK 853m in Q4 
+2021. In addition, the JVs in unsecured contributed cash of NOK 20m in Q4 compared with NOK 21m in 2021 Q4. 
+In line with previous years, collection performance in Q4 was slightly lower than Q3. As commented in previous 
+reports, the Group has not seen any noticeable impact on its collections as a result of uncertainties due to the war 
+in Ukraine and inflation. 
+B2Holding continued to focus on economies of scale, exchange of best practices between the markets and  
+development of data and analytics. The Group remains committed to investing in optimization of collection  
+strategies, development of digital client interfaces and improvement of processes. This strategy is expected to  
+improve efficiency and effectiveness of unsecured collections going forward. 
+Corporate & Secured Asset Management (CSAM)  
+Cash collections from secured assets were NOK 385m in Q4 2022 compared with NOK 240m in Q4 2021. The 
+significant increase versus Q4 2021 was driven by REO sales of NOK 173m in Q4 2022 compared with NOK 24m 
+last year, as well as by lower repossessions in Q4 2022 of NOK 81m compared with NOK 126m in Q4 2021. In 
+addition, the JVs in secured contributed cash of NOK 168m compared with NOK 22m in Q4 2021. 
+The book value of REOs sold in Q4 2022 was NOK 129m giving a 33% margin for the quarter. Full year 2022 REO  
+sales were NOK 581m on book values of NOK 392m and a margin of 48%. The value of repossessed assets 
+increased from NOK 1,284m at the end of 2021 to NOK 1,294m at the end of Q4 2022. 
+6.4 Geographical Segments 
+An operating segment is a part of the Group that generates income and incurs expenses, and for which separate 
+financial information is available that is evaluated regularly by the chief operating decision maker, the Chief 
+Executive Officer, in deciding how to assess performance and allocate resources to the operating segment. 
+The Group’s operating segments are the geographical regions: 
+ 
+Northern Europe (NE) 
+ 
+Norway, Sweden, Denmark, Finland, Estonia, Latvia and Lithuania 
+ 
+Poland 
+ 
+Central Europe (CE) 
+ 
+Croatia, Slovenia, Serbia, Montenegro, Bosnia and Herzegovina, Austria, Czech Republic, and Hungary 
+ 
+Western Europe (WE) 
+ 
+Spain, Italy and France 
+ 
+South Eastern Europe (SEE) 
+ 
+Bulgaria, Romania, Greece and Cyprus 
+ 
+Central Functions (CF) 
+ 
+including the Parent company and other Group functions and costs such as the Investment Office in 
+Luxembourg 
+Results from purchased loan portfolios are included in the region where the portfolio is originated. The breakdown 
+by geographical region is also used for internal monitoring in the Group. 
+Revenue and operating profits are reported by geographical region. Financial income and expenses are not as the 
+allocation of financial items is dependent on the Group structure and financing and is not affected by the actual 
+performance of the regions items is dependent on the Group structure and financing and is not affected by the 
+actual performance of the regions.
+
+--- Page 24 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+24
+Source: European Banking Authority, Risk Dashboard Q3 22 
+Note: B2Holding is also present in Bosnia-Hercegovina, Serbia and Montenegro, which are not a member of 
+EU/EEA and therefore not included in the statistics. 
+6.4.1.1 Northern Europe 
+Collections continued to perform well in 2021, but decreased slightly from NOK 1,786 million in 2020 to NOK 1,701 
+million in 2021 with the decrease of 5 % mainly due to FX. Underlying collections were just 0.4 % lower than in 2020 
+despite the low investment level in 2021. The gross collections in 2021 were mainly (99 %) from unsecured 
+portfolios. 
+Revenue from purchased loan portfolios was in line with 2020 with lower interest revenue in 2021 offset by a net 
+credit gain from purchased loan portfolios in 2021 of NOK 58 million compared with a net credit loss of NOK 36 
+million in 2020. The positive outcome in 2021 was due to overperformance on collections. FX negatively impacted 
+2021 compared with 2020 by approximately 5 %. Other revenues were also stable year-on-year.  
+Costs were lower year-on-year following efficiency improvements and the cost to collect % improved by 1 
+percentage point. The number of full-time equivalents (FTEs) in the region by year end was 353 (357) 
+6.4.1.2 Poland 
+Total collections in 2021 were NOK 1,052 million compared with NOK 1,033 million in 2020, a 2 % increase year-
+on-year, however adjusted for FX underlying collections were higher than last year by NOK 99 million (10 %).  
+Revenues from NPLs were also higher the last year with lower interest revenue offset by significant over-
+performance on collections which resulted in a large positive net gain from purchase loan portfolios in 2021.  
+Cost to collect improved from 30 % to 25 % due to higher gross collections combined with reduction in FTEs of 51  
+(-11 %) to 433 (484) at the end of 2021.
+6.4.1.3 Central Europe 
+Collections decreased by NOK 96 million (7 %) mainly being FX, with underlying collections down just 2.7 % year-
+on-year. The lower collections year-on-year were on secured portfolios and were due to a relatively large  
+repossession in 2020.  
+Revenues from NPLs were impacted by the low investment levels in 2020 and in 2021 and thus lower interest 
+revenue on lower book values, as well as by a net credit gain from purchased loan portfolios of NOK 33 million in 
+2021 compared with a net credit loss of NOK 72 million in the prior year. Other revenues were higher in 2021 due 
+to higher revenue from sale of collateral assets which were disposed of at a margin of 36 % in 2021. 
+Cost to collect was lower in 2021 than in 2020 following efficiencies achieved across the region and the cost to 
+collect percentage decreased to 14 % during the year from 15 % in 2020. The number of FTEs in the region by year 
+end was 199 (256).
+
+--- Page 25 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+25
+6.4.1.4 South East Europe 
+The region increased collections by NOK 37 million (6 %) to NOK 669 million in 2021 compared with NOK 632 
+million in 2020. Adjusted for FX, underlying collections increased by NOK 76 million (13 %). Total revenues from 
+purchased portfolio were NOK 375 million compared with NOK 325 million in 2020 and an increase of NOK 50 
+million. The increase was mainly due net credit losses in 2020. Profit from joint ventures decreased by NOK 2 million 
+(6 %) to NOK 27 million (NOK 29 million). The number of FTEs decreased from 567 last year to 534 in  
+2021 due to cost efficiency programmes under the pandemic. 
+6.4.1.5 Western Europe
+The region most affected by the Covid-19 pandemic and subsequent governmental measures. Collections 
+decreased by NOK 85 million (16 %) to NOK 463 million of which approximately NOK 30 million or 5 % was  
+due to FX. The decrease was otherwise mainly lower collections due to the governmental measures including 
+closed courts and bailiffs.  
+Revenues from purchased portfolio were down by NOK 191 million (65 %) to NOK 101 million in 2021 compared  
+with NOK 292 million in 2020 following a net credit loss of NOK 206 million in 2021 mainly due to negative 
+revaluations of secured portfolios. 
+The cost to collect percentage increased by 5 % percentage points to 33 % in 2021. The number of FTEs by year 
+end was 417, a significant decrease from 453 last year following the cost efficiency program during the pandemic. 
+6.4.1.6 Segment reporting Q4 2022 and full year 2022
+
+--- Page 26 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+26
+
+--- Page 27 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+27
+6.5 Sustainability in B2Holding
+B2Holding’s core values are the heart and soul of the Group. The values guide employees in their work and are a 
+common language that clearly demonstrate B2Holding’s culture. Furthermore, the values describe the behaviours 
+and attitudes of the Group and contribute to achieving its vision and mission. 
+B2Holdings believes in: 
+
+Agility: The Group seeks to gain new knowledge and grow. Through constant development, the Group 
+is able to adapt quickly and effectively to changing environments and to the needs of its business 
+partners. B2Holding focuses on solutions, not problems. 
+
+Integrity: B2Holding follows the highest ethical principles and does the right thing in all situations. The 
+Group stands for what is right and speaks up in the event of misconduct. It is honest, responsible, 
+accountable, and dedicated, even when challenged. Integrity is the foundation upon which the Group 
+builds trust. 
+
+Diversity: B2Holding believes that a multicultural, inclusive, and diverse work environment is an asset. 
+The Group values and respects people of different backgrounds and experiences. B2Holding creates a 
+culture where everyone is welcome. 
+
+Excellence: The Group always contributes to the best of its abilities and encourages colleagues to do 
+the same. The Group is committed to continuous improvement. B2Holding drives change and strives to 
+find better ways of doing things. Technology and digitalization are at the top of the agenda to increase 
+efficiency and foster a culture of innovation. 
+
+Responsibility: B2Holding is committed to society and the environment. The Group goes beyond 
+compliance and is accountable for its actions
+
+--- Page 28 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+28
+6.6 ESG Strategy 
+To support the sustainability ambitions, B2Holding developed an ESG strategy in 2021. The strategy guides the 
+Group’s ESG work and includes measurable targets that allow tracking goal achievements. The goals were 
+developed to align with the SDGs in the areas where B2Holding can have meaningful and sustainable impact. 
+The strategy is divided into four strategic lines, which represent B2Holding’s ESG priorities. These are: 
+All strategic lines have their own set of goals and targets and are linked to B2Holding’s material topics. The Group 
+will track and report on its progress in reaching the targets. The current strategy will run until 2023, at which point 
+B2Holding will assess its implementation and develop a new strategy. 
+ESG commitment showing results 
+Substantially improved the ESG Risk rating from Sustainalytics, ranking us at the top of our industry and within 
+the top 1 % of rated companies globally 
+ 
+B2Holding is considered to be at negligible ESG risk: 
+ 
+Low exposure of material ESG issues such as Business Ethics, Data Privacy and Security and 
+Product Governance  
+ 
+Material ESG risks have been managed through suitable policies, programmes, or initiatives
+
+--- Page 29 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+29
+ 
+Improved the rating from E to C in The Governance Group’s ESG 100 report on the largest companies 
+on Oslo Stock Exchange 
+ 
+B2Holding has reinforced its focus on sustainable development and mission to bridge the gap that 
+defaulted debt represents in the credit chain between lenders and customers 
+ 
+European bank’s ability to deal with NPLs is a priority for the ECB’s Banking Supervision as it is vital 
+for a functioning bank sector and hence the growth of the economy. 
+Source: Morningstar, Sustainalytics
+
+--- Page 30 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+30
+7 Trend information 
+7.1 Prospects and financial performance 
+There has been no material adverse change in the prospects of the Issuer since the date of its last published audited 
+financial statements.  
+There has been no significant change in the financial performance of the Group since the end of the last financial 
+period for which financial information has been published to the date of the Base Prospectus.
+
+--- Page 31 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+31
+8 Administrative, management and supervisory bodies 
+8.1 Information about persons 
+Board of Directors 
+The table below set out the names of the members of the Board of Directors of B2Holding ASA:  
+Name  
+Position  
+Harald Lauritz Thorstein 
+Chair of the Board  
+Adele Bugge Norman Pran 
+Board member 
+Trond Kristian Andreassen 
+Board member 
+Grethe Wittenberg Meier 
+Board member 
+Trygve Lauvdal 
+Board member 
+Thale Susanne Kuvås Solberg 
+Board member 
+Kjetil Andreas Garstad 
+Board member 
+The address for each member of the Board of Directors is B2Holding ASA, Cort Adelers gate 30, 0254 Oslo, 
+Norway. 
+Harald Lauritz Thorsten, Chair of the Board independent from shareholders and management
+ 
+Chair of the Board of Directors since May 2020.   
+ 
+Leader of the Remuneration Committee.  
+ 
+Founder and owner of the London based advisory company Arkwright London Ltd. He has previously held 
+positions in Seatankers Management and DnB Markets (Corporate Finance). 
+ 
+Extensive board experience, including Aktiv Kapital, Axactor, SFL Corp and Seadrill. 
+ 
+MSc in Industrial Economics and Technology Management – with specialization within Finance and 
+Optimization. 
+Adele Bugge Norman Pran, Board Member, independent 
+ 
+Board member since May 2018. 
+ 
+Chair of the Audit Committee.  
+ 
+Management consultant, Board Professional and Investor. 
+ 
+Professional experience from private equity and M&A consulting. 
+ 
+Partner and CFO in Herkules Capital for 12 years. 
+ 
+Board member of ABG Sundal Collier ASA, Mesta AS, Zalaris ASA and XXL ASA. 
+ 
+Cand. jur degree from University of Oslo, Master of Accounting from NHH Norwegian School of 
+Economics. 
+Trond Kristian Andreassen, Board Member, independent
+ 
+Board member since May 2020.  
+ 
+Managing owner of Vimar AS. Previous positions include CEO and Member of the Board of Avida Finans, 
+CEO at Gothia Financial Group and CEO (Nordic, Spain and Holland and CEO Group Factoring Europe) 
+at Arvato Financial Solutions.  
+ 
+Member of the Board in Aprila Bank ASA. 
+ 
+Bachelor of Business Administration from BI Norwegian Business School. 
+Grethe Wittenberg Meier, Board Member, independent 
+ 
+Board member since May 2020. Deputy board member 2018-2020. 
+ 
+CEO at PrivatMegleren AS. Previous positions include CEO at Terra Aktiv Eiendomsmegling AS, CEO at 
+SATS AS, CEO at Vita AS and marketing director at Bank2 AS. 
+ 
+Chairman of Eiendom Norge AS, board member of Fitness Group Nordic AS, Norges Håndballforbunds 
+Fondsstyre (Norwegian Handball Association Fund Management) and Nyeboliger AS. 
+ 
+Bachelor of Commerce/Business Studies from BI Norwegian Business School. 
+Trygve Lauvdal, Board member. Represents the second-largest shareholder, Rasmussengruppen AS.  
+ 
+Board member since May 2020 and from 2013 to 2018.  
+ 
+Member of the Remuneration Committee. 
+ 
+Investment director at Rasmussengruppen AS. Prior to this, he worked nine years as an equity analyst in 
+DNB, specializing in the technology, industrial and renewable energy sectors. 
+ 
+Several board positions in Norwegian companies. 
+ 
+PhD in Engineering Cybernetics from Norwegian University of Science and Technology (NTNU).
+
+--- Page 32 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+32
+Thale Kuvås Solberg, Board member, independent
+ 
+Board member since May 2021. 
+ 
+Member of the Audit Committee. 
+ 
+Head of Professional Services in Volue ASA, a technology supplier and enabler of the green transition 
+listed on Oslo Børs. Previous positions include CEO of the fin-tech company SMB LAB (part of 
+SpareBank1), and various leadership roles in SpareBank1, Ernst & Young Advisory and JPMorgan Chase. 
+ 
+Board member of Ztl Payment Solution AS and deputy member of AtB AS. 
+ 
+Holds the title of “Siviløkonom” from NHH Norwegian School of Economics and has a MSc in Risk 
+Management from the University of Southampton, UK and a BSc in International Business from 
+Copenhagen Business School, DK. 
+ 
+Nominated by Abelia as Top 50 Women in Tech in Norway 2020. 
+Kjetil Garstad, Board member. Represents the shareholder Stenshagen Invest AS. 
+ 
+Board member since May 2022. 
+ 
+Member of the Audit Committee.  
+ 
+Previously deputy board member from 2018 to 2020 and board member from 2014 to 2016. 
+ 
+Analyst at Stenshagen Invest AS, a family-owned investment office. Previously Mr. Garstad was Head Of 
+Oil Services and partner in Arctic Securities from 2007 to 2014. 
+ 
+MSc in Economics. 
+Management 
+The table below set out the names of the members of the Management: 
+Name  
+Position  
+Erik Just Johnsen 
+Chief Executive Officer  
+André Adolfsen 
+Chief Financial Officer 
+Cecilie Kjelland 
+Chief Legal, Compliance & HR Officer 
+Rasmus Hansson 
+Head of Commercial Strategy and Investor Relations 
+Endre Solvin-Witzø 
+Chief Investment Officer 
+Jeremi Bobowski 
+Chief Risk Officer 
+Adam Parfiniewicz 
+Head of Unsecured Asset Management 
+George Christoforou 
+Head of Secured Asset Management 
+Maria Haddad 
+Chief Brand & Sustainability Officer 
+The business address of each of the members of the Management is B2Holding ASA, Cort Adelers gate 30, 0254 
+Oslo, Norway. 
+Erik Just Johnsen, Chief Executive Officer  
+ 
+CEO of B2Holding ASA since August 2019. 
+ 
+Joined B2Holding in 2013. Held the position of Chief Group Controller until January 2017, before becoming 
+CFO.  
+ 
+Mr. Johnsen has held various positions in Orkla Finans and Elkem before operating Erling Johnsen AS 
+from 1992 - 2000. He later acted as CFO in Northstar Ind. Inc. and Marine Subsea. 
+ 
+Bachelor of Business Administration with major in Finance from University of Wisconsin, MBA with major 
+in Finance from University of Chicago. 
+André Adolfsen, Chief Financial Officer 
+ 
+Joined B2Holding in November 2020. 
+ 
+Mr. Adolfsen has previously held several management positions with the debt industry, including Group 
+Finance Director at Intrum and various positions within finance at Lindorff. Further, he has experience as 
+a Senior Equity Analyst at Nordea Markets. 
+ 
+Mr. Adolfsen holds an MSc in Finance from Copenhagen Business School and a BSc in Finance from BI 
+Norwegian Business School.
+
+--- Page 33 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+33
+Cecilie Kjelland, Chief Legal, Compliance & HR Officer
+ 
+Joined B2Holding in September 2019. 
+ 
+Mrs. Kjelland is Vice President in European Company Lawyers Association (ECLA).  
+ 
+She has previously held various positions in Norsk Hydro ASA and Yara International ASA for 17 years 
+including; Legal Counsel, Corporate Secretary and Head of Data Privacy. 
+ 
+Law degree from University of Oslo, an LL.M. Degree from Universität Bochum and a Ph.D. in International 
+and Comparative Sales Law from University of Freiburg. She has several publications in the fields of 
+Corporate Governance, Company Law and International law.
+Rasmus Hansson, Head of Commercial Strategy and Investor Relations 
+ 
+Joined B2Holding in January 2015. 
+ 
+Mr. Hansson has held various positions among others in Telenor Venture, Moe Securities and Hafslund 
+Venture. 
+ 
+BSc from University of Oslo in Economics and Political Science and MSc in Management from London 
+School of Economics. 
+Endre Solvin-Witzø, Chief Investment Officer 
+ 
+Joined B2Holding in October 2021. 
+ 
+Mr. Solvin-Witzø has previously held key leadership positions at Lowell, Intrum and Lindorff, as well as 
+executive positions at Cermaq ASA and IBM. 
+ 
+Mr. Solvin-Witzø holds an MSc in Information and Knowledge Management from the Norwegian University 
+of Science and Technology and an MBA in Finance from NHH Norwegian School of Economics. 
+Jeremi Bobowski, Chief Risk Officer 
+ 
+Joined B2Holding in March 2015. Held the position as Chief Investment Officer until October 2019.  
+ 
+Mr. Bobowski has held various positions among others in Arthur Andersen, AIG and Credit Agricole. 
+ 
+He later joined ULTIMO, acquired by B2Holding in 2014, as CRO. 
+ 
+MSc in Mathematics and Statistics from Technical University of Wrocław. 
+Adam Parfiniewicz, Head of Unsecured Asset Management
+ 
+Joined B2Holding in 2016. Held the position as Regional Director for Poland, Finland & Baltics, until 
+December 2019. Head of Unsecured Asset Management since October 2019.  
+ 
+Mr. Parfiniewicz previously held various management positions in Polish retail banks, including PBK, 
+Credit Agricole and BNP Paribas. He also served as a CEO in PolCard (card processor) and Expander 
+(mortgage and investments broker). 
+ 
+Bachelor of Business Administration from University of Warsaw. 
+George Christoforou, Head of Secured Asset Management 
+ 
+Joined B2Holding in April 2018 as CEO of B2Kapital in Greece. Held the position as Regional Director 
+Central & South-east Europe until December 2019. Head of Secured Asset Management from October 
+2019.  
+ 
+Mr. Christoforou has held various positions in banking and corporate finance, including serving as CEO 
+for Bank of Cyprus in Romania. He specialised in NPL management during the Greek and Cypriot financial 
+crises and has held the position as Chief of Portfolios in the Greek single liquidation entity PQH. 
+ 
+MBA from London Business School and is licensed insolvency practitioner. 
+Maria Haddad, Chief Brand & Sustainability Officer 
+ 
+Joined B2Holding in October 2018 as Regional Director for Western Europe. Chief Brand & Sustainability 
+Officer (formerly titled Head of Corporate Development) since January 2020.  
+ 
+Mrs. Haddad has held various positions at national and international levels among others as CEO of Aktiv 
+Kapital for Spain and France with responsibilities for portfolios in Italy and Portugal, and as CEO of Arvato 
+Financial Solutions in Spain - Bertelsmann Group. She has extensive experience in the valuation of NPL 
+portfolios. Mrs. Haddad has been Board Member and General Secretary at the National Association in 
+Spain (Angeco) for several years. 
+ 
+Law degree from Universidad Complutense and an LL.M in Tax Law from Institute de Empresa in Madrid 
+8.2 Potential conflicts of interest 
+There are no potential conflicts of interest between any duties carried out on behalf of the Issuer by the persons 
+referred to in item 8.1 and their private interests and/or other duties.
+
+--- Page 34 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+34
+9 Major shareholders 
+9.1 Ownership  
+The Issuer’s largest shareholders are Prioritet Group AB and the Norwegian family office Rasmussengruppen AS.  
+Below is an overview of the 20 largest shareholders in the Issuer as of 15 February 2023. 
+9.2 Change of control of the company 
+There are no arrangements, known to the Issuer, the operation of which may at a subsequent date result in a 
+change in control of the Issuer. 
+To the extent known to the issuer, the issuer is not directly or indirectly owned or controlled. 
+Investor
+Number of shares
+% of top 20
+% of total
+Type
+Country
+PRIORITET GROUP AB
+52 913 000,00
+19,86%
+13,18%
+COMP
+SWE
+RASMUSSENGRUPPEN AS
+43 073 236,00
+16,17%
+10,73%
+COMP
+NOR
+STENSHAGEN INVEST AS
+26 500 143,00
+9,95%
+6,60%
+COMP
+NOR
+VALSET INVEST AS
+26 000 000,00
+9,76%
+6,48%
+COMP
+NOR
+DNB MARKETS AKSJEHANDEL/-ANALYSE
+21 558 475,00
+8,09%
+5,37%
+COMP
+NOR
+B2HOLDING ASA
+14 184 000,00
+5,32%
+3,53%
+COMP
+NOR
+SKANDINAVISKA ENSKILDA BANKEN AB
+12 849 468,00
+4,82%
+3,20%
+COMP
+NOR
+DUNKER AS
+8 207 124,00
+3,08%
+2,04%
+COMP
+NOR
+RUNE BENTSEN AS
+8 191 680,00
+3,08%
+2,04%
+COMP
+NOR
+VERDIPAPIRFONDET STOREBRAND NORGE
+7 329 736,00
+2,75%
+1,83%
+COMP
+NOR
+VERDIPAPIRFONDET ALFRED BERG GAMBA
+6 759 479,00
+2,54%
+1,68%
+COMP
+NOR
+VERDIPAPIRFONDET DNB NORGE
+6 156 354,00
+2,31%
+1,53%
+COMP
+NOR
+GREENWAY AS
+5 802 368,00
+2,18%
+1,45%
+COMP
+NOR
+VPF DNB AM NORSKE AKSJER
+5 172 336,00
+1,94%
+1,29%
+COMP
+NOR
+VERDIPAPIRFONDET ALFRED BERG NORGE
+4 331 916,00
+1,63%
+1,08%
+COMP
+SWE
+VERDIPAPIRFONDET ALFRED BERG AKTIV
+4 049 949,00
+1,52%
+1,01%
+COMP
+SWE
+PORTIA AS
+3 550 000,00
+1,33%
+0,88%
+COMP
+NOR
+LIN AS
+3 500 000,00
+1,31%
+0,87%
+COMP
+NOR
+CRESSIDA AS
+3 250 030,00
+1,22%
+0,81%
+COMP
+NOR
+F2KAPITAL AS
+3 000 000,00
+1,13%
+0,75%
+COMP
+NOR
+Total number owned by top 20
+266 379 294,00
+Total number of shares
+401 364 824,00
+66,37%
+100,00%
+
+--- Page 35 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+35
+10 Financial information concerning the Company's assets 
+and liabilities, financial position and profits and losses 
+10.1 Financial statements 
+The consolidated financial statements of the Group have been prepared in accordance with International Financial 
+Reporting Standards (IFRS) and interpretations issued by the IFRS Interpretations Committee (IFRS IC) applicable 
+to companies reporting under IFRS. The consolidated financial statements comply with IFRS as issued by the 
+International Accounting Standards Board (IASB) and approved by the EU. The Group’s accounting policies is 
+shown in Annual Report of 2021, note 2, page 91-97. B2Holding ASA’s accounting policies is shown in Annual 
+Report of 2021, note 1, page 142-143.
+According to the Regulation (EU) 2017/1129 of the European Parliament and of the Council, information in a 
+prospectus may be incorporated by reference.  
+Because of the complexity in the historical financial information and financial statements this information is 
+incorporated by reference to the Q4 Report 2022, Q3 Report 2022, Q2 2022 Report and the Annual Report 2021. 
+Please see Cross Reference List for complete references.   
+Q4 Report 2022 
+Unaudited
+Q3 Report 2022 
+Unaudited
+Q2 Report 2022 
+Unaudited
+               2021 
+Audited
+B2Holding ASA - Consolidated
+Page(s)
+Page(s)
+Page(s)
+Page(s)
+Income statement
+9
+9
+9
+85
+Statement of comprehensive income
+9
+9
+9
+86
+Statement of financial position
+10
+10
+10
+87
+Statement of cash flow
+11
+11
+11
+89
+Notes 
+12-20
+12-20
+12-20
+90-138
+B2Holding ASA - Parent
+Income statement
+139
+Balance Sheet 
+140
+Cash flow statement
+141
+Notes
+142-152
+10.2 Auditing of annual financial information 
+The financial information for 2021 has been audited.  
+A statement of audited financial information is given in Annual Report 2021 pages 154-158. 
+10.3 Legal and arbitration proceedings
+There are no governmental, legal or arbitration proceedings (including any such proceedings which are pending or 
+threatened of which the issuer is aware), during a period covering at least the previous 12 months which may have 
+or have had in the recent past significant effects on the issuer and/or group’s financial position or profitability. 
+10.4 Significant change in the Issuer’s financial position 
+There has been no significant change in the financial position of the Group which has occurred since the end of the 
+last financial period for which interim financial information has been published.
+
+--- Page 36 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+36
+11 Regulatory disclosures 
+The table below set outs a short summary of the information the Company has disclosed under Regulation (EU) No 
+596/2014, which is relevant as at the date of the Prospectus, in the 12 months' period prior to the date of this 
+Prospectus.  
+ADDITIONAL REGULATED INFORMATION 
+Date disclosed 
+Title 
+Summary of the information given 
+15.02.2023 
+Key information relating to 
+the cash dividend to be 
+paid by B2Holding ASA 
+Dividend amount: NOK 0.20 per share. Declared currency: NOK. 
+Last day including right: 25 May 2023. Ex-date: 26 May 2023. 
+Record date: 30 May 2023. Payment date: 5 June 2023. Date of 
+approval (AGM): 25 May 2023 
+14.02.2023 
+B2Holding ASA: Result 
+from Written Resolution 
+Reference is made to the notice of a written resolution dated 2 
+February 2023 for B2Holding ASA, rated B+ (Stable) by S&P and 
+Ba3 (Stable) by Moody’s, in its senior unsecured bonds maturing 
+28 May 2024 (ISIN NO 0010852742). The proposed resolution to 
+make certain amendments to the bond terms was approved today. 
+Please see the attached notice from the written resolution. DNB 
+Markets acted as Financial Advisor to B2Holding in the written 
+resolution. 
+03.02.2023 
+B2Holding ASA: 
+Successfully extended Tap 
+Issue 
+B2Holding ASA has successfully extended the latest tap issue with 
+EUR 20 million in their outstanding senior unsecured bonds due 22 
+September 2026 (ISIN: NO0012704107). The total outstanding 
+amount after the latest transaction is EUR 300 million. The 
+extended tap was issued at a price of 99.25% of par.  
+DNB Markets and Nordea acted as Global Coordinators and Joint 
+Bookrunners and Sparebank 1 Markets acted as Co-Manager for 
+the bond issue. 
+02.02.2023 
+B2HOLDING ASA: 
+Exercise of Call Option 
+pursuant to Bond Terms in 
+ISIN: NO0010822646 – 
+FRN B2HOLDING ASA 
+SENIOR UNSECURED 
+BOND ISSUE 2018/2023 
+(B2H04) 
+All capitalized terms used herein shall have the meaning assigned 
+to them in the bond terms dated 22 May 2018 (as amended and 
+restated pursuant to an amendment and restatement agreement 
+dated on 24 May 2019 the "Bond Terms") for the above mentioned 
+Bond Issue. 
+The Maturity Date for the Bond Issue under the Bond Terms is 23 
+May 2023.  
+B2Holding ASA (the "Issuer") has informed Nordic Trustee AS (the 
+"Bond Trustee") that they wish to exercise the Call Option and 
+redeem all Outstanding Bonds at a price equal to 100% of the Face 
+Value plus accrued and unpaid interests on the redeemed amount 
+pursuant to Clause 11.2 (Call Option) of the Bond Terms. The Call 
+Option Repayment Date will be 6 March 2023. 
+02.02.2023 
+B2Holding: Summons for a 
+Written Resolution 
+Oslo, 2 February 2023: B2Holding ASA, rated B+ (Stable) by S&P 
+and Ba3 (Stable) by Moody’s, has today instructed Nordic Trustee 
+to summon a written resolution for the company’s senior unsecured 
+bonds maturing 28 May 2024 (ISIN NO 0010852742). The purpose 
+of the written resolution is to consider a proposal for certain 
+amendments to the bond terms (the “Amendment Proposal”). The 
+summons for a written resolution including details on the 
+Amendment Proposal is attached together with this press release.
+
+--- Page 37 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+37
+The background for the Amendment Proposal is to principally align 
+the dividend clauses in the senior unsecured bonds maturing 28 
+May 2024 (ISIN NO 0010852742) with the recently issued senior 
+unsecured bonds maturing 22 September 2026 (ISIN NO 
+0012704107). 
+23.09.2022 
+B2HOLDING ASA: 
+Exercise of Call Option 
+pursuant to Bond Terms in 
+ISIN: NO0010809932 – 
+FRN B2HOLDING ASA 
+SENIOR UNSECURED 
+BOND ISSUE 2017/2022 
+All capitalized terms used herein shall have the meaning assigned 
+to them in the bond terms dated 10 November 2017 (as amended 
+and restated on 24 May 2019 the "Bond Terms"). 
+The Maturity Date for the Bond Issue under the Bond Terms is 14 
+November 2022.  
+B2Holding ASA (the "Issuer") has informed Nordic Trustee AS (the 
+"Bond Trustee") that they wish to exercise the Call Option and 
+redeem all Outstanding Bonds at a price equal to 100% of the Face 
+Value plus accrued and unpaid interests on the redeemed amount 
+pursuant to Clause 11.2 (Call Option) of the Bond Terms. 
+The Call Option Repayment Date will be 24 October 2022. 
+19.08.2022 
+B2Holding ASA has closed 
+the non-recourse senior 
+financing with PIMCO 
+As previously announced on 10 February 2022, B2Holding ASA 
+signed a non-recourse senior financing agreement with a company 
+managed and advised by Pacific Investment Management 
+Company LLC (“PIMCO”). The transaction was subject to the 
+fulfilment of certain conditions precedent. B2Holding is pleased to 
+announce that the transaction is now closed, and funding is 
+released. The senior financing will have a floating interest rate of 
+4.55% over 3m Euribor. B2Holding, through its fully owned 
+subsidiary, Veraltis Asset Management, will be the master and 
+special servicer of the portfolios included in the structure.  
+24.05.2022 
+B2Holding ASA: Minutes 
+from the Annual General 
+Meeting 2022 
+The Annual General Meeting of B2Holding ASA was held today, 24 
+May 2022, by digital means. 
+All proposals on the agenda were adopted, cf. notice of the Annual 
+General Meeting published on NewsWeb Oslo Børs on 29 April 
+2022. 
+A cash dividend of NOK 0.42 per share for the financial year 2021 
+was approved. The share is quoted ex-dividends on 25 May 2022. 
+Dividends will be paid on June 2, 2022. 
+Members to the Board of Directors were elected in accordance with 
+the proposal by the Nomination Committee. Following the election, 
+the Board of Directors will be as follows: 
+Harald L. Thorstein (Chair), Thale Kuvås Solberg, Adele Bugge 
+Norman Pran (Re-elected), Grethe Wittenberg Meier, Trygve 
+Lauvdal, Trond Kristian Andreassen, Kjetil Garstad (New).  
+The Minutes of the Annual General Meeting is attached and 
+available 
+on 
+https://www.b2holding.no/Governance/General-
+meetings 
+29.04.2022 
+B2Holding ASA: Notice for 
+Annual General Meeting 24 
+May 2022 
+The Annual General Meeting of B2Holding ASA (OSE:B2H)will be 
+held on Tuesday,24 May 2022 at 09:00 am (CEST). The Notice of 
+Annual General Meeting is attached. The Annual General Meeting 
+will be held as a virtual meeting. The Board requests shareholders 
+to use the possibility of casting advance votes or voting by proxy or
+
+--- Page 38 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+38
+by virtual attendance. Guide for virtual attendance is set out in 
+Appendix to the Notice. The Notice is posted electronically or by 
+mail to all shareholders and are available on the Company’s 
+website www.b2holding.no. 
+26.04.2022 
+Key information relating to 
+the cash dividend to be 
+paid by B2Holding ASA 
+Dividend amount: NOK 0,42 per share. Declared currency: NOK 
+Last day including right: 24 May 2022. Ex-date: 25 May 2022. 
+Record date: 27 May 2022. Payment date: 2 June 2022. Date of 
+approval (AGM): 24 May 2022 
+26.04.2022 
+B2Holding ASA: 
+Announcement of dividend, 
+a new dividend policy and 
+approval of Annual Report 
+2021 
+The Board of Directors of B2Holding ASA has today approved the 
+Annual Report for 2021. There are no material adjustments in the 
+final accounts compared with the preliminary financial statements 
+published on 10 February 2022. B2Holding’s Annual Report 2021 
+will be published on Friday 29 April.  
+The Board proposes a dividend of NOK 0.42 per share for 2021 for 
+the Annual General Meeting, to be held on 24 May 2022.  
+The Board also approved a new dividend policy for the Company 
+that states the following:  
+“B2Holding will target a distribution to its shareholders for a 
+financial year of 20-50% of profit after tax on a consolidated basis 
+in terms of the aggregated amount of dividend pay-out and 
+distribution in kind of share buy-back programs of treasury shares. 
+Distributions through dividends or share buy-back programs can 
+only be initiated by the Board of Directors based on an authorisation 
+from the General Meeting applicable for one or several occasions 
+limited to the framework of the latest annual accounts.” 
+10.02.2022 
+Key information relating to 
+the cash dividend to be 
+paid by B2Holding ASA 
+Dividend amount: NOK 0.42 per share. Declared currency: NOK. 
+Last day including right: 24 May 2022. Ex-date: 25 May 2022. 
+Record date: 27 May 2022. Payment date: 2 June 2022. Date of 
+approval (AGM): 24 May 2022 
+10.02.2022 
+B2Holding ASA agrees a 
+non-recourse senior 
+financing with PIMCO 
+As previously announced, B2Holding ASA has been engaged in 
+discussions with reputable institutional investment partners to 
+establish 
+a 
+co-investment 
+partnership 
+predominantly 
+for 
+B2Holding’s back book in secured assets.  
+“We have advanced well since the previous quarter and have now 
+completed the first milestone of this partnership. I am very pleased 
+to announce that the key financier in this first step is a company 
+managed and advised by Pacific Investment Management 
+Company LLC (“PIMCO”), one of the largest asset managers and 
+capital providers in the world. In addition to being a credible and 
+sought-after capital provider, PIMCO and its affiliates have strong 
+experience and competence within non-performing assets which 
+we believe is setting the grounds for a mutually beneficial 
+cooperation with B2Holding going forward. I would like to thank 
+PIMCO for the collaborative spirit during the proceedings.” said Erik 
+Just Johnsen, CEO B2Holding ASA   
+The investment from the company managed and advised by 
+PIMCO is a non-recourse senior financing structure for the 
+countries where secured assets is the predominant asset class. 
+The senior financing will represent approximately 50% of book 
+value of the assets included in the structure at an interest rate of 
+5%. Most of the countries in the Central and South-eastern Europe
+
+--- Page 39 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+39
+region will be included in the structure with the addition of France 
+and Italy. The unsecured assets in these countries will also be 
+included in the structure. The structure provides for a redeployment 
+of capital from collection and recoveries under an agreed 
+framework, in addition to potential co-investments with PIMCO 
+and/or its affiliates for larger portfolios. B2Holding will be the master 
+and/or the special servicer of the portfolios included in the structure. 
+About PIMCO  
+PIMCO is one of the world’s premier fixed income investment 
+managers. With our launch in 1971 in Newport Beach, California, 
+PIMCO introduced investors to a total return approach to fixed 
+income investing. In the 50 years since, we have continued to bring 
+innovation and expertise to our partnership with clients seeking the 
+best investment solutions. Today we have offices across the globe 
+and professionals united by a single purpose: creating opportunities 
+for investors in every environment. PIMCO is owned by Allianz S.E., 
+a leading global diversified financial services provider. 
+INSIDE INFORMATION 
+Date disclosed 
+Title 
+Summary of the information given 
+16.09.2022 
+B2Holding ASA: 
+Successfully Completed 
+New Bond Issue 
+B2Holding ASA has successfully issued an EUR 150 million senior 
+unsecured bond with maturity in 2026. The bond will have a coupon 
+of 3 month EURIBOR + 6.90% and will be listed on the Oslo Stock 
+Exchange. Settlement date is expected to be 22 September 2022.  
+Concurrently with the new bond issue, B2Holding ASA will 
+repurchase approximately EUR 43 million in the outstanding bond 
+B2H03 (ISIN: NO0010809932) at a price of 100.45% of par and 
+approximately EUR 66 million in the outstanding bond B2H04 (ISIN: 
+NO0010822646) at a price of 100.70% of par. 
+The net proceeds from the bond issue shall be applied to 
+refinancing and general corporate purposes. 
+With the new bond issue, B2Holding has financial flexibility to repay 
+the remaining of bond B2H03 and B2H04 and at the same time 
+retaining sufficient investment capacity. On a pro forma basis, 
+B2Holding’s cost of funding has increased with around 20 bps 
+compared with end of the second quarter when the refinancing of 
+the RCF, the senior financing from PIMCO and the newly issued 
+bond is included.  
+DNB Markets, Nordea and Pareto acted as Global Coordinators 
+and Joint Bookrunners and Arctic Securities acted as Joint 
+Bookrunners for the bond issue.   
+13.09.2022 
+B2Holding ASA: 
+Presentation for fixed 
+income investor meetings 
+With reference to the announcement made on 12 September 2022, 
+the presentation for the upcoming fixed income investor meetings 
+can be found attached and will be available on www.b2holding.no. 
+19.08.2022 
+B2Holding ASA sign 
+agreement for sale of 
+subsidiary in Bulgaria 
+B2Holding has signed an agreement to sell 100% of the shares in 
+its Bulgarian subsidiary, Debt Collection Agency EAD (“DCA”), to a 
+local Special Purpose Vehicle company.
+
+--- Page 40 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+40
+The total proceeds received from the sale of DCA is EUR 48.4 
+million which after adjustments represent close to 100% of the book 
+value of the portfolios. The closing of the transaction is subject to 
+relevant regulatory approvals in Bulgaria and is expected in 
+October this year.  
+The transaction will trigger a non-cash impairment of NOK 105 
+million after tax. This is mainly related to goodwill. The signing of 
+the Sale and Purchase Agreement was done subsequent to the 
+second quarter, but B2Holding will recognize the impairment in the 
+second quarter.   
+“The sale of DCA Bulgaria is another important step in reducing our 
+geographical footprint and redeploying capital in our core markets 
+to further drive scalability in the Group. This is an important part of 
+our communicated strategy. As more than 90% of assets in DCA 
+are unsecured portfolios, the strategic fit with the other countries 
+serviced by Veraltis Asset Management is limited. I would like to 
+thank Yulia Yurgakieva, CEO of DCA, and her team for all their 
+efforts, and I wish them all the best for the future,” said Erik 
+Johnsen, CEO of B2Holding.   
+The sale is a result of a structured auction process advised by 
+Alantra Corporate Portfolio Advisors Limited. 
+22.11.2021 
+B2Holding ASA: 
+Presentation for fixed 
+income investor meetings 
+B2Holding ASA: Presentation for fixed income investor meetings. 
+With reference to the announcement made on 22 November 2021, 
+the presentation for the upcoming fixed income investor meetings 
+can be found attached and will be available on www.b2holding.no. 
+MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS  
+Date disclosed 
+Title 
+Summary of the information given 
+26.08.2022 
+Mandatory notification of 
+trade by Primary Insiders 
+Trond Kristian Andreassen, member of the Board of Directors of 
+B2Holding ASA, has on 26 August 2022 acquired 45,000 shares in 
+B2Holding ASA through his related party Vimar AS at an average 
+price of NOK 8.96. Following the transaction, Trond Kristian 
+Andreassen and related party hold 300,000 shares in the 
+Company. 
+26.08.2022 
+Mandatory notification of 
+trade by related party to 
+Primary Insiders 
+Stenshagen Invest AS, a related party to Kjetil Garstad, Member of 
+the Board of Directors of B2Holding ASA, has on 26 August 2022 
+purchased 1,400,000 shares in B2Holding ASA at an average price 
+of NOK 8.965. Following this transaction, Stenshagen Invest AS 
+holds 26,500,143 shares in the Company representing 6.61% of the 
+share capital.   
+25.08.2022 
+Mandatory notification of 
+trade by related party to 
+Primary Insiders 
+Stenshagen Invest AS a related party to Kjetil Garstad, Member of 
+the Board of Directors of B2Holding ASA, has on 25 August 2022 
+purchased 500,000 shares in B2Holding ASA at an average price 
+of NOK 8.9135 Following this transaction, Stenshagen Invest AS 
+holds 25,100,143 shares in the Company representing 6,26% of the 
+share capital.   
+23.08.2022 
+Mandatory notification of 
+trade by Primary Insiders 
+Endre Solvin-Witzø, Chief Investment Officer of B2Holding ASA, 
+has on 23 August 2022 sold 150,000 shares in B2Holding ASA at 
+an average price of NOK 8.97. Following this transaction, Endre
+
+--- Page 41 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+41
+Solvin-Witzø holds 125,000 shares in the Company. 
+23.08.2022 
+Mandatory notification of 
+trade by Primary Insiders 
+Harald Thorstein, Chair of the Board of Directors of B2Holding ASA, 
+has on 23 August 2022 acquired 80,000 shares in B2Holding ASA 
+at an average price of NOK 8.8979. Following these transactions, 
+Harald Thorstein holds 280,000 shares in the Company. 
+13.05.2022 
+Mandatory notification of 
+trade by Primary Insiders 
+Endre Solvin-Witzø, Chief Investment Officer of B2Holding ASA, 
+has on 13 May 2022 acquired 100,000 shares in B2Holding ASA at 
+an average price of NOK 8.294. Following this transaction, Endre 
+Solvin-Witzø holds 275,000 shares in the Company. 
+07.03.2022 
+Mandatory notification of 
+trade by Primary Insider 
+Erik J. Johnsen, Chief Executive Officer of B2Holding ASA, has on 
+7 March 2022, acquired 40,000 shares in B2Holding ASA at an 
+average price of NOK 8.62 per share. Following this transaction, 
+Erik J. Johnsen and related parties (Erling Johnsen AS) hold 
+2,240,000 shares in the Company. 
+07.03.2022 
+Mandatory notification of 
+trade by Primary Insider 
+Trond Kristian Andreassen, member of the Board of Directors of 
+B2Holding ASA, has on 7 March 2022 acquired 40,000 shares in 
+B2Holding ASA through his related party Vimar AS at an average 
+price of NOK 8.295. Following the transaction, Trond Kristian 
+Andreassen and related party hold 255,000 shares in the 
+Company. 
+11.02.2022 
+Mandatory notification of 
+trade by Primary Insider 
+Harald Thorstein, Chairman of the Board of Directors of B2Holding 
+ASA, has on 11 February 2022 acquired 75,000 shares in 
+B2Holding ASA at an average price of NOK 9.7143. Following 
+these transactions, Harald Thorstein holds 200,000 shares in the 
+Company. 
+10.02.2022 
+Mandatory notification of 
+trade by Primary Insider 
+Endre Solvin-Witzø, Chief Investment Officer of B2Holding ASA, 
+has on 10 February 2022 acquired 50,500 shares in B2Holding 
+ASA at an average price of NOK 9,666. Following this transaction, 
+Endre Solvin-Witzø holds 175,000 shares in the Company. 
+10.02.2022 
+Mandatory notification of 
+trade by Primary Insider 
+Erik J. Johnsen, Chief Executive Officer of B2Holding ASA, has on 
+10 February 2022 acquired 120,000 shares in B2Holding ASA at 
+an average price of NOK 9,632. Following this transaction, Erik J. 
+Johnsen and related party (Erling Johnsen AS) hold 2,200,000 
+shares in the Company. 
+10.02.2022 
+Mandatory notification of 
+trade by Primary Insider 
+Trond Kristian Andreassen, member of the Board of Directors of 
+B2Holding ASA, has on 10 February 2022 acquired 50,000 shares 
+in B2Holding ASA through his related party Vimar AS at an average 
+price of NOK 9.59. Following the transaction, Trond Kristian 
+Andreassen and related party hold 215,000 shares in the 
+Company. 
+MAJOR SHAREHOLDER NOTIFICATIONS 
+Date disclosed 
+Title 
+Summary of the information given 
+16.05.2022 
+B2Holding ASA: Disclosure 
+of voting rights 
+Reference is made to the Annual General Meeting in B2Holding 
+ASA to be held on 24 May 2022.    
+The Chairman of the Board of B2Holding ASA, Mr. Harald 
+Thorstein, has received power of attorneys to represent and vote 
+for 28,464,121 shares or 7.10 % of the voting shares taking into
+
+--- Page 42 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+42
+consideration the Company's own treasury shares.  
+In addition, Mr. Harald Thorstein controls 200,000 shares or 0.05 
+% of the voting shares. Hence, following the receipt of the powers 
+of attorney, Mr. Harald Thorstein controls 7.15 % of the voting 
+shares. The power of attorneys is without voting instructions.  
+The power of attorneys is only valid at the Annual General Meeting 
+on 24 May 2022. 
+TOTAL NUMBER OF VOTING RIGHTS AND CAPITAL 
+Date disclosed 
+Title 
+Summary of the information given 
+20.10.2022 
+B2Holding ASA: New share 
+capital registered 
+Reference is made to the stock exchange announcement on 10 
+October 2022 regarding the issuance of 200,000 new shares in 
+B2Holding ASA. The share capital increase related to this issuance 
+has now been registered with the Norwegian Register of Business 
+Enterprises.  
+The Company’s new share capital is NOK 40,136,482.40, divided 
+into 401,364,824 shares, each having a nominal value of NOK 0.10. 
+The Articles of Association have been updated accordingly and are 
+available on the Company’s webpage. 
+10.10.2022 
+B2Holding ASA: Increase 
+in share capital 
+As a result of the exercise of share options by a previous employee, 
+the Company's Board of Directors will, pursuant to an authorisation 
+granted by the Annual General Meeting on 24 May 2022, resolved 
+to increase the Company's share capital with NOK 20,000 by 
+issuing 200,000 new shares, each with a par value of NOK 0.10. 
+Following completion of the transaction, the Company's share 
+capital will be NOK 40,136,482.40, divided into 401,364,824 
+shares. 
+28.07.2022 
+B2Holding ASA: Capital 
+reduction and cancellation 
+of own shares completed 
+The Annual General Meeting of B2Holding ASA on 24 May 2022 
+decided to reduce the share capital by NOK 876,777.40, from NOK 
+40,993,259.80 to NOK 40,116,482.40, through cancellation of 
+8,767,774 shares at NOK 0.10 per share.  
+The resolution was published by the Register of Business 
+Enterprises on 3 June 2022, whereafter followed a six-week 
+creditor notice period. The creditor period has now been completed 
+without objections.  
+The share capital reduction was registered as completed with the 
+Norwegian Registry of Business Enterprises today. The share 
+capital after the capital reduction amounts to 401 164 824 shares 
+of NOK 0.10 per share. Please see the updated “Article of 
+Associations” attached. 
+ANNUAL, HALF YEARLY FINANCIAL REPORTS AND AUDIT REPORTS 
+Date disclosed 
+Title 
+Summary of the information given 
+15.02.2023 
+B2Holding ASA: Fourth 
+quarter results 2022 
+B2Holding had net revenues of NOK 824 million in the fourth 
+quarter, and gross collections including SPVs and joint ventures of
+
+--- Page 43 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+43
+NOK 1,261 million. Both collections and recoveries were strong, 
+supported by REOs sales exceeding expectations.  
+Cash EBITDA was NOK 1,140 million and adjusted EBIT was NOK 
+343 million. Adjusted Net profit was NOK 92 million equivalent to 
+earnings per share of NOK 0.23.  
+B2Holding invested NOK 769 million in new portfolios in the fourth 
+quarter of which 55 per cent were unsecured one-offs, 21 per cent 
+were unsecured forward flows, and 24 per cent were secured. The 
+ERC was NOK 20.2 billion at end of the quarter. An additional 
+investment of NOK 435 million was signed late in December and 
+closed in January, bringing the total investments up to NOK 1,204 
+million in the fourth quarter and NOK 2.6 billion at the end of the 
+year.  
+B2Holding has a solid funding base to support future growth. The 
+Group’s healthy funding structure and leveraging ensures liquidity 
+and financial flexibility to deliver on the strategy. The Group holds 
+a EUR 610m senior secured revolving credit facility (RCF). B2H03 
+was repaid in full on 24 October 2022 after a call option was 
+exercised in Q3 2022. In the first quarter of 2023, B2Holding 
+completed a tap issue of EUR 150m in B2H06. The tap proceeds 
+were used to repurchase EUR 19m of B2H04. A call option on 
+B2H04 was exercised on 2 February 2023 to repay B2H04 in full at 
+par plus accrued interest. The outstanding loan balance (adjusted 
+for Treasury Bonds) is EUR 95m and will be repaid on 2 March 
+2023. After the refinancing of the bonds mentioned above, the 
+Group holds two senior unsecured bond loans for a total of EUR 
+500m. The Group holds no treasury bonds after full repayment of 
+B2H04. 
+10.11.2022 
+B2Holding ASA: Third 
+quarter results 2022 
+B2Holding had net revenues of NOK 797 million in the third quarter, 
+and gross collections including SPVs and joint ventures of NOK 
+1,278 million. Both collections and recoveries were above the latest 
+forecast, supported by strong REOs sales. 
+B2Holding had net revenues of NOK 797 million in the third quarter, 
+and gross collections including SPVs and joint ventures of NOK 
+1,278 million. Both collections and recoveries were above the latest 
+forecast, supported by strong REOs sales. 
+Cash EBITDA was NOK 973 million and adjusted EBIT was NOK 
+373 million. Adjusted Net profit was NOK 171 million and Net profit 
+was NOK 143 million, equivalent to earnings per share of NOK 
+0.36.  
+B2Holding invested NOK 399 million in new portfolios in the third 
+quarter. All the portfolios purchased were unsecured, of which 34 
+per cent were forward flow transactions. The ERC was NOK 19.6 
+billion at end of the quarter.  
+B2Holding has a healthy funding structure and leverage that 
+ensures liquidity and financial flexibility. The Group holds a EUR 
+610m senior secured revolving credit facility (RCF). In September 
+the Group issued a new EUR 150m senior unsecured bond loan 
+with maturity on 22 September 2026 at an interest rate of 3M 
+EURIBOR + 690 basis points. A call option on B2H03 was 
+exercised on 23 September 2022 to repay B2H03 in full at par plus 
+accrued interest. As of October 2022, the Group holds three senior
+
+--- Page 44 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+44
+unsecured bond loans for a total of EUR 550m. A nominal value of 
+EUR 86m is held as treasury bonds on B2H04 maturing in May 
+2023.  
+The first and third quarters are normally quarters with seasonally 
+lower investment activity. Total invested and committed capital per 
+end of the third quarter totalled NOK 1,730m. The activity level has 
+been high, but B2Holding have maintained a disciplined and 
+selective approach to investment.  
+“The third quarter represented another quarter with stable and good 
+performance. The cash flow generation was once again strong, and 
+despite the restructuring activities carried out in the quarter, the 
+contribution from the countries managed by Veraltis Asset 
+Management continued the positive trend both on secured 
+recoveries and REO sales. Going forward we will continue our 
+capital discipline with focus on improved profitability through cost 
+control and a continuation of our selective approach to new portfolio 
+purchases. We believe this is the recipe for long term value creation 
+for our shareholders,” said Erik Just Johnsen, CEO B2Holding 
+ASA. 
+23.08.2022 
+B2Holding ASA: Second 
+quarter results 2022 
+B2Holding had net revenues of NOK 748 million in the second 
+quarter, and gross collections including SPVs and joint ventures of 
+NOK 1,245 million. Both collections and recoveries were above the 
+latest forecast, with strong REOs sales. 
+Cash EBITDA was NOK 949 million and adjusted EBIT was NOK 
+330 million. Net profit was NOK 25 million (Adj. Net profit of NOK 
+173 million), equivalent to earnings per share of NOK 0.06, 
+compared to NOK 162 million and NOK 0.39 per share in the 
+second quarter 2021.  
+B2Holding invested NOK 758 million in new portfolios in the second 
+quarter. All the portfolios purchased were unsecured, of which 20 
+per cent were forward flow transactions. The ERC was NOK 19.9 
+billion at end of the quarter.  
+B2Holding has a solid funding base to support future growth. The 
+Group’s healthy funding structure and leverage ensure liquidity and 
+financial flexibility. The Group holds three listed senior unsecured 
+bond loans for a total of EUR 600 million and a EUR 610m senior 
+secured revolving credit facility (RCF) that gives full flexibility to take 
+out the two upcoming bond maturities in November 2022 and May 
+2023. The project financing stage 1 from PIMCO, the Senior Facility 
+Arrangement (“SFA”), was completed on 19 August 2022, providing 
+a facility line of EUR 166 million of which 65% can be used for 
+reinvestment.  
+The Group signed an agreement for the sale of its subsidiary in 
+Bulgaria resulting in non-cash one-off effects impacting Net 
+Revenue NOK -32m, EBIT NOK -135m, and Net profit NOK -105m. 
+Other Non-recurring items of NOK 56m were related to the process 
+of establishing the secured master servicer, as well as the senior 
+financing with PIMCO. The ongoing restructuring activities will 
+result in a more efficient and leaner organisation.   
+NPL transaction activity continued the positive trend, with an 
+increase in volumes marketed, evaluated, and transacted.
+
+--- Page 45 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+45
+12.05.2022 
+B2Holding ASA: First 
+quarter results 2022 
+B2Holding had net revenues of NOK 716 million in the first quarter, 
+and cash collections including SPVs and joint ventures of NOK 
+1,214 million. Both collections and recoveries were above the latest 
+forecast, with strong REOs sales.  
+Cash EBITDA was NOK 934 million and adjusted EBIT was NOK 
+289 million. Net profit was NOK 97 million (Adj. Net profit of NOK 
+128 million), equivalent to earnings per share of NOK 0.24, 
+compared to NOK 130 million and NOK 0.33 per share in the first 
+quarter of 2021.  
+B2Holding invested NOK 239 million in new portfolios in the first 
+quarter. All the portfolios purchased were unsecured, of which 43 
+per cent were forward flow transactions. The ERC was NOK 18.7 
+billion at end of quarter.  
+B2Holding has a solid funding base to support future growth. The 
+Group’s healthy funding structure and leverage ensure liquidity and 
+financial flexibility. The Group holds three listed senior unsecured 
+bond loans for a total of EUR 600 million. After the quarter end, 
+B2Holding has signed a 2-year extension and EUR 100 million 
+increase of the existing Revolving Credit Facility (RCF) agreement 
+with improved terms and full flexibility to take out the existing EUR 
+50 million bridge loan and the two upcoming bond maturities in 
+November 2022 and May 2023.  
+The Group had stable underlying operating expenses excluding 
+non-recurring items of NOK 40 million related to restructuring. The 
+ongoing restructuring activities will result in a more efficient and 
+leaner organisation.  
+NPL transaction activity continued the positive trend from the end 
+of 2021 into Q1, with an increase in volumes marketed, evaluated, 
+and transacted.  
+“The first quarter was another good quarter with both secured and 
+unsecured delivering above expectations. REO sales were strong 
+in the first quarter and have contributed to another quarter with a 
+solid cash flow. On the investment side, we have focused on 
+maintaining a disciplined approach. As we observe a much-
+improved market with increased activity and a larger supply of 
+portfolios, we look ahead with optimism.” said Erik Just Johnsen, 
+CEO B2Holding ASA 
+29.04.2022 
+B2Holding: Annual report 
+2021 
+B2Holding has published its Annual report for 2021 today. The 
+Annual report 2021 is attached to this notice and will be made 
+available on the company's website, www.b2holding.no. The 
+Annual report 2021 is also available in the European Single 
+Electronic Format (ESEF). 
+10.02.2022 
+B2Holding ASA: Fourth 
+quarter results 2021 and 
+update on co-investment 
+discussions 
+B2Holding had net revenues of NOK 726 million in the fourth 
+quarter, and gross collections including SPVs and joint ventures of 
+NOK 1,266 million. Cost to collect was down 2 percentage points 
+quarter on quarter to 21 per cent in Q4 2021. Both collections and 
+recoveries were above the latest forecast, and REOs sold during 
+the quarter were well above book value.  
+Cash EBITDA was NOK 862 million and adjusted EBIT was NOK 
+297 million.
+
+--- Page 46 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+46
+Profit after tax was NOK 120 million, equivalent to earnings per 
+share of NOK 0.29, compared to NOK 123 million and NOK 0.30 
+per share in the fourth quarter 2020. The Board of Directors 
+proposes a cash dividend of NOK 0.42 per share based on the 
+financial year of 2021.  
+B2Holding invested NOK 552 million in new portfolios in the fourth 
+quarter. 88 per cent of the investments were unsecured portfolios, 
+of which 23 per cent were forward flow transactions. The ERC was 
+NOK 19.9 billion at end of quarter. 
+B2Holding has a solid funding base to support future growth with 
+NOK 2.2 billion in liquidity reserves at the end of the quarter. Bond 
+2 (B2H02) of EUR 175 million was repaid in the fourth quarter and 
+after the repayment the Group has three listed senior unsecured 
+bond loans for a total of EUR 600 million in addition to the bank 
+financing. Out of the outstanding bond loans, a nominal value of 
+EUR 27 million is held as treasury bonds, of which EUR 9 million is 
+held in Bond 3 maturing in November 2022.  
+Cost discipline in all the Group’s markets remained strong, and the 
+collection improvements implemented in the previous quarters 
+continued to contribute positively to both efficiency and 
+effectiveness of the unsecured business.  
+The Group is observing a notable increase in the volume of NPLs 
+coming to the market and expects more volume in 2022.  
+As previously announced, B2Holding ASA has been engaged in 
+discussions with reputable institutional investment partners to 
+establish 
+a 
+co-investment 
+partnership 
+predominantly 
+for 
+B2Holding’s back book in secured assets. 
+CHANGES IN THE RIGHTS ATTACHING TO THE CLASSES OF SHARES OR SECURITIES  
+Date disclosed 
+Title 
+Summary of the information given 
+30.06.2022 
+B2Holding: Long-Term 
+Incentive Program 
+In accordance with the Reward Policy and authorisation granted by 
+the Annual General Meeting on 24 May 2022, the Board of 
+Directors of B2Holding ASA (the "Company") has approved a long-
+term incentive program (LTIP) aimed to align the interests of the 
+participating employees with those of the Company's shareholders. 
+The program is discretionary, and participants are invited on an 
+annual basis.    
+The total number of share options awarded under LTIP 2022 is 
+2,110,000. Each option, when exercised, will give the right to 
+acquire one share in the Company. Pursuant to the vesting 
+schedule, 1/3 of the options will vest one, two and three years after 
+the day of granting. The strike price is equal to 20 days of volume 
+weighted average trading prices of the Company's shares on Oslo 
+Stock Exchange prior to the grant date (30 June 2022) which is 
+equal to 8.048 per share. The options that have not been exercised 
+will lapse five (5) years after the date of granting.    
+The following Primary Insiders of the Company have been awarded 
+options under the LTIP 2022:
+
+--- Page 47 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+47
+Chief Executive Officer, Erik Just Johnsen has been granted 
+350,000 share options. Following the granting, he and his related 
+parties hold 2,240,000 shares and 2,980,000 share options in the 
+Company.                   
+Chief Financial Officer, André Adolfsen has been granted 300,000 
+share options. Following the granting he holds 1,040,000 share 
+options in the Company.  
+Head of Unsecured Asset Management, Adam Parfiniewicz has 
+been granted 300,000 share options. Following the granting, he 
+and his related parties hold 6,000 shares and 1,180,000 share 
+options in the Company.  
+Chief Brand & Sustainability Officer, Maria Haddad has been 
+granted 210,000 share options. Following the granting, she holds 
+100,000 shares and 940,000 share options in the Company.  
+Chief Legal, Compliance Officer & HR, Cecilie Kjelland has been 
+granted 290,000 share options. Following the granting, she holds 
+900,000 share options in the Company.  
+Head of Commercial Strategy and Investor Relations, Rasmus 
+Hansson has been granted 200,000 share options. Following the 
+granting, he and his related parties hold 80,057 shares and 850,000 
+share options in the Company.   
+Chief Risk Officer, Jeremi Bobowski has been granted 210,000 
+share options. Following the granting, he holds 940,000 share 
+options in the Company.  
+Chief Investment Officer, Endre Solvin-Witzø has been granted 
+250,000 share options. Following the granting, he holds 275,000 
+shares and 700,000 share options in the Company
+
+--- Page 48 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+48
+12 Documents available  
+For the term of the Base Prospectus the following documents, where applicable, can be inspected at the Issuer's 
+website stated in clause 5.2: 
+(a) 
+the up to date articles of association of the Issuer; 
+(b) 
+all reports, letters, and other documents, valuations and statements prepared by any expert at the Issuer's 
+request any part of which is included or referred to in the Base Prospectus.
+
+--- Page 49 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+49
+13 Financial instruments that can be issued under the Base 
+Prospectus 
+The Base Prospectus, as approved in accordance with the EU Prospectus Regulation 2017/1129, allows for Bonds 
+to be offered to the public or admitted to trading on a regulated market situated or operating within any EEA country. 
+This chapter describes the form, type, definitions, general terms and conditions, return and redemption 
+mechanisms, rating and template for Final Terms associated with the Bonds. 
+Risk factors related to the Bonds are described in Chapter 1 Risk Factors. 
+13.1 Securities Form 
+A Bond is a financial instrument as defined in Norwegian Securities Trading Act’s (Verdipapirhandellovens)  
+§ 2-2.  
+The Bonds are electronically registered in book-entry form with the Securities Depository.  
+13.2 Security Type 
+Borrowing limit – tap issue
+The Loan may be either open or closed for increase of the Borrowing Amount during the tenor. A tap issue can take 
+place until five banking days before the Maturity Date. If the issue is open, the First Tranche and Borrowing Limit 
+will be specified in the Applicable Final Terms. 
+Return 
+Fixed Rate (FIX) 
+A Bond issue with a fixed Interest Rate will bear interest at a fixed rate as specified in the applicable Final Terms.  
+The Interest Rate will be payable quarterly, semi-annually or annually on the Interest Payment Dates as specified 
+in the applicable Final Terms. 
+Floating Rate (FRN) 
+A Bond issue with a floating Interest Rate will bear interest equal to a Reference Rate plus a fixed Margin for a 
+specified period (3 or, 6 months). Interest Rate or Reference Rate may be deemed to be zero. The period lengths 
+are equal throughout the term of the Loan, but each Interest Payment Date is adjusted in accordance with the 
+Business Day Convention. The Interest Rate for each forthcoming period are determined two Business Days prior 
+to each Interest Payment Date based on the then current value of the Reference Rate plus the Margin. 
+The Interest Rate will be payable quarterly or semi-annually on the Interest Payment Dates as specified in the 
+applicable Final Terms. 
+The relevant Reference Rate, the Margin, the Interest Payment Dates and the current Interest Rate will be specified 
+in the applicable Final Terms. 
+Redemption 
+The Loan will mature in full at the Maturity Date at a price equal to 100 per cent. of the nominal amount.  
+The Issuer may have the option to prematurely redeem the Loan in full at terms specified in the applicable Final 
+Terms.  
+The Bondholders may have the right to require that the Issuer purchases all or some of the Bonds held by that 
+Bondholder at terms specified in the applicable Final terms. 
+Security 
+The Bonds may be either secured or unsecured. Details will be specified in the applicable Final Terms. 
+Negative pledge 
+The Bonds may have negative pledge clause. Details will be specified in the applicable Final Terms.
+
+--- Page 50 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+50
+13.3 Definitions 
+This section includes a summary of the definitions set out in any Bond Terms as well as certain other definitions 
+relevant for this Prospectus. The Bond Trustee may amend the definitions in the Bond Terms for any new issue of 
+bonds during the tenor of this Base Prospectus. This may cause the definitions in this Base Prospectus to be 
+incorrect and no longer valid for such new issues of bonds. If the definitions in this Base Prospectus at any point in 
+time no longer represents the correct understanding of the definitions set out in the Bond Terms, the Bond Terms 
+shall prevail. The Bond Terms are attached to the Final Terms. 
+Additional Bonds: 
+Means Bonds issued under a Tap Issue, including any Temporary Bonds as defined in the Bond 
+Terms. 
+Attachment: 
+Means any schedule, appendix or other attachment to the Bond Terms. 
+Base Prospectus: 
+This document. Describes the Issuer and predefined features of Bonds that can be listed under 
+the Base Prospectus, as specified in the Prospectus Regulation (EU) 2017/1129. Valid for 12 
+months after it has been published. In this period, a prospectus may be constituted by the Base 
+Prospectus, any supplement(s) to the Base Prospectus and a Final Terms for each new issue. 
+Bond Issue/Bonds/ 
+Notes/the Loan: 
+Means (i) the debt instruments issued by the Issuer pursuant to the Bond Terms, including any 
+Additional Bonds and (ii) any overdue and unpaid principal which has been issued under a 
+separate ISIN in accordance with the regulations of the CSD from time to time. 
+Bond Terms: 
+Means the terms and conditions, including all Attachments which shall form an integrated part 
+of the Bond Terms, in each case as amended and/or supplemented from time to time. 
+Bondholder: 
+Means a person who is registered in the CSD as directly registered owner or nominee holder of 
+a Bond, subject however to the clause for Bondholders’ rights in the Bond Terms. 
+Bondholders’ 
+decisions: 
+The Bondholders’ Meeting represents the supreme authority of the Bondholders community in 
+all matters relating to the Bonds and has the power to make all decisions altering the terms and 
+conditions of the Bonds, including, but not limited to, any reduction of principal or interest and 
+any conversion of the Bonds into other capital classes. 
+At the Bondholders’ meeting each Bondholder may cast one vote for each voting bond owned 
+at close of business on the day prior to the date of the Bondholders’ meeting in the records 
+registered in the Securities Depository.  
+In order to form a quorum, at least half (1/2) of the voting bonds must be represented at the 
+Bondholders' meeting. See also the clause for repeated Bondholders’ meeting in the Bond 
+Terms.  
+Resolutions shall be passed by simple majority of the votes at the Bondholders' Meeting, 
+however, a majority of at least 2/3 of the voting bonds represented at the Bondholders’ Meeting 
+is required for any waiver or amendment of any terms of the Bond Terms. 
+(For more details, see also the clause for Bondholders’ decisions in the Bond Terms) 
+Bondholders rights: 
+Bondholders' rights are specified in the Bond Terms.  
+By virtue of being registered as a Bondholder (directly or indirectly) with the CSD, the 
+Bondholders are bound by the Bond Terms.
+Bond Trustee: 
+Nordic Trustee AS, Postboks 1470 Vika, 0116 Oslo, or its successor(s) Website: 
+https://nordictrustee.com 
+The Bond Trustee has power and authority to act on behalf of, and/or represent, the Bondholders 
+in all matters, including but not limited to taking any legal or other action, including enforcement 
+of the Bond Terms, and the commencement of bankruptcy or other insolvency proceedings 
+against the Issuer, or others. 
+The Bond Trustee shall represent the Bondholders in accordance with the finance documents. 
+The Bond Trustee is not obligated to assess or monitor the financial condition of the Issuer or 
+any other obligor unless to the extent expressly set out in the Bond Terms, or to take any steps 
+to ascertain whether any event of default has occurred. The Bond Trustee is entitled to take such 
+steps that it, in its sole discretion, considers necessary or advisable to protect the rights of the 
+Bondholders in all matters pursuant to the terms of the finance documents.
+
+--- Page 51 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+51
+Borrowing Limit – Tap 
+Issue and Borrowing 
+Amount/First Tranche 
+Borrowing Limit – Tap Issue is the maximum issue amount for an open Bond issue.  
+Borrowing Amount/First Tranche is the borrowing amount for a closed Bond Issue, eventually 
+the borrowing amount for the first tranche of an open Bond Issue. 
+Borrowing Limit – Tap Issue and Borrowing Amount/First Tranche will be specified in the Final 
+Terms. 
+Business Day: 
+Means any day on which commercial banks are open for general business and can settle foreign 
+currency transactions in Oslo, and TARGET2 is open for the settlement of payments in euro. 
+Unless otherwise specified in the Final Terms. 
+Business Day 
+Convention: 
+If the last day of any Interest Period originally falls on a day that is not a Business Day, the 
+Interest Payment Date will be as follow: 
+If Fixed Rate, the Interest Payment Date shall be postponed to the next day which is a Business 
+Day (Following Business Day convention). 
+If FRN, the Interest Period will be extended to include the first following Business Day unless 
+that day falls in the next calendar month, in which case the Interest Period will be shortened to 
+the first preceding Business Day (Modified Following Business Day convention). The Interest 
+Period is adjusted accordingly. Unless otherwise specified in the Final Terms. 
+Calculation Agent: 
+The Bond Trustee, if not otherwise stated in the applicable Final Terms. 
+Call Option: 
+The Final Terms may specify that the Issuer may redeem all but not only some of the 
+Outstanding Bonds on any Business Day.  
+In such case the Call Date(s), the Call Price(s) and the Call Notice Period will be specified in the 
+Final Terms. 
+Change of Control 
+Event: 
+If and when any person or a group of persons under the same Decisive Influence obtain Decisive 
+Influence over the Issuer. 
+Currency: 
+The currency in which the bond issue is denominated. 
+Currency will be specified in the Final Terms. 
+Day Count Convention:
+The convention for calculation of payment of interest; 
+(a) If Fixed Rate, the payment of interest shall be calculated on basis of a 360-day year 
+comprised of twelve months of 30 days each and, in case of an incomplete month, the actual 
+number of days elapsed (30/360-days basis), unless: 
+(i) 
+the last day in the relevant Interest Period is the 31st calendar day but the first day 
+of that Interest Period is a day other than the 30th or the 31st day of a month, in 
+which case the month that includes that last day shall not be shortened to a 30-
+day month; or 
+(ii) 
+the last day of the relevant Interest Period is the last calendar day in February, in 
+which case February shall not be lengthened to a 30-day month. 
+(b) If FRN, the payment of interest shall be calculated on basis of the actual number of days in 
+the Interest Period in respect of which payment is being made divided by 360 (actual/360-
+days basis). 
+Decisive Influence 
+A person having, as a result of an agreement or through the ownership of shares or interests in 
+another person (directly or indirectly): 
+a) 
+a majority of the voting rights in that other person; or 
+b) 
+a right to elect or remove a majority of the members of the board of directors of that 
+other person. 
+Denomination – Each 
+Bond: 
+The nominal amount of each Bond. 
+Denomination of each bond will be specified in the Final Terms.
+
+--- Page 52 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+52
+Disbursement Date / 
+Issue Date 
+Date of bond issue.  
+On the Issue Date the bonds will be delivered to the Bondholder’s VPS-account against 
+payment or to the Bondholder’s custodian bank if the Bondholder does not have his/her own 
+VPS-account. 
+The Issue Date will be specified in the Final Terms. 
+Exchange: 
+Means: 
+(a) Oslo Børs (the Oslo Stock Exchange); or 
+(b) any regulated market as such term is understood in accordance with the Markets in Financial 
+Instruments Directive 2014/65/EU (MiFID II) and Regulation (EU) No. 600/2014 on markets in 
+financial instruments (MiFIR). 
+Final Terms: 
+Document describing securities as specified in Prospectus Regulation (EU) 2017/1129, 
+prepared as part of the Prospectus. Final Terms will be prepared for each new security as 
+specified in Prospectus Regulation (EU) 2017/1129, issued by the Issuer. 
+The template for Final Terms has been approved by the Norwegian FSA, as competent authority 
+under Regulation (EU) 2017/1129. The Norwegian FSA only approves the template for Final 
+Terms as meeting the standards of completeness, comprehensibility and consistency imposed 
+by Regulation (EU) 2017/1129. Such approval should not be considered as an endorsement of 
+the quality of the securities that are subject of the Final Terms. Investors should make their own 
+assessment as to the suitability of investing in the securities. 
+Interest Determination 
+Date(s): 
+In the case of NIBOR: Second Oslo business day prior to the start of each Interest Period. 
+In the case of EURIBOR: Second Target 2 business day prior to the start of each Interest Period.
+Interest Determination Date(s) for other Reference Rates, see Final Terms. 
+Interest Payment 
+Date(s): 
+The Interest Rate is paid in arrears on the last day of each Interest Period.  
+Any adjustment will be made according to the Business Day Convention. 
+The Interest Payment Date(s) will be specified in the Final Terms. 
+Interest Period: 
+The first Interest Period runs from and including the Issue Date to but excluding the first Interest 
+Payment Date. The subsequent Interest Periods run from and including an Interest Payment 
+Date to but excluding the next Interest Payment Date. The last Interest Payment Date 
+corresponds to the Maturity Date. 
+Interest Rate: 
+Rate of interest applicable to the Bonds; 
+(i) 
+If Fixed Rate, the Bonds shall bear interest at the percentage rate per annum (based 
+on the Day Count Convention)  
+(ii) If FRN, the Bonds shall bear interest at a rate per annum equal to the Reference Rate 
+plus a Margin (based on the Day Count Convention). Interest Rate or Reference Rate 
+may be deemed to be zero. 
+The Interest Rate is specified in Final Terms. 
+Interest Rate 
+Adjustment Date: 
+Date(s) for adjusting of the interest rate for bond issue with floating interest rate. 
+The Interest Rate Adjustment Date will coincide with the Interest Payment Date. 
+ISIN: 
+International Securities Identification Number for the Bond Issue. ISIN is specified in Final 
+Terms. 
+Issuer: 
+B2Holding ASA is the Issuer under the Base Prospectus. 
+Issuer’s Bonds: 
+Means any Bonds which are owned by the Issuer or any affiliate of the Issuer. 
+Issue Price: 
+The price in percentage of the Denomination, to be paid by the Bondholders at the Issue Date.
+
+--- Page 53 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+53
+Issue price will be specified in Final Terms.  
+Joint Venture 
+Any joint venture entity, whether a company, unincorporated firm, undertaking, association, 
+joint venture or partnership or any other entity jointly owned by two or more persons. 
+LEI-code: 
+Legal Entity Identifier (LEI) is a 20-character reference code to uniquely identify legally distinct 
+entities that engage in financial transactions. 
+LEI-code is specified in Final Terms. 
+Listing: 
+Listing of a bond issue on an Exchange is due to the Base Prospectus, any supplement(s) to 
+the Base Prospectus and a Final Terms. 
+An application for listing will be sent after the Disbursement Date and as soon as possible after 
+the Prospectus has been approved by the Norwegian FSA. 
+The Issuer shall use its reasonable endeavours to ensure that the Bonds are listed on an 
+Exchange within six (6) months of the Issue Date and remain listed until the Bonds have been 
+redeemed in full. 
+In case of a Listing Failure Event and for as long as such Listing Failure Event is continuing, 
+the Margin shall be increased with one (1.00) percentage point per annum. 
+Bonds listed on an Exchange are freely negotiable. See also Market Making. 
+Listing Failure Event 
+a) 
+the Bonds have not been admitted to listing on an Exchange within six (6) months 
+following the Issue Date; or 
+b) 
+in the case of a successful admission to listing, a period of six (6) months has elapsed 
+since the Bonds ceased to be admitted to listing on an Exchange where the other 
+Bonds are listed. 
+Manager(s): 
+The bond issue’s Manager(s), as specified in the Final Terms. 
+Market Making: 
+For Bonds listed on an Exchange, a market-maker agreement between the Issuer and a 
+Manager may be entered into.  
+This will be specified in the Final Terms.
+Margin: 
+The margin, specified in percentage points, to be added to the Reference rate. 
+Margin will be specified in the Final terms.  
+Maturity Date: 
+The date the bond issue is due for payment, if not already redeemed pursuant to Call Option or 
+Put Option. The Maturity Date coincides with the last Interest Payment Date and is adjusted in 
+accordance with the Business Day Convention.  
+The Maturity Date is specified in the Final Terms. 
+Outstanding Bonds: 
+Means any Bonds not redeemed or otherwise discharged. 
+The Issuer will issue on the Issue date the first tranche of the bond issue as specified in Final 
+Terms. During the term of the bond issue, new tranches may be issued up to the Borrowing 
+Limit, as specified in Final Terms. 
+Paying Agent: 
+The entity designated by the Issuer to manage (maintain the Issuer Account for) the bond 
+issue in the Securities Depository. 
+The Paying Agent is specified in the Final Terms. 
+Principal amount: 
+Outstanding amounts under the Loan from time to time. 
+Prospectus: 
+The Prospectus consists of the Base Prospectus, any supplement(s) to the Base Prospectus 
+and the relevant Final Terms prepared in connection with application for listing on an 
+Exchange.
+
+--- Page 54 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+54
+Put Option: 
+The Final Terms may specify that upon the occurrence of a Put Option Event, each 
+Bondholder will have the right to require that the Issuer purchases all or some of the Bonds 
+held by that Bondholder. 
+In such case the exercise procedures, the repayment date and redemption price will be 
+specified in the Final Terms. 
+Put Option Event: 
+Shall have the meaning ascribed to such term in 11.3 (Change of control) in the Bond Terms. 
+Redemption: 
+The Outstanding Bonds will mature in full on the Maturity Date and shall be redeemed by the 
+Issuer on the Maturity Date at a price equal to 100 per cent. of the Nominal Amount, if not 
+already redeemed pursuant to Call Option or Put Option.  
+Redemption Price: 
+The price determined as a percentage of the Denomination to which the bond issue is to be 
+redeemed at the Maturity Date.  
+Redemption Price is 100 per cent of Denomination – Each Bond. 
+Reference Rate:  
+For FRN, the Reference Rate shall be EURIBOR or NIBOR or any other rate as specified in the 
+Final Terms, which appears on the Relevant Screen Page as at the specified time on the Interest 
+Determination Date in question. 
+The Reference Rate, the Relevant Screen Page, the specified time, information about the past 
+and future performance and volatility of the Reference Rate and any fallback provisions will be 
+specified in Final Terms.  
+Relevant Screen Page:
+For FRN, an internet address or an electronic information platform belonging to a renowned 
+provider of Reference Rates. 
+The Relevant Screen Page will be specified in the Final Terms. 
+Central Securities 
+Depository /CSD: 
+The securities depository in which the bonds are registered, in accordance with the Norwegian 
+Act of 2019 no. 6 regarding Securities depository. 
+Unless otherwise specified in the Final Terms, the following Securities Depository will be used: 
+Norwegian Central Securities Depository (“Verdipapirsentralen” or ”VPS”), P.O. Box 4, 0051 
+Oslo. 
+Subsidiary: 
+Means a company over which another company has Decisive Influence 
+Tap Issues: 
+The Issuer may, provided that the conditions set out in the Bond Terms are met, at one or more 
+occasions up until, but excluding, the Maturity Date or any earlier date when the Bonds have 
+been redeemed in full, issue Additional Bonds until the aggregate nominal amount of the Bonds 
+outstanding equals in aggregate the maximum issue amount (less the aggregate nominal 
+amount of any previously redeemed Bonds) 
+If N/A is specified in the Borrowing Limit in the Final Terms, the Issuer may not make Tap issues 
+under the Bond Terms. 
+TARGET2 
+Means the Trans-European Automated Real-time Gross Settlement Express Transfer system 
+which utilises a single shared platform and which was launched on 19 November 2007. 
+Temporary Bonds: 
+If the Bonds are listed on an Exchange and there is a requirement for a supplement to the Base 
+Prospectus in order for the Additional Bonds to be listed together with the Bonds, the Additional 
+Bonds may be issued under a separate ISIN which, upon the approval of the supplement, will 
+be converted into the ISIN for the Bonds issued on the initial Issue Date. The Bond Terms 
+governs such Temporary Bonds. The Issuer shall inform the Bond Trustee, the Exchange and 
+the Paying Agent once such supplement is approved. 
+Yield: 
+Dependent on the Market Price for bond issue with floating rate. Yield for the first interest period 
+can be determined when the interest is known, normally two Business Days before the Issue 
+Date. 
+For bond issue with fixed rate, yield is dependent on the market price and number of Interest 
+Payment Date.
+
+--- Page 55 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+55
+The yield is calculated in accordance with «Anbefaling til Konvensjoner for det norske 
+sertifikat- og obligasjonsmarkedet» prepared by Forening for finansfag in March 2022: 
+https://finansfag.no/wp-content/uploads/2022/06/Rentekonvensjon_oppdatert2022.pdf
+Yield is specified in Final Terms. 
+13.4 General terms and conditions 
+These general terms and conditions summarize and describe the general terms and conditions set out in any Bond 
+Terms. The Bond Trustee may amend the general terms and conditions in the Bond Terms for any new issue of 
+bonds during the tenor of this Base Prospectus. This may cause the general terms and conditions in this Base 
+Prospectus to be incorrect and no longer valid for such new issues of bonds. If the general terms and conditions in 
+this Base Prospectus at any point in time no longer represents the correct understanding of the general terms and 
+conditions set out in the Bond Terms, the Bond Terms shall prevail. The Bond Terms are attached to the Final 
+Terms. 
+13.4.1 Use of proceeds 
+The net proceeds (net of legal costs, fees of the Managers and the Bond Trustee and any other agreed costs and 
+expenses) from the Bond Issue shall be applied to refinancing and for general corporate purposes. 
+The use of proceeds will be specified in the Final Terms. 
+13.4.2 Publication
+The Base Prospectus, any supplement(s) to the Base Prospectus and the Final Terms will be published on Issuer’s 
+website https://www.b2holding.no, or on the Issuer's visit address, Cort Adelers gate 30, 0254 Oslo, Norway, or 
+their successor (s). 
+The Prospectus will be published by a stock exchange announcement. 
+13.4.3 Redemption 
+Matured interest and matured principal will be credited each Bondholder directly from the Securities Registry. 
+Claims for interest and principal shall be limited in time pursuant the Norwegian Act relating to the Limitation Period 
+Claims of 18 May 1979 no 18, p.t. 3 years for interest rates and 10 years for principal. 
+13.4.4 Fees, Expenses and Tax legislation 
+The tax legislation of the investor’s Member State and of the Issuer’s country of incorporation may have an impact 
+on the income received from the securities. 
+The Issuer shall pay any stamp duty and other public fees in connection with the loan. Any public fees or taxes on 
+sales of Bonds in the secondary market shall be paid by the Bondholders, unless otherwise decided by law or 
+regulation. The Issuer is responsible for withholding any withholding tax imposed by Norwegian law. 
+13.4.5 Security Depository and secondary trading 
+The Bonds are electronically registered in book-entry form with the Securities Depository, see also the definition of 
+"Securities Depository". Securities Depository is specified in the Final Terms. 
+Secondary trading will be made over an Exchange for Bonds listed on a marketplace. See also definition of “Market 
+Making”. 
+Prospectus fee for the Base Prospectus including templates for Final Terms is NOK 94,000. In addition, there is a 
+listing fee for listing of the Bonds in accordance with the current price list of the Exchange. The listing fees will be 
+specified in the Final Terms.  
+13.4.6 Status of the Bonds, Security and Special Conditions 
+The Bonds shall constitute senior debt obligations of the Issuer. The Bonds shall, subject to Clause 9 (Potential 
+security and/or guarantee sharing) in the Bond Terms, rank at least pari passu with all other obligations of the
+
+--- Page 56 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+56
+Issuer (save for such claims which are preferred by bankruptcy, insolvency, liquidation or other similar laws of 
+general application) and shall rank ahead of subordinated debt. 
+Subject to any Security or guarantees granted pursuant to Clause 9 (Potential security and/or guarantee sharing) 
+in the Bond Terms, the Bonds are unsecured.
+The kind of securities and potential security and/or guarantee sharing will be specified in the Final Terms. 
+13.4.7 Bond Terms 
+The Bond Terms has been entered into between the Issuer and the Bond Trustee. The Bond Terms regulates the 
+Bondholders’ rights and obligations in relations with the bond issue. The Bond Trustee enters into the Bond Terms 
+on behalf of the Bondholders and is granted authority to act on behalf of the Bondholders to the extent provided for 
+in the Bond Terms. 
+By virtue of being registered as a Bondholder (directly or indirectly) with the CSD, the Bondholders are bound by 
+the Bond Terms and any other Finance Document, without any further action required to be taken or formalities to 
+be complied with by the Bond Trustee, the Bondholders, the Issuer or any other party. 
+The Bond Terms will be attached to the Final Terms for each Bond issue and is also available through the 
+Manager(s), Issuer and the Bond Trustee. 
+13.4.8 Legislation 
+The Bond Terms is governed by and construed in accordance with Norwegian law.  
+The Issuer is subject to Norwegian legislation, the most relevant law for the Group's operations is the Public Limited 
+Companies Act, the Norwegian Securities Trading Act and the Norwegian Stock Exchange Regulations. 
+13.4.9 Approvals 
+The Bonds will be issued in accordance with the Issuer’s Board of Directors approval. 
+The date of the Issuer’s Board of Directors approval will be specified in the Final Terms 
+The Base Prospectus has been submitted to the Norwegian Financial Supervisory Authority (Finanstilsynet) before 
+listing of the Bonds takes place. 
+Final Terms will be submitted to Finanstilsynet for information in connection with an application for listing of a Bond 
+Issue. 
+The Base prospectus will not be the basis for offers for subscription in bonds that are not subject to a prospectus 
+obligation. 
+13.4.10 Restrictions on the free transferability of the securities 
+Any restrictions on the free transferability of the securities will be specified in the Final Terms. 
+13.5 Return and redemption 
+Bonds may have return and redemption mechanisms as explained below. The relevant Final Terms refer to these 
+mechanisms and provide relevant parameter values for the specific bond issue. 
+13.5.1 Bonds with floating rate 
+13.5.1.a Return (interest) 
+The Interest Rate is specified in Interest Rate ii). Payment of the Interest Rate is calculated on basis of the Day 
+Count Convention (b). 
+Interest Rate or Reference Rate may be deemed to be zero.  
+The period lengths are equal throughout the term of the Loan, but each Interest Payment Date is adjusted in 
+accordance with the Business Day Convention. The Interest Rate for each forthcoming period are determined two 
+Business Days prior to each Interest Payment Date based on the then current value of the Reference Rate plus the 
+Margin.
+
+--- Page 57 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+57
+The Interest Rate is paid in arrears on each Interest Payment Date. The first Interest Period runs from and including 
+the Issue Date to but excluding the first Interest Payment Date. The subsequent Interest Periods run from and 
+including an Interest Payment Date to but excluding the next Interest Payment Date. The last Interest Payment 
+Date corresponds to the Maturity Date. 
+The relevant Reference Rate, the Margin, the Interest Payment Dates and the then current Interest Rate will be 
+specified in the applicable Final Terms. 
+Interest calculation method for secondary trading is given by act/360, modified following. 
+13.5.1.b Redemption 
+Redemption is made in accordance with Redemption. 
+13.5.2 Bonds with fixed rate 
+13.5.2.a Return (interest) 
+The interest rate is specified in Interest Rate (i). Payment of the Interest Rate is calculated on basis of the Day 
+Count Convention (a).  
+The Interest Rate is paid in arrears on each Interest Payment Date. The first Interest Period runs from and including 
+the Issue Date to but excluding the first Interest Payment Date. The subsequent Interest Periods run from and 
+including an Interest Payment Date to but excluding the next Interest Payment Date. The last Interest Payment 
+Date corresponds to the Maturity Date. 
+The Interest Rate and the Interest Payment Dates will be specified in the applicable Final Terms. 
+Interest calculation method for secondary trading is given by act/365 for bond issue with fixed rate.  
+13.5.2.b Redemption 
+Redemption is made in accordance with Redemption. 
+13.6 Rating 
+The Issuer is rated by S&P and Moody’s, see Appendix 2: 
+Agency 
+Corporate 
+Family 
+Ranking
+Bond 
+Issue 
+Ranking*
+Outlook 
+Last publication 
+S&P 
+B+ 
+B+ 
+Stable 
+https://www.b2holding.no/content/download/1242/8953/file/B2Holding%20ASA%20-
+%20S&P%20Research%20Update%20-%208%20Dec%202022.pdf
+Moody’s 
+Ba3 
+B1 
+Stable 
+https://www.b2holding.no/content/download/1220/8813/file/B2Holding%20-
+%20Credit%20Opinion%20-%206%20Oct%202022.pdf
+* Please note that only bond B2H05 and B2H06 (NO0012704107) are rated. 
+ 
+Each of Moody's and S&P is established in the European Union and is registered under Regulation (EC) No. 
+1060/2009 (as amended) (the "CRA Regulation") and is on the list of registered credit rating agencies published on 
+ESMA website: http://www.esma.europa.eu/page/List-registered-and-certified-CRAs
+
+--- Page 58 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+58
+. 
+13.7 Final Terms 
+Template for Final Terms for fixed and floating bond issue, see Appendix 2
+
+--- Page 59 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+59
+14 Third party information   
+Part of the information given in this Base Prospectus has been sourced from a third party. It is hereby confirmed 
+that the information has been accurately reproduced and that as far as  B2Holding ASA is aware and is able to 
+ascertain from information published by that third party, no facts have been omitted which would render the 
+reproduced information inaccurate or misleading. The following table lists such third parties:  
+Kind of 
+information 
+Publicly available 
+Name of third 
+party 
+Business 
+address 
+Qualifications 
+Material 
+interest in 
+the 
+Company 
+Overview of the 
+European NPL 
+Markets (page 26) 
+Yes 
+https://www.eba.europa.eu/ri
+sk-analysis-and-data/risk-
+dashboard
+Risk Dashboard Q1 22 1) Q1 
+21 figures for Norway 
+European 
+Banking 
+Authority 
+Tour Europlaza 
+20 avenue 
+André Prothin, 
+92400 
+Courbevoie 
+France 
+The EBA Risk 
+Dashboard is 
+part of the 
+regular risk 
+assessment 
+conducted by 
+the EBA and 
+complements 
+the Risk 
+Assessment 
+Report. 
+None 
+ESG Risk Rating 
+(page 30) 
+Yes 
+https://www.sustainalytics
+.com/esg-
+rating/b2holding-
+asa/1030878791
+Morningstar, 
+Sustainalytics 
+De Entrée 35-
+37, 1101 BH 
+Amsterdam 
+Website, ESG 
+Rating 
+None
+
+--- Page 60 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+60
+Cross reference list 
+Reference in 
+Base 
+Prospectus
+Refers to 
+Details 
+10.1 Financial 
+statements 
+Annual Report 2021, available at: 
+https://www.b2holding.no/content/download/
+1117/8161/file/B2Holding%20Annual%20re
+port%202021.pdf 
+Group’s accounting policies note 2, pages 91-97 
+B2Holding ASA’s accounting policies, note 1, 
+pages 142-143 
+Annual Report 2021, available at: 
+https://www.b2holding.no/content/download/
+1117/8161/file/B2Holding%20Annual%20re
+port%202021.pdf 
+B2Holding ASA Consolidated 
+Income statement page 85 
+Statement of comprehensive income page 86 
+Statement of financial position page 87 
+Statement of cash flow page 89 
+Notes to the consolidated financial statements 
+pages 91-138 
+B2Holding ASA Parent
+Statement of income page 139 
+Balance sheet page 140 
+Statement of cash flow page page 141 
+Notes to the financial statements pages 142-152 
+Q4 Report 2022, available at: 
+https://www.b2holding.no/content/download/
+1265/9094/version/2/file/B2Holding%20Q4
+%202022%20results%2015.02.2023.pdf 
+B2Holding ASA Consolidated 
+Income statement page 9 
+Statement of comprehensive income page 9 
+Statement of financial position page 10 
+Statement of cash flow page page 11 
+Notes to the consolidated financial statements 
+pages 12-20
+Q3 Report 2022, available at: 
+https://www.b2holding.no/content/download/
+1236/8913/version/1/file/B2Holding%20Q3
+%202022%20report%2010.11.2022.pdf 
+B2Holding ASA Consolidated 
+Income statement page 9 
+Statement of comprehensive income page 9 
+Statement of financial position page 10 
+Statement of cash flow page page 11 
+Notes to the consolidated financial statements 
+pages 12-20
+Q2 Report 2022, available at: 
+https://www.b2holding.no/content/download/
+1197/8666/version/1/file/B2Holding%20ASA
+%20Q2%202022%20report%2023.08.2022.
+pdf 
+B2Holding ASA Consolidated 
+Income statement page 9 
+Statement of comprehensive income page 9 
+Statement of financial position page 10 
+Statement of cash flow page page 11 
+Notes to the consolidated financial statements 
+pages 12-20
+10.2 Auditing of 
+historical 
+annual financial 
+information 
+Annual Report 2021, available at: 
+https://www.b2holding.no/content/download/
+1117/8161/file/B2Holding%20Annual%20re
+port%202021.pdf 
+Auditors report pages 154-158 
+References to the above mentioned documents are limited to information given in “Details”, e.g. that the non- 
+incorporated parts are either not relevant for the investor or covered elsewhere in the prospectus.
+
+--- Page 61 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+61
+Joint Global Coordinators’ and Joint Lead Managers’ 
+disclaimer 
+DNB Bank ASA, DNB Markets, Nordea Bank Apb, filial i Norge and Pareto Securities AS as Joint Global 
+Coordinators and Arctic Securities AS, DNB Bank ASA, DNB Markets, Nordea Bank Apb, filial i Norge and Pareto 
+Securities AS as Joint Lead Managers have assisted the Company in preparing the Base Prospectus. The Joint 
+Global Coordinators and the Joint Lead Managers have not verified the information contained herein. Accordingly, 
+no representation, warranty or undertaking, expressed or implied, is made and the Joint Global Coordinators and 
+the Joint Lead Managers expressly disclaim any legal or financial liability as to the accuracy or completeness of the 
+information contained in this Base Prospectus or any other information supplied in connection with the issuance or 
+distribution of bonds by B2Holding ASA.  
+This Base Prospectus is subject to the general business terms of the Joint Global Coordinators and the Joint Lead 
+Managers, available at their respective websites. Confidentiality rules and internal rules restricting the exchange of 
+information between different parts of the Joint Global Coordinators and the Joint Lead Managers may prevent 
+employees of the Joint Global Coordinators and the Joint Lead Managers who are preparing this Base Prospectus 
+from utilizing or being aware of information available to the Joint Global Coordinators and the Joint Lead Managers 
+and/or any of its affiliated companies and which may be relevant to the recipient's decisions. 
+Each person receiving this Base Prospectus acknowledges that such person has not relied on the Joint Global 
+Coordinators and the Joint Lead Managers, nor on any person affiliated with it in connection with its investigation 
+of the accuracy of such information or its investment decision. 
+Oslo, 27 February 2023 
+Joint Global Coordinators and Joint Lead Managers: 
+DNB Bank ASA 
+(www.dnb.no) 
+    Nordea Bank Abp, filial i Norge 
+(www.nordea.no) 
+Pareto Securities AS 
+www.paretosec.com
+Joint Lead Manager: 
+Arctic Securities AS 
+(www.arctic.com)
+
+--- Page 62 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+62
+Annex 1 Articles of Association for B2Holding ASA
+
+--- Page 63 ---
+B2Holding ASA, 27 February 2023 
+Base Prospectus 
+63
+Annex 2 Template for Final Terms for fixed and floating rate 
+Bonds
+
+--- Page 64 ---
+[Appendix 2]
+Base prospectus 
+Final Terms 
+for
+[ISIN] 
+[Title of the bond issue]
+[Place], [Date]
+
+--- Page 65 ---
+B2Holding ASA 
+Final Terms - [Title of Notes] 
+ISIN [ISIN] 
+2  
+Terms used herein shall be deemed to be defined as such for the purpose of the conditions set forth in the Base 
+Prospectus clauses 2 Definitions and 13.3 Definitions, these Final Terms and the attached Bond Terms. 
+[In case MiFID II identified target market are professional investors and eligible counterparties, insert the 
+following:] 
+[MIFID II product governance / Professional investors and eligible counterparties (ECPs) only target 
+market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is eligible 
+counterparties and professional clients only, each as defined in Directive 2014/65/EU (as amended) (MiFID II); 
+and (ii) all channels for distribution of the Bonds to eligible counterparties and professional clients are appropriate. 
+[Consider any negative target market]. Any person subsequently offering, selling or recommending the Bonds (a 
+distributor) should take into consideration the manufacturer[’s/s’] target market assessment; however, a 
+distributor subject to MiFID II is responsible for undertaking its own target market assessment in respect of the 
+Bonds (by either adopting or refining the manufacturer[’s/s’] target market assessment) and determining 
+appropriate distribution channels.] 
+[UK MiFIR product governance / Professional investors and eligible counterparties only (ECPs) target 
+market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is only 
+eligible counterparties, as defined in the FCA Handbook Conduct of Business Sourcebook, and professional 
+clients, as defined in Regulation (EU) No 600/2014 as it forms part of domestic law by virtue of the European 
+Union (Withdrawal) Act 2018 (UK MiFIR); and (ii) all channels for distribution of the Bonds to eligible 
+counterparties and professional clients are appropriate. [Consider any negative target market]. Any person 
+subsequently offering, selling or recommending the Bonds (a distributor) should take into consideration the 
+manufacturer[’s/s’] target market assessment; however, a distributor subject to the FCA Handbook Product 
+Intervention and Product Governance Sourcebook (the UK MiFIR Product Governance Rules) is responsible for 
+undertaking its own target market assessment in respect of the Bonds (by either adopting or refining the 
+manufacturer[’s/s’] target market assessment) and determining appropriate distribution channels.] 
+[PROHIBITION OF SALES TO EEA RETAIL INVESTORS – The Bonds are not intended to be offered, sold or 
+otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in 
+the European Economic Area (EEA). For these purposes, a retail investor means a person who is one (or more) 
+of: (i) a retail client as defined in point (11) of Article 4(1) of MiFID II; (ii) a customer within the meaning of 
+Directive (EU) 2016/97 where that customer would not qualify as a professional client as defined in point (10) of 
+Article 4(1) of MiFID II; or (iii) not a qualified investor as defined in the Prospectus Regulation (as defined below). 
+Consequently no key information document required by Regulation (EU) No. 1286/2014 (as amended) (the 
+PRIIPs Regulation) for offering or selling the Bonds or otherwise making them available to retail investors in the 
+EEA has been prepared and therefore offering or selling the Bonds or otherwise making them available to any 
+retail investor in the EEA may be unlawful under the PRIIPs Regulation.]  
+[PROHIBITION OF SALES TO UK RETAIL INVESTORS – The Bonds are not intended to be offered, sold or 
+otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in 
+the United Kingdom (UK). For these purposes, a retail investor means a person who is one (or more) of: (i) a retail 
+client, as defined in point (8) of Article 2 of Regulation (EU) No. 2017/565 as it forms part of domestic law by 
+virtue of the European Union (Withdrawal) Act 2018 (EUWA); (ii) a customer within the meaning of the provisions 
+of FSMA and any rules or regulations made under the FSMA to implement Directive (EU) 2016/97, where that 
+customer would not qualify as a professional client, as defined in point (8) of Article 2(1) of Regulation (EU) No. 
+600/2014 as it forms part of domestic law by virtue of the EUWA; or (iii) not a qualified investor as defined in 
+Article 2 of Regulation (EU) 2017/1129 as it forms part of domestic law by virtue of the EUWA. Consequently no 
+key information document required by Regulation (EU) No. 1286/2014 as it forms part of domestic law by virtue of 
+the EUWA (the UK PRIIPs Regulation) for offering or selling the Bonds or otherwise making them available to 
+retail investors in the UK has been prepared and therefore offering or selling the Bonds or otherwise making them 
+available to any retail investor in the UK may be unlawful under the UK PRIIPs Regulation.] 
+[In case MiFID II identified target market are retail investors, professional investors and eligible counterparties, 
+insert the following:] 
+[MIFID II product governance / Retail investors, professional investors and eligible counterparties (ECPs) 
+target market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is eligible 
+counterparties, professional clients and retail clients, each as defined in Directive 2014/65/EU (as amended) 
+(MiFID II); EITHER [and (ii) all channels for distribution of the Bonds are appropriate[, including investment 
+advice, portfolio management, non-advised sales and pure execution services]] OR [(ii) all channels for 
+distribution to eligible counterparties and professional clients are appropriate; and (iii) the following channels for 
+distribution of the Bonds to retail clients are appropriate – investment advice[,/and] portfolio management[,/ 
+and][non-advised sales][and pure execution services][, subject to the distributor’s suitability and appropriateness 
+obligations under MiFID II, as applicable]]. [Consider any negative target market]. Any person subsequently
+
+--- Page 66 ---
+B2Holding ASA 
+Final Terms - [Title of Notes] 
+ISIN [ISIN] 
+3  
+offering, selling or recommending the Bonds (a distributor) should take into consideration the manufacturer[’s/s’] 
+target market assessment; however, a distributor subject to MiFID II is responsible for undertaking its own target 
+market assessment in respect of the Bonds (by either adopting or refining the manufacturer[‘s/s’] target market 
+assessment) and determining appropriate distribution channels[, subject to the distributor’s suitability and 
+appropriateness obligations under MiFID II, as applicable].] 
+[UK MiFIR product governance / Retail investors, professional investors and eligible counterparties target 
+market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is retail 
+clients, as defined in point (8) of Article 2 of Regulation (EU) 2017/565 as it forms part of domestic law by virtue of 
+the European Union (Withdrawal) Act 2018 (EUWA), and eligible counterparties, as defined in the FCA Handbook 
+Conduct of Business Sourcebook (COBS), and professional clients, as defined in Regulation (EU) No 600/2014 
+as it forms part of domestic law by virtue of the EUWA (UK MiFIR); EITHER [and (ii) all channels for distribution of 
+the Bonds are appropriate, including investment advice, portfolio management, non-advised sales and pure 
+execution services] OR [(ii) all channels for distribution to eligible counterparties and professional clientsare 
+appropriate; and (iii) the following channels for distribution of the Bonds to retail clients are appropriate – 
+investment advice[,/and] portfolio management[,/ and][non-advised sales][and pure execution services][, subject 
+to the distributor’s (as defined below) suitability and appropriateness obligations under COBS, as applicable]]. 
+[Consider any negative target market]. Any person subsequently offering, selling or recommending the Bonds (a 
+distributor) should take into consideration the manufacturer[’s/s’] target market assessment; however, a 
+distributor subject to FCA Handbook Product Intervention and Product Governance Sourcebook (the UK MiFIR 
+Product Governance Rules) is responsible for undertaking its own target market assessment in respect of the 
+Bonds (by either adopting or refining the manufacturer[’s/s’] target market assessment) and determining 
+appropriate distribution channels[, subject to the distributor’s suitability and appropriateness obligations under 
+COBS, as applicable].] 
+This document constitutes the Final Terms of the Bonds described herein pursuant to the Regulation (EU) 
+2017/1129 and must be read in conjunction with the Base Prospectus dated 27 February 2023 and [the 
+supplement[s] to the Base Prospectus dated [date]].  
+The Base Prospectus dated 27 February 2023 [and the supplement[s] to the Base Prospectus dated [date]] 
+[together] constitute[s] a base prospectus for the purposes of the Regulation (EU) 2017/1129 ([together,] the 
+“Base Prospectus”). 
+Final Terms include a summary of each Bond Issue. 
+These Final Terms and the Base Prospectus [and the supplement[s] to the Base Prospectus] are available on the 
+Issuer's website https://www.b2holding.no or on the Issuer's visit address, Cort Adelers gate 30, 0254 Oslo, 
+Norway, or their successor (s).
+
+--- Page 67 ---
+B2Holding ASA 
+Final Terms - [Title of Notes] 
+ISIN [ISIN] 
+4  
+1 Summary  
+The below summary has been prepared in accordance with the disclosure requirements in Article 7of in the 
+Regulation (EU) 2017/1129 as of 14 June 2017. 
+Introduction and warning 
+Disclosure requirement 
+Disclosure 
+Warning 
+This summary should be read as introduction to the Base 
+Prospectus. Any decision to invest in the securities should be 
+based on consideration of the Base Prospectus as a whole by the 
+investor. The investor could lose all or part of the invested capital.  
+Where a claim relating to the information contained in the Base 
+Prospectus is brought before a court, the plaintiff investor might, 
+under the national law, have to bear the costs of translating the 
+Base Prospectus before the legal proceedings are initiated. Civil 
+liability attaches only to those persons who have tabled the 
+summary including any translation thereof, but only where the 
+summary is misleading, inaccurate or inconsistent, when read 
+together with the other parts of the Base Prospectus, or where it 
+does not provide, when read together with the other parts of the 
+prospectus, key information in order to aid investors when 
+considering whether to invest in such securities. 
+Name and international securities 
+identification number (‘ISIN’) of the 
+securities. 
+[●] 
+Identity and contact details of the issuer, 
+including its legal entity identifier (‘LEI’). 
+B2Holding ASA, Cort Adelers gate 30, 0254 Oslo, Norway. 
+Telephone number is +47 22 83 39 50.  
+Registration number 992 249 986 
+LEI-code ((legal entity identifier): 5967007LIEEXZXFHOO08. 
+Identity and contact details of the offeror or 
+of the person asking for admission to trading 
+on a regulated market. 
+There is no offeror, the Base Prospectus has been produced in 
+connection with listing of the securities on an Exchange. The 
+Issuer is going to ask for admission to trading on a regulated 
+market. 
+Identity and contact details of the competent 
+authority that approved the prospectus 
+Financial Supervisory Authority of Norway (Finanstilsynet), 
+Revierstredet 3, 0151 Oslo.   
+Telephone number is +47 22 93 98 00.  
+E-mail: prospekter@finanstilsynet.no. 
+Date of approval of the prospectus. 
+The Base Prospectus was approved on 27 February 2023. 
+Key information on the Issuer 
+Disclosure requirements
+Disclosure
+Who is the issuer of the securities 
+B2Holding ASA 
+Domicile and legal form 
+The Issuer is a public limited liability company incorporated in 
+Norway and primarily organized under the laws of Norway, 
+including the Public Limited Companies Act. LEI-code ((legal 
+entity identifier): 5967007LIEEXZXFHOO08. 
+Principal activities 
+B2Holding is a pan-European debt investor and servicer. Our 
+vision is to become the leading trusted partner that actively re-
+shapes the credit management industry.  
+Through our business solutions we contribute to handling 
+society’s debt problems, bridging the gap that defaulted debt 
+represents in the credit chain. Our business is about people and 
+creating shared value for business and society. Being a socially 
+responsible creditor and a trusted solution provider for our 
+partners are fundamental in our way of doing business. 
+BUSINESS LINES 
+The Group’s main business lines are Unsecured and Secured 
+Asset Management. The markets are allocated according to their 
+dominant ERC asset class and expected market potential.  
+Unsecured markets: 
+Norway, Sweden, Denmark, Finland, Estonia, Latvia, Lithuania, 
+Poland, Spain, Bulgaria, Czech Republic, Hungary.
+
+--- Page 68 ---
+B2Holding ASA 
+Final Terms - [Title of Notes] 
+ISIN [ISIN] 
+5  
+Secured markets: 
+Italy, France, Romania, Greece, Cyprus, Slovenia, Croatia, 
+Serbia, Bosnia and Herzegovina, Montenegro. 
+Offices: 
+ 
+Norway, Head office in Oslo 
+ 
+Luxembourg, Investment office and portfolio owner. 
+Major shareholders 
+The 20 largest shareholders as of 15 February 2023:
+There are no arrangements, known to the Company, the operation of which may at a subsequent date result in a  
+change in control of the Company. 
+Management 
+Name  
+Position  
+Erik Just Johnsen 
+Chief Executive Officer  
+André Adolfsen 
+Chief Financial Officer 
+Cecilie Kjelland 
+Chief Legal, Compliance & HR Officer 
+Rasmus Hansson 
+Head of Commercial Strategy and Investor Relations
+Endre Solvin-Witzø 
+Chief Investment Officer 
+Jeremi Bobowski 
+Chief Risk Officer 
+Adam Parfiniewicz 
+Head of Unsecured Asset Management 
+George Christoforou 
+Head of Secured Asset Management 
+Maria Haddad 
+Chief Brand & Sustainability Officer 
+Statutory auditors 
+Ernst & Young AS 
+What is the key financial information 
+regarding the issuer
+Key financial information
+
+--- Page 69 ---
+B2Holding ASA 
+Final Terms - [Title of Notes] 
+ISIN [ISIN] 
+6  
+B2Holding ASA Consolidated 
+Amounts in NOK million 
+YTD Q4 Report 
+2022 
+Unaudited
+YTD Q3 Report 
+2022  
+Unaudited
+YTD Q2 Report 
+2022 
+Unaudited
+Annual Report 
+2021 
+Audited
+Operating profit (net income) 
+1 029 
+725 
+388 
+1 308 
+Net financial debt (long term debt plus 
+short-term debt minus cash) 
+9 042 
+8 971 
+9 037 
+9 067 
+Net Cash flows from operating activities 
+3 142 
+2 386 
+1 590 
+3 505 
+Net Cash flows from financing activities 
+-392 
+-81 
+-455 
+-2 385 
+Net Cash flow from investing activities 
+-1 900 
+-1 195 
+-780 
+-1 155 
+B2Holding ASA 
+Amounts in NOK million 
+Annual Report 2021 
+Audited
+Operating profit (net income) 
+-135 
+Net financial debt (long term debt plus short-term debt minus cash) 
+5 725 
+Net Cash flows from operating activities 
+342 
+Net Cash flows from financing activities 
+-1 210 
+Net Cash flow from investing activities 
+863 
+There is no description of any qualifications in the audit report for the Annual Report 2021. 
+What are the key risk factors that are specific 
+to the issuer
+Most material key risk factors  
+We may not be able to collect the expected amounts on our portfolios. 
+Amounts recovered on our credit portfolios may be less than expected and may even be less than the total 
+amount paid for such portfolios for various reasons, including inaccurate diligence, a mistake in our pricing model, 
+and legislation changes impacting our ability to collect.  
+We are exposed to risk relating to assumption of ownership of collateral provided under our secured debt 
+portfolios. 
+There can be no assurance that we will be able to divest such collateral in a manner and price that will result in 
+collection of the underlying debt.  
+Improper disclosure of our clients’ sensitive data, customer data or a breach of data protection laws could 
+negatively affect our business or reputation. 
+         Failure to comply with data protection and privacy obligations may result in financial penalties, regulatory 
+oversight, significant brand and reputational damage, legal action (class action or breach of contract) and 
+shareholder divestment.  
+The statistical models and analytical tools we use may prove to be inaccurate. 
+We have developed and use models to project the remaining cash flow generation from our credit portfolios and 
+assess alternative strategies for improving the collectability of the credit portfolios, but there can be no assurance 
+that we will be able to achieve the recoveries forecasted by the models.  
+We are exposed to significant reputational risk and are subject to voluntary codes of conduct. 
+Negative attention and news regarding the debt purchase and collection industry and individual debt 
+purchasers or collectors, including us, may have a negative impact on a debtor’s willingness to pay a debt owed to 
+us and may diminish our attractiveness as a counterparty for debt sellers and other third parties. These actions 
+could impact the ability to collect on the credit portfolios that we purchase.
+
+--- Page 70 ---
+B2Holding ASA 
+Final Terms - [Title of Notes] 
+ISIN [ISIN] 
+7  
+Our decentralized organization exposes us to compliance risks and lack of quality control at the Group 
+level. 
+Although we have established risk management and internal control measures to ensure compliance and 
+quality control throughout our organization, our decentralized organization and dependence on local operations to 
+implement our control measures and mitigate risks exposes us to increased risks relating to non-compliance and 
+quality control. 
+Our operations are highly dependent upon access to, and the functioning and integrity of, our core IT 
+applications, systems and infrastructure.
+Any material disruption to, or failure of, our systems, the systems of our third party providers or the systems of 
+the banking and other sectors that are integral to our business, especially if it also impacts our backup or disaster 
+recovery systems, would disrupt our operations materially and adversely affect our business.  
+We may not be able to procure sufficient funding to purchase further debt portfolios as they become 
+available on acceptable terms or at all.
+Our ability to obtain funding in the future will depend on our performance and our prospects, as well as factors 
+over which we do not exercise control such factors may include weak economic and capital market conditions. 
+Our substantial leverage and debt service obligations could adversely affect our business and prevent us 
+from fulfilling our obligations with respect to the Bonds. 
+We have a significant amount of outstanding debt with substantial debt service requirements and our significant 
+leverage could have important consequences for our business and operations and for holders of the Bonds. 
+Key information on the securities 
+Disclosure requirements
+Disclosure
+What are the main features of the securities
+Description of the securities, including ISIN 
+code.
+[●]
+Currency for the bond issue
+[●]
+Borrowing Limit and Borrowing Amount  
+ [● tranche] 
+[●] 
+Denomination – Each Bond 
+[●] 
+Any restrictions on the free transferability of 
+the securities. 
+[●] 
+Description of the rights attached to the 
+securities, limitations to those rights and 
+ranking of the securities.
+[●]
+Information about Issue and Maturity Date, 
+interest rate, instalment and representative 
+of the bondholders
+[●]
+Status of the bonds and security 
+[●] 
+Where will the securities be traded
+Indication as to whether the securities 
+offered are or will be the object of an 
+application for admission to trading. 
+[●]  
+What are the key risks that are specific to the 
+securities
+What are the key risks that are specific to the securities 
+Most material key risks 
+The Company is a holding company and is dependent upon cash flow from its subsidiaries to meet its 
+obligations, in general and under the Bonds. 
+The inability of the Company’s subsidiaries to transfer cash to the Company may mean that, even though the 
+Company may have sufficient resources on a consolidated basis to meet its obligations under its debt agreements, 
+it may not be able to meet such obligations.  
+Your right to receive payments under the Bonds will be effectively subordinated to claims of our existing 
+and future secured creditors.
+
+--- Page 71 ---
+B2Holding ASA 
+Final Terms - [Title of Notes] 
+ISIN [ISIN] 
+8  
+The Bonds will not be secured by any of our assets and as a result, the indebtedness represented by the Bonds will 
+be effectively subordinated to any existing and future secured indebtedness we may incur. 
+Key information on the admission to trading on a regulated marked 
+Disclosure requirements
+Disclosure
+Under which conditions and timetable can I 
+invest in this security? 
+ [●] 
+The estimate of total expenses related to the admission to trading, 
+please see clause 13.4.5 in the Base Prospectus.  
+[/ Other: (specify)] 
+Listing fee Oslo Børs [●] 
+Registration fee Oslo Børs [●] 
+Why is the prospectus being produced
+In connection with listing of the securities on the Oslo Børs. 
+Reasons for the admission to trading on a 
+regulated marked and use of. 
+Use of proceeds [●] 
+Estimated net amount of the proceeds [●] 
+Description of material conflicts of interest to 
+the issue including conflicting interests. 
+[●]
+
+--- Page 72 ---
+B2Holding ASA 
+Final Terms - [Title of Notes] 
+ISIN [ISIN] 
+9  
+2 Detailed information about the security 
+Generally:
+ISIN code: 
+[ISIN] 
+The Loan/The Bonds/The Notes: 
+[Title of the bond issue] 
+Borrower/Issuer: 
+B2Holding ASA, Norwegian enterprise no. 992 249 986 and  
+LEI-code 5967007LIEEXZXFHOO08. 
+Group: 
+Means the Issuer and its subsidiaries from time to time. 
+Security Type: 
+[Secured/unsecured] [open] bond issue with [fixed/floating] rate 
+Borrowing Limit – Tap Issue: 
+[Currency]  
+[Amount borrowing limit]
+Borrowing Amount [●] tranche: 
+[Currency]   
+ [Amount [●] tranche]
+Outstanding Bonds: 
+[Currency]   
+ [Amount [●]]
+Denomination – Each bond: 
+[Currency] 
+[Amount denomination] - each and ranking pari 
+passu among themselves
+Securities Form: 
+As set out in the Base Prospectus clause 13.1. 
+Publication: 
+As specified in the Basic Prospectus section 13.4.2. 
+Issue Price: 
+[As defined in the Base Prospectus section 13.3
+[Issue price] % 
+Disbursement Date/Issue Date: 
+[As defined in the Base Prospectus section 13.3
+[Issue date] 
+Maturity Date: 
+[As defined in the Base Prospectus section 13.3
+[Maturity Date] 
+Interest Rate:
+Interest Bearing from and Including: 
+[Issue date 
+/ Other: (specify)] 
+Interest Bearing To: 
+[As defined in the Base Prospectus section 13.3 
+[Maturity Date 
+/ Other: (specify)] 
+Reference Rate: 
+[As defined in the Base Prospectus section 13.3 
+Floating rate: [NIBOR / EURIBOR] [3 / 6 / 12] months  
+[description of Reference Rate] 
+Relevant Screen Page: [Relevant Screen Page] 
+Specified time: [specified time] 
+Information about the past and future performance and volatility of the 
+Reference Rate is available at [Relevant Screen Page / other: (specify)] 
+Fallback provisions: [Provisions] 
+/ Other: (specify)]
+
+--- Page 73 ---
+B2Holding ASA 
+Final Terms - [Title of Notes] 
+ISIN [ISIN] 
+10  
+/ Fixed Rate: N/A] 
+Margin: 
+[As defined in the Base Prospectus section 13.3
+Floating Rate: [Margin] % p.a. 
+/ Fixed Interest: N/A 
+/ Other: (specify)] 
+Interest Rate: 
+[Bond issue with floating rate (as defined in the Base Prospectus section 
+13.3): [Reference Rate + Margin]  
+Current Interest Rate: [current interest rate] % p.a. 
+/ Bond Issue with fixed rate (as defined in the Base Prospectus section 
+13.3): [Interest rate] % p.a. 
+Day Count Convention: 
+[Floating Rate: As defined in the Base Prospectus section 13.3 
+/ Fixed Rate: As defined in the Base Prospectus section 13.3 
+/ Other: (specify)] 
+Day Count Fraction – Secondary 
+Market: 
+[Floating Rate: As specified in the Base Prospectus section 13.5.1.a 
+/ Fixed Rate: As specified in the Base Prospectus section 13.5.2.a 
+/ Other: (specify)]  
+Interest Determination Date: 
+[Floating Rate: As defined in the Base Prospectus section 13.3.  
+Interest Rate Determination Date: [Interest Rate Determination Date(s)] 
+each year.  
+/ Fixed rate: N/A 
+/ Other: (specify)] 
+Interest Rate Adjustment Date: 
+[Floating Rate: As defined in the Base Prospectus section 13.3.  
+/ Fixed rate: N/A] 
+Interest Payment Date: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.5.1 (FRN) / section 13.5.2 (fixed rate)
+Interest Payment Date: [Date(s)] each year.  
+The first Interest Payment Date is [Date].  
+#Days first term: 
+[Number of interest days] days 
+Yield: 
+As defined in the Base Prospectus section 13.3. 
+The Yield is [yield]  
+Business Day: 
+As defined in the Base Prospectus section 13.3. 
+/ Other: (specify)] 
+Amortisation and Redemption:
+Redemption: 
+As defined in the Base Prospectus section 13.3 and as specified in the 
+Base Prospectus section 13.4.3, 13.5.1.b and 13.5.2.b. 
+The Maturity Date is [maturity date] 
+Redemption Price is [redemption price] %
+
+--- Page 74 ---
+B2Holding ASA 
+Final Terms - [Title of Notes] 
+ISIN [ISIN] 
+11  
+Call Option: 
+As defined in the Base Prospectus section 13.3. 
+[terms of the call option] 
+Call Date(s): [call date(s)] 
+Call Price(s): [call price(s)] 
+Call Notice Period: [call notice period] 
+Put Option: 
+As defined in the Base prospectus section 13.3. 
+[terms of the put option] 
+Obligations:
+Issuer’s special obligations during the 
+term of the Bond Issue 
+As specified in the Base Prospectus section 13.4.6. 
+/ Other: (specify)] 
+Listing:
+Listing of the Bond Issue/Marketplace: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.5. 
+Exchange for listing of the Bonds: [Exchange] 
+/ The Bonds will not be applied for listing on any Exchange. 
+/ Other: (specify)] 
+Any restrictions on the free 
+transferability of the securities: 
+As specified in the Base prospectus section 13.4.10. 
+Restrictions on the free transferability of the securities: [specify] 
+Purpose/Use of proceeds: 
+As specified in the Base Prospectus section 13.4.1. 
+Estimated total expenses related to the offer: [specify] 
+Estimated net amount of the proceeds: [specify] 
+Use of proceeds: [specify] 
+[Other: (specify)] 
+Prospectus and Listing fees: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.5. 
+Listing fees: [specify] 
+/ Other: (specify)] 
+Market-making: 
+As defined in the Base Prospectus section 13.3. 
+[A market-making agreement has been entered into between the Issuer 
+and [name of market maker]] 
+/ Other: (specify)] 
+Approvals: 
+As specified in the Base Prospectus section 13.4.9. 
+Date of the Board of Directors’ approval: [date] 
+/ Other: (specify)] 
+Bond Terms: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.7.  
+By virtue of being registered as a Bondholder (directly or indirectly) with
+
+--- Page 75 ---
+B2Holding ASA 
+Final Terms - [Title of Notes] 
+ISIN [ISIN] 
+12  
+the CSD, the Bondholders are bound by these Bond Terms and any 
+other Finance Document, without any further action required to be taken 
+or formalities to be complied with by the Bond Trustee, the Bondholders, 
+the Issuer or any other party.
+/ Other: (specify)] 
+Status and security: 
+As specified in the Base Prospectus section 13.4.6.  
+/ Other: (specify)] 
+Bondholders’ meeting/ 
+Voting rights: 
+As defined in the Base Prospectus section 13.3. 
+/ Other: (specify)] 
+Availability of the Documentation: 
+https://www.b2holding.no
+Manager(s): 
+[name and contact details of Manager] 
+[LEI for Manager]
+Bond Trustee: 
+As defined in the Base prospectus section 13.3. 
+The Bond Trustee is [name of the Bond Trustee] 
+Paying Agent: 
+As defined in the Base prospectus section 13.3. 
+The Paying Agent is [name of the Paying Agent] 
+Securities Depository / CSD: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.5 
+/ Other: (specify)] 
+Calculation Agent: 
+[As defined in the Base Prospectus section 13.3 
+/ Other: (specify)]  
+Listing fees: 
+Prospectus fee for the Base Prospectus including template for Final 
+Terms is NOK 94,000. 
+[Listing and other fees at the Exchange: (specify)
+/ No listing: N/A]
+
+--- Page 76 ---
+B2Holding ASA 
+Final Terms - [Title of Notes] 
+ISIN [ISIN] 
+13  
+3 Additional information 
+Advisor 
+The Issuer has mandated [name of manager[s]] as [type of manager] for the issuance of the Loan. The [type of 
+manager] [has/have] acted as advisor[s] to the Issuer in relation to the pricing of the Loan. 
+The [type of manager] will be able to hold position in the Loan.  
+/ Other: (specify)] 
+Interests and conflicts of interest 
+[The involved persons in the Issuer or offer of the Bonds have no interest, nor conflicting interests that are 
+material to the Bond Issue. 
+/ Other: (specify)] 
+Rating 
+[There is no official rating of the Loan. 
+The Loan is rated as follows: 
+Standard & Poor’s: [•] 
+Moody’s: [•] 
+The Issuer is rated as follows: 
+Standard & Poor’s: [•] 
+Moody’s: [•] 
+/ Other: (specify)]  
+Listing of the Loan: 
+[As defined in the Base Prospectus section 13.3] 
+The Prospectus will be published in [country]. An application for listing at [Exchange] will be sent as soon as 
+possible after the Issue Date. Each bond is negotiable. 
+Statement from the [type of manager]: 
+[name of manager[s]] [has/have] assisted the Issuer in preparing the prospectus. The [type of manager] 
+[has/have] not verified the information contained herein. Accordingly, no representation, warranty or undertaking, 
+express or implied, is made, and the [type of manager] expressively disclaim[s] any legal or financial liability as to 
+the accuracy or completeness of the information contained in this prospectus or any other information supplied in 
+connection with bonds issued by the Issuer or their distribution. The statements made in this paragraph are 
+without prejudice to the responsibility of the Issuer. Each person receiving this prospectus acknowledges that 
+such person has not relied on the [type of manager] nor on any person affiliated with them in connection with its 
+investigation of the accuracy of such information or its investment decision. 
+[place], [date] 
+[name of manager[s]] 
+[web address of manager[s]]

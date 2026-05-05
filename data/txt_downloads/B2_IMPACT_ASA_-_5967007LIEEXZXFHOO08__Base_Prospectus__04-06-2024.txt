@@ -1,0 +1,4124 @@
+--- Page 1 ---
+B2 Impact ASA 
+ 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Oslo, 4 June 2024
+
+--- Page 2 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+2
+Important information 
+ 
+The Base Prospectus is based on sources such as annual reports and publicly available information and forward-
+looking information based on current expectations, estimates and projections about global economic conditions, as 
+well as the economic conditions of the regions and industries that are major markets for B2 Impact ASA’s (the 
+Company) lines of business. 
+ 
+A prospective investor should consider carefully the factors set forth in Chapter 1 Risk factors, and elsewhere in the 
+Prospectus, and should consult his or her own expert advisors as to the suitability of an investment in the bonds. 
+ 
+IMPORTANT – EEA AND UK RETAIL INVESTORS - If the Final Terms in respect of any Bonds includes a legend 
+titled "Prohibition of Sales to EEA Retail Investors" and/or "Prohibition of Sales to UK Retail Investors", the Bonds 
+are not intended to be offered, sold or otherwise made available to and should not be offered, sold or otherwise 
+made available to any retail investor in the European Economic Area (‘EEA’) and/or in the United Kingdom (the 
+“UK”). Consequently no key information document required by Regulation (EU) No. 1286/2014 (as amended) (the 
+PRIIPs Regulation) (and for UK, as it forms part of domestic law by virtue of the EUWA (the UK PRIIPs Regulation)) 
+for offering or selling the Bonds or otherwise making them available to retail investors in the EEA and/or the UK has 
+been prepared and therefore offering or selling the Bonds or otherwise making them available to any retail investor 
+in the EEA and/or the UK may be unlawful under the PRIIPs Regulation and/ or the UK PRIIPS Regulation. 
+ 
+MiFID II product governance and/or UK MiFIR product governance – The Final Terms in respect of any Bonds 
+will include a legend titled “MiFID II product governance” and/or “UK MiFIR product governance” which will outline 
+the target market assessment in respect of the Bonds and which channels for distribution of the Bonds are 
+appropriate. Any person subsequently offering, selling or recommending the Bonds (a “distributor”) should take into 
+consideration the target market assessment; however, a distributor subject to MiFID II is responsible for undertaking 
+its own target market assessment in respect of the Bonds (by either adopting or refining the target market 
+assessment) and determining appropriate distribution channels. 
+ 
+This Base Prospectus is subject to the general business terms of the Joint Global Coordinators and the Joint Lead 
+Managers, available at their websites (www.dnb.no, www.nordea.no, and www.sb1markets.no) 
+ 
+The Joint Global Coordinators and the Joint Lead Managers and/or any of its affiliated companies and/or officers, 
+directors and employees may be a market maker or hold a position in any instrument or related instrument discussed 
+in this Base Prospectus and may perform or seek to perform financial advisory or banking services related to such 
+instruments. The Joint Global Coordinators and the Joint Lead Managers’ corporate finance department may act 
+as manager or co-manager for this Company in private and/or public placement and/or resale not publicly available 
+or commonly known.   
+ 
+Copies of this Base Prospectus are not being mailed or otherwise distributed or sent in or into or made available in 
+the United States. Persons receiving this document (including custodians, nominees and trustees) must not 
+distribute or send such documents or any related documents in or into the United States. 
+ 
+Other than in compliance with applicable United States securities laws, no solicitations are being made or will be 
+made, directly or indirectly, in the United States. Securities will not be registered under the United States Securities 
+Act of 1933 and may not be offered or sold in the United States without registration or an applicable exemption from 
+registration requirements. 
+ 
+The distribution of the Base Prospectus may be limited by law also in other jurisdictions, for example in non-EEA 
+countries. Approval of the Base Prospectus by Finanstilsynet (the Norwegian FSA) implies that the Base Prospectus 
+may be used in any EEA country. No other measures have been taken to obtain authorisation to distribute the Base 
+Prospectus in any jurisdiction where such action is required. 
+ 
+The Base Prospectus dated 4 June 2024 together with a Final Terms and any supplements to these documents 
+constitute the Prospectus. 
+ 
+The content of this Base Prospectus does not constitute legal, financial or tax advice and potential investors should 
+seek legal, financial and/or tax advice. 
+ 
+Unless otherwise stated, this Base Prospectus is subject to Norwegian law. In the event of any dispute regarding 
+the Base Prospectus, Norwegian law will apply.
+
+--- Page 3 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+3
+TABLE OF CONTENTS:  
+ 
+DESCRIPTION OF THE BASE PROSPECTUS ..............................................................................4 
+1 RISK FACTORS .................................................................................................................5 
+2 DEFINITIONS ................................................................................................................. 13 
+3 PERSONS RESPONSIBLE .................................................................................................. 15 
+4 STATUTORY AUDITORS ................................................................................................... 16 
+5 INFORMATION ABOUT THE ISSUER ................................................................................... 17 
+6 BUSINESS OVERVIEW ..................................................................................................... 18 
+7 TREND INFORMATION ..................................................................................................... 22 
+8 ADMINISTRATIVE, MANAGEMENT AND SUPERVISORY BODIES ............................................. 23 
+9 MAJOR SHAREHOLDERS .................................................................................................. 26 
+10 FINANCIAL INFORMATION CONCERNING THE COMPANY'S ASSETS AND LIABILITIES, 
+FINANCIAL POSITION AND PROFITS AND LOSSES. ..................................................... 27 
+11 REGULATORY DISCLOSURES .......................................................................................... 29 
+12 DOCUMENTS AVAILABLE ................................................................................................ 36 
+13 FINANCIAL INSTRUMENTS THAT CAN BE ISSUED UNDER THE BASE PROSPECTUS ................ 37 
+14 THIRD PARTY INFORMATION .......................................................................................... 47 
+CROSS REFERENCE LIST .................................................................................................... 48 
+JOINT GLOBAL COORDINATORS’ AND JOINT LEAD MANAGERS’ DISCLAIMER ............................ 49 
+ANNEX 1 ARTICLES OF ASSOCIATION FOR B2 IMPACT ASA .................................................... 50 
+ANNEX 2 TEMPLATE FOR FINAL TERMS FOR FIXED AND FLOATING RATE BONDS ...................... 51
+
+--- Page 4 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+4
+Description of the Base Prospectus 
+ 
+Under this Base Prospectus (as supplemented and amended from time to time), the Issuer may from time to time 
+issue and list bonds (“Bonds”) denominated in any currency agreed between the Issuer and the relevant dealer.  
+The Bonds will be issued on a senior basis as secured or unsecured, with fixed or floating interest rate. The Bonds 
+may have put- and call options. 
+The Bonds will be electronically registered in the Norwegian Central Securities Depository or any other CSD that 
+allows for bonds issued in uncertificated and dematerialised book-entry form. 
+There is no limit with regard to the maximum aggregate nominal amount of all bonds from time to time outstanding 
+under the prospectus. However, each issue of bonds will have either a given borrowing amount in the case where 
+there is only one tranche, or a given borrowing limit in the case of more than one tranche.     
+The Bonds may be issued on a continuing basis to any dealer that the Issuer decides upon.  
+The Base Prospectus has been approved by the Financial Supervisory Authority of Norway as competent authority 
+under Regulation (EU) 2017/1129, as amended (the “Prospectus Regulation”) as a base prospectus issued in 
+compliance with the Prospectus Regulation for the purpose of giving information regarding the bonds issued under 
+the prospectus. The Base Prospectus is valid within twelve months from the date of the Base Prospectus. 
+ 
+Information on website(s) mentioned in the Base Prospectus/the Final Terms does not form part of the Base 
+Prospectus/the Final Terms unless that information is incorporated by reference into the Base Prospectus/the Final 
+Terms.
+
+--- Page 5 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+5
+1 Risk factors  
+An investment in the Bonds involves risks. An investor should carefully consider the risks described below before 
+investing in the Bonds. If any of the events described below actually occurs, our business, results of operations, 
+financial condition or prospects could be materially adversely affected and, accordingly, the value and the trading 
+price of the Bonds may decline, resulting in a loss of all or part of any investment in the Bonds. Furthermore, the 
+risks and uncertainties described herein may not be the only ones that we face.  
+In each category below, the Issuer sets out the most material risks, in its assessment, taking into account the 
+negative impact of such risk on the Issuer and the probability of its occurrence. 
+1.1 Risk factors related to the Issuer 
+ 
+Risks related to the industry in which we operate. 
+ 
+The value of our existing portfolios may deteriorate, or we may not be able to collect sufficient amounts on 
+our portfolios to take advantage of opportunities for portfolio purchases as they arise in the market. 
+ 
+As the length of time involved in collecting on our existing portfolios may be extensive and the factors affecting debt 
+collection rates may be volatile and outside of our control, we may be unable to identify economic trends or make 
+changes in our purchasing strategies in a timely manner. 
+ 
+Subsequently, it is uncertain that any of the claims in our portfolio of purchased loans and receivables will eventually 
+be collected. If the cash flows from our existing portfolios (and the debt portfolios we purchase in the future) are 
+less than anticipated, we may be unable to purchase all of the new portfolios that we would like to purchase, we 
+may have to pay a higher interest rate to finance the purchase of new portfolios or we may have to accept lower 
+returns, which could in turn have a material adverse effect on our business, results of operation and financial 
+condition. 
+ 
+We may not be able to purchase portfolios at appropriate prices or of sufficient quality. 
+ 
+If we are unable to identify sufficient levels of attractive portfolios and generate an appropriate return on purchased 
+loans and receivables, we may experience difficulties covering the expenses of our business operations and may, 
+as a consequence, have to reduce the number of our collection personnel or take other measures to reduce costs. 
+These developments could lead to disruptions in our operations, loss of efficiency, low employee loyalty, fewer 
+experienced employees and excess costs associated with unused space in our facilities. Any of these developments 
+may have a material adverse effect on our business, results of operation and financial condition. 
+ 
+We are exposed to risk relating to assumption of ownership of collateral provided under our secured debt 
+portfolios. 
+ 
+We may, in order to secure our claim, assume ownership of collateral provided under any secured debt. We cannot 
+foresee whether we will be able to divest such collateral in a manner and price that will result in collection of the 
+underlying debt. Further, we may incur costs, i.e., maintenance and insurance costs, and we may be exposed to 
+liability (such as insurance obligations and claims for damages) relating to collateral for which we have assumed 
+ownership. 
+ 
+Our purchasing patterns and the seasonality of our business may lead to volatility in our cash flow. 
+ 
+Our business depends on the ability to collect on our debt portfolios and purchase portfolios of debt. Debt collection 
+is affected by seasonal factors, including the number of workdays in a given month, the propensity of customers to 
+take holidays at particular times of the year and annual cycles in disposable income. The combination of seasonal 
+collections and costs and uneven purchases may result in low cash flow at a time when attractive debt portfolios 
+become available. It could occur that in the future we will not be able to obtain interim funding by making other 
+borrowings. A lack of cash flow could prevent us from purchasing otherwise desirable debt portfolios or prevent us 
+from meeting our obligations under any forward flow agreements we may enter into, either of which could have a 
+material adverse effect on our business, results of operation and financial condition. 
+ 
+Our collections may decrease and/or the timing on when we collect may be delayed if the number of 
+consumers becoming subject to personal insolvency procedures increases. 
+ 
+We recover on claims that may become subject to insolvency procedures under applicable laws and we also 
+purchase portfolios containing claims that are currently subject to insolvency proceedings. We are generally unable 
+to collect on portfolios under insolvency procedures involving the sale of a person's assets. As a result, our ability 
+to successfully collect on portfolios may decline or the timing on when we collect on portfolios may be delayed with
+
+--- Page 6 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+6
+an increase in personal insolvency procedures, which could have a material adverse effect on our business, results 
+of operation and financial condition. 
+ 
+We may purchase portfolios that contain accounts which are not eligible to be collected, and it may not 
+be possible firms to bring successful claims pursuant to purchase contracts or otherwise. 
+ 
+Some of the portfolios that we purchase may include some individual accounts which are not eligible to be collected, 
+often due to the inadequate quality and completeness, or total lack, of historical customer documentation needed 
+for servicers to collect on those accounts. If we purchase portfolios containing too many accounts that are not 
+eligible for collection and/or that are unenforceable and if we are unable to return those accounts to, or have 
+recourse against, the relevant debt sellers, servicers may not recover anticipated returns or anything at all from 
+such accounts, which could make such purchases unprofitable and consequently have a material adverse effect on 
+our business, results of operation and financial condition. 
+ 
+A portion of the collections from debt portfolios depends on successful legal proceedings and such 
+proceedings may not always be successful. 
+ 
+Our future revenues will depend on the success of such legal proceedings and should any such proceedings or a 
+higher proportion of such proceedings in comparison to past experience fail to succeed, we may not obtain the 
+expected returns on our investments, which may have a material adverse effect on our business, results of operation 
+and financial condition. 
+ 
+Our operations in multiple jurisdictions expose us to local risks in a number of European jurisdictions. 
+ 
+We currently have local platforms, offices and/or portfolios in several European jurisdictions. We are subject to the 
+laws, regulations and licensing requirements of those jurisdictions which differ between these jurisdictions. Despite 
+often being based on the same EU regulatory framework, the local implementation of these rules oftentimes 
+diverges. Such similar yet dissimilar rules could lead to challenges or breaches when operating cross borders. Duly 
+tracking different local regulatory frameworks and ensuring compliance poses a risk.  Any failure to comply with 
+applicable legislation or regulation of the debt purchase and collections sector and the broader consumer credit 
+industry could result in the suspension, termination or impairment of our ability to conduct business. This could in 
+turn have a material adverse effect on our business, results of operation and financial condition. 
+ 
+We rely on third parties to collect amounts under our credit portfolios. 
+ 
+We outsource certain collection and litigation activities on accounts in our credit portfolios to third party servicers, 
+debt collection agencies, law firms and other external agents. Any failure by third parties to adequately perform 
+services for us (such as retain required licenses, apply with collection laws, comply with agreed principals and 
+routines etc.) could materially reduce our cash flow, income and profitability or affect our reputation. Any 
+deterioration in or loss of any key relationships may have a material adverse effect on our business, results of 
+operation and financial condition. 
+  
+ 
+Risks related to the organization and governance of the Issuer 
+ 
+The statistical models and analytical tools we use may prove to be inaccurate. 
+ 
+We have developed and use models to project the remaining cash flow generation from our credit portfolios and 
+assess alternative strategies for improving the collectability of the credit portfolios. At the time of purchase, however, 
+we have imperfect information about the precise age of the receivables, the ability of the customer to pay, the time 
+at which the customer will pay, and the cost required to service and collect such debt. In addition, our statistical 
+models and analytical tools assess information which to some extent is provided to us by third parties, such as 
+credit agencies and other mainstream or public sources, or generated by software products, which may be 
+inaccurate or become unavailable in the future. Consequently, it could happen that we will be unable to achieve the 
+recoveries forecasted by the models used to value the portfolios. If we are unable to achieve the forecasted levels 
+of collections, valuation impairments may be recognized, and revenue and returns on portfolio purchases may be 
+reduced. 
+ 
+Our decentralized organization exposes us to compliance risks and quality control risk at Group level.  
+ 
+We have operating entities with established organisational structures in several of the markets in which we are 
+currently conducting business. The head office in Norway is responsible for financing, administrative control and 
+business development at the Group level. Although we have established risk management and internal control 
+measures to ensure compliance and quality control throughout our organization, our decentralized organization and 
+dependence on local operations to implement our control measures and mitigate risks exposes us to increased 
+risks relating to non-compliance and quality control.
+
+--- Page 7 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+7
+We are exposed to significant reputational risk and are subject to codes of conduct. 
+ 
+Negative attention and news regarding the debt purchase and collection industry and individual debt purchasers or 
+collectors, including us, may have a negative impact on a debtor's willingness to pay a debt owed to us and may 
+diminish our attractiveness as a counterparty for debt sellers and other third parties. We are exposed to the risk 
+that negative publicity may arise from the activities of legislators, pressure groups and the media, on the basis of 
+real or perceived abusive collection practices for example, which may tarnish our reputation in the market. 
+Additionally, we are increasingly becoming subject to codes of conduct. If our business model or collection strategy 
+is unable to continue to adhere to these codes of conduct, this may result in a loss of opportunity for us. 
+ 
+Improper disclosure of our clients’ sensitive data, customer data or a breach of data protection laws could 
+negatively affect our business or reputation. 
+ 
+We collect, handle, process and retain large amounts of potentially sensitive or confidential information, such as 
+personal information of customers, including names and account numbers, locations, contact information and other 
+account specific data. Failure to comply with data protection and privacy obligations may result in financial penalties, 
+regulatory oversight, significant brand and reputational damage, legal action (class action or breach of contract) 
+and shareholder divestment. Consequently, a significant violation of data protection laws could have a material 
+adverse effect on our business, results of operation and financial condition. In May 2023, B2 Kapital d.o.o., our 
+subsidiary in Croatia, was imposed an administrative fine by the Croatian Data Protection Agency (AZOP) on 
+grounds of alleged GDPR-regulation breaches. B2 Kapital d. o. o has appealed the decision from AZOP with the 
+Administrative Court of Zagreb.  
+ 
+ 
+Our risk management procedures may fail to identify or anticipate future risks. 
+ 
+We continually review our risk management policies and procedures, in particular related to know-your-
+customer/anti-money laundering rules and regulations, fair collection practices, and (internal) anti-corruption 
+practices.   
+ 
+A breach or a failure, or the perception that we have failed, to develop, implement, monitor and when necessary, 
+pre-emptively upgrade our risk management policies and procedures, in particular in relation to the above 
+mentioned topics, such as for example a KYC or AML breach, and in particular with regard to more sensitive/risk-
+prone business areas such as secured asset management and secured collections, could give rise to (severe) 
+reputational issues for us and may result in breaches of our contractual obligations, for which we may incur 
+substantial losses.  
+ 
+Risks that we fail to anticipate and/or adequately address could have a material adverse effect on our business, 
+results of operation and financial condition. 
+ 
+Our operations are highly dependent upon access to, and the functioning and integrity of, our core IT 
+applications, systems and infrastructure. 
+ 
+Our success depends in large part on our ability to record and process significant amounts of data quickly and 
+accurately to access, maintain and expand the databases we use for pricing and collection activities. We also use 
+our systems to identify large numbers of customers, store personal data of our customers, analyse and segment 
+accounts and monitor the results of collection efforts. These and other systems could be interrupted by events, 
+including telecommunications and network failures, power losses, physical or electronic security breaches, fraud, 
+identity theft, process failures, deficiencies or errors in internal processes and control routines, human errors, IT 
+systems failure, computer viruses, computer hacking attacks, malicious employee acts, terrorist attacks, natural 
+disasters or similar events.  
+ 
+Any material disruption to, or failure of, our data analytics systems, our collection systems and platform, or the 
+systems of our third-party providers or the systems of the banking and other sectors that are integral to our business, 
+especially if it also impacts our backup or disaster recovery systems, would disrupt our operations materially, and 
+prevent us from correctly performing portfolio valuations and portfolio pricing, or partially or completely impair our 
+ability to collect on portfolios, and subsequently adversely affect our business.  
+ 
+Any security or privacy breach of our systems could expose us to personal data/GDPR liability and regulatory 
+scrutiny, increase expenses relating to the resolution of these breaches and potential fines, and harm our reputation. 
+ 
+Deficiencies or errors in internal processes and control routines, human errors, IT systems failure or external events 
+that affect operations may occur. This could result in a material adverse effect on our business, affect results of 
+operations, impair the correct valuation of our backbook, and therefore the financial condition of the Company its 
+ability to make payments due under the Bonds.
+
+--- Page 8 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+8
+Furthermore, we may be unsuccessful in anticipating, managing or adopting technological changes within the debt 
+purchase and collection industry on a timely basis, which could reduce profitability or disrupt operations and harm 
+our business. 
+ 
+Our senior management team members and key employees are important to our continued success and 
+the loss of one or more members of our senior management team or one or more of our key employees 
+could have a material adverse effect on our business. 
+ 
+Our core business of collecting on secured and unsecured portfolios is to a large extent dependent on highly 
+qualified and skilled personnel and management, and our continued ability to compete effectively and implement 
+our strategy depends on our ability to attract new and well qualified employees and retain and motivate existing 
+employees. Due to the specificity of the collection business, in particular with regard to secured collections, training 
+personnel is quite time and resource intensive. Combined with the relatively limited market and pool of (qualified) 
+staff, any loss of key employees, particularly to competitors, or the inability to attract and retain highly skilled 
+personnel could have a material adverse effect on our collections, , the results of operation and overall financial 
+condition. 
+ 
+Risks related to our Financial Profile 
+ 
+Any inability to comply with the terms of our existing debt and to refinance any existing debt as it comes 
+due and payable or an increase in interest rate levels may have a negative effect on our financial condition. 
+ 
+We are subject to certain restrictive covenants under our debt arrangements, which may limit our ability to engage 
+in other transactions or otherwise place us at a competitive disadvantage to our competitors that have less debt. If 
+we are not able to refinance existing debt we might have to sell asset to high discount to repay the maturing debt. 
+In addition, non-compliance with the terms of our debt arrangements could have a negative effect on our business. 
+Further, certain of our debt arrangements are subject to floating interest rates and our finance cost will accordingly 
+be affected by an increase in interest rate levels. Any of these developments could have a material adverse effect 
+on our business, financial condition and results of operation. 
+ 
+We are exposed to interest rate risk. 
+ 
+Fluctuations in market interest rates may affect our financial performance. A substantial portion of our indebtedness 
+will bear interest at per annum rates equal to applicable EURIBOR, adjusted periodically, plus a spread. These 
+interest rates could rise significantly in the future, thereby increasing our interest expenses associated with these 
+obligations, reducing cash flow available for capital expenditures and hindering the Company's ability to make 
+payments on the Bonds. 
+ 
+We employ hedging strategies such as interest rate swaps and interest rate caps which enable us to monitor or 
+reduce our interest rate risk exposure. I may occur that we would be unable to successfully hedge all of our interest 
+rate risk or be able to maintain our current hedging policy in the future on commercially acceptable terms. 
+ 
+We are subject to covenants under our financing arrangements that limit our operating and financial 
+flexibility. 
+ 
+Our financing agreements contain or will contain certain covenants which, subject to certain exceptions and 
+qualifications, impose significant restrictions on the way we can operate. In addition, we will be subject to the 
+affirmative and negative covenants contained in the respective agreements. Such arrangements require us to 
+maintain specified financial ratios under certain circumstances. Our ability to meet these financial ratios can be 
+affected by events beyond our control, and we cannot assure you that we will meet them. A breach of any of those 
+covenants, ratios or restrictions could result in an event of default under any of such agreements. Any default under 
+any of such agreements could lead to an event of default and acceleration under other debt instruments that contain 
+cross default or cross-acceleration provisions. Even if we carefully monitor the key financial indicators and ratios, 
+we may not be able to comply with financial covenants in the future. Failure to do so may have a material adverse 
+effect on our business, results of operation and financial condition. 
+ 
+ 
+We may not be able to procure sufficient funding to purchase further debt portfolios as they become 
+available on acceptable terms. 
+ 
+Our business depends on our ability to purchase portfolios of defaulted debt. Historically, we have funded such 
+purchases through equity capital, borrowings and cash generated by our operations. Our ability to obtain funding in 
+the future will depend on our performance and our prospects, as well as factors over which we do not exercise 
+control. Such factors may include weak economic and capital market conditions during or prior to periods in which 
+attractive debt portfolios are available for purchase, the ability and willingness of banks or other financial institutions 
+to lend to our industry generally or to us in particular, and changes in fiscal, monetary and other government policies, 
+among others.
+
+--- Page 9 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+9
+ 
+If, in the longer term, we do not have sufficient headroom in our existing funding, we may be unable to raise funds 
+on acceptable terms for debt portfolio purchases or on a timely basis, which may limit our ability to take advantage 
+of opportunities for loan portfolio purchases arising in the market. If, in the longer term, we are unable to borrow, 
+generate or otherwise obtain sufficient funds to purchase debt portfolios on attractive terms, or at all, when 
+opportunities arise. 
+ 
+We are a holding company and are dependent upon cash flow from our subsidiaries to meet obligations, in 
+general and under the Bonds. 
+ 
+We currently conduct our operations through, and most of our assets are owned by, our subsidiaries. As such, the 
+cash that we obtain from our subsidiaries is the principal source of funds necessary to meet our obligations. 
+Contractual provisions or laws, including laws or regulations related to the repatriation of foreign earnings, corporate 
+benefit and financial assistance, as well as its subsidiaries' financial condition, operating requirements, restrictive 
+covenants in debt arrangements and debt requirements, may limit the our ability to obtain cash from our 
+subsidiaries. 
+ 
+The inability of our subsidiaries to transfer cash to us may mean that, even though we may have sufficient resources 
+on a consolidated basis to meet our obligations under debt agreements, we may not be able to meet such 
+obligations. A payment default by us, or any of our subsidiaries, on any debt instrument may have a material adverse 
+effect on our business, results of operation and financial condition. 
+ 
+Our substantial leverage and debt service obligations could adversely affect our business and prevent us 
+from fulfilling our obligations with respect to the Bonds. 
+ 
+We have a significant amount of outstanding debt with substantial debt service requirements. In addition, we may 
+incur substantial additional debt in the future. We may not be able to generate sufficient cash flow from operations 
+or obtain enough capital to service our debt or to fund our future acquisitions or other working capital 
+expenditures. 
+ 
+We will require a significant amount of cash to meet our obligations under our indebtedness, a substantial 
+amount of which will mature prior to the Bonds, and to sustain our operations, which we may not be able 
+to generate or raise. 
+ 
+Our ability to make principal or interest payments when due on our indebtedness, a substantial amount of which 
+will mature prior to the Bonds, and to fund our ongoing operations, will depend on our future performance and our 
+ability to generate cash, which is subject to general economic, financial, competitive, legislative, legal, regulatory 
+and other factors discussed in these "Risk Factors," many of which are beyond our control. 
+ 
+We are exposed to the risk of currency fluctuations. 
+ 
+We are exposed to both translation and transaction risk. Furthermore, in each of the jurisdictions in which we are 
+present, all revenues and the majority of the expenses are in local currency. To the extent that foreign exchange 
+rate exposures are not hedged, any significant movements in the relevant exchange rates may have a material 
+adverse effect on our business, results of operation and financial condition. 
+  
+Our hedging agreements may expose us to credit default risks and potential losses if our hedging 
+counterparties fall into bankruptcy. 
+ 
+We are party to interest rate swaps, interest rate caps and other derivative financial instruments and we may enter 
+into additional hedging agreements to hedge our exposure to fluctuations in currency or interest rates. Under any 
+such agreements, we are exposed to credit risks of our counterparties. If one or more of our counterparties falls 
+into bankruptcy, claims we have under the swap agreements or other hedging arrangements may become 
+worthless. In addition, in the event that we refinance our debt or otherwise terminate hedging agreements, we may 
+be required to make termination payments, which would result in a loss.
+
+--- Page 10 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+10
+ 
+1.2 Risk factors related to the Bonds. 
+ 
+The Company is a holding company and is dependent upon cash flow from its subsidiaries to meet its 
+obligations, in general and under the Bonds. 
+ 
+The Company currently conducts its operations through, and most of its assets are owned by, its subsidiaries. As 
+such, the cash that the Company obtains from its subsidiaries is the principal source of funds necessary to meet its 
+obligations. Contractual provisions or laws, including laws or regulations related to the repatriation of foreign 
+earnings, corporate benefit and financial assistance, as well as its subsidiaries' financial condition, operating 
+requirements, restrictive covenants in their debt arrangements and debt requirements, may limit the Company's 
+ability to obtain cash from its subsidiaries that they require to pay their expenses or meet their current or future debt 
+service obligations. 
+ 
+The inability of the Company's subsidiaries to transfer cash to the Company may mean that, even though the 
+Company may have sufficient resources on a consolidated basis to meet its obligations under its debt agreements, 
+it may not be able to meet such obligations. A payment default by the Company, or any of its subsidiaries, on any 
+debt instrument may have a material adverse effect on our business, results of operation and financial condition. 
+ 
+Your right to receive payments under the Bonds will be effectively subordinated to claims of our existing 
+and future secured creditors. 
+ 
+Initially, the Bonds will not be secured by any of our assets. As a result, the indebtedness represented by the Bonds 
+will be effectively subordinated to any existing and future secured indebtedness we may incur and certain hedging 
+obligations to the extent of the value of the assets securing such indebtedness. Accordingly, in the event of a 
+bankruptcy, insolvency, liquidation, dissolution, reorganization or similar proceeding affecting the Company, your 
+rights to receive payment will be effectively subordinated to those of secured creditors up to the value of the 
+collateral securing such indebtedness. Holders of the Bonds will participate with all holders of our unsecured 
+indebtedness that is deemed to be of the same class as the Bonds, and potentially with all of our other general 
+creditors, based on the respective amounts owed to each holder or creditor, in our remaining assets. 
+ 
+In addition, if secured lenders were to declare a default with respect to their loans and enforce their rights with 
+respect to their collateral, our remaining assets might not be sufficient to satisfy our other obligations, including our 
+obligations with respect to the Bonds. In any of the foregoing events, there could be insufficient assets to pay 
+amounts due on the Bonds.  
+ 
+The Bonds will be structurally subordinated to the liabilities and preference shares (if any) of our 
+subsidiaries that do not guarantee the Bonds. 
+ 
+Initially, none of our subsidiaries will guarantee or have any obligations to pay amounts due under the Bonds or to 
+make funds available for that purpose. Generally, claims of creditors of a subsidiary, certain hedge providers, trade 
+creditors, and claims of preference shareholders (if any) of the subsidiary, will have priority with respect to the 
+assets and earnings of the subsidiary over the claims of creditors of its parent entity, including by holders of the 
+Bonds. In the event of any foreclosure, dissolution, winding-up, liquidation, reorganization, administration or other 
+bankruptcy or insolvency proceeding of any of our subsidiaries, holders of their indebtedness and their trade 
+creditors will generally be entitled to payment of their claims from the assets of those subsidiaries before any assets 
+are made available for distribution to its parent entity. Our creditors (including the holders of the Bonds) will have 
+no right to proceed against the assets of such subsidiary. As such, the Bonds will be structurally subordinated to 
+the creditors (including trade creditors) and preference shareholders (if any) of our subsidiaries. 
+ 
+The Bond Terms will provide that the Bond Trustee may accept any guarantee and/or security offered to the 
+bondholders in accordance with the exception from the applicable financial support restrictions, on substantially the 
+same terms as any guarantee granted as security for financial indebtedness with maturity date after the final 
+maturity date of the Bonds. However, there is no obligation on the Company to grant or procure any guarantees as 
+security for the obligations under the Bonds, and as a result, you should not rely on such potential guarantees as a 
+basis of your investment decision. 
+ 
+We may not be able to finance a put option redemption. 
+ 
+The Bond Agreement will require us to make an offer to repurchase the Bonds at % of their aggregate principal 
+amount if we experience certain change of control events or a de-listing event (a bondholder put option). Our failure 
+to effect a put option when required would constitute an event of default under the Bond Agreement. In addition, 
+our ability to repurchase the Bonds as may be required by the Bond Agreement will depend on our access to funds 
+at such time, and we may not be able to secure access to enough cash to finance the repurchase. Upon a change 
+of control event or a de-listing event, we may be required to mandatorily prepay the outstanding loans under the
+
+--- Page 11 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+11
+Revolving Credit Facility Agreement. It cannot be guaranteed that there will be sufficient funds available upon a 
+change of control or a de-listing event to make these repayments and repurchases of tendered Bonds. 
+ 
+Risk of being unable to pay interest and principal on its indebtedness, including the Bonds 
+ 
+During the lifetime of the Bonds, the Company is required to make scheduled interest payments on the Bonds. The 
+Company's ability to generate cash flow from operations and to make scheduled payments on and to repay its 
+indebtedness, including the Bonds, will depend on the future financial performance of the Group. If the Group is 
+unable to service its indebtedness, it will be forced to adopt an alternative strategy that may include actions such 
+as reducing or delaying capital expenditures, selling assets, restructuring or refinancing indebtedness or seeking 
+equity capital. The Group cannot assure investors that any of these alternative strategies could be achieved on 
+satisfactory terms, if at all, or that they would yield sufficient funds to make required payments on or to repay the 
+Bonds and the Group's other indebtedness. 
+ 
+The interests of our shareholders may not be aligned with the interests of the holders of the Bonds. 
+ 
+The interests of our shareholders could conflict with the interests of the holders of the Bonds, particularly if we 
+encounter financial difficulties or are unable to pay our debts when due. Our principal shareholders could also have 
+an interest in pursuing acquisitions, divestitures, financings, dividend distributions or other transactions that, in their 
+judgment, could benefit their equity investments, although such transactions might involve risks to the holders of 
+the Bonds. Finally, our direct and indirect shareholders may have strategic objectives or business interests that 
+could conflict with our own strategies or interests. 
+ 
+The Bonds may be subject to optional redemption by the Company, which may have a material adverse 
+effect on the value of the Bonds.  
+ 
+The terms and conditions of the Bond Agreement will provide that the Bonds shall be subject to optional redemption 
+by the Company at their outstanding principal amount, plus accrued and unpaid interest to the date of redemption, 
+plus a premium calculated in accordance with the terms and conditions of the Bond Agreement. This is likely to limit 
+the market value of the Bonds. It may not be possible for bondholders to reinvest proceeds at an effective interest 
+rate as high as the interest rate on the Bonds. 
+ 
+Credit ratings may not reflect all risks, are not recommendations to buy or hold securities and may be 
+subject to revision, suspension or withdrawal at any time. 
+ 
+One or more independent credit rating agencies may assign credit ratings to the Bonds. The ratings may not reflect 
+the potential impact of all risks related to the structure, market, additional risk factors discussed herein and other 
+factors that may affect the value of the Bonds. A credit rating is not a recommendation to buy, sell or hold securities 
+and may be subject to revision, suspension or withdrawal by the rating agency at any time. Since these are not 
+inflexible, a credit rating could change over any given period of time or a credit rating could be lowered or withdrawn 
+entirely by the credit rating agency if, in its judgment, circumstances in the future so warrant. A suspension, 
+reduction or withdrawal at any time of the credit rating assigned to the Bonds by one or more of the credit rating 
+agencies may adversely affect our access to capital, the cost and terms and conditions of our financings and the 
+value 
+ 
+An active trading market may not develop for the Bonds, in which case you may not be able to resell the 
+Bonds. 
+ 
+There is no existing trading market for the Bonds and we cannot assure you that an active or liquid trading market 
+will develop for the Bonds. No market-making agreement has been made for the Bonds. We will apply for listing of 
+the Bonds on Oslo Børs or another reputable stock exchange. Future liquidity will depend, among other things, on 
+the number of holders of the Bonds, our financial performance, the market for similar securities and the interest of 
+securities dealers in making a market in the Bonds. In addition, changes in the overall market for high yield securities 
+and changes in our financial performance or in the markets where we operate may adversely affect the liquidity of 
+the trading market in the Bonds and the market price quoted for the Bonds. As a result, we cannot assure you that 
+an active trading market will actually develop for the Bonds. Historically, the markets for non-investment grade debt 
+such as the Bonds have been subject to disruptions that have caused substantial volatility in their prices. The 
+market, if any, for the Bonds may be subject to similar disruptions. Any disruptions may have an adverse effect on 
+the holders of the Bonds. 
+ 
+Transfer of the Bonds will be restricted, which may adversely affect the value of the Bonds. 
+ 
+Because the Bonds have not been, and are not required to be, registered under the U.S. Securities Act or with any 
+securities regulatory authority of any state or other jurisdiction of the United States, they may not be offered or sold 
+except pursuant to an exemption from, or in a transaction not subject to, the registration requirements of the U.S. 
+Securities Act and all other applicable laws. These restrictions may limit your ability to resell the Bonds. It is your
+
+--- Page 12 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+12
+obligation to ensure that your offers and sales of the Bonds within the United States and other countries comply 
+with applicable securities laws. 
+ 
+The terms and conditions of the Bond Agreement will allow for modification of the Bonds or waivers or 
+authorizations of breaches and substitution of the Company which, in certain circumstances, may be 
+affected without the consent of bondholders. 
+ 
+The Bond Agreement will contain provisions for calling meetings of bondholders. These provisions permit defined 
+majorities to make decisions affecting and binding all bondholders. The Bond Trustee may, without the consent of 
+the bondholders, agree to certain modifications of the Bond Agreement and other finance documents which, in the 
+opinion of the Bond Trustee, are proper to make.
+
+--- Page 13 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+13
+2 Definitions 
+ 
+Annual Report 2023 
+B2 Impact ASA's financial report of 2023 
+ 
+Q1 Report 2024 
+B2 Impact ASA's First Quater report of 2024 
+ 
+Articles of Association 
+The articles of association of B2 Impact ASA, as amended and currently in 
+effect. 
+ 
+Base Prospectus 
+This document dated 4 June 2024. 
+ 
+ 
+The Base Prospectus has been approved by the Norwegian FSA, as 
+competent authority under Regulation (EU) 2017/1129. The Norwegian FSA 
+only approves this Base Prospectus as meeting the standards of 
+completeness, comprehensibility and consistency imposed by Regulation 
+(EU) 2017/1129. Such approval should not be considered as an 
+endorsement of the Issuer that is the subject of this Base Prospectus. The 
+Base Prospectus has been drawn up as part of a simplified prospectus in 
+accordance with Article 14 of Regulation (EU) 2017/1129. 
+Board or  
+Board of Directors 
+The board of directors of B2 Impact ASA 
+ 
+Bonds 
+The Bonds means the debt instruments issued by the Issuer. 
+ 
+Companies Registry 
+The Norwegian Registry of Business Enterprises (Foretaksregisteret) 
+ 
+Company/Issuer/B2 Impact 
+B2 Impact ASA the parent company of the Group 
+ 
+ECB 
+European Central Bank 
+ 
+EEA 
+European Economic Area 
+ 
+ERC 
+Estimated Remaining Collection - the gross cash amount estimated to be      
+collected 
+ 
+ESG 
+Environmental Social and Governance 
+ 
+EU 
+The European Union  
+ 
+Final Terms 
+Document to be prepared for each new issue of bonds under the 
+Prospectus. The template for Final Terms is included in the Base 
+Prospectus as Annex 2. 
+ 
+The template for Final Terms has been approved by the Norwegian FSA, 
+as competent authority under Regulation (EU) 2017/1129. The Norwegian 
+FSA only approves this template for Final Terms as meeting the standards 
+of completeness, comprehensibility and consistency imposed by 
+Regulation (EU) 2017/1129. Such approval should not be considered as an 
+endorsement of the quality of the securities that are the subject of this 
+template for Final Terms. Investors should make their own assessment as 
+to the suitability of investing in the securities. 
+ 
+FTE 
+Full-Time Equivalent 
+ 
+FX 
+Forex (global electronic marketplace for trading international currencies)  
+ 
+Group 
+The Issuer and its subsidiaries from time to time. 
+ 
+IFRS 
+International Financial Reporting Standards 
+ 
+Joint Global Coordinators: 
+DNB Markets, a part of DNB Bank ASA, Dronning Eufemias gate 30, 0191 
+ 
+Oslo, Norway, and 
+ 
+Nordea Bank Abp, filial I Norge, P.O. Box 1166 Sentrum, NO-0107 Oslo, 
+Norway.
+
+--- Page 14 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+14
+Joint Lead Managers: 
+DNB Markets, a part of DNB Bank ASA, Dronning Eufemias gate 30, 0191 
+ 
+Oslo, Norway, 
+ 
+Nordea Bank Abp, filial I Norge, P.O. Box 1166 Sentrum, NO-0107 Oslo, 
+Norway and  
+ 
+Sparebank 1 Markets AS, P. O. Box 1398 Vika, 0114 Oslo Norway. 
+ 
+NOK 
+Norwegian kroner 
+ 
+NPL 
+Non-performing loan 
+ 
+REO 
+Real Estate Owned assets. 
+ 
+SDG 
+Sustainable Development Goals 
+ 
+VPS or VPS System 
+The Norwegian Central Securities Depository, Verdipapirsentralen ASA 
+ 
+We, us, our and the Group 
+     and other similar terms refer, unless the context otherwise requires, to the  
+ 
+     Company and its consolidated subsidiaries.
+
+--- Page 15 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+15
+3 Persons responsible  
+3.1 Persons responsible for the information 
+B2 Impact ASA, Cort Adelers gate 30, 0254 Oslo, Norway is responsible for the information given in the Base 
+Prospectus. 
+3.2 Declaration by persons responsible 
+B2 Impact ASA confirms that to the best of its knowledge, the information contained in the Base Prospectus is in 
+accordance with the facts and that the Base Prospectus makes no omission likely to affect its import.    
+ 
+ 
+Oslo, 4 June 2024 
+ 
+B2 Impact ASA 
+ 
+ 
+ 
+ 
+ 
+__________________________ 
+Erik Just Johnsen 
+CEO 
+ 
+ 
+3.3 Competent Authority Approval 
+ 
+The Base Prospectus has been approved by the Norwegian FSA, as competent authority under Regulation (EU) 
+2017/1129. The Norwegian FSA only approves this Base Prospectus as meeting the standards of completeness, 
+comprehensibility and consistency imposed by Regulation (EU) 2017/1129. Such approval should not be 
+considered as an endorsement of the Issuer that is the subject of this Base Prospectus. Such approval should not 
+be considered as an endorsement of the quality of the securities that are the subject of the template for Final Terms.  
+The Base Prospectus has been drawn up as part of a simplified prospectus in accordance with Article 14 of 
+Regulation (EU) 2017/1129. Investors should make their own assessment as to the suitability of investing in the 
+securities.
+
+--- Page 16 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+16
+4 Statutory Auditors   
+4.1 Names and addresses 
+ 
+The statutory auditor for the Issuer for the period covered by the historical financial information in this Base 
+Prospectus has been Ernst & Young AS, independent public accountants, Dronning Eufemias gate 6, 0191 Oslo, 
+Norway. Phone number +47 24 00 24 00. 
+ 
+Ernst & Young AS is member of the Norwegian Institute of Public Accountants.
+
+--- Page 17 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+17
+5 Information about the Issuer 
+5.1 Legal and commercial name of the Issuer 
+The legal name of the Issuer is B2 Impact ASA, and the commercial name is B2 Impact. 
+5.1.2 Place of registration and registration number  
+The Company is registered in the Norwegian Companies Registry with registration number 992 249 986. 
+5.2 Domicile and legal form 
+The Company is a public limited liability company incorporated in Norway and operating under Norwegian law 
+including the Norwegian Public Limited Liability Companies Act. LEI-code (legal entity identifier): 
+5967007LIEEXZXFHOO08.  
+ 
+The Company's registered business address is Cort Adelers gate 30, 0254 Oslo, Norway. Postal address is 
+Postboks 1726 Vika, 0121 Oslo, Norway. The Company’s telephone number is +47 22 83 39 50. 
+ 
+Website: https://www.b2-impact.com 
+ 
+ 
+Disclaimer: 
+The information on the website does not form part of the prospectus unless that information is incorporated by reference into 
+the prospectus.
+
+--- Page 18 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+18
+6 Business overview 
+ 
+6.1 Introduction 
+ 
+On 29 September 2023 we launched our new brand, B2 Impact, and B2Holding ASA changed its name to B2 Impact 
+ASA as the first step. The new brand will create increased recognition of B2 Impact as a group across the markets   
+where we operate. The roll out of the new brand will be carried out over the next 12 months, and we strongly believe 
+that a common brand will strengthen both our corporate culture and our commercial activities. We also get the  
+added value and synergies of building and supporting one common brand in our core markets.  
+ 
+From 1 October 2023 we implemented a new organizational structure for the Group. The new organization is built 
+around our main business lines, Investments, and Servicing, and is structured to support a common commercial 
+focus and drive efficiency in all departments. Following the change, Group Executive Management has been 
+reduced from nine to six people. 
+ 
+B2 Impact ASA is a Nordic-based debt management company active in purchasing of non-performing loans, debt 
+collection and third-party debt collection. The Company is the parent of the B2 Impact consolidated group of 
+companies w a pan-European debt solutions provider. 
+  
+B2 Impact offers solutions to the challenges created by defaulted loans, and provides liquidity to financial 
+institutions, contributing to a healthier financial system. B2 Impact promotes lasting financial improvement through 
+transparent and ethical debt management. The Company was founded in 2011 and is headquartered in Oslo, 
+Norway. 
+ 
+A professional and reliable debt management specialist 
+B2 Impact offers solutions to the challenges created by defaulted loans, and provide liquidity to financial institutions, 
+contributing to a healthier financial system. B2 Impact promotes lasting financial improvement through transparent 
+and ethical debt management. Our business is about people and creating shared value for business and society. 
+Being a socially responsible creditor and a trusted solution provider for our partners are fundamental in our way of 
+doing business. 
+ 
+Our approach to sustainability focuses on four core pillars: 
+1. Customer knowledge 
+2. Sustainable value chain 
+3. Attractive work environment 
+4. Transparent ESG management 
+ 
+To support this approach, the Group’s Sustainability Policy sets out how B2 Impact delivers on sustainability 
+objectives and its expectations for employees and representatives. B2 Impact actively develops sustainability 
+competence as the Group works to establish an internal sustainability culture. 
+ 
+As a signatory of the United Nations Global Compact (UNGC), B2 Impact supports the UN’s 10 Principles and the 
+Sustainable Development Goals (SDGs). Since 2021, we have pledged to continually improve their integration into 
+our business strategy, culture, and operations. We report on our journey in our annual Communication on Progress 
+(CoP). Furthermore, our Sustainalytics risk rating of 8.7 indicates that we are a negligible risk and a top performer 
+in our sector.
+
+--- Page 19 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+19
+ 
+ 
+6.2 Business lines 
+ 
+The Group’s main business lines are Investments and Servicing. The Group focuses on granular consumer NPLs, 
+and retail and corporate secured NPLs, owned and serviced for JV partners. 
+ 
+Investments consist of the purchase and management of unsecured and secured loan portfolios directly or 
+through in joint ventures. Collaterals and repossessed assets acquired as part of the recovery strategy are included 
+in Investments. 
+ 
+Servicing is the collections of payments of claims on behalf of the Investment segment, joint ventures and third-
+party clients. The servicing segment generates revenues from commissions and debtor fees. 
+ 
+Unsecured markets:  
+Sweden, Denmark, Finland, Estonia, Latvia, Lithuania, Poland, Spain, Czech Republic  
+ 
+Secured markets (Veraltis Asset Management): 
+Italy, France, Romania, Greece, Cyprus, Slovenia, Croatia, Serbia 
+ 
+Offices 
+Norway, Head office 
+Luxembourg, Investment office
+
+--- Page 20 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+20
+ 
+ 
+6.3 Sustainability in B2 Impact ASA 
+ 
+B2 Impact reports in accordance with section 3-3c of the Norwegian Accounting Act on corporate responsibility, as 
+well as the Norwegian Transparency Act om human rights and decent working conditions. Additionally, the company 
+has identified six material topics (sorted under three different focus areas: Our Customers, Our People, and Our 
+Company) which it reports on annually. Reporting on the above topics has as of 2023 been included throughout the 
+annual integrated report, but nevertheless forms an integral part of this Directors' Report. The reporting is made 
+with reference to the Global Reporting Initiative Standards (GRI) and the Euronext Guidelines for listed companies. 
+The annual integrated report is also our Communication on Progress, which we are required to submit as a signatory 
+to the UN Global Compact. A statement in accordance with section 5 of the Norwegian Transparency Act can also 
+be found in the annual integrated report. From 2023, we are furthermore reporting according to the activity and 
+reporting obligation under the Norwegian Equality and Anti-Discrimination Act, on a voluntary basis. 
+ 
+The Chief Risk, Compliance & ESG Officer is responsible for the follow-up of sustainability activities across the 
+Group and reports back to management and the Board who evaluate the results. Going forward, B2 Impact is in 
+the process of adapting its reporting to the Corporate Sustainability Reporting Directive (CSRD) and the associated 
+European Sustainability Reporting Standard (ESRS). The EU Taxonomy Report is posted on B2 Impact's webpage.
+
+--- Page 21 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+21
+Sustainability highlights: 
+ 
+ 
+ 
+6.4 ESG Strategy 
+ 
+SG commitment showing results. 
+ 
+ 
+ 
+Source: Morningstar, Sustainalytics and Euronext.
+
+--- Page 22 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+22
+7 Trend information 
+7.1 Prospects and financial performance 
+There has been no material adverse change in the prospects of the Issuer since the date of its last published audited 
+financial statements. 
+ 
+There has been no significant change in the financial performance of the Group since the end of the last financial 
+period for which financial information has been published to the date of the Base Prospectus.
+
+--- Page 23 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+23
+8 Administrative, management and supervisory bodies 
+8.1 Information about persons 
+ 
+Board of Directors 
+The table below set out the names of the members of the Board of Directors of B2 Impact ASA:  
+ 
+Name  
+Position  
+Harald Lauritz Thorstein 
+Chair of the Board  
+Adele Bugge Norman Pran 
+Board member 
+Trond Kristian Andreassen 
+Board member 
+Henrik Wennerholm 
+Board member 
+Anders Engdahl 
+Board member  
+Jessica Sparrfeldt 
+Board member 
+Ellen Hanetho 
+Board member 
+ 
+ 
+The address for each member of the Board of Directors is B2 Impact ASA, Cort Adelers gate 30, 0254 Oslo, Norway. 
+ 
+Harald Lauritz Thorsten 
+• Independent 
+• Chair of the Board since May 2020 
+• Leader of the Remuneration Committee 
+ 
+Founder and Managing Partner of the London based advisory company Arkwright London Partners LLP. He has 
+previously held positions in Seatankers Management and DnB Markets. 
+ 
+Chair of the Board of Jacktel AS, and board member of Yara International ASA, Dof Group ASA and Odfjell Drilling 
+Ltd. Extensive board experience includes Aktiv Kapital, Axactor, SFL Corp and Seadrill. MSc in Industrial 
+Economics and Technology Management with specialisation within Finance and Optimisation 
+ 
+Adele Bugge Norman Pran 
+• Independent 
+• Board member since May 2018 
+• Leader of the Audit Committee 
+ 
+Management consultant, board professional and investor. Professional experience from private equity and M&A 
+consulting. Partner and CFO in Herkules Capital for 12 years.  
+ 
+Chair of the board of Zalaris ASA. Board member of ABG Sundal Collier ASA, Agentum Asset Management AS, 
+Hitecvision AS, Motor Gruppen AS, Løvenskiold-Fossum ANS and Bane Nor SF. Cand. jur degree from University 
+of Oslo, Master of Accounting from NHH Norwegian School of Economics. 
+ 
+ 
+Trond Kristian Andreassen 
+• Independent 
+• Board member since May 2020 
+ 
+Managing owner of Vimar AS. Previous positions include CEO and member of the board of Avida Finans, CEO 
+at Gothia Financial Group and CEO (Nordic, Spain and Holland and CEO Group Factoring Europe) at Arvato 
+Financial Solutions. 
+ 
+Chair of the board in Åråsen Eiendom AS and Åråsen Stadion AS. Member of the board in Lillestrøm Sports- 
+klubb and Skytech Control AS.   
+ 
+Bachelor of Business Administration from BI Norwegian Business School. 
+ 
+Henrik Wennerholm,  
+• Independent 
+• Board member since December 2023 
+ 
+25 years of investing and operating experience in financial services from both the private and public sectors. Until
+
+--- Page 24 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+24
+August 2021 he was the CEO of DDM Holding AG. Founder of Sileo Kapital AB which was later acquired by B2 
+Impact ASA. Previous experience further includes various roles with Aktiv Kapital ASA (PRA Group), Öhman 
+(Pareto Securities) and Hoist Finance AB. 
+ 
+M.Sc. in Economics and Managerial Finance from the Stockholm School of Economics. 
+ 
+Anders Engdahl 
+• Independent 
+• Board member since December 2023 
+ 
+NPL investment and servicing executive with over 25 years of financial services experience. Previously held 
+positions in Intrum AB including CEO, CFO and CIO. He has previous experience as Managing Director at 
+Morgan Stanley’s Financial Institutions Group and from Goldman Sachs. 
+ 
+Chair of the Board in Waya Finance & Technology AB. M.Sc. in Economics and Managerial Finance from the 
+Stockholm School of Economics. 
+ 
+Jessica Sparrfeldt 
+• Independent 
+• Board member since May 2023 
+ 
+Holds the position of Chief Line of Business Ledger & Financing at PayEX. Previous positions include Head of 
+Strategy Execution in PayEx Group, Head of Business Finance and Deputy CEO at Avida, Head of Corporate at 
+Collector Bank and Företagsbanken at Marginalen Bank Board member of Alfakraft Fonder AB and SHE Invest. 
+ 
+DIHM degree from IHM Business School (Market Economist), project management certificate from ESI International 
+George Washington University, UC Business School. 
+ 
+Ellen Hanetho   
+• Independent 
+• Board member since December 2023 
+ 
+Professional experience from investment banking and private equity as a finance and business development 
+executive in corporations such as Frigaard Invest, Credo Partners, Goldman Sachs Investment Banking Division in  
+London and the Brussels Stock Exchange and Citibank in Brussels. 
+ 
+Founder of Cercis AS. Chair of the board of Mer AS; member of the board of, among others, MPC Container 
+ASA, EQVA ASA, Stokke Industri AS and Kristian Gerhard Jebsen Group Ltd. 
+ 
+BSBA from Boston University, MBA from Solvay University, executive training at INSEAD and Harvard Business 
+School. 
+ 
+Management 
+The table below set out the names of the members of the Management: 
+ 
+Name  
+Position  
+Erik Just Johnsen 
+Chief Executive Officer  
+André Adolfsen 
+Chief Financial Officer 
+Adam Parfiniewicz 
+Chief Operating Officer 
+Endre Solvin-Witzø 
+Chief Investment Officer 
+Jeremi Bobowski 
+Chief Risk, Compliance & ESG Officer 
+George Christoforou 
+Chief Master & Special Servicing Officer 
+ 
+The business address of each of the members of the Management is B2 Impact ASA, Cort Adelers gate 30, 0254 
+Oslo, Norway. 
+ 
+Erik Just Johnsen, Chief Executive Officer  
+ 
+CEO of B2 Impact ASA since August 2019. 
+ 
+Joined B2 Impact (formerly B2Holding) in 2013. Held the position of Chief Group Controller until January 
+2017, before becoming CFO.  
+ 
+Mr. Johnsen has held various positions in Orkla Finans and Elkem before operating Erling Johnsen AS 
+from 1992 - 2000. He later acted as CFO in Northstar Ind. Inc. and Marine Subsea. 
+ 
+Bachelor of Business Administration with major in Finance from University of Wisconsin, MBA with major 
+in Finance from University of Chicago.
+
+--- Page 25 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+25
+ 
+André Adolfsen, Chief Financial Officer 
+ 
+Joined B2 Impact in November 2020. 
+ 
+Mr. Adolfsen has previously held several management positions with the debt industry, including Group 
+Finance Director at Intrum and various positions within finance at Lindorff. Further, he has experience as 
+a Senior Equity Analyst at Nordea Markets. 
+ 
+Mr. Adolfsen holds an MSc in Finance from Copenhagen Business School and a BSc in Finance from BI 
+Norwegian Business School. 
+ 
+Adam Parfiniewicz, Chief Operating Officer 
+ 
+Joined B2 Impact in 2016.  
+ 
+Held the position as Regional Director for Poland, Finland & Baltics, until December 2019. Head of 
+Operations (previously Unsecured Asset Management) since October 2019.  
+ 
+Mr. Parfiniewicz previously held various management positions in Polish retail banks, including PBK, 
+Credit Agricole and BNP Paribas. He also served as a CEO in PolCard (card processor) and Expander 
+(mortgage and investments broker). 
+ 
+Bachelor of Business Administration from University of Warsaw. 
+ 
+Endre Solvin-Witzø, Chief Investment Officer 
+ 
+Joined B2 Impact in October 2021. 
+ 
+Mr. Solvin-Witzø has extensive experience from Financial and Professional Services. Prior experience 
+includes senior and executive positions within CMS and speciality finance at Lowell, Intrum and Lindorff, 
+as well as various executive positions in other industries at Cermaq, IBM and PwC. 
+ 
+Mr. Solvin-Witzø holds an MSc in Information and Knowledge Management from the Norwegian University 
+of Science and Technology and an MBA in Finance from NHH Norwegian School of Economics. 
+ 
+Jeremi Bobowski, Chief Risk, Compliance & ESG Officer 
+ 
+Joined B2 Impact in March 2015. Held the position as Chief Investment Officer until October 2019.  
+ 
+Mr. Bobowski has held various positions among others in Arthur Andersen, AIG and Credit Agricole. 
+ 
+He later joined ULTIMO, acquired by B2Holding in 2014, as CRO. 
+ 
+MSc in Mathematics and Statistics from Technical University of Wrocław. 
+ 
+ 
+George Christoforou, Chief Master & Special Servicing Officer 
+ 
+Joined B2 Impact in April 2018 as CEO of B2Kapital in Greece. Held the position as Regional Director 
+Central & South-east Europe until December 2019. Chcief Master & Special Servicing Officer (previously 
+titled Head of Secured Asset Management) from October 2019.  
+ 
+Mr. Christoforou has held various positions in banking and corporate finance, including serving as CEO 
+for Bank of Cyprus in Romania. He specialised in NPL management during the Greek and Cypriot financial 
+crises and has held the position as Chief of Portfolios in the Greek single liquidation entity PQH. 
+ 
+MBA from London Business School and is licensed insolvency practitioner. 
+ 
+8.2 Potential conflicts of interest 
+There are no potential conflicts of interest between any duties carried out on behalf of the Issuer by the persons 
+referred to in item 8.1 and their private interests and/or other duties.
+
+--- Page 26 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+26
+9 Major shareholders 
+9.1 Ownership  
+The Issuer’s largest shareholders are Prioritet Group AB and the Norwegian family office Rasmussengruppen AS.  
+Below is an overview of the 20 largest shareholders in the Issuer as of 3 May 2024. 
+ 
+ 
+ 
+9.2 Change of control of the company 
+There are no arrangements, known to the Issuer, the operation of which may at a subsequent date result in a 
+change in control of the Issuer.  
+To the extent known to the issuer, the issuer is not directly or indirectly owned or controlled.
+
+--- Page 27 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+27
+10 Financial information concerning the Company's assets 
+and liabilities, financial position and profits and losses. 
+10.1 Financial statements 
+The consolidated financial statements of the Group have been prepared in accordance with International Financial 
+Reporting Standards (IFRS) and interpretations issued by the IFRS Interpretations Committee (IFRS IC) applicable 
+to companies reporting under IFRS. The consolidated financial statements comply with IFRS as issued by the 
+International Accounting Standards Board (IASB) and approved by the EU.  
+ 
+The Group’s accounting policies is shown in Annual Report of 2023, note 2, page 54-61. B2 Impact ASA’s 
+accounting policies is shown in Annual Report of 2023, note 1, page 122-123. 
+ 
+According to the Regulation (EU) 2017/1129 of the European Parliament and of the Council, information in a 
+prospectus may be incorporated by reference.  
+ 
+Because of the complexity in the historical financial information and financial statements this information is 
+incorporated by reference to the Q1 report 2024and the Annual Report 2023.  
+ 
+Please see Cross Reference List for complete references.   
+ 
+ 
+Q1 report 2024 
+     Unaudited
+Annual report 2023           
+   Audited
+B2 Impact ASA - Consolidated
+Page(s)
+Page(s)
+Income statement
+12
+48
+Statement of comprehensive income
+13
+49
+Statement of financial position
+14
+50
+Statement of cash flow
+                       16
+52
+ 
+Notes 
+17-25
+53-118
+B2 Impact ASA - Parent
+Income statement
+119
+Balance Sheet 
+         
+120
+Cash flow statement
+121
+ 
+Notes
+122-137
+ 
+ 
+10.2 Auditing of annual financial information 
+The financial information for 2023 has been audited.  
+ 
+A statement of audited financial information is given in Annual Report 2023 , pages 147-149. 
+ 
+10.3 Legal and arbitration proceedings   
+In May 2023, B2 Kapital d.o.o., our subsidiary in Croatia, was imposed an administrative fine by the Croatian Data 
+Protection Agency (AZOP) on grounds of alleged breaches with GDPR regulations. B2 Kapital d. o. o has appealed 
+the decision from AZOP and is now asserting its rights before the Administrative Court of Zagreb. The basis for the 
+appeal is that no data leakage by B2 Kapital d.o.o. has been substantiated and that there has been no leak. 
+ 
+Other than the above, there are no governmental, legal or arbitration proceedings (including any such proceedings 
+which are pending or threatened of which the issuer is aware), during a period covering at least the previous 12 
+months which may have or have had in the recent past significant effects on the issuer and/or group’s financial 
+position or profitability.
+
+--- Page 28 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+28
+10.4 Significant change in the Issuer’s financial position 
+There has been no significant change in the financial position of the Group which has occurred since the end of the 
+last financial period for which either audited financial statements or interim financial information has been published.
+
+--- Page 29 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+29
+11 Regulatory disclosures 
+The table below set outs a short summary of the information the Company has disclosed under Regulation (EU) No 
+596/2014, which is relevant as at the date of the prospectus, in the 12 months' period prior to the date of this 
+prospectus.  
+Additional regulated information required to be disclosed under the laws of a member state
+Date
+Information
+ 
+ 
+23.05.2024 
+B2 Impact ASA: Minutes from the Annual General Meeting 2024 
+Disclosure og the Minutes from the Annual General Meeting 2024. 
+02.05.2024 
+B2 Impact ASA: Notice of Annual General Meeting 
+he annual general meeting of B2 Impact ASA (OSE:B2I) will be held on 
+Thursday, 23 May 2024 at 09:00 CEST. The annual general meeting will be held as a digital 
+meeting. 
+27.02.2024 
+Correction: B2 IMPACT ASA: Successfully Completed Tap Issue 
+Oslo, 27 February 2024: B2 Impact ASA has successfully completed a tap issue of EUR 50 
+million senior unsecured bonds due 30 January 2028 (ISIN: NO0013138966). The total 
+outstanding amount after the tap issue is EUR 150 million. The bonds were issued at a price of 
+101.25% of par. Net proceeds from the tap issue shall be applied to refinancing and for 
+general corporate purposes. 
+15.02.2024 
+Correction: Key information relating to the cash dividend to be paid by B2 Impact ASA
+ 
+23.01.2024 
+ 
+ 
+ 
+ 
+ 
+ 
+19.01.2024 
+ 
+27.12.2024 
+Disclosure of the cash dividend to be paid by B2 Impact ASA in 2024. 
+B2 Impact ASA: Exercise of Call Option pursuant to Bond Terms in ISIN: NO0010852742 FRN 
+B2HOLDING ASA SENIOR UNSECURED BOND ISSUE 2019/2024 (B2H05) 
+The Maturity Date for the Bond Issue under the Bond Terms is 28 May 2024. B2 Impact ASA 
+(the "Issuer") has informed Nordic Trustee AS (the "Bond Trustee") that they wish to exercise 
+the Call Option and redeem all Outstanding Bonds at a price equal to 100% of the Face Value 
+plus accrued and unpaid interests on the redeemed amount pursuant to Clause 11.2 (Call 
+Option) of the Bond Terms. The Call Option Repayment Date will be 6 February 2024. 
+B2 Impact ASA: Presentation for fixed income investor meetings 
+Disclosure of the presentation for fixed income investor meeting. 
+B2 Impact ASA: Minutes from extraordinary general meeting
+ 
+An extraordinary general meeting of B2 Impact ASA (the "Company") was held today, on 27 
+December 2023 at 09:00 hours (CET) as a virtual meeting. All proposals on the agenda were 
+adopted. 
+Following the extraordinary general meeting, the Company's board of directors 
+consists of the following persons until the annual general meeting in 2024: 
+Harald L. Thorstein, Chair 
+Adele Bugge Norman Pran, member 
+Trond Kristian Andreassen, member 
+Ann Jessica Sparrfeldt, member 
+Anders Engdahl, member 
+Henrik Wennerholm, member 
+Ellen Hanetho, member 
+The minutes from the extraordinary general meeting are attached hereto and 
+available on https://www.b2-impact.com/investors/. 
+14.12.2023 
+B2 Impact ASA Current status regarding proposal for new board
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27.11.2023 
+B2 Impact ASA ("B2I" or the "Company") has on 5 December 2023 issued a Notice for 
+Extraordinary General Meeting ("EGM") to be held on 27 December 2023. The EGM has been 
+requested by a group of shareholders (the "Shareholder Group") for the election of new 
+members to the Board and election of new members to the nomination committee. On 27 
+November 2023 the Shareholder Group reported a holding of 94 113 527 shares (24.3%). 
+ 
+B2I has been in dialogue with shareholders to discuss the proposals put forward by the 
+Shareholder Group. Leading shareholders have raised concerns that the proposal is 
+imbalanced with 24.3% of the B2I shareholders requesting control of the board. Another 
+concern raised by shareholders is lack of continuity with only one of the existing board members 
+proposed to continue on the board. Shareholders holding approximately 40% of the shares 
+(42% of the votes, adjusted for treasury shares holding no voting rights) have indicated that 
+they will vote against the Shareholder Group's proposal on this basis. 
+B2 Impact ASA: Request for extraordinary general meeting
+ 
+ 
+ 
+ 
+B2 Impact ASA ("B2I" or the "Company") has today received a joint letter from a group of 
+shareholders holding in total 94,113,527 shares (24.3%) in the Company requesting that the 
+Board of Directors of B2I (the "Board") calls for an extraordinary general meeting of the
+
+--- Page 30 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+30
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+29.09.2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Company for the election of new members to the Board and election of new members to the 
+nomination committee, replacing existing members. 
+The shareholder group consists of Prioritet Group AB, Valset Invest AS, F2Kapital AS, Jon 
+Harald Nordbrekken and Gulen Invest AS. The group proposes that the current Board members 
+of the Company other than Ann Jessica Sparrfeldt are replaced by Anders Engdahl (Chair), 
+Jon Harald Nordbrekken (deputy chair and board member), Nils Wiberg and Ellen Hanetho, 
+and that the new board members are elected for the period until the 2024 annual general 
+meeting. 
+Correction: B2Holding ASA: New company name "B2 Impact ASA" registered 
+Reference is made to the minutes from the Annual General Meeting held 25 May 2023, and the 
+related stock exchange notice whereby the Annual General Meeting in B2Holding ASA resolved 
+to change the company's name to "B2 Impact ASA". The new company name has now been 
+registered with the Norwegian Register of Business Enterprises. The company's shares will 
+from the 2nd of October 2023 be quoted on Oslo Børs with the new name and the new ticker 
+"B2I". The company's listed bonds quoted on Oslo Børs will remain with the ticker "B2H05" and 
+“B2H06”. 
+ 
+ 
+ 
+ 
+Inside Information
+Date
+Information
+23.01.2024 
+ 
+ 
+ 
+ 
+18.01.2024 
+B2 Impact ASA: Successfully Completed New Bond Issue 
+B2 Impact ASA has successfully placed a EUR 100 million senior unsecured bond with 
+maturity in February 2028. The bond will have a coupon of 3 month EURIBOR + 5.00% p.a. 
+and will be listed on the Oslo Stock Exchange. Settlement date is expected to be 30 January 
+2024. 
+B2 Impact ASA: Fixed Income Investor Meetings and Trading Update 
+ 
+ 
+ 
+ 
+ 
+04.12.2023 
+B2 Impact ASA, rated Ba2 (Stable outlook) by Moody's, has mandated DNB Markets and 
+Nordea as Global Coordinators and SpareBank 1 Markets as Joint Lead Manager to arrange a 
+series of fixed income investor meetings commencing 19 January 2024. A senior unsecured 4-
+year floating rate EUR denominated bond issue may follow, subject to inter alia market 
+conditions. 
+B2 Impact ASA Trading Update
+ 
+B2 Impact ASA is informing that the Cash EBITDA for the fourth quarter is expected to exceed 
+NOK 1.5 billion. The extraordinary increase in expected Cash EBITDA is the result of the 
+resolution of the largest secured claim owned by B2 Impact in combination with continued 
+strong collection performance across the Group. The collection of the secured claim in question 
+is backed by collateral in a hotel resort in Croatia. The net proceeds from the collection will 
+contribute just over NOK 500 million, representing a net return above the original target return. 
+Due to the accounting treatment for secured portfolios, the impact on the Group's net income 
+is not material. 
+ 
+ 
+ 
+ 
+Total number of voting rights and capital
+Date
+Information
+ 
+ 
+27.07.2023 
+B2Holding ASA: Share capital decrease and cancellation of own shares completed.
+ 
+The resolution was published by the Norwegian Register of Business Enterprises on 26 May 
+2023, whereafter followed a six-week creditor notice period. The creditor period has been 
+completed without objections. The share capital decrease was registered as completed with 
+the Norwegian Register of Business Enterprises today. The share capital after the capital 
+decrease amounts to NOK 38,718,082.40, divided into 387,180,824 shares, each with a 
+nominal value of NOK 0.10.
+
+--- Page 31 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+31
+ 
+Acquisition or disposal of the Issuer’s own shares
+Date
+Information
+ 
+15.01.2024 
+ 
+B2 Impact ASA: Share buy-back 
+The duration of the current 2023 buy-back programme: 26 May 2023 until 12 
+January 2024. Size of the buy-back programme: Up to 25,000,000 shares, but maximum total 
+consideration: NOK 162,600,000. From 08 January 2024 until 12 January 2024, B2 Impact 
+ASA purchased a total of 213,450 own shares at the Oslo Stock Exchange at an average 
+price of NOK 7.30 per share. 
+08.01.2024 
+ 
+ 
+ 
+ 
+ 
+03.01.2024 
+ 
+ 
+ 
+ 
+ 
+ 
+27.12.2023 
+B2 Impact ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 01 January 2024 until 05 January 2024, B2 Impact 
+ASA purchased a total of 260,379 own shares at the Oslo Stock Exchange at an average price 
+of NOK 7.32 per share. 
+B2 Impact ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total 
+consideration: NOK 162,600,000. From 25 December 2023 until 29 December 2023, B2 Impact 
+ASA purchased a total of 289,343 own shares at the Oslo Stock Exchange at an average price 
+of NOK 7.25 per share. 
+B2 Impact ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 18 December 2023 until 22 December 2023, B2 
+Impact ASA purchased a total of 474,749 own shares at the Oslo Stock Exchange at an average 
+price of NOK 7.25 per share.
+18.12.2023 
+ 
+ 
+ 
+ 
+ 
+11.12.2023 
+ 
+ 
+ 
+ 
+ 
+04.12.2023 
+B2 Impact ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 11 December 2023 until 15 December 2023, B2 
+Impact ASA purchased a total of 452,000 own shares at the Oslo Stock Exchange at an average 
+price of NOK 7.07 per share. 
+B2 Impact ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 04 December 2023 until 08 December 2023, B2 
+Impact ASA purchased a total of 446,000 own shares at the Oslo Stock Exchange at an average 
+price of NOK 7.20 per share. 
+B2 Impact ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 27 November 2023 until 01 December 2023, B2 
+Impact ASA purchased a total of 336,152 own shares at the Oslo Stock Exchange at an average 
+price of NOK 6.87 per share. 
+27.11.2023 
+B2 Impact ASA: Share buy-back
+ 
+ 
+ 
+ 
+ 
+20.11.2023 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 20 November 2023 until 24 November 2023, B2 
+Impact ASA purchased a total of 377,000 own shares at the Oslo Stock Exchange at an average 
+price of NOK 7.02 per share. 
+B2 Impact ASA: Share buy-back 
+ 
+ 
+ 
+ 
+ 
+13.11.2023 
+ 
+ 
+ 
+ 
+ 
+06.11.2023 
+ 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 13 November 2023 until 17 November 2023, B2 
+Impact ASA purchased a total of 378,000 own shares at the Oslo Stock Exchange at an average 
+price of NOK 7.06 per share. 
+B2 Impact ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 06 November 2023 until 10 November 2023, B2 
+Impact ASA purchased a total of 319,824 own shares at the Oslo Stock Exchange at an average 
+price of NOK 7.33 per share. 
+B2 Impact ASA: Share buy-back
+
+--- Page 32 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+32
+ 
+ 
+ 
+ 
+30.10.2023 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 30 October 2023 until 3 November 2023, B2 
+Impact ASA purchased a total of 256,037 own shares at the Oslo Stock Exchange at an average 
+price of NOK 7.20 per share. 
+B2 Impact ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 23 October 2023 until 27 October 2023, B2 Impact 
+ASA purchased a total of 178,651 own shares at the Oslo Stock Exchange at an average price 
+of NOK 6.89 per share. 
+23.10.2023 
+B2 Impact ASA: Share buy-back
+ 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 16 October 2023 until 20 October 2023, B2 Impact 
+ASA purchased a total of 135,535 own shares at the Oslo Stock Exchange at an average price 
+of NOK 6.76 per share. 
+16.10.2023 
+ 
+ 
+ 
+ 
+ 
+10.10.2023 
+B2 Impact ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 09 October 2023 until 13 October 2023, B2 Impact 
+ASA purchased a total of 216,916 own shares at the Oslo Stock Exchange at an average price 
+of NOK 6.67 per share. 
+B2 Impact ASA: Share buy-back 
+ 
+ 
+ 
+ 
+ 
+02.10.2023 
+ 
+ 
+ 
+ 
+ 
+25.09.2023 
+ 
+ 
+ 
+ 
+ 
+18.09.2023 
+ 
+ 
+ 
+ 
+ 
+11.09.2023 
+ 
+ 
+ 
+ 
+ 
+04.09.2023 
+ 
+ 
+ 
+ 
+ 
+28.08.2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 02 October 2023 until 06 October 2023, B2 Impact 
+ASA purchased a total of 291,651 own shares at the Oslo Stock Exchange at an average price 
+of NOK 6.81 per share. 
+B2Holding ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 25 September 2023 until 29 September 2023, 
+B2Holding ASA purchased a total of 302,410 own shares at the Oslo Stock Exchange at an 
+average price of NOK 7.01 per share. 
+B2Holding ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 18 September 2023 until 22 September 2023, 
+B2Holding ASA purchased a total of 382,194 own shares at the Oslo Stock Exchange at an 
+average price of NOK 6.90 per share. 
+B2Holding ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 11 September 2023 until 15 September 2023, 
+B2Holding ASA purchased a total of 338,865 own shares at the Oslo Stock Exchange at an 
+average price of NOK 6.72 per share. 
+B2Holding ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 04 September 2023 until 08 September 2023, 
+B2Holding ASA purchased a total of 324,227 own shares at the Oslo Stock Exchange at an 
+average price of NOK 6.67 per share. 
+B2Holding ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 28 August 2023 until 01 September 2023, 
+B2Holding ASA purchased a total of 294,500 own shares at the Oslo Stock Exchange at an 
+average price of NOK 6.87 per share. 
+B2Holding ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 21 August 2023 until 25 August 2023, B2Holding 
+ASA purchased a total of 219,500 own shares at the Oslo Stock Exchange at an average price 
+of NOK 6.85 per share.
+
+--- Page 33 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+33
+21.08.2023 
+ 
+ 
+ 
+ 
+ 
+14.08.2023 
+ 
+ 
+ 
+ 
+ 
+07.08.2023 
+ 
+ 
+ 
+ 
+ 
+31.07.2023 
+ 
+ 
+ 
+ 
+ 
+24.07.2023 
+ 
+ 
+ 
+ 
+ 
+17.07.2023 
+ 
+ 
+ 
+ 
+ 
+10.07.2023 
+ 
+ 
+ 
+ 
+ 
+03.07.2023 
+ 
+ 
+ 
+ 
+ 
+28.06.2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26.06.2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B2Holding ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 14 August 2023 until 18 August 2023, B2Holding 
+ASA purchased a total of 188,652 own shares at the Oslo Stock Exchange at an average price 
+of NOK 6.71 per share. 
+B2Holding ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 07 August 2023 until 11 August 2023, B2Holding 
+ASA purchased a total of 102,718 own shares at the Oslo Stock Exchange at an average price 
+of NOK 6.76 per share. 
+B2Holding ASA: Share buy-back 
+he duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 31 July 2023 until 04 August 2023, B2Holding 
+ASA purchased a total of 135,212 own shares at the Oslo Stock Exchange at an average price 
+of NOK 7.09 per share. 
+B2Holding ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 24 July 2023 until 28 July 2023, B2Holding ASA 
+purchased a total of 205,531 own shares at the Oslo Stock Exchange at an average price of 
+NOK 7.28 per share. 
+B2Holding ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 17 July 2023 until 21 July 2023, B2Holding ASA 
+purchased a total of 182,529 own shares at the Oslo Stock Exchange at an average price of 
+NOK 7.04 per share. 
+B2Holding ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 10 July 2023 until 14 July 2023, B2Holding ASA 
+purchased a total of 227,532 own shares at the Oslo Stock Exchange at an average price of 
+NOK 6.86 per share. 
+B2Holding ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 03 July 2023 until 07 July 2023, B2Holding ASA 
+purchased a total of 621,448 own shares at the Oslo Stock Exchange at an average price of 
+NOK 6.79 per share. 
+B2Holding ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 26 June 2023 until 30 June 2023, B2Holding ASA 
+purchased a total of 10,155,221 own shares at the Oslo Stock Exchange at an average price 
+of NOK 6.60 per share. 
+B2Holding ASA: Share buy-back 
+The Company has today on 28 June 2023 purchased 10,000,000 own shares in connection 
+with the buy-back offer for a total consideration of NOK 66,000,000. Following this transaction, 
+the Company owns a total of 25,260,222 own shares and has increased its holding of own 
+shares from 3.80% to 6.29% of the Company’s current share capital. The Annual General 
+Meeting of the Company held on 25 May 2023, approved the cancellation of 14,184,000 own 
+shares and the Company will send further notice as soon as the creditor notice period has 
+expired, which is expected by mid-July 2023. The share buy-back program announced on 25 
+May 2023 will commence again immediately. 
+B2Holding ASA: Offer To Buy Back Own Shares 
+The Company intends to carry out a one-off share buy-back of up to 10 million shares, 
+conducted by placing a single buy order in the market for a total amount of 10 million shares at 
+market opening on 27 June 2023 at NOK 6,60 corresponding to the volume weighted average 
+price on 26 June 2023. The order is valid until end of trading on 28 June 2023 or until the order 
+is filled. All shareholders in the Company are invited to sell shares, and the order will be 
+allocated on a first-come first-serve basis. This offer will be conducted in accordance with the 
+authorization provided by the Annual General Meeting to the Board of Directors on 25 May 
+2023, and is independent of the Company’s ongoing share buy-back programme announced 
+earlier this year.
+
+--- Page 34 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+34
+26.06.2023 
+ 
+ 
+ 
+ 
+ 
+19.06.2023 
+ 
+ 
+ 
+ 
+ 
+12.06.2023 
+B2Holding ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 19 June 2023 until 23 June 2023, B2Holding ASA 
+purchased a total of 290,244 own shares at the Oslo Stock Exchange at an average price of 
+NOK 6.96 per share. 
+B2Holding ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 12 June 2023 until 16 June 2023, B2Holding ASA 
+purchased a total of 310,974 own shares at the Oslo Stock Exchange at an average price of 
+NOK 7.24 per share. 
+B2Holding ASA: Share buy-back 
+The duration of the 2023 buy-back programme: 26 May 2023 until the Annual General Meeting 
+2024 at the latest. Size of the buy-back programme: Up to 25,000,000 shares, but maximum 
+total consideration: NOK 162,600,000. From 5 June 2023 until 9 June 2023, B2Holding ASA 
+purchased a total of 237,338 own shares at the Oslo Stock Exchange at an average price of 
+NOK 7.37 per share. 
+ 
+ 
+ 
+ 
+Major shareholding notifications & mandatory notifications of trade primary inside
+Date
+Information
+23.05.2024 
+Major Shareholding Notification 
+“Reference is made to the Annual General Meeting in B2 Impact ASA held on 23 May 2024 
+and the resolution to reduce the share capital by cancellation of 18,648,672 of the Company’s 
+own shares (Item 12). Mr. Jon H. Nordbrekken and related parties (Valset Invest AS and 
+F2Kapital AS) representing in total 37.200.000 shares or 9.61% of the current share capital, 
+will subject to completion of the cancellation, represent 10.09% of the Company’s share 
+capital.” 
+22.05.2024 
+B2 Impact ASA: Disclosure of voting proxies for the Annual General Meeting to be held on 23 
+May 2024 
+The chairperson of the board of directors, Harald L. Thorstein, has received proxies without 
+voting instructions to vote on behalf of 56,492,374 shares in the Company at the AGM. In 
+addition, Harald L. Thorstein owns 360,000 shares in the Company. Accordingly, Harald L. 
+Thorstein can therefore vote for in total 56,852,374 shares in the Company at the AGM, 
+equivalent to 14.68% of the share capital. 
+20.12.2023 
+ 
+ 
+ 
+ 
+ 
+ 
+06.12.2024 
+B2 Impact ASA: Disclosure of voting proxies for the extraordinary general meeting to be held 
+on 27 December 2023 
+The chairperson of the board of directors, Harald L. Thorstein, has received proxies without 
+voting instructions to vote on behalf of 88,441,235 shares in the Company at the EGM. In 
+addition Harald L. Thorstein owns 360,000 shares in the Company. Accordingly, Harald L. 
+Thorstein can therefore vote for in total 88,801,235 shares in the Company at the EGM, 
+equivalent to 22.94% of the share capital. The proxies received are only valid for the EGM. 
+Flaggemelding down in B2 Impact
+ 
+ 
+ 
+ 
+ 
+21.06.2023 
+ 
+ 
+ 
+DNB Bank ASA har 5. desember 2023 solgt 6.000.000 aksjer i selskapet B2 Impact. Som følge 
+av salget har DNB Bank ASA etter dette 16.374.479 aksjer og stemmeretter, tilsvarende 4,23%. 
+Av dette innehas 108.725 aksjer tilsvarende 0,3% i form av rett til å tilbakekalle utlånte aksjer. 
+I tillegg er det solgt en termin med fysisk levering på 16.374.479 aksjer som utgjør 4,23%. Total 
+faktisk eksponering 0%. 
+Mandatory notification of trade by Primary Insiders 
+Harald Thorstein, Chair of the Board of Directors of B2Holding ASA, has on 21 June 2023 
+acquired 80,000 shares in B2Holding ASA at an average price of NOK 6.79. Following these 
+transactions, Harald Thorstein holds 360,000 shares in the Company. 
+ 
+ 
+ 
+ 
+Annual and half yearly financial and audit reports
+Date
+Information
+15.05.2024 
+B2 Impact ASA: First quarter results 2024 
+Disclosure of the First quarter 2024 results 
+30.04.2024 
+ 
+15.02.2024 
+ 
+10.11.2023 
+ 
+B2 Impact ASA: Annual report 2023 
+Disclosure of the Annual Report 2023 
+B2 Impact ASA: Fourth quarter 2023 results 
+Disclosure of the fourth quarter 2023 results. 
+B2 Impact ASA: Third quarter results 2023 
+Disclosure of the third quarter 2023 results.
+
+--- Page 35 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+35
+23.08.2023 
+B2 Impact ASA: Second quarter results 2023 
+Disclosure of the second quarter 2023 results 
+ 
+ 
+ 
+ 
+Non-regulatory press releases
+Date
+Information
+ 
+27.02.2024 
+ 
+ 
+ 
+B2 Impact ASA: S&P Global Ratings upgrades B2 Impact's credit rating to BB- from B+ Oslo, 
+27 February 2024: B2 Impact ASA is pleased to share that S&P Global 
+Ratings (S&P) today upgraded its credit rating (corporate family rating) to 
+BB- (stable outlook) from previously B+ (positive outlook). The Senior 
+Unsecured Bond (B2H06) was also upgraded to BB- from B+ given a better 
+Corporate Family Rating and unchanged recovery rating.
+
+--- Page 36 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+36
+12 Documents available  
+ 
+For the term of the Base Prospectus the following documents, where applicable, can be inspected at the Issuer's 
+website: https://www.b2-impact.com stated in clause 5.2: 
+ 
+(a) 
+the up to date articles of association of the Issuer; 
+ 
+(b) 
+all reports, letters, and other documents, valuations and statements prepared by any expert at the Issuer's 
+request any part of which is included or referred to in the Base Prospectus.
+
+--- Page 37 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+37
+13 Financial instruments that can be issued under the Base 
+Prospectus 
+The Base Prospectus, as approved in accordance with the EU Prospectus Regulation 2017/1129, allows for Bonds 
+to be offered to the public or admitted to trading on a regulated market situated or operating within any EEA country. 
+ 
+This chapter describes the form, type, definitions, general terms and conditions, return and redemption 
+mechanisms, rating and template for Final Terms associated with the Bonds. 
+ 
+Risk factors related to the Bonds are described in Chapter 1 Risk Factors. 
+ 
+13.1 Securities Form 
+A Bond is a financial instrument as defined in Norwegian Securities Trading Act’s (Verdipapirhandellovens)  
+§ 2-2.  
+ 
+The Bonds are electronically registered in book-entry form with the Securities Depository.  
+13.2 Security Type 
+Borrowing limit – tap issue 
+The Loan may be either open or closed for increase of the Borrowing Amount during the tenor. A tap issue can take 
+place until five banking days before the Maturity Date. If the issue is open, the First Tranche and Borrowing Limit 
+will be specified in the Applicable Final Terms. 
+ 
+Return 
+Fixed Rate (FIX) 
+A Bond issue with a fixed Interest Rate will bear interest at a fixed rate as specified in the applicable Final Terms.  
+ 
+The Interest Rate will be payable quarterly, semi-annually or annually on the Interest Payment Dates as specified 
+in the applicable Final Terms. 
+ 
+Floating Rate (FRN) 
+A Bond issue with a floating Interest Rate will bear interest equal to a Reference Rate plus a fixed Margin for a 
+specified period (3 or, 6 months). Interest Rate or Reference Rate may be deemed to be zero. The period lengths 
+are equal throughout the term of the Loan, but each Interest Payment Date is adjusted in accordance with the 
+Business Day Convention. The Interest Rate for each forthcoming period are determined two Business Days prior 
+to each Interest Payment Date based on the then current value of the Reference Rate plus the Margin. 
+ 
+The Interest Rate will be payable quarterly or semi-annually on the Interest Payment Dates as specified in the 
+applicable Final Terms. 
+ 
+The relevant Reference Rate, the Margin, the Interest Payment Dates and the current Interest Rate will be specified 
+in the applicable Final Terms. 
+ 
+Redemption 
+The Loan will mature in full at the Maturity Date at a price equal to 100 per cent. of the nominal amount.  
+ 
+The Issuer may have the option to prematurely redeem the Loan in full at terms specified in the applicable Final 
+Terms.  
+ 
+The Bondholders may have the right to require that the Issuer purchases all or some of the Bonds held by that 
+Bondholder at terms specified in the applicable Final terms. 
+ 
+Security 
+The Bonds may be either secured or unsecured. Details will be specified in the applicable Final Terms. 
+ 
+Negative pledge 
+The Bonds may have negative pledge clause. Details will be specified in the applicable Final Terms.
+
+--- Page 38 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+38
+13.3 Definitions 
+This section includes a summary of the definitions set out in any Bond Terms as well as certain other definitions 
+relevant for this Prospectus. The Bond Trustee may amend the definitions in the Bond Terms for any new issue of 
+bonds during the tenor of this Base Prospectus. This may cause the definitions in this Base Prospectus to be 
+incorrect and no longer valid for such new issues of bonds. If the definitions in this Base Prospectus at any point in 
+time no longer represents the correct understanding of the definitions set out in the Bond Terms, the Bond Terms 
+shall prevail. The Bond Terms are attached to the Final Terms. 
+ 
+Additional Bonds: 
+Means Bonds issued under a Tap Issue, including any Temporary Bonds as defined in the Bond 
+Terms. 
+ 
+ 
+Attachment: 
+Means any schedule, appendix or other attachment to the Bond Terms. 
+ 
+ 
+Base Prospectus: 
+This document. Describes the Issuer and predefined features of Bonds that can be listed under 
+the Base Prospectus, as specified in the Prospectus Regulation (EU) 2017/1129. Valid for 12 
+months after it has been published. In this period, a prospectus may be constituted by the Base 
+Prospectus, any supplement(s) to the Base Prospectus and a Final Terms for each new issue. 
+Bond Issue/Bonds/ 
+Notes/the Loan: 
+Means (i) the debt instruments issued by the Issuer pursuant to the Bond Terms, including any 
+Additional Bonds and (ii) any overdue and unpaid principal which has been issued under a 
+separate ISIN in accordance with the regulations of the CSD from time to time. 
+ 
+ 
+Bond Terms: 
+Means the terms and conditions, including all Attachments which shall form an integrated part 
+of the Bond Terms, in each case as amended and/or supplemented from time to time. 
+ 
+ 
+Bondholder: 
+Means a person who is registered in the CSD as directly registered owner or nominee holder of 
+a Bond, subject however to the clause for Bondholders’ rights in the Bond Terms. 
+ 
+ 
+Bondholders’ 
+decisions: 
+The Bondholders’ Meeting represents the supreme authority of the Bondholders community in 
+all matters relating to the Bonds and has the power to make all decisions altering the terms and 
+conditions of the Bonds, including, but not limited to, any reduction of principal or interest and 
+any conversion of the Bonds into other capital classes. 
+ 
+At the Bondholders’ meeting each Bondholder may cast one vote for each voting bond owned 
+at close of business on the day prior to the date of the Bondholders’ meeting in the records 
+registered in the Securities Depository.  
+ 
+In order to form a quorum, at least half (1/2) of the voting bonds must be represented at the 
+Bondholders' meeting. See also the clause for repeated Bondholders’ meeting in the Bond 
+Terms.  
+ 
+Resolutions shall be passed by simple majority of the votes at the Bondholders' Meeting, 
+however, a majority of at least 2/3 of the voting bonds represented at the Bondholders’ Meeting 
+is required for any waiver or amendment of any terms of the Bond Terms. 
+ 
+(For more details, see also the clause for Bondholders’ decisions in the Bond Terms) 
+ 
+ 
+Bondholders rights: 
+Bondholders' rights are specified in the Bond Terms.  
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with the CSD, the 
+Bondholders are bound by the Bond Terms. 
+ 
+ 
+Bond Trustee: 
+Nordic Trustee AS, Postboks 1470 Vika, 0116 Oslo, or its successor(s) Website: 
+https://nordictrustee.com                                                                                         
+ 
+The Bond Trustee has power and authority to act on behalf of, and/or represent, the Bondholders 
+in all matters, including but not limited to taking any legal or other action, including enforcement 
+of the Bond Terms, and the commencement of bankruptcy or other insolvency proceedings 
+against the Issuer, or others. 
+ 
+The Bond Trustee shall represent the Bondholders in accordance with the finance documents. 
+The Bond Trustee is not obligated to assess or monitor the financial condition of the Issuer or 
+any other obligor unless to the extent expressly set out in the Bond Terms, or to take any steps 
+to ascertain whether any event of default has occurred. The Bond Trustee is entitled to take such 
+steps that it, in its sole discretion, considers necessary or advisable to protect the rights of the 
+Bondholders in all matters pursuant to the terms of the finance documents.
+
+--- Page 39 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+39
+ 
+ 
+Borrowing Limit – Tap 
+Issue and Borrowing 
+Amount/First Tranche 
+Borrowing Limit – Tap Issue is the maximum issue amount for an open Bond issue.  
+ 
+Borrowing Amount/First Tranche is the borrowing amount for a closed Bond Issue, eventually 
+the borrowing amount for the first tranche of an open Bond Issue. 
+ 
+Borrowing Limit – Tap Issue and Borrowing Amount/First Tranche will be specified in the Final 
+Terms. 
+ 
+ 
+Business Day: 
+Means any day on which commercial banks are open for general business and can settle foreign 
+currency transactions in Oslo, and TARGET2 is open for the settlement of payments in euro. 
+Unless otherwise specified in the Final Terms. 
+ 
+ 
+Business Day 
+Convention: 
+If the last day of any Interest Period originally falls on a day that is not a Business Day, the 
+Interest Payment Date will be as follow: 
+ 
+If Fixed Rate, the Interest Payment Date shall be postponed to the next day which is a Business 
+Day (Following Business Day convention). 
+ 
+If FRN, the Interest Period will be extended to include the first following Business Day unless 
+that day falls in the next calendar month, in which case the Interest Period will be shortened to 
+the first preceding Business Day (Modified Following Business Day convention). The Interest 
+Period is adjusted accordingly. Unless otherwise specified in the Final Terms. 
+ 
+ 
+Calculation Agent: 
+The Bond Trustee, if not otherwise stated in the applicable Final Terms. 
+ 
+ 
+Call Option: 
+The Final Terms may specify that the Issuer may redeem all but not only some of the 
+Outstanding Bonds on any Business Day.  
+ 
+In such case the Call Date(s), the Call Price(s) and the Call Notice Period will be specified in the 
+Final Terms. 
+ 
+ 
+Change of Control 
+Event: 
+If and when any person or a group of persons under the same Decisive Influence obtain Decisive 
+Influence over the Issuer. 
+ 
+ 
+Currency: 
+The currency in which the bond issue is denominated. 
+ 
+Currency will be specified in the Final Terms. 
+ 
+ 
+Day Count Convention:
+The convention for calculation of payment of interest; 
+ 
+(a) If Fixed Rate, the payment of interest shall be calculated on basis of a 360-day year 
+comprised of twelve months of 30 days each and, in case of an incomplete month, the actual 
+number of days elapsed (30/360-days basis), unless: 
+ 
+(i) 
+the last day in the relevant Interest Period is the 31st calendar day but the first day 
+of that Interest Period is a day other than the 30th or the 31st day of a month, in 
+which case the month that includes that last day shall not be shortened to a 30-
+day month; or 
+ 
+(ii) 
+the last day of the relevant Interest Period is the last calendar day in February, in 
+which case February shall not be lengthened to a 30-day month. 
+ 
+(b) If FRN, the payment of interest shall be calculated on basis of the actual number of days in 
+the Interest Period in respect of which payment is being made divided by 360 (actual/360-
+days basis). 
+ 
+ 
+Decisive Influence 
+A person having, as a result of an agreement or through the ownership of shares or interests in 
+another person (directly or indirectly): 
+a) 
+a majority of the voting rights in that other person; or 
+b) 
+a right to elect or remove a majority of the members of the board of directors of that 
+other person. 
+ 
+ 
+Denomination – Each 
+Bond: 
+The nominal amount of each Bond. 
+ 
+Denomination of each bond will be specified in the Final Terms.
+
+--- Page 40 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+40
+ 
+ 
+Disbursement Date / 
+Issue Date 
+Date of bond issue.  
+ 
+On the Issue Date the bonds will be delivered to the Bondholder’s VPS-account against 
+payment or to the Bondholder’s custodian bank if the Bondholder does not have his/her own 
+VPS-account. 
+ 
+The Issue Date will be specified in the Final Terms. 
+ 
+ 
+Exchange: 
+Means: 
+(a) Oslo Børs (the Oslo Stock Exchange); or 
+(b) any regulated market as such term is understood in accordance with the Markets in Financial 
+Instruments Directive 2014/65/EU (MiFID II) and Regulation (EU) No. 600/2014 on markets in 
+financial instruments (MiFIR). 
+ 
+ 
+Face Value: 
+Means the denomination of each of the Bonds, as set out in Clause 2.2 (The Bond Issue) in the 
+Bond Terms. 
+ 
+ 
+Final Terms: 
+Document describing securities as specified in Prospectus Regulation (EU) 2017/1129, 
+prepared as part of the Prospectus. Final Terms will be prepared for each new security as 
+specified in Prospectus Regulation (EU) 2017/1129, issued by the Issuer. 
+ 
+The template for Final Terms has been approved by the Norwegian FSA, as competent authority 
+under Regulation (EU) 2017/1129. The Norwegian FSA only approves the template for Final 
+Terms as meeting the standards of completeness, comprehensibility and consistency imposed 
+by Regulation (EU) 2017/1129. Such approval should not be considered as an endorsement of 
+the quality of the securities that are subject of the Final Terms. Investors should make their own 
+assessment as to the suitability of investing in the securities. 
+ 
+ 
+First Call Date: 
+Means the Interest Payment Date on 30 January 2026 (2 years after the Issue Date. 
+ 
+ 
+Interest Determination 
+Date(s): 
+In the case of NIBOR: Second Oslo business day prior to the start of each Interest Period. 
+ 
+In the case of EURIBOR: Second Target 2 business day prior to the start of each Interest Period.
+ 
+Interest Determination Date(s) for other Reference Rates, see Final Terms. 
+ 
+ 
+Interest Payment 
+Date(s): 
+The Interest Rate is paid in arrears on the last day of each Interest Period.  
+ 
+Any adjustment will be made according to the Business Day Convention. 
+ 
+The Interest Payment Date(s) will be specified in the Final Terms. 
+ 
+ 
+Interest Period: 
+The first Interest Period runs from and including the Issue Date to but excluding the first Interest 
+Payment Date. The subsequent Interest Periods run from and including an Interest Payment 
+Date to but excluding the next Interest Payment Date. The last Interest Payment Date 
+corresponds to the Maturity Date. 
+ 
+ 
+Interest Rate: 
+Rate of interest applicable to the Bonds; 
+ 
+(i) 
+If Fixed Rate, the Bonds shall bear interest at the percentage rate per annum (based 
+on the Day Count Convention)  
+ 
+(ii) If FRN, the Bonds shall bear interest at a rate per annum equal to the Reference Rate 
+plus a Margin (based on the Day Count Convention). Interest Rate or Reference Rate 
+may be deemed to be zero. 
+ 
+The Interest Rate is specified in Final Terms. 
+ 
+ 
+Interest Rate 
+Adjustment Date: 
+Date(s) for adjusting of the interest rate for bond issue with floating interest rate. 
+ 
+The Interest Rate Adjustment Date will coincide with the Interest Payment Date. 
+ 
+ 
+ISIN: 
+International Securities Identification Number for the Bond Issue. ISIN is specified in Final 
+Terms.
+
+--- Page 41 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+41
+Issuer: 
+B2 Impact ASA is the Issuer under the Base Prospectus. 
+ 
+ 
+Issuer’s Bonds: 
+Means any Bonds which are owned by the Issuer or any affiliate of the Issuer. 
+ 
+ 
+Issue Price: 
+The price in percentage of the Denomination, to be paid by the Bondholders at the Issue Date. 
+ 
+Issue price will be specified in Final Terms.  
+ 
+ 
+Joint Venture 
+Any joint venture entity, whether a company, unincorporated firm, undertaking, association, 
+joint venture or partnership or any other entity jointly owned by two or more persons. 
+ 
+ 
+LEI-code: 
+Legal Entity Identifier (LEI) is a 20-character reference code to uniquely identify legally distinct 
+entities that engage in financial transactions. 
+ 
+LEI-code is specified in Final Terms. 
+ 
+ 
+Listing: 
+Listing of a bond issue on an Exchange is due to the Base Prospectus, any supplement(s) to 
+the Base Prospectus and a Final Terms. 
+ 
+An application for listing will be sent after the Disbursement Date and as soon as possible after 
+the Prospectus has been approved by the Norwegian FSA. 
+ 
+The Issuer shall use its reasonable endeavours to ensure that the Bonds are listed on an 
+Exchange within six (6) months of the Issue Date and remain listed until the Bonds have been 
+redeemed in full. 
+ 
+In case of a Listing Failure Event and for as long as such Listing Failure Event is continuing, 
+the Margin shall be increased with one (1.00) percentage point per annum. 
+ 
+Bonds listed on an Exchange are freely negotiable. See also Market Making. 
+ 
+ 
+Listing Failure Event 
+a) 
+the Bonds have not been admitted to listing on an Exchange within six (6) months 
+following the Issue Date; or 
+ 
+b) 
+in the case of a successful admission to listing, a period of six (6) months has elapsed 
+since the Bonds ceased to be admitted to listing on an Exchange where the other 
+Bonds are listed. 
+ 
+ 
+Make Whole Amount: 
+Means an amount equal to the sum of the present value on the Call Option Repayment Date 
+of: 
+a) 
+the Face Value of the redeemed Bonds, as if such payment originally had taken place 
+on the First Call Date (and at the then applicable redemption price); and  
+ 
+b) 
+the remaining interest payments of the redeemed Bonds, less any accrued and 
+unpaid interest on the redeemed Bonds as at the Call Option Repayment Date, to the 
+First Call Date, 
+ 
+ 
+Manager(s): 
+The bond issue’s Manager(s), as specified in the Final Terms. 
+ 
+ 
+Market Making: 
+For Bonds listed on an Exchange, a market-maker agreement between the Issuer and a 
+Manager may be entered into.  
+ 
+This will be specified in the Final Terms. 
+ 
+ 
+Margin: 
+The margin, specified in percentage points, to be added to the Reference rate. 
+ 
+Margin will be specified in the Final terms.  
+ 
+ 
+Maturity Date: 
+The date the bond issue is due for payment, if not already redeemed pursuant to Call Option or 
+Put Option. The Maturity Date coincides with the last Interest Payment Date and is adjusted in 
+accordance with the Business Day Convention.  
+ 
+The Maturity Date is specified in the Final Terms. 
+ 
+ 
+Outstanding Bonds: 
+Means any Bonds not redeemed or otherwise discharged.
+
+--- Page 42 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+42
+The Issuer will issue on the Issue date the first tranche of the bond issue as specified in Final 
+Terms. During the term of the bond issue, new tranches may be issued up to the Borrowing 
+Limit, as specified in Final Terms. 
+ 
+ 
+Paying Agent: 
+The entity designated by the Issuer to manage (maintain the Issuer Account for) the bond 
+issue in the Securities Depository. 
+ 
+The Paying Agent is specified in the Final Terms. 
+ 
+ 
+Principal amount: 
+Outstanding amounts under the Loan from time to time. 
+ 
+ 
+Prospectus: 
+The Prospectus consists of the Base Prospectus, any supplement(s) to the Base Prospectus 
+and the relevant Final Terms prepared in connection with application for listing on an 
+Exchange.  
+ 
+ 
+Put Option: 
+The Final Terms may specify that upon the occurrence of a Put Option Event, each 
+Bondholder will have the right to require that the Issuer purchases all or some of the Bonds 
+held by that Bondholder. 
+ 
+In such case the exercise procedures, the repayment date and redemption price will be 
+specified in the Final Terms. 
+ 
+ 
+Put Option Event: 
+Shall have the meaning ascribed to such term in 11.3 (Change of control) in the Bond Terms. 
+ 
+ 
+Put Option Repayment 
+Date:  
+Shall have the meaning ascribed to such term in 11.3 (Change of control) int the Bond Terms.. 
+ 
+ 
+Redemption: 
+The Outstanding Bonds will mature in full on the Maturity Date and shall be redeemed by the 
+Issuer on the Maturity Date at a price equal to 100 per cent. of the Nominal Amount, if not 
+already redeemed pursuant to Call Option or Put Option.  
+ 
+ 
+Redemption Price: 
+The price determined as a percentage of the Denomination to which the bond issue is to be 
+redeemed at the Maturity Date.  
+ 
+Redemption Price is 100 per cent of Denomination – Each Bond. 
+ 
+ 
+Reference Rate:  
+For FRN, the Reference Rate shall be EURIBOR or NIBOR or any other rate as specified in the 
+Final Terms, which appears on the Relevant Screen Page as at the specified time on the Interest 
+Determination Date in question. 
+ 
+The Reference Rate, the Relevant Screen Page, the specified time, information about the past 
+and future performance and volatility of the Reference Rate and any fallback provisions will be 
+specified in Final Terms.  
+ 
+ 
+Relevant Screen Page:
+For FRN, an internet address or an electronic information platform belonging to a renowned 
+provider of Reference Rates. 
+ 
+The Relevant Screen Page will be specified in the Final Terms. 
+ 
+ 
+Central Securities 
+Depository /CSD: 
+The securities depository in which the bonds are registered, in accordance with the Norwegian 
+Act of 2019 no. 6 regarding Securities depository. 
+ 
+Unless otherwise specified in the Final Terms, the following Securities Depository will be used: 
+Norwegian Central Securities Depository (“Verdipapirsentralen” or ”VPS”), P.O. Box 4, 0051 
+Oslo. 
+ 
+ 
+Subsidiary: 
+Means a company over which another company has Decisive Influence 
+ 
+ 
+Tap Issues: 
+The Issuer may, provided that the conditions set out in the Bond Terms are met, at one or more 
+occasions up until, but excluding, the Maturity Date or any earlier date when the Bonds have 
+been redeemed in full, issue Additional Bonds until the aggregate nominal amount of the Bonds 
+outstanding equals in aggregate the maximum issue amount (less the aggregate nominal 
+amount of any previously redeemed Bonds) 
+ 
+If N/A is specified in the Borrowing Limit in the Final Terms, the Issuer may not make Tap issues 
+under the Bond Terms.
+
+--- Page 43 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+43
+ 
+ 
+TARGET2 
+Means the Trans-European Automated Real-time Gross Settlement Express Transfer system 
+which utilises a single shared platform and which was launched on 19 November 2007. 
+ 
+ 
+Temporary Bonds: 
+If the Bonds are listed on an Exchange and there is a requirement for a supplement to the Base 
+Prospectus in order for the Additional Bonds to be listed together with the Bonds, the Additional 
+Bonds may be issued under a separate ISIN which, upon the approval of the supplement, will 
+be converted into the ISIN for the Bonds issued on the initial Issue Date. The Bond Terms 
+governs such Temporary Bonds. The Issuer shall inform the Bond Trustee, the Exchange and 
+the Paying Agent once such supplement is approved. 
+ 
+ 
+Yield: 
+Dependent on the Market Price for bond issue with floating rate. Yield for the first interest period 
+can be determined when the interest is known, normally two Business Days before the Issue 
+Date. 
+  
+For bond issue with fixed rate, yield is dependent on the market price and number of Interest 
+Payment Date. 
+ 
+The yield is calculated in accordance with «Anbefaling til Konvensjoner for det norske 
+sertifikat- og obligasjonsmarkedet» prepared by Forening for finansfag in March 2022: 
+https://finansfag.no/wp-content/uploads/2022/06/Rentekonvensjon_oppdatert2022.pdf 
+ 
+Yield is specified in Final Terms. 
+ 
+13.4 General terms and conditions 
+These general terms and conditions summarize and describe the general terms and conditions set out in any Bond 
+Terms. The Bond Trustee may amend the general terms and conditions in the Bond Terms for any new issue of 
+bonds during the tenor of this Base Prospectus. This may cause the general terms and conditions in this Base 
+Prospectus to be incorrect and no longer valid for such new issues of bonds. If the general terms and conditions in 
+this Base Prospectus at any point in time no longer represents the correct understanding of the general terms and 
+conditions set out in the Bond Terms, the Bond Terms shall prevail. The Bond Terms are attached to the Final 
+Terms. 
+13.4.1 Use of proceeds 
+The net proceeds (net of legal costs, fees of the Managers and the Bond Trustee and any other agreed costs and 
+expenses) from the Bond Issue shall be applied to refinancing and for general corporate purposes. 
+ 
+The use of proceeds will be specified in the Final Terms. 
+13.4.2 Publication 
+The Base Prospectus, any supplement(s) to the Base Prospectus and the Final Terms will be published on Issuer’s 
+website https://www.b2-impact.com or on the Issuer's visit address, Cort Adelers gate 30, 0254 Oslo, Norway, or 
+their successor (s). 
+ 
+The Prospectus will be published by a stock exchange announcement. 
+ 
+13.4.3 Redemption 
+Matured interest and matured principal will be credited each Bondholder directly from the Securities Registry. 
+Claims for interest and principal shall be limited in time pursuant the Norwegian Act relating to the Limitation Period 
+Claims of 18 May 1979 no 18, p.t. 3 years for interest rates and 10 years for principal. 
+ 
+13.4.4 Fees, Expenses and Tax legislation 
+The tax legislation of the investor’s Member State and of the Issuer’s country of incorporation may have an impact 
+on the income received from the securities. 
+ 
+The Issuer shall pay any stamp duty and other public fees in connection with the loan. Any public fees or taxes on 
+sales of Bonds in the secondary market shall be paid by the Bondholders, unless otherwise decided by law or 
+regulation. The Issuer is responsible for withholding any withholding tax imposed by Norwegian law.
+
+--- Page 44 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+44
+13.4.5 Security Depository and secondary trading 
+The Bonds are electronically registered in book-entry form with the Securities Depository, see also the definition of 
+"Securities Depository". Securities Depository is specified in the Final Terms. 
+ 
+Secondary trading will be made over an Exchange for Bonds listed on a marketplace. See also definition of “Market 
+Making”. 
+ 
+Prospectus fee for the Base Prospectus including templates for Final Terms is NOK 98,000. In addition, there is a 
+listing fee for listing of the Bonds in accordance with the current price list of the Exchange. The listing fees will be 
+specified in the Final Terms.  
+ 
+13.4.6 Status of the Bonds, Security and Special Conditions 
+The Bonds shall constitute senior debt obligations of the Issuer. The Bonds shall, subject to Clause 9 (Potential 
+security and/or guarantee sharing) in the Bond Terms, rank at least pari passu with all other obligations of the Issuer 
+(save for such claims which are preferred by bankruptcy, insolvency, liquidation or other similar laws of general 
+application) and shall rank ahead of subordinated debt. 
+ 
+Subject to any Security or guarantees granted pursuant to Clause 9 (Potential security and/or guarantee sharing) 
+in the Bond Terms, the Bonds are unsecured.  
+ 
+The kind of securities and potential security and/or guarantee sharing will be specified in the Final Terms. 
+ 
+13.4.7 Bond Terms 
+The Bond Terms has been entered into between the Issuer and the Bond Trustee. The Bond Terms regulates the 
+Bondholders’ rights and obligations in relations with the bond issue. The Bond Trustee enters into the Bond Terms 
+on behalf of the Bondholders and is granted authority to act on behalf of the Bondholders to the extent provided for 
+in the Bond Terms. 
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with the CSD, the Bondholders are bound by 
+the Bond Terms and any other Finance Document, without any further action required to be taken or formalities to 
+be complied with by the Bond Trustee, the Bondholders, the Issuer or any other party. 
+ 
+The Bond Terms will be attached to the Final Terms for each Bond issue and is also available through the 
+Manager(s), Issuer and the Bond Trustee. 
+ 
+13.4.8 Legislation 
+The Bond Terms (the securities) is governed by and construed in accordance with Norwegian law.  
+ 
+The Issuer is subject to Norwegian legislation, the most relevant law for the Group's operations is the Public Limited 
+Companies Act, the Norwegian Securities Trading Act and the Norwegian Stock Exchange Regulations. 
+ 
+13.4.9 Approvals 
+The Bonds will be issued in accordance with the Issuer’s Board of Directors approval. 
+ 
+The date of the Issuer’s Board of Directors approval will be specified in the Final Terms 
+ 
+The Base Prospectus has been submitted to the Norwegian Financial Supervisory Authority (Finanstilsynet) before 
+listing of the Bonds takes place. 
+ 
+Final Terms will be submitted to Finanstilsynet for information in connection with an application for listing of a Bond 
+Issue. 
+ 
+The Base prospectus will not be the basis for offers for subscription in bonds that are not subject to a prospectus 
+obligation. 
+13.4.10 Restrictions on the free transferability of the securities 
+Any restrictions on the free transferability of the securities will be specified in the Final Terms, clause 2 see Any 
+restrictions on the free transferability of the securities.
+
+--- Page 45 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+45
+13.5 Return and redemption 
+Bonds may have return and redemption mechanisms as explained below. The relevant Final Terms refer to these 
+mechanisms and provide relevant parameter values for the specific bond issue. 
+13.5.1 Bonds with floating rate 
+13.5.1.a Return (interest) 
+The Interest Rate is specified in Interest Rate ii). Payment of the Interest Rate is calculated on basis of the Day 
+Count Convention (b). 
+ 
+Interest Rate or Reference Rate may be deemed to be zero.  
+ 
+The period lengths are equal throughout the term of the Loan, but each Interest Payment Date is adjusted in 
+accordance with the Business Day Convention. The Interest Rate for each forthcoming period are determined two 
+Business Days prior to each Interest Payment Date based on the then current value of the Reference Rate plus the 
+Margin. 
+ 
+The Interest Rate is paid in arrears on each Interest Payment Date. The first Interest Period runs from and including 
+the Issue Date to but excluding the first Interest Payment Date. The subsequent Interest Periods run from and 
+including an Interest Payment Date to but excluding the next Interest Payment Date. The last Interest Payment 
+Date corresponds to the Maturity Date. 
+ 
+The relevant Reference Rate, the Margin, the Interest Payment Dates and the then current Interest Rate will be 
+specified in the applicable Final Terms. 
+ 
+Interest calculation method for secondary trading is given by act/360, modified following. 
+ 
+13.5.1.b Redemption 
+Redemption is made in accordance with Redemption. 
+ 
+13.5.2 Bonds with fixed rate 
+13.5.2.a Return (interest) 
+The interest rate is specified in Interest Rate (i). Payment of the Interest Rate is calculated on basis of the Day 
+Count Convention (a).  
+ 
+The Interest Rate is paid in arrears on each Interest Payment Date. The first Interest Period runs from and including 
+the Issue Date to but excluding the first Interest Payment Date. The subsequent Interest Periods run from and 
+including an Interest Payment Date to but excluding the next Interest Payment Date. The last Interest Payment 
+Date corresponds to the Maturity Date. 
+ 
+The Interest Rate and the Interest Payment Dates will be specified in the applicable Final Terms. 
+ 
+Interest calculation method for secondary trading is given by act/365 for bond issue with fixed rate.  
+ 
+13.5.2.b Redemption 
+Redemption is made in accordance with Redemption. 
+ 
+13.6 Rating 
+The Issuer is rated by S&P and Moody’s, see Annex 2: 
+ 
+Agency 
+Corporate 
+Family 
+Ranking
+Bond 
+Issue 
+Ranking*
+Outlook 
+Last publication 
+S&P 
+BB- 
+B+ 
+Stable 
+https://www.b2-
+impact.com/contentassets/7760439cb8f440ee87ba4eeb4f6e0586/b2-impact-
+asa---sp-research-update---27-feb-2024.pdf
+Moody’s 
+Ba2 
+Ba3 
+Stable 
+https://www.b2-
+impact.com/contentassets/7760439cb8f440ee87ba4eeb4f6e0586/b2-impact-
+asa---credit-opinion---10-oct-2023.pdf
+ 
+* Please note that only bond B2H06 (NO0012704107) are rated. (B2H06) was also upgraded to BB- from B+ given 
+a better Corporate Family Rating and unchanged recovery rating. ISIN NO0013138966 are rated Ba3 by Moddy’s.
+
+--- Page 46 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+46
+ 
+Each of Moody's and S&P is established in the European Union and is registered under Regulation (EC) No. 
+1060/2009 (as amended) (the "CRA Regulation") and is on the list of registered credit rating agencies published on 
+ESMA website: http://www.esma.europa.eu/page/List-registered-and-certified-CRAs 
+ 
+ 
+. 
+13.7 Final Terms 
+Template for Final Terms for fixed and floating bond issue, see Annex 2
+
+--- Page 47 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+47
+14 Third party information   
+Part of the information given in this Base Prospectus has been sourced from a third party. It is hereby confirmed 
+that the information has been accurately reproduced and that as far as  B2 Impact ASA is aware and is able to 
+ascertain from information published by that third party, no facts have been omitted which would render the 
+reproduced information inaccurate or misleading. The following table lists such third parties:  
+Kind of 
+information 
+Publicly available 
+Name of third 
+party 
+Business 
+address 
+Qualifications 
+Material 
+interest in 
+the 
+Company 
+ 
+Clause 6.4 ESG 
+Strategy ESG 
+Risk Rating  
+ 
+Yes 
+https://www.sustainalytics
+.com/esg-
+rating/b2holding-
+asa/1030878791 
+ 
+ 
+Morningstar, 
+Sustainalytics 
+ 
+De Entrée 35-
+37, 1101 BH 
+Amsterdam 
+ 
+ 
+ 
+Website, ESG 
+Rating 
+ 
+ 
+None 
+ 
+Yes, if you are registered 
+as a user by 
+https://connect.euronext.c
+om/ 
+Euronext 
+Oslo Børs 
+ASA, Postboks 
+460 sentrum, 
+0105 OSLO 
+ 
+ 
+Website, ESG 
+Rating 
+ 
+ 
+None
+
+--- Page 48 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+48
+Cross reference list 
+Reference in 
+Base 
+Prospectus
+Refers to 
+Details 
+10.1 Financial 
+statements 
+Annual Report 2023, available at: 
+https://storage.mfn.se/c78315f0-f046-4905-
+afa2-430e8776bef9/b2impact-annualreport-
+2023.pdf 
+Group’s accounting policies note 2, pages 54-61 
+ 
+B2 Impact ASA’s accounting policies, note 1, 
+pages 122-123 
+ 
+Annual Report 2023, available at: 
+https://storage.mfn.se/c78315f0-f046-4905-
+afa2-430e8776bef9/b2impact-annualreport-
+2023.pdf 
+B2 Impact ASA Consolidated 
+Income statement page 48 
+Statement of comprehensive income page 49 
+Statement of financial position page 50 
+Statement of cash flow page 52 
+Notes to the consolidated financial statements 
+pages 53-118 
+ 
+B2 Impact ASA Parent 
+Statement of income statement page 119 
+Balance sheet page 120 
+Statement of cash flow page 121 
+Notes to the financial statements pages 122-145 
+ 
+Q1 Report 2024, available at: 
+https://storage.mfn.se/bb7646c5-f3fc-4fa1-
+aff9-eefefaa29aa2/b2-impact-q1-2024-
+report.pdf 
+B2 Impact ASA Consolidated 
+Income statement page 12 
+Statement of comprehensive income page 13 
+Statement of financial position page 14 
+Statement of cash flow page page 16 
+Notes to the consolidated financial statements 
+pages 17-25
+10.2 Auditing of 
+historical 
+annual financial 
+information 
+Annual Report 2023, available at: 
+https://storage.mfn.se/c78315f0-f046-4905-
+afa2-430e8776bef9/b2impact-annualreport-
+2023.pdf 
+Auditors report pages 147-149 
+ 
+ 
+ 
+ 
+ 
+References to the above mentioned documents are limited to information given in “Details”, e.g. that the non- 
+incorporated parts are either not relevant for the investor or covered elsewhere in the prospectus.
+
+--- Page 49 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+49
+Joint Global Coordinators’ and Joint Lead Managers’ 
+disclaimer 
+ 
+DNB Bank ASA, DNB Markets and Nordea Bank Apb, filial i Norge as Joint Global Coordinators and DNB Bank 
+ASA, DNB Markets, Nordea Bank Apb, filial i Norge and SpareBank 1 Markets as Joint Lead Managers have 
+assisted the Company in preparing the Base Prospectus. The Joint Global Coordinators and the Joint Lead 
+Managers have not verified the information contained herein. Accordingly, no representation, warranty or 
+undertaking, expressed or implied, is made and the Joint Global Coordinators and the Joint Lead Managers 
+expressly disclaim any legal or financial liability as to the accuracy or completeness of the information contained in 
+this Base Prospectus or any other information supplied in connection with the issuance or distribution of bonds by 
+B2 Impact ASA.  
+ 
+This Base Prospectus is subject to the general business terms of the Joint Global Coordinators and the Joint Lead 
+Managers, available at their respective websites. Confidentiality rules and internal rules restricting the exchange of 
+information between different parts of the Joint Global Coordinators and the Joint Lead Managers may prevent 
+employees of the Joint Global Coordinators and the Joint Lead Managers who are preparing this Base Prospectus 
+from utilizing or being aware of information available to the Joint Global Coordinators and the Joint Lead Managers 
+and/or any of its affiliated companies and which may be relevant to the recipient's decisions. 
+ 
+Each person receiving this Base Prospectus acknowledges that such person has not relied on the Joint Global 
+Coordinators and the Joint Lead Managers, nor on any person affiliated with it in connection with its investigation 
+of the accuracy of such information or its investment decision. 
+ 
+Oslo, 4 June 2024 
+ 
+ 
+Joint Global Coordinators and Joint Lead Managers: 
+ 
+DNB Bank ASA 
+(www.dnb.no) 
+                              
+ 
+Nordea Bank Abp, filial i Norge 
+(www.nordea.no) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Joint Lead Manager: 
+ 
+SpareBank 1 Markets 
+(www.sb1markets.no)
+
+--- Page 50 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+50
+Annex 1 Articles of Association for B2 Impact ASA
+
+--- Page 51 ---
+B2 Impact ASA, 4 June 2024 
+ 
+Base Prospectus 
+ 
+ 
+51
+Annex 2 Template for Final Terms for fixed and floating rate 
+Bonds
+
+--- Page 52 ---
+[Annex 2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Base prospectus 
+ 
+ 
+ 
+ 
+ 
+Final Terms 
+ 
+for 
+ 
+[ISIN] 
+[Title of the bond issue] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Place], [Date]
+
+--- Page 53 ---
+B2 Impact ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+2  
+Terms used herein shall be deemed to be defined as such for the purpose of the conditions set forth in the Base 
+Prospectus clauses 2 Definitions and 13.3 Definitions, these Final Terms and the attached Bond Terms. 
+ 
+ 
+[In case MiFID II identified target market are professional investors and eligible counterparties, insert the 
+following:] 
+[MIFID II product governance / Professional investors and eligible counterparties (ECPs) only target 
+market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is eligible 
+counterparties and professional clients only, each as defined in Directive 2014/65/EU (as amended) (MiFID II); 
+and (ii) all channels for distribution of the Bonds to eligible counterparties and professional clients are appropriate. 
+[Consider any negative target market]. Any person subsequently offering, selling or recommending the Bonds (a 
+distributor) should take into consideration the manufacturer[’s/s’] target market assessment; however, a 
+distributor subject to MiFID II is responsible for undertaking its own target market assessment in respect of the 
+Bonds (by either adopting or refining the manufacturer[’s/s’] target market assessment) and determining 
+appropriate distribution channels.] 
+ 
+[UK MiFIR product governance / Professional investors and eligible counterparties only (ECPs) target 
+market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is only 
+eligible counterparties, as defined in the FCA Handbook Conduct of Business Sourcebook, and professional 
+clients, as defined in Regulation (EU) No 600/2014 as it forms part of domestic law by virtue of the European 
+Union (Withdrawal) Act 2018 (UK MiFIR); and (ii) all channels for distribution of the Bonds to eligible 
+counterparties and professional clients are appropriate. [Consider any negative target market]. Any person 
+subsequently offering, selling or recommending the Bonds (a distributor) should take into consideration the 
+manufacturer[’s/s’] target market assessment; however, a distributor subject to the FCA Handbook Product 
+Intervention and Product Governance Sourcebook (the UK MiFIR Product Governance Rules) is responsible for 
+undertaking its own target market assessment in respect of the Bonds (by either adopting or refining the 
+manufacturer[’s/s’] target market assessment) and determining appropriate distribution channels.] 
+ 
+[PROHIBITION OF SALES TO EEA RETAIL INVESTORS – The Bonds are not intended to be offered, sold or 
+otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in 
+the European Economic Area (EEA). For these purposes, a retail investor means a person who is one (or more) 
+of: (i) a retail client as defined in point (11) of Article 4(1) of MiFID II; (ii) a customer within the meaning of 
+Directive (EU) 2016/97 where that customer would not qualify as a professional client as defined in point (10) of 
+Article 4(1) of MiFID II; or (iii) not a qualified investor as defined in the Prospectus Regulation (as defined below). 
+Consequently no key information document required by Regulation (EU) No. 1286/2014 (as amended) (the 
+PRIIPs Regulation) for offering or selling the Bonds or otherwise making them available to retail investors in the 
+EEA has been prepared and therefore offering or selling the Bonds or otherwise making them available to any 
+retail investor in the EEA may be unlawful under the PRIIPs Regulation.]  
+ 
+[PROHIBITION OF SALES TO UK RETAIL INVESTORS – The Bonds are not intended to be offered, sold or 
+otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in 
+the United Kingdom (UK). For these purposes, a retail investor means a person who is one (or more) of: (i) a retail 
+client, as defined in point (8) of Article 2 of Regulation (EU) No. 2017/565 as it forms part of domestic law by 
+virtue of the European Union (Withdrawal) Act 2018 (EUWA); (ii) a customer within the meaning of the provisions 
+of FSMA and any rules or regulations made under the FSMA to implement Directive (EU) 2016/97, where that 
+customer would not qualify as a professional client, as defined in point (8) of Article 2(1) of Regulation (EU) No. 
+600/2014 as it forms part of domestic law by virtue of the EUWA; or (iii) not a qualified investor as defined in 
+Article 2 of Regulation (EU) 2017/1129 as it forms part of domestic law by virtue of the EUWA. Consequently no 
+key information document required by Regulation (EU) No. 1286/2014 as it forms part of domestic law by virtue of 
+the EUWA (the UK PRIIPs Regulation) for offering or selling the Bonds or otherwise making them available to 
+retail investors in the UK has been prepared and therefore offering or selling the Bonds or otherwise making them 
+available to any retail investor in the UK may be unlawful under the UK PRIIPs Regulation.] 
+ 
+[In case MiFID II identified target market are retail investors, professional investors and eligible counterparties, 
+insert the following:] 
+[MIFID II product governance / Retail investors, professional investors and eligible counterparties (ECPs) 
+target market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is eligible 
+counterparties, professional clients and retail clients, each as defined in Directive 2014/65/EU (as amended) 
+(MiFID II); EITHER [and (ii) all channels for distribution of the Bonds are appropriate[, including investment 
+advice, portfolio management, non-advised sales and pure execution services]] OR [(ii) all channels for 
+distribution to eligible counterparties and professional clients are appropriate; and (iii) the following channels for 
+distribution of the Bonds to retail clients are appropriate – investment advice[,/and] portfolio management[,/ 
+and][non-advised sales][and pure execution services][, subject to the distributor’s suitability and appropriateness 
+obligations under MiFID II, as applicable]]. [Consider any negative target market]. Any person subsequently
+
+--- Page 54 ---
+B2 Impact ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+3  
+offering, selling or recommending the Bonds (a distributor) should take into consideration the manufacturer[’s/s’] 
+target market assessment; however, a distributor subject to MiFID II is responsible for undertaking its own target 
+market assessment in respect of the Bonds (by either adopting or refining the manufacturer[‘s/s’] target market 
+assessment) and determining appropriate distribution channels[, subject to the distributor’s suitability and 
+appropriateness obligations under MiFID II, as applicable].] 
+ 
+[UK MiFIR product governance / Retail investors, professional investors and eligible counterparties target 
+market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is retail 
+clients, as defined in point (8) of Article 2 of Regulation (EU) 2017/565 as it forms part of domestic law by virtue of 
+the European Union (Withdrawal) Act 2018 (EUWA), and eligible counterparties, as defined in the FCA Handbook 
+Conduct of Business Sourcebook (COBS), and professional clients, as defined in Regulation (EU) No 600/2014 
+as it forms part of domestic law by virtue of the EUWA (UK MiFIR); EITHER [and (ii) all channels for distribution of 
+the Bonds are appropriate, including investment advice, portfolio management, non-advised sales and pure 
+execution services] OR [(ii) all channels for distribution to eligible counterparties and professional clientsare 
+appropriate; and (iii) the following channels for distribution of the Bonds to retail clients are appropriate – 
+investment advice[,/and] portfolio management[,/ and][non-advised sales][and pure execution services][, subject 
+to the distributor’s (as defined below) suitability and appropriateness obligations under COBS, as applicable]]. 
+[Consider any negative target market]. Any person subsequently offering, selling or recommending the Bonds (a 
+distributor) should take into consideration the manufacturer[’s/s’] target market assessment; however, a 
+distributor subject to FCA Handbook Product Intervention and Product Governance Sourcebook (the UK MiFIR 
+Product Governance Rules) is responsible for undertaking its own target market assessment in respect of the 
+Bonds (by either adopting or refining the manufacturer[’s/s’] target market assessment) and determining 
+appropriate distribution channels[, subject to the distributor’s suitability and appropriateness obligations under 
+COBS, as applicable].] 
+ 
+This document constitutes the Final Terms of the Bonds described herein pursuant to the Regulation (EU) 
+2017/1129 and must be read in conjunction with the Base Prospectus dated 4 June 2024 and [the supplement[s] 
+to the Base Prospectus dated [date]].  
+ 
+The Base Prospectus dated 4 June 2024 [and the supplement[s] to the Base Prospectus dated [date]] [together] 
+constitute[s] a base prospectus for the purposes of the Regulation (EU) 2017/1129 ([together,] the “Base 
+Prospectus”). 
+ 
+Final Terms include a summary of each Bond Issue. 
+ 
+These Final Terms and the Base Prospectus [and the supplement[s] to the Base Prospectus] are available on the 
+Issuer's website https://www.b2-impact.com or on the Issuer's visit address, Cort Adelers gate 30, 0254 Oslo, 
+Norway, or their successor (s).
+
+--- Page 55 ---
+B2 Impact ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+4  
+1 Summary  
+The below summary has been prepared in accordance with the disclosure requirements in Article 7of in the 
+Regulation (EU) 2017/1129 as of 14 June 2017. 
+ 
+Introduction and warning 
+Disclosure requirement 
+Disclosure 
+Warning 
+This summary should be read as introduction to the Base 
+Prospectus. Any decision to invest in the securities should be 
+based on consideration of the Base Prospectus as a whole by the 
+investor. The investor could lose all or part of the invested capital.  
+Where a claim relating to the information contained in the Base 
+Prospectus is brought before a court, the plaintiff investor might, 
+under the national law, have to bear the costs of translating the 
+Base Prospectus before the legal proceedings are initiated. Civil 
+liability attaches only to those persons who have tabled the 
+summary including any translation thereof, but only where the 
+summary is misleading, inaccurate or inconsistent, when read 
+together with the other parts of the Base Prospectus, or where it 
+does not provide, when read together with the other parts of the 
+prospectus, key information in order to aid investors when 
+considering whether to invest in such securities. 
+Name and international securities 
+identification number (‘ISIN’) of the 
+securities. 
+[●] 
+Identity and contact details of the issuer, 
+including its legal entity identifier (‘LEI’). 
+B2 Impact ASA, Cort Adelers gate 30, 0254 Oslo, Norway. 
+Telephone number is +47 22 83 39 50.  
+Registration number 992 249 986 
+LEI-code ((legal entity identifier): 5967007LIEEXZXFHOO08. 
+Identity and contact details of the offeror or 
+of the person asking for admission to trading 
+on a regulated market. 
+There is no offeror, the Base Prospectus has been produced in 
+connection with listing of the securities on an Exchange. The 
+Issuer is going to ask for admission to trading on a regulated 
+market. 
+Identity and contact details of the competent 
+authority that approved the prospectus 
+Financial Supervisory Authority of Norway (Finanstilsynet), 
+Revierstredet 3, 0151 Oslo.   
+Telephone number is +47 22 93 98 00.  
+E-mail: prospekter@finanstilsynet.no. 
+Date of approval of the prospectus. 
+The Base Prospectus was approved on 4 June 2024. 
+ 
+Key information on the Issuer 
+Disclosure requirements
+Disclosure
+Who is the issuer of the securities 
+B2 Impact ASA 
+Domicile and legal form 
+The Issuer is a public limited liability company incorporated in 
+Norway and primarily organized under the laws of Norway, 
+including the Public Limited Companies Act. LEI-code ((legal 
+entity identifier): 5967007LIEEXZXFHOO08. 
+Principal activities 
+On September 29 we launched our new brand, B2 Impact, and 
+B2Holding ASA changed its name to B2 Impact ASA as the first 
+step. The new brand will create increased recognition of B2 
+Impact as a group across the markets where we operate. The roll 
+out of the new brand will be carried out over the next 12 months, 
+and we strongly believe that a common brand will strengthen both 
+our corporate culture and our commercial activities. We also get 
+the added value and synergies of building and supporting one 
+common brand in our core markets.  
+ 
+From 1 October 2023 we implemented a new organizational 
+structure for the Group. The new organization is built around our 
+main business lines, Investments, and Servicing, and is structured 
+to support a common commercial focus and drive efficiency in all 
+departments. 
+Following 
+the 
+change, 
+Group 
+Executive 
+Management has been reduced from nine to six people. 
+ 
+B2 Impact ASA is a Nordic-based debt management company 
+active in purchasing of non-performing loans, debt collection and
+
+--- Page 56 ---
+B2 Impact ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+5  
+third-party debt collection. The Company is the parent of the B2 
+Impact consolidated group of companies w a pan-European debt 
+solutions provider. 
+  
+B2 Impact offers solutions to the challenges created by defaulted 
+loans, and provides liquidity to financial institutions, contributing to 
+a healthier financial system. B2 Impact promotes lasting financial 
+improvement through transparent and ethical debt management. 
+The Company was founded in 2011 and is headquartered in Oslo, 
+Norway. 
+ 
+The Group’s main business lines are Investments and Servicing. 
+The Group focuses on granular consumer NPLs, and retail and 
+corporate secured NPLs, owned and serviced for JV partners. 
+ 
+Investments consist of the purchase and management of 
+unsecured and secured loan portfolios directly or through in joint 
+ventures. Collaterals and repossessed assets acquired as part of 
+the recovery strategy are included in Investments. 
+ 
+Servicing is the collections of payments of claims on behalf of the 
+Investment segment, joint ventures and third-party clients. The 
+servicing segment generates revenues from commissions and 
+debtor fees. 
+ 
+Major shareholders 
+The 20 largest shareholders as of 3 May 2024:
+ 
+There are no arrangements, known to the Company, the operation of which may at a subsequent date result in a  
+change in control of the Company.
+
+--- Page 57 ---
+B2 Impact ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+6  
+Management 
+Name  
+Position  
+Erik Just Johnsen 
+Chief Executive Officer  
+André Adolfsen 
+Chief Financial Officer 
+Adam Parfiniewicz 
+Chief Operating Officer 
+Endre Solvin-Witzø 
+Chief Investment Officer 
+Jeremi Bobowski 
+Chief Risk, Compliance & ESG Officer 
+George Christoforou 
+Chief Master & Special Servicing Officer 
+ 
+Statutory auditors 
+Ernst & Young AS 
+ 
+What is the key financial information 
+regarding the issuer
+ 
+Key financial information   
+ 
+ 
+ 
+B2 Impact ASA Consolidated 
+ 
+Amounts in NOK million 
+Q1 Report 2024 
+Unaudited
+Annual Report 2023 
+Audited
+Operating profit (net income) 
+354 
+1 578 
+Net financial debt (long term debt plus short-term debt minus cash) 
+9,067 
+9,035 
+Net Cash flows from operating activities 
+898 
+4 290 
+Net Cash flows from financing activities 
+-1 077 
+-2 077 
+Net Cash flow from investing activities 
+-293 
+-2 139 
+ 
+B2 Impact ASA 
+ 
+Amounts in NOK million 
+Annual Report 2023 
+Audited
+Operating profit (net income) 
+-105 
+Net financial debt (long term debt plus short-term debt minus cash) 
+5,616 
+Net Cash flows from operating activities 
+-2 010 
+Net Cash flows from financing activities 
+152 
+Net Cash flow from investing activities 
+1 861 
+ 
+There is no description of any qualifications in the audit report for the Annual Report 2023. 
+ 
+What are the key risk factors that are specific 
+to the issuer
+ 
+Most material key risk factors  
+ 
+ 
+We may not be able to collect the expected amounts on our portfolios.  
+Amounts recovered on our credit portfolios may be less than expected and may even be less than the total 
+amount paid for such portfolios for various reasons, including inaccurate diligence, a mistake in our pricing model, 
+and legislation changes impacting our ability to collect.  
+We are exposed to risk relating to assumption of ownership of collateral provided under our secured debt 
+portfolios. 
+There can be no assurance that we will be able to divest such collateral in a manner and price that will result in 
+collection of the underlying debt.  
+Improper disclosure of our clients’ sensitive data, customer data or a breach of data protection laws could 
+negatively affect our business or reputation. 
+         Failure to comply with data protection and privacy obligations may result in financial penalties, regulatory 
+oversight, significant brand and reputational damage, legal action (class action or breach of contract) and 
+shareholder divestment.
+
+--- Page 58 ---
+B2 Impact ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+7  
+The statistical models and analytical tools we use may prove to be inaccurate. 
+We have developed and use models to project the remaining cash flow generation from our credit portfolios and 
+assess alternative strategies for improving the collectability of the credit portfolios, but there can be no assurance 
+that we will be able to achieve the recoveries forecasted by the models.  
+We are exposed to significant reputational risk and are subject to voluntary codes of conduct. 
+Negative attention and news regarding the debt purchase and collection industry and individual debt 
+purchasers or collectors, including us, may have a negative impact on a debtor’s willingness to pay a debt owed to 
+us and may diminish our attractiveness as a counterparty for debt sellers and other third parties. These actions 
+could impact the ability to collect on the credit portfolios that we purchase. 
+Our decentralized organization exposes us to compliance risks and lack of quality control at the Group 
+level. 
+Although we have established risk management and internal control measures to ensure compliance and 
+quality control throughout our organization, our decentralized organization and dependence on local operations to 
+implement our control measures and mitigate risks exposes us to increased risks relating to non-compliance and 
+quality control. 
+Our operations are highly dependent upon access to, and the functioning and integrity of, our core IT 
+applications, systems and infrastructure. 
+Any material disruption to, or failure of, our systems, the systems of our third party providers or the systems of 
+the banking and other sectors that are integral to our business, especially if it also impacts our backup or disaster 
+recovery systems, would disrupt our operations materially and adversely affect our business.  
+We may not be able to procure sufficient funding to purchase further debt portfolios as they become 
+available on acceptable terms or at all. 
+Our ability to obtain funding in the future will depend on our performance and our prospects, as well as factors 
+over which we do not exercise control such factors may include weak economic and capital market conditions. 
+Our substantial leverage and debt service obligations could adversely affect our business and prevent us 
+from fulfilling our obligations with respect to the Bonds. 
+We have a significant amount of outstanding debt with substantial debt service requirements and our significant 
+leverage could have important consequences for our business and operations and for holders of the Bonds. 
+ 
+Key information on the securities 
+Disclosure requirements
+Disclosure
+What are the main features of the securities
+ 
+Description of the securities, including ISIN 
+code. 
+[●]
+Currency for the bond issue
+[●]
+Borrowing Limit and Borrowing Amount  
+ [● tranche] 
+[●] 
+Denomination – Each Bond 
+[●] 
+Any restrictions on the free transferability of 
+the securities. 
+[●] 
+Description of the rights attached to the 
+securities, limitations to those rights and 
+ranking of the securities. 
+[●]
+Information about Issue and Maturity Date, 
+interest rate, instalment and representative 
+of the bondholders 
+[●]
+Status of the bonds and security 
+[●] 
+Where will the securities be traded 
+ 
+Indication as to whether the securities 
+offered are or will be the object of an 
+application for admission to trading. 
+[●]
+
+--- Page 59 ---
+B2 Impact ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+8  
+ 
+What are the key risks that are specific to the 
+securities 
+What are the key risks that are specific to the securities 
+Most material key risks 
+ 
+ 
+The Company is a holding company and is dependent upon cash flow from its subsidiaries to meet its 
+obligations, in general and under the Bonds. 
+ 
+The inability of the Company’s subsidiaries to transfer cash to the Company may mean that, even though the 
+Company may have sufficient resources on a consolidated basis to meet its obligations under its debt agreements, 
+it may not be able to meet such obligations.  
+ 
+Your right to receive payments under the Bonds will be effectively subordinated to claims of our existing 
+and future secured creditors. 
+ 
+The Bonds will not be secured by any of our assets and as a result, the indebtedness represented by the Bonds will 
+be effectively subordinated to any existing and future secured indebtedness we may incur. 
+ 
+Key information on the admission to trading on a regulated marked 
+Disclosure requirements
+Disclosure
+Under which conditions and timetable can I 
+invest in this security? 
+ [●] 
+ 
+The estimate of total expenses related to the admission to trading, 
+please see clause 13.4.5 in the Base Prospectus.  
+ 
+[/ Other: (specify)] 
+ 
+Listing fee Oslo Børs [●] 
+Registration fee Oslo Børs [●] 
+ 
+Why is the prospectus being produced
+In connection with listing of the securities on the Oslo Børs. 
+Reasons for the admission to trading on a 
+regulated marked and use of. 
+Use of proceeds [●] 
+ 
+Estimated net amount of the proceeds [●] 
+ 
+Description of material conflicts of interest to 
+the issue including conflicting interests. 
+[●]
+
+--- Page 60 ---
+B2 Impact ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+9  
+2 Detailed information about the security 
+ 
+Generally:
+ 
+ISIN code: 
+[ISIN] 
+ 
+ 
+The Loan/The Bonds/The Notes: 
+[Title of the bond issue] 
+ 
+ 
+Borrower/Issuer: 
+B2 Impact ASA, Norwegian enterprise no. 992 249 986 and  
+LEI-code 5967007LIEEXZXFHOO08. 
+ 
+ 
+Group: 
+Means the Issuer and its subsidiaries from time to time. 
+ 
+Security Type: 
+[Secured/unsecured] [open] bond issue with [fixed/floating] rate. 
+ 
+Borrowing Limit – Tap Issue: 
+[Currency]  
+[Amount borrowing limit]  
+ 
+Borrowing Amount [●] tranche: 
+[Currency]   
+ [Amount [●] tranche]  
+ 
+ 
+ 
+Outstanding Bonds: 
+[Currency]   
+ [Amount [●]]  
+ 
+ 
+ 
+Denomination – Each bond: 
+[Currency] 
+[Amount denomination] - each and ranking pari 
+passu among themselves
+Securities Form: 
+As set out in the Base Prospectus clause 13.1. 
+ 
+ 
+Publication: 
+As specified in the Basic Prospectus section 13.4.2. 
+ 
+ 
+Issue Price: 
+[As defined in the Base Prospectus section 13.3. 
+ 
+[Issue price] % 
+ 
+ 
+Disbursement Date/Issue Date: 
+[As defined in the Base Prospectus section 13.3. 
+ 
+[Issue date] 
+ 
+ 
+Maturity Date: 
+[As defined in the Base Prospectus section 13.3. 
+ 
+[Maturity Date] 
+ 
+ 
+Interest Rate:
+ 
+Interest Bearing from and Including: 
+[Issue date 
+ 
+/ Other: (specify)] 
+ 
+ 
+Interest Bearing To: 
+[As defined in the Base Prospectus section 13.3. 
+ 
+[Maturity Date 
+ 
+/ Other: (specify)] 
+ 
+ 
+Reference Rate: 
+[As defined in the Base Prospectus section 13.3. 
+ 
+Floating rate: [NIBOR / EURIBOR] [3 / 6 / 12] months  
+ 
+[description of Reference Rate] 
+ 
+Relevant Screen Page: [Relevant Screen Page] 
+ 
+Specified time: [specified time] 
+ 
+Information about the past and future performance and volatility of the 
+Reference Rate is available at [Relevant Screen Page / other: (specify)] 
+ 
+Fallback provisions: [Provisions] 
+ 
+/ Other: (specify)]
+
+--- Page 61 ---
+B2 Impact ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+10  
+ 
+/ Fixed Rate: N/A] 
+ 
+ 
+Margin: 
+[As defined in the Base Prospectus section 13.3. 
+ 
+Floating Rate: [Margin] % p.a. 
+ 
+/ Fixed Interest: N/A 
+ 
+/ Other: (specify)] 
+ 
+ 
+Interest Rate: 
+[Bond issue with floating rate (as defined in the Base Prospectus section 
+13.3): [Reference Rate + Margin]  
+ 
+Current Interest Rate: [current interest rate] % p.a. 
+ 
+/ Bond Issue with fixed rate (as defined in the Base Prospectus section 
+13.3): [Interest rate] % p.a. 
+ 
+ 
+Day Count Convention: 
+[Floating Rate: As defined in the Base Prospectus section 13.3. 
+/ Fixed Rate: As defined in the Base Prospectus section 13.3 
+ 
+/ Other: (specify)] 
+ 
+ 
+Day Count Fraction – Secondary 
+Market: 
+[Floating Rate: As specified in the Base Prospectus section 13.5.1.a 
+/ Fixed Rate: As specified in the Base Prospectus section 13.5.2.a 
+ 
+/ Other: (specify)]  
+ 
+ 
+Interest Determination Date: 
+[Floating Rate: As defined in the Base Prospectus section 13.3.  
+ 
+Interest Rate Determination Date: [Interest Rate Determination Date(s)] 
+each year.  
+ 
+/ Fixed rate: N/A 
+ 
+/ Other: (specify)] 
+ 
+ 
+Interest Rate Adjustment Date: 
+[Floating Rate: As defined in the Base Prospectus section 13.3.  
+ 
+/ Fixed rate: N/A] 
+ 
+Interest Payment Date: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.5.1 (FRN) / section 13.5.2 (fixed rate) 
+ 
+Interest Payment Date: [Date(s)] each year.  
+ 
+The first Interest Payment Date is [Date].  
+ 
+ 
+#Days first term: 
+[Number of interest days] days 
+ 
+ 
+Yield: 
+As defined in the Base Prospectus section 13.3. 
+ 
+The Yield is [yield]  
+ 
+ 
+Business Day: 
+As defined in the Base Prospectus section 13.3. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Amortisation and Redemption:
+ 
+Redemption: 
+As defined in the Base Prospectus section 13.3 and as specified in the 
+Base Prospectus section 13.4.3, 13.5.1.b and 13.5.2.b. 
+ 
+The Maturity Date is [maturity date] 
+ 
+Redemption Price is [redemption price] %
+
+--- Page 62 ---
+B2 Impact ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+11  
+Call Option: 
+As defined in the Base Prospectus section 13.3. 
+ 
+[terms of the call option] 
+ 
+Call Date(s): [call date(s)] 
+ 
+Call Price(s): [call price(s)] 
+ 
+Call Notice Period: [call notice period] 
+ 
+Put Option: 
+As defined in the Base prospectus section 13.3. 
+ 
+[terms of the put option] 
+ 
+ 
+Obligations:
+ 
+Issuer’s special obligations during the 
+term of the Bond Issue 
+As specified in the Base Prospectus section 13.4.6. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Listing:
+ 
+Listing of the Bond Issue/Marketplace: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.5. 
+ 
+Exchange for listing of the Bonds: [Exchange] 
+ 
+/ The Bonds will not be applied for listing on any Exchange. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Any restrictions on the free 
+transferability of the securities: 
+ 
+As specified in the Base prospectus section 13.4.10. 
+ 
+Restrictions on the free transferability of the securities: [specify] 
+ 
+ 
+Purpose/Use of proceeds: 
+As specified in the Base Prospectus section 13.4.1. 
+ 
+Estimated total expenses related to the offer: [specify] 
+ 
+External party 
+Cost 
+The Norwegian FSA 
+NOK [•] 
+The stock exchange 
+NOK [•] 
+The Bond Trustee 
+NOK [•] (annual fee) 
+The Joint Lead Managers 
+NOK [•] 
+ 
+Estimated net amount of the proceeds: [specify] 
+ 
+Use of proceeds: [specify] 
+ 
+[Other: (specify)] 
+ 
+ 
+Prospectus and Listing fees: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.5. 
+ 
+Listing fees: [specify] 
+ 
+/ Other: (specify)] 
+ 
+ 
+Market-making: 
+As defined in the Base Prospectus section 13.3. 
+ 
+[A market-making agreement has been entered into between the Issuer 
+and [name of market maker]] 
+ 
+/ Other: (specify)] 
+ 
+ 
+Approvals: 
+As specified in the Base Prospectus section 13.4.9. 
+ 
+Date of the Board of Directors’ approval: [date]
+
+--- Page 63 ---
+B2 Impact ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+12  
+/ Other: (specify)] 
+ 
+ 
+Bond Terms: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.7.  
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with 
+the CSD, the Bondholders are bound by these Bond Terms and any 
+other Finance Document, without any further action required to be taken 
+or formalities to be complied with by the Bond Trustee, the Bondholders, 
+the Issuer or any other party. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Status and security: 
+As specified in the Base Prospectus section 13.4.6.  
+ 
+/ Other: (specify)] 
+ 
+ 
+Bondholders’ meeting/ 
+Voting rights: 
+As defined in the Base Prospectus section 13.3. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Availability of the Documentation: 
+https://www.b2-impact.com 
+ 
+ 
+Manager(s): 
+[name and contact details of Manager] 
+ 
+[LEI for Manager(s)] 
+ 
+ 
+Bond Trustee: 
+As defined in the Base prospectus section 13.3. 
+ 
+The Bond Trustee is [name of the Bond Trustee] 
+ 
+Paying Agent: 
+As defined in the Base prospectus section 13.3. 
+ 
+The Paying Agent is [name of the Paying Agent] 
+ 
+ 
+Securities Depository / CSD: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.5. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Calculation Agent: 
+[As defined in the Base Prospectus section 13.3. 
+ 
+/ Other: (specify)]  
+ 
+ 
+Listing fees: 
+Prospectus fee for the Base Prospectus including template for Final 
+Terms is NOK 98,000. 
+ 
+[Listing and other fees at the Exchange: (specify)  
+ 
+/ No listing: N/A]
+
+--- Page 64 ---
+B2 Impact ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+13  
+3 Additional information 
+Advisor 
+The Issuer has mandated [name of manager[s]] as [type of manager] for the issuance of the Loan. The [type of 
+manager] [has/have] acted as advisor[s] to the Issuer in relation to the pricing of the Loan. 
+ 
+The [type of manager] will be able to hold position in the Loan.  
+ 
+/ Other: (specify)] 
+ 
+Interests and conflicts of interest 
+[The involved persons in the Issuer or offer of the Bonds have no interest, nor conflicting interests that are 
+material to the Bond Issue. 
+ 
+/ Other: (specify)] 
+ 
+Rating 
+ 
+[There is no official rating of the Loan. 
+ 
+The Loan is rated as follows: 
+Standard & Poor’s: [•]  
+Moody’s: [•] 
+ 
+The Issuer is rated as follows: 
+Standard & Poor’s: [•] 
+Moody’s: [•] 
+ 
+/ Other: (specify)]  
+ 
+See the Base Prospectus clause 13.6 Rating. 
+ 
+Listing of the Loan: 
+[As defined in the Base Prospectus section 13.3] 
+ 
+The Prospectus will be published in [country]. An application for listing at [Exchange] will be sent as soon as 
+possible after the Issue Date. Each bond is negotiable. 
+ 
+Statement from the [type of manager]: 
+[name of manager[s]] [has/have] assisted the Issuer in preparing the prospectus. The [type of manager] 
+[has/have] not verified the information contained herein. Accordingly, no representation, warranty or undertaking, 
+express or implied, is made, and the [type of manager] expressively disclaim[s] any legal or financial liability as to 
+the accuracy or completeness of the information contained in this prospectus or any other information supplied in 
+connection with bonds issued by the Issuer or their distribution. The statements made in this paragraph are 
+without prejudice to the responsibility of the Issuer. Each person receiving this prospectus acknowledges that 
+such person has not relied on the [type of manager] nor on any person affiliated with them in connection with its 
+investigation of the accuracy of such information or its investment decision. 
+ 
+[place], [date] 
+ 
+ 
+[name of manager[s]] 
+[web address of manager[s]]
