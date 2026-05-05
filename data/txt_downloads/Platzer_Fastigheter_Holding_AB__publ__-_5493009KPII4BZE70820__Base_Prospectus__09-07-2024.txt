@@ -1,0 +1,3225 @@
+--- Page 1 ---
+Grundprospekt avseende Platzer Fastigheter Holding AB (publ)s  
+MTN-program om 5 000 000 000 svenska kronor  
+eller motsvarade belopp i euro 
+ 
+ 
+Ledarbank 
+Svenska Handelsbanken AB (publ) 
+ 
+Emissionsinstitut 
+Nordea Bank Abp 
+Skandinaviska Enskilda Banken AB (publ) 
+Svenska Handelsbanken AB (publ) 
+Swedbank AB (publ) 
+ 
+ 
+ 
+Detta grundprospekt är daterat och godkänt av Finansinspektionen den 9 juli 2024. Prospektet 
+är giltigt under en period om 12 månader efter godkännandet, förutsatt att det kompletteras med tillägg 
+när så krävs enligt artikel 23 i förordning (EU) 2017/1129. Skyldigheten att tillhandahålla tillägg till 
+grundprospektet i fall det uppkommer eller uppmärksammas nya omständigheter av betydelse, sakfel 
+eller väsentliga felaktigheter gäller inte efter grundprospektets giltighetstid.
+
+--- Page 2 ---
+2 (68) 
+VIKTIG INFORMATION 
+Detta 5 000 000 000 svenska kronor ("kr" eller "SEK") Medium Term Note-program ("MTN-programmet") utgör en ram under vilken 
+Platzer Fastigheter Holding AB (publ), org.nr 556746–6437 ("Platzer" alternativt "Bolaget") avser att på den svenska kapitalmarknaden 
+från tid till annan ta upp lån i svenska kronor respektive euro ("EUR"). Lån tas upp genom utgivande av obligationer och andra löpande 
+skuldförbindelser (gemensamt "Obligationer" eller "MTN") s.k. Medium Term Notes, med ett lägsta nominellt belopp om EUR 100 000 
+(eller motsvarande belopp i SEK). 
+Detta grundprospekt ("Grundprospektet") har godkänts och registrerats av Finansinspektionen i enlighet med artikel 20 i 
+Europaparlamentets och Rådets förordning (EU) 2017/1129 av den 14 juni 2017 om prospekt som ska offentliggöras när värdepapper 
+erbjuds till allmänheten eller tas upp till handel på en reglerad marknad, och om upphävande av direktiv 2003/71/EG 
+("Prospektförordningen"). 
+För Grundprospektet och erbjudanden enligt Grundprospektet gäller svensk rätt. Tvist med anledning av Grundprospektet, 
+erbjudanden och därmed sammanhängande rättsförhållanden ska avgöras av svensk domstol exklusivt. 
+Platzer har inte uppdragit åt annan att lämna någon utfästelse eller någon information om Platzer, något bolag i den koncern där 
+Platzer är moderbolag ("Koncernen") eller Obligationerna med annan innebörd än vad som framgår av detta Grundprospekt. Om 
+sådan information skulle lämnas av annan, ska mottagaren inte anta att denna har godkänts av Platzer eller annat bolag eller någon 
+person inom Koncernen och mottagaren bör inte heller förlita sig på sådan information av annan anledning. 
+En investering i MTN är förenat med vissa risker (se avsnittet "Riskfaktorer" nedan). När investerare fattar ett investeringsbeslut 
+måste de förlita sig på sin egen bedömning av Bolaget och relevant MTN, inklusive föreliggande sakförhållanden och risker. Inför ett 
+investeringsbeslut bör potentiella investerare anlita sina egna professionella rådgivare samt noga utvärdera och överväga 
+investeringsbeslutet. Investerare får endast förlita sig på informationen i detta Grundprospekt samt eventuella tillägg till detta 
+Grundprospekt. Varken offentliggörandet av detta Grundprospekt eller några andra transaktioner som genomförs med anledning härav 
+ska under några omständigheter anses innebära att informationen i detta Grundprospekt är korrekt och gällande vid någon annan 
+tidpunkt än per dagen för offentliggörandet av detta Grundprospekt eller att det inte har förkommit någon förändring i Bolagets 
+verksamhet efter nämnda dag. Om det sker väsentliga förändringar av informationen i detta Grundprospekt kommer sådana 
+förändringar att offentliggöras enligt bestämmelserna om tillägg till Grundprospekt i Prospektförordningen. 
+Viss finansiell och annan information som presenteras i Grundprospektet har avrundats för att göra information lättillgänglig för 
+läsaren. Följaktligen överensstämmer inte siffrorna i vissa kolumner exakt med angiven totalsumma. 
+MTN är inte en lämplig investering för alla investerare. Varje investerare bör därför utvärdera lämpligheten av en investering i MTN 
+mot bakgrund av sina egna förutsättningar. Varje investerare bör särskilt: 
+(i) 
+ha tillräcklig kunskap och erfarenhet för att kunna göra en ändamålsenlig utvärdering av (i) MTN, (ii) möjligheter och risker 
+i samband med en investering i MTN samt (iii) information som finns, eller är infogad genom hänvisning, i detta 
+Grundprospekt eller eventuella tillägg; 
+(ii) 
+ha tillgång till, och kunskap om, lämpliga analytiska verktyg för att, mot bakgrund av sin egen finansiella situation, kunna 
+utvärdera en investering i MTN samt den inverkan som en sådan investering kommer att ha på investerarens totala 
+investeringsportfölj; 
+(iii) 
+ha tillräckliga finansiella medel och likvida tillgångar för att kunna bära de risker som en investering i MTN medför, 
+inbegripet då lånebelopp eller ränta betalas i en eller flera valutor eller då valutan för lånebelopp eller ränta avviker från 
+investerarens valuta; 
+(iv) 
+till fullo förstå villkoren för MTN och vara väl förtrogen med beteendet hos relevanta index och finansiella marknader; 
+samt 
+(v) 
+vara kapabel att utvärdera (själv eller med hjälp av rådgivare) möjliga scenarion för ekonomiska, räntenivårelaterade eller 
+andra faktorer som kan påverka investeringen och möjligheterna att bära riskerna med investeringen 
+Det har inte vidtagits någon åtgärd för att möjliggöra ett erbjudande av Obligationerna i något annat land än Sverige. Grundprospektet 
+får inte distribueras, och Obligationerna får inte erbjudas, i något land där distributionen eller erbjudandet kräver ytterligare prospekt, 
+översättning, registrering eller andra åtgärder än de som följer av svensk rätt eller som på annat sätt strider mot reglerna i ett sådant 
+land. Den som innehar Grundprospektet eller Obligationer måste därför själv informera sig om och iaktta eventuella restriktioner. 
+Särskilt bör observeras att Obligationerna inte har och inte kommer att registreras enligt U.S. Securities Act från 1933, såsom denna 
+har ändrats, och därför inte får erbjudas eller säljas i USA eller till, direkt eller indirekt, amerikanska personer eller personer bosatta i 
+USA, förutom i enlighet med vissa undantagsbestämmelser.  
+I förhållande till varje emission av Obligationer kommer en målmarknadsbedömning att göras för Obligationerna och lämpliga 
+distributionskanaler för Obligationerna kommer att bestämmas. En person som senare erbjuder, säljer eller rekommenderar 
+Obligationerna (en "Distributör") bör beakta målmarknadsbedömningen. En Distributör som träffas av direktiv 2014/65/EU ("MiFID II") 
+är dock skyldig att genomföra sin egen målmarknadsbedömning för Obligationerna (genom att antingen tillämpa eller anpassa 
+producentens målmarknadsbedömning) och att fastställa lämpliga distributionskanaler. Enligt MiFID:s produktstyrningskrav under det 
+delegerade direktivet 2017/593 ("MiFID:s produktstyrningskrav"), ska det i förhållande till varje emission fastställas huruvida 
+Ledarbanken eller någon av Emissionsinstituten som medverkar vid emissionen av Obligationer är en producent av sådana 
+Obligationer. Varken Ledarbanken, Administrerande Institut eller någon av Emissionsinstituten eller något av deras respektive 
+dotterbolag som inte medverkar vid en emission, kommer att anses vara producenter enligt MiFID:s produktstyrningskrav. 
+Definierade termer och begrepp 
+Ord och uttryck som används i Grundprospektet har den innebörd som framgår av avsnittet "Allmänna villkor" ("Allmänna Villkor") om 
+inte annat framgår av sammanhanget. Grundprospektet ska läsas tillsammans med de dokument som införlivas genom hänvisning, 
+eventuella tillägg till Grundprospektet samt tillämpliga slutliga villkor ("Slutliga Villkor"). Vidare, i detta Grundprospekt avser "Mkr" 
+miljoner svenska kronor och "Mdkr" avser miljarder svenska kronor. 
+Framåtriktad information 
+Grundprospektet innehåller viss framåtriktad information som återspeglar Platzers aktuella syn på framtida händelser samt finansiell 
+och operativ utveckling. Ord som "avses", "bedöms", "förväntas", "kan", "planerar", "uppskattar" och andra uttryck som innebär 
+indikationer eller förutsägelser avseende framtida utveckling eller trender, och som inte är grundade på historiska fakta, utgör 
+framåtriktad information. Framåtriktad information är till sin natur förenad med såväl kända som okända risker och osäkerhetsfaktorer 
+eftersom den är avhängig framtida händelser och omständigheter. Framåtriktad information utgör inte någon garanti avseende framtida 
+resultat eller utveckling och verkligt utfall kan komma att väsentligen skilja sig från vad som uttalas i framåtriktad information. 
+Faktorer som kan medföra att Platzers framtida resultat och utveckling avviker från vad som uttalas i framåtriktad information 
+innefattar, men är inte begränsade till, de som beskrivs i avsnittet "Riskfaktorer" nedan. Framåtriktad information i detta Grundprospekt 
+gäller endast per dagen för Grundprospektets offentliggörande. Platzer lämnar inga utfästelser om att offentliggöra uppdateringar eller 
+revideringar av framåtriktad information till följd av ny information, framtida händelser eller liknande omständigheter annat än vad som 
+följer av tillämplig lagstiftning.
+
+--- Page 3 ---
+3 (68) 
+INNEHÅLLSFÖRTECKNING 
+Innehållsförteckning ............................................................................................................................................. 3 
+Beskrivning av MTN-program för Platzer .......................................................................................................... 4 
+Riskfaktorer ......................................................................................................................................................... 15 
+Allmänna villkor för lån upptagna under Platzer Fastigheter Holding AB (publ)s MTN-program ........... 26 
+Mall för slutliga villkor ......................................................................................................................................... 52 
+Information om Platzer ...................................................................................................................................... 57 
+Styrelse, ledande befattningshavare och revisor........................................................................................... 60 
+Övrig information ................................................................................................................................................ 63 
+Handlingar införlivade genom hänvisning ....................................................................................................... 65 
+Adresser............................................................................................................................................................... 67
+
+--- Page 4 ---
+4 (68) 
+BESKRIVNING AV MTN-PROGRAM FÖR PLATZER  
+Allmänt  
+Platzer har etablerat MTN-programmet för att emittera MTN upp till ett totalt belopp om högst 
+SEK 5 000 000 000 (alternativt motsvarande belopp i EUR) eller sådant annat belopp som 
+Emissionsinstituten och Platzer överenskommer i enlighet med de Allmänna Villkoren. MTN 
+kan emitteras med en löptid om lägst ett år och vänder sig till investerare på den svenska 
+kapitalmarknaden eller kapitalmarknaden i annat land som Emissionsinstituten och Platzer 
+överenskommer. MTN kan emitteras i SEK och EUR med fast ränta eller rörlig ränta eller som 
+nollkuponglån utan ränta. MTN får inte emitteras till lägre Nominellt Belopp än EUR 100 000 
+(alternativt motsvarande belopp i SEK). Det förekommer inte några överlåtelsebegräsningar 
+under de Allmänna Villkoren för MTN.  
+Platzer har utsett Svenska Handelsbanken AB (publ) som ledarbank ("Ledarbanken") och 
+tillsammans med Nordea Bank Abp, Skandinaviska Enskilda Banken AB (publ) och Swedbank 
+AB (publ) till emissionsinstitut ("Emissionsinstituten"). Ytterligare emissionsinstitut kan 
+komma att utses eller utträda.  
+Intertrust Sweden AB ("Agenten") är agent för innehavare av MTN emitterade under MTN-
+programmet. Även utan särskilt uppdrag från innehavarna av MTN är Agenten, eller den 
+person Agenten sätter i sitt ställe, med stöd av villkoren för MTN berättigad att i allt som rör 
+MTN, såväl vid domstol som exekutiv myndighet, företräda Fordringshavarna i förhållande till 
+Platzer. 
+Allmänna och slutliga villkor  
+MTN under MTN-programmet lyder under de Allmänna Villkoren samt tillämpliga Slutliga 
+Villkor och kan ges ut i enlighet med tillämpliga Gröna Villkor. De Allmänna Villkoren är 
+standardiserade och gäller för alla MTN som emitteras under MTN-programmet. Tillämpliga 
+Slutliga Villkor tas fram för varje emission av MTN på basis av mallen för Slutliga Villkor (se 
+avsnitt Mall för Slutliga Villkor). Tillämpliga Slutliga Villkor måste därför alltid läsas tillsammans 
+med de Allmänna Villkoren och mot bakgrund av tillämpliga Gröna Villkor. I vissa fall kommer 
+de tillämpliga Slutliga Villkoren att bestämma huruvida en viss bestämmelse i de Allmänna 
+Villkoren ska vara tillämplig för den emitterade serien MTN. Slutliga Villkor reglerar bland annat 
+Lånedatum, räntemekanism, och Återbetalningsdag.  
+Slutliga Villkor som upprättas i anledning av ett erbjudande till allmänheten av MTN eller MTN 
+som avses upptas till handel på Reglerad Marknad kommer att lämnas in för registrering hos 
+Finansinspektionen så snart som möjligt och om möjligt innan eventuell period för erbjudandet 
+börjar löpa och allra senast innan ansökan om upptagande till handel av MTN på Reglerad 
+Marknad görs. Sådana Slutliga Villkor kommer även att offentliggöras på Platzers hemsida, 
+www.platzer.se.  
+Gröna MTN  
+Platzer kan komma att emittera gröna obligationer under detta MTN-program vilka ska vara 
+förenliga med Platzers Gröna Ramverk (såsom definierat nedan) och de kriterier som anges 
+däri (de "Gröna Villkoren") som finns publicerade på Platzers hemsida www.platzer.se och
+
+--- Page 5 ---
+5 (68) 
+som gäller vid tidpunkten för först infallande Lånedatum avseende respektive Lån. De Gröna 
+Villkoren kan från tid till annan komma att uppdateras, bland annat för att reflektera 
+förändringar i Green Bond Principles ("GBP") och "best practice" på marknaden. GBP utgör 
+frivilliga riktlinjer för emissioner av gröna MTN och har fastställts av International Capital 
+Markets Association. De gröna villkor som var gällande vid Lånedatumet för visst Lån kommer 
+dock alltjämt att gälla för sådant Lån, oavsett ändringar i de gröna villkor som sker efter det 
+Lånedatumet. Sådana gröna villkor framgår av det gröna ramverk som var gällande på sådant 
+Lånedatum och tidigare gröna ramverk återfinns på Platzers hemsida. 
+Platzer har tillsett att ett oberoende institut, S&P Global Ratings (det "Oberoende Institutet"), 
+lämnar ett utlåtande (second opinion) avseende det Gröna Ramverket som finns tillgängligt på 
+Platzers hemsida. Det Oberoende Institutets utlåtande tar sikte på det Gröna Ramverkets 
+anpassning i förhållande till GBP. Utlåtandet har lämnats i enlighet med graderingen ”Shades 
+of Green” som sträcker sig mellan mörkgrön, mellangrön, ljusgrön, gul, orange och röd och 
+syftar till att ge insyn till investerare som försöker förstå och agera på potentiell exponering för 
+klimatrisker och klimatpåverkan. Platzers Gröna Ramverk har tilldelats omdömet ”Medium 
+Green”. Det Oberoende Institutets utlåtande utgör inte en del av detta Grundprospekt och är 
+inte heller en rekommendation om att köpa, sälja eller behålla MTN. Utlåtandet gäller endast 
+för det Gröna Ramverket för Finansiering och per datumet för utlåtandet, och inte för Platzer 
+eller för utgivna Lån. Om Platzer inte skulle uppfylla de åtaganden som görs i de Gröna 
+Villkoren utgör detta inte en grund för Fordringshavare att säga upp Lån varför det således inte 
+i en sådan situation föreligger någon rätt till återbetalning eller återköp av MTN eller annan 
+kompensation. 
+Platzer har upprättat och publicerat ett grönt ramverk kallat Green Finance Framework på sin 
+hemsida (det "Gröna Ramverket") som beskriver de Gröna Villkoren som är tillämpliga vid 
+emissions av gröna MTN. Det Gröna Ramverket har utvecklats i linje med GBP utgivna i juni 
+2021 med 2022 års bilaga samt Green Loan Principles utgivna 2023 av Loan Market 
+Association, Asia Pacific Loan Market Association och Loan Syndications and Trading 
+Association. Det Gröna Ramverket är anpassat efter de fyra rekommenderade komponenterna 
+i GBP; (i) användning av emissionslikvid, (ii) process för utvärdering och urval av projekt, (iii) 
+förvaltning av emissionslikvid och (iv) rapportering. Enligt det Gröna Ramverket ska ett belopp 
+motsvarande nettolikviden från en emission av gröna MTN under ramverket användas till att, 
+helt eller delvis, finansiera eller refinansiera investeringar och utgifter som främjar övergången 
+till koldioxidsnåla, klimattåliga och hållbara ekonomier (”Gröna Projekt”).  
+Med Gröna Projekt avses någon av följande kategorier:  
+(i) 
+Gröna byggnader, som innefattar följande: 
+a. Nybyggnationer (byggnader uppförda efter 31 december 2020) med ett 
+primärenergital som är minst 10 procent lägre än befintligt energikrav i 
+Boverkets byggregler (”BBR"), eller som erhåller energiklass A eller B, och som 
+har genomgått en klimat- och sårbarhetsanalys och testning för lufttäthet och 
+termisk integritet. Det ska även ska även utföras en beräkning av byggnadens 
+globala uppvärmningspotential under hela livscykeln samt en utvärdering i 
+enlighet med de nationella föreskrifterna om klimatdeklarationer. Vidare ska 
+Nybyggnationer uppfylla minst något av följande branschstandarder:
+
+--- Page 6 ---
+6 (68) 
+i. Miljöbyggnad ”Gold”, BREEAM ”Excellent”, LEED ”Gold” eller bättre för 
+kontorsbyggnader; eller 
+ii. Miljöbyggnad Silver, BREEAM ”Very Good”, LEED ”Gold” eller bättre för 
+industri- och logistikbyggnader.  
+b. Renoveringar som reducerar befintliga byggnaders primärenergital med minst 
+30 procent, alternativt uppfyller kraven för ”omfattande renovering”, och som 
+har genomgått en klimat- och sårbarhetsanalys samt erhåller något av följande 
+branschstandarder:  
+i. Miljöbyggnad/Miljöbyggnad iDrift “Silver”; 
+ii. BREEAM/BREEAM In-use “Very Good”; eller  
+iii. LEED “Gold” eller bättre.  
+c. Befintliga byggnader (byggnader uppförda före 31 december 2020) som 
+uppfyller någon av de branschstandarder som anges under (b) ovan samt 
+genomgått en klimat- och sårbarhetsanalys och (i) erhåller antingen energiklass 
+A, (ii)  har ett primärenergital som är inom de 15 procent lägsta för byggnader 
+inom angivet område eller (iii) har en maximal specifik energianvändning på 
+100 kWh/Atemp för byggnader uppförda innan 31 december 2003 eller 80 
+kWh/Atemp för byggnader uppförda efter 31 december 2003.  
+(ii) 
+Energieffektivisering av befintlig fastighetsportfölj. 
+(iii) 
+Anpassning till klimatförändringar. 
+(iv) 
+Gröna transporter. 
+(v) 
+Förnybar energi. 
+Emissionslikviden från gröna MTN får inte användas eller kopplas till fossilbaserad 
+energiproduktion, kärnkraft, forskning och/eller utveckling inom vapen och försvar, potentiellt 
+miljömässigt negativ resursutvinning (såsom sällsynta jordartsmetaller eller fossila bränslen), 
+spel- eller tobaksverksamhet. Se det Gröna Ramverket för en mer detaljerad beskrivning av 
+kraven för finansiering av Gröna Projekt. 
+Processen för utvärdering och urval av Gröna Projekt hanteras av Bolagets Green Business 
+Council ("GBC"). GBC sammanträder regelbundet eller vid behov och består av 
+representanter från Sustainability, Treasury och Finance. GBC ansvarar för:  
+1. att se till att de Gröna Projekt som presenteras följer de Gröna Villkoren i det Gröna 
+Ramverket; 
+2. att granska information om de Gröna Projekten och utvärdera den övergripande 
+miljöpåverkan, vilket inkluderar livscykelöverväganden, potentiella reboundeffekter, 
+resiliens, utvärdering av miljömässiga och sociala risker och efterlevnad av minst ett 
+av EU:s miljömål; 
+3. att se till att de Gröna Projekten följer gällande nationella lagar och förordningar, samt 
+policyer och riktlinjer på Platzer; 
+4. när så är möjligt, utvärdering av Gröna Projekts anpassning till EU:s taxonomi efter 
+bästa förmåga; 
+5. att säkerställa att nettolikviden inte kommer att allokeras eller kopplas till de 
+uteslutningskriterier som beskrivs i det Gröna Ramverket; och 
+6. godkännande av den kommande rapporteringen enligt det Gröna Ramverket som 
+beskrivs i avsnittet Rapportering
+
+--- Page 7 ---
+7 (68) 
+För att vara helt transparenta gentemot investerare och andra marknadsintressenter kommer 
+Platzer att publicera en årlig rapport på sin webbplats som kommer att beskriva fördelningen 
+och effekten av nettolikviden och efterlevnaden av de Gröna Villkoren. Platzer kommer att 
+publicera en sådan rapport så länge det finns utestående grön skuld. Om Platzer har andra 
+gröna skulder utestående än obligationer kan Platzer välja att rapportera, i förhållande till 
+dessa andra gröna skuldinstrument, direkt och icke-offentligt, till långivarna eller motparterna.  
+Form för MTN  
+MTN är en dematerialiserad ensidig skuldförbindelse som för Fordringshavares räkning 
+registreras enligt lagen (1998:1479) om värdepapperscentraler och kontoföring av finansiella 
+instrument och ansluts till Euroclear Sweden AB.  
+Status för MTN  
+Platzers betalningsförpliktelser enligt MTN medför rätt till betalning för Fordringshavare 
+åtminstone jämsides (pari passu) med Platzers övriga betalningsförpliktelser som inte är 
+efterställda eller säkerställda, förutom förpliktelser som enligt tvingande lag har bättre 
+förmånsrätt.  
+Prissättning av MTN  
+Priset för MTN kan inte anges på förhand utan fastställs i samband med den faktiska 
+emissionen utifrån rådande marknadsförhållanden. MTN kan emitteras till par eller till över- 
+eller underkurs i förhållande till det tillämpliga Nominella Beloppet. Den eventuella ränta som 
+bestäms för MTN är avhängig flera faktorer varav gällande placeringar med motsvarande löptid 
+är en sådan faktor.  
+Kreditvärdering (rating)  
+Rating är det betyg som en låntagare kan erhålla från ett oberoende kreditbedömningsinstitut 
+på sin förmåga att klara av sina finansiella åtaganden. Denna förmåga kallas kreditvärdighet. 
+Ett kreditbetyg är således inte en rekommendation att köpa, sälja eller inneha MTN och kan 
+när som helst ändras eller återkallas. Kreditvärdighetsbetyg för MTN som ges ut under MTN-
+programmet anges per dagen för emissionen i Slutliga Villkor. Den som avser investera i MTN 
+bör inhämta aktuell information om rating då den kan vara föremål för ändring.  
+Platzer har tilldelats kreditvärdighetsbetygen BBB- (långsiktigt), N4 (kortsiktigt) samt negativa 
+utsikter från kreditvärdighetsinstitutet Nordic Credit Rating (NCR). NCR har även tilldelat 
+Platzers seniora icke säkerställda obligationer kreditvärdighetsbetyget BB+. 
+NCR är ett kreditvärderingsinstitut registrerat i enlighet med Europaparlamentets och rådets 
+förordning (EG) nr 1060/2009 av den 16 september 2009 om kreditvärderingsinstitut. En 
+redogörelse för Nordic Credit Ratings betygsskala återfinns nedan. Mer information om 
+kreditbetyg, 
+samt 
+aktuell 
+analys, 
+finns 
+på 
+Nordic 
+Credit 
+Ratings 
+hemsida, 
+www.nordiccreditrating.com.  
+Nordic Credit Rating – Betygsskala - Långsiktigt1 
+AAA 
+BBB +  
+B 
+AA + 
+BBB 
+B -
+
+--- Page 8 ---
+8 (68) 
+Nordic Credit Rating – Betygsskala - Långsiktigt1 
+AA 
+BBB - 
+CCC 
+AA - 
+BB + 
+CC 
+A + 
+BB 
+C 
+A 
+BB - 
+D/SD 
+A - 
+B + 
+ 
+1 Ratingkategorierna AA till B är vid behov modifierade med plus (+) och minus (-) för att visa dess relativa position inom 
+ratingkategorin.  
+Nordic Credit Rating – Betygsskala - Kortsiktigt 
+N1 
+N2 
+N3 
+N4 
+N5 
+N6 
+ 
+Finansiella åtaganden 
+Platzer har enligt de Allmänna Villkoren ett finansiellt åtagande att ha en viss soliditet, 
+belåningsgrad och räntetäckningsgrad. Om Platzer eller MTN uppnår visst kreditbetyg från 
+kreditbedömningsinstituten Moody's, Standard & Poor's, Fitch eller NCR upphör Platzers 
+åtagande att uppfylla dessa finansiella åtaganden. 
+Upptagande till handel på Reglerad Marknad  
+Ansökan om upptagande till handel på Reglerad Marknad av Lån kan komma att göras om så 
+anges i tillämpliga Slutliga Villkor. För Lån som avses upptas till handel enligt tillämpliga 
+Slutliga Villkor kommer Platzer självt eller genom Administrerande Instituts försorg ansöka om 
+detta vid Nasdaq Stockholm eller annan Reglerad Marknad och vidta de åtgärder som kan 
+erfordras för att bibehålla upptagandet till handel så länge Lånet är utelöpande, dock längst så 
+länge detta är möjligt enligt tillämpliga regler.  
+Fordringshavarmöte  
+Agenten får och ska på begäran från Bolaget, Administrerande Institut eller Fordringshavare 
+som vid tidpunkten för begäran representerar minst en tiondel av Justerat Lånebelopp under 
+ett visst Lån, sammankalla ett Fordringshavarmöte. Agenten ska skicka kallelse till 
+Fordringshavarmöte till varje Fordringshavare inom fem Bankdagar från att det mottagit sådan 
+begäran. Datum för Fordringshavarmötet ska vara tidigast 15 och senast 30 Bankdagar från 
+datum för kallelse. Beslut som har fattats vid ett i behörig ordning sammankallat och genomfört 
+Fordringshavarmöte är bindande för samtliga Fordringshavare oavsett om de har varit 
+närvarande vid, och oberoende av om och hur de har röstat på mötet.  
+Beslut i följande ärenden kräver samtycke av Fordringshavare representerande minst 90 
+procent av den del av Justerat Lånebelopp för vilket Fordringshavare röstar under det 
+relevanta Lånet vid Fordringshavarmötet:
+
+--- Page 9 ---
+9 (68) 
+(a) 
+ändring av Återbetalningsdagen, nedsättning av Lånebelopp, ändring av villkor 
+relaterande till ränta eller belopp som ska återbetalas (annat än enligt vad som följer 
+av Lånevillkoren) och ändring av föreskriven Valuta för Lånet;  
+(b) 
+ändring av villkoren för Fordringshavarmöte;  
+(c) 
+gäldenärsbyte; och  
+(d) 
+obligatoriskt utbyte av MTN mot andra värdepapper.  
+Ärenden som inte omfattas av punkterna (a)-(d) ovan kräver samtycke av Fordringshavare 
+representerande mer än 50 procent av den del av Justerat Lånebelopp för vilket 
+Fordringshavare röstar under det relevanta Lånet vid Fordringshavarmötet.  
+Ett Fordringshavarmöte är beslutsfört om Fordringshavare representerande minst 50 procent 
+av det Justerade Lånebeloppet under det relevanta Lånet avseende ett ärende i punkterna (a)-
+(d) ovan och annars 20 procent av det Justerade Lånebeloppet under det relevanta Lånet 
+närvarar vid mötet personligen eller via telefon (eller närvarar genom en befullmäktigad 
+representant).  
+Preskription  
+Rätten till betalning av kapitalbelopp preskriberas tio år efter Återbetalningsdagen. Rätten till 
+räntebetalning preskriberas tre år efter respektive Ränteförfallodag. De medel som avsatts för 
+betalning men preskriberats tillkommer Platzer. Om preskriptionsavbrott sker löper ny 
+preskriptionstid om tio år i fråga om kapitalbelopp och tre år beträffande räntebelopp, i båda 
+fallen räknat från dag som framgår av preskriptionslagens (1981:130) bestämmelser om 
+verkan av preskriptionsavbrott.  
+Tillämplig lag  
+Svensk lag ska tillämpas på Allmänna Villkor och Slutliga Villkor. Tvist rörande lånevillkoren 
+ska avgöras vid svensk domstol och Stockholms tingsrätt som första instans.  
+Produktbeskrivning  
+Nedan följer en beskrivning av vanliga konstruktioner och termer som förekommer vid 
+utgivande av Lån under MTN-programmet. Konstruktionen av varje Lån framgår av tillämpliga 
+Slutliga Villkor som ska läsas tillsammans med de Allmänna Villkoren. 
+Räntekonstruktioner  
+Fast ränta  
+För Lån med Fast ränta löper Lånet med ränta enligt Räntesatsen från (exklusive) Startdag 
+För Ränteberäkning till och med (inklusive) Återbetalningsdagen.  
+Ränta som upplupit under en Ränteperiod erläggs i efterskott på respektive Ränteförfallodag 
+och beräknas enligt Dagberäkningsmetod som anges i Slutliga Villkor.
+
+--- Page 10 ---
+10 (68) 
+Rörlig ränta – FRN (Floating Rate Notes)  
+För Lån med Rörlig Ränta löper Lånet med ränta från (exklusive) Startdag För Ränteberäkning 
+till och med (inklusive) Återbetalningsdagen.  
+Räntesatsen för respektive Ränteperiod beräknas på respektive Räntebestämningsdag av 
+Administrerande Institut.  
+Räntesatsen utgörs av Räntebasen med tillägg av Räntebasmarginalen för samma period. Om 
+beräkningen av Räntesatsen innebär ett värde lägre än noll, ska Räntesatsen anses vara noll.  
+Ränta som upplupit under en Ränteperiod erläggs i efterskott på respektive Ränteförfallodag 
+och beräknas enligt Dagberäkningsmetod som anges i Slutliga Villkor eller sådan Ersättande 
+Räntebas som till följd av en Triggerhändelse eller ett Offentliggörande ersätter den 
+ursprungliga Räntebasen.  
+Räntebasen för MTN i Svenska Kronor är STIBOR och för MTN i Euro är EURIBOR. 
+"STIBOR" definieras som:  
+(a) 
+den 
+räntesats 
+som 
+administrerats, 
+beräknats och distribuerats av Swedish 
+Financial Benchmark Facility AB (eller 
+ersättande 
+administratör 
+eller 
+beräkningsombud) 
+för 
+aktuell 
+dag 
+och 
+publiceras på informationssystemet Refinitivs 
+sida "STIBOR=" (eller genom sådant annat 
+system eller på sådan annan sida som 
+ersätter nämnda system eller sida) för 
+Svenska Kronor under en period jämförbar 
+med den relevanta Ränteperioden;  
+(b) om ingen sådan räntesats anges för den 
+relevanta Ränteperioden enligt punkten (a), 
+medelvärdet 
+(avrundat 
+uppåt 
+till 
+fyra 
+decimaler) 
+av 
+de 
+räntesatser 
+som 
+Referensbankerna anger till Administrerande 
+Institut på dennes begäran för depositioner av 
+SEK 
+100 000 000 
+för 
+den 
+relevanta 
+Ränteperioden; eller  
+(c) om ingen räntesats anges enligt punkten 
+(a) och endast en eller ingen kvotering ges 
+under punkten (b), den räntesats som enligt 
+Administrerande 
+Instituts 
+skäliga 
+uppskattning bäst motsvarar räntesatsen för 
+depositioner 
+i 
+Svenska 
+Kronor 
+på 
+interbankmarknaden i Stockholm för den 
+relevanta Ränteperioden.
+
+--- Page 11 ---
+11 (68) 
+"EURIBOR" definieras som: 
+(a) den räntesats som omkring kl. 11.00 på 
+aktuell dag anges på informationssystemet 
+Refinitivs sida EURIBOR01 (eller genom 
+sådant annat system eller på sådan annan 
+sida som ersätter nämnda system respektive 
+sida) för Euro under en period jämförbar med 
+den relevanta Ränteperioden;  
+(b) om ingen sådan räntesats anges för den 
+relevanta Ränteperioden enligt punkten (a), 
+medelvärdet 
+(avrundat 
+uppåt 
+till 
+fyra 
+decimaler) 
+av 
+den 
+räntesats 
+som 
+de 
+Europeiska 
+Referensbankerna 
+anger 
+till 
+Administrerande Institut på dennes begäran 
+för depositioner av EUR 10 000 000 för den 
+relevanta Ränteperioden; eller 
+(c) om ingen räntesats anges enligt punkten 
+(a) och endast en eller ingen kvotering ges 
+under punkten (b), den räntesats som enligt 
+Administrerande 
+Instituts 
+skäliga 
+uppskattning bäst motsvarar räntesatsen för 
+depositioner i Euro för den relevanta 
+Ränteperioden. 
+Ränta som betalas på MTN emitterade under MTN-programmet kan beräknas med hjälp av 
+referensvärdena STIBOR och EURIBOR eller någon referensränta som ersätter STIBOR eller 
+EURIBOR i enlighet med avsnitt 7 (Byte av Räntebas) i Allmänna Villkor. Referensvärdena 
+tillhandahålls av Swedish Financial Benchmark Facility AB, ett dotterbolag till Global Rate Set 
+Systems (STIBOR) och European Money Market Institute (EURIBOR). Administratören för 
+EURIBOR, European Money Market Institute, är sedan den 3 juli 2019 registrerad i det register 
+över administratörer och referensvärden som förs av Europeiska värdepappers- och 
+marknadsmyndigheten ("ESMA") i enlighet med artikel 36 i Benchmarkförordningen. 
+Administratören för STIBOR, Swedish Financial Benchmark Facility AB, är sedan den 21 april 
+2023 registrerad i det register över administratörer och referensvärden som förs av Europeiska 
+värdepappers- och marknadsmyndigheten i enlighet med artikel 36 i Benchmarkförordningen. 
+Lån utan ränta 
+Om Lånet är specificerat som ett Nollkupongslån enligt tillämpliga Slutliga Villkor ska Lånet 
+löpa utan ränta. Nollkupongslån kan utfärdas till par eller till underkurs eller överkurs och lösas 
+in till ett belopp per MTN motsvarande nominellt belopp eller andel därav. 
+Dagberäkning 
+För Lån under MTN-programmet kan följande konventioner för dagberäkning av ränta 
+användas om inte annan beräkningsgrund tillämpas för aktuell Räntebas.
+
+--- Page 12 ---
+12 (68) 
+30/360  
+Året består av 360 dagar som fördelas på 
+tolv månader om vardera 30 dagar. Och vid 
+bruten månad det faktiska antalet dagar 
+som löpt i månaden.  
+Faktisk/360  
+Det faktiska antalet dagar i Ränteperioden 
+delat med 360.  
+Interpolering  
+Bestämning av ränta inom två kända 
+variabler enligt vad som beskrivs i Slutliga 
+Villkor  
+Återbetalning av kapitalbelopp och betalning av ränta 
+Lån förfaller till betalning på den relevanta Återbetalningsdagen med det belopp per MTN som 
+anges i Slutliga Villkor, tillsammans med upplupen ränta. Infaller Återbetalningsdagen på dag 
+som inte är Bankdag återbetalas Lånet dock först följande Bankdag, i vilket fall ränta för MTN 
+med Rörlig Ränta belöper fram till och med den faktiska återbetalningsdagen och ränta för 
+MTN med Fast Ränta belöper till den ursprungliga Återbetalningsdagen. 
+Fordringshavares rätt till förtida inlösen 
+Varje Fordringshavare har rätt att kräva återköp av alla, eller vissa, av MTN som innehas av 
+denne, om aktierna i Bolaget upphör att vara upptagna till handel på en Reglerad Marknad 
+eller om en fysisk eller juridisk person (som inte är befintliga huvudägare) kontrollerar aktier 
+som representerar mer än 50 procent av aktiekapitalet eller rösträtterna i Platzer, har möjlighet 
+att utse en majoritet av Platzers styrelseledamöter eller har möjlighet att bestämma innehållet 
+i väsentliga affärsmässiga beslut i Platzer.  
+Om rätt till återköp föreligger ska Bolaget, om Fordringshavare så begär, återköpa relevanta 
+MTN på Återköpsdagen till det pris per MTN som skulle återbetalats på den slutliga 
+Återbetalningsdagen, tillsammans med upplupen ränta. För MTN som är Nollkupongslån ska 
+istället ett belopp per MTN beräknat i enlighet med punkt 11.7(b) i de Allmänna Villkoren 
+erläggas. Återköpsdagen ska infalla tidigast 20 och senast 60 Bankdagar efter att meddelande 
+om att Bolagets aktier har upphört att vara upptagna till handel på en Reglerad Marknad 
+avsänts till Fordringshavare.  
+Uppsägning av lån 
+Agenten ska:  
+(i) 
+om så begärs skriftligt av Fordringshavare som vid tidpunkten för begäran 
+representerar minst en tiondel av Lånebelopp under relevant Lån (sådan begäran kan 
+endast göras av Fordringshavare som är registrerade i det av Euroclear Sweden förda 
+avstämningsregistret den Bankdag som infaller närmast efter den dag då begäran 
+inkom till Agenten och måste, om den görs av flera Fordringshavare som var för sig 
+representerar mindre än en tiondel av Justerat Lånebelopp under relevant Lån, göras 
+gemensamt); eller
+
+--- Page 13 ---
+13 (68) 
+(ii) 
+om så beslutas av Fordringshavarna under ett Lån på Fordringshavarmöte,  
+skriftligen förklara relevant Lån tillsammans med ränta förfallet till betalning omedelbart eller 
+vid den tidpunkt Agenten eller Fordringshavarmötet (såsom tillämpligt) beslutar, om:  
+(a) 
+Bolaget inte i rätt tid erlägger förfallet kapital- eller räntebelopp avseende något Lån 
+under detta MTN-program, såvida inte dröjsmålet 
+(i) 
+är en följd av tekniskt eller administrativt fel; och  
+(ii) 
+inte varar längre än tre Bankdagar;  
+(b) 
+Bolaget i något annat avseende än som anges i (a) ovan eller avseende användandet 
+av emissionslikviden inte fullgör sina förpliktelser eller åtaganden enligt Lånevillkoren 
+avseende något Lån under detta MTN-program, under förutsättning att Bolaget 
+skriftligen uppmanats av Administrerande Institut att vidta rättelse och rättelse inte skett 
+inom 15 Bankdagar;  
+(c) 
+(i) Koncernföretag inte i rätt tid eller inom tillämplig uppskovsperiod erlägger betalning 
+avseende annat lån och lånet ifråga på grund därav sagts upp, eller kunnat sägas upp, 
+till betalning i förtid eller, om uppsägningsbestämmelse saknas eller den uteblivna 
+betalningen skulle utgöra slutbetalning, om betalningsdröjsmålet varar 10 Bankdagar; 
+(ii) annat lån till Koncernföretag förklaras uppsagt till betalning i förtid till följd av en 
+uppsägningsgrund (oavsett karaktär); eller 
+(iii) Koncernföretag inte inom 10 Bankdagar efter den dag då Koncernföretag mottagit 
+berättigat krav infriar borgen eller garanti som Koncernföretag ställt för annans 
+förpliktelse, 
+under förutsättning att summan av utestående skuld under de lån eller åtaganden som 
+berörs gemensamt uppgår till minst SEK 25 000 000 eller motvärdet därav i annan 
+valuta;  
+(d) 
+tillgångar som ägs av ett Koncernföretag och som har ett värde överstigande 
+SEK 15 000 000 utmäts eller blir föremål för liknande utländskt förfarande och sådan 
+utmätning eller liknande utländskt förfarande inte undanröjs inom 30 Bankdagar från 
+dagen för utmätningsbeslutet eller beslutet om sådant liknande utländskt förfarande;  
+(e) 
+Koncernföretag ställer in sina betalningar;  
+(f) 
+Koncernföretag ansöker om eller medger ansökan om företagsrekonstruktion eller 
+liknande förfarande;  
+(g) 
+Koncernföretag försätts i konkurs;  
+(h) 
+beslut fattas om att Bolaget ska träda i likvidation eller att Koncernföretag ska försättas 
+i tvångslikvidation; eller  
+(i) 
+Bolagets styrelse upprättar fusionsplan enligt vilken Bolaget ska uppgå i nytt eller 
+existerande bolag.
+
+--- Page 14 ---
+14 (68) 
+Begreppet "lån" och "förpliktelse" i punkten (c) ovan omfattar även kredit i räkning samt 
+belopp som inte erhållits som lån men som ska erläggas på grund av skuldebrev uppenbarligen 
+avsett för allmän omsättning.  
+Agenten får inte förklara relevant Lån tillsammans med ränta (om någon) förfallet till betalning 
+enligt ovan genom hänvisning till en uppsägningsgrund om det har beslutats på ett 
+Fordringshavarmöte att sådan uppsägningsgrund (tillfälligt eller permanent) inte ska medföra 
+uppsägning.
+
+--- Page 15 ---
+15 (68) 
+RISKFAKTORER  
+Nedan beskrivs riskfaktorer som, var och en för sig eller tillsammans, bedöms vara väsentliga 
+för Platzer. Riskfaktorerna inkluderar risker som är relaterade till Bolaget, dess verksamhet 
+och bransch samt risker relaterade till MTN. Om de händelser som beskrivs i riskfaktorerna 
+inträffar skulle det kunna påverka Platzers möjligheter att fullgöra sina förpliktelser att betala 
+ränta och kapitalbelopp på utgivna MTN. Bolagets bedömning av väsentligheten av varje 
+riskfaktor baseras på sannolikheten för att risken inträffar och förväntade negativa effekter. 
+Den riskfaktor som bedöms mest väsentlig presenteras först i respektive kategori, medan 
+efterkommande riskfaktorer presenteras utan inbördes rangordning.  
+RISKER RELATERADE TILL PLATZER, DESS VERKSAMHET OCH BRANSCH 
+Verksamhet- och branschrelaterade risker 
+Risker relaterade till makroekonomiska faktorer 
+Platzer är ett fastighetsbolag med fokus på kommersiella fastigheter, främst kontor och 
+logistik/industri, i Göteborgsområdet. Per den 30 juni 2024 ägde Koncernen 88 fastigheter 
+varav fem är delägda fastigheter som redovisas som intresseföretag motsvarande ett totalt 
+fastighetsvärde om 28 432 Mkr exklusive intresseföretag. Platzer är exponerad mot 
+makroekonomiska faktorer såsom konjunktur, ränteläge, inflation, tillväxt samt den allmänna 
+ekonomiska 
+utvecklingen 
+på 
+marknaden. 
+Tillväxten 
+i 
+ekonomin 
+påverkar 
+sysselsättningsgraden, vilken är en väsentlig grund för utbud och efterfrågan på 
+hyresmarknaden och påverkar därmed vakansgrader och hyresnivåer, framförallt vad gäller 
+kommersiella lokaler. Platzers verksamhet är koncentrerad till Göteborg, och Platzer är därför 
+särskilt beroende av den regionala utvecklingen i Göteborgsområdet (se även "Risker 
+relaterade till koncentrationen i fastighetsbeståndet" nedan). Göteborg har en stark koppling 
+till exportberoende verksamheter och är därmed delvis beroende av den globala konjunkturen. 
+En makroekonomisk faktor som är särskilt betydelsefull är förväntningar om framtida inflation, 
+eftersom inflationsförväntningar typiskt sett påverkar räntan vilket i sin tur har stor påverkan 
+på Platzers finansnetto (se även "Ränterisk" nedan). Andra makroekonomiska faktorer som 
+kan påverka Platzer negativt innefattar geopolitiska kriser och andra förändringar av 
+omvärldssituationen, såsom försämringen av säkerhetsläget i omvärlden som följt av bland 
+annat Rysslands invasion av Ukraina och den pågående konflikten i mellanöstern, som bland 
+annat givit upphov till ökad osäkerhet på de finansiella marknaderna och fått negativa effekter 
+för den globala ekonomin. Kriget i Ukraina har inneburit en försämring av det allmänna 
+säkerhetspolitiska läget i Europa och Platzer påverkas framförallt av ökade energipriser, 
+leveransstörningar och brist avseende material som stål och annat byggmaterial. Kriget och 
+konflikterna har även medfört volatilitet på såväl globala som lokala marknader, vilket kan 
+inverka på Platzers möjlighet att uppta ny finansiering på villkor som är godtagbara för Platzer 
+(se även "Refinansieringsrisk" nedan). Detta skulle i sin tur kunna ha en negativ effekt på 
+Koncernens resultat, och dess finansiella ställning. 
+Risker relaterade till koncentrationen i fastighetsbeståndet 
+Platzers fastighetsbestånd är koncentrerat till kommersiella lokaler i Göteborgsområdet. En 
+negativ 
+utveckling 
+på 
+lokalhyresmarknaden 
+och/eller 
+transaktionsmarknaden 
+i
+
+--- Page 16 ---
+16 (68) 
+Göteborgsområdet skulle därför kunna drabba Platzer särskilt hårt. På motsvarande sätt skulle 
+en försämrad marknad för kontor och logistik/industri kunna drabba Platzer särskilt hårt, även 
+om marknaden för andra typer av fastigheter inte försämrats i motsvarande mån. Av det totala 
+värdet av Koncernens fastighetsbestånd per den 30 juni 2024 var 72 procent hänförligt till 
+kontor, 22 procent hänförligt till industri/logistik och 6 procent hänförligt till projekt. Efterfrågan 
+på 
+kontor, 
+logistik- 
+och 
+industrilokaler 
+påverkas 
+främst 
+av 
+konjunkturläge 
+och 
+sysselsättningsgraden, men kan även påverkas av strukturella samhällstrender såsom till 
+exempel att fler arbetar hemifrån i större utsträckning. Även trenden med urbanisering, som 
+historiskt har varit en tydlig trend i Göteborg, och förekomsten av stora infrastrukturella projekt 
+som skapar jobb och vid färdigställande ökar arbetsmarknadens upptagningsområde har 
+betydelse för kontorshyresmarknaden i Göteborg, och minskad urbanisering respektive en 
+minskning av större infrastrukturella projekt i relevanta områden skulle kunna leda till en 
+minskad efterfrågan på Platzers fastigheter. För logistiklokaler har e-handelns tillväxt och 
+digitalisering stor inverkan på efterfrågan. Om någon av de ovanstående riskerna skulle 
+materialiseras skulle det kunna få en negativ effekt på Koncernens nettoomsättning och 
+rörelseresultat, och dess finansiella ställning. 
+Risker relaterade till framtida pandemier 
+Coronapandemin är ett exempel på en pandemi som ledde till betydande negativa effekter på 
+den globala ekonomin och resulterade i bland annat minskad bruttonationalprodukt (BNP) för 
+de flesta större ekonomier och störningar i globala leveranskedjor. Coronapandemin 
+resulterade även i betydande volatilitet och instabilitet på de finansiella marknaderna samt i 
+minskad efterfrågan på vissa typer av fastigheter medan efterfrågan på andra typer av 
+fastigheter ökade.  
+Framtida pandemier kan potentiellt leda till en omfattande och ihållande nedgång i den 
+allmänna 
+konjunkturen 
+och 
+den 
+globala 
+tillväxten, 
+med 
+bland 
+annat 
+minskad 
+sysselsättningsgrad som konsekvens. Dessa faktorer kan i sin tur leda till lägre hyresnivåer 
+och minskade fastighetsvärden, vilket påverkar bolagets framtida finansieringsmöjligheter och 
+medför ökade finansieringskostnader. I vilken utsträckning, och under hur lång tid, liknande 
+pandemier kan komma att påverka Platzer beror på ett antal faktorer, såsom bland annat (i) 
+pandemins negativa effekter på ekonomiska, politiska och marknadsrelaterade förhållanden, 
+vilka i sin tur kan inverka negativt på Platzers möjlighet att hyra ut sina lokaler (ii) åtgärder som 
+vidtas av regeringar, myndigheter och andra organisationer för att motverka de negativa 
+konsekvenserna av sådana pandemier, såsom framtida nedstängningar av arbetsplatser eller 
+som annars minskar behovet av kontorslokaler och (iii) risken för att anställda insjuknar i covid-
+19 eller andra pandemier. Om någon av de ovanstående riskerna skulle materialiseras skulle 
+det kunna få en negativ effekt på Koncernens nettoomsättning, rörelseresultat och dess 
+finansiella ställning.  
+Risker relaterade till värdeförändringar i fastighetsbeståndet 
+Värdering av fastighetsbeståndet sker genom att varje enskild fastighets verkliga värde 
+bedöms. Fastigheterna värderas internt kvartalsvis i samband med varje bokslut genom en 
+tioårig kassaflödesmodell på samtliga fastigheter. Vid varje årsskifte genomförs även en extern 
+värdering av ett urval fastigheter som utgör ett tvärsnitt av fastighetsbeståndet. Den externa
+
+--- Page 17 ---
+17 (68) 
+värderingen utförs på minst 30 procent av fastighetsbeståndets värde och görs i syfte att 
+kvalitetssäkra den interna värderingen. Per den 30 juni 2024 uppgick det totala värdet av 
+Koncernens fastighetsbestånd till 28 432 Mkr. Platzers samtliga fastigheter klassificeras som 
+förvaltningsfastigheter. Fastigheterna redovisas därmed i balansräkningen till verkligt värde 
+och värdeförändringarna redovisas i resultaträkningen. Värdet på fastigheterna påverkas av 
+ett antal faktorer, dels fastighetsspecifika omständigheter som vakansgrad, hyresnivå och 
+driftskostnader, dels marknadsspecifika faktorer som direktavkastningskrav och kalkylräntor 
+som 
+härleds 
+ur 
+jämförbara 
+transaktioner 
+på 
+fastighetsmarknaden. 
+Även 
+om 
+förvaltningsfastigheternas värdeförändringar inte påverkar Platzers kassaflöde direkt kan 
+betydande minskningar av det verkliga värdet av förvaltningsfastigheterna få en väsentlig 
+negativ inverkan på Platzers resultat. Om någon av de ovanstående riskerna skulle 
+materialiseras skulle det kunna få en negativ effekt på Koncernens resultat, och dess 
+finansiella ställning.  
+Risker relaterade till hyresintäkter och uthyrningsgrad samt koncentration av 
+hyresgäster  
+Platzers intäkter påverkas främst av hyresnivåer, fastigheternas uthyrningsgrad och av 
+hyresgästernas betalningsförmåga. Såväl uthyrningsgraden som hyresnivåerna påverkas i sin 
+tur framförallt av konjunkturutvecklingen, befolkningstillväxten och utbudet av motsvarande 
+lokaler. Under perioden 1 januari-30 juni 2024 uppgick de sammanlagda hyresintäkterna i 
+Koncernen till 811 Mkr och under 2023 uppgick Koncernens ekonomiska uthyrningsgrad till 92 
+procent. Hyresintäkter består oftast av bashyra samt olika tillägg, och justeras i regel i linje 
+med den årliga förändringen i konsumentprisindex. Om den årliga förändringen i 
+konsumentprisindex blir negativ kan det leda till att delar av Platzers hyresuppräkning kopplat 
+till index uteblir. Om Platzers hyresgäster inte skulle kunna fullgöra sina betalningsåtaganden 
+i enlighet med deras hyresavtal, till exempel om de skulle gå i konkurs, kan det leda till att 
+Platzer får minskade hyresintäkter, högre vakansgrader och minskat fastighetsvärde. Risken 
+för stora svängningar i vakanser och bortfall av hyresintäkter är även relaterad till 
+avtalsstrukturen, och denna risk ökar ju större andel av enskilt stora hyresgäster som finns i 
+fastighetsbeståndet. Minskade hyresintäkter riskerar att leda till en negativ resultatpåverkan 
+och även att Koncernens fastigheter värderas lägre. Per den 30 juni 2024 motsvarade Platzers 
+20 största hyreskontrakt cirka 35 procent av hyresvärdet och den genomsnittliga återstående 
+löptiden på samtliga hyresavtal vid periodens slut var 54 månader. Per den 30 juni 2024 hade 
+Platzer totalt 694 lokalhyreskontrakt. Om flera av Platzers större hyresgäster skulle välja att 
+säga upp sina hyresavtal och Platzer inte lyckas hitta nya hyresgäster att ersätta dem med 
+skulle det kunna få en negativ effekt på Koncernens hyresintäkter och resultat, och dess 
+finansiella ställning.  
+Risker relaterade till fastighetskostnader 
+Platzers fastighetskostnader består främst av drift- och underhållskostnader samt 
+fastighetsskatt. Driftkostnaderna består till stor del av taxebundna kostnader för bland annat 
+el, sophämtning, vatten och värme. Driftskostnaderna varierar vanligtvis mellan olika kvartal, 
+och påverkas av faktorer som till exempel inflation eller svåra väderförhållanden, vilka kan leda 
+till, och har historiskt lett till, betydligt högre kostnader under specifika kvartal. Flera av dessa 
+tjänster kan endast köpas från en aktör, vilket minskar Platzers möjlighet att påverka priserna.
+
+--- Page 18 ---
+18 (68) 
+Underhållskostnaderna är främst hänförliga till åtgärder som syftar till att upprätthålla 
+standarden på Platzers fastighetsbestånd på lång sikt. Oförutsedda och omfattande 
+reparationer kan också påverka resultatet negativt och leda till högre underhållskostnader. 
+Under perioden 1 januari-30 juni 2024 uppgick Koncernens sammanlagda fastighetskostnader 
+till cirka -171 Mkr. I den mån eventuella kostnadshöjningar inte kompenseras genom reglering 
+i eller omförhandling av hyresavtal kan de få en negativ effekt på Koncernens resultat, och 
+dess finansiella ställning. 
+Risker relaterade till projektverksamheten 
+Platzer driver utvecklingsprojekt som utförs av externa byggbolag, vilket gör att Platzer är 
+beroende av tillgången till externa leverantörer och entreprenörer samt att sådana tjänster 
+erbjuds till acceptabla priser. Dessutom medför Platzers beroende av externa leverantörer 
+vissa projektrelaterade risker såsom förseningar, konstruktionsfel, dolda eller andra fel, skador 
+och föroreningar, vilka skulle kunna leda till att Platzers hyresgäster har rätt till ersättning från 
+Platzer eller har möjlighet att säga upp sina hyresavtal i förtid. Per den 30 juni 2024 hade 
+Platzer totalt tre större pågående utvecklingsprojekt, varav ett rapporteras som intresseföretag. 
+För att kunna genomföra ekonomiskt lönsamma fastighetsrelaterade utvecklingsprojekt krävs 
+att Platzer kan behålla och rekrytera nödvändig expertis inom områden såsom 
+byggkonstruktion, ingenjörsvetenskap, produktion och försäljning, att nödvändiga tillstånd 
+erhålls och att avtal med externa byggbolag ingås till förmånliga villkor. Utvecklingsprojekten 
+är även beroende av att finansiering uppbärs på för Platzer godtagbara villkor och att det finns 
+tillgång till fastigheter för nyproduktion i attraktiva områden. Utvecklingsprojekt kan försenas 
+till följd av att leverantörer inte levererar i tid eller att entreprenörer inte kan slutföra projekt 
+som planerat, vilket kan leda till att Platzers hyresgäster inte kan tillträda deras lokaler vid 
+utsatt datum. Det kan i sin tur medföra att hyresinbetalningar skjuts upp eller att Platzer får 
+lägre hyresintäkter än förväntat, vilket kan få en negativ inverkan på Koncernens förväntade 
+resultat. Vidare kan projektarbeten dra högre kostnader än ursprungligen förväntat, vilket kan 
+medföra ökade kostnader för Koncernen i den mån sådana kostnader inte kan kompenseras. 
+Fastighetstransaktioner 
+I Platzers affärsidé ingår att genomföra fastighetstransaktioner, vilket innefattar förvärv och 
+försäljning av fastigheter. Det finns risk att Platzer inte hittar lämpliga fastigheter att förvärva 
+samt att Platzer inte lyckas finansiera fastighetsförvärv eller inte lyckas avyttra fastigheter på 
+villkor som är fördelaktiga för Platzer. Konkurrensen om eftertraktade fastigheter är stor och i 
+de fall där Platzer lyckas identifiera lämpliga fastigheter att förvärva finns det en risk för att 
+transaktionen inte genomförs. 
+Vidare är ägande och förvärv av fastigheter förenat med risker som kanske inte identifierats 
+avseende förvärvade bolag, som antingen kan ha sin grund i bristande information eller att 
+antaganden som legat till grund för transaktionen visar sig vara felaktiga. Det kan till exempel 
+vara svårt att integrera verksamheter, hyresgäster kan gå förlorade i samband med förvärv, 
+det förvärvade bolagets redovisning kan vara felaktig eller så kan det förvärvade bolaget bli 
+föremål för oförutsedda miljörättsliga eller skatterättsliga anspråk. Sådana osäkerheter kan 
+resultera i förseningar eller ökade eller oförväntade kostnader för transaktionen eller att den 
+förvärvade fastighetens värde är lägre än förväntat. Vid fastighetstransaktioner finns det vidare
+
+--- Page 19 ---
+19 (68) 
+en risk för att Platzer inte uppnår den förväntade direktavkastningen. Dessutom kan 
+investerings- och projektkostnader bli högre än förväntat till följd av exempelvis förseningar, 
+oförutsedda händelser, förändringar i regelverk eller stadsplaner, avvikelser från 
+projektberäkningar eller oförutsedda strukturella problem som medför ytterligare kostnader. 
+Platzer kan komma att sälja fastigheter i dess fastighetsbestånd av flera anledningar, till 
+exempel för att anpassa fastighetsportföljen efter aktuell efterfrågan eller för att finansiera 
+investeringar i nya eller befintliga fastigheter. Platzer är därför beroende av en likvid 
+fastighetsmarknad. Det finns en risk att Platzer får svårigheter att avyttra fastigheter vid rätt 
+tidpunkt eller till villkor som är gynnsamma för Platzer på grund av illikviditet på 
+fastighetsmarknaden. 
+Om någon av de ovanstående riskerna skulle materialiseras skulle det kunna få en negativ 
+effekt på Koncernens resultat, och dess finansiella ställning. 
+Risk att nyckelpersoner lämnar 
+Platzer är beroende av erfaren och kvalificerad personal i hela verksamheten och 
+nyckelpersoner återfinns bland såväl koncernledning som bland övriga medarbetare. Per den 
+30 juni 2024 hade Platzer 86 medarbetare och personalomsättningen var 9 procent under 
+perioden 1 januari-31 december 2023. Det finns en risk att Platzer över tid inte kan rekrytera 
+tillräckligt med kvalificerade personer eller ersätta nyckelpersoner som lämnar, vilket skulle 
+kunna leda till lägre effektivitet, högre kostnader och sämre kundrelationer. Detta skulle i sin 
+tur kunna leda till sämre lönsamhet och resultat. 
+Risker kopplat till tvister eller rättsliga förfaranden 
+Platzers koncernföretag kan bli part i tvister eller rättsliga förfaranden kopplade till den normala 
+verksamheten. Det kan till exempel vara tvister med hyresgäster eller med motparter i 
+samband med fastighetstransaktioner, och de kan uppkomma till följd av exempelvis 
+avtalsbrott, fel i fastigheter, garantier eller miljökrav vilka kan leda till att Platzer blir 
+betalningsskyldigt. Utöver betalningskrav direkt kopplade till en tvist riskerar tvister att bli 
+långdragna processer som påverkar den dagliga verksamheten eller kundrelationer negativt. 
+Det är ofta svårt att förutsäga utgången av tvister och risken finns att utgången i en tvist inte 
+kan täckas fullt ut av Platzers försäkringar. Eventuella tvister eller rättsliga förfaranden kan få 
+negativ effekt på Platzers verksamhet och resultat, och dess finansiella ställning. 
+Legala risker och risker relaterade till regelefterlevnad 
+Risker relaterade till ändrad lagstiftning och skatt 
+Platzers verksamhet är föremål för svensk och EU-rättslig lagstiftning, men även regelverk och 
+föreskrifter avseende byggnadsplaner och planläggning, byggnadsstandarder, säkerhets- och 
+skyddsregler, hälso- och miljöregler, uthyrnings- och hyreslagstiftning. Lagstiftning och andra 
+regelverk förändras ofta över tid och det finns en risk för att Platzer inte kan uppfylla sådana 
+förändrade krav utan att behöva vidta betydande åtgärder och lägga ned betydande kostnader. 
+Att anpassa Platzers verksamhet till framtida legala förutsättningar kan medföra ökade 
+kostnader, vilket i sin tur kan få negativ effekt på Platzers löpande verksamhet och resultat.
+
+--- Page 20 ---
+20 (68) 
+Fastighetsskatt är en kostnadspost för Platzer och förändringar i fastighetsskatten, i den mån 
+kostnader för fastighetsskatt inte kan föras vidare till hyresgästen, liksom bolagsskatt och 
+övriga statliga och kommunala pålagor, kan påverka Platzers verksamhet negativt. Betydande 
+skillnader finns i de politiska partiernas syn på pålagornas och bidragens storlek och 
+förekomst. Skattesatser kan förändras i framtiden och andra ändringar kan ske i de statliga 
+och kommunala systemen som påverkar fastighetsägandet. Lagar och andra regler om 
+beskattning har historiskt varit föremål för frekventa ändringar. En förändring av 
+skattelagstiftning 
+eller 
+praxis 
+innebärande 
+exempelvis 
+förändrade 
+möjligheter 
+till 
+skattemässiga avskrivningar eller att utnyttja underskottsavdrag kan medföra att Platzers 
+framtida skattesituation påverkas negativt.  
+Miljörisk 
+Platzers förädling av fastigheter bedöms ske i normal omfattning och hanteras löpande av 
+förvaltningen. I samband med förädling av fastigheter kan föroreningar påträffas på fastigheter 
+och i byggnader i samband med till exempel ombyggnation. Fastigheter påverkar miljön vid 
+dess uppförande, löpande skötsel och den verksamhet som bedrivs på fastigheten. Enligt 
+miljöbalken (1998:808) har den som bedrivit en verksamhet som har bidragit till föroreningen 
+ett ansvar för efterbehandling. Om inte verksamhetsutövaren kan utföra eller bekosta 
+efterbehandling kan den som förvärvat fastigheten bli ansvarig för efterbehandling i vissa 
+situationer. Om det upptäcks föroreningar på en fastighet som Platzer förvärvat finns således 
+en risk att krav kan riktas mot Platzer för sanering av föroreningen för att ställa fastigheten i 
+sådant skick som följer av miljöbalken. Om Platzer skulle åläggas ett sådant ansvar riskerar 
+det att ha en negativ inverkan på Koncernens verksamhet och resultat, och dess finansiella 
+ställning. 
+IT-risk 
+IT-system är en vital och integrerad del i Platzers verksamhet. Bland annat använder Platzer 
+IT-system för hantering av redovisning, finansiell rapportering, budgetering 
+och 
+personalfrågor. I takt med digitaliseringen har mängden kvalificerade cyberattacker ökat, och 
+på senare tid har en ökande mängd av sådana attacker riktats mot både större företag och IT-
+leverantörer. Intrång i Platzers IT-system kan leda till driftstörningar, förlust av konfidentiell 
+information och ekonomisk skada, exempelvis vid så kallade ransomware-attacker. Om 
+Platzer skulle drabbas av säkerhetsintrång eller driftstörningar riskerar det att ha en negativ 
+inverkan på Koncernens verksamhet och resultat, och dess finansiella ställning. 
+Finansiella risker 
+Refinansieringsrisk 
+Med refinansieringsrisk avses risken att refinansiering av ett lån som förfaller ej är 
+genomförbart, eller risken att refinansiering måste ske vid ogynnsamma marknadslägen till 
+ofördelaktiga räntevillkor. Koncernens räntebärande skulder uppgick per den 30 juni 2024 till 
+14 215 Mkr, varav 4 279 Mkr förfaller inom 12 månader räknat från den 30 juni 2024. 
+Fastighetsägande är en kapitalintensiv verksamhet som förutsätter en väl fungerande 
+kreditmarknad. Platzer är beroende av möjligheten att kunna refinansiera existerande 
+finansiering när dess löptid upphör samt att kunna uppta ytterligare finansiering vid exempelvis 
+fastighetsförvärv och utvecklingsprojekt. Tillgången till finansiering påverkas bland annat av
+
+--- Page 21 ---
+21 (68) 
+Platzers finansiella ställning, dess uppfyllande av finansiella åtaganden som belånings- och 
+räntetäckningsgrad, samt allmänna förutsättningar på bank- och kapitalmarknaden. Platzer 
+har i gällande låneavtal villkor som innebär åtaganden och krav som måste efterlevas, så 
+kallade kovenanter. Det finns en risk att Platzer inte kan erhålla nödvändig lånefinansiering, 
+eller att lånefinansiering inte kan erhållas på villkor som är godtagbara för Platzer, till exempel 
+på grund av rådande villkor på bank- och kapitalmarknaden. Om denna risk skulle förverkligas 
+skulle det kunna få en negativ inverkan på Koncernens likviditet, och dess finansiella ställning. 
+Ränterisk 
+Med ränterisk avses risken att förändringar i det allmänna ränteläget påverkar Koncernens 
+nettoresultat negativt. Platzers verksamhet finansieras främst av eget kapital, upplåning från 
+kreditinstitut och obligationslån. Räntekostnader är Platzers enskilt största kostnadspost. 
+Räntekostnaderna påverkas främst av nivån på aktuella marknadsräntor och kreditinstitutens 
+marginaler, samt av vilken strategi Platzer väljer för räntebindning. Upplåningen, som typiskt 
+sett är räntebärande, exponerar Platzer för risken att nivån på marknadsräntor och tillämpliga 
+marginaler ökar. Platzer uppskattar att en förändring av marknadsräntan med en 
+procentenhet per den 31 december 2023 skulle medföra en ökning med 60 Mkr respektive 
+minskning med 54 Mkr. Platzers genomsnittliga ränta inklusive löften för outnyttjade krediter 
+uppgick per den 30 juni 2024 till 4,13 procent, och den genomsnittliga kapitalbindningstiden 
+på låneavtalen uppgick per samma datum till 2,0 år. Andelen lån, inklusive effekter av 
+tecknade räntederivat, med ränteförfall under de kommande 12 månaderna uppgick per den 
+30 juni 2024 till 49 procent. Riksbanken genomförde under 2023 flera höjningar av 
+styrräntan. Fortsatt höga eller ytterligare höjda marknadsräntor som i betydande grad 
+påverkar Platzers räntekostnader skulle kunna få en negativ inverkan på Koncernens 
+resultat och kassaflöde, och dess finansiella ställning. Ränteförändringar påverkar också 
+värderingen av de derivatkontrakt som Platzer ingått för att hantera sin ränterisk eftersom 
+dessa derivatkontrakt kvartalsvis värderas, och där en negativ värdeförändring får en negativ 
+inverkan på Koncernens resultat och finansiella ställning.  
+Likviditetsrisk 
+Med likviditetsrisk avses risken att Platzer saknar likvida medel för betalning av sina åtaganden 
+avseende finansiella skulder, såsom räntor och amorteringar. Tillgång till likvida medel är en 
+förutsättning för Platzers verksamhet och tillgången påverkas bland annat av Platzers 
+finansiella ställning och allmänna förutsättningar på bank- och kapitalmarknaden. Per den 30 
+juni 2024 uppgick Koncernens tillgängliga likvida medel till 95 Mkr. Därutöver fanns ej 
+utnyttjade checkräkningskrediter om 100 Mkr samt beviljade och outnyttjade kreditfaciliteter 
+om 2 750 Mkr. Det finns en risk att Platzer inte kan säkra tillgång till likvida medel genom 
+upplåning eller på andra sätt, eller att likvida medel endast kan erhållas på ofördelaktiga villkor. 
+Om Platzer inte skulle ha tillräcklig likviditet för att kunna uppfylla sina betalningsåtaganden 
+skulle det kunna få en negativ effekt på Koncernens verksamhet och finansiella ställning. 
+Kreditrisk 
+Kreditrisk är risken för att motparten i en finansiell transaktion inte fullgör sina förpliktelser på 
+förfallodagen gentemot Platzer. Platzers kreditrisk innefattar att hyresgäster inte betalar sina 
+hyresfordringar eller vid placering av likvida medel. Kreditrisk uppstår också vid användande
+
+--- Page 22 ---
+22 (68) 
+av finansiella derivat för bland annat räntesäkring. Om en motpart inte fullgör sina finansiella 
+förpliktelser skulle det kunna få en negativ effekt på Koncernens resultat och likviditet, och 
+dess finansiella ställning. 
+RISKER RELATERADE TILL OBLIGATIONER UTGIVNA UNDER MTN-PROGRAMMET 
+MTN är strukturellt efterställda borgenärer till övriga Koncernföretag och efterställda 
+säkerställd skuld 
+Platzer är beroende av övriga Koncernföretag för att kunna erlägga betalningar under MTN. 
+För att Platzer ska kunna uppfylla betalningsförpliktelser under MTN fordras det därför att 
+Koncernföretag har möjlighet att ge lån eller lämna utdelning till Platzer. MTN kommer inte att 
+vara säkerställda och inget Koncernföretag kommer att gå i borgen för betalningsförpliktelser 
+under MTN. 
+Platzer och Koncernföretag kommer därutöver att ha skulder till andra borgenärer som i stor 
+utsträckning är säkerställd. Om Koncernföretag blir föremål för konkurs kommer dess 
+borgenärer att ha rätt till full betalning av sina fordringar innan Platzer, i egenskap av direkt 
+eller indirekt aktieägare i Koncernföretaget, har rätt till utbetalning av eventuella resterande 
+medel. Fordringshavarna är därmed strukturellt efterställda fordringshavare i Koncernföretag, 
+i tillägg har fordringshavare med säkerhet för sin fordran i Bolaget rätt till betalning ur 
+säkerheterna innan Fordringshavarna. Fordringshavarna har ingen säkerhet i Platzers 
+tillgångar och skulle vara oprioriterade borgenärer i händelse av Platzers konkurs. 
+I de Allmänna Villkoren finns en så kallad negativklausul. Negativklausulen innebär bland 
+annat att Platzer åtar sig att inte ställa säkerhet eller låta annan ställa säkerhet för marknadslån 
+utgivna av Platzer. Det är dock tillåtet för Platzer och Koncernföretag att ställa säkerhet till en 
+kreditgivare för annat än marknadslån, även om kreditgivaren i sin tur kommer att använda 
+fordran på Platzer eller Koncernföretaget, och tillhörande säkerhet, som säkerhet för 
+marknadslån som kreditgivaren i sin tur upptar. Så är fallet till exempel för marknadslån utgivna 
+av Svensk Fastighetsfinansiering AB och liknande strukturer för finansiering kan i framtiden 
+komma att användas. 
+Risker relaterade till MTN:s räntekonstruktion  
+Riskerna relaterade till MTN varierar beroende på lånekonstruktion och löptid för MTN. Det 
+finns en risk att förändringar i ränteläget kan påverka värdet på MTN, vilket skulle kunna 
+resultera i att innehavare av MTN förlorar en del av sin investering.  
+Ränta på MTN med rörlig ränta beräknas efter en räntesats som motsvarar räntebasen med 
+tillägg eller avdrag för räntebasmarginalen. Räntebasen är rörlig. En negativ förväntan på 
+marknaden om vilken nivå räntebasen kommer att fastställas till riskerar därför att sänka 
+marknadsvärdet på MTN samt att minska nivån på ränteutbetalningarna under MTN.  
+Ränta på MTN med fast ränta beräknas efter en på förhand fastställd räntesats. Placering i 
+MTN med fast ränta innebär risk för att senare ändringar i marknadsräntorna negativt kan 
+påverka värdet av MTN. Generellt gäller även att längre löptid på värdepappren kan innebära 
+högre risk.
+
+--- Page 23 ---
+23 (68) 
+MTN kan ges ut med nollkupongskonstruktion och därmed ges ut till en kurs understigande 
+nominellt belopp. För sådana MTN gäller att ingen ränta betalas ut under löptiden och att 
+investeraren endast erhåller det nominella beloppet i slutet av löptiden. Marknadsräntan är 
+normalt styrande för marknadsvärdet av en MTN och om marknadsräntan ökar finns risk för 
+att marknadsvärdet av en MTN minskar.  
+Risker förenade med gröna MTN 
+Vad som utgör gröna MTN avgörs med hänsyn till kriterierna som framgår av det från tid till 
+annan gällande Gröna Ramverket, enligt dess lydelse på Lånedatumet för visst Lån. Det finns 
+en risk för att gröna MTN enligt dessa kriterier inte passar alla investerares krav, önskemål 
+eller specifika investeringsmandat. Det är varje investerares skyldighet att inhämta aktuell 
+information om risker och principer för gröna MTN. 
+Såväl de Gröna Villkoren som marknadspraxis kan komma att utvecklas efter Lånedatumet för 
+visst Lån, vilket kan medföra förmånligare villkor för Lån för efterkommande Fordringshavare 
+eller strängare krav för Bolaget. Förändringar i de Gröna Villkoren som sker efter Lånedatumet 
+för visst Lån kommer inte att komma Fordringshavare i Lånet till godo. 
+Europeiska Parlamentet och rådet har antagit en förordning om ett EU-omfattande 
+klassificeringssystem eller "taxonomi" som ska underlätta för företag och investerare att fatta 
+informerade beslut om hållbara investeringar och EU-kommissionen kommer genom 
+delegerade akter att fastställa tekniska standarder inom ramen för förordningen (förordningen 
+och de delegerade akterna benämns nedan tillsammans "Taxonomiförordningen"). 
+Taxonomiförordningen började tillämpas fullt ut 1 januari  2023 och för att finansiella instrument 
+ska få marknadsföras som "gröna" enligt Taxonomiförordningen kan dessa behöva uppfylla 
+strängare krav än vad som framgår av det Gröna Ramverket för Finansiering. För Platzer kan 
+Taxonomiförordningen i praktiken komma att innebära att vissa investerare kommer uppställa 
+som krav att de MTN som de investerar i måste uppfylla kriterierna i Taxonomiförordningen, 
+och att de MTN som ges ut under GBP inte kommer ses som tillräckligt miljömässigt hållbara 
+och därför åsättas ett lägre värde. De närmare konsekvenserna av detta är svårbedömda vid 
+datumet för detta Grundprospekt. 
+Det finns en risk att nettolikviden från gröna MTN endast delvis eller inte alls kan användas för 
+att finansiera eller refinansiera Gröna Projekt till följd av omständigheter utanför Platzers 
+kontroll. Nettolikviden från Lån för vilka de Gröna Villkoren är tillämpliga får till exempel 
+användas till att finansiera projekt knutna till förnybar energi, och det finns en risk att Platzers 
+kunder inte söker sådan finansiering. Det finns även en risk att definitionen av vad som utgör 
+gröna MTN förändras till följd ändrade lagar, förordningar eller branschstandarder. Eventuell 
+nettolikvid från gröna MTN som inte kan användas för sådan finansiering eller refinansiering 
+kommer fortsatt att innebära räntekostnader för Platzer. Det finns även en risk att projekt 
+finansierade genom nettolikviden från gröna MTN endast delvis eller inte alls uppnår de 
+miljöfördelar eller hållbarhetsmål som har motiverat investeringen, vilket riskerar att försämra 
+Platzers renommé samt strida mot syftet med en investering i gröna MTN. 
+Fordringshavare har ingen rätt till återbetalning eller återköp av MTN eller annan kompensation 
+om MTN upphör att klassificeras som gröna eller om Platzer inte skulle följa de Gröna Villkoren. 
+Det kan vidare inte garanteras att gröna MTN vid var tid uppfyller samtliga förutsättningar i
+
+--- Page 24 ---
+24 (68) 
+GBP, Taxonomiförordningen, EU Green Bonds Standard eller andra motsvarande principer 
+eller standarder. I enlighet med rekommendationerna i GBP (i dess lydelse per juli 2021) bör 
+ett utomstående och oberoende institut (det "Oberoende Institutet") i ett utlåtande (second 
+opinion) bedöma hur det Gröna Ramverket för Finansiering överensstämmer med GBP. Ett 
+sådant utlåtande är avgränsat till en bedömning av det Gröna Ramverket för Finansierings 
+överensstämmelse med relevanta standarder för hållbarhet och gröna obligationer, 
+exempelvis GBP, samt Platzers mål och ambitioner avseende hållbarhet. Om Platzer inte 
+uppfyller skyldigheter avseende rapportering och användning av nettolikviden från MTN finns 
+det en risk för att det Oberoende Institutet ändrar eller återkallar opinionen vilket kan påverka 
+värdet av MTN och även leda till att MTN inte tillåts vara noterade på marknadsplatser som är 
+avsedda specifikt för gröna och hållbara tillgångar. Risken för att det Oberoende Institutet 
+ändrar eller återkallar sitt utlåtande kan också få konsekvenser för vissa investerare med 
+investeringsmandat att investera i gröna tillgångar. 
+Andrahandsmarknaden 
+MTN som emitteras under MTN-programmet kommer inte nödvändigtvis att innehas av flera 
+Fordringshavare och inte heller nödvändigtvis handlas i någon omfattning. Varje MTN som 
+emitteras under MTN-programmet kommer ha ett minsta nominellt belopp om EUR 100 000 
+(eller ett motsvarande belopp i SEK). Notering av en serie MTN på Reglerad Marknad kommer 
+inte att ha föregåtts av någon ordnad handel för MTN och en notering, på särskilda 
+marknadsplatser inrättade för gröna och hållbara tillgångar eller annars, kan vägras eller dras 
+tillbaka utan att Fordringshavare har några särskilda rättigheter till kompensation, återköp eller 
+återbetalning av MTN eller annat. Det finns därför risk för att en fungerande 
+andrahandsmarknad för MTN inte kommer att uppstå eller kvarstå. Transaktionskostnaderna 
+för handel i MTN kan även visa sig vara höga. Fordringshavare riskerar därför att inte kunna 
+handla med MTN till för dem acceptabla villkor. En investering i MTN ska därför endast göras 
+av investerare som kan stå risken att en fungerande andrahandsmarknad inte uppstår och 
+därför kan behöva inneha MTN till Återbetalningsdagen. 
+Benchmarkförordningen och referensräntor 
+Processen för hur, EURIBOR, STIBOR och andra referensräntor bestäms har varit 
+omdebatterad på senare tid och detta har resulterat i ett antal lagstiftningsåtgärder varav vissa 
+redan implementerats och andra är på väg att implementeras. Det största initiativet på området 
+är Europaparlamentets och Rådets förordning (EU) 2016/1011 av den 8 juni 2016 om index 
+som används som referensvärden för finansiella instrument och finansiella avtal eller för att 
+mäta investeringsfonders resultat, och om ändring av direktiven 2008/48/EG och 2014/17/EU 
+och förordning (EU) nr 596/2014 ("Benchmarkförordningen") som trädde ikraft den 1 januari 
+2018 och som reglerar tillhandahållandet av referensvärden, rapportering av dataunderlag för 
+referensvärden och användningen av referensvärden inom EU. Benchmarkförordningen har 
+påverkan på hur vissa referensräntor bestäms och utvecklas. De ökade administrativa kraven, 
+och de därtill kopplade regulatoriska riskerna, kan leda till att aktörer inte längre kommer vilja 
+medverka vid bestämning av referensräntor, att ramverk eller metodologier för att bestämma 
+referensräntor förändras eller att vissa referensräntor helt upphör att publiceras. Om så sker 
+för en referensränta som tillämpas för viss MTN skulle det kunna få negativa effekter för en 
+innehavare av MTN. De Allmänna Villkoren innehåller vissa bestämmelser om fastställande
+
+--- Page 25 ---
+25 (68) 
+eller byte av räntebas i det fall en referensränta inte kan fastställas vid en given tidpunkt eller 
+om en Triggerhändelse eller ett Offentliggörande inträffar. Det finns risk för att sådana 
+ändringar av räntebas enligt de Allmänna Villkoren kan vara till nackdel för innehavare av MTN 
+eller kan leda till tidskonsumerande diskussioner eller tvister. Om ovanstående inträffar kan 
+det få en negativ inverkan på en investering i MTN.
+
+--- Page 26 ---
+26 (68) 
+ALLMÄNNA VILLKOR FÖR LÅN UPPTAGNA UNDER PLATZER FASTIGHETER 
+HOLDING AB (PUBL)S MTN-PROGRAM 
+Följande allmänna villkor ("Allmänna Villkor") ska gälla för lån som Platzer Fastigheter 
+Holding AB (publ) (org. nr 556746-6437) ("Bolaget") emitterar på kapitalmarknaden under 
+avtal som ursprungligen ingåtts den 25 augusti 2021 mellan Bolaget och Svenska 
+Handelsbanken AB (publ), Nordea Bank Abp, Skandinaviska Enskilda Banken AB (publ) och 
+Swedbank AB (publ) om MTN-program ("MTN-program") genom att utge obligationer med 
+varierande löptider, dock lägst ett år, s.k. Medium Term Notes.  
+1 
+DEFINITIONER  
+1.1 
+Utöver ovan gjorda definitioner ska följande benämningar ha den innebörd som anges 
+nedan.  
+"Administrerande Institut" är (i) om Lån utgivits genom två eller flera Utgivande Institut, det 
+Utgivande Institut som utsetts av Bolaget att ansvara för vissa administrativa uppgifter 
+beträffande Lånet enligt Slutliga Villkor, och (ii) om Lån utgivits genom endast ett Utgivande 
+Institut, det Utgivande Institutet.  
+"Agent" är Intertrust (Sweden) AB, org.nr. 556625-5476, eller annan agent vilken kan komma 
+att ersätta denne som Agent enligt bestämmelserna i punkt 18 (Byte av Agent). 
+"Agentavtalet" är avtalet mellan Agenten och Bolaget avseende Agentens uppdrag i enlighet 
+med Lånevillkoren.  
+"Avstämningsdag" är den femte Bankdagen före (eller annan Bankdag före den relevanta 
+dagen som generellt kan komma att tillämpas på den svenska obligationsmarknaden) (i) 
+förfallodag för ränta eller kapitalbelopp enligt Lånevillkoren, (ii) annan dag då betalning ska 
+ske till Fordringshavare, (iii) dagen för Fordringshavarmöte, (iv) dagen för avsändande av 
+meddelande, eller (v) annan relevant dag.  
+"Bankdag" är dag som inte är söndag eller annan allmän helgdag i Sverige eller som 
+beträffande betalning av skuldebrev inte är likställd med allmän helgdag i Sverige. Lördagar, 
+midsommarafton, julafton och nyårsafton ska för denna definition anses vara likställda med 
+allmän helgdag.  
+"Belåningsgrad" är Koncernens räntebärande skulder dividerat med fastigheternas värde 
+(inklusive värde för fastigheter som rubriceras som tillgång för försäljning) vid varje Kvartalsdag 
+enligt offentliggjorda räkenskaper för Koncernen per relevant Kvartalsdag. 
+"Dagberäkningsmetod" är vid beräkningen av ett belopp för viss beräkningsperiod, den 
+beräkningsgrund som anges i Slutliga Villkor och: 
+(a) 
+om beräkningsgrunden "30/360" anges som tillämplig ska beloppet beräknas på ett år 
+med 360 dagar bestående av tolv månader med vardera 30 dagar och vid bruten 
+månad det faktiska antalet dagar som löpt i månaden; och
+
+--- Page 27 ---
+27 (68) 
+(b) 
+om beräkningsgrunden "Faktisk/360" anges som tillämplig ska beloppet beräknas på 
+det faktiska antalet dagar i den relevanta perioden dividerat med 360. 
+"Efterlevandeintyg" är det intyg som Bolaget ska leverera till Agenten i förhållande till relevant 
+Kvartalsdag och följer utformningen i enlighet med mallen under avsnitt "Mall för 
+Efterlevandeintyg". 
+"Emissionsinstituten" är Svenska Handelsbanken AB (publ), Nordea Bank Abp, 
+Skandinaviska Enskilda Banken AB (publ) och Swedbank AB (publ), samt varje annat 
+emissionsinstitut som av Euroclear Sweden erhållit särskilt tillstånd att hantera och registrera 
+emissioner i VPC-systemet och som ansluter sig till detta MTN-program, dock endast så länge 
+sådant institut inte avträtt som emissionsinstitut.  
+"EURIBOR" är: 
+(a) 
+den räntesats som omkring kl. 11.00 på aktuell dag anges på informationssystemet 
+Refinitivs sida EURIBOR01 (eller genom sådant annat system eller på sådan annan 
+sida som ersätter nämnda system respektive sida) för Euro under en period jämförbar 
+med den relevanta Ränteperioden;  
+(b) 
+om ingen sådan räntesats anges för den relevanta Ränteperioden enligt punkten (a), 
+medelvärdet (avrundat uppåt till fyra decimaler) av den räntesats som de Europeiska 
+Referensbankerna anger till Administrerande Institut på dennes begäran för 
+depositioner av EUR 10 000 000 för den relevanta Ränteperioden; eller 
+(c) 
+om ingen räntesats anges enligt punkten (a) och endast en eller ingen kvotering ges 
+under punkten (b), den räntesats som enligt Administrerande Instituts skäliga 
+uppskattning bäst motsvarar räntesatsen för depositioner i Euro för den relevanta 
+Ränteperioden. 
+"Euro" och "EUR" är den valuta som används av de deltagande medlemsstaterna i enlighet 
+med den Europeiska Unionens regelverk för den Ekonomiska och Monetära Unionen (EMU).  
+"Euroclear Sweden" är Euroclear Sweden AB (org. nr 556112-8074). 
+"Europeiska Referensbanker" är fyra större affärsbanker som utses av Administrerande 
+Institut och som vid aktuell tidpunkt kvoterar EURIBOR.  
+"Fordringshavare" är den som är antecknad på VP-konto som direktregistrerad ägare eller 
+förvaltare av en MTN. 
+"Fordringshavarmöte" är ett möte med Fordringshavarna i enlighet med avsnitt 13 
+(Fordringshavarmöte). 
+"Huvudägarna" är var och en av Neudi & C:o AB, org.nr. 556226-0603, Länsförsäkringar 
+Göteborg och Bohuslän, org.nr. 558500-8039 och Länsförsäkringar Skaraborg - ömsesidigt, 
+org.nr. 566000-6866.  
+"Justerat Lånebelopp" är Lånebeloppet med avdrag för MTN som ägs av ett Koncernföretag, 
+oavsett om sådant Koncernföretag är direktregistrerat som ägare av sådan MTN eller ej.
+
+--- Page 28 ---
+28 (68) 
+"Koncernen" är den koncern i vilken Bolaget är moderbolag (med begreppet koncern och 
+moderbolag avses vad som anges i aktiebolagslagen (2005:551), såsom ändrad från tid till 
+annan).  
+"Koncernföretag" är varje juridisk person som från tid till annan ingår i Koncernen. 
+"Kontoförande Institut" är bank eller annan som har medgivits rätt att vara kontoförande 
+institut enligt lag (1998:1479) om värdepapperscentraler och kontoföring av finansiella 
+instrument och hos vilken Fordringshavare öppnat VP-konto avseende MTN.  
+"Kvartalsdag" är den 31 mars, den 30 juni, den 30 september och den 31 december. 
+"Ledarbank" Svenska Handelsbanken AB (publ) eller annat Emissionsinstitut vilket enligt 
+överenskommelse med Bolaget kan komma att överta denna roll. 
+"Likviddag" är den dag, enligt Slutliga Villkor, då emissionslikviden för MTN ska betalas. 
+"Lån" är varje lån av viss serie, omfattande en eller flera MTN, som Bolaget upptar under detta 
+MTN-program.  
+"Lånebelopp" är, enligt Slutliga Villkor, det sammanlagda utestående Nominella Beloppet av 
+MTN avseende visst Lån, men minskat med eventuellt återbetalt belopp. 
+"Lånevillkor" är för visst Lån, dessa Allmänna Villkor samt de Slutliga Villkoren för sådant Lån.  
+"Marknadslån" är lån mot utgivande av certifikat, obligationer eller andra värdepapper 
+(inklusive lån under MTN- eller annat marknadslåneprogram), som säljs, förmedlas eller 
+placeras i organiserad form och vilka är eller kan bli föremål för handel på Reglerad Marknad.  
+"MTN" är en ensidig skuldförbindelse om Nominellt Belopp som registrerats enligt lag 
+(1998:1479) om värdepapperscentraler och kontoföring av finansiella instrument och som 
+utgör del av Lån som utgivits av Bolaget under detta MTN-program. 
+"Nominellt Belopp" är det belopp för varje MTN som anges i Slutliga Villkor. 
+"Referensbanker" är de Emissionsinstitut (eller Emissionsinstituts relevanta filial) som är 
+utsedda under detta MTN-program och som kan agera referensbank för att kvotera STIBOR 
+eller (ii) om inget eller endast ett Emissionsinstitut anger STIBOR (såsom tillämpligt) sådana 
+ersättande banker som vid aktuell tidpunkt uppger räntesats för STIBOR (såsom tillämpligt) 
+och som utses av Administrerande Institut. 
+"Reglerad Marknad" är en reglerad marknad såsom definieras i Direktiv 2014/65/EU om 
+marknader för finansiella instrument (eller rättsakt som ersätter eller kompletterar detta 
+direktiv). 
+"Räntebas" är med avseende på Lån med Rörlig Ränta, räntebasen STIBOR eller EURIBOR 
+som anges i de Slutliga Villkoren eller någon referensränta som ersätter STIBOR eller 
+EURIBOR i enlighet med avsnitt 7 (Byte av Räntebas). 
+"Räntetäckningsgrad" är resultat efter finansiella intäkter och tomträttsavgäld dividerat med 
+räntekostnader för Koncernen (exklusive realiserade värdeförändringar derivat och
+
+--- Page 29 ---
+29 (68) 
+värdeförändringar hänförligt till intresseföretag) avseende den 12-månadersperiod som 
+avslutas på relevant Kvartalsdag enligt offentliggjorda räkenskaper för Koncernen per relevant 
+Kvartalsdag. 
+"Slutliga Villkor" är de slutliga villkor vilka upprättas för ett visst Lån under detta MTN-program 
+i enlighet med mallen för slutliga villkor under avsnitt "Mall för Slutliga Villkor" (med de tillägg 
+och ändringar som från tid till annan kan komma att göras). 
+"Soliditet" är Koncernens eget kapital dividerat med Koncernens balansomslutning vid varje 
+Kvartalsdag enligt offentliggjorda räkenskaper för Koncernen per relevant Kvartalsdag. 
+"Startdag För Ränteberäkning" enligt Slutliga Villkor, är den dag från vilken ränta (i 
+förekommande fall) ska börja löpa.  
+"STIBOR" är: 
+(a) 
+den räntesats som administrerats, beräknats och distribuerats av Swedish Financial 
+Benchmark Facility AB (eller ersättande administratör eller beräkningsombud) för 
+aktuell dag och publiceras på informationssystemet Refinitivs sida "STIBOR=" (eller 
+genom sådant annat system eller på sådan annan sida som ersätter nämnda system 
+eller sida) för Svenska Kronor under en period jämförbar med den relevanta 
+Ränteperioden;  
+(b) 
+om ingen sådan räntesats anges för den relevanta Ränteperioden enligt punkten (a), 
+medelvärdet (avrundat uppåt till fyra decimaler) av de räntesatser som 
+Referensbankerna anger till Administrerande Institut på dennes begäran för 
+depositioner av SEK 100 000 000 för den relevanta Ränteperioden; eller  
+(c) 
+om ingen räntesats anges enligt punkten (a) och endast en eller ingen kvotering ges 
+under punkten (b), den räntesats som enligt Administrerande Instituts skäliga 
+uppskattning bäst motsvarar räntesatsen för depositioner i Svenska Kronor på 
+interbankmarknaden i Stockholm för den relevanta Ränteperioden. 
+"Svenska Kronor" och "SEK" är den lagliga valutan i Sverige.  
+"Utgivande Institut" enligt Slutliga Villkor, är det eller de Emissionsinstitut under detta MTN-
+program varigenom ett visst Lån har upptagits. 
+"VP-konto" är det värdepapperskonto hos Euroclear Sweden enligt lag (1998:1479) om 
+värdepapperscentraler och kontoföring av finansiella instrument i vilket (i) en ägare av ett 
+värdepapper är direktregistrerad som ägare av värdepapper eller (ii) en ägares innehav av 
+värdepapper är förvaltarregistrerat i en förvaltares namn.  
+"Återbetalningsdag" enligt Slutliga Villkor, är dag då MTN ska återbetalas. 
+"Återköpsdag" är den dag som angivits enligt punkt 10.2. 
+1.2 
+Vid beräkningen av huruvida en gräns beskriven i Svenska Kronor har blivit uppnådd 
+eller överskriden ska ett belopp i annan valuta beräknas utifrån den växlingskurs som 
+gällde Bankdagen närmast före den relevanta tidpunkten och som publiceras på
+
+--- Page 30 ---
+30 (68) 
+Thomson Reuters sida "SEKFIX=" (eller genom sådant annat system eller på sådan 
+annan sida som ersätter nämnda system respektive sida) eller, om sådan kurs inte 
+publiceras, enligt den kurs för Svenska Kronor mot den aktuella valutan på nämnda 
+dag som publiceras av Riksbanken på sin hemsida (www.riksbank.se). 
+1.3 
+Ytterligare definitioner såsom Räntekonstruktion, Räntesats, Räntebasmarginal, 
+Räntebestämningsdag, Ränteförfallodag/ar, Ränteperiod och Valuta återfinns (i 
+förekommande fall) i Slutliga Villkor.  
+1.4 
+De definitioner som återfinns i dessa Allmänna Villkor ska tillämpas också för Slutliga 
+Villkor.  
+2 
+UPPTAGANDE AV LÅN 
+2.1 
+Under detta MTN-program får Bolaget ge ut MTN i Svenska Kronor eller Euro med en 
+löptid på lägst ett år. Under ett Lån kan MTN ges ut i flera trancher utan godkännande 
+från Fordringshavare. 
+2.2 
+Genom att teckna sig för MTN godkänner varje initial Fordringshavare att dess MTN 
+ska ha de rättigheter och vara villkorade av de villkor som följer av Lånevillkoren. 
+Genom att förvärva MTN bekräftar varje ny Fordringshavare sådant godkännande. 
+2.3 
+Bolaget åtar sig att göra betalningar avseende utgivna MTN i enlighet med 
+Lånevillkoren och även i övrigt följa Lånevillkoren för de Lån som tas upp under detta 
+MTN-program.  
+2.4 
+Önskar Bolaget ge ut MTN under detta MTN-program ska Bolaget ingå särskilt avtal 
+för detta ändamål med ett eller flera Emissionsinstitut vilka ska vara Utgivande Institut 
+för sådant Lån.  
+2.5 
+För varje Lån ska upprättas Slutliga Villkor vilka tillsammans med dessa Allmänna 
+Villkor utgör fullständiga Lånevillkor för Lånet. 
+3 
+REGISTRERING AV MTN  
+3.1 
+MTN ska för Fordringshavares räkning registreras på VP-konto, varför inga fysiska 
+värdepapper kommer att utfärdas. Begäran om viss registreringsåtgärd avseende MTN 
+ska riktas till Kontoförande Institut.  
+3.2 
+Utgivning, clearing, avveckling och registerhållning av MTN hanteras av Euroclear 
+Sweden. 
+3.3 
+Den som på grund av uppdrag, pantsättning, bestämmelserna i föräldrabalken, villkor 
+i testamente eller gåvobrev eller annars förvärvat rätt att ta emot betalning under en 
+MTN ska låta registrera sin rätt för att erhålla betalning.  
+3.4 
+Agenten har rätt att erhålla information från Euroclear Sweden om innehållet i dess 
+avstämningsregister för MTN i syfte att kunna fullgöra sina uppgifter i enlighet med 
+avsnitt 12 (Uppsägning av lån) och avsnitt 13 (Fordringshavarmöte). Agenten ska inte
+
+--- Page 31 ---
+31 (68) 
+vara ansvarigt för innehållet i sådant utdrag eller på annat sätt vara ansvarigt för att 
+fastställa vem som är Fordringshavare. 
+3.5 
+Bolaget ska om detta krävs för att Agenten ska erhålla information enligt punkt 3.4 ovan 
+utfärda nödvändig fullmakt till personer anställda hos Agenten (såsom anges av 
+Agenten) för att dessa personer självständigt ska kunna erhålla information från det av 
+Euroclear Sweden förda avstämningsregistret. Bolaget får inte återkalla sådan fullmakt 
+förutom om Agenten instruerar eller lämnar sitt godkännande till Bolaget. 
+4 
+RÄTT ATT AGERA FÖR FORDRINGSHAVARE 
+4.1 
+Om annan än Fordringshavare önskar utöva Fordringshavares rättigheter under 
+Lånevillkoren eller rösta på Fordringshavarmöte, ska sådan person kunna uppvisa 
+fullmakt eller annan behörighetshandling utfärdad av Fordringshavaren eller en kedja 
+av sådana fullmakter och/eller behörighetshandlingar från Fordringshavaren.  
+4.2 
+Fordringshavare, eller annan person som utövar Fordringshavares rättigheter enligt 
+punkt 4.1 ovan, kan befullmäktiga en eller flera personer att representera 
+Fordringshavaren 
+avseende 
+vissa 
+eller 
+samtliga 
+MTN 
+som 
+innehas 
+av 
+Fordringshavaren. Envar sådan befullmäktigad person får agera självständigt.  
+4.3 
+Agenten behöver endast översiktligt granska en fullmakt eller en annan 
+behörighetshandling och har rätt att utgå från att den är vederbörligen utfärdad och 
+giltig, så länge Agenten inte har faktisk kunskap om motsatsen. 
+5 
+BETALNINGAR 
+5.1 
+Betalning avseende MTN utgivna i Svenska Kronor ska ske i Svenska Kronor och 
+avseende MTN utgivna i Euro ska ske i Euro. 
+5.2 
+Betalningar avseende MTN ska göras till den som är registrerad som Fordringshavare 
+på Avstämningsdagen för respektive förfallodag eller till sådan annan person som är 
+registrerad hos Euroclear Sweden som berättigad att erhålla sådan betalning.  
+5.3 
+Har Fordringshavaren genom Kontoförande Institut låtit registrera att kapitalbelopp 
+respektive ränta ska insättas på visst bankkonto, sker insättning genom Euroclear 
+Swedens försorg på respektive förfallodag. 
+5.4 
+Skulle Euroclear Sweden på grund av dröjsmål från Bolagets sida eller på grund av 
+annat hinder inte kunna utbetala belopp enligt vad nyss sagts, ska Bolaget tillse att 
+beloppet utbetalas så snart hindret upphört.  
+5.5 
+Om Bolaget ej kan fullgöra betalningsförpliktelse genom Euroclear Sweden på grund 
+av 
+hinder 
+för 
+Euroclear 
+Sweden 
+ska 
+Bolaget 
+ha 
+rätt 
+att 
+skjuta 
+upp 
+betalningsförpliktelsen tills dess hindret har upphört. I sådant fall ska ränta utgå enligt 
+punkt 8.2.
+
+--- Page 32 ---
+32 (68) 
+5.6 
+Visar det sig att den som tillställts belopp i enlighet med detta avsnitt 5 saknade rätt att 
+mottaga detta, ska Bolaget och Euroclear Sweden likväl anses ha fullgjort sina 
+ifrågavarande skyldigheter. Detta gäller dock ej om Bolaget respektive Euroclear 
+Sweden hade kännedom om att beloppet kom i orätta händer eller inte varit normalt 
+aktsam. 
+6 
+RÄNTA 
+6.1 
+Ränta på visst Lån beräknas på Nominellt Belopp och utgår (i förekommande fall) i 
+enlighet med Lånevillkoren. 
+6.2 
+I Slutliga Villkor ska relevant Räntekonstruktion anges enligt något av följande alternativ 
+eller en kombination därav:  
+(a) 
+Fast Ränta  
+Om Lån är specificerat som Lån med Fast Ränta ska Lånet löpa med ränta 
+enligt Räntesatsen från (exklusive) Startdag För Ränteberäkning till och med 
+(inklusive) Återbetalningsdagen.  
+Ränta som upplupit under en Ränteperiod erläggs i efterskott på respektive 
+Ränteförfallodag och beräknas enligt den Dagberäkningsmetod som anges i 
+Slutliga Villkor. 
+(b) 
+Rörlig Ränta (FRN) 
+Om Lånet är specificerat som Lån med Rörlig Ränta ska Lånet löpa med ränta 
+från (exklusive) Startdag För Ränteberäkning till och med (inklusive) 
+Återbetalningsdagen. Räntesatsen för respektive Ränteperiod beräknas av 
+Administrerande Institut på respektive Räntebestämningsdag och utgörs av 
+Räntebasen med tillägg av Räntebasmarginalen för samma period, justerat 
+med hänsyn till tillämpning av avsnitt 7 (Byte av Räntebas). Om beräkningen av 
+räntesatsen innebär ett värde lägre än noll, ska räntesatsen anses vara noll. 
+Kan räntesats inte bestämmas på Räntebestämningsdagen på grund av sådant 
+hinder som avses i punkt 21.1 ska Lånet fortsätta att löpa med den räntesats 
+som gällde för den närmast förutvarande Ränteperioden. Så snart hindret 
+upphört ska Administrerande Institut beräkna ny räntesats att gälla från den 
+andra Bankdagen efter dagen för beräknandet till utgången av den då löpande 
+Ränteperioden.  
+Ränta som upplupit under en Ränteperiod erläggs i efterskott på respektive 
+Ränteförfallodag och beräknas enligt den Dagberäkningsmetod som anges i 
+Slutliga Villkor eller enligt sådan annan beräkningsgrund som tillämpas för 
+aktuell Räntebas. 
+(c) 
+Nollkupongslån 
+Om Lånet är specificerat som Nollkupongslån ska Lånet löpa utan ränta.
+
+--- Page 33 ---
+33 (68) 
+6.3 
+Ränta beräknas och utgår till och med respektive Ränteförfallodag. 
+6.4 
+Infaller Ränteförfallodag för Lån med Fast Ränta på dag som inte är Bankdag utbetalas 
+ränta först följande Bankdag. Ränta beräknas och utgår dock endast till och med 
+Ränteförfallodagen.  
+6.5 
+Infaller Ränteförfallodag för Lån med Rörlig Ränta på dag som inte är Bankdag ska 
+som Ränteförfallodag istället anses närmast påföljande Bankdag förutsatt att sådan 
+Bankdag inte infaller i en ny kalendermånad, i vilket fall Ränteförfallodagen ska anses 
+vara föregående Bankdag.  
+7 
+BYTE AV RÄNTEBAS 
+7.1 
+Om en Triggerhändelse som anges i punkt 7.2 nedan har inträffat ska Bolaget i samråd 
+med Ledarbanken initiera åtgärder för att, så snart det rimligen är möjligt, bestämma 
+Ersättande Räntebas, Spreadjustering samt initiera åtgärder för att bestämma 
+nödvändiga administrativa, tekniska och operativa ändringar av Lånevillkoren för att 
+tillämpa, beräkna och slutligt fastställa den tillämpliga Räntebasen. Det föreligger ingen 
+skyldighet för Ledarbanken att medverka till sådant samråd eller bestämmande enligt 
+ovan. Om Ledarbanken inte medverkar i ett sådant samråd eller bestämmande ska 
+Bolaget, på Bolagets bekostnad, snarast utse en Oberoende Rådgivare för att initiera 
+åtgärder för att, så snart det rimligen är möjligt, bestämma det nämnda. Förutsatt att 
+Ersättande Räntebas, Spreadjustering och övriga ändringar har slutligt fastställts 
+senast innan den relevanta Räntebestämningsdagen ska ändringarna tillämpas från 
+och med nästkommande Ränteperiod, dock alltid med beaktande av eventuella 
+tekniska begränsningar hos Euroclear Sweden och beräkningsmetoder som är 
+tillämpliga i förhållande till sådan Ersättande Räntebas. 
+7.2 
+En triggerhändelse är en eller flera av följande händelser ("Triggerhändelse") som 
+innebär:  
+(a) 
+att Räntebasen (för den relevanta Ränteperioden för aktuellt Lån) har upphört 
+att existera eller upphört att tillhandahållas i minst fem (5) på varandra följande 
+Bankdagar till följd av att Räntebasen (för den relevanta Ränteperioden för 
+aktuellt Lån) upphör att beräknas eller administreras;  
+(b) 
+ett 
+offentligt 
+uttalande 
+eller 
+publikt 
+publicerad 
+information 
+från 
+(i) 
+tillsynsmyndigheten 
+för 
+Administratören 
+av 
+Räntebasen 
+eller 
+(ii) 
+Administratören av Räntebasen med information om att Administratören av 
+Räntebasen inte längre tillhandahåller aktuell Räntebas (för den relevanta 
+Ränteperioden för aktuellt Lån) permanent eller på obestämd tid och att vid 
+tidpunkten för uttalandet eller publiceringen ingen efterträdande administratör 
+har utsetts eller förväntas utses att fortsätta tillhandahålla Räntebasen; 
+(c) 
+ett offentligt uttalande eller publikt publicerad information i vardera fall från 
+tillsynsmyndigheten för Administratören av Räntebasen att Räntebasen (för den 
+relevanta Ränteperioden för aktuellt Lån) inte längre är representativ för den 
+underliggande marknaden som Räntebasen är avsedd att representera och
+
+--- Page 34 ---
+34 (68) 
+Räntebasens representativitet kommer inte att kunna återställas, enligt 
+tillsynsmyndigheten för Administratören av Räntebasen; 
+(d) 
+ett offentligt uttalande eller publikt publicerad information i vardera fall från 
+tillsynsmyndigheten för Administratören av Räntebasen med konsekvensen att 
+det är olagligt för Bolaget, eller det Administrerande Institutet att beräkna 
+betalning till Fordringshavare genom att använda aktuell Räntebas (för den 
+relevanta Ränteperioden för aktuellt Lån) eller att det av annan orsak blivit 
+förbjudet att använda aktuell Räntebas (för den relevanta Ränteperioden för 
+aktuellt Lån); 
+(e) 
+ett offentligt uttalande eller publikt publicerad information från i vardera fall 
+konkursförvaltaren för Administratören för Räntebasen eller från förvaltaren 
+enligt krishanteringsregelverket, eller vad avser EURIBOR, från motsvarande 
+enhet med insolvens- eller resolutionsbefogenhet över Administratören av 
+Räntebasen, med information enligt punkt (b) ovan; eller 
+(f) 
+ett Offentliggörande har gjorts varpå den offentliggjorda Triggerhändelsen som 
+anges i punkterna (b) till (e) ovan kommer att inträffa inom sex (6) månader. 
+7.3 
+Om ett Offentliggörande har gjorts får Bolaget (utan att någon skyldighet föreligger), 
+om det är möjligt att vid sådan tidpunkt bestämma Ersättande Räntebas, 
+Spreadjustering och övriga ändringar, i samråd med Ledarbanken eller genom att utse 
+en Oberoende Rådgivare, initiera åtgärder som framkommer av punkt 7.1 ovan för att 
+slutligt fastställa Ersättande Räntebas, Spreadjustering och övriga ändringar, för att 
+övergå till Ersättande Räntebas vid en tidigare tidpunkt. 
+7.4 
+Om en Triggerhändelse som anges i någon av punkterna 7.2 (a) till (e) har inträffat men 
+ingen Ersättande Räntebas och Spreadjustering har slutligen fastställts senast innan 
+efterföljande Räntebestämningsdag eller om sådan Ersättande Räntebas och 
+Spreadjustering har slutligen fastställts men inte kan tillämpas i samband med 
+efterföljande Räntebestämningsdag på grund av tekniska begränsningar hos Euroclear 
+Sweden, ska räntan för nästkommande Ränteperiod vara: 
+(a) 
+om tidigare Räntebas är tillgänglig, den ränta som skulle gälla för Räntebasen 
+om ingen Triggerhändelse hade inträffat; eller 
+(b) 
+om tidigare Räntebas inte är tillgänglig eller inte längre kan användas i enlighet 
+med tillämplig lag eller reglering, den ränta som fastställts för senast föregående 
+Ränteperiod. 
+Denna bestämmelse är tillämplig på ytterligare efterföljande Ränteperioder förutsatt att 
+alla relevanta åtgärder har vidtagits avseende tillämpningen av och de justeringar som 
+framkommer av detta avsnitt 7 inför varje sådan efterföljande Räntebestämningsdag, 
+men utan framgång.  
+7.5 
+Innan Ersättande Räntebas, Spreadjustering och övriga ändringar blir effektiva ska 
+Bolaget meddela Fordringshavare, Administrerande Institut samt Euroclear Sweden i 
+enlighet med avsnitt 20 (Meddelanden) omedelbart efter att Bolaget i samråd med
+
+--- Page 35 ---
+35 (68) 
+Ledarbanken eller den Oberoende Rådgivaren slutligt fastställt Ersättande Räntebas, 
+Spreadjustering och nödvändiga ändringar och av informationen ska även framgå när 
+ändringarna blir tillämpliga. Om MTN är upptagna till handel på Reglerad Marknad ska 
+Bolaget även informera den Reglerade Marknaden om ändringarna. 
+7.6 
+Ledarbanken, Oberoende Rådgivare och Administrerande Institut som utför åtgärder i 
+enlighet med detta avsnitt 7 ansvarar inte för någon skada eller förlust som orsakas av 
+beslut, åtgärder som vidtas eller utelämnas av denne i samband med bestämmande 
+och slutligt fastställande av Ersättande Räntebas, Spreadjustering eller därtill 
+efterföljande ändringar av Lånevillkoren, såvida inte direkt orsakad av dess grova 
+vårdslöshet eller uppsåtliga agerande. Ledarbanken, den Oberoende Rådgivaren och 
+det Administrerande Institutet ansvarar aldrig för indirekt skada eller följdförluster när 
+denne utför åtgärder enligt detta avsnitt.  
+7.7 
+I detta avsnitt 7 har följande definierade termer den betydelse som anges nedan: 
+"Administratör av Räntebas" är Swedish Financial Benchmark Facility AB (SFBF) i 
+förhållande till STIBOR och European Money Markets Institute (EMMI) i förhållande till 
+EURIBOR eller någon aktör som ersätter som administratör av Räntebasen. 
+"Ersättande Räntebas" är:  
+(a) 
+den skärm- eller referensränta, och den metodologi för beräkning av löptid samt 
+beräkningsmetoder med hänsyn till skuldinstrument med liknande räntevillkor 
+som MTN, som formellt rekommenderas av Relevant Nomineringsorgan som 
+efterträdare eller ersättare till Räntebasen; eller 
+(b) 
+om ingen sådan ränta kunnat utses enligt punkt (a), sådan annan ränta som 
+Bolaget i samråd med Ledarbanken eller den Oberoende Rådgivaren 
+bestämmer är mest jämförbar med Räntebasen. 
+För undvikande av tvivel, om Ersättande Räntebas skulle upphöra att finnas ska denna 
+definition tillämpas mutatis mutandis på sådan ny Ersättande Räntebas.  
+"Oberoende Rådgivare" är ett oberoende finansinstitut eller väl ansedd rådgivare på 
+skuldkapitalmarknaderna där Räntebasen vanligen används. 
+"Offentliggörande" är ett offentligt uttalande eller publikt publicerad information enligt 
+vad som anges i punkterna 7.2 (b) till 7.2 (e) om att händelser eller omständigheter 
+som anges däri kommer att inträffa.  
+"Relevant Nomineringsorgan" är, med förbehåll för tillämplig lagreglering, i första 
+hand relevant tillsynsmyndighet och i andra hand tillämplig centralbank, eller 
+arbetsgrupp eller kommitté på uppdrag av någon av dessa eller, i tredje hand, 
+Finansiella stabilitetsrådet eller någon del därav. 
+"Spreadjustering" är en justeringsmarginal eller en formel eller metod för beräkning 
+av en justeringsmarginal som ska tillämpas på Ersättande Räntebas och som:
+
+--- Page 36 ---
+36 (68) 
+(a) 
+är formellt rekommenderad av Relevant Nomineringsorgan i förhållande till den 
+ersatta Räntebasen; eller 
+(b) 
+om punkt (a) inte är tillämplig, den justeringsmarginal som Bolaget i samråd 
+med Ledarbanken eller den Oberoende Rådgivaren anser skälig att använda i 
+syfte att i möjligaste mån eliminera eventuella värdeöverföringar mellan 
+parterna till följd av ett ersättande av Räntebasen och som vanligen tillämpas 
+vid liknande transaktioner på skuldkapitalmarknaden. 
+8 
+DRÖJSMÅLSRÄNTA 
+8.1 
+Vid betalningsdröjsmål utgår dröjsmålsränta på det förfallna beloppet från förfallodagen 
+till och med den dag då betalning erläggs efter en räntesats som motsvarar 
+genomsnittet av en veckas STIBOR för MTN utgivna i Svenska Kronor respektive 
+EURIBOR för MTN utgivna i Euro under den tid dröjsmålet varar, med tillägg av två (2) 
+procentenheter. STIBOR respektive EURIBOR ska därvid avläsas den första 
+Bankdagen i varje kalendervecka under vilket dröjsmålet varar. Dröjsmålsränta enligt 
+denna punkt 8.1 för Lån som löper med ränta ska dock aldrig utgå efter lägre räntesats 
+än som motsvarar den som gällde för aktuellt Lån på förfallodagen i fråga med tillägg 
+av två (2) procentenheter. Dröjsmålsränta ska inte kapitaliseras.  
+8.2 
+Beror dröjsmålet på hinder för Emissionsinstituten, Agenten eller Euroclear Sweden 
+utgår dröjsmålsränta efter en räntesats motsvarande (i) för Lån som löper med ränta, 
+den räntesats som gällde för aktuellt Lån på förfallodagen ifråga eller (ii) för Lån som 
+löper utan ränta, genomsnittet av en veckas STIBOR respektive EURIBOR under den 
+tid dröjsmålet varar (varvid STIBOR respektive EURIBOR ska avläsas den första 
+Bankdagen i varje kalendervecka under vilken dröjsmålet varar).  
+8.3 
+Om beräkningen av räntesatsen enligt punkt 8.1 eller punkt 8.2 innebär ett värde lägre 
+än noll, ska räntesatsen anses vara noll. 
+9 
+ÅTERBETALNING OCH ÅTERKÖP 
+9.1 
+Lån förfaller till betalning med dess Nominella Belopp, såsom tillämpligt enligt relevanta 
+Slutliga Villkor, på Återbetalningsdagen med det belopp per MTN som anges i Slutliga 
+Villkor, tillsammans med upplupen ränta (om någon). Infaller Återbetalningsdagen på 
+dag som inte är Bankdag återbetalas Lånet dock först följande Bankdag.  
+9.2 
+Bolaget får efter överenskommelse med Fordringshavare återköpa MTN vid varje 
+tidpunkt under förutsättning att det är förenligt med gällande rätt. MTN som ägs av 
+Bolaget får enligt Bolagets eget val behållas, överlåtas eller lösas in. 
+10 
+ÅTERKÖP VID ÄGARFÖRÄNDRING 
+10.1 
+Envar Fordringshavare har rätt att begära återköp av alla, eller vissa, av MTN som 
+innehas av denne, om:
+
+--- Page 37 ---
+37 (68) 
+(a) 
+aktierna i Bolaget upphör att vara upptagna till handel på den Reglerade 
+Marknaden vid Nasdaq Stockholm AB eller annan Reglerad Marknad; eller 
+(b) 
+en händelse, eller serie av händelser inträffar som leder till att en fysisk eller 
+juridisk person, själv eller tillsammans med sådan närstående som avses i lag 
+(2006:451) om offentliga uppköpserbjudanden på aktiemarknaden, och som 
+inte är eller inkluderar Huvudägarna, direkt eller indirekt, vid någon tidpunkt: 
+(i) 
+förvärvar eller kontrollerar, direkt eller indirekt, aktier som representerar 
+mer än 50 procent av aktiekapitalet eller rösträtterna i Bolaget; eller 
+(ii) 
+genom avtal eller på annat sätt själv (eller tillsammans med sådan 
+närstående som ovan nämnts) har möjlighet att utse en majoritet av 
+Bolagets styrelseledamöter; eller 
+(iii) 
+genom avtal, rösträtt eller på annat sätt ensam (eller tillsammans med 
+sådan närstående som ovan nämnts) har möjlighet att bestämma 
+innehållet i väsentliga affärsmässiga beslut i Bolaget. 
+10.2 
+Det åligger Bolaget att så snart som praktiskt möjligt efter det att Bolaget fått kännedom 
+om en ägarförändring enligt punkt 10.1 meddela Fordringshavarna om detta genom 
+pressmeddelande, på Bolagets hemsida och i enlighet med avsnitt 20 (Meddelanden). 
+Meddelandet ska innehålla instruktioner avseende hur en Fordringshavare som vill få 
+MTN återköpta ska agera samt specificera Återköpsdagen. 
+10.3 
+Återköpsdagen ska infalla tidigast tjugo (20) och senast sextio (60) Bankdagar efter att 
+meddelande om ägarförändringen avsänts till Fordringshavare i enlighet med punkt 
+10.2, dock att om Återköpsdagen inte är en Bankdag ska som Återköpsdag anses 
+närmast påföljande Bankdag. 
+10.4 
+Om rätt till återköp föreligger ska Bolaget, om Fordringshavare så begär, återköpa 
+relevanta MTN på Återköpsdagen till det pris per MTN som skulle återbetalats på den 
+slutliga Återbetalningsdagen, tillsammans med upplupen ränta (om någon). För MTN 
+som är Nollkupongslån ska istället ett belopp per MTN beräknat i enlighet med punkt 
+12.7 erläggas.  
+10.5 
+Meddelande från Fordringshavare avseende påkallande av återköp av MTN ska 
+tillställas Bolaget (dvs ha kommit Bolaget tillhanda) senast tio (10) Bankdagar före 
+Återköpsdagen. 
+11 
+SÄRSKILDA ÅTAGANDEN 
+Så länge någon MTN utestår åtar sig Bolaget följande. 
+11.1 
+Status 
+Bolaget ska tillse att dess betalningsförpliktelser enligt Lån i förmånsrättsligt hänseende 
+jämställs 
+med 
+Bolagets 
+övriga 
+icke 
+efterställda 
+och 
+icke 
+säkerställda
+
+--- Page 38 ---
+38 (68) 
+betalningsförpliktelser, förutom sådana förpliktelser som enligt gällande rätt har bättre 
+förmånsrätt. 
+11.2 
+Bolagets verksamhet och anläggningstillgångar 
+Bolaget ska (i) inte väsentligt förändra karaktären av Koncernens verksamhet och (ii) 
+inte avyttra eller på annat sätt avhända sig anläggningstillgång om sådan avhändelse 
+på ett väsentligt negativt sätt påverkar Bolagets förmåga att fullgöra sina 
+betalningsförpliktelser gentemot Fordringshavarna. 
+11.3 
+Finansiella åtaganden 
+(a) 
+Bolagets finansiella åtaganden är att (i) Soliditeten alltid ska uppgå till minst 25 
+procent, (ii) Belåningsgraden får inte överstiga 70 procent samt (iii) 
+Räntetäckningsgraden ska uppgå till minst 1,5x.  
+(b) 
+För det fall:  
+(i) 
+Bolaget erhåller ett kreditbetyg som lägst motsvarar BBB- från något av 
+kreditbedömningsinstituten Moody's, Standard & Poor's, Fitch eller 
+Nordic Credit Rating ("NCR") ska denna punkt 11.3 ej tillämpas för något 
+Lån så länge sådan kreditrating föreligger ("Ratinghändelse för 
+Bolaget"), eller 
+(ii) 
+ett Lån erhåller ett kreditbetyg som lägst motsvarar BBB- från något av 
+kreditbedömningsinstituten Moody's, Standard & Poor's, Fitch eller NCR 
+ska denna punkt 11.3 ej tillämpas för sådant Lån så länge sådan 
+kreditrating föreligger ("Ratinghändelse för Lån"). 
+(c) 
+Bolaget ska (i) publicera kvartals- och årsrapporter på Bolagets hemsida; (ii) 
+tillse att Soliditet, Belåningsgrad samt Ränteteckningsgrad framgår av samtliga 
+Bolagets publicerade kvartals- och årsrapporter; samt (iii) så snart finansiella 
+rapporter publicerats (kvartalsvis) ska Bolaget överlämna Efterlevandeintyg 
+avseende Soliditeten, Belåningsgraden och Räntetäckningsgraden till Agenten. 
+För det fall en Ratinghändelse för Bolaget inte föreligger vid den aktuella 
+tidpunkten alternativt en Ratinghändelse för Lån i förhållande till samtliga 
+utestående 
+Lån 
+inte 
+föreligger 
+vid 
+den 
+aktuella 
+tidpunkten 
+ska 
+Efterlevandeintyget, för att bekräfta att de finansiella åtaganden har blivit 
+uppfyllda, innehålla de siffror och grunder som Soliditeten, Belåningsgraden och 
+Räntetäckningsgraden har beräknats utifrån. 
+11.4 
+Säkerställande av andra Marknadslån 
+Bolaget ska: 
+(a) 
+inte självt ställa säkerhet eller låta annan ställa säkerhet, vare sig i form av 
+ansvarsförbindelse eller på annat sätt, för annat Marknadslån som upptagits 
+eller kan komma att upptagas av Bolaget;
+
+--- Page 39 ---
+39 (68) 
+(b) 
+inte självt ställa säkerhet i annan form än genom ansvarsförbindelse, vilken i sin 
+tur inte får säkerställas, för annat Marknadslån som upptagits eller kan komma 
+att upptagas av annan än Bolaget; samt  
+(c) 
+tillse att Koncernföretag vid eget upptagande av Marknadslån efterlever 
+bestämmelserna enligt punkterna (a) och (b) ovan, varvid på vederbörande 
+Koncernföretag ska tillämpas det som gäller för Bolaget (med beaktande av att 
+Koncernföretaget får motta sådan ansvarsförbindelse som Bolaget äger lämna 
+enligt bestämmelse i punkt (b) ovan). 
+För undvikande av tvivel ska ingenting i denna bestämmelse förhindra Bolaget eller 
+Koncernföretag att indirekt ställa säkerhet för Marknadslån som upptas av Svensk 
+FastighetsFinansiering AB (publ) (org. nr 556985-7229) under dess svenska MTN-
+program. 
+11.5 
+Upptagande till handel på Reglerad Marknad 
+För Lån som enligt Slutliga Villkor ska upptas till handel på Reglerad Marknad åtar sig 
+Bolaget att ansöka om detta vid Nasdaq Stockholm AB eller annan Reglerad Marknad 
+och att vidta de åtgärder som erfordras för att bibehålla upptagandet till handel så länge 
+det relevanta Lånet är utestående, dock längst så länge detta är möjligt enligt tillämpliga 
+regler.  
+11.6 
+Upptagande av nya Marknadslån i andra Koncernföretag 
+Bolaget ska tillse att annat Koncernföretag än Bolaget inte upptar nya Marknadslån. 
+Detta avsnitt 11.6 ska inte hindra Bolaget eller annat Koncernföretag från att förvärva 
+bolag med redan utgivna Marknadslån. 
+11.7 
+Tillhandahållande av Lånevillkor 
+Bolaget åtar sig att hålla den aktuella versionen av dessa Allmänna Villkor samt de 
+Slutliga Villkoren för samtliga utestående Lån som är upptagna till handel på Reglerad 
+Marknad tillgängliga på Bolagets hemsida och ska av Bolaget utan anfordran tillställas 
+Agenten.  
+12 
+UPPSÄGNING AV LÅN 
+12.1 
+Agenten ska (i) om så begärs skriftligen av Fordringshavare som vid tidpunkten för 
+begäran representerar minst en tiondel av Justerat Lånebelopp under relevant Lån 
+(sådan begäran kan endast göras av Fordringshavare som är registrerade i det av 
+Euroclear Sweden förda avstämningsregistret den Bankdag som infaller närmast efter 
+den dag då begäran inkom till Agenten och måste, om den görs av flera 
+Fordringshavare som var för sig representerar mindre än en tiondel av Justerat 
+Lånebelopp under relevant Lån, göras gemensamt) eller (ii) om så beslutas av 
+Fordringshavarna under ett Lån på Fordringshavarmöte, skriftligen förklara relevant 
+Lån tillsammans med ränta (om någon) förfallet till betalning omedelbart eller vid den 
+tidpunkt Agenten eller Fordringshavarmötet (såsom tillämpligt) beslutar, om:
+
+--- Page 40 ---
+40 (68) 
+(a) 
+Bolaget inte i rätt tid erlägger förfallet kapital- eller räntebelopp avseende något 
+Lån under detta MTN-program, såvida inte dröjsmålet: 
+(i) 
+är en följd av tekniskt eller administrativt fel; och  
+(ii) 
+inte varar längre än tre (3) Bankdagar;  
+(b) 
+Bolaget i något annat avseende än som anges i punkt (a) ovan eller i punkterna 
+"Gröna Obligationer" och "Användning av tillförda medel" i Slutliga Villkor inte 
+fullgör sina förpliktelser enligt Lånevillkoren avseende relevant Lån, under 
+förutsättning att, om rättelse är möjlig, Bolaget skriftligen uppmanats av Agenten 
+att vidta rättelse och rättelse inte skett inom femton (15) Bankdagar (för 
+undvikande av tvivel ska bristande fullgörande av finansiella åtaganden enligt 
+punkt 11.3 inte anses möjlig att rätta): 
+(c) 
+ 
+(i) 
+Koncernföretag inte i rätt tid eller inom tillämplig uppskovsperiod 
+erlägger betalning avseende annat lån och lånet ifråga på grund därav 
+sagts upp, eller kunnat sägas upp, till betalning i förtid eller, om 
+uppsägningsbestämmelse saknas eller den uteblivna betalningen skulle 
+utgöra slutbetalning, om betalningsdröjsmålet varar tio (10) Bankdagar; 
+(ii) 
+annat lån till Koncernföretag förklaras uppsagt till betalning i förtid till följd 
+av en uppsägningsgrund (oavsett karaktär); eller 
+(iii) 
+Koncernföretag inte inom tio (10) Bankdagar efter den dag då 
+Koncernföretag mottagit berättigat krav infriar borgen eller garanti som 
+Koncernföretag ställt för annans förpliktelse, 
+under förutsättning att summan av utestående skuld under de lån eller 
+åtaganden som berörs under punkten (c)(i)-(iii), gemensamt uppgår till minst 
+SEK 25 000 000 eller motvärdet därav i annan valuta; 
+(d) 
+tillgångar som ägs av ett Koncernföretag och som har ett värde överstigande 
+SEK 15 000 000 utmäts eller blir föremål för liknande utländskt förfarande och 
+sådan utmätning eller liknande utländskt förfarande inte undanröjs inom trettio 
+(30) Bankdagar från dagen för utmätningsbeslutet eller beslutet om sådant 
+liknande utländskt förfarande; 
+(e) 
+Koncernföretag ställer in sina betalningar; 
+(f) 
+Koncernföretag ansöker om eller medger ansökan om företagsrekonstruktion 
+eller liknande förfarande; 
+(g) 
+Koncernföretag försätts i konkurs; 
+(h) 
+beslut fattas om att Bolaget ska träda i likvidation eller att Koncernföretag ska 
+försättas i tvångslikvidation; eller
+
+--- Page 41 ---
+41 (68) 
+(i) 
+Bolagets styrelse upprättar fusionsplan enligt vilken Bolaget ska uppgå i nytt 
+eller existerande bolag. 
+Begreppet "lån" och "förpliktelse" i punkten (c) ovan omfattar även kredit i räkning 
+samt belopp som inte erhållits som lån men som ska erläggas på grund av skuldebrev 
+uppenbarligen avsett för allmän omsättning.  
+12.2 
+Agenten får inte förklara relevant Lån tillsammans med ränta (om någon) förfallet till 
+betalning enligt punkt 12.1 genom hänvisning till en uppsägningsgrund om det har 
+beslutats på ett Fordringshavarmöte att sådan uppsägningsgrund (tillfälligt eller 
+permanent) inte ska medföra uppsägning enligt punkt 12.1. 
+12.3 
+Det åligger Bolaget att omedelbart underrätta Agenten i fall en uppsägningsgrund som 
+anges i punkt 12.1 skulle inträffa eller om Bolaget i något avseende inte fullgör sina 
+förpliktelser enligt Lånevillkoren avseende något Lån. I brist på sådan underrättelse 
+äger Agenten utgå ifrån att sådan omständighet inte har inträffat, förutsatt att Agenten 
+inte har faktisk vetskap om sådan omständighet. Agenten är inte skyldig att bevaka om 
+förutsättningar för uppsägning enligt punkt 12.1 föreligger. 
+12.4 
+Bolaget ska vid de tidpunkter Agenten anser det skäligen nödvändigt tillställa Agenten 
+ett intyg rörande förhållanden som behandlas i punkt 12.1 Bolaget ska vidare lämna 
+Agenten de närmare upplysningar som Agenten skäligen kan komma att begära 
+rörande sådana förhållanden som behandlas i punkt 12.1 samt på begäran av Agenten 
+tillhandahålla alla de handlingar som kan vara av betydelse härvidlag. 
+12.5 
+Om Agenten underrättats av Bolaget eller det annars står klart för Agenten att en 
+uppsägningsgrund föreligger ska Agenten inom fem (5) Bankdagar underrätta 
+Fordringshavarna därom och ska skyndsamt söka Fordringshavarnas instruktion om 
+relevant Lån ska förklaras förfallet till betalning genom att sammankalla ett 
+Fordringshavarmöte i enlighet med avsnitt 13 (Fordringshavarmöte). Agenten ska dock 
+alltid äga rätt till skäligt rådrum för att avgöra om en inträffad omständighet utgör en 
+uppsägningsgrund eller inte. 
+12.6 
+Om en uppsägningsgrund enligt Agentens bedömning har upphört före det att Lånet 
+sägs upp enligt punkt 12.1 ovan eller om Agenten anser att Fordringshavarnas beslut 
+inte fattats i behörig ordning, är Agenten inte skyldig att verkställa uppsägningen, 
+såvida inte Fordringshavarna skriftligen försäkrar att hålla Agenten skadeslös och 
+ställer för Agenten godtagbar säkerhet för förbindelsen. 
+12.7 
+Vid återbetalning av Lån efter uppsägning enligt punkt 12.1 ska: 
+(a) 
+Lån som löper med ränta återbetalas till ett belopp per MTN som tillsammans 
+med upplupen ränta skulle återbetalats på den slutliga Återbetalningsdagen; 
+och 
+(b) 
+Lån som löper utan ränta återbetalas till ett belopp per MTN som bestäms enligt 
+följande formel per dagen för uppsägningen av Lånet:
+
+--- Page 42 ---
+42 (68) 
+Nominellt Belopp 
+(1 + r)t 
+r =  den säljränta som Administrerande Institut anger för lån, utgivet av svenska staten, 
+med en återstående löptid som motsvarar den som gäller för aktuellt Lån. Vid 
+avsaknad av säljränta ska istället köpränta användas, vilken ska reduceras med 
+marknadsmässig skillnad mellan köp- och säljränta, uttryckt i procentenheter. Vid 
+beräkningen ska stängningsnoteringen användas.  
+t =  återstående löptid för aktuellt Lån, uttryckt i enlighet med Dagberäkningsmetoden 
+Faktisk/360 för MTN utgivna i Svenska Kronor eller Euro.  
+13 
+FORDRINGSHAVARMÖTE 
+13.1 
+Agenten får och ska på begäran från Bolaget, Administrerande Institut eller 
+Fordringshavare som vid tidpunkten för begäran representerar minst en tiondel av 
+Justerat Lånebelopp under ett visst Lån (sådan begäran kan endast göras av 
+Fordringshavare 
+som 
+är registrerade 
+i det 
+av 
+Euroclear 
+Sweden 
+förda 
+avstämningsregistret för MTN den Bankdag som infaller närmast efter den dag då 
+begäran inkom till Agenten och måste, om den görs av flera Fordringshavare som var 
+för sig representerar mindre än en tiondel av Justerat Lånebelopp, göras gemensamt), 
+sammankalla ett Fordringshavarmöte för Fordringshavarna under relevant Lån. 
+13.2 
+Agenten ska sammankalla ett Fordringshavarmöte genom att sända meddelande om 
+detta till varje Fordringshavare och Bolaget inom fem (5) Bankdagar från att det har 
+mottagit en begäran från Bolaget eller Fordringshavare enligt punkt 13.1 (eller sådan 
+senare dag som krävs av tekniska eller administrativa skäl). Agenten ska även utan 
+dröjsmål skriftligen, för kännedom, underrätta Utgivande Institut om detta meddelande.  
+13.3 
+Agenten får avstå från att sammankalla ett Fordringshavarmöte om (i) det föreslagna 
+beslutet måste godkännas av någon person i tillägg till Fordringshavarna och denne 
+har meddelat Agenten att sådant godkännande inte kommer att lämnas, eller (ii) det 
+föreslagna beslutet inte är förenligt med gällande rätt. 
+13.4 
+Kallelsen enligt punkt 13.2 ska innehålla (i) tid för mötet, (ii) plats för mötet, (iii) 
+dagordning för mötet (inkluderande varje begäran om beslut från Fordringshavarna), 
+samt (iv) ett fullmaktsformulär. Endast ärenden som har inkluderats i kallelsen får 
+beslutas om på Fordringshavarmötet. Om det krävs att Fordringshavare meddelar sin 
+avsikt att närvara på Fordringshavarmötet ska sådant krav anges i kallelsen. 
+13.5 
+Fordringshavarmötet ska inte hållas tidigare än femton (15) Bankdagar och inte senare 
+än trettio (30) Bankdagar från kallelsen. Fordringshavarmöte för flera lån under MTN-
+programmet kan hållas vid samma tillfälle. 
+13.6 
+Utan att avvika från bestämmelserna i dessa Allmänna Villkor får Agenten föreskriva 
+sådana ytterligare bestämmelser kring kallelse till och genomförande av 
+Fordringshavarmötet som Agenten skäligen finner lämpligt. Sådana bestämmelser kan 
+bland annat innefatta möjlighet för Fordringshavare att rösta utan att personligen
+
+--- Page 43 ---
+43 (68) 
+närvara vid mötet, att röstning kan ske genom elektroniskt röstningsförfarande eller 
+genom skriftligt röstningsförfarande. 
+13.7 
+Endast personer som är, eller har blivit befullmäktigad i enlighet med avsnitt 4 (Rätt att 
+agera för Fordringshavare) av någon som är, Fordringshavare på Avstämningsdagen 
+för Fordringshavarmötet får utöva rösträtt på sådant Fordringshavarmöte, förutsatt att 
+relevanta MTN omfattas av Justerat Lånebelopp. Agenten äger rätt att närvara och ska 
+tillse att det vid Fordringshavarmötet finns en utskrift av det av Euroclear Sweden förda 
+avstämningsregistret från Avstämningsdagen för Fordringshavarmötet. 
+13.8 
+Vid Fordringshavarmöte äger Bolaget, Fordringshavare och Agenten, samt deras 
+respektive ombud och biträden, rätt att närvara. På Fordringshavarmötet kan beslutas 
+att ytterligare personer får närvara. Det kan beslutas att Bolaget endast får närvara 
+under en del av Fordringshavarmötet. Ombud ska förete behörigen utfärdad fullmakt 
+som ska godkännas av Fordringshavarmötets ordförande. Fordringshavarmöte ska 
+inledas med att ordförande, protokollförare och justeringsmän utses. Ordföranden ska 
+upprätta en förteckning över närvarande röstberättigade Fordringshavare med uppgift 
+om den andel av Justerat Lånebelopp varje Fordringshavare företräder ("Röstlängd"). 
+Därefter ska Röstlängden godkännas av Fordringshavarmötet. Fordringshavare som 
+avgivit sin röst via elektroniskt röstningsförfarande, röstsedel eller motsvarande, ska 
+vid 
+tillämpning 
+av 
+dessa 
+bestämmelser 
+anses 
+såsom 
+närvarande 
+vid 
+Fordringshavarmötet. Endast de som på Avstämningsdagen för Fordringshavarmöte 
+var Fordringshavare, respektive ombud för sådan Fordringshavare och som omfattas 
+av Justerat Lånebelopp, är röstberättigade och ska tas upp i Röstlängden. Bolaget ska 
+få tillgång till relevanta röstberäkningar och underlaget för dessa. Protokollet ska 
+snarast färdigställas och hållas tillgängligt för Fordringshavare, Bolaget och Agenten. 
+13.9 
+Beslut i följande ärenden kräver samtycke av Fordringshavare representerande minst 
+90 procent av den del av Justerat Lånebelopp för vilket Fordringshavare röstar under 
+det relevanta Lånet vid Fordringshavarmötet: 
+(a) 
+ändring av Återbetalningsdagen, nedsättning av Lånebelopp, ändring av villkor 
+relaterande till ränta eller belopp som ska återbetalas (annat än enligt vad som 
+följer av Lånevillkoren, inkluderat vad som följer av tillämpningen av avsnitt 7 
+(Byte av Räntebas) och ändring av föreskriven Valuta för Lånet; 
+(b) 
+ändring av villkoren för Fordringshavarmöte enligt detta avsnitt 13;  
+(c) 
+gäldenärsbyte och 
+(d) 
+obligatoriskt utbyte av MTN mot andra värdepapper. 
+13.10 Ärenden som inte omfattas av punkt 13.9 kräver samtycke av Fordringshavare 
+representerande mer än femtio (50) procent av den del av Justerat Lånebelopp för 
+vilket Fordringshavare röstar under det relevanta Lånet vid Fordringshavarmötet. Detta 
+inkluderar, men är inte begränsat till, ändringar och avståenden av rättigheter i 
+förhållande till Lånevillkoren som inte fordrar en högre majoritet (annat än vad som 
+följer av Lånevillkoren, inkluderat vad som följer av tillämpningen av avsnitt 7 (Byte av
+
+--- Page 44 ---
+44 (68) 
+Räntebas) och ändringar enligt avsnitt 14 (Ändringar av villkor m.m.) samt förtida 
+uppsägning av Lån. 
+13.11 Ett Fordringshavarmöte är beslutsfört om Fordringshavare representerande minst 
+femtio (50) procent av det Justerade Lånebeloppet under det relevanta Lånet avseende 
+ett ärende i punkt 13.9 och avseende övriga ärenden tjugo (20) procent av det 
+Justerade Lånebeloppet under det relevanta Lånet närvarar vid mötet personligen eller 
+via telefon (eller närvarar genom en befullmäktigad representant). 
+13.12 Om 
+Fordringshavarmöte 
+inte 
+är 
+beslutsfört 
+ska 
+Agenten 
+kalla 
+till 
+nytt 
+Fordringshavarmöte (i enlighet med punkt 13.2) förutsatt att det relevanta förslaget inte 
+har dragits tillbaka av den eller de som initierade Fordringshavarmötet. Kravet på 
+beslutsförhet i punkt 13.11 ska inte gälla för sådant nytt Fordringshavarmöte. Om 
+Fordringshavarmötet nått beslutsförhet för vissa men inte alla ärenden som ska 
+beslutas vid Fordringshavarmötet ska beslut fattas i de ärenden för vilka beslutsförhet 
+föreligger och övriga ärenden ska hänskjutas till nytt Fordringshavarmöte. 
+13.13 Ett beslut vid Fordringshavarmöte som utsträcker förpliktelser eller begränsar 
+rättigheter som tillkommer Bolaget, Agenten, Emissionsinstitut, Administrerande 
+Institut eller Utgivande Institut under Lånevillkoren kräver även godkännande av 
+vederbörande part. 
+13.14 En Fordringshavare som innehar mer än en MTN behöver inte rösta för samtliga, eller 
+rösta på samma sätt för samtliga, MTN som innehas av denne. 
+13.15 Bolaget får inte, direkt eller indirekt, betala eller medverka till att det erläggs ersättning 
+till någon Fordringshavare för att denne ska lämna samtycke enligt Lånevillkoren om 
+inte sådan ersättning erbjuds alla Fordringshavare som lämnar samtycke vid relevant 
+Fordringshavarmöte. 
+13.16 Ett beslut som fattats vid ett Fordringshavarmöte är bindande för samtliga 
+Fordringshavare under det relevanta Lånet oavsett om de närvarat vid 
+Fordringshavarmötet. Fordringshavare som inte har röstat för ett beslut ska inte vara 
+ansvarig för skada som beslutet vållar andra Fordringshavare.  
+13.17 Agentens skäliga kostnader och utlägg i anledning av ett Fordringshavarmöte, inklusive 
+skälig ersättning till Agenten, ska betalas av Bolaget i enlighet med Agentavtalet. 
+13.18 På Agentens begäran ska Bolaget utan dröjsmål tillhandahålla Agenten ett intyg som 
+anger sammanlagt belopp för samtliga MTN som ägs av Koncernföretag på sådan 
+Bankdag som anges i punkt 13.1 samt relevant Avstämningsdag före ett 
+Fordringshavarmöte, oavsett om sådant Koncernföretag är direktregistrerat som ägare 
+av MTN. Agenten ska inte vara ansvarigt för innehållet i sådant intyg eller annars vara 
+ansvarigt för att fastställa om en MTN ägs av ett Koncernföretag. 
+13.19 Information om beslut taget vid Fordringshavarmöte ska utan dröjsmål meddelas 
+Fordringshavarna under relevant Lån genom pressmeddelande, på Bolagets hemsida 
+och i enlighet med avsnitt 20 (Meddelanden). Agenten ska på Fordringshavares och 
+Utgivande Instituts begäran tillhandahålla protokoll från relevant Fordringshavarmöte.
+
+--- Page 45 ---
+45 (68) 
+Underlåtenhet att meddela Fordringshavarna enligt ovan ska inte påverka beslutets 
+giltighet. 
+13.20 Utan att avvika från bestämmelserna i dessa Allmänna Villkor får Agenten föreskriva 
+sådana ytterligare bestämmelser kring kallelse till och genomförande av 
+Fordringshavarmöte som detta finner lämpligt. Sådana bestämmelser kan bland annat 
+innefatta möjlighet för Fordringshavare att rösta utan att personligen närvara vid mötet, 
+att röstning kan ske genom elektroniskt förfarande eller genom skriftligt 
+röstningsförfarande. 
+14 
+ÄNDRING AV VILLKOR M.M.  
+14.1 
+Bolaget, Emissionsinstituten och Agenten får överenskomma om justeringar av klara 
+och uppenbara fel i dessa Allmänna Villkor. 
+14.2 
+Bolaget, Administrerande Institut och Agenten får överenskomma om justering av klara 
+och uppenbara fel i Slutliga Villkor för visst Lån. 
+14.3 
+Bolaget och Ledarbanken eller den Oberoende Rådgivaren får, utan Fordringshavares 
+medgivande, överenskomma om och genomföra sådana ändringar i Lånevillkoren i 
+enlighet med vad som framkommer av avsnitt 7 (Byte av Räntebas), vilka blir bindande 
+för de som omfattas av Lånevillkoren. 
+14.4 
+Ändring eller eftergift av Lånevillkor i andra fall än enligt punkterna 14.1 till 14.2 ska ske 
+genom beslut på Fordringshavarmöte enligt avsnitt 13 (Fordringshavarmöte).  
+14.5 
+Ett godkännande på Fordringshavarmöte av en villkorsändring kan omfatta 
+sakinnehållet av ändringen och behöver inte innehålla en specifik utformning av 
+ändringen.  
+14.6 
+Ett beslut om en villkorsändring ska också innehålla ett beslut om när ändringen träder 
+i kraft. En ändring träder dock inte i kraft förrän den registrerats hos Euroclear Sweden 
+(i förekommande fall) och publicerats i enlighet med punkt 11.7 (Tillhandahållande av 
+Lånevillkor).  
+14.7 
+Ändring eller eftergift av Lånevillkor i enlighet med detta avsnitt 14 ska av Bolaget 
+snarast meddelas till Fordringshavarna i enlighet med avsnitt 20 (Meddelanden) och 
+publiceras i enlighet med punkt 11.7 (Tillhandahållande av Lånevillkor). Beslutet ska 
+även publiceras på Agentens hemsida. 
+15 
+FÖRDELNING AV BETALNINGAR 
+15.1 
+Alla betalningar från Bolaget avseende Lånet i enlighet med Lånevillkoren efter att 
+uppsägning skett enligt avsnitt 12 (Uppsägning av Lån) ska fördelas i följande ordning: 
+(a) 
+i första hand; för betalning av utestående avgifter, kostnader, utgifter och 
+förluster (jämte ränta) som Agenten eller person å dess vägnar ådragit sig i 
+enlighet med Agentavtalet, till följd av en uppsägning enligt avsnitt 12
+
+--- Page 46 ---
+46 (68) 
+(Uppsägning av Lån), i anledning av ett Fordringshavarmöte eller annars med 
+anledning av att Agenten fullgjort sina skyldigheter eller utövat sina rättigheter 
+enligt Lånevillkoren; 
+(b) 
+i andra hand; för betalning till Fordringshavarna pro rata av upplupen men 
+obetald ränta avseende MTN; 
+(c) 
+i tredje hand; för återbetalning till Fordringshavarna pro rata av utestående 
+kapitalbelopp avseende MTN; 
+(d) 
+i fjärde hand; för betalning pro rata av andra kostnader och belopp som är 
+utestående under Lånevillkoren; samt 
+(e) 
+i femte hand; betalning av eventuellt överskott till Bolaget eller annan berättigad 
+person. 
+16 
+AGENTENS RÄTT ATT FÖRETRÄDA FORDRINGSHAVARNA 
+16.1 
+Genom att förvärva en MTN befullmäktigar varje Fordringshavare Agenten att i 
+samtliga frågor med anknytning till MTN företräda Fordringshavarna. Agenten är 
+således utan särskild fullmakt eller samtycke från Fordringshavarna och utan att i 
+förväg underrätta Fordringshavarna berättigad att företräda Fordringshavarna såväl vid 
+som utom domstol eller exekutiv myndighet, i alla situationer och ärenden med 
+anknytning till Lånevillkoren, och Lånet. 
+16.2 
+På begäran av Agenten ska Fordringshavare utfärda för ändamålet nödvändig 
+rättegångsfullmakt eller annan fullmakt för Agenten eller den Agenten sätter i sitt ställe. 
+Agenten är inte skyldig att företräda Fordringshavare som inte efterkommer sådan 
+begäran om att ställa ut en sådan fullmakt. 
+16.3 
+Fordringshavare har inte rätt att på annat sätt än som framgår av Lånevillkoren, 
+självmant vidta några åtgärder för att kräva betalning av utestående belopp under 
+Lånet, eller vidta åtgärder för att likvidera, ansöka om försättande i konkurs eller 
+liknande åtgärder såvitt avser Bolaget och inte heller vidta några andra rättsliga 
+åtgärder såsom att väcka talan avseende Lånet vid domstol eller vid myndighet, i annat 
+fall än om (i) Agenten visar sig sakna talerätt för Fordringshavarna i rättsligt förfarande 
+rörande Lånet, (ii) om Agenten instruerats av Fordringsinnehavarna i enlighet med 
+Lånevillkoren att vidta viss åtgärd men underlåter att vidta sådan åtgärd inom rimlig tid 
+(förutsatt att Agentens underlåtenhet inte orsakats av att den aktuella Fordringshavaren 
+inte efterkommit en begäran om fullmakt enligt punkt 16.2 ovan) eller (iii) om det rör 
+individuella Fordringshavares anspråk enligt avsnitt 10 (Återköp vid ägarförändring). 
+16.4 
+Agenten har rätt till avgifter för dess arbete och bli ersatt för kostnader, förluster och 
+anspråk riktad mot den i enlighet med vad som framgår av Lånevillkoren och 
+Agentavtalet och Agentens åtaganden under Lånevillkoren är avhängig att sådana 
+avgifter och ersättningar erläggs i enlighet med Agentavtalet.
+
+--- Page 47 ---
+47 (68) 
+16.5 
+Agenten ska inte ha någon redovisningsskyldighet gentemot någon Fordringshavare 
+med avseende på belopp som mottagits för egen del. 
+16.6 
+Agenten har rätt att förlita sig på varje garanti, meddelande eller handling som Agenten 
+uppfattar att vara äkta, korrekt och tillräckligt auktoriserad/-t och varje utfästelse lämnad 
+av styrelseledamot, firmatecknare eller anställd hos Bolaget med avseende på någon 
+fråga som rimligen kan antas ligga i dennes vetskap eller kontroll att kunna verifiera. 
+17 
+AGENTENS UPPGIFTER 
+17.1 
+Agenten har till uppgift att företräda Fordringshavarna i enlighet med vad som anges i 
+Lånevillkoren och så länge någon MTN är utestående ska Agenten uteslutande agera 
+i Fordringshavarnas intresse och inte var förpliktigad att iaktta några andra intressen 
+eller agera i enlighet med instruktioner från annan, om inte annat uttryckligen anges i 
+Lånevillkoren. 
+17.2 
+Agenten är dock inte ansvarig för Lånevillkorens eller andra dokuments innehåll, legala 
+giltighet eller verkställbarhet. 
+17.3 
+Agenten ska publicera den senaste versionen av Allmänna Villkor och Slutliga Villkor 
+för varje MTN på sin hemsida. 
+17.4 
+Agenten ska ha för sina uppgifters utförande erforderlig kompetens och erfarenhet, 
+organisation och tillgängliga resurser samt relevant ansvarsförsäkring. Agenten ska 
+utföra sina uppgifter med tillbörlig skyndsamhet och yrkeskunnighet och har rätt att för 
+Fordringshavarnas räkning vidta de åtgärder inklusive ingå avtal med bindande verkan 
+som Agenten bedömer nödvändiga för att upprätthålla, skydda, frisläppa och verkställa 
+rättigheterna enligt Lånevillkoren. 
+17.5 
+Agentens uppgifter under Lånevillkoren är uteslutande administrativa till sin natur och 
+Agenten agerar enbart i enlighet med Lånevillkoren och efter instruktion från 
+Fordringshavarna såvida inget annat framgår av Lånevillkoren. Agenten är i synnerhet 
+inte en rådgivare (juridisk, finansiell eller annan) till Fordringshavarna eller någon 
+annan person och ett råd, en bedömning eller en tolkning är inte bindande för 
+Fordringshavarna. 
+17.6 
+Agenten har alltid rätt att, på Bolagets bekostnad, anlita extern rådgivare eller expertis, 
+i den utsträckning det skäligen behövs för utförandet av Agentens uppdrag enligt 
+Lånevillkoren och/eller relaterade dokument. Bolaget ska betala alla kostnader för 
+externa rådgivare eller expertis inklusive (men inte enbart) (i) efter inträffandet av en 
+uppsägningsgrund, eller (ii) i syftet att undersöka om (A) en omständighet som Agenten 
+rimligtvis tror kunna leda till en uppsägningsgrund, (B) en omständighet hänförlig till 
+Bolaget som Agenten rimligen tror kunna vara till nackdel för Fordringshavarnas 
+intressen under Lånevillkoren eller (iii) i enlighet med vad som annars överenskommits 
+mellan Agenten och Bolaget. 
+17.7 
+Om den kostnad, förlust eller det ansvar som Agenten enligt sin skäliga bedömning kan 
+komma att ådra sig (inklusive Agentens avgifter) genom att handla i enlighet med
+
+--- Page 48 ---
+48 (68) 
+Fordringshavarnas instruktion, eller genom att handla på eget initiativ, inte kommer att 
+täckas av Bolaget, kan Agenten underlåta att handla i enlighet med sådana 
+instruktioner eller företa sådan handling på eget initiativ tills sådan ersättning som 
+Agenten skäligen kan begära (eller tillräcklig säkerhet för detta) erbjudits. 
+17.8 
+Agenten ska inte vara skyldig att göra eller underlåta att göra något som, enligt 
+Agentens bedömning rimligen innebär ett brott mot eller står i strid med någon lag eller 
+annan föreskrift eller något sekretessåtagande. 
+17.9 
+Agenten är inte skyldig, annat än såsom uttryckligen framgår av dessa Allmänna 
+Villkor, att löpande övervaka Bolagets finansiella ställning eller fullgörande av dess 
+åtaganden enligt Lånevillkoren om inte så uttryckligen anges i Lånevillkoren. 
+17.10 Agenten ska (i) granska varje Efterlevandeintyg som levereras till Agenten i enlighet 
+med punkt 11.3(c) (Finansiella åtaganden) för att avgöra om Efterlevandeintyget 
+uppfyller kraven som anges i punkten 11.3 (Finansiella åtaganden) och såsom i övrigt 
+överenskommits mellan Agenten och Bolaget, (ii) kontrollera att informationen i 
+Efterlevandeintyget utgör korrekta utdrag från de räkenskaper som Bolaget publicerar 
+enligt punkt 11.3(c) (Finansiella åtaganden), och (iii) kontrollera så att Bolaget, enligt 
+dess rapportering i Efterlevandeintyget, uppfyller de finansiella åtaganden som anges 
+i 11.3(a) (Finansiella åtaganden). Bolaget ska så snart praktiskt möjligt på Agentens 
+begäran förse Agenten med sådan information som Agenten skäligen anser nödvändig 
+för att efterleva sina uppgifter enligt denna punkt 17.10.    
+17.11 Agenten har rätt att förlita sig på uttalanden och intyg från Bolaget som bevis på 
+sakförhållanden rörande Bolaget, såvida inte Agenten får kännedom om att sådant 
+förhållande är oriktigt. 
+17.12 Medel som Agenten uppbär, på ett av Agenten angivet konto, med anledning av MTN 
+ska hållas åtskilda såsom redovisningsmedel och utan oskäligt dröjsmål fördelas i 
+enlighet med bestämmelserna i avsnitt 15 (Fördelning av betalningar). 
+17.13 Agenten ska vara berättigad att delge Fordringshavarna information om händelser eller 
+förhållanden som direkt eller indirekt rör Bolaget eller Lånen. Dock har Agenten rätt att, 
+om denna bedömer det vara till fördel för Fordringshavarna, underlåta eller avvakta 
+med att delge sådan information, förutom om det gäller en uppsägningsgrund. 
+18 
+BYTE AV AGENT 
+18.1 
+Fordringshavarna har rätt att genom beslut på Fordringshavarmöte med kvalificerad 
+majoritet utse en ersättare till Agenten. Bolaget och Agenten ska tillse att sådan 
+ersättare utan dröjsmål men senast trettio (30) dagar efter Fordringshavarnas beslut 
+ingår ett agentavtal med Bolaget på marknadsmässiga villkor, i första hand genom 
+partsbyte under det befintliga Agentavtalet. Först när sådant avtal är ingånget upphör 
+den avgående Agentens uppdrag och påbörjas den ersättande Agentens uppdrag. 
+18.2 
+Vid byte av Agent enligt punkt 18.1 ovan ska Bolaget och Agenten omgående vidta 
+samtliga nödvändiga åtgärder (inklusive att tillse att den tillträdande Agenten blir part
+
+--- Page 49 ---
+49 (68) 
+till Lånevillkoren och samtliga övriga avtal hänförliga till Lånevillkoren till vilka Agenten 
+är part) för att uppdraget ska övergå. 
+18.3 
+En övergång av uppdraget som Agent påverkar inte den avgående Agentens 
+rättigheter och skyldigheter gentemot Bolaget och/eller Fordringshavarna hänförliga till 
+åtgärder (och underlåtna åtgärder) som denne vidtog under tiden dennes uppdrag 
+varade, om inte annat överenskoms mellan den avgående Agenten och den tillträdande 
+Agenten. En överlåtelse av skyldigheter kräver dock att den avgående Agenten går i 
+borgen såsom för egen skuld för dessa gentemot Bolaget och/eller Fordringshavarna. 
+Oaktat att den avgående Agentens uppdrag har upphört, ska denne, i förhållande till 
+åtgärder (och underlåtna åtgärder) som den avgående Agenten vidtog under tiden 
+dennes uppdrag varade, åtnjuta rättigheterna som tillkommer Agenten under 
+Lånevillkoren och samtliga övriga avtal hänförliga till Lånevillkoren till vilka Agenten är 
+part. 
+18.4 
+Agenten kan meddela sitt eget frånträde genom att meddela det till Bolaget och 
+Fordringshavarna, varefter ny Agent ska utses på ett Fordringshavarmöte. Agentens 
+uppdrag ska efter meddelande om eget frånträde vara fram till dess ny Agent utsetts. 
+19 
+PRESKRIPTION  
+19.1 
+Fordran på kapitalbelopp preskriberas tio år efter Återbetalningsdagen. Fordran på 
+ränta preskriberas tre år efter respektive Ränteförfallodag. Om fordran preskriberas 
+tillkommer de medel som avsatts för betalning av sådan fordran Bolaget.  
+19.2 
+Om preskriptionsavbrott sker löper ny preskriptionstid om tio år i fråga om kapitalbelopp 
+och tre år beträffande räntebelopp, i båda fallen räknat från dag som framgår av 
+bestämmelser om verkan av preskriptionsavbrott i preskriptionslagen (1981:130). 
+20 
+MEDDELANDEN 
+20.1 
+Meddelanden ska tillställas Fordringshavare för aktuellt Lån på den adress som är 
+registrerad hos Euroclear Sweden på Avstämningsdagen före avsändandet. Ett 
+meddelande till Fordringshavarna ska också offentliggöras genom pressmeddelande 
+och publiceras på Bolagets hemsida och på Agentens hemsida.  
+20.2 
+Meddelande ska tillställas Bolaget, Agenten och Emissionsinstitut på den adress som 
+är registrerad hos Bolagsverket på Avstämningsdagen före avsändandet.  
+20.3 
+Ett meddelande till Bolaget eller Fordringshavare enligt Lånevillkoren som sänds med 
+normal post till angiven adress ska anses ha kommit mottagaren tillhanda tredje 
+Bankdagen efter avsändande och meddelande som sänds med bud ska anses ha 
+kommit mottagaren tillhanda när det avlämnats på angiven adress.  
+20.4 
+För det fall ett meddelande inte sänts på korrekt sätt till viss Fordringshavare ska detta 
+inte påverka verkan av meddelande till övriga Fordringshavare.
+
+--- Page 50 ---
+50 (68) 
+21 
+BEGRÄNSNING AV ANSVAR M.M. 
+21.1 
+I fråga om de på Emissionsinstituten ankommande åtgärderna gäller att ansvarighet 
+inte kan göras gällande för skada som beror av svenskt eller utländskt lagbud, svensk 
+eller utländsk myndighetsåtgärd, krigshändelse, strejk, blockad, bojkott, lockout eller 
+annan liknande omständighet. Förbehållet i fråga om strejk, blockad, bojkott och 
+lockout gäller även om vederbörande Emissionsinstitut själv är föremål för eller vidtar 
+sådan konfliktåtgärd.  
+21.2 
+Skada som uppkommer i andra fall ska inte ersättas av Emissionsinstitut om 
+vederbörande Emissionsinstitut varit normalt aktsamt. Inte i något fall utgår ersättning 
+för indirekt skada.  
+21.3 
+Föreligger hinder för Emissionsinstitut på grund av sådan omständighet som angivits i 
+punkt 21.1 att vidta åtgärd, får åtgärden uppskjutas tills hindret har upphört.  
+21.4 
+Vad ovan sagts gäller i den mån inte annat följer av lagen om värdepapperscentraler 
+och kontoföring av finansiella instrument. 
+21.5 
+Agenten ansvarar inte gentemot Fordringshavarna för skada eller förlust som orsakats 
+av åtgärd vidtagen eller underlåten av Agenten enligt eller i samband med 
+Lånevillkoren, såvida den inte direkt orsakats av Agentens vårdslöshet eller avsiktliga 
+försummelse. Agenten ansvarar aldrig för indirekt skada eller förlust. 
+21.6 
+Agenten ska inte anses ha agerat vårdslöst om denne har agerat i enlighet med råd 
+eller utlåtanden från ansedda externa experter anlitade av Agenten eller om Agenten 
+har handlat med skälig omsorg i en situation där Agenten anser att det är till skada för 
+Fordringshavarnas intressen att skjuta upp åtgärden för att först inhämta instruktioner 
+från Fordringshavarna. 
+21.7 
+Agenten är inte ansvarig för försening (eller några konsekvenser därav) avseende 
+kreditering av ett konto med ett belopp som enligt Lånevillkoren ska betalas av Agenten 
+till Fordringshavarna, under förutsättning att Agenten har vidtagit alla nödvändiga 
+åtgärder så snart det är skäligen praktiskt möjligt för att följa föreskrifter eller rutiner hos 
+ett vedertaget clearing- eller avvecklingssystem som används av Agenten för detta 
+ändamål. 
+21.8 
+Agenten ansvarar inte gentemot Bolaget eller Fordringshavarna för skada som 
+orsakats av Agenten när denne agerar i enlighet med instruktioner från 
+Fordringshavarna givna i enlighet med Lånevillkoren. 
+21.9 
+Ansvar som Bolaget ådragit sig och som uppstått genom att Agenten agerat i enlighet 
+med eller i anslutning till Lånevillkoren ska inte bli föremål för kvittning gentemot 
+Bolagets förpliktelser gentemot Fordringshavarna under Lånevillkoren.
+
+--- Page 51 ---
+51 (68) 
+22 
+TILLÄMPLIG LAG OCH JURISDIKTION  
+22.1 
+Svensk rätt ska tillämpas på Lånevillkoren och samtliga icke kontraktuella förpliktelser 
+som uppkommer i samband med tillämpning av Lånevillkoren.  
+22.2 
+Tvist ska avgöras av svensk domstol. Stockholms tingsrätt ska vara första instans. 
+____________________ 
+ 
+Härmed bekräftas att ovanstående Allmänna Villkor är för oss bindande 
+Göteborg den 12 juli 2022 
+Platzer Fastigheter Holding AB (publ) 
+ 
+ 
+________________________ 
+_______________________ 
+ 
+ 
+Namn: 
+Namn: 
+ 
+Härmed förbinder vi oss att agera i enlighet med ovanstående Allmänna Villkor i den 
+mån de hänvisar till oss 
+Stockholm den 12 juli 2022 
+INTERTRUST (SWEDEN) AB  
+såsom Agent 
+ 
+________________________ 
+_______________________ 
+Namn: 
+Namn:
+
+--- Page 52 ---
+52 (68) 
+MALL FÖR SLUTLIGA VILLKOR 
+SLUTLIGA VILLKOR 
+för lån nr [•] 
+under Platzer Fastigheter Holding AB:s (publ) ("Bolaget") 
+svenska MTN-program 
+För Lånet ska gälla Allmänna Villkor av den [25 augusti 2021]/[12 juli 2022] för ovan nämnda 
+MTN-program, jämte nedan angivna Slutliga Villkor. [Allmänna Villkor för Bolagets MTN-
+program återges i Bolagets grundprospekt daterat den 9 juli 2024 ("Grundprospektet") som 
+upprättats i enlighet med artikel 8 i Europaparlamentet och rådets förordning (EU) 2017/1129 
+av den 14 juni 2017 om prospekt som ska offentliggöras när värdepapper erbjuds till 
+allmänheten eller tas upp till handel på en reglerad marknad, och om upphävande av direktiv 
+2003/71/EG ("Prospektförordningen") (tillsammans med kommissionens delegerade 
+förordning (EU) 2019/980 av den 14 mars 2019) jämte från tid till annan publicerade 
+tilläggsprospekt som upprättats till Grundprospektet.] Definitioner som används nedan 
+framgår antingen av Allmänna Villkor, dessa Slutliga Villkor eller på annat sätt i 
+Grundprospektet.  
+Dessa Slutliga Villkor har utarbetats i enlighet med Prospektförordningen. Fullständig 
+information om Bolaget och erbjudandet kan endast fås genom Grundprospektet, dess 
+tilläggsprospekt och dessa Slutliga Villkor i kombination, varför investerare som överväger att 
+investera i MTN bör läsa dessa Slutliga Villkor tillsammans med Grundprospektet och dess 
+tilläggsprospekt. Grundprospektet samt tilläggsprospekt finns att tillgå på www.platzer.se.  
+[Dessa Slutliga Villkor ersätter Slutliga Villkor daterade den [datum], varvid Lånebeloppet 
+höjts med [SEK/EUR] [belopp i siffror] från [SEK/EUR] [belopp i siffror] till [SEK/EUR] [belopp 
+i siffror].] 
+ALLMÄNT 
+1.  
+Lånenummer: 
+[•] 
+ 
+(i)  
+Tranchebenämning: 
+[•] 
+2. 
+Lånebelopp: 
+ 
+ 
+(i)  
+för Lånet: 
+[•] 
+ 
+(ii)  för tranch [•]: 
+[(iii)  för tranch [•] (ange tidigare 
+trancher): 
+[•] 
+[•]] 
+3. 
+Pris per MTN: 
+[•] % av Nominellt Belopp[ plus upplupen ränta från 
+och med [infoga datum] om tillämpligt] 
+4. 
+Valuta: 
+[SEK]/ [EUR] 
+5. 
+Nominellt Belopp: 
+[SEK/EUR] [•] (Lägst EUR 100 000 eller motvärdet 
+därav i SEK.) 
+6. 
+Lånedatum: 
+[•] 
+7. 
+Startdag för Ränteberäkning: 
+[Lånedatum/[•]]
+
+--- Page 53 ---
+53 (68) 
+8. 
+Likviddag: 
+[Lånedatum/[•]] 
+9. 
+Återbetalningsdag: 
+[•] 
+10. 
+Räntekonstruktion: 
+[Fast Ränta] 
+[Floating Rate (FRN)] 
+[Nollkupongslån] 
+11. 
+Belopp på vilken ränta ska 
+beräknas:  
+[Nominellt Belopp/[•]] 
+12. 
+Återbetalningskonstruktion: 
+Återbetalning av Lånebelopp 
+BERÄKNINGSGRUNDER FÖR AVKASTNING 
+13. 
+Fast Ränta: 
+[Tillämpligt/Ej tillämpligt] 
+(Om ej tillämpligt, radera resterande underrubriker av 
+denna paragraf)  
+ 
+(i)  
+Räntesats: 
+[•] % årlig ränta beräknat på [Nominellt Belopp/ [•]]. 
+ 
+(ii)  Ränteperiod: 
+Tiden från den [•] till och med den [•] (den första 
+Ränteperioden) och därefter varje tidsperiod om [•] 
+månader med slutdag på en Ränteförfallodag 
+ 
+(iii)  Ränteförfallodag(ar): 
+[Årligen/Halvårsvis/Kvartalsvis] den [•], första gången 
+den [•] och sista gången den [•] 
+(Ovan förändras i händelse av förkortad eller förlängd 
+Ränteperiod) 
+ 
+(iv)  Dagberäkningsmetod: 
+30/360 [Specificera] 
+ 
+(v)     Riskfaktorer: 
+I enlighet med riskfaktorn med rubrik "Risk relaterad 
+till MTN:s räntekonstruktion" i Grundprospektet 
+14. 
+Rörlig Ränta (FRN): 
+[Tillämpligt/Ej tillämpligt] 
+(Om ej tillämpligt, radera resterande underrubriker av 
+denna paragraf) 
+ 
+(i)  
+Räntebas: 
+[•]-månader [STIBOR/EURIBOR] 
+[Den första kupongens Räntebas ska interpoleras 
+linjärt mellan [•]-månader [STIBOR/EURIBOR] och 
+[•]-månader [STIBOR/EURIBOR].] 
+ 
+(ii)  Räntebasmarginal: 
+[+/-][•] % årlig ränta beräknat på [Nominellt Belopp/[•]] 
+ 
+(iii)  Räntebestämningsdag: 
+[Två] Bankdagar före varje Ränteperiod, första 
+gången den [•] 
+ 
+(iv)  Ränteperiod: 
+Tiden från den [•] till och med den [•] (den första 
+Ränteperioden) och därefter varje tidsperiod om ca 
+[•] månader med slutdag på en Ränteförfallodag.  
+ 
+(v)  Ränteförfallodag(ar): 
+Sista dagen i varje Ränteperiod, [den [•], den [•], den 
+[•] och den [•],] första gången den [•] och sista 
+gången [den [•]/på Återbetalningsdagen]. 
+ 
+(vi)  Dagberäkningsmetod: 
+Faktisk/360 [Specificera] 
+ 
+(vii)   Riskfaktorer:  
+I enlighet med riskfaktorn med rubrik "Risk relaterad 
+till MTN:s räntekonstruktion" i Grundprospektet 
+15. 
+Nollkupongslån: 
+[Tillämpligt/Ej tillämpligt] 
+(Om ej tillämpligt, radera resterande underrubriker av 
+denna paragraf)
+
+--- Page 54 ---
+54 (68) 
+ 
+(i)  
+Villkor för Nollkupongslån: 
+[•] 
+ 
+(ii)     Riskfaktorer:  
+I enlighet med riskfaktorn med rubrik "Risk relaterad 
+till MTN:s räntekonstruktion" i Grundprospektet 
+ÖVRIGT 
+16. 
+Gröna Obligationer: 
+[Tillämpligt/Ej tillämpligt] 
+(Om ej tillämpligt, radera resterande underrubriker av 
+denna paragraf) 
+ 
+(i)  
+Villkor: 
+Gröna Villkor daterade [•] gäller för detta Lån. 
+ 
+(ii)  Riskfaktorer: 
+I enlighet med riskfaktor med rubrik ["infoga rubriken 
+på relevant riskfaktor"] i Grundprospektet. 
+17. 
+Upptagande till handel på 
+Reglerad Marknad: 
+[Tillämpligt/Ej tillämpligt] 
+(Om ej tillämpligt, radera resterande underrubriker av 
+denna paragraf) 
+ 
+(i)  Reglerad Marknad: 
+[Nasdaq Stockholm/Sustainable Bond 
+List/Specificera annan Reglerad Marknad] 
+ 
+(ii)  Uppskattning av 
+sammanlagda kostnader i 
+samband med upptagande till 
+handel: 
+[•] 
+ 
+(iii)  Totalt antal värdepapper som 
+tas upp till handel: 
+[•] 
+ 
+(iv) Tidigaste dagen för 
+upptagande till handel: 
+[•] 
+18. 
+Intressen: 
+[Ej tillämpligt/Specificera]  
+(Intressen och eventuella intressekonflikter hos 
+personer som är engagerade i emissionen och som 
+har betydelse för Lånet ska beskrivas) 
+19. 
+Kreditbetyg för Lån: 
+[Ej tillämpligt/Specificera] 
+20. 
+Datum för beslut till grund för 
+upptagande av emissionen:  
+I enlighet med Grundprospektet/Beslut avseende 
+detta Lån fattades den [infoga datum]/[Specificera] 
+21. 
+Uppskattat tillfört nettobelopp: 
+[SEK/EUR] [•] minus transaktionskostnader och 
+avgifter. 
+22. 
+Användning av tillförda medel: 
+[Allmän finansiering av Bolagets verksamhet/I 
+enlighet med de Gröna Villkor som följer av punkt 
+16/Specificera] 
+23. 
+Information från tredje part: 
+[Information i dessa Slutliga Villkor som har 
+anskaffats från en tredje part har återgivits korrekt 
+och, såvitt Bolaget känner till och kan utröna av 
+information som offentliggjorts av denna tredje part, 
+har inga sakförhållanden utelämnats som skulle göra 
+den återgivna informationen felaktig eller 
+vilseledande. Information lämnad av tredje part 
+härrör från [Specificera informationskällan/Ej 
+tillämpligt]] 
+24. 
+Utgivande Institut: 
+ 
+ 
+(i)  
+för tranch [•]: 
+Specificera (initialt, en eller flera av följande): 
+[Svenska Handelsbanken AB (publ)], [Nordea Bank
+
+--- Page 55 ---
+55 (68) 
+Abp],[Skandinaviska Enskilda Banken AB (publ)], 
+[Swedbank AB (publ)] 
+ 
+[(ii)  för tranch [•] (ange tidigare 
+trancher):] 
+[Specificera] 
+25. 
+Administrerande Institut: 
+Specificera en av följande: [Svenska Handelsbanken 
+AB (publ)], [Nordea Bank Abp],[Skandinaviska 
+Enskilda Banken AB (publ)], [Swedbank AB (publ)] 
+26. 
+ISIN: 
+SE[•]  
+ 
+Bolaget bekräftar att ovanstående kompletterande villkor är gällande för Lånet tillsammans 
+med Allmänna Villkor och förbinder sig att i enlighet därmed erlägga kapitalbelopp och (i 
+förekommande fall) ränta. Bolaget bekräftar vidare att alla väsentliga händelser efter den dag 
+för detta MTN-program gällande Grundprospekt som skulle kunna påverka marknadens 
+uppfattning om Bolaget har offentliggjorts. 
+Göteborg den [•] 
+Platzer Fastigheter Holding AB (publ)
+
+--- Page 56 ---
+56 (68) 
+MALL FÖR EFTERLEVANDEINTYG 
+Till: Intertrust (Sweden) AB 
+Från: Platzer Fastigheter Holding AB (publ) 
+Datum: [●] 
+ 
+Platzer Fastigheter Holding AB (publ):s MTN-program  
+Vi hänvisar till allmänna villkor daterade [25 augusti 2021]/[12 juli 2022] ("Allmänna Villkor"). 
+Detta är ett Efterlevandeintyg, termer som definieras i Allmänna Villkor ska ha samma 
+innebörd när de används i detta Efterlevandeintyg. 
+Detta Efterlevandeintyg avser [alla utestående Lån]/[Lån vilka inte uppnått relevant rating 
+enligt punkt [10.3]/[11.3] (b)(ii) i Allmänna Villkor] under detta MTN-program och utställs i 
+samband med publicering av finansiella rapporter. 
+Vi bekräftar per Kvartalsdatum [●] att: 
+(i) 
+Soliditeten uppgick till [●] 
+Eget kapital:  
+Balansomslutning:  
+(ii) 
+Belåningsgraden var [●] 
+Räntebärande skulder: 
+Fastigheternas värde: 
+Vi bekräftar för den 12-månaders perioden som avslutas per Kvartalsdatum [●] att: 
+(i) 
+Räntetäckningsgraden var [●] 
+ Resultat efter finansiella intäkter och tomträttsavgäld: 
+Räntekostnader: 
+Vi bekräftar att ingen uppsägningsgrund enligt Allmänna Villkor avsnitt [11]/[12] (Uppsägning 
+av Lån) har inträffat eller föreligger. 
+Platzer Fastigheter Holding AB (publ) 
+________________________ 
+ 
+Namn: 
+ 
+ 
+VD för  
+ 
+Platzer Fastigheter Holding AB (publ) eller genom fullmakt
+
+--- Page 57 ---
+57 (68) 
+INFORMATION OM PLATZER 
+Allmän information om Platzer och Koncernen 
+Platzer är ett publikt aktiebolag, vars associationsform regleras av den svenska 
+aktiebolagslagen (2005:551). Platzers företagsnamn är Platzer Fastigheter Holding AB (publ) 
+(tillika kommersiella beteckning), med organisationsnummer 556746-6437. Platzer bildades 
+den 4 december 2007 och registrerades hos Bolagsverket den 14 december 2007. Styrelsen 
+för Platzer har sitt säte i Göteborg, Sverige, och har postadress Box 211, 401 23 Göteborg, 
+Sverige. Platzer kan kontaktas på telefonnummer +46(0)31-63 12 00. Bolagets LEI-nummer 
+är 5493009KPII4BZE70820. Platzers B-aktier är noterade på Nasdaq Stockholm, och handlas 
+sedan januari 2024 på Mid Cap under kortnamnet PLAZ B. 
+Bolagets hemsida är www.platzer.se. Informationen på Bolagets hemsida ingår inte i 
+Grundprospektet såvida denna information inte har införlivats i Grundprospektet genom 
+hänvisning (se avsnittet "Handlingar införlivade genom hänvisning" nedan). Informationen på 
+hemsidan har inte granskats eller godkänts av Finansinspektionen. 
+Platzer har till föremål för sin verksamhet att direkt eller genom hel- eller delägda dotterbolag, 
+förvärva, äga, förvalta, utveckla och försälja fast egendom och värdepapper samt att bedriva 
+därmed förenlig verksamhet. 
+Platzers verksamhet  
+Om Platzer 
+Platzer är ett fastighetsbolag som förvaltar, utvecklar, förvärvar och försäljer kommersiella 
+fastigheter för långsiktig utveckling, framförallt kontor samt industri och logistik med visionen 
+"Vi ska göra Göteborg till Europas bästa stad att arbeta i". Platzers affärsidé är att skapa värde 
+genom att äga och utveckla kommersiella fastigheter i Göteborgsområdet. Platzers fastigheter 
+är koncentrerade till utvalda fokusområden i Göteborg där staden växer, dels i av staden 
+prioriterade kollektivtrafiknav, dels i av Platzer prioriterade utvecklingsområden. Platzers 
+koncentrationsstrategi innebär en tydlig områdesfokusering där Bolaget strävar efter att vara 
+den ledande aktören i samtliga prioriterade områden.  
+Koncernens fastighetsbestånd 
+Platzer agerar på två marknader: lokalhyresmarknaden och fastighetsmarknaden i Göteborg. 
+Både hyres- och fastighetsmarknaden är i sin tur indelade i segment. Platzer är huvudsakligen 
+verksamt inom segmenten kontors-, industri- och logistikfastigheter. Platzer arbetar med 
+utveckling på tre nivåer från åtgärder i befintliga byggnader till hela områden genom 
+fastighetsutveckling, projektutveckling och stadsutveckling.  
+Per den 30 juni 2024 ägde Koncernen 88 fastigheter varav fem var delägda fastigheter som 
+redovisas som intresseföretag, motsvarande ett totalt fastighetsvärde om 28 432 Mkr exklusive 
+intresseföretag. Av det totala värdet av Koncernens fastighetsbestånd per den 30 juni 2024 
+var 72 procent hänförligt till kontor, 22 procent hänförligt till industri/logistik och 6 procent 
+hänförligt till projekt. I fastighetsbeståndet ingår 21 projektfastigheter, varav två är delägda. 
+Platzers fastighetsbestånd är uppdelat i tre geografiska kontorssegment samt i industri/logistik
+
+--- Page 58 ---
+58 (68) 
+och projektfastigheter. De geografiska kontorssegmenten är Kontor centrala Göteborg 
+(Almedal, Centrum, Gårda, Lilla Bommen, Masthugget och Medicinareberget), Kontor 
+norra/östra Göteborg (Backaplan, Gamlestaden, Lindholmen och Mölnlycke) och Kontor 
+södra/västra Göteborg (Högsbo och Mölndal). Platzers logistik- och industrifastigheter finns i 
+mindre centrala delar av staden, strategiskt placerade nära viktiga transportleder. Platzers 
+starkaste position inom logistik och industri är i Arendal och Torslanda i direkt närhet till 
+Göteborgs hamn som är Nordens största hamn.  
+Affärsområden och organisation 
+Platzers verksamhet är indelad i två affärsområden baserad på fastighetstyper: affärsområde 
+kontor och affärsområde industri/logistik. Varje affärsområde har ett helhetsansvar för 
+fastighetsaffären vilket innebär att varje affärsområde har ansvar för bland annat mark, 
+byggnader, hyresgäster och fastighetsutveckling inom respektive affärsområde. Till sitt stöd 
+har affärsområdena koncerngemensamma funktioner samt koncernledningen. Idag består 
+koncern- 
+och 
+stabsfunktionerna 
+av 
+verksamhetsutveckling/it/inköp, 
+affärsutveckling, 
+ekonomi/finans/fastighetsanalys, 
+kommunikation/marknad/hållbarhet, 
+HR, 
+affärsområde 
+kontor och affärsområde industri/logistik. Per den 30 juni 2024 uppgick antalet anställda i 
+Koncernen till 86 personer. Organisationen arbetar utifrån kärnvärdena Frihet under ansvar, 
+Långsiktig utveckling och Öppenhet. Bolagets kontor finns i Lilla Bommen, Göteborg, i en av 
+Platzer ägd fastighet. 
+Strategi  
+Platzers strategi, som fokuserar på områdena Områdesutveckling, Tillväxt, Kund, 
+Medarbetare/organisation och Finans, är följande: 
+• 
+Genom att ta en ledande position i utvalda delmarknader tar Platzer ansvar för att 
+utveckla områden där människan är i centrum, hållbar utveckling uppnås och Europas 
+bästa arbetsplatser finns. 
+• 
+Skapa lönsam tillväxt genom värdeskapande förvaltning i egenägda fastigheter, aktiv 
+fastighets-, projekt- och stadsutveckling och strategiska fastighetstransaktioner. 
+• 
+Skapa långsiktiga kundrelationer genom att ta initiativ, förutse och möta kundens behov 
+i varje skede av kundresan. 
+- 
+Göra det lätt för kunden att välja genom tydligt paketerade erbjudanden. 
+- 
+Behålla kunder genom ett professionellt bemötande i vardagen. 
+• 
+Skapa en av branschens bästa arbetsplatser genom att attrahera, utveckla och behålla 
+medarbetare med olika bakgrund och erfarenhet, som arbetar tillsammans utifrån våra 
+kärnvärden. 
+• 
+Finansieringen ska stödja hållbar tillväxt, i första hand utan aktieägartillskott, och 
+finansieringskostnaden ska vara effektiv över tid där Investment Grade-rating bibehålls. 
+Finansiella mål  
+• 
+Soliditeten: >30 procent 
+• 
+Belåningsgraden: över tid inte överstiga 50 procent  
+• 
+Ökning av substansvärde: >10 procent per år (långsiktigt, EPRA NRV)
+
+--- Page 59 ---
+59 (68) 
+• 
+Räntetäckningsgrad: >2 ggr 
+• 
+Investeringsvinst i projektinvesteringar: >20 procent  
+Koncernstruktur  
+Platzer Fastigheter Holding AB (publ) är moderbolag i Koncernen som per den 30 juni 2024 
+bestod av sju direkt och 116 indirekt ägda dotterbolag exklusive intresseföretag. Platzer äger 
+sina fastigheter genom dotterbolag, varför Platzer är beroende av dotterbolagens förmåga att 
+generera vinst.  
+Större aktieägare  
+I tabellen nedan anges Bolagets fem största aktieägare sett till andel röster per den 31 maj 
+2024.  
+Ägare 
+Antal A-aktier 
+Antal B-
+aktier 
+Röster, % 
+Kapital, %  
+Neudi & C:o AB  
+11 000 000 
+7 000 000 
+39,0 
+15,0 
+Länsförsäkringar 
+Göteborg och 
+Bohuslän 
+5 000 000 
+11 375 112 
+20,5 
+13,7 
+Länsförsäkringar 
+Skaraborg 
+4 000 000 
+2 468 000 
+14,2 
+5,4 
+Familjen Hielte / 
+Hobohm 
+- 
+18 055 993 
+6,0 
+15,1 
+Länsförsäkringar 
+fondförvaltning AB 
+- 
+10 263 176 
+3,4 
+8,6 
+ 
+Inget bolag har bestämmande inflytande över Platzer Fastigheter Holding AB (publ). Neudi & 
+C:o, Länsförsäkringar Göteborg och Bohuslän samt Länsförsäkringar Skaraborg har dock 
+betydande inflytande över Bolaget och kan genom sina röstandelar komma att utöva inflytande 
+över Platzer i frågor som är föremål för aktieägarnas beslutsfattande vid bolagsstämma, till 
+exempel vid val av styrelse. Aktieägarnas inflytande över Platzer begränsas av 
+aktiebolagslagens bestämmelser om minoritetens rättigheter.
+
+--- Page 60 ---
+60 (68) 
+STYRELSE, LEDANDE BEFATTNINGSHAVARE OCH REVISOR  
+Styrelsen 
+Styrelsen i Platzer består av följande personer: 
+Henrik Forsberg Schoultz, Styrelseordförande 
+Betydande uppdrag utanför Platzer: VD i Neudi & C:o AB. Styrelseledamot i CellMark 
+Investment AB, Ernströmgruppen AB och Apotea AB.  
+Eric Grimlund, Styrelseledamot 
+Betydande uppdrag utanför Platzer: Advokat, Polaris Advokatbyrå HB.  
+Anneli Jansson, Styrelseledamot 
+Betydande uppdrag utanför Platzer: VD i Humlegården Fastigheter AB. Styrelseledamot i 
+Catella AB, Wihlborgs Fastigheter AB och Centrum för AMP.  
+Anders Jarl, Styrelseledamot 
+Betydande uppdrag utanför Platzer: Styrelseordförande i Wihlborgs Fastigheter AB. 
+Styrelseledamot i Brinova Fastigheter AB och Malmö Cityfastigheter AB.  
+Ricard Robbstål, Styrelseledamot 
+Betydande uppdrag utanför Platzer: VD i Länsförsäkringar Göteborg och Bohuslän. 
+Styrelseordförande i Länsförsäkringar Göteborg och Bohuslän Fastigheter AB och LFGB 
+Innovation AB. Styrelseledamot i Länsförsäkringar AB, Skadedjursbekämpning i Väst AB, 
+Delsjö Golf AB, Svenska Sjöräddningssällskapet, LFant AB, LF Göteborg Trygghetstjänster 
+AB och Supersejf AB.  
+Maximilian Hobohm, Styrelseledamot 
+Betydande uppdrag utanför Platzer: Styrelseledamot i Hobohm Brothers Equity AB, Nordpolen 
+Ventures AB, AH Automation AB, Stockholms reparationsvarv AB och Neudi Holding AB. Del 
+av ägarfamiljen Hobohm/Hielte, ägare av Neudi & C:o AB. Även Investment manager, Lazarus 
+Industriförvaltning AB 
+Ledande befattningshavare 
+Johanna Hult-Rentsch, VD 
+Betydande uppdrag utanför Platzer: Styrelseledamot i Västsvenska Handelskammaren. 
+Fredrik Sjudin, CFO 
+Betydande uppdrag utanför Platzer: Styrelseledamot i EPRA, R&A Committee.  
+Kristina Arelis, Kommunikations- och marknadschef 
+Betydande uppdrag utanför Platzer: - 
+Mikael Dotevall, Affärsområdeschef Kontor 
+Betydande uppdrag utanför Platzer: - 
+Caroline Norström, t.f. Affärsområdeschef Kontor 
+Betydande uppdrag utanför Platzer: -
+
+--- Page 61 ---
+61 (68) 
+Karin Pull, HR-chef 
+Betydande uppdrag utanför Platzer: Styrelseledamot i Almega fastighetsarbetsgivarna. 
+Karoliina Callavik, Verksamhetsutvecklingschef 
+Betydande uppdrag utanför Platzer: Styrelseledamot i Lexium Service Management AB och 
+Capulum Group AB. 
+Henrik Axelsson, Affärsområdeschef industri/logistik och t.f. Affärsutvecklingschef 
+Betydande uppdrag utanför Platzer: - 
+Marcus Sandahl, Sälj och uthyrningschef 
+Betydande uppdrag utanför Platzer: - 
+Marie Teike, tillträdande Affärsutvecklingschef1 
+Betydande uppdrag utanför Platzer: - 
+ 
+ 
+ 
+ 
+1 Marie Teike kommer att tillträda rollen som affärsutvecklingschef på Platzer i augusti 2024.
+
+--- Page 62 ---
+62 (68) 
+Övrig information om styrelsen och ledande befattningshavare 
+Ingen styrelseledamot eller ledande befattningshavare har något personligt intresse som kan 
+strida mot Platzers intressen. 
+Flera styrelseledamöter och ledande befattningshavare har finansiella intressen i Platzer, som 
+en konsekvens av att de äger aktier i Platzer. Några av styrelseledamöterna och de ledande 
+befattningshavarna har även uppdrag/befattningar i andra bolag inom fastighetsbranschen. 
+Platzer gör inte bedömningen att dessa förhållanden leder till intressekonflikter mellan berörda 
+styrelseledamöters och ledande befattningshavares personliga intressen å ena sidan och 
+Platzers intressen å andra sidan.  
+För ytterligare information om styrelseledamöterna och de ledande befattningshavarna, såsom 
+utbildning, 
+aktieinnehav 
+och 
+oberoende, 
+se 
+Platzers 
+hemsida 
+www.platzer.se. 
+Styrelseledamöterna och de ledande befattningshavarna kan kontaktas genom Bolagets 
+postadress, Box 211, 401 23 Göteborg. 
+Revisorer  
+Det registrerade revisionsbolaget Öhrlings PricewaterhouseCoopers AB har varit Bolagets 
+revisor sedan 2008, och omvaldes vid årsstämman 2024 för tiden intill slutet av årsstämman 
+2025. Sedan 2020 är den auktoriserade revisorn Johan Rippe huvudansvarig revisor. Johan 
+Rippe är medlem i FAR, branschorganisationen för revisorer i Sverige. Adressen till revisorn 
+är Öhrlings PricewaterhouseCoopers, Masthamnsgatan 1, 413 29 Göteborg.
+
+--- Page 63 ---
+63 (68) 
+ÖVRIG INFORMATION 
+Beslut och ansvarsförsäkran 
+Platzers styrelse beslutade att etablera MTN-programmet den 24 februari 2021. Den 4 juli 
+2024 förnyade styrelsen sitt beslut genom att besluta om det nuvarande MTN-programmet. 
+Platzer ansvarar för innehållet i Grundprospektet och enligt Platzers kännedom 
+överensstämmer den information som ges i Grundprospektet med sakförhållandena och ingen 
+uppgift som sannolikt skulle kunna påverka dess innebörd har utelämnats. I den omfattning 
+som följer av lag eller tillämpligt regelverk ansvarar även styrelsen i Platzer för innehållet i 
+Grundprospektet. 
+Information om trender och väsentliga förändringar i Platzers finansiella ställning  
+Sedan den 30 juni 2024 (vilket är utgången av den senaste räkenskapsperioden för vilken 
+finansiell information har offentliggjorts) har det inte skett några betydande förändringar av 
+Platzers eller Koncernens finansiella ställning eller resultat sedan utgången av den senaste 
+räkenskapsperioden för vilken finansiell information har offentliggjorts och inte heller har några 
+händelser inträffat som kan ha en väsentlig inverkan på Platzers solvens.   
+Det har inte skett några väsentliga negativa förändringar i Platzers framtidsutsikter sedan 
+årsbokslutet för 2023 (vilket är det senaste offentliggjorda reviderade årsbokslutet).  
+Väsentliga avtal  
+Inom ramen för den löpande verksamheten ingår Platzer hyresavtal, entreprenadavtal, 
+förvärvs- och försäljningsavtal samt kreditavtal med banker varigenom Platzer får tillgång till 
+kreditfaciliteter, byggnadskreditiv och checkräkningskrediter. Inga av dessa bedöms dock ha 
+ingåtts utanför ramen för Platzers normala verksamhet och kunna medföra att en medlem av 
+Koncernen har en skyldighet eller rättighet som är väsentlig för Platzers förmåga att fullgöra 
+sina skyldigheter gentemot innehavare av Obligationer. 
+Myndighetsförfaranden, rättsliga förfaranden och skiljeförfaranden  
+Varken Platzer eller dess dotterbolag är, eller har under de senaste tolv månaderna varit, part 
+i något myndighetsförfarande, rättsligt förfarande eller skiljeförfarande som har haft, eller skulle 
+ha, en betydande inverkan på Koncernens finansiella ställning eller lönsamhet. Platzer känner 
+inte heller till några sådana förfaranden som väntar eller hotar, och som kan leda till att Platzer 
+eller dess dotterbolag blir part i sådana förfaranden. 
+Emissionsinstituten 
+Emissionsinstituten har inte verifierat innehållet i Grundprospektet och ansvarar inte för dess 
+innehåll. Vissa av Emissionsinstituten, inklusive ledarbanken Svenska Handelsbanken AB 
+(publ), tillhandahåller, och kan i framtiden komma att tillhandahålla, olika bank- och 
+finansieringstjänster till Platzer för vilka banken får, och i framtiden kan komma att få, 
+ersättning. Det kan alltså finnas, eller komma att uppstå, intressekonflikter.
+
+--- Page 64 ---
+64 (68) 
+Kostnader 
+Platzer står för samtliga kostnader i samband med upptagande till handel av Obligationer 
+utgivna under MTN-programmet såsom kostnader för framtagande av prospekt, upptagande 
+till handel på Nasdaq Stockholms Corporate Bonds List eller Sustainable Bonds List, 
+lånedokumentation, avgifter till Euroclear Sweden med mera. 
+Finansinspektionens godkännande av Grundprospektet 
+Detta Grundprospekt har godkänts av Finansinspektionen, som behörig myndighet enligt 
+förordning (EU) 2017/1129. Finansinspektionen godkänner detta Grundprospekt enbart i så 
+måtto att det uppfyller de krav på fullständighet, begriplighet och konsekvens som anges i 
+förordning (EU) 2017/1129. Detta godkännande bör inte betraktas som något slags stöd för 
+Platzer eller kvaliteten på de värdepapper som avses i detta Grundprospekt. Investerare bör 
+göra sin egen bedömning av huruvida det är lämpligt att investera i dessa värdepapper. 
+Grundprospektets giltighetstid 
+Grundprospektet är giltigt under en tid av tolv månader efter godkännandet, förutsatt att det 
+kompletteras med tillägg när så krävs enligt artikel 23 i Prospektförordningen. MTN kan ges ut 
+under Grundprospektets giltighetstid. Platzer har inga skyldigheter att tillhandahålla tillägg till 
+Grundprospektet i fall det uppkommer eller uppmärksammas nya omständigheter av 
+betydelse, sakfel eller väsentliga felaktigheter efter Grundprospektets giltighetstid.
+
+--- Page 65 ---
+65 (68) 
+HANDLINGAR INFÖRLIVADE GENOM HÄNVISNING 
+Handlingarna nedan som tidigare har offentliggjorts av Platzer införlivas genom hänvisning 
+och ska läsas som en del av Grundprospektet. Investerare bör ta del av all den information 
+som införlivas i Grundprospektet genom hänvisning. De sidor i handlingar nedan som inte 
+införlivas genom hänvisning är inte relevanta för upprättandet av ett grundprospekt enligt 
+gällande prospektförordning.  
+Årsredovisning 2022 
+Sida 
+Resultaträkning 
+51 
+Balansräkning 
+52 
+Förändringar i eget kapital 
+53 
+Kassaflödesanalys 
+54 
+Bokslutskommentarer och noter 
+58 
+Redovisningsprinciper 
+58 
+Revisionsberättelse 
+84 
+ 
+ 
+Årsredovisning 2023  
+ 
+Resultaträkning 
+29 
+Balansräkning 
+30 
+Förändringar i eget kapital 
+31 
+Kassaflödesanalys 
+32 
+Bokslutskommentarer och noter 
+36 
+Redovisningsprinciper 
+36 
+Revisionsberättelse 
+62 
+ 
+ 
+Delårsrapport för perioden januari-juni 2024 
+ 
+Resultaträkning 
+12 
+Balansräkning  
+14 
+Förändringar i eget kapital 
+15 
+Kassaflödesanalys 
+18 
+Redovisningsprinciper 
+23 
+ 
+Utöver årsredovisningarna för 2022 och 2023 har ingen del av Grundprospektet eller övriga 
+handlingar reviderats av Platzers revisor. Delårsrapporten för perioden januari-juni 2024 har 
+ej varit föremål för granskning av Bolagets revisor. 
+Platzers koncernredovisning för 2022 och 2023 är upprättade i enlighet med International 
+Financial Reporting Standards (IFRS) och sådana de antagits av EU, RFR 1 "Kompletterande 
+redovisningsregler för koncerner" samt årsredovisningslagen. Årsredovisningen för 
+moderbolaget i Platzer-koncernen, Platzer Fastigheter Holding AB (publ), är upprättad i 
+enlighet med årsredovisningslagen och med tillämpning av Rådet för finansiell rapporterings 
+rekommendation RFR 2 Redovisning för juridiska personer.  
+Den information som har införlivats genom hänvisning finns tillgänglig på Platzers hemsida 
+www.platzer.se, och kan beställas från Platzer genom adressen Box 211, 401 23 Göteborg 
+eller på telefonnummer +46 (0) 31 – 63 12 00.
+
+--- Page 66 ---
+66 (68) 
+Tidigare Allmänna Villkor 
+I syfte att underlätta utökningar av Lån utgivna under tidigare grundprospekt har följande villkor 
+införlivats i detta Grundprospekt och ska läsas som en del därav: 
+Allmänna villkor daterade 25 augusti 2021 som återfinns i Bolagets grundprospekt daterat 25 
+augusti 2021. 
+Tillgängliga handlingar 
+Kopior av följande handlingar kommer finnas tillgängliga för inspektion hos Platzer på 
+adressen Lilla Bommen 8, 411 04 Göteborg under Grundprospektets giltighetstid: (i) Platzers 
+bolagsordning, (ii) Platzers registreringsbevis, (iii) Grundprospektet, inklusive de handlingar 
+som har införlivats genom hänvisning och Slutliga Villkor för varje emission av Obligationer, 
+samt (iv) i förekommande fall, tilläggsprospekt till Grundprospektet.  
+Informationen under (i)-(iv) och samtliga dokument som genom hänvisning ingår i 
+Grundprospektet finns även tillgängliga på Platzers hemsida www.platzer.se.
+
+--- Page 67 ---
+67 (68) 
+ADRESSER 
+ 
+Emittent 
+Platzer Fastigheter Holding AB (publ)  
+Box 211 
+401 23 Göteborg 
+Hemsida: www.platzer.se 
+Tel: 031-63 12 00 
+ 
+Ledarbank 
+Svenska Handelsbanken AB (publ) 
+Blasieholmstorg 11,  
+106 70 Stockholm 
+Hemsida: www.handelsbanken.se  
+Tel: 08-701 10 00 
+ 
+För köp och försäljning kontakta 
+Svenska Handelsbanken AB (publ)  
+Blasieholmstorg 11  
+106 70 Stockholm  
+Hemsida: www.handelsbanken.se  
+Credit Sales 08-463 46 50  
+ 
+Nordea Bank Abp  
+Nordea Markets  
+Smålandsgatan 17  
+105 71 Stockholm  
+Hemsida: www.nordeamarkets.com/svm  
+08-407 90 85  
+08-407 91 11  
+08-407 92 03 
+ 
+Skandinaviska Enskilda Banken AB (publ) 
+Debt Capital Markets  
+Kungsträdgårdsgatan 8  
+106 40 Stockholm  
+Hemsida: www.seb.se  
+08-506 232 19  
+08-506 230 61 
+ 
+Swedbank AB (publ) 
+Corporates & Institutions 
+105 34 Stockholm 
+Hemsida: www.swedbank.se  
+MTN-Desk 08-700 99 85  
+Stockholm 08-700 99 98  
+Göteborg 031-739 78 20
+
+--- Page 68 ---
+68 (68) 
+Central värdepappersförvaltare 
+Euroclear Sweden AB  
+Box 191  
+101 23 Stockholm 
+Hemsida: www.euroclear.com/sweden 
+Tel: +46(0)8 402 90 00 
+ 
+Revisor 
+Öhrlings PricewaterhouseCoopers AB 
+Masthamnsgatan 1 
+405 32 Göteborg  
+ 
+Legal rådgivare till Platzer 
+Advokatfirman Cederquist KB 
+Box 1670 
+111 96 Stockholm

@@ -1,0 +1,3797 @@
+--- Page 1 ---
+Base Prospectus 
+Kongsberg Gruppen ASA 
+Kongsberg, 09th of July 2021
+
+--- Page 2 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 2 of 58 
+ 
+Important information* 
+The Base Prospectus is based on sources such as annual reports and publicly available information 
+and forward-looking information based on current expectations, estimates and projections about 
+global economic conditions, the economic conditions of the regions and industries that are major 
+markets for the Company's (including subsidiaries and affiliates) lines of business.  
+ 
+A prospective investor should consider carefully the factors set forth in section 1 Risk factors, and 
+elsewhere in the Prospectus, and should consult his or her own expert advisers as to the suitability of 
+an investment in the bonds. 
+ 
+IMPORTANT – EEA RETAIL INVESTORS - If the Final Terms in respect of any notes includes a legend 
+titled "Prohibition of Sales to EEA Retail Investors", the notes are not intended to be offered, sold or 
+otherwise made available to and should not be offered, sold or otherwise made available to any 
+retail investor in the EEA. For these purposes, a retail investor means a person who is one (or more) 
+of: (i) a retail client as defined in point (11) of Article 4(1) of MiFID II; (ii) a customer within the 
+meaning of Directive 2002/92/EC (as amended or superseded, the "Insurance Mediation Directive"), 
+where that customer would not qualify as a professional client as defined in point (10) of Article 4(1) 
+of MiFID II; or (iii) not a qualified investor as defined in the Prospectus Regulation (EU) 2017/1129. 
+Consequently no key information document required by Regulation (EU) No 1286/2014 (as amended, 
+the "PRIIPs Regulation") for offering or selling the Notes or otherwise making them available to retail 
+investors in the EEA has been prepared and therefore offering or selling the Notes or otherwise 
+making them available to any retail investor in the EEA may be unlawful under the PRIIPS Regulation.  
+MiFID II product governance / target market – The Final Terms in respect of any notes will include a 
+legend titled "MiFID II product governance" which will outline the target market assessment in 
+respect of the notes and which channels for distribution of the notes are appropriate. Any person 
+subsequently offering, selling or recommending the notes (a “distributor”) should take into 
+consideration the target market assessment; however, a distributor subject to MiFID II is responsible 
+for undertaking its own target market assessment in respect of the Notes (by either adopting or 
+refining the target market assessment) and determining appropriate distribution channels. 
+ 
+Copies of this Base Prospectus are not being mailed or otherwise distributed or sent in or into or 
+made available in the United States. Persons receiving this document (including custodians, 
+nominees and trustees) must not distribute or send such documents or any related documents in or 
+into the United States. Other than in compliance with applicable United States securities laws, no 
+solicitations are being made or will be made, directly or indirectly, in the United States. Securities will 
+not be registered under the United States Securities Act and may not be offered or sold in the United 
+States absent registration or an applicable exemption from registration requirements. Furthermore, 
+the Company has not registered the Bonds under any other country's securities laws other than 
+Norway. It is each Bondholder's obligation to ensure that the offers and sales of its Bonds comply 
+with applicable securities laws and regulations. 
+ 
+The distribution of the Base Prospectus may be limited by law also in other jurisdictions, for example 
+in Canada, Japan and in the United Kingdom. Verification and approval of the Base Prospectus by the 
+Norwegian FSA (“Finanstilsynet”) implies that the Registration Document may be used in any EEA 
+country. No other measures have been taken to obtain authorisation to distribute the Base 
+Prospectus in any jurisdiction where such action is required.  
+ 
+The Base Prospectus has been approved by the Norwegian FSA, as competent authority under 
+Regulation (EU) 2017/1129. The Base Prospectus was approved on 09th of July 2021. The Base 
+Prospectus is valid for 12 months from the approval date.
+
+--- Page 3 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 3 of 58 
+ 
+Table of Contents 
+1. 
+Risk factors ...................................................................................................................................... 4 
+2. 
+Definitions ..................................................................................................................................... 17 
+3. 
+Persons responsible ...................................................................................................................... 19 
+4. 
+Statutory Auditors ........................................................................................................................ 20 
+5. 
+Information about the Issuer ....................................................................................................... 21 
+6. 
+Business overview ........................................................................................................................ 22 
+7. 
+Trend information ......................................................................................................................... 28 
+8. 
+Profit Forecasts and Estimates ..................................................................................................... 28 
+9. 
+Administrative, management and supervisory bodies ............................................................... 29 
+10. Major Shareholders ........................................................................................................................ 34 
+11. 
+Financial information concerning the Issuer’s assets and liabilities, financial position and 
+profits and losses .................................................................................................................................. 35 
+12. 
+Regulatory disclosures .............................................................................................................. 37 
+13. 
+Material contracts .................................................................................................................... 44 
+14. 
+Documents on display .............................................................................................................. 44 
+15. 
+Financial instruments that can be issued under the Base Prospectus .................................... 45 
+Cross reference list ............................................................................................................................... 56 
+Appendix 1: Articles of Association...................................................................................................... 57 
+Appendix 2: Template of Final Terms for Fixed and Floating bond issues ......................................... 58
+
+--- Page 4 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 4 of 58 
+ 
+1. Risk factors 
+Investing in bonds issued by Kongsberg Gruppen ASA involves inherent risk. The risks and 
+uncertainties described in the Base Prospectus are risks of which the Company is aware and that the 
+Company considers to be material to its business. If any of these risks were to occur, the Company’s 
+business, financial position, operating results or cash flows could be materially adversely affected, 
+and the Company could be unable to pay interest, principal or other amounts on or in connection 
+with the bonds. Before making an investment decision, investors should carefully consider the risk 
+factors and all information contained in this Prospectus, including the Financial Information and 
+related notes. An investment in bonds issued by the Company is suitable only for investors who 
+understand the risks associated with this type of investment and who can afford to lose all or part of 
+their investment.  
+ 
+1.1 Risk factors related to the Company 
+ 
+Risk factor 
+Description 
+1a 
+Risks related to the various markets in which KONGSBERG operates 
+I 
+Lower demand products and 
+services within maritime  
+The maritime sector is generally exposed to market and 
+transition risk, especially related to oil and gas business. 
+The uncertainty surrounding future developments in oil 
+prices affects investment levels in several segments 
+KONGSBERG operate in, which consequently may 
+decrease demand for KONGSBERG’s products and 
+services. Continuous low ship building across maritime 
+segments may also have a direct impact on demand for 
+KONGSBERG’s products and services. Decrease in 
+demand and greater competition in the maritime 
+sector, may have an adverse effect on the Group’s sale, 
+profits and order intake.   
+II 
+Export and trading restrictions  Export control regulations and sanctions may result in 
+uncertainty relating to market opportunities. 
+KONGBSERG in 2020 saw that there was an increased 
+attention on the restriction of exports of technology 
+products through export control regulations, and 
+combined with the ongoing trade war between the U.S. 
+and China, the risk linked to restrictions on market 
+access and sanctions is somewhat higher than before. If 
+further restrictions are set, it will have a significant 
+impact on KONGSBERG’s ability to deliver its products, 
+and access markets. 
+III 
+Lower defence spending  
+If countries choose to limit their defence spending, it 
+may impact KONGSBERG’s ability to secure new 
+contracts within defence which may consequently 
+affect the Group’s business, results of operations, cash 
+flow, and financial condition. 
+IV 
+The Covid-19 outbreak  
+The COVID-19 outbreak has created lower activity 
+among customers and suppliers, travel restrictions and 
+an increased risk of delays for KONGSBERGs projects. If 
+temporary closures of countries and a lack of inputs 
+continue, it may have an adverse effect on the Group’s 
+sales, profits and order intake.  
+V 
+Cyclical fluctuations  
+Both economic change in general and market specific 
+economic change influence the industries and markets
+
+--- Page 5 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 5 of 58 
+ 
+in which KONGSBERG operates. These include defence 
+spending by sovereign states and maritime investments 
+within oil/gas, fisheries, wind offshore and contracting 
+of new vessels, which all typically includes equipment 
+and services provided by KONGSBERG. The market 
+specific change is especially evident in the maritime 
+sector where downturns has a direct impact on 
+KONGSBERG’s performance and growth as a supplier of 
+maritime solutions. The decrease in demand for 
+offshore oil and gas, and seaborne trades will materially 
+affect KONGSBERGs business, result of operations, cash 
+flow, financial condition and/or prospect.   
+VI 
+Increased competition  
+Increased competition in the markets which 
+KONGSBERG operates, may lead to reduced profitability 
+and/or expansion opportunities, including its market 
+shares and competitive position. Lower shipbuilding 
+activity has led to increased competition. More 
+challenging oil and gas fields, increased sustainability 
+requirements and significant focus on costs in the 
+industry in general create new opportunities in the 
+market, which in turn creates the need for new 
+technological solutions. This will affect the Group’s 
+business, results of operations, cash flow, and financial 
+condition. 
+ 
+Consolidations among companies operating in the same 
+markets as KONGSBERG, especially within maritime, 
+increases the threat of being marginalized. If 
+KONGSBERG is unable to follow the shift in technology 
+within their markets, it may eventually marginalise and 
+reduce KONGSBERG’s competitive position. This will 
+affect the Group’s business, results of operations, cash 
+flow, and financial condition. 
+1b 
+Risks related to KONGSBERG’s business 
+I 
+Future business performance  
+KONGSBERG’s revenues are derived from contractual 
+arrangements and its business areas use various 
+contractual formats. KONGSBERG delivers a large 
+variety of products and services both in respect to size, 
+contract period and complexity, and to different 
+segments. Agreed contract terms might imply risk of 
+losses upon cancellation of contracts, or consequential 
+damages for any dysfunctionality of the product or 
+services. Contract losses could also materialise as a 
+result of cost overrun of fixed price contracts. Some of 
+KONGSBERG’s contracts are long term frame 
+agreement that contain no or limited minimum 
+purchase obligations, and there are no assurances that 
+any revenue will be derived from such contracts.  
+ 
+During periods of challenging market conditions, such 
+as in the event of COVID-19, KONGSBERG may be
+
+--- Page 6 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 6 of 58 
+ 
+subject to an increased risk of its customers seeking to 
+repudiate or delay commencement of their contracts or 
+cancel their contracts with the Company.  
+ 
+If these risks materialise, it would have an adverse 
+effect on KONGSBERG’s business and reduce their 
+backlog, cash flow and profitability. 
+II 
+Ability to develop and 
+innovate  
+As a technology company it is important that 
+KONGSBERG keeps developing and innovating its 
+existing and future product and service portfolio to 
+maintain and improve its market positions. Lack of 
+innovation and development may decrease 
+KONGSBERG’s capability to acquire markets, specifically 
+within markets with high digitalisation. If KONGSBERG 
+does not invest sufficiently to innovate and develop its 
+current and future products and services, addresses the 
+needs of the customers, and anticipates and responds 
+to major changes in technology and industry standards 
+within a timely manner, it may see KONGSBERG 
+struggle to maintain its market positions. 
+ 
+If KONGSBERG is not successful in acquiring new 
+equipment or upgrading its existing systems and 
+solutions, or the technical skill set of its employees, on 
+a timely and cost-effective basis in response to 
+technological developments or changes in industry 
+standards, it could have a material adverse effect on 
+the Group’s business, cash flows, financial condition 
+and/or prospects. 
+III 
+Corruption   
+KONGSBERG operates in both the defence industry and 
+the oil and gas industry, which, according to 
+Transparency International, are two of the sectors most 
+susceptible to corruption. The use of third parties, such 
+as market representatives, is generally known to imply 
+risk of corruption. As a result, KONGSBERG pays 
+particular attention to that aspect in its Anti-Corruption 
+Programme. 
+ 
+Before KONGSBERG enters into an agreement with a 
+business partner (customer, supplier, market 
+representative, joint venture partner, other 
+collaboration partner, recipient of sponsorship or 
+charitable contributions), KONGSBERG must be certain 
+that the business partner has satisfactory ethical 
+standards in place. KONGSBERG uses a risk-based 
+approach, which includes Compliance Due Diligence 
+investigations. 
+ 
+If by any means the Anti-Corruption Programme and 
+other measures fail to prevent corruption in 
+KONGSBERG or through its business partners, it may
+
+--- Page 7 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 7 of 58 
+ 
+have an adverse effect on KONGSBERG’s reputation, 
+liabilities and financial condition. 
+IV 
+International operations  
+KONGSBERG’s global operational presence means that 
+the Company is subject to various risks and 
+uncertainties relating to its international operations. 
+Risks include potential political and economic 
+uncertainty, impact of exchange rate fluctuations, price 
+controls, corruption, nationalisation, expropriation, 
+regulatory changes, trade protection measures and 
+barriers, export duties and quotas, governmental 
+restrictions and devaluations, punitive or unpredictable 
+taxation, restriction on the ability to repatriate 
+dividends from subsidiaries, and changes in law and 
+governmental policy. 
+ 
+Financial risks of operating in emerging markets also 
+include risks related to inflation, devaluation, price 
+volatility, currency convertibility and country default.   
+ 
+Negative consequences in the event of these risks 
+occurring may limit KONGSBERG’s ability to transact 
+business in current or future markets.  
+V 
+IT and cyber security 
+KONGSBERG relies on IT systems to achieve its business 
+objectives. KONGSBERG is constantly exposed to 
+external threats associated with data security due to 
+the nature of the being a high-tech company, as well as 
+the industries we operate in. There is a risk of virus 
+attacks, hacking attempts, social manipulation and 
+phishing scams, as well as theft of intellectual property 
+or sensitive information belonging to KONGSBERG, its 
+business partners and customers. 
+ 
+KONGSBERG provides hardware and software products, 
+solutions and services that involve IT systems. 
+KONGSBERG has a Cyber Security Centre to ensure that 
+both KONGSBERG and its business partners are 
+protected. Failure or disruption of KONGSBERG’s cyber 
+security measures and systems to perform as 
+anticipated for any reason could disrupt KONGSBERG’s 
+business and result in decreased performance, 
+significant remediation costs, transaction errors, loss of 
+data, loss of sensitive information, processing 
+inefficiencies, downtime, litigation, and the loss of 
+suppliers or customers. 
+VI 
+Failures, undetected errors or 
+defects  
+KONGSBERG’s engagements involve projects and 
+services that are critical to the customer’s operations. 
+Any failure in an infrastructure component or 
+application that is designed, built, supported, operated, 
+or previously supported and operated, could result in 
+claim for substantial damages against KONGSBERG 
+and/or significant reputational harm. The Group
+
+--- Page 8 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 8 of 58 
+ 
+attempts to contractually limit its liability for damages 
+arising from negligent acts, errors, mistakes or omission 
+rendering its services and solutions. However, there are 
+no assurances that such damages are subject to a 
+contractual limitation on liability.  
+ 
+If errors and defects are detected on KONGSBERG’s 
+products, systems and solutions, it could result in a 
+delay of market acceptance of the relevant products, 
+systems or solutions, adverse client reactions, negative 
+publicity and damage the Group’s reputation. It would 
+also reduce KONGSBERG’s operating revenue, increase 
+service and warranty costs, and affect KONGSBERG’s 
+financial position. 
+VII 
+Failure to complete parts of 
+projects  
+KONGSBERG depends on several suppliers and sub-
+contractors for the supply of consumables, spare parts 
+and equipment to operate, maintain, repair, upgrade 
+and deliver its products, systems and services. Certain 
+parts and equipment that KONGSBERG uses as part of 
+its operation and deliveries may only be available from 
+a small number of suppliers, manufacturers, sub-
+contractors or service providers. Disruptions from such 
+third parties can possibly involve capacity constraints, 
+production disruption, price increases, quality control 
+issues, recalls and decreased availability of part and 
+equipment.  
+ 
+In the event that any of these disruptions occur, it may 
+have a significant effect on KONGSBERG’s ability to 
+meet its commitments to customers which again may 
+impact KONGSBERG’s operations negatively, increase 
+costs and cut revenues. 
+VIII 
+Loss of key personnel  
+KONGSBERG depend on its retention of key personnel 
+and its ability to recruit, retain and develop skilled 
+personnel for its business. The demand for personnel 
+with the capabilities and experience required in the 
+technology industry is high, and success in attracting 
+and retaining such employees is not guaranteed. 
+Shortages of qualified personnel or KONGSBERG’s 
+inability to obtain and retain qualified personnel may 
+have a material adverse effect on the Company’s ability 
+to perform and deliver products and service to 
+customers. 
+ 
+KONGSBERG’s operations depend on the availability, 
+retention and relative cost of labour, and maintaining 
+good relations with employees and labour unions. 
+Labour interruptions such as strikes or other labour 
+disputes, may have material adverse effect on the 
+operations.
+
+--- Page 9 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 9 of 58 
+ 
+IX 
+Risks in joint ventures  
+KONGSBERG conducts a portion of its operations 
+through joint ventures, where control may be shared 
+with unaffiliated third parties. These joint ventures are 
+described further in section 6, Business Overview, of 
+the Base Prospectus. As with any joint venture 
+arrangement, differences in views among the 
+shareholders may result in delayed decisions or in 
+failures to agree on major items. KONGSBERGs 
+obligations in respect of, and its ability to receive any 
+dividends from, its joint ventures depends on the terms 
+and conditions of its shareholders' agreements and its 
+relationships with the joint venture partners.  
+ 
+KONGSBERG also cannot control the actions of its joint 
+venture partners, including any non-performance, 
+default or bankruptcy of such partners.  
+ 
+If KONGSBERGs partners do not meet their contractual 
+obligations, the joint venture may be unable to 
+adequately perform and deliver its contracted services, 
+requiring KONGSBERG to make additional investments 
+or perform additional services to ensure the adequate 
+performance and delivery of services. KONGSBERG may 
+be liable for both its own obligations and those of its 
+partners, which may result in reduced profits or, in 
+some cases, significant losses on the project. 
+Additionally, these factors could have a material 
+adverse effect on the business operations of the joint 
+venture and, in turn, KONGSBERG’s business 
+operations, reputation, results of operations, cash 
+flows, financial condition and/or prospects.  
+ 
+The joint ventures that KONGSBERG does not control 
+may make business, financial or investment decisions 
+contrary to KONGSBERGs interests, strategy or 
+decisions, different from those, which KONGSBERG 
+itself may have made. This may expose KONGSBERG to 
+additional operational, financial, legal or compliance 
+risks. 
+1c 
+Risk related to the industry 
+I 
+Political influence and 
+governmental regulations  
+KONGSBERG through its majority shareholder, the 
+Norwegian state through the Ministry of Trade, Industry 
+and Fisheries, regulates KONGSBERG’s involvement 
+with foreign governments and defence contracts. 
+Norway’s alliance with other countries will have a direct 
+impact as to which nations and governments 
+KONGSBERG can sign a contractual agreement to 
+deliver products and solutions.  Due to governmental 
+process and scrutiny of defence contracts, KONGSBERG 
+may risk not be awarded certain defence contracts
+
+--- Page 10 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 10 of 58 
+ 
+which may have an adverse effect on the Company’s 
+business. 
+II 
+Environmental regulations  
+Within the maritime industry, KONGSBERG’s customers 
+are subject to environmental regulations pursuant to a 
+variety of international conventions and state and 
+municipal laws and regulations. Changes in climate 
+policy could result in changes to constraints, such as 
+more stringent legislation or an increase in carbon 
+pricing with the aim of reducing emissions. This can give 
+negative effects, particularly in oil & gas sector, and for 
+specific segments as cruise ships. With stricter 
+standards and enforcements within environmental 
+legislation, KONGSBERG may risk an increase in the cost 
+of operating its units or otherwise materially adversely 
+affect its business, profitability, cash flows and financial 
+condition. 
+III 
+Media coverage  
+A part of KONGSBERG’s business involves military 
+defence, which may be subject to scrutiny from the 
+public and media. If there is negative media coverage of 
+the defence industry and it is sustained, it may damage 
+KONGSBERG reputation. 
+1d 
+Risk related to financing  
+I 
+Fluctuations in foreign 
+exchange rates  
+The Group has a high proportion of its revenues from 
+contracts in currencies other than NOK, with a relatively 
+low proportion of procurement in the same currency. 
+The individual business areas identify exposure for each 
+contract, whilst the centralised treasury department 
+offers financial instruments that reduces currency risk.  
+ 
+The Group’s financial policy states that contracts above 
+a certain threshold shall be currency hedged upon 
+establishment, and these are primarily hedged using 
+currency forward exchange contracts towards the 
+entity’s functional currency. The Group will normally 
+have some open currency exposure related to smaller 
+contracts, as well as other revenues and costs in foreign 
+currency. This exposure is reduced as far as possible 
+through frequent spot transactions and by keeping the 
+exposure period short. Cash holdings in currency 
+considered to be part of the businesses’ working capital 
+are normally not hedged.  
+ 
+KONGSBERG has its highest exposure towards US 
+dollars and euros, but also some exposures towards 
+other currencies. Future cash flows from entities 
+outside of Norway to its shareholders, with functional 
+currency other than NOK (net investment hedging) are 
+normally not hedged.  
+ 
+The NOK value of future income and expenses in 
+foreign currencies are impacted by both current
+
+--- Page 11 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 11 of 58 
+ 
+exchange rates, the differences in interest rates as well 
+as time discrepancies that may occur due to timing 
+between the actual income and expense and its 
+corresponding hedge instrument.  
+ 
+Hedges may from time to time be extended or 
+contracted to match the maturity date of the hedge 
+instrument with the timing of the cash flow of the 
+underlying hedge object. Such extension of contraction 
+is typically executed by means of FX swaps, and may 
+result in significant cash inflows or outflows that 
+KONGSBERG may have insufficient liquidity to handle.  
+ 
+KONGSBERG hedges major parts of its FX exposure, 
+however the remaining exposure may have materially 
+adverse effect on KONGSBERG’s business and financial 
+condition.  
+II 
+Additional capital needs  
+To the extent KONGSBERG does not generate sufficient 
+cash from operations, it may need to raise additional 
+funds through debt or equity to execute KONGSBERG’s 
+strategy and to fund capital expenditures. Adequate 
+sources of capital may not be available when needed or 
+may not be available on favourable terms. 
+KONGSBERGs ability to obtain such additional capital or 
+financing will depend upon prevailing market conditions 
+as well as the condition of the business and its 
+operating results.  
+ 
+If funding is insufficient at any time in the future, 
+KONGSBERG may be unable to fund maintenance 
+requirements and acquisitions, take advantage of 
+business opportunities or respond to competitive 
+pressures, any of which could adversely impact 
+KONGSBERG’s business, result of operation, cash flow, 
+financial condition and/or prospects. 
+III 
+Constraints from debt 
+arrangements  
+As of 2020, the book value of KONGSBERGs current and 
+non-current borrowings was NOK 3,471 million. The 
+current indebtedness and future indebtedness of 
+KONGSBERG could affect its operations, as a portion of 
+KONGSBERG’s cash flow from operations will be 
+dedicated to the payment of interest and principal on 
+such debt.  
+ 
+KONGSBERG’s loan agreements include financial 
+covenants. These covenants may limit KONGSBERG’s 
+flexibility in planning for, and reacting to, changes in its 
+business and limit its ability to dispose assets or use the 
+proceeds from such disposals, withstand current or 
+future economic and industry downturns, or compete 
+for strategic opportunities.
+
+--- Page 12 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 12 of 58 
+ 
+IV 
+Adoption of EU Taxonomy  
+The introduction of EU Taxonomy has created an 
+increased focus from regulations and financial markets 
+on companies’ contribution to reduce emissions, 
+including its governance performance. If KONGSBERG is 
+not able to abide by the EU Taxonomy framework and 
+its requirement of financial reporting in respect to 
+sustainability, or if KONGSBERG does not see any 
+adjustments and more transitional arrangements 
+included in the framework today, it may have an effect 
+on how KONGSBERG rates as compared to other 
+companies. A poor rating may consequently cause 
+adversity from possible investors from investing in the 
+Company’s securities. 
+V 
+Compliance of restrictions and 
+financial covenants of 
+indebtedness 
+If KONGSBERG is unable to comply with restrictions and 
+the financial covenants in agreements governing its 
+indebtedness there could be a default under the terms 
+of these agreements, which could result in an 
+acceleration of repayment of borrowed funds. 
+KONGSBERG’s ability to comply with such restrictions 
+and covenants, including meeting financial ratios and 
+measures, is dependent on its future performance. 
+ 
+If a default occurs under these agreements, lenders 
+could terminate their commitments to lend or 
+accelerate the outstanding loans and declare all 
+amounts borrowed due and payable. Borrowings under 
+debt arrangements that contain cross-acceleration or 
+cross-default provisions may also be accelerated and 
+become due and payable. In addition, KONGSBERG’s 
+financing agreements include change of control 
+provisions which if triggered could result in 
+KONGSBERG having to immediately prepay all amounts, 
+including interest accrued, under the relevant facility. If 
+any of these events occur, KONGSBERG cannot 
+guarantee that its assets will be sufficient to repay in 
+full all of its outstanding indebtedness, and the 
+Company may be unable to find alternative financing at 
+acceptable terms.  
+ 
+The occurrence of such events may have material 
+adverse effect on KONGSBERGs business, results of 
+operations, cash flows, financial condition and/or 
+prospects. 
+VI 
+Ability to repatriate cash from 
+subsidiaries 
+The cash that KONGSBERG receives from its subsidiaries 
+is the principal source of funds necessary to meet its 
+obligations. Contractual provisions or laws, including 
+laws or regulations related to the repatriation of foreign 
+earnings, as well as KONGSBERG’s subsidiaries' financial 
+condition and, operating requirements, potential 
+restrictive covenants in future debt arrangements and 
+debt requirements, may limit KONGSBERG’s ability to
+
+--- Page 13 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 13 of 58 
+ 
+obtain cash from subsidiaries or joint ventures that is 
+required to pay its expenses or meet its current or 
+future debt service obligations, or to pay dividends to 
+its shareholders.  
+ 
+While KONGSBERG as or the date of the Base 
+Prospectus was subject to any restrictions materially 
+limiting its ability to transfer cash from its subsidiaries 
+or joint ventures, KONGSBERG may become subject to 
+such restrictions in the future. If such restrictions occur, 
+KONGSBERG may not be able to make necessary 
+transfers from its subsidiaries in order to provide funds 
+for the payment of its obligations, for which 
+KONGSBERG is or may become responsible under the 
+terms of the governing agreements of KONGSBERG’s 
+indebtedness. A payment default by KONGSBERG, or 
+any of the Group's subsidiaries, on any debt instrument 
+would have a material adverse effect on KONGSBERG’s 
+business, results of operations, cash flows, financial 
+condition and/or prospects.  
+VII 
+Fluctuations in interest rates  
+KONGSBERG is primarily exposed to interest rate 
+changes as a result of the financing of the business and 
+the management of liquidity. As of the date of the Base 
+Prospectus all bonds and deposits in money market 
+funds are in NOK. The bonds have been issued with 
+both fixed and floating interest rates, whereas the 
+money market deposits have floating interest rates. 
+Deposits in the Group’s cash pool or with other banks 
+are subject to floating interest rate. If the interest rate 
+increases, it may have adverse effect on the business 
+and financial conditions. 
+VIII 
+Failure to fulfil contractual 
+obligations by customers  
+Due to the COVID-19 outbreak, there is a greater risk of 
+the cancellation of customer contracts and late, or non-
+payments, as a result of large parts of KONGBSERGs 
+customer base being affected by the pandemic, which 
+could lead to the increased risk of losses on accounts 
+receivable, goods, project assets and currency futures 
+for KONGSBERG. 
+1e 
+Risks related to tax and legal matters 
+I 
+Changes in the tax regimes  
+KONGSBERG is subject to taxation by Norwegian tax 
+authorities and the relevant governmental authorities 
+in the other countries in which KONGSBERG operate 
+through various subsidiaries. Tax laws and regulations 
+may be complex and subject to interpretation and 
+change. Any change in taxation regime or interpretation 
+of present tax regulations may affect the payable or 
+deferred taxes of KONGSBERG, and thereby have a 
+material adverse effect on the Company’s business, 
+results of operations, cash flows, financial condition 
+and/or prospects.
+
+--- Page 14 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 14 of 58 
+ 
+II 
+Legal disputes 
+KONGSBERG may from time to time be involved in legal 
+disputes. KONGSBERG could be involved in criminal or 
+civil proceedings relating to product liability, 
+environmental, safety, competition or anti-bribery 
+regulations, and other types of dispute, and may be 
+liable for the cost of defending such disputes in court, 
+as well as the cost of any fines imposed on us. If this 
+would occur, it would have adversely effect on 
+KONGSBERG’s financial condition. 
+1f 
+Risks related to climate policy and strategy 
+I 
+Increased focus on climate 
+and zero-emission  
+KONGSBERG may be exposed to transition and market 
+risk in the maritime sector in relation to the increased 
+focus on climate and zero-emission society, especially 
+related to the oil and gas business. These risks may in 
+turn impact the demand for KONGSBERG’s products 
+and services. If KONGSBERG cannot offer innovative 
+products and technologies which reduce carbon 
+emissions for customers, it may have an adverse effect 
+on KONGSBERGs ability to be positioned right when the 
+shift to zero-emission society occurs, which will 
+consequently affect KONGSBERGs current market 
+shares negatively.   
+II 
+Demand for climate 
+accounting  
+There is an increased external focus and demand from 
+customers, investors and regulators for more details in 
+the current climate accounting’s report. If KONGSBERG 
+is not able to create a new climate strategy with 
+ambitions and targets for reductions in own operations 
+and supply chain that adheres to the external demand, 
+it may have an adverse effect on KONGSBERGs ability to 
+attract new customers, investors and financing.  
+ 
+1.2 Risk factors related to the Bonds 
+Bonds may be purchased to reduce risk or enhance yield with an understood, measured and 
+appropriate addition of risk to the investor's overall portfolio. A potential investor should not invest 
+in Bonds unless the investor has the expertise to evaluate how the Bonds will perform under 
+changing conditions, the resulting effects on the value of the Bonds and the impact the investment 
+will have on the potential investor's overall investment portfolio.  
+ 
+ 
+Risk factor 
+Description 
+I 
+Inability to repay the Bonds 
+The ability of the Issuer to make principal or interest 
+payments when due in respect to the Bonds will 
+depend on the Group’s financial performance and its 
+ability to generate cash flow from operations. 
+KONGSBERG is subject to several risks, as listed in 
+section 1.1, which can all affect the Group’s ability to 
+generate cash flow, and consequently its capacity to 
+service its debt.  
+ 
+If the Group is unable to generate sufficient cash flow 
+to service its indebtedness it may be required to adopt 
+an alternative strategy that may include actions such as
+
+--- Page 15 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 15 of 58 
+ 
+reducing or delaying capital expenditures, selling assets, 
+restructuring, refinancing indebtedness, or seeking 
+equity capital. The Group cannot assure investors that 
+any of these alternative strategies could be affected on 
+satisfactory terms, if at all, or that they would yield 
+sufficient funds to make scheduled payments on the 
+Bonds. 
+II 
+Subordination  
+The secured creditors of the Issuer will have priority 
+over the assets securing their debt. Due to this, there is 
+a risk that KONGSBERG’s senior secured lenders may 
+enforce their security against the interest of the 
+Bondholders, without consulting them. Any assets 
+remaining after repayment of the Issuer’s secured debt 
+may not be sufficient to repay all amounts owing under 
+the Bonds. 
+III 
+Market value fluctuations 
+The market value of the Bonds may decrease or 
+fluctuate due to a number of interrelated factors, 
+including economic, financial and political events in 
+Norway and elsewhere, as well as factors affecting 
+capital markets generally and Oslo Stock Exchange 
+specifically, where the Bonds will be listed.  
+ 
+Furthermore, any change in market sentiment 
+regarding KONGSBERG may be due to speculation 
+about the Group’s business in media or in the 
+investment community, changes in the Group’s profit 
+estimates, and changes in general market conditions. If 
+any of these factors occur, the pricing of the Bonds 
+could be materially and adverse affected. 
+IV 
+Terms of Bond agreement  
+The terms and conditions of the Bond Agreements 
+allows for modifications of the Bonds or waivers or 
+authorisations of breaches and substitution of 
+KONGSBERG which, in certain circumstances, may be 
+affected without consent of the Bondholders. The Bond 
+Agreements contain provisions for calling meetings of 
+Bondholders to consider matters affecting their 
+interests generally. These provisions permit defined 
+majorities to bind all Bondholders, including 
+Bondholders who did not attend and vote at the 
+relevant meeting, and Bondholders who voted in the 
+manner contrary to the majority.  
+ 
+The Bond Trustee, as trustee on behalf of the 
+Bondholders, may without consent of Bondholders, 
+agree to certain modifications of the Bond Agreement 
+and other Finance Documents (as defined in the Bond 
+Agreement) which, in the opinion of the Bond Trustee, 
+are proper to make. Any such amendments may be 
+disadvantageous to Bondholders.  
+V 
+Change of Control  
+Upon the occurrence of a Change of Control Event or a 
+De-listing (as such term is defined in the Bond
+
+--- Page 16 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 16 of 58 
+ 
+Agreements), each individual Bondholder shall, subject 
+to certain conditions being met, have the right to 
+require that the Company purchases some or all of the 
+Bonds held by that Bondholder at a price equal to 101% 
+of par (plus accrued and unpaid interest). However, it is 
+possible that KONGSBERG will have insufficient funds at 
+the time of the relevant Change of Control Event or De-
+listing to repurchase the Bonds. The KONGSBERG’s 
+failure to repurchase the Bonds would constitute an 
+event of default under the Bond Agreements.
+
+--- Page 17 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 17 of 58 
+ 
+2. Definitions 
+ 
+Annual Report 2020  
+Kongsberg Gruppen ASA’s Annual Report and 
+Sustainability Report 2020 
+ 
+Base Prospectus 
+Document approved by Norwegian FSA 09th of July 
+2021 included Form Final Terms. The Base Prospectus 
+is valid for 12 months from the approval date. In this 
+period, the Prospectus together with new Final Terms 
+for each new bond issue which is issued as specified in 
+EU Prospectus Regulation 2017/1129. New 
+information of material importance to the Company, 
+its subsidiaries or the Base Prospectus’ general terms 
+and conditions may be known after the publication of 
+the Prospectus, but before listing of securities as 
+specified in EU Prospectus Regulation 2017/1129. 
+ 
+B.Sc: 
+ 
+Bachelor of Science 
+ 
+CEO: 
+Chief Executive Officer 
+ 
+CFO: 
+Chief Financial Officer 
+ 
+Company/Issuer/KONGSBERG/Kongsberg 
+Gruppen ASA: 
+Kongsberg Gruppen ASA, a Norwegian company 
+organized under the laws of Norway 
+ 
+EVP: 
+Executive Vice President 
+ 
+Final Terms: 
+Document describing the Bonds as specified in EU 
+Prospectus Regulation 2017/1129, prepared as a part 
+of the Base Prospectus. Final Terms will be prepared 
+for each new Bond Issue issued by the Company as 
+specified in EU Prospectus Regulation 2017/1129. 
+ 
+Group: 
+ 
+ICT 
+Issuer and its subsidiaries 
+ 
+Information and Communication Technology 
+ 
+KDA: 
+Kongsberg Defence & Aerospace 
+ 
+KDI: 
+Kongsberg Digital 
+ 
+KM: 
+Kongsberg Maritime 
+ 
+KONGSBERG: 
+Same as “Kongsberg Gruppen ASA”. All business areas 
+and other operations: KDA, KDI, KM, real estate 
+business and corporate staff. More information under 
+section 6.1 
+ 
+M.Sc: 
+ 
+Master of Science
+
+--- Page 18 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 18 of 58 
+ 
+MTIF: 
+Ministry of Trade, Industry and Fisheries  
+ 
+P.hD: 
+Doctoral Degree 
+ 
+R&D 
+Research and Development
+
+--- Page 19 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 19 of 58 
+ 
+3. Persons responsible 
+ 
+3.1 Persons responsible for the information 
+Persons responsible for the information given in this Prospectus are as follows:  
+Kongsberg Gruppen ASA, Kirkegårdsveien 45, 3616 Kongsberg, Norway  
+Post address: P.O. Box 1000, 3601 Kongsberg, Norway 
+ 
+3.2 Declaration of responsibility 
+The Company accepts responsibility for the information contained in this Base Prospectus. The 
+Company confirms that, after having taken all reasonable care to ensure that such is the case, the 
+information contained in this Base Prospectus is, to the best of its knowledge, in accordance with the 
+facts and contains no omission likely to affect its import. 
+ 
+ 
+ 
+Kongsberg, 09th of July 2021 
+ 
+Kongsberg Gruppen ASA 
+ 
+         
+ 
+ 
+Geir Håøy 
+Chief Executive Officer 
+ 
+ 
+ 
+3.3 Competent Authority Approval 
+Kongsberg Gruppen ASA confirms:  
+I. 
+the Base Prospectus has been approved by the Finanstilsynet, as competent authority under 
+Regulation (EU) 2017/1129;  
+ 
+II. 
+the Finanstilsynet only approves this Base Prospectus as meeting the standards of 
+completeness, comprehensibility and consistency imposed by Regulation (EU) 2017/1129;  
+ 
+III. 
+such approval shall not be considered as an endorsement of the issuer that it the subject of 
+this Base Prospectus.  
+ 
+IV. 
+investors should make their own assessment as to the suitability of investing in the 
+securities. 
+ 
+V. 
+the Base Prospectus has been drawn up as part of a simplified prospectus in accordance with 
+Article 14 of Regulation (EU) 2017/1129.
+
+--- Page 20 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 20 of 58 
+ 
+4. Statutory Auditors 
+The statutory auditor for the Issuer for the period covered by the historical financial information in 
+this Base Prospectus has been Ernst & Young AS, independent public accountants. 
+ 
+Ernst & Young AS is member of The Norwegian Institute of Public Accountants (Norwegian: Den 
+Norske Revisorforeningen).
+
+--- Page 21 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 21 of 58 
+ 
+5. Information about the Issuer 
+ 
+5.1 Legal and commercial name of the Issuer 
+The legal name of the Issuer is Kongsberg Gruppen ASA, and the commercial name of the issuer is 
+Kongsberg Gruppen. 
+ 
+5.2 Domicile and legal form 
+The Company is domiciled and incorporated in Norway. The Company is a public limited liability 
+company incorporated under the laws of Norway, including the Public Limited Companies Act. The 
+Company’s registered business address is Kirkegårdsveien 45, 3616 Kongsberg, Norway, and is 
+registered postal address is P.O. Box 1000, 3601 Kongsberg, Norway. The Company’s LEI code is 
+5967007LIEEXZXJ9HK73.  
+ 
+The Company’s telephone number is +47 32 28 82 00. 
+ 
+The Company’s website is www.kongsberg.com. The information on this website does not form part 
+of the Base Prospectus unless that information is incorporated by reference into the Base 
+Prospectus.
+
+--- Page 22 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 22 of 58 
+ 
+6. Business overview 
+ 
+6.1 Introduction 
+KONGSBERG (Kongsberg Gruppen ASA) is an international technology group that delivers solutions 
+that improve safety, security and performance in complex operations and under extreme conditions. 
+KONGSBERG works with demanding customers in the global defence, maritime, oil and gas, fisheries 
+and aerospace sectors. KONGSBERG is represented in 40 countries, employing approximately 10 700 
+people as of 2020.  
+ 
+ 
+The Group is divided into three business areas and other operations. The three business areas are 
+Kongsberg Defence & Aerospace (KDA), Kongsberg Maritime (KM) and Kongsberg Digital (KDI). Other 
+operations mainly include real estate business and the corporate staff. The real estate business build 
+and owns buildings which they rent out, primarily internally but also to external parties. The 
+corporate staff provides group governance and support functions to the business areas, the CEO, the 
+Board and various councils and committees. The three business areas are described further below in 
+section 6.2.
+
+--- Page 23 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 23 of 58 
+ 
+ 
+In 2020, Kongsberg Maritime accounted for 64% of the Group's total revenue and Kongsberg Defence 
+& Aerospace accounted for 33%. Kongsberg Digital and other activities, accounted for the remaining 
+3%.  
+ 
+KONGSBERG is headquartered in Kongsberg, Norway, where Group Management is based, and has 
+been listed on the Oslo Stock Exchange since 1993. The Norwegian state, represented by the 
+Norwegian Ministry of Trade, Industry and Fisheries (MTIF), is the largest shareholder with 50.004% 
+of the KONGSBERG shares. 
+ 
+6.2 Overview of the Group’s business areas 
+ 
+6.2.1 Kongsberg Defence & Aerospace 
+Kongsberg Defence & Aerospace (KDA) is an equipment and service supplier within defence, 
+surveillance, space and aerostructures, with activities spanning from underwater to surface, land and 
+air to space. KDA also has an operation doing maintenance, repair and overhaul for aircrafts and 
+helicopters. The main divisions and products of Kongsberg Defence & Aerospace are described 
+below.  
+ 
+Integrated Defence Systems 
+The Integrated Defence Systems division supplies air defence system in NASAMS (Norwegian-
+Advanced-Surface-to-Air-Missile-System), monitoring systems and artillery firepower, as well as land- 
+and vessel-based combat systems. The division has a strategic cooperation agreement with Raytheon 
+for NASAMS and with thyssenkrupp Marine Systems (tkMS) in kta naval systems AS, a joint venture 
+which supplies combat systems for tkMS’ submarines for the international market. NASAMS is the 
+world’s most widely sold air defence system in its class, with 15 countries on the client list. The 
+division is also set to supply a mobile surface-to-air defence system to the Norwegian Armed Forces, 
+along with the ICT solution for the Norwegian Armed Forces’ new artillery and upgraded tanks. At the 
+end of 2020, Hungary signed its contract for NASAMS worth EUR 410 million. 
+ 
+Land Systems 
+From 1 January 2020, the Protech Systems and Defence Communications divisions were merged to 
+form the Land Systems division. Land Systems is a supplier of remote weapons stations, radios and 
+radio communication. These weapons stations enable soldiers to operate from a protected position 
+inside the vehicle. In 2020, the division marked the delivery of remote weapon station no. 20,000 
+and has customers in 25 countries. In 2020, the U.S. Marine Corps chose the MCT-30 (Medium 
+Caliber Turret), a 30 mm turret system based on the same technology as PROTECTOR RWS (Remote
+
+--- Page 24 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 24 of 58 
+ 
+Weapon Station). Since the first station was produced in the early 2000s, the division has delivered 
+stations with a value of more than BNNOK 40. The division’s radios are used in advanced 
+tactical communication systems (K-TaCS). Typical applications for K-TaCS are Air Defence Systems, 
+Wide Area Networks for Army, and Command, Control, Communications, Computers and Intelligence 
+(C4I) networks. K-TaCS are used in more than 30 countries. 
+ 
+Missile Systems 
+The Missile Systems division has more than 50 years’ experience from a variety of missile 
+programmes. Products include Penguin Anti-Ship Missile (Penguin), the Naval Strike Missile (NSM) 
+and the Joint Strike Missile (JSM).   
+ 
+The Naval Strike Missile (NSM) is a flexible missile system which can be launched from a variety of 
+platforms against a variety of targets. The NSM is in operational use in Norway and Poland and has 
+also been sold to Malaysia and USA. It has also been selected to be the future missile system for the 
+German Navy. In 2018 the U.S. Navy selected NSM for its OTH programme (Over-The-Horizon 
+Weapon-System), and the missile is also selected by the U.S. Marine Corps.  
+ 
+The Joint Strike Missile (JSM) is a fifth-generation cruise missile designed for anti-ship and land 
+missions. JSM includes advanced mission planning systems to exploit sea and land geography. In 
+addition, it employs an accurate navigation system and low altitude flight profile. The JSM range 
+allows for launch platform survivability and flexible mission routing to enhance survivability and 
+mission success. The JSM is suitable for the jet aircraft F-35A, and for all variants external carry and 
+other fixed wing and maritime patrol aircrafts. 
+ 
+Aerostructures and maintenance  
+The Aerostructures division delivers maintenance services through Kongsberg Aviation Maintenance 
+Services (KAMS), and also produce composite structures and metallic alloy assemblies and details. 
+The division’s capabilities range from design, prototyping and industrialisation, to mass production 
+for aerospace and other high-performing markets. Activities range from manufacturing of parts for 
+the F-35, missiles and helicopters, to mechanical production for the NASAMS air defence system, and 
+the maintenance of dynamic components for helicopters. Through KAMS, KONGSBERG is positioned 
+into the maintenance market for aircraft and helicopters in the Nordic region and Northern Europe. 
+KAMS is jointly owned by KDA, which owns 50.1 per cent, and Patria, who owns the remaining 49.9 
+per cent.  
+ 
+Space & Surveillance  
+The Space & Surveillance division supplies a broad spectrum of equipment, systems and services 
+linked to space and maritime surveillance in more than 40 countries. It also includes equipment and 
+components for launch vehicles and communication, navigation and earth observation satellites in 
+addition to space probes for space exploration. Space & Surveillance works with customers such as 
+the European Space Agency (ESA), NASA (National Aeronautics and Space Administration) and Rocket 
+Lab, as well as major players such as Airbus, Thales and Raytheon. KDA is through the ownership in 
+KSAT, a supplier of ground stations for downloading and processing satellite data, as well as a service 
+provider of satellite data from ground stations in Svalbard, Antarctica and many other locations.  
+ 
+Patria  
+The Finnish company Patria is an international supplier of systems and services for defence, security 
+and aviation. The company specialises in maintenance services and covers all defence aspects within 
+MRO (Maintenance, Repair and Overhaul). Patria has approximately 3,000 employees and owns 50 
+per cent of the shares in Nammo. KONGSBERG holds 49.9 per cent of the shares in Patria, and the 
+Finnish state controls the remaining ownership stake.
+
+--- Page 25 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 25 of 58 
+ 
+6.2.2 Kongsberg Maritime 
+Kongsberg Maritime (KM) develops and delivers integrated vessel concepts to a wide range of vessels 
+within the offshore, seaborne, passenger, offshore production, LNG, research and fishery vessel 
+segments, and specialised solutions for oil and gas offshore installations. KM supplies products and 
+systems for advanced mapping surveying, sonars, underwater communication and marine robotics 
+(Unmanned Surface Vessel (USV) and Autonomous Underwater Vehicle (AUV)) for, among other 
+things, research, fishing and defence vessels, as well as aquaculture installations. KM has around 
+seven thousand employees and presence in 34 countries. Over 30,000 vessels worldwide are fitted 
+with equipment supplied by KM.  
+ 
+The main divisions and products of KM are described below.  
+ 
+Integrated Solutions (ISOL) 
+In the ISOL division, they work with the integration of products from all KM divisions as means to 
+offer customers operational benefits on their vessel. Through digital platforms and applications, ISOL 
+enables vessels and shipping companies to exploit the opportunities within digitalisation for 
+environmentally friendly, efficient and safe operation. The division is also developing ship design in 
+cooperation with shipping companies which have demanding requirements regarding efficiency and 
+safety.  
+ 
+Global Customer Support (GCS) 
+GCS supports KM’s customers globally through a worldwide network of more than a thousand service 
+engineers, technical support, part sales and sales to the after-market. GCS works with KM’s 
+customers throughout the lifetime of vessels to ensure cost-effective upgrades, safe operation and 
+environmentally sustainable solutions adapted to the vessel’s operating profile. KM’s sustainable 
+solutions and services are based on many years of experience of products and systems from bridge 
+to propeller. The solutions KM provide involves batteries, propulsion, deck machinery, ship design, 
+control systems, dynamic positioning, electrical engineering and energy management. Through 
+KONGSBERG’s digital solutions, KM can offer support and service without needing to board the 
+vessel. This as a result safeguards the vessel’s uptime and offers environmental benefits too. 
+ 
+Sensors & Robotics 
+Sensor & Robotics delivers sensor solutions that are key to mapping, monitoring and understanding 
+the ocean space. This contributes to safe and reliable control of vessels operating on and beneath 
+the surface of the sea. The portfolio also includes solutions for communication above and below 
+water. The division also offers a range of robotised platforms, such as the AUV called Hugin, and is 
+also working on a range of solutions that will offer major environmental benefits. The cooperation 
+with Jotun’s Hull Skating Solution is one example of this. This is a remotely operated robot for the 
+inspection and preventive cleaning of ships. Cloud-based monitoring and control solutions are also 
+becoming an increasingly important part of the operating systems for KM’s sensors and robotised 
+solutions. 
+ 
+Propulsion & Engines 
+KM is a global supplier of propulsion systems through the Propulsion & Engine division. With a global 
+delivery chain and production in three Nordic countries, KM has delivered over 25,000 thrusters 
+since it began around 80 years ago, along with 11,000 water jets. Product development takes place in 
+collaboration with both customers and leading universities.  
+ 
+In Sweden, the division has a dedicated hydrodynamic research laboratory. The product areas are 
+propeller/reduction gears, thrusters, electrical pods and water jets for offshore, trade and defence 
+markets. KM also acts as the sales channel for engines manufactured by Rolls-Royce Bergen Engines.
+
+--- Page 26 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 26 of 58 
+ 
+Deck Machinery & Motion Control (DMMC) 
+In DMMC, KM offers a range of products and systems within deck machinery, from winches to 
+mooring and anchor handling, to specialised winches and handling systems for offshore, trade, tugs, 
+fisheries, marine vessels and many other types of ships. The products can also be equipped with both 
+hydraulic and electric motors. DMMC also has a portfolio of steering machines suitable for most 
+types and sizes of ships. Another product is stabiliser fins which contribute to safe and pleasant trips. 
+ 
+6.2.3 Kongsberg Digital 
+Kongsberg Digital (KDI) was established in 2016 and delivers software and digital solutions to 
+customers within maritime, oil and gas, renewable energy and power supply industries. The main 
+products of the business area are described below. 
+ 
+Vessel Insight and Maritime Digital 
+Ecosystem 
+Due to the extensive maritime 
+footprint KONGSBERG has through KM, 
+the Group is aiming to create a 
+standardised ship-to-cloud 
+infrastructure and establish a digital 
+ecosystem for the maritime sector. The 
+infrastructure is called Vessel Insight 
+and is based on Kognifai. Kognifai is 
+KONGSBERG’s cloud-based digital 
+platform, which again is based on open 
+standards and allows flexibility and 
+scaling. In addition to the data infrastructure, Vessel Insight gives access to an arear of applications 
+and solutions. Collectively, Vessel Insight enables customers to connect to ships, retrieve data for use 
+in analyses, and develop or download various applications on top.  
+ 
+Kognitwin Energy – Dynamic Digital Twin for heavy asset industries  
+A digital twin is a digital replica of processes and devices that facilitates insight and coordination of 
+an industrial facility. Advanced digital twins, such as Kognitwin Energy, also contain solutions which 
+enable reductions in operating costs, improvement and streamlining of work processes and 
+increased production of oil and gas. KDI’s flow and process simulators, combined with dynamic data 
+from the automation systems, also known as “hybrid analytics”, enable the ongoing automatic 
+testing of different operating scenarios, accident and incident prediction and production 
+optimisation. Kognitwin Energy enables the automation of processes, the remote control of 
+installations and a higher degree of autonomy in process control systems. 
+ 
+Sitecom – Remote Drilling Operation for Oil & Gas  
+In Sitecom, KDI supplies a software product for data acquisition and visualisation of drilling 
+operations in real time, as well as applications for operations analyses and decision support. KDI also 
+supplies solutions that increase safety and production efficiency using real-time simulators for 
+design, multi-phase flow and operator training.  
+ 
+Power Grid Optimization 
+In the energy sector, KDI is working with major stakeholders in the industry to develop a dynamic 
+digital twin and smart grid functionality for the distribution network operators. KDI uses dynamic 
+physical models, data-driven analyses and virtual sensors in order to provide the distribution network 
+operators with suitable tools for load predictions, decision support concerning grid balancing, and
+
+--- Page 27 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 27 of 58 
+ 
+advice regarding possible improvements for improved utilisation and flexibility in the distribution 
+network. 
+ 
+Maritime Simulation 
+KDI offers simulator solutions which ensure training of personnel and students in the maritime, 
+marine and offshore markets. The simulator solutions are also used for verification and decision 
+support, for example, in preliminary studies and research projects within design, security and cost 
+optimisation, as well as in the development of autonomous vessels and maritime digital twins.
+
+--- Page 28 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 28 of 58 
+ 
+7. Trend information 
+ 
+7.1 Prospects and financial information 
+There has been no material adverse change in the prospects of the Issuer since the date of its last 
+published audited financial statements. There has been no significant change in the financial 
+performance of the Group since the end of the last financial period which financial information has 
+been published to the date of the Base Prospectus. 
+ 
+7.2 Known trends, uncertainties, demands, commitments or events 
+The COVID-19 outbreak has continued into 2021. KDA has maintained operations at an almost 
+normal level, but KONGSBERG are prepared for delays. For KM, large parts of its market has been 
+challenging for a long time, with a low level of vessel contracting in general. This trend is also 
+expected to continue into 2021. As long as the pandemic is ongoing, KONGSBERG must expect 
+continued uncertainty in some markets, and that a resurgence of infection could adversely affect 
+activity levels. A major outbreak at KONGSBERG could also lead to periods of lower activity and 
+delays in deliveries to customers.  
+ 
+8. Profit Forecasts and Estimates 
+No information about profit forecasts or estimates are provided in the Base Prospectus.
+
+--- Page 29 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 29 of 58 
+ 
+9. Administrative, management and supervisory bodies 
+ 
+9.1 Information about persons 
+Board of Directors 
+The table below sets out the names, positions, and address of the members of the Board of Directors 
+of KONGSBERG. KONGSBERG’s registered business address, Kirkegårdsveien 45, 3616 Kongsberg, 
+Norway, serves as c/o address for the members of the Board of Directors in relation to their 
+directorship in the Company. 
+ 
+NAME 
+POSITION 
+BUSINESS ADDRESS 
+EIVIND K. REITEN 
+Chairman 
+Kirkegårdsveien 45, 3616 Kongsberg, 
+Norway 
+ANNE-GRETE STRØM-
+ERICHSEN 
+Deputy Chair 
+Kirkegårdsveien 45, 3616 Kongsberg, 
+Norway 
+MARTHA KOLD BAKKEVIG 
+Director 
+Kirkegårdsveien 45, 3616 Kongsberg, 
+Norway 
+PER A. SØRLIE 
+Director 
+Kirkegårdsveien 45, 3616 Kongsberg, 
+Norway 
+MORTEN HENRIKSEN 
+Director 
+Kirkegårdsveien 45, 3616 Kongsberg, 
+Norway 
+JO EVEN BJERKNES 
+Director, employee 
+representative 
+Kirkegårdsveien 45, 3616 Kongsberg, 
+Norway 
+RUNE FANØY  
+Director, employee 
+representative  
+Kirkegårdsveien 45, 3616 Kongsberg, 
+Norway 
+ODA ELLINGSEN 
+Director, employee 
+representative  
+Kirkegårdsveien 45, 3616 Kongsberg, 
+Norway 
+ 
+Eivind Reiten, Chair 
+Eivind Reiten, born in 1953, has been a member of the Board of Directors since 2017. He is currently 
+self-employed and is Chair and Director of several Boards of Directors. He has 30 years of experience 
+from business and politics, including the position as State Secretary, Minister for Fisheries and 
+Minister for Petroleum and Energy. He has broad experience in board-work, strategy and analysis. 
+Mr. Reiten worked 23 years in Norsk Hydro ASA, of which the last nine years as CEO. Directorship 
+outside KONGSBERG include: Chair of the Advisory Board of Stena Group, Anaxo Capital AS, AS 
+Backe, and SICP LLP. Director of Globeleq Ltd.  
+ 
+Mr. Reiten holds a Master in Economics (Cand.oecon) from the University of Oslo (1978). He is a 
+Norwegian citizen. 
+ 
+Anne-Grete Strøm-Erichsen, Deputy Chair 
+Anne-Grete Strøm-Erichsen, born in 1949, has been a member of the Board of Directors since 2015. 
+She holds the position as Senior Advisor at Rud Pedersen Public Affairs Company AS. Mrs. Strøm-
+Erichsen has 20 years of experience from the IT business, served eight years as Cabinet Minister, City 
+Chief Commissioner and Mayor in Bergen. Directorships outside KONGSBERG include: Chair of Dips 
+ASA, Bergen Havn AS, DNAK (Den Norske Atlanterhavskomité), and Tankesmien Agenda AS. Director 
+of Carte Blanche AS and SBB Norden AB.
+
+--- Page 30 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 30 of 58 
+ 
+She holds a degree in IT studies from South Dakota School of Mines & Technology, US (1980/1981) 
+and Engineer exam from the University of Bergen (1974). Mrs. Strøm-Erichsen is a Norwegian citizen. 
+ 
+Merete Hverven, Director 
+Merete Hverven, born in 1977, has been a member of the Board of Directors since 2021. She 
+currently holds the position as CEO of Visma AS. Ms. Hverven has worked with overall strategy, M&A 
+and HR at Visma for more than nine years. Previous experience includes working within finance and 
+HR at Arthur Andersen and Ernst & Young for a total of 10 years. Directorships outside KONGSBERG 
+include: Director of a number of Visma subsidiaries, Roadtrip AS and Archangel AS. 
+ 
+She holds a CEMS Master’s degree in International Management from Universitat St. Gallen, 
+Switzerland, a Master’s degree in Economics and Business Administration from Norwegian School of 
+Economics in Bergen, Norway, and a one-year program in Psychology from the University of Bergen. 
+Ms. Hverven is a Norwegian citizen. 
+ 
+Per A. Sørlie, Director 
+Per A. Sørlie, born in 1957, has been a member of the Board of Directors since 2019. He currently 
+holds the position as CEO of Borregaard ASA. Mr. Sørlie has been employed by Borregaard since 
+1990. Before being appointed CEO in 1999, he worked as EVP of the Borregaard’s Fine Chemicals 
+division and CFO. Mr. Sørlie has also held position as CFO at Bjølsen Valsemølle and Hafslund’s US 
+operations. Directorships outside KONGSBERG include: Deputy Chair of Inspira Science Center AS. 
+Former Director of Sampo Group and Elkem, and Deputy Chair of Tomra and Chair of Norwegian 
+Industry.  
+ 
+He holds a Master’s degree in Business Administration (siviløkonom) from the Norwegian School of 
+Economics in Bergen, Norway. Mr. Sørlie is a Norwegian citizen.  
+ 
+Morten Henriksen, Director 
+Morten Henriksen, born in 1968, has been a member of the Board of Directors since 2013. Mr. 
+Henriksen holds the position as Executive Vice President at Arendals Fossekompani ASA. He has 30 
+years of experience from international business, project management of major developments, and 
+management of divisions in Norway and internationally. He also has board experience from energy, 
+material technology, digitalisation and industrial production companies. Directorships outside 
+KONGSBERG include: Chair for Tekna Systèmes Plasma Inc. and Alvtic. Director of Kontali, Flumill AS 
+and Future Material AS.  
+ 
+He holds a Master’s degree in Electric Power from the Norwegian Institute of Technology (1991). Mr. 
+Henriksen is a Norwegian citizen and resides in Arendal, Norway. 
+ 
+Jo Even Bjerknes, Director (Employee representative) 
+Jo Even Bjerknes, born in 1968, has been a member of the Board of Directors since 2021. Mr. 
+Bjerknes currently holds the position as Production Planner/Technician at KDA. He has 10 years’ 
+experience from Integral Defence Systems (IDS) as a Project and Production Planner, and he started 
+out as an apprentice for Kongsberg Våpenfabrikk in 1986. He has also worked more than 20 years as 
+a Mechanic for Norsk Jetmotor and Kongsberg Automotive. Mr. Bjerknes has more than 20 years of 
+experience in union board work. Directorships outside KONGSBERG include: Deputy Chair of Dept. 29 
+FLT Kongsberg, and Chair of FLT KDA. 
+ 
+He holds a Certificate as Industrial Mechanic (1987) and holds a degree in Mechatronics from the 
+Technical College (2010). He is a Norwegian citizen.
+
+--- Page 31 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 31 of 58 
+ 
+Rune Fanøy, Director (Employee representative) 
+Rune Fanøy, born in 1977, has been a member of the Board of Directors since 2021. He holds the 
+position of R&D Manager in Electronic Design Subsea Acoustic Technology at Kongsberg Maritime. 
+He was previously a Director of Kongsberg Maritime for 4 years. Directorships outside KONGSBERG 
+include: 0. 
+ 
+He holds a Certificate in Production of Electronics. He is a Norwegian citizen. 
+ 
+Oda Ellingsen, Director (Employee representative) 
+Oda Ellingsen, born in 1984, has been a member of the Board of Directors since 2021. She has been 
+with KONGSBERG since 2006, and currently holds the position as Project Manager for KONGSBERG 
+Technology Forum at Kongsberg Maritime. She has 15 years’ experience within Industry and Business 
+Development, and broad academic background within Industrial innovation and Sustainability. Ms. 
+Ellingsen has over 10 years of Board experience including Tekna Ålesund, JA alumni Norway (Ungt 
+Entreprenørskap), and YoungShip Møre. Directorships outside KONGSBERG include: Director of 
+Ålesund Ballet School, and the Welfare Club Bølgen (KONGSBERG site Ålesund). 
+ 
+She holds a PhD in Technology Management from the Norwegian University of Science and 
+Technology (2019), Visiting Student Scholar in Organizational Research from Stanford University 
+(2016), Master of Science (Siv.ing) in Industrial Economics & Technology Management (NTNU School 
+of Entrepreneurship, 2013), B.S.c in Mechanical Engineer with Product Development & Systems 
+Design at NTNU (former Ålesund University College, 2011), and Certificate as Skilled Worker in the 
+subject CNC-Operator (2008). She is a Norwegian citizen. 
+ 
+Management 
+KONGSBERG’s Corporate Management team consists of nine individuals. The table below gives an 
+overview of the names of the members of the Management, their respective positions, and business 
+address. KONGSBERG’s registered business address, Kirkegårdsveien 45, 3616 Kongsberg, serves as 
+the business address for the members of the Management in relation to their employment with the 
+Company. 
+ 
+NAME 
+CURRENT POSITION 
+BUSINESS ADDRESS 
+GEIR HÅØY 
+President & CEO 
+Kirkegårdsveien 45, 3616 
+Kongsberg, Norway 
+GYRID SKALLEBERG INGERØ 
+Group EVP and CFO 
+Kirkegårdsveien 45, 3616 
+Kongsberg, Norway 
+EGIL HAUGSDAL 
+EVP, President Kongsberg 
+Maritime 
+Kirkegårdsveien 45, 3616 
+Kongsberg, Norway 
+EIRIK LIE 
+EVP, President Kongsberg 
+Defence & Aerospace 
+Kirkegårdsveien 45, 3616 
+Kongsberg, Norway 
+HEGE SKRYSETH 
+EVP, President Kongsberg 
+Digital 
+Kirkegårdsveien 45, 3616 
+Kongsberg, Norway 
+EVEN AAS 
+Group EVP, Public Affairs, 
+Communication and 
+Sustainability 
+Kirkegårdsveien 45, 3616 
+Kongsberg, Norway 
+HANS PETTER BLOKKUM 
+Group EVP, HR and Security 
+Kirkegårdsveien 45, 3616 
+Kongsberg, Norway 
+IVER CHRISTIAN OLERUD 
+Group EVP, Strategy and 
+Business Development 
+Kirkegårdsveien 45, 3616 
+Kongsberg, Norway 
+CHRISTIAN KARDE 
+Group EVP, General Counsel 
+Kirkegårdsveien 45, 3616 
+Kongsberg, Norway
+
+--- Page 32 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 32 of 58 
+ 
+Geir Håøy, President & CEO 
+Geir Håøy, born in 1966, has been President and CEO of KONGSBERG since June 2016. He has worked 
+for KONGSBERG since June 1993, holding various management positions since 1996. Before assuming 
+the position of CEO and President of KONGSBERG, Håøy was President of Kongsberg Maritime, a 
+position he held since 2010. Including his role as President of Kongsberg Maritime, he has been part 
+of the Group's Corporate Management team for over 10 years. Håøy has broad international 
+experience from different positions in KONGSBERG. He has, among other positions, been Head of 
+Kongsberg Maritime's activities in South Korea and Singapore. Before assuming the position of 
+President of Kongsberg Maritime, Håøy served as Executive Vice President for Global Customer 
+Support at Kongsberg Maritime, with responsibility for the business area's worldwide customer 
+support activities.  
+ 
+He holds a degree in Engineering from Vestfold University College (1989). Mr. Håøy is a Norwegian 
+citizen. 
+ 
+Gyrid Skalleberg Ingerø, Group EVP & CFO 
+Gyrid Skalleberg Ingerø, born in 1967, has been with KONGSBERG since 2017. Her former experience 
+includes CFO of Telenor Digital Business, CFO of Telenor Norway, CFO and head of Investor Relations 
+at Komplett ASA, and auditor at Nordea Bank Abp and KPMG. She has also served as acting CFO and 
+Director of Board of Board of Directors in different turnaround cases over the last ten years. 
+Directorships outside the KONGSBERG include: Director of Flytoget AS, Itera ASA and KID ASA.  
+ 
+Her education comprises a degree as Certified Public Accountant (Master in Accounting and Auditing) 
+from the Norwegian School of Economics in Bergen, Norway. Mrs. Ingerø is a Norwegian citizen. 
+ 
+Egil Haugsdal, Executive Vice President and President of Kongsberg Maritime  
+Egil Haugsdal, born in 1961, has been with KONGSBERG since 1996 and has been a member of the 
+Corporate Management team since 2009. His former experience at KONGSBERG includes President 
+of Kongsberg Protech Systems and Group EVP Business Development and Strategy. Other previous 
+professional experiences include a career at Kongsberg Våpenfabrikk, followed by ten years of  
+managerial positions within Logistics and Production at ABB.  
+ 
+Mr. Haugsdal is educated as a Mechanical Engineer from Gjøvik University College. Mr. Haugsdal is a 
+Norwegian citizen. 
+ 
+Eirik Lie, EVP and President of Kongsberg Defence & Aerospace 
+Eirik Lie, born in 1966, has been with KONGSBERG since 1990. Since joining KONGSBERG in 1990, Mr. 
+Lie has held different positions, including Software Development, Systems Engineering and several 
+Projects and Departmental Management Positions. From 2006 and until Mr. Lie took on his current 
+position, he was Executive Vice President for the Integrated Defence Systems Division in Kongsberg 
+Defence & Aerospace. Directorship outside KONGSBERG include: Deputy Chair of Kongsberg Satellite 
+Services AS (50.0% owned by KONGSBERG), and Director of Patria (49.9% owned by KONGSBERG).  
+ 
+His education includes Kongsberg College of Engineering, Data Engineering, a Bachelor's degree in 
+Computer Science and the Royal Norwegian Navy Officer Candidate School. Mr. Lie is a Norwegian 
+citizen. 
+ 
+Hege Skryseth, EVP and President of Kongsberg Digital  
+Hege Skryseth, born in 1967, has been with KONGSBERG since 2013. Her former experience includes 
+managing positions in several international technology companies, including as CEO of Microsoft 
+Norway and Geodata. Directorships outside KONGSBERG include: Director of Tomra Systems ASA and 
+Netcompany.
+
+--- Page 33 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 33 of 58 
+ 
+Mrs. Skryseth holds an Executive MBA from Norwegian School of Economics, a Bachelor from BI and 
+College Graduate from NITH. Mrs. Skryseth is a Norwegian citizen. 
+ 
+Even Aas, Group EVP - Public Affairs, Communication and Sustainability 
+Even Aas, born in 1961, has been with KONGSBERG since 1998. He was formerly employed by the 
+Norwegian Confederation of Trade Unions, political advisor and later State Secretary for Commerce 
+and Shipping in the Ministry of Foreign Affairs. Mr. Aas has also worked for Telenor. Directorships 
+outside KONGSBERG include: Chair of Maritime Forum, and Director of Norwegian Industry, 
+DigitalNorway, Kongsberg Satellite Services AS, Andøya Space, FAFO, and EXPO 2020.  
+ 
+He has a degree in Economics from the University of Oslo (1988). Mr. Aas is a Norwegian citizen. 
+ 
+Hans Petter Blokkum, Group EVP - HR and Security  
+Hans Petter Blokkum, born in 1962, has been with KONGSBERG since 2010. Mr. Blokkum's former 
+experience includes the positions as EVP Business Support in Kongsberg Defence Systems, and Group 
+VP and Chief HR Officer in Kongsberg. He has more than 30 years of experience within HR and broad 
+international experience. Prior to joining KONGSBERG in 2010, he held the position of HR Director of 
+Dresser Rand, responsible for Europe, Middle East and Africa. Directorships outside KONGSBERG 
+include: Director of Kongsberg Chamber of Commerce.  
+ 
+Mr. Blokkum studied Strategic Management at Norwegian School of Economics, and Human 
+Resources at the University of Stavanger. Mr. Blokkum is a Norwegian citizen. 
+ 
+Iver Christian Olerud, Group EVP – Strategy and Business Development 
+Iver Christian Olerud, born in 1976, has been with KONGSBERG since 2018. Mr. Olerud’s former 
+experience includes CFO of Kongsberg Defence & Aerospace AS, SVP Financial Impact Telenor Group 
+Transformation, CFO of B2B division for Telenor Norway, Director M&A Telenor Group, Business 
+Controller for Elkem, Consultant for Deloitte, and several Directorships. Directorships outside 
+KONGSBERG include: Director of Hapro AS and Hapro Electronics AS. 
+ 
+Mr. Olerud has a degree in Economics from Norwegian School of Economics. Mr. Olerud is a 
+Norwegian citizen. 
+ 
+Christian Karde, Group EVP – General Counsel 
+Christian Karde, born in 1968, has been with KONGSBERG since 2003. Mr. Karde’s former experience 
+includes working as an Attorney for the Norwegian law firm Selmer and for Oslo Stock Exchange. 
+Directorships outside KONGSBERG include: Chair of the Norwegian Bar Association Committee for “In 
+house counsels”.  
+ 
+Mr. Karde has a Law degree from the University of Tromsø. Mr. Karde is a Norwegian citizen. 
+ 
+9.2 Potential conflicts of interest 
+There are no potential conflicts of interest between any duties carried out on behalf of the Issuer by 
+the persons referred to in section 9.1 and their private interests and/or other duties.
+
+--- Page 34 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 34 of 58 
+ 
+10. Major Shareholders 
+ 
+10.1 Ownership 
+As of the date of the Base Prospectus the share capital of Kongsberg Gruppen ASA amounted to NOK 
+224 987 581,25 divided into 179,990,065 shares at nominal value of NOK 1.25 each. The Norwegian 
+State, represented by MTIF, is the largest shareholder with 50.004% of the shares.  
+ 
+An overview of the Company’s major shareholders as of 06 July 2021 is set out in the table below:  
+ 
+Shareholders owning 5% or more of the Shares have an interest in the Company's share capital which 
+is notifiable pursuant to the Norwegian Securities Trading Act. The Government of Norway through 
+MTIF owns 50.004% of KONGSBERGs shares and votes, and 7.02% is held by Folketrygdfondet. As 
+MTIF holds 50.004%, it has the ability to in a material way control and affect the decisions made by 
+the Annual General Meeting in the Company. The objectives and exercising of shareholder rights by 
+the Government are published in the white paper report no. 8 to the Norwegian Parliament (2019-
+2020). 
+ 
+The State’s ownership in KONGBERG is classified within category 2, which states that the main 
+objective of the State’s commercial ownership is to achieve the highest possible return on invested 
+capital over time.  
+ 
+The white paper report states specifically for KONGSBERG that “The state’s rationale for its 
+ownership interest in Kongsberg Gruppen is to maintain a leading technology and industrial company 
+and defence industry supplier with head office functions in Norway. The state’s goal as an owner is 
+the highest possible return over time.” 
+ 
+10.2 Change of control of the Company 
+The Company is not aware of any arrangements the operation of which may at a subsequent date 
+result in a change of control of the Company. 
+ 
+No particular measures are initiated to ensure that control is not abused by large shareholders. 
+Minority shareholders are protected against abuse by relevant regulations in inter alia the Norwegian 
+Public Companies Act and the Norwegian Securities Act.  
+ 
+The Shares have not been subject to any public takeover bids.
+
+--- Page 35 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 35 of 58 
+ 
+11. Financial information concerning the Issuer’s assets and liabilities, 
+financial position and profits and losses 
+ 
+11.1 Financial information 
+Kongsberg Gruppen ASA’s consolidated financial statements have been prepared in accordance with 
+International Reporting Standards (IFRS) as adopted by EU, and the additional disclosure 
+requirements of the Norwegian accounting act as at 31 December 2020. 
+ 
+The Group’s accounting policies are shown in the Annual Report 2020, Note 3, pages 142-149. 
+ 
+The separate financial statements for Kongsberg Gruppen ASA have been prepared in accordance 
+with Norwegian legalisation and Norwegian generally accepted accounting principles. Kongsberg 
+Gruppen’s accounting policies are shown in the Annual Report 2020, Note 1, page 205. 
+ 
+According to the Regulation (EU) 2017/1129 of the European Parliament and of the Council, 
+information in a prospectus may be incorporated by reference. Because of the complexity in the 
+historical financial information and financial statements this information is incorporated by reference 
+to the “Annual and Sustainability Report 2020”, available here: 
+https://www.kongsberg.com/globalassets/corporate/investor-relations/annual-report/annual-
+report-and-sustainability-report-2020.pdf . The link is also found under Cross Reference List on page 
+50 of this Base Prospectus. 
+ 
+ 
+Annual and Sustainability Report 2020 
+Kongsberg Gruppen ASA Consolidated 
+ 
+Consolidated income statements and other 
+comprehensive income 
+Page 137 
+Consolidated Balance Sheet at 31 December 
+Page 138 
+Consolidated statements of cash flow 
+Page 140 
+Notes to the consolidated financial 
+statements 
+Pages 140-201 
+ 
+ 
+Kongsberg Gruppen ASA 
+ 
+Statement of Income 
+Page 202 
+Balance Sheet at 31 December 
+Page 203 
+Statements of cash flow 
+Page 204 
+Notes to the financial statements  
+Pages 205-214 
+ 
+11.2 Auditing of annual financial information 
+The historical financial information for 2020 has been audited by Ernst & Young AS. The audit has 
+been conducted in accordance with laws, regulations, and auditing standards and practices generally 
+accepted in Norway, including International Standards of Auditing (ISAs).  
+ 
+A statement of audited historical financial information for the Company is given in the Annual and 
+Sustainability report 2020 pages 216-219.
+
+--- Page 36 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 36 of 58 
+ 
+11.3 Legal and arbitration proceedings 
+There are no, nor have there been any, governmental, legal or arbitration proceedings (including any 
+such proceedings which are pending or threatened of which the Issuer is aware), during a period 
+covering at least the previous 12 months which may have, or have had in the recent past significant 
+effects on the Issuer and/or Groups financial position or profitability. 
+ 
+11.4 Significant change in the Group’s financial or trading position 
+There has been no significant change in the financial position of the Group which has occurred since 
+the end of the last financial period for which either audited financial statements or interim financial 
+information have been published.
+
+--- Page 37 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 37 of 58 
+ 
+12. Regulatory disclosures 
+The tables below are a summary of the information disclosed by the Issuer under Regulation (EU) 
+596/2014 over the last 12 months as of the date of the Base Prospectus. 
+ 
+Additional regulated information required to be disclosed under the laws of a Member State 
+Date 
+Information 
+06.05.21 
+Annual General Meeting including Board election held:  
+All items proposed on the agenda were adopted, including the Board’s proposal for a 
+dividend of NOK 8.00 per share for 2020. Half of the Board got re-elected and the other 
+half was new elections, including three employee representatives.  
+15.04.21 
+Notice of Kongsberg Gruppen ASA’s 2020 Annual General Meeting: 
+To be held on Thursday 6 May 2021 at 10.00 am CET and webcasted from the Conference 
+Center at Kongsberg Technology Park.  
+22.02.21 
+Kongsberg Gruppen ASA – placement of new bond issue: 
+Issuance of a new bond, NOK 500 million with a 5-year tenor.  
+11.02.21 
+Key information relating to the cash dividend, ordinary and special dividends, to be paid 
+by Kongsberg Gruppen ASA: 
+Ordinary dividend: NOK 3.00 per share, ex-date 7 May 2021, record date 10 May 2021, 
+payment date 20 May 2021. 
+Special dividend: NOK 5.00 per share, ex-date 7 May 2021, record date 10 May 2021, 
+payment date 20 May 2021. 
+30.10.20 
+KONGSBERG returns NOK 2bn to shareholders and updates its dividend policy: 
+The Board has resolved to distribute a dividend of NOK 10 per share and to initiate a share 
+buy-back program of up to NOK 200 million. Shareholders registered on 2 November 2020 
+will be entitled to the special dividend. The Board also decided to update the company’s 
+dividend policy. 
+30.10.20 
+Key information relating to the cash dividend to be paid by Kongsberg Gruppen ASA:  
+An additional dividend of NOK 10 per share will be distributed. Ex-date 3 November 2020, 
+record date 4 November 2021, payment date 12 November 2021. 
+ 
+Acquisition or disposal of the Issuer’s own shares 
+Date 
+Information 
+22.03.21-
+25.05.21 
+Transactions carried out under the share buy-back program for KONGSBERG related 
+to the employee share program: 
+Announced on ten different dates: 
+22 March: After the transactions, KONGSBERG owns a total of 774,539 shares, 
+corresponding to  0.4% of KONGSBERG’s share capital. 
+26 March: After the transactions, KONGSBERG owns a total of 918,279 shares, 
+corresponding to  0.5% of KONGSBERG’s share capital. 
+6 April: After the transactions, KONGSBERG owns a total of 964,322 shares, 
+corresponding to  0.5% of KONGSBERG’s share capital. 
+13 April: After the transactions, KONGSBERG owns a total of 1,129,322 shares, 
+corresponding to  0.6% of KONGSBERG’s share capital. 
+19 April: After the transactions, KONGSBERG owns a total of 1,277,801 shares, 
+corresponding to  0.7% of KONGSBERG’s share capital. 
+26 April: After the transactions, KONGSBERG owns a total of 1,454,322 shares, 
+corresponding to  0.8% of KONGSBERG’s share capital. 
+3 May: After the transactions, KONGSBERG owns a total of 1,650,322 shares, 
+corresponding to  0.9% of KONGSBERG’s share capital. 
+10 May: After the transactions, KONGSBERG owns a total of 1,844,322 shares, 
+corresponding to  1.0% of KONGSBERG’s share capital.
+
+--- Page 38 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 38 of 58 
+ 
+18 May: After the transactions, KONGSBERG owns a total of 1,989,322 shares, 
+corresponding to  1.1% of KONGSBERG’s share capital. 
+25 May: After the transactions, KONGSBERG owns a total of 2,122,322 shares, 
+corresponding to  1.2% of KONGSBERG’s share capital. 
+ 
+Out of the above-mentioned number of shares, 578,262 shares are related to the 
+buy-back of shares of cancelation. Cancelation was approved by the General Meeting 
+6 May 2021. 
+12.03.21 
+Subscription period for employee share program completed: 
+About 4,330 employees have signed up for the share programme for a total amount 
+of about MNOK 315. DNB Markets was awarded the mandate to purchase, starting 
+from 15 March 2021. Prior to the above-mentioned transactions KONGSBERG 
+owns a total of 625,039 own shares, corresponding to 0.3% of KONGSBERG's 
+share capital. 
+05.03.21 
+Transactions carried out under the share buy-back program for KONGSBERG 
+related to the long-term incentive plan for management: 
+KONGSBERG will purchase MNOK 8.4 of own shares related to long-term 
+incentive (LTI) plan for management. After the above-mentioned transactions 
+KONGSBERG owns a total of 625,039 own shares, corresponding to 0.3% of 
+KONGSBERG's share capital. 
+26.02.21 
+Market part of KONGSBERG’s 2020-2021 share buy-back programme finalised, 
+initiating purchase of LTI-shares: 
+The total program comprised about 1.16 million shares, of which 578,262 shares 
+were repurchased in the market for a total consideration of NOK 99.9 million. 
+The remaining shares will be purchased from the Kingdom of Norway through 
+the Ministry of Trade, Industry and Fisheries and hence the Ministry's ownership 
+interest in KONGSBERG of 50.004% will remain unchanged. 
+18.01.21 -
+26.02.21 
+Share buy-back: 
+Announced daily: 
+18 January: KONGSBERG purchased 9,764 own shares at average price NOK 173.51 
+per share. After the transaction KONGSBERG owns a total of 293,724 own shares 
+under the 2020-21 share buy-back program.  
+19 January: KONGSBERG purchased 9,781 own shares at average price NOK 174.61 
+per share. After the transaction KONGSBERG owns a total of 303,505 own shares 
+under the 2020-21 share buy-back program. 
+20 January: KONGSBERG purchased 9,764 own shares at average price NOK 176.07 
+per share. After the transaction KONGSBERG owns a total of 313,269 own shares 
+under the 2020-21 share buy-back program. 
+21 January: KONGSBERG purchased 9,412 own shares at average price NOK 175.59 
+per share. After the transaction KONGSBERG owns a total of 322,618 own shares 
+under the 2020-21 share buy-back program. 
+22 January: KONGSBERG purchased 9,790 own shares at average price NOK 173.41 
+per share. After the transaction KONGSBERG owns a total of 332,471 own shares 
+under the 2020-21 share buy-back program.  
+25 January: KONGSBERG purchased 9,773 own shares at average price NOK 169.31 
+per share. After the transaction KONGSBERG owns a total of 342,244 own shares 
+under the 2020-21 share buy-back program.  
+26 January: KONGSBERG purchased 9,785 own shares at average price NOK 168.90 
+per share. After the transaction KONGSBERG owns a total of 352,029 own shares 
+under the 2020-21 share buy-back program.
+
+--- Page 39 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 39 of 58 
+ 
+27 January: KONGSBERG purchased 9,799 own shares at average price NOK 165.83 
+per share. After the transaction KONGSBERG owns a total of 361,828 own shares 
+under the 2020-21 share buy-back program.  
+28 January: KONGSBERG purchased 9,821 own shares at average price NOK 163.26 
+per share. After the transaction KONGSBERG owns a total of 371,649 own shares 
+under the 2020-21 share buy-back program.  
+29 January: KONGSBERG purchased 10,475 own shares at average price NOK 165.02 
+per share. After the transaction KONGSBERG owns a total of 382,124 own shares 
+under the 2020-21 share buy-back program.  
+1 February: KONGSBERG purchased 10,675 own shares at average price NOK 167.92 
+per share. After the transaction KONGSBERG owns a total of 392,799 own shares 
+under the 2020-21 share buy-back program.  
+2 February: KONGSBERG purchased 9,703 own shares at average price NOK 169.07 
+per share. After the transaction KONGSBERG owns a total of 402,502 own shares 
+under the 2020-21 share buy-back program.  
+3 February: KONGSBERG purchased 10,223 own shares at average price NOK 169.52 
+per share. After the transaction KONGSBERG owns a total of 412,725 own shares 
+under the 2020-21 share buy-back program.  
+4 February: KONGSBERG purchased 10,254 own shares at average price NOK 169.82 
+per share. After the transaction KONGSBERG owns a total of 422,979 own shares 
+under the 2020-21 share buy-back program.  
+5 February: KONGSBERG purchased 9,802 own shares at average price NOK 170.79 
+per share. After the transaction KONGSBERG owns a total of 432,781 own shares 
+under the 2020-21 share buy-back program.  
+8 February: KONGSBERG purchased 9,200 own shares at average price NOK 170.57 
+per share. After the transaction KONGSBERG owns a total of 441,981 own shares 
+under the 2020-21 share buy-back program.  
+9 February: KONGSBERG purchased 10,288 own shares at average price NOK 169.59 
+per share. After the transaction KONGSBERG owns a total of 452,269 own shares 
+under the 2020-21 share buy-back program.  
+10 February: KONGSBERG purchased 10,310 own shares at average price NOK 
+172.69 per share. After the transaction KONGSBERG owns a total of 462,579 own 
+shares under the 2020-21 share buy-back program.  
+11 February: KONGSBERG purchased 9,912 own shares at average price NOK 176.59 
+per share. After the transaction KONGSBERG owns a total of 472,491 own shares 
+under the 2020-21 share buy-back program. 
+12 February: KONGSBERG purchased 9,756 own shares at average price NOK 186.01 
+per share. After the transaction KONGSBERG owns a total of 482,247 own shares 
+under the 2020-21 share buy-back program.  
+15 February: KONGSBERG purchased 9,842 own shares at average price NOK 182.41 
+per share. After the transaction KONGSBERG owns a total of 492,089 own shares 
+under the 2020-21 share buy-back program. 
+16 February: KONGSBERG purchased 9,452 own shares at average price NOK 177.88 
+per share. After the transaction KONGSBERG owns a total of 501,541 own shares 
+under the 2020-21 share buy-back program.  
+17 February: KONGSBERG purchased 9,540 own shares at average price NOK 175.24 
+per share. After the transaction KONGSBERG owns a total of 511,081 own shares 
+under the 2020-21 share buy-back program.  
+18 February: KONGSBERG purchased 9,762 own shares at average price NOK 172.21 
+per share. After the transaction KONGSBERG owns a total of 520,843 own shares 
+under the 2020-21 share buy-back program.
+
+--- Page 40 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 40 of 58 
+ 
+19 February: KONGSBERG purchased 9,783 own shares at average price NOK 173.45 
+per share. After the transaction KONGSBERG owns a total of 530,626 own shares 
+under the 2020-21 share buy-back program.  
+22 February: KONGSBERG purchased 9,801 own shares at average price NOK 175.17 
+per share. After the transaction KONGSBERG owns a total of 540,427 own shares 
+under the 2020-21 share buy-back program.  
+23 February: KONGSBERG purchased 9,744 own shares at average price NOK 177.57 
+per share. After the transaction KONGSBERG owns a total of 550,171 own shares 
+under the 2020-21 share buy-back program.  
+24 February: KONGSBERG purchased 9,499 own shares at average price NOK 181.96 
+per share. After the transaction KONGSBERG owns a total of 559,670 own shares 
+under the 2020-21 share buy-back program.  
+25 February: KONGSBERG purchased 9,272 own shares at average price NOK 184.81 
+per share. After the transaction KONGSBERG owns a total of 568,942 own shares 
+under the 2020-21 share buy-back program.  
+26 February: KONGSBERG purchased 9,320 own shares at average price NOK 180.07 
+per share. After the transaction KONGSBERG owns a total of 578,262 own shares 
+under the 2020-21 share buy-back program.  
+ 
+On each announcement: In addition, KONGSBERG holds 3,372 own shares held 
+for other purposes. 
+15.01.21 
+KONGBSERG enters into an agreement for purchase of own shares for long term 
+incentive plan: 
+KONGSBERG has awarded Danske Bank with a mandate to purchase MNOK 8.4 of 
+shares in KONGSBERG related to a long-term incentive plan for management. 
+23.12.20-
+15.01.21 
+Share buy-back: 
+Announced daily:  
+23 December: KONGSBERG purchased 9,590 own shares at average price NOK 173.14 
+per share. After the transaction KONGSBERG owns a total of 161,413 own shares 
+under the 2020-21 share buy-back program.  
+28 December: KONGSBERG purchased 8,561 own shares at average price NOK 173.59 
+per share. After the transaction KONGSBERG owns a total of 169,974 own shares 
+under the 2020-21 share buy-back program.  
+29 December: KONGSBERG purchased 9,020 own shares at average price NOK 175.52 
+per share. After the transaction KONGSBERG owns a total of 178,994 own shares 
+under the 2020-21 share buy-back program.  
+30 December: KONGSBERG purchased 9,021 own shares at average price NOK 175.54 
+per share. After the transaction KONGSBERG owns a total of 188,015 own shares 
+under the 2020-21 share buy-back program.  
+4 January: KONGSBERG purchased 9,712 own shares at average price NOK 173.93 per 
+share. After the transaction KONGSBERG owns a total of 197,727 own shares 
+under the 2020-21 share buy-back program.  
+5 January: KONGSBERG purchased 9,765 own shares at average price NOK 172.54 per 
+share. After the transaction KONGSBERG owns a total of 207,492 own shares 
+under the 2020-21 share buy-back program.  
+6 January: KONGSBERG purchased 9,602 own shares at average price NOK 176.21 per 
+share. After the transaction KONGSBERG owns a total of 217,094 own shares 
+under the 2020-21 share buy-back program.  
+7 January: KONGSBERG purchased 9,679 own shares at average price NOK 178.96 per 
+share. After the transaction KONGSBERG owns a total of 226,773 own shares 
+under the 2020-21 share buy-back program.
+
+--- Page 41 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 41 of 58 
+ 
+8 January: KONGSBERG purchased 9,487 own shares at average price NOK 176.90 per 
+share. After the transaction KONGSBERG owns a total of 236,260 own shares 
+under the 2020-21 share buy-back program.  
+11 January: KONGSBERG purchased 9,500 own shares at average price NOK 175.47 
+per share. After the transaction KONGSBERG owns a total of 245,760 own shares 
+under the 2020-21 share buy-back program.  
+12 January: KONGSBERG purchased 9,572 own shares at average price NOK 175.99 
+per share. After the transaction KONGSBERG owns a total of 255,332 own shares 
+under the 2020-21 share buy-back program.  
+13 January: KONGSBERG purchased 9,507 own shares at average price NOK 174.48 
+per share. After the transaction KONGSBERG owns a total of 264,839 own shares 
+under the 2020-21 share buy-back program.  
+14 January: KONGSBERG purchased 9,520 own shares at average price NOK 175.58 
+per share. After the transaction KONGSBERG owns a total of 274,359 own shares 
+under the 2020-21 share buy-back program.  
+15 January: KONGSBERG purchased 9,601 own shares at average price NOK 175.37 
+per share. After the transaction KONGSBERG owns a total of 283,960 own shares 
+under the 2020-21 share buy-back program.  
+ 
+On each announcement: In addition, KONGSBERG holds 3,372 own shares held 
+for other purposes. 
+22.12.20 
+KONGSBERG enter into an agreement for purchase of own shares for employee 
+share program: 
+For the 2021 share purchase program, KONGSBERG will acquire shares for a 
+value of up to MNOK 320, and KONGSBERG has awarded DNB Markets with the 
+mandate to execute the trades. 
+14.12.20-
+22.12.20 
+Share buy-back: 
+Announced daily: 
+14 December: KONGSBERG purchased 9,892 own shares at average price NOK 167.77 
+per share. After the transaction KONGSBERG owns a total of 95,565 own shares 
+under the 2020-21 share buy-back program. 
+15 December: KONGSBERG purchased 9,152 own shares at average price NOK 168.19 
+per share. After the transaction KONGSBERG owns a total of 104,717 own shares 
+under the 2020-21 share buy-back program. 
+16 December: KONGSBERG purchased 9,120 own shares at average price NOK 168.15 
+per share. After the transaction KONGSBERG owns a total of 113,837 own shares 
+under the 2020-21 share buy-back program. 
+17 December: KONGSBERG purchased 9,340 own shares at average price NOK 170.57 
+per share. After the transaction KONGSBERG owns a total of 123,177 own shares 
+under the 2020-21 share buy-back program. 
+18 December: KONGSBERG purchased 9,450 own shares at average price NOK 170.70 
+per share. After the transaction KONGSBERG owns a total of 132,627 own shares 
+under the 2020-21 share buy-back program. 
+21 December: KONGSBERG purchased 9,654 own shares at average price NOK 168.49 
+per share. After the transaction KONGSBERG owns a total of 142,281 own shares 
+under the 2020-21 share buy-back program. 
+22 December: KONGSBERG purchased 9,542 own shares at average price NOK 169.89 
+per share. After the transaction KONGSBERG owns a total of 151,823 own shares 
+under the 2020-21 share buy-back program.
+
+--- Page 42 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 42 of 58 
+ 
+On each announcement: In addition, KONGSBERG holds 3,372 own shares held 
+for other purposes. 
+20.08.20 
+Transfer of shares related to employee share program: 
+KONGSBERG sold 280 own shares at price NOK 142.00 per share. After this 
+transaction, Kongsberg Gruppen ASA owns 3,372 own shares. 
+ 
+Annual and half yearly financial reports and audit reports 
+Date 
+Information 
+30.04.21 
+KONGSBERG with a good start to 2021: 
+Q1 2021 improved operating profit compared to last year, despite slightly lower revenues. 
+KM had sound margins and a focus on sustainable solutions. They continued to improve. 
+KM won several “key role” contracts. KDA achieved good growth, a larger order backlog 
+and an increased revenue compared to last year’s numbers in all divisions.  
+26.03.21 
+Release of Annual report and sustainability report 2020 
+11.02.21 
+KONGSBERG achieves strong results and record-high order backlog: 
+Q4 2020 delivers strong results and good operations and strengthened all business areas. 
+The company had a record-high order backlog by the end of 2020. The Board will propose 
+that the General Meeting authorizes a dividend pay-out and the repurchase of 
+additional shares equal to a combined total of MNOK 1,840, just above NOK 10 per 
+share.   
+ 
+KM achieved an improved margin. Activity level still low due to the pandemic. However, 
+KM is strengthening the cross-sales from its extended portfolio and realised MNOK 
+700 related to this in 2020. KDA continues to grow. The operating margin went up 
+from last year due to sound execution and composition of projects. 
+30.10.20 
+KONGSBERG achieves strong results and will distribute additional dividend of NOK 10 per 
+share: 
+Q3 2020 delivered strong operating results, due to adaption skills and lower costs mixed 
+with efficient project execution. The integration of acquired companies is ahead of 
+schedule and is also making a positive contribution to the sound profit performance. 
+The Board has decided to distribute an additional dividend of NOK 10 per share, a 
+total of MNOK 1 800, and initiate a share buy-back program of up to MNOK 200.  
+ 
+KM increased profitability in a difficult market and strengthened its order intake, despite 
+developments in the maritime market continuing to be characterized by significant 
+uncertainty. KDA achieved considerably lower costs in individual projects as a result of 
+efficient project execution. This made a positive contribution to the results in the 
+quarter. KDA did not sign any individual contracts of a significant value during the 
+period. 
+26.10.20 
+Update prior to Q3 2020 results and changed reporting of associated companies: 
+On the Q2 2020 presentation, KONGSBERG said that the margin in KDA would be 
+positively affected this year by better project execution in certain air defense projects. 
+In Q3, KDA will report positive effects totaling MNOK 150 related to this.  
+ 
+As of Q3 2020 the results from associated companies will no longer be reported as 
+part of the EBITDA or EBIT, but on separate line below these key figures. Comparable 
+historical figures for the last ten quarters are attached. 
+15.07.20 
+KONGSBERG achieved good quarterly results in challenging situation: 
+Q2 2020 delivered good results. Sound operations, stability, good project execution 
+combined with implemented measures resulted in improved profitability for the Group.
+
+--- Page 43 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 43 of 58 
+ 
+KDA continued to deliver a solid order backlog and increased its operating revenue. KM 
+experienced a reduction in revenue compared to last year’s results and a falling order 
+intake, while the profitability increased. KDI won its biggest individual contract so far, and 
+can report a high level of activity.    
+ 
+Mandatory notification of trade primary insiders 
+Date 
+Information 
+10.06.21 
+Transfer of shares with regards to share program for employees: 
+Kongsberg Gruppen ASA has started the transfer of 1,521,301 own shares at price 
+NOK 198.66 per share in conjunction with a share program for employees. The 
+participants receive 25 % discount on the purchase price. A total of 4,317 employees 
+participated in the program. The maximum number of shares per employee was 488. 
+There is a lock-in period of one year for the shares. 
+26.03.21 
+Transfer of shares in long-term incentive program: 
+Kongsberg Gruppen ASA sold a total of 46,089 own shares at a price of NOK 179.63 
+per share in connection with the long-term incentive program (LTI) for senior 
+management and key employees.  
+10.12.20 
+Primary insider notice: 
+Janne Kathrine Haugen, married to primary insider Hans Petter Blokkum, Group 
+Executive Vice President HR and Security and member of KONGSBERG's Corporate 
+Management Team, purchased 328 shares in Kongsberg Gruppen ASA at an average 
+price of 169.01 per share. Haugen currently owns 738 shares in Kongsberg Gruppen.  
+02.12.20 
+Mandatory notification of trade: 
+Group Executive Vice President Strategy and Business Development of Kongsberg 
+Gruppen, Iver Christian Olerud, purchased 2,000 shares in Kongsberg Gruppen ASA, at 
+an average price of 168.83 per share. Olerud currently owns 4,292 shares in 
+Kongsberg Gruppen.   
+01.12.20 
+Board Member purchases shares: 
+Board member of Kongsberg Gruppen, Per Arthur Sørlie, purchased 2,000 shares in 
+Kongsberg Gruppen ASA, at an average price of NOK 171.80 per share. Sørlie currently 
+owns 3,400 shares in Kongsberg Gruppen.  
+30.11.20 
+Mandatory notification of trade: 
+CFO of Kongsberg Gruppen, Gyrid Skalleberg Ingerø, purchased 2,000 shares in Kongsberg 
+Gruppen ASA, at an average price of NOK 169.67 per share. Ingerø currently owns 16,639 
+shares in Kongsberg Gruppen ASA.
+
+--- Page 44 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 44 of 58 
+ 
+13. Material contracts 
+Neither the Group nor any member of the Group has entered into any material contracts outside the 
+ordinary course of business for the two years prior to the date of this Prospectus. Further, the Group 
+has not entered into any other contract outside the ordinary course of business which contains any 
+provision under which any member of the Group has any obligation or entitlement. 
+ 
+14. Documents on display 
+The following documents (or copies thereof) may be inspected for the life of the Base Prospectus at 
+the headquarter of the Issuer, Kirkegårdsveien 45, 3616 Kongsberg or on www.kongsberg.com: 
+(i) 
+the up to date memorandum and articles of association of Kongsberg Gruppen ASA; 
+(ii) 
+all reports, letters, and other documents, valuations and statements prepared by any expert at 
+the Issuer’s request any part of which is included or referred to in the Base Prospectus.
+
+--- Page 45 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 45 of 58 
+ 
+15. Financial instruments that can be issued under the Base 
+Prospectus 
+The Base Prospectus, as approved in accordance with the EU Prospectus Regulation 2017/1129, 
+allows for the issuance of Bonds. This chapter describes the form, type, definitions, general terms 
+and conditions, return and redemption mechanisms, rating and template for Final Terms associated 
+with the Bonds. 
+ 
+Risk factors related to the Bonds are described in Section 1 Risk Factors. 
+ 
+15.1 Securities Form 
+A Bond is a financial instrument as defined in Norwegian Securities Trading Act’s 
+(Verdipapirhandellovens) § 2-2. The Bonds are electronically registered in book-entry form with the 
+Securities Depository. 
+ 
+15.2 Security Type 
+The relevant security type will be specified in the applicable Final Terms.  
+ 
+Borrowing limit – tap issue  
+The Bond may be either open or closed for increase of the Borrowing Amount during the tenor. A tap 
+issue can take place until five banking days before the Maturity Date. If the issue is open, the First 
+Tranche and Borrowing Limit will be specified in the applicable Final Terms. 
+ 
+Return 
+Fixed Rate (FXR) 
+Bond issue with Fixed Rate will bear interest at a fixed rate of interest specified in the applicable Final 
+Terms. Interest on Fixed Rate Notes will be payable on such date or dates as may be agreed between 
+the Issuer and the relevant Manager(s) (as indicated in the applicable Final Terms) and upon 
+redemption.  
+ 
+Floating Rate (FRN) 
+Floating Rate issues bear interest equal to a Reference Rate plus a fixed Margin for a specified period 
+(3, 6 or 12 months). Coupon or Reference Rate may be deemed to be zero. The period lengths are 
+equal throughout the term of the Bond, but the Interest Rate dates are adjusted in accordance with 
+the Business Day Convention. New interest rates for each period are determined at the beginning of 
+this period based on the current Reference Rate value, plus a Margin. The Bonds shall not be subject 
+to any mandatory instalments and may not be redeemed otherwise than in accordance with the 
+Bond Terms.  
+ 
+The relevant Reference Rate, the Margin, the Interest Payment Dates and the then current Interest 
+Rate will be specified in the applicable Final Terms. 
+ 
+Redemption 
+The Bond will mature in full on the Maturity Date and shall be redeemed by the Issuer on the 
+Maturity Date at a price equal to 100 per cent. of the Nominal Amount. 
+The Bond may be prematurely redeemed due to a Tax Event or a Put Option Event. 
+ 
+Security 
+The Bonds may be either secured or unsecured. Details will be specified in the applicable Final Terms.
+
+--- Page 46 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 46 of 58 
+ 
+15.3 Definitions  
+These definitions supplement the definitions set out in any Bond Terms. 
+Additional Bonds: 
+Means any debt instruments issued under a Tap Issue, including 
+any Temporary Bonds. 
+Attachment 
+Means any schedule, appendix or other attachment to the Bond 
+Terms 
+Base Prospectus 
+This document. Describes the Issuer and predefined features of 
+Bonds that can be listed under the Base prospectus, as specified 
+in the Prospectus Regulation (EU) 2017/1129. Valid for 12 
+months after it has been published. In this period, a prospectus 
+may be constituted by the Base Prospectus, any supplement(s) 
+to the Base Prospectus and a Final Terms for each new issue. 
+Bonds 
+Means (i) the debt instruments issued by the Issuer pursuant to 
+the Bond Terms, including any Additional Bonds, and (ii) any 
+overdue and unpaid principal which has been issued under a 
+separate ISIN in accordance with the regulations of the CSD from 
+time to time. 
+Bond Terms: 
+Means these terms and conditions, including all Attachments 
+which form an integrated part of the Bond Terms, in each case as 
+amended and/or supplemented from time to time. 
+Bondholder: 
+Means a person who is registered in the CSD as directly 
+registered owner or nominee holder of a Bond, however subject 
+to clause for Bondholders’ rights in the Bond Terms. 
+Bondholders’ decision 
+The Bondholders’ Meeting represents the supreme authority of 
+the Bondholders community in all matters relating to the Bonds 
+and has the power to make all decisions altering the terms and 
+conditions of the Bonds, including, but not limited to, any 
+reduction of principal or interest and any conversion of the 
+Bonds into other capital classes.  
+ 
+At the Bondholders’ meeting each Bondholder may cast one vote 
+for each voting bond owned at close of business on the day prior 
+to the date of the Bondholders’ meeting in the records 
+registered in the Securities Depository. The ability to cast a vote 
+is contingent on Voting Bonds.  
+ 
+In order to form a quorum, at least half (1/2) of the voting bonds 
+must be represented at the Bondholders' meeting. See also the 
+clause for repeated Bondholders’ meeting in the Bond Terms.  
+ 
+Resolutions shall be passed by simple majority of the votes at the 
+Bondholders' Meeting, however, a majority of at least 2/3 of the 
+voting bonds represented at the Bondholders’ Meeting is 
+required for any waiver or amendment of any terms of the Bond 
+Terms.  
+(For more details, see also the clause for Bondholders’ decisions 
+in the Bond Terms) 
+Bondholders’ rights: 
+Bondholders’ rights are specified in clause in the Bond Terms 
+Bond Trustee: 
+Means the company designated as such in the preamble to the 
+Bond Terms, or any successor, acting for and on behalf of the 
+Bondholders in accordance with the Bond Terms.
+
+--- Page 47 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 47 of 58 
+ 
+Bond Trustee Fee Agreement 
+Means the agreement entered into between the Issuer and the 
+Bond Trustee relating, among other things, to the fees to be paid 
+by the Issuer to the Bond Trustee for the services provided by 
+the Bond Trustee relating to the Bonds. 
+Borrowing Limit – Tap Issue 
+and Borrowing Amount/First 
+Tranche 
+Borrowing limit is the maximum issue amount of an open Bond 
+Issue. 
+ 
+Borrowing Amount/First Tranche is the borrowing amount for a 
+closed Bond Issue, eventually the borrowing amount of the first 
+tranche of an open Bond Issue. 
+ 
+Borrowing Limit, Tap Issue and Borrowing Amount/First Tranche 
+will be specified in the Final Terms. 
+Business Day: 
+Means a day on which both the relevant CSD settlement system 
+is open, and the relevant currency of the Bonds settlement 
+system is open. 
+Business Day Convention 
+Means that if the last day of any Interest Period originally falls on 
+a day that is not a Business Day, the Interest Period will be 
+extended to include the first following Business Day unless that 
+day falls in the next calendar month, in which case the Interest 
+Period will be shortened to the first preceding Business Day. 
+Calculation Agent 
+The Bond Trustee 
+Change of Control Event 
+Means an event where any investor or group of investors (other 
+than the Kingdom of Norway), affiliated with each other or which 
+should be consolidated under the terms of section 1-3 of the 
+Norwegian Limited Liabilities Act, is or becomes the owner, 
+directly or indirectly, of more than 50 per cent. of the voting 
+shares of the Issuer. 
+Currency: 
+The currency in which the Bond Issue is denominated. Currency 
+will be specified in the Final Terms. 
+Day Count Convention: 
+The convention for calculation of payment of interest;  
+ 
+(a) If Fixed Rate, the payment of interest shall be calculated on 
+basis of a 360-day year comprised of twelve months of 30 days 
+each and, in case of an incomplete month, the actual number of 
+days elapsed (30/360-days basis), unless:  
+i) 
+the last day in the relevant Interest Period is the 31st 
+calendar day but the first day of that Interest Period 
+is a day other than the 30th or the 31st day of a 
+month, in which case the month that includes that 
+last day shall not be shortened to a 30-day month; or 
+ii) 
+the last day of the relevant Interest Period is the last 
+calendar day in February, in which case February 
+shall not be lengthened to a 30-day month.  
+ 
+(b) If FRN, the payment of interest shall be calculated on basis of 
+the actual number of days in the Interest Period in respect of 
+which payment is being made divided by 360 (actual/360-days 
+basis).
+
+--- Page 48 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 48 of 58 
+ 
+Decisive Influence 
+Means a person having, as a result of an agreement or through 
+the ownership of shares or interests in another person (directly 
+or indirectly):  
+(a) a majority of the voting rights in that other person; or  
+(b) a right to elect or remove a majority of the members of the 
+board of directors of that other person. 
+De-Listing Event 
+Means that the Issuer’s shares cease to be listed on the 
+Exchange or another regulated market without being or 
+simultaneously becoming listed on another regulated market 
+Default Repayment Date 
+Means the settlement date set out by the Bond Trustee in a 
+Default Notice requesting early redemption of the Bonds. 
+Denomination / Nominal 
+Amount 
+The nominal amount of each Bond. Denomination of each bond 
+will be specified in the Final Terms. 
+Disbursement/Issue Date 
+Date of bond issue.  
+ 
+On the Issue Date the bonds will be delivered to the 
+Bondholder’s VPS-account against payment or to the 
+Bondholder’s custodian bank if the Bondholder does not have 
+his/her own VPS-account.  
+ 
+The Issue Date will be specified in the Final Terms. 
+Exchange: 
+Means the Oslo Stock Exchange (Oslo Børs) 
+Finale Terms: 
+Document describing securities as specified in Prospectus 
+Regulation (EU) 2017/1129, prepared as part of the Prospectus. 
+Final Terms will be prepared for each new security as specified in 
+Prospectus Regulation (EU) 2017/1129, issued by the Issuer. 
+Finance Documents: 
+Means these Bond Terms, the Bond Trustee Fee Agreement and 
+any other document designated by the Issuer and the Bond 
+Trustee as a Finance Document. 
+Initial Bond Issue 
+Means the amount to be issued on the Disbursement/Issue Date 
+as set out in clause in Final Terms. 
+Initial Nominal Amount 
+Means the Nominal Amount of each Bond on the 
+Disbursement/Issue Date as set out in clause in Final Terms 
+Interest Payment Date(s): 
+Means the last day of each Interest Period subject to the 
+Business Day Convention. The Interest Payment Date(s) will be 
+specified in Final Terms. 
+Interest Period: 
+The interest is due in arrears on the Interest Payment Date. The 
+first interest period matures on the first Interest Payment Date 
+after the Disbursement Date. The next period runs from this date 
+until the next Interest Payment Date. The last period of interest 
+ends on Maturity Date. 
+Interest Determination 
+The regulation of the Interest Rate is effective from each Interest 
+Payment Date. The new Interest Rate is determined on Interest 
+Quotation Date based on NIBOR, unless specified otherwise in 
+Final Terms, with additional margin.  
+ 
+If the Interest Rate becomes negative, the Interest Rate may be 
+set to zero. The new Interest Rate and the next Interest 
+term/Period will be notified the Bondholders in writing through 
+the Securities Depository. The Trustee and Oslo Stock Exchange 
+shall also be notified immediately.
+
+--- Page 49 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 49 of 58 
+ 
+Interest Quotation 
+Date/Interest Determination 
+Date 
+Means, in relation to any period for which Interest Rate is to be 
+determined, 2 Quotation Business Days before the first day of 
+the relevant Interest Period. 
+Interest Rate: 
+Rate of interest applicable to the Bonds; 
+  
+(i) 
+If Fixed Rate, the Bonds shall bear interest at the 
+percentage rate per annum (based on the Day Count 
+Convention)  
+(ii) 
+If FRN, the Bonds shall bear interest at a rate per 
+annum equal to the Reference Rate plus a Margin 
+(based on the Day Count Convention). Interest Rate 
+or Reference Rate may be deemed to be zero. 
+ 
+The Interest Rate is specified in Final Terms. 
+Interest Rate Adjustment Date: Date(s) for adjusting of the Interest Rate for Bond Issue with 
+floating interest rate. The Interest Rate Adjustment Date will 
+coincide with the Interest Payment Date. 
+ISIN: 
+Means International Securities Identification Number for the 
+Bond Issue. ISIN is specified in the Final Terms. 
+Issuer: 
+Kongsberg Gruppen ASA is the Issuer under the Base Prospectus. 
+Issuer’s Bonds: 
+Means any Bonds which are owned by the Issuer or any affiliate 
+of the Issuer. 
+Issue Price: 
+The price in percentage of the Denomination, to be paid by the 
+Bondholders at the Issue Date.  
+ 
+Issue price will be specified in Final Terms. 
+LEI-code: 
+Legal Entity Identifier (LEI), is a 20-character reference code to 
+uniquely identify legally distinct entities that engage in financial 
+transactions.  
+ 
+The LEI-code is specified in the Final Terms 
+Listing: 
+Listing of a Bond Issue on an Exchange is due to the Base 
+Prospectus, any supplement(s) to the Base Prospectus and Final 
+Terms.  
+ 
+An application for Listing will be sent after the Disbursement 
+Date and after the Prospectus has been approved by the 
+Norwegian FSA.  
+ 
+Bonds listed on an Exchange are freely negotiable. See also 
+Market Making. 
+ 
+If the Bonds are listed on an Exchange and there is a 
+requirement for a new prospectus in order for the Additional 
+Bonds to be listed together with the Bonds, the Additional Bonds 
+may be issued under a separate ISIN (“Temporary Bonds”) which, 
+upon the approval of the prospectus, will be converted into the 
+ISIN for the Bonds issued on the Issue Date. The Bond Terms 
+governs such Temporary Bonds. The Issuer shall inform the Bond 
+Trustee, the Exchange and the Paying Agent once such 
+prospectus is approved.
+
+--- Page 50 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 50 of 58 
+ 
+Manager(s): 
+The Bond Issue’s Manager(s), as specified in the Final Terms. 
+Market Making: 
+For Bonds listed on an Exchange, a market-maker agreement 
+between the Issuer and a Manager may be entered.  
+ 
+This will be specified in the Final Terms. 
+Margin: 
+The Margin, specified in percentage points will be specified in 
+the Final terms. 
+Maturity Date: 
+The date the bond issue is due for payment. The Maturity Date is 
+adjusted in accordance with the Bank Day Convention.  
+ 
+The Maturity Date is specified in the Final Terms. 
+Maximum Issue Amount: 
+Means the maximum amount that may be issued under the Bond 
+Terms. 
+NIBOR: 
+Norwegian Interbank Offered Rate, being;  
+a) the interest rate fixed for a period comparable to the 
+relevant Interest Period published by Global Rate Set 
+Systems (GRSS) at approximately 12.00 (Oslo time) on 
+the Interest Quotation Day; or 
+b) if no screen rate is available for the relevant Interest 
+Period:  
+(i) 
+the linear interpolation between the two closest 
+relevant interest periods, and with the same number 
+of decimals, quoted under paragraph (a) above; or  
+(ii) 
+a rate for deposits in the currency of the Bonds for 
+the relevant Interest Period as supplied to the Bond 
+Trustee at its request quoted by a sufficient number 
+of commercial banks reasonably selected by the 
+Bond Trustee; or  
+c) if the interest rate under paragraph (a) is no longer 
+available, the interest rate will be set by the Bond 
+Trustee in consultation with the Issuer to:  
+(i) 
+any relevant replacement reference rate generally 
+accepted in the market; or  
+(ii) 
+such interest rate that best reflects the interest rate 
+for deposits in the currency of the Bonds offered for 
+the relevant Interest Period. 
+ 
+Information about NIBOR’s past (three months) and present 
+performance and volatility can be obtained from Norske 
+Finansielle Referanser AS’s webpages: 
+https://most.referanserenter.no/nibor-rates.html  
+ 
+This information is free of charge for up to the last three months. 
+For further information on past performance and volatility of 
+NIBOR, a subscription is required.  
+ 
+Unless otherwise specified in the Final Terms. 
+Nominal Amount 
+Means nominal value of each Bond at any time.  
+Outstanding Bonds: 
+Means any Bonds not redeemed or otherwise discharged.
+
+--- Page 51 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 51 of 58 
+ 
+Paying Agent: 
+ 
+Means the legal entity appointed by the Issuer to act as its 
+paying agent with respect to the Bonds in the CSD. Paying Agent 
+is specified in the Final Terms. 
+Payment Day 
+Means any Interest Payment Date or any Repayment Date 
+Principal amount: 
+Outstanding amounts under the Bond from time to time. 
+Prospectus: 
+Base Prospectus and any supplement(s) to the Base Prospectus 
+and relevant Final Terms which together constitute the 
+Prospectus prepared in connection with application for listing on 
+a Marketplace. 
+Put Option 
+The Final Terms may specify that upon the occurrence of a Put 
+Option Event, each Bondholder will have the right to require that 
+the Issuer purchases all or some of the Bonds held by that 
+Bondholder.  
+ 
+In such case the exercise procedures, the repayment date and 
+redemption price will be specified in the Final Terms. 
+Put Option Event 
+Means a Change of Control Event or a De-Listing Event. 
+Redemption 
+The Outstanding Bonds will mature in full on the Maturity Date 
+and shall be redeemed by the Issuer on the Maturity Date at a 
+price equal to 100 per cent. of the Nominal Amount, if not 
+already redeemed pursuant to a Tax Event or Put Option Event. 
+Redemption Price 
+The price determined as a percentage of the Denomination to 
+which the bond issue is to be redeemed at the Maturity Date. 
+ 
+Redemption Price is 100 per cent of Denomination – Each Bond. 
+Reference Rate: 
+NIBOR. Unless otherwise specified in the Final Terms.  
+Repayment Date 
+Means specific dates as defined in Bond Terms.  
+Securities Depository/CSD: 
+The securities depository in which the bonds are registered, in 
+accordance with the Norwegian Act of 2019 no. 6 regarding 
+Securities depository. 
+ 
+CSD, means the central securities depository in which the Bonds 
+are registered. 
+ 
+Unless otherwise specified in the Final Terms, the following 
+Securities Depository will be used: Norwegian Central Securities 
+Depository (“Verdipapirsentralen” or ”VPS”), P.O. Box 4, 0051 
+Oslo. 
+Tap Issues: 
+The Issuer may, provided that the conditions set out in the Bond 
+Terms are met, at one or more occasions issue Additional Bonds 
+until the Nominal Amount of all Additional Bonds equals in 
+aggregate the Maximum Issue Amount less the Initial Bond Issue.  
+ 
+Each Tap Issue will be subject to identical terms as the Bonds 
+issued pursuant to the Initial Bond Issue in all respects as set out 
+in these Bond Terms, except that Additional Bonds may be 
+issued at a different price than for the Initial Bond Issue and 
+which may be below or above the Nominal Amount.  
+ 
+If N/A is specified in the Borrowing Limit in the Final Terms, the 
+Issuer may not make Tap issues under the Bond Terms.
+
+--- Page 52 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 52 of 58 
+ 
+Voting Bonds: 
+Means the Outstanding Bonds less the Issuer’s Bonds. 
+Yield: 
+Dependent on the Market Price for bond issue with floating rate. 
+Yield for the first interest period can be determined when the 
+interest is known, normally two Business Days before the Issue 
+Date.  
+ 
+For Bond Issue with Fixed rate, Yield is dependent on the market 
+price and number of Interest Payment Date. 
+ 
+The Yield is calculated in accordance with «Anbefaling til 
+Konvensjoner for det norske sertifikat- og obligasjonsmarkedet» 
+prepared by Norske Finansanalytikeres Forening in January 2020: 
+https://finansanalytiker.no/innlegg/januar-2020-oppdatert-
+konvensjon-for-det-norske-sertifikat-og-obligasjonsmarkedet/  
+ 
+Yield is specified in Final Terms. 
+ 
+15.4 General terms and conditions 
+These general terms and conditions supplement the general terms and conditions set out in any 
+Bond Terms. If these general terms and conditions at any point in time no longer represents the 
+correct understanding of the general terms and conditions set out in the Bond Terms, the Bond 
+Terms shall prevail. 
+ 
+15.4.1 Use of proceeds 
+The net proceeds from the Bond Issue shall be employed for refinancing of existing debt and general 
+corporate purposes. This applies unless otherwise specified in the Final Terms. 
+ 
+15.4.2 Publication 
+Base Prospectus, any supplement to the Base Prospectus and Final Terms will be published on 
+Issuer’s website: https://www.kongsberg.com, or on the Issuer's visit address, Kirkegårdsveien 45, 
+3616 Kongsberg, or their successor (s). The Prospectus is published by a stock exchange 
+announcement. 
+ 
+15.4.3 Redemption 
+Matured interest and matured principal will be credited each Bondholder directly from the Securities 
+Registry. Claims for interest and principal shall be limited in time pursuant the Norwegian Act relating 
+to the Limitation Period Claims of May 18th 1979 no 18, p.t. 3 years for interest rates and 10 years 
+for principal. 
+ 
+15.4.4 Fees, Expenses and Tax legislation 
+The tax legislation of the investor’s Member State and of the Issuer’s country of incorporation may 
+have an impact on the income received from the securities. The Issuer shall pay any stamp duty and 
+other public fees in connection with the loan. Any public fees or taxes on sales of Bonds in the 
+secondary market shall be paid by the Bondholders, unless otherwise decided by law or regulation.  
+ 
+The Issuer is responsible for withholding any withholding tax imposed by applicable law on any 
+payments to be made by it in relation to the Finance Documents.  
+ 
+15.4.5 Security Depository and secondary trading 
+The Bonds are electronically registered in book-entry form with the Securities Depository, see also 
+the definition of "Securities Depository". Securities Depository is specified in the Final Terms.
+
+--- Page 53 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 53 of 58 
+ 
+Secondary trading will be made over an Exchange for Bonds listed on a marketplace. See also 
+definition of “Market Making”. 
+  
+Prospectus fee for the Base Prospectus including templates for Final Terms is NOK 88,000. In 
+addition, there is a listing fee for listing of the Bonds in accordance with the current price list of the 
+Exchange.  
+ 
+The listing fees will be specified in the Final Terms. 
+ 
+15.4.6 Status of the Bonds, Security and Negative pledge 
+The Bonds will constitute senior unsecured debt obligations for the Issuer. 
+ 
+The Bonds shall rank at least pari passu with all other senior obligations of the Issuer other than 
+obligations which are mandatory preferred by law. The Bonds shall rank ahead of subordinated 
+capital. 
+ 
+Negative pledge 
+The Bonds may have negative pledge clause. Details will be specified in the applicable Final Terms.  
+ 
+15.4.7 Bond terms 
+The Bond Terms has been entered into between the Issuer and the Bond Trustee. The Bond Terms 
+regulates the Bondholders’ rights and obligations in relations with the bond issue. The Bond Trustee 
+enters into the Bond Terms on behalf of the Bondholders and is granted authority to act on behalf of 
+the Bondholders to the extent provided for in the Bond Terms.  
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with the CSD, the Bondholders 
+are bound by the Bond Terms and any other Finance Document, without any further action required 
+to be taken or formalities to be complied with by the Bond Trustee, the Bondholders, the Issuer or 
+any other party.  
+ 
+The Bond Terms will be attached to the Final Terms for each Bond issue and is also available through 
+the Manager(s), Issuer and the Bond Trustee. 
+ 
+15.4.8 Legislation 
+The Bond Terms is governed by and construed in accordance with Norwegian law. Kongsberg 
+Gruppen ASA is subject to Norwegian legislation, the most relevant law for the Group's operations is 
+the Public Limited Companies Act, the Norwegian Securities Trading Act and the Norwegian Stock 
+Exchange Regulations. 
+ 
+15.4.9 Approvals 
+The Bonds will be issued in accordance with the Issuer’s Board of Directors approval.  
+The date of the Issuer’s Board of Directors approval will be specified in the Final Terms. 
+The Base Prospectus has been submitted to the Norwegian Financial Supervisory Authority 
+(Finanstilsynet) before Listing of the Bonds takes place.  
+ 
+Final Terms will be submitted to Finanstilsynet for information in connection with an application for 
+listing of a Bond Issue. 
+ 
+The Base Prospectus will not be the basis for offers for subscription in Bonds that are not subject to a 
+prospectus obligation.
+
+--- Page 54 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 54 of 58 
+ 
+15.4.10 Restrictions on the free transferability of the securities 
+Any restrictions on the free transferability of the securities will be specified in the Final Terms. 
+ 
+15.5 Return and redemption 
+Bonds may have return and redemption mechanisms as explained below. The relevant Final Terms 
+refer to these mechanisms and provide relevant parameter values for the specific bond issue. 
+ 
+15.5.1 Bonds with Floating rate 
+15.5.1.a Return (interest) 
+The Interest Rate is defined in Interest Rate ii) under section 15.3. Payment of the Interest Rate is 
+calculated on basis of the Day Count Convention (b).  
+ 
+Interest Rate or Reference Rate may be deemed to be zero.  
+ 
+The period lengths are equal throughout the term of the Bond, but each Interest Payment Date is 
+adjusted in accordance with the Business Day Convention. The Interest Rate for each forthcoming 
+period are determined two Business Days prior to each Interest Payment Date based on the then 
+current value of the Reference Rate plus the Margin.  
+ 
+The Interest Rate is paid in arrears on each Interest Payment Date. The first Interest Period runs from 
+and including the Issue Date to but excluding the first Interest Payment Date. The subsequent 
+Interest Periods run from and including an Interest Payment Date to but excluding the next Interest 
+Payment Date. The last Interest Payment Date corresponds to the Maturity Date.  
+ 
+The relevant Reference Rate, the Margin, the Interest Payment Dates and the then current Interest 
+Rate will be specified in the applicable Final Terms.  
+ 
+Interest calculation method for secondary trading is given by act/360, modified following. 
+ 
+15.5.1.b Redemption 
+Redemption is made in accordance with Redemption. 
+ 
+15.5.2 Bonds with Fixed rate 
+15.5.2.a Return (interest) 
+The Interest Rate is defined in Interest Rate (i) under section 15.3. Payment of the Interest Rate is 
+calculated on basis of the Day Count Convention (a).  
+ 
+The Interest Rate is paid in arrears on each Interest Payment Date. The first Interest Period runs from 
+and including the Issue Date to but excluding the first Interest Payment Date. The subsequent 
+Interest Periods run from and including an Interest Payment Date to but excluding the next Interest 
+Payment Date. The last Interest Payment Date corresponds to the Maturity Date. 
+  
+The Interest Rate and the Interest Payment Dates will be specified in the applicable Final Terms.  
+ 
+Interest calculation method for secondary trading is given by act/365 for Bond issue with Fixed rate. 
+ 
+15.5.2.b Redemption 
+Redemption is made in accordance with Redemption.
+
+--- Page 55 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 55 of 58 
+ 
+15.6 Rating 
+Nordic Credit Rating has assigned Kongsberg Gruppen ASA a “A-“ long-term issuer credit rating, and 
+an “N-1+” short-term rating. See full report at www.nordiccreditrating.com. 
+ 
+15.7 Final Terms 
+Template for Final Terms for Fixed and Floating bond issue, see Appendix 2.
+
+--- Page 56 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 56 of 58 
+ 
+Cross reference list 
+ 
+Reference in 
+Registration 
+Document 
+Refers to 
+Details 
+10.1 Financial 
+information 
+Annual and Sustainability report 2020, available at: 
+https://www.kongsberg.com/globalassets/corpora
+te/investor-relations/annual-report/annual-report-
+and-sustainability-report-2020.pdf 
+ 
+Group’s accounting policies, pages 
+142-149 
+ 
+Kongsberg Gruppen ASA’s 
+accounting policies, page 205 
+ 
+Annual and Sustainability report 2020, available at: 
+https://www.kongsberg.com/globalassets/corpora
+te/investor-relations/annual-report/annual-report-
+and-sustainability-report-2020.pdf 
+ 
+Kongsberg Gruppen ASA 
+Consolidated 
+ 
+Consolidated statement of 
+comprehensive income, page 137 
+ 
+ 
+Consolidated statement of 
+financial position as of 31 
+December, page 138 
+ 
+ 
+Consolidated statement of cash 
+flow, page 140 
+ 
+ 
+Notes to the consolidated 
+financial statements, pages 140 – 
+201 
+ 
+Kongsberg Gruppen ASA 
+ 
+ 
+ 
+ 
+ 
+Statement of Income, page 202 
+ 
+ 
+Statement of financial position as 
+of 31 December, page 203 
+ 
+ 
+Statements of cash flow, page 204 
+ 
+ 
+Notes to the financial statements, 
+pages 205 – 214 
+ 
+ 
+ 
+10.2 Auditing 
+of historical 
+annual 
+financial 
+information 
+Annual and Sustainability report 2020, available at: 
+https://www.kongsberg.com/globalassets/corpora
+te/investor-relations/annual-report/annual-report-
+and-sustainability-report-2020.pdf 
+ 
+Auditor’s report, pages 216-219 
+ 
+References to the above in mentioned documents are limited to information given in “Details”, e.g. 
+that the nonincorporated parts are either not relevant for the investor or covered elsewhere in the 
+prospectus.
+
+--- Page 57 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 57 of 58 
+ 
+Appendix 1: Articles of Association
+
+--- Page 58 ---
+Appendix 1 
+Articles of Association 
+Kongsberg Gruppen ASA 
+Page 1 of 2 
+ 
+ARTICLES OF ASSOCIATION FOR KONGSBERG GRUPPEN ASA 
+ 
+This is an English office translation of the original Norwegian version of this document. In case of 
+discrepancy between the Norwegian language original text and the English language translation, the 
+Norwegian text shall prevail. 
+ 
+Most recently revised by the Extraordinary General Meeting on 2 November 2018. 
+§1 The name of the Company is Kongsberg Gruppen ASA. The Company is a public company. 
+ 
+§2 The Company's registered office is in Kongsberg (Norway). 
+ 
+§3 The object of Kongsberg Gruppen ASA is to engage in technological and industrial activities in the 
+maritime, defence and related areas. The Company may participate in and own other companies. 
+ 
+§4 The Company's share capital is NOK 224 987 581,25, divided among 179 990 065 shares with a 
+nominal value of NOK 1.25. The Company's shares shall be registered in the Norwegian Registry of 
+Securities. 
+ 
+§5 The Board shall have from five to eight members (Directors). Up to five Directors and up to two 
+Deputy Directors shall be elected by the Annual General Meeting. According to regulations laid down 
+pursuant to the provisions of the Norwegian Companies Act regarding employee representation on 
+the Board of Directors in public limited companies, three Directors and their Deputies shall be 
+elected directly by and from among the employees. 
+ 
+§6 The Chair of the Board has the power to sign for the Company alone, or the Deputy Chair and 
+another Director may sign jointly for the Company. 
+ 
+§7 General Meetings will be held in Kongsberg or in Oslo and shall be convened in writing with at 
+least 21 days' notice. Documents that apply to items on the agenda for the General Meeting need 
+not be sent to the shareholders if the documents are made available to the shareholders on the 
+Company's website. This also applies to documents which are required by law to be included in or 
+attached to the notification of the General Meeting. A shareholder can nevertheless ask to receive 
+documents that apply to items on the agenda at the General Meeting. 
+ 
+§8 The Annual General Meeting shall: 
+1. Adopt the Financial Statements and the Directors' Report, including the payment of dividends. 
+2. Discuss other matter which, pursuant to legislation or the Articles of Association, are the province 
+of the General Meeting. 
+3. Elect the shareholders' representatives and their deputies to the corporate Board of Directors. 
+4. Elect the members of the Nominating Committee. 
+5. Elect one or more auditors, based on nominations made by the General Meeting. 
+6. Stipulate the Board's compensation and approve compensation to the Auditor. 
+7. Deal with the Board's declaration regarding the stipulation of salary and other compensation to 
+key management personnel. The convening letter shall state that shareholders who would like to 
+participate in the General Meeting are to sign up by a deadline specified in the convening letter. The 
+deadline shall expire no more than five days prior to the General Meeting. 
+ 
+The General Meeting shall be chaired by the Chair of the Board or, in his/her absence, by the Deputy 
+Chair. In the absence of both, the General Meeting shall elect a moderator. 
+§9 The Nominating Committee shall consist of three or four members who shall be shareholders or 
+representatives of the shareholders. The members of the Nominating Committee, including the
+
+--- Page 59 ---
+Appendix 1 
+Articles of Association 
+Kongsberg Gruppen ASA 
+Page 2 of 2 
+ 
+Chair, shall be elected by the General Meeting. The term of office for members of the Nominating 
+Committee is two years. If the Chair of the Nominating Committee resigns his Commission in an 
+election period, the Nominating Committee can choose the new Chair among the members of the 
+Nominating Committee with the function of time for the remaining part of the new Chair's period.  
+ 
+The Nominating Committee shall present to the General Meeting its recommendations for the 
+election of, and remuneration to, the Directors and Deputy Directors on the Board and the 
+Nominating Committee. The General Meeting sets out instructions for the Nominating Committee.
+
+--- Page 60 ---
+Base Prospectus, KOG ASA 
+July 9, 2021 
+ 
+Page 58 of 58 
+ 
+Appendix 2: Template of Final Terms for Fixed and Floating bond 
+issues
+
+--- Page 61 ---
+Kongsberg Gruppen ASA 
+Appendix 2 
+Final Terms [Title of Notes] 
+ISIN [ISIN] 
+Page 1 of 14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Base Prospectus 
+ 
+Final Terms 
+for 
+[Title of the bond issue] 
+ 
+ 
+ 
+Kongsberg, [Date]
+
+--- Page 62 ---
+Kongsberg Gruppen ASA 
+Appendix 2 
+Final Terms [Title of Notes] 
+ISIN [ISIN] 
+Page 2 of 14 
+ 
+Terms used herein shall be deemed to be defined as such for the purpose of the conditions set forth in the Base 
+Prospectus sections 2 Definitions, 15.3 Definitions, and in the attached Bond Terms for each Bond Issue. 
+Set out below is the form of Final Terms which will be completed for each Bond Issue which are issued under the 
+Base Prospectus.  
+ 
+[In case MiFID II identified target group are professional investors and eligible counterparties, insert 
+the following:]  
+ 
+MiFID II product governance / Professional investors and ECPs only target market – Solely for the 
+purposes of [the/each] manufacturer’s product approval process, the target market assessment in 
+respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is eligible 
+counterparties and professional clients only, each as defined in Directive 2014/65/EU (as amended, 
+“MiFID II”); and (ii) all channels for distribution of the Bonds to eligible counterparties and 
+professional clients are appropriate. [Consider any negative target market]. Any person subsequently 
+offering, selling or recommending the Bonds (a “distributor”) should take into consideration the 
+manufacturer[’s/s’] target market assessment; however, a distributor subject to MiFID II is 
+responsible for undertaking its own target market assessment in respect of the Bonds (by either 
+adopting or refining the manufacturer[‘s/s’] target market assessment) and determining appropriate 
+distribution channels.  
+ 
+[PROHIBITION OF SALES TO EEA RETAIL INVESTORS - The Bonds are not intended to be offered, sold 
+or otherwise made available to and should not be offered, sold or otherwise made available to any 
+retail investor in the European Economic Area (“EEA”). For these purposes, a retail investor means a 
+person who is one (or more) of: (i) a retail client as defined in point (11) of Article 4(1) of MiFID II; (ii) 
+a customer within the meaning of Directive 2002/92/EC (as amended or superseded), where that 
+customer would not qualify as a professional client as defined in point (10) of Article 4(1) of MiFID II; 
+or (iii) not a qualified investor as defined in the Prospectus Directive. Consequently no key 
+information document required by Regulation (EU) No 1286/2014 (the “PRIIPs Regulation”) for 
+offering or selling The Bonds or otherwise making them available to retail investors in the EEA has 
+been prepared and therefore offering or selling The Bonds or otherwise making them available to 
+any retail investor in the EEA may be unlawful under the PRIIPs Regulation.]  
+[In case MiFID II identified target group are retail investors, professional investors and eligible 
+counterparties, insert the following:]  
+ 
+MiFID II product governance / Retail investors, professional investors and ECPs target market – 
+Solely for the purposes of each manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds 
+is eligible counterparties, professional clients and retail clients each as defined in Directive 
+2014/65/EU (as amended, “MiFID II”); (ii) all channels for distribution to eligible counterparties and 
+professional clients are appropriate; and (iii) the following channels for distribution of the Bonds to 
+retail clients are appropriate – investment advice, portfolio management, non-advised sales and pure 
+execution services – subject to the distributor’s suitability and appropriateness obligations under 
+MiFID II, as applicable. Any person subsequently offering, selling or recommending the Bonds (a 
+“distributor”) should take into consideration the manufacturers’ target market assessment; however, 
+a distributor subject to MiFID II is responsible for undertaking its own target market assessment in 
+respect of the Bonds (by either adopting or refining the manufacturers’ target market assessment) 
+and determining appropriate distribution channels, subject to the distributor’s suitability and 
+appropriateness obligations under MiFID II, as applicable.  
+ 
+This document constitutes the Final Terms of The Bonds described herein pursuant to the Regulation 
+(EU) 2017/1129 and must be read in conjunction with the Base Prospectus dated 09th of July 2021 
+and [the supplement[s] to the Base Prospectus dated [date]].
+
+--- Page 63 ---
+Kongsberg Gruppen ASA 
+Appendix 2 
+Final Terms [Title of Notes] 
+ISIN [ISIN] 
+Page 3 of 14 
+ 
+The Base Prospectus [and the supplement[s] to the Base Prospectus] and Final Terms are available on 
+the Issuer's website https://www.kongsberg.com or on the Issuer's visit address, Kirkegårdsveien 45, 
+3616 Kongsberg, or their successor (s). 
+ 
+Final Terms include a summary of each Bond Issue.
+
+--- Page 64 ---
+Kongsberg Gruppen ASA 
+Appendix 2 
+Final Terms [Title of Notes] 
+ISIN [ISIN] 
+Page 4 of 14 
+1 Summary 
+Summaries are made up of disclosure requirements due to Article 7 in the REGULATION (EU) 
+2017/1129 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 June 2017. 
+Introduction and warning 
+Disclosure requirement 
+Disclosure 
+Warning 
+This summary should be read as introduction to the 
+Base Prospectus. Any decision to invest in the securities 
+should be based on consideration of the Base 
+Prospectus as a whole by the investor. The investor 
+could lose all or part of the invested capital. Where a 
+claim relating to the information contained in the Base 
+Prospectus is brought before a court, the plaintiff 
+investor might, under the national law, have to bear the 
+costs of translating the Base Prospectus before the legal 
+proceedings are initiated. Civil liability attaches only to 
+those persons who have tabled the summary including 
+any translation thereof, but only where the summary is 
+misleading, inaccurate or inconsistent, when read 
+together with the other parts of the Base Prospectus, or 
+where it does not provide, when read together with the 
+other parts of the prospectus, key information in order 
+to aid investors when considering whether to invest in 
+such securities 
+Name and international securities 
+identification number (‘ISIN’) of the 
+securities 
+[●]
+Identity and contact details of the 
+issuer, including its legal entity 
+identifier (‘LEI’). 
+Kongsberg Gruppen ASA, Kirkegårdsveien 45, NO-3616 
+Kongsberg, Norway 
+Telephone number is +47 32 28 82 00 
+Registration number 943 753 709 
+The Company’s LEI code is 5967007LIEEXZXJ9HK73. 
+Identity and contact details of the 
+offeror or of the person asking for 
+admission to trading on a regulated 
+market. 
+Not applicable. There is no offeror, the prospectus has 
+been produced in connection with listing of the 
+securities on the Oslo Stock Exchange. The Issuer is 
+going to ask for admission to trading on a regulated 
+market. 
+Identity and contact details of the 
+competent authority that approved the 
+prospectus 
+Financial Supervisory Authority of Norway 
+(Finanstilsynet), Revierstredet 3, 0151 Oslo. Telephone 
+number is +47 22 83 39 50. E-mail: 
+prospekter@finanstilsynet.no.  
+Date of approval of the prospectus 
+The Base Prospectus was approved on the 09th of 
+July 2021
+
+--- Page 65 ---
+Kongsberg Gruppen ASA 
+Appendix 2 
+Final Terms [Title of Notes] 
+ISIN [ISIN] 
+Page 5 of 14 
+ 
+Key information on the Issuer 
+Disclosure requirement 
+Disclosure 
+Who is the Issuer of the securities 
+ 
+Domicile and legal form 
+The Company is domiciled and incorporated in 
+Norway. The Company is a public limited liability 
+company incorporated under the laws of Norway, 
+including the Public Limited Companies Act. 
+Principal activities 
+Kongsberg Gruppen ASA (KONGSBERG) is an 
+international technology group that supplies high-
+technology systems, solutions and services to 
+customers in defence, merchant marine, aerospace, 
+space, offshore oil and gas industries, and renewable 
+and utilities industries.  
+Major Shareholders 
+ 
+List of 20 major shareholders as of 06 July 2021: 
+There are no arrangements, known to the Company, the operation of which may at a subsequent 
+date result in a change in control of the Company. 
+ 
+Management
+
+--- Page 66 ---
+Kongsberg Gruppen ASA 
+Appendix 2 
+Final Terms [Title of Notes] 
+ISIN [ISIN] 
+Page 6 of 14 
+ 
+Statutory auditors 
+Ernst & Young 
+What is the key financial information 
+regarding the issuer 
+ 
+Key financial information 
+ 
+Kongsberg Gruppen ASA 
+Amounts in NOK million 
+2020 (Full Year) 
+Operating profit 
+(47) 
+Net financial debt (long term 
+debt plus short term debt 
+minus cash) 
+(1,436) 
+Net Cash flows from operating 
+activities 
+3,145 
+Net Cash flows from financing 
+activities 
+4,657 
+ 
+Net Cash flow from investing 
+activities 
+- 
+ 
+Kongsberg Gruppen ASA Consolidated 
+Amounts in NOK million 
+2020 (FY) 
+Operating profit (EBIT) 
+1,905 
+Net financial debt (long term 
+debt plus short term debt 
+minus cash) 
+(3,949) 
+Net Cash flows from operating 
+activities 
+2,808 
+Net Cash flows from financing 
+activities 
+(3,531) 
+Net Cash flow from investing 
+activities 
+2,392 
+ 
+ 
+There is no description of any qualifications in the audit report for the Annual  Report 2020. 
+What are the key risk factors that are specific to the 
+Issuer 
+ 
+1a 
+Risks related to the various markets in which KONGSBERG operates 
+II 
+Export and trading restrictions 
+I 
+Lower demand products and services within maritime 
+VI 
+Increased competition 
+1b 
+Risks related to KONGSBERG’s business 
+II 
+Ability to develop and innovate 
+IV 
+International operations 
+III 
+Corruption 
+V 
+IT and cyber security 
+1c 
+Risks related to the industry 
+I 
+Political influence and governmental regulations 
+1d 
+Risks related to financing 
+I 
+Fluctuations in foreign exchange rates  
+1f 
+Risks related to climate policy and strategy 
+I 
+Increased focus on climate and zero-emission
+
+--- Page 67 ---
+Kongsberg Gruppen ASA 
+Appendix 2 
+Final Terms [Title of Notes] 
+ISIN [ISIN] 
+Page 7 of 14 
+ 
+Key information on the admission to trading on a regulated market 
+Disclosure requirement 
+Disclosure 
+What are the main features of the 
+securities 
+ 
+Description of the securities, including 
+ISIN code. 
+ [●] 
+Currency for the bond issue 
+[●] 
+Borrowing Limit and Borrowing Agent 
+[● tranche] 
+[●] 
+Denomination – Each Bond 
+[●] 
+Any restrictions on the free 
+transferability of the securities 
+[●] 
+Description of the rights attached to the 
+securities, limitations to those rights 
+and ranking of the securities. 
+[●] 
+Information about Issue and Maturity 
+Date, interest rate, instalment and 
+representative of the bondholders 
+[●] 
+Status of the bonds and security 
+[●] 
+Where will the securities be traded 
+[●] 
+Indication as to whether the securities 
+offered are or will be the object of an 
+application for admission to trading. 
+[●] 
+What are the key risks that are specific 
+to the securities 
+[●] 
+Most material key risks 
+ 
+ 
+Risk factor 
+I 
+Inability to repay the Bonds 
+II 
+Subordination  
+III 
+Market value fluctuations 
+IV 
+Terms of Bond agreement  
+V 
+Change of Control
+
+--- Page 68 ---
+Kongsberg Gruppen ASA 
+Appendix 2 
+Final Terms [Title of Notes] 
+ISIN [ISIN] 
+Page 8 of 14 
+ 
+Key information on the admission to trading on a regulated market 
+Disclosure requirement 
+Disclosure 
+Under which conditions and timetable 
+can I invest in this security? 
+[●]  
+The estimate of total expenses related to the admission 
+to trading, please see section 15.4.5   
+[/ Other: (specify)]  
+ 
+Listing fee (Oslo Stock Exchange) [●]  
+ 
+Registration fee (Oslo Stock Exchange) [●] 
+Why is the prospectus being produced 
+In connection with listing of the securities on the Oslo 
+Stock Exchange 
+Reasons for the admission to trading on 
+a regulated marked and use of. 
+Use of proceeds  [●] 
+ 
+Estimated net amount of the proceeds [●] 
+Description of material conflicts of 
+interest to the issue including 
+conflicting interests. 
+[●]
+
+--- Page 69 ---
+Kongsberg Gruppen ASA 
+Appendix 2 
+Final Terms [Title of Notes] 
+ISIN [ISIN] 
+Page 9 of 14 
+ 
+2 Detailed information about the security 
+General: 
+ISIN code: 
+[ISIN] 
+ 
+The Loan/The Reference Name/The 
+Bonds/The Notes: 
+[Title of the bond issue] 
+Borrower/Issuer: 
+Kongsberg Gruppen ASA, Norwegian enterprise no. 
+943 753 709 and LEI code is 5967007LIEEXZXJ9HK73. 
+ 
+Security Type: 
+[Bond Issue with [fixed/floating] rate 
+ 
+Borrowing Limit – Tap Issue: 
+[Currency] [Amount borrowing limit] 
+ 
+Borrowing Amount [●] tranche: 
+[Currency] [Amount [●] tranche] 
+ 
+Outstanding Amount: 
+[Currency] [Amount] 
+ 
+Open/Close: 
+Tap Issues will be opened on Disbursement Date and 
+closed no later than five banking days before the 
+Maturity Date. 
+ 
+[/ Other: (specify)] 
+ 
+Denomination – Each bond 
+[Currency] [Amount denomination] - each and ranking 
+pari passu among themselves 
+ 
+Securities Form: 
+The Bonds are electronically registered in book-entry 
+form with the Securities Depository. 
+ 
+Publication: 
+Publication of the Final Terms is made in accordance 
+with the Base Prospectus section 15.4.2 
+ 
+Issue Price: 
+[Issue price] % 
+ 
+Disbursement Date/Issue Date: 
+[Issue date] 
+ 
+Maturity Date: 
+[Maturity Date] 
+ 
+Interest Rate: 
+ 
+Interest Bearing from and including: 
+ 
+[Interest Rate]  
+ 
+[Issue Date]  
+ 
+/ Other: (specify)] 
+ 
+Interest Bearing To: 
+Maturity Date 
+ 
+/ Other: (specify)]
+
+--- Page 70 ---
+Kongsberg Gruppen ASA 
+Appendix 2 
+Final Terms [Title of Notes] 
+ISIN [ISIN] 
+Page 10 of 14 
+ 
+Reference Rate: 
+[(Specify)  
+ 
+[NIBOR] as defined in the Basic Prospectus section 
+15.3 
+ 
+[Other: (specify)]  
+ 
+/ Fixed Interest: N/A] 
+ 
+Margin: 
+[[Margin] % p.a.  
+ 
+/ Fixed Interest: N/A  
+ 
+/ Other: (specify)] 
+ 
+Coupon Rate: 
+[Bond issue with floating rate (as defined in the Base 
+Prospectus section 15.5.1.a): [Reference Rate + 
+Margin] % p.a. 
+ 
+/ Bond Issue with fixed rate (as defined in the Base 
+Prospectus section 15.5.2.a): [Interest rate] % p.a. 
+ 
+Day Count Fraction - Coupon: 
+[Floating Rate: As defined in the Base Prospectus 
+section 15.5.1.a  
+ 
+/ Fixed Rate: As defined in the Base Prospectus 
+section 15.5.2.a 
+ 
+Day Count Fraction – Secondary Market: 
+[Floating Rate: As defined in the Base Prospectus 
+section 15.5.1.a 
+ 
+/ Fixed Rate: As defined in the Base Prospectus 
+section 15.5.2.a 
+ 
+Interest Determination Date: 
+[Floating Rate: As defined in the Base Prospectus 
+section 15.5.1.a Interest Rate Determination Date: 
+[Interest Rate Determination Date(s)] each year. 
+ 
+/ Fixed rate: N/A] 
+ 
+Interest Payment Date: 
+[Floating Rate: As defined in the Base Prospectus 
+section 15.5.1.a 
+ 
+/ Fixed Rate: As defined in the Base Prospectus 
+section 15.5.2.a. Interest Payment Date: [Date(s)] 
+each year. The first Interest Payment Date is [Date]. 
+ 
+Interest Rate Adjustment Date: 
+[Floating Rate: As specified in the Base Prospectus 
+section 15.5.1.a Interest Rate Adjustment Date: 
+[Interest Rate Adjustment Date(s)] each year.  
+ 
+/ Fixed rate: N/A]
+
+--- Page 71 ---
+Kongsberg Gruppen ASA 
+Appendix 2 
+Final Terms [Title of Notes] 
+ISIN [ISIN] 
+Page 11 of 14 
+ 
+ 
+#Days first term: 
+[Number of interest days] days 
+ 
+Yield: 
+As defined in the Base Prospectus section 15.3. 
+[Floating Rate: (specify)  
+ 
+/ Fixed Rate: (specify)] 
+Business Day: 
+As defined in the Base Prospectus section 15.3.  
+ 
+/ Other: (specify)] 
+Amortisation and Redemption: 
+ 
+Instalment: 
+As defined in the Base Prospectus section 15.3.  
+ 
+Instalment as defined in the Base Prospectus section 
+15.5.1.b and 15.5.2.b. 
+ 
+Redemption: 
+As defined in the Base Prospectus section 15.4.3. 
+ 
+Obligations: 
+Issuer’s special obligations during the 
+term of the Bond Issue 
+ 
+[As defined in Issuer’s special obligations during the 
+term of the Bond Issue in the Base Prospectus section 
+15.3.  
+ 
+/ Other: (specify)] 
+Listing: 
+Listing of the Bond Issue/Marketplace: 
+ 
+[Listing on the Oslo Stock Exchange: As defined in 
+Listing of the Bond Issue in Base Prospectus section 
+15.3.  
+ 
+/ The Bond Issue will not be applied for listing on any 
+Marketplace.  
+ 
+/ Other: (specify)] 
+ 
+Any restrictions on the free 
+transferability of the securities: 
+[Include description from the Bond Terms] 
+ 
+ 
+Purpose/Use of proceeds: 
+As defined in the Base Prospectus section 15.4.1  
+ 
+/ Other: (specify)]  
+ 
+[Include estimated total expenses of the issue and 
+estimated net amount] 
+ 
+Prospectus and Listing fees: 
+As defined in the Base Prospectus section 15.4.5  
+ 
+[Include listing and registration fee at Oslo Stock 
+Exchange 
+ 
+Market-making: 
+[Listing on the Oslo Stock Exchange: As defined in 
+Market-making in the Base Prospectus section 15.3.
+
+--- Page 72 ---
+Kongsberg Gruppen ASA 
+Appendix 2 
+Final Terms [Title of Notes] 
+ISIN [ISIN] 
+Page 12 of 14 
+ 
+/ Other: (specify)] 
+Approvals: 
+[Bond Issue that is subject to a prospectus: As defined 
+in the Base Prospectus section 15.4.9] 
+ 
+/ Other: (specify)] 
+ 
+Bond Terms: 
+[As defined in the Base Prospectus section 15.4.7] By 
+virtue of being registered as a Bondholder (directly or 
+indirectly) with the CSD, the Bondholders are bound 
+by these Bond Terms and any other Finance 
+Document, without any further action required to be 
+taken or formalities to be complied with by the Bond 
+Trustee, the Bondholders, the Issuer or any other 
+party.  
+ 
+/ Other: (specify)] 
+ 
+Status and security: 
+ 
+ 
+ 
+Negative Pledge: 
+ 
+As defined in the Base Prospectus section 15.4.6.  
+ 
+/Other: (specify)] 
+ 
+As specified in the Base Prospectus section 15.4.6 
+ 
+[terms of the negative pledge]  
+ 
+Bondholders’ meeting/Voting rights: 
+[As defined in Bondholders’ meeting/Voting rights in 
+the Base Prospectus section 15.3. 
+ 
+/ Other: (specify)] 
+ 
+Availability of the Documentation: 
+www.kongsberg.com  
+ 
+Manager(s): 
+[Manager(s)] 
+ 
+Bond Trustee: 
+[As defined in the Bond Trustee in the Base 
+prospectus 15.3] 
+ 
+Paying Agent: 
+[As defined in the Paying Agent in the Base prospectus 
+15.3  
+/ Other: (specify)] 
+ 
+Securities Depository: 
+[As defined in the Base Prospectus section 15.3  
+ 
+/ Other: (specify)] 
+ 
+Calculation Agent: 
+[As defined in Calculation Agent in the Base 
+Prospectus section 15.3  
+ 
+/ Other: (specify)]
+
+--- Page 73 ---
+Kongsberg Gruppen ASA 
+Appendix 2 
+Final Terms [Title of Notes] 
+ISIN [ISIN] 
+Page 13 of 14 
+ 
+Listing fees: 
+Prospectus fee for the Base Prospectus is NOK 88.000.  
+ 
+[Listing and Registration fee, the Oslo Stock Exchange: 
+(specify)  
+ 
+/ Listing on other regulated marketplace: (specify)  
+/ No listing: N/A]
+
+--- Page 74 ---
+Kongsberg Gruppen ASA 
+Appendix 2 
+Final Terms [Title of Notes] 
+ISIN [ISIN] 
+Page 14 of 14 
+ 
+3 Additional information  
+ 
+Advisor  
+[Manager(s) name has/have been] Manager(s) of the bond issue have acted as advisors to the Issuer 
+in relation to the pricing of the Loan.  
+The Manager(s) will be able to hold position in the Loan.  
+/ Other: (specify)] 
+ 
+Interests and conflicts of interest  
+[The involved persons in the Issuer have no interest, nor conflicting interests that are material to the 
+Bond Issue.  
+/ Other: (specify)]  
+ 
+Rating  
+See Base Prospectus section 15.6.

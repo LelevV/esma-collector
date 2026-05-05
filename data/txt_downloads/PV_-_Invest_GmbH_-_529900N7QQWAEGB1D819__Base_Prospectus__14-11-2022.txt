@@ -1,0 +1,2627 @@
+--- Page 1 ---
+14 November 2022 
+ 
+Base Prospectus for the issue of non-equity securities of PV-Invest GmbH 
+This Base Prospectus relates to future offers to the public (each single one an "Offer") of non-subordinated 
+Notes (the "Notes") of PV-Invest GmbH (the "Company", "PV-Invest" or the "Issuer"), a limited liability 
+company under Austrian law, in a maximum total amount of up to EUR 40,000,000.-.  
+Each issue of Notes will be realised based on Final Terms (the "Final Terms") within the meaning of Article 8 of 
+the Prospectus Regulation. The Final Terms will be based on the Form of Final Terms attached hereto as 
+Appendix B "Form of Final Terms" (the "Form of Final Terms"), which will be filled out for each individual 
+issue. The Final Terms will also comprise final Note Terms (the "Note Terms") based on the Form of Note 
+Terms attached hereto as Appendix A. The relevant Final Terms will constitute the terms and conditions of each 
+issue and are applicable to a particular Series of Notes. They define the rights and obligations of the Issuer and 
+the respective Noteholders. The Final Terms for each Offer will be published on the website of the Issuer under 
+the dedicated section “investor-relations” https://www.pv-invest.com/de/investor-relations/.  
+See the section "Risk Factors" of this Prospectus for a description of certain factors, that potential 
+investors should consider before subscribing or purchasing the Notes. 
+The Issuer has not applied for the admission of the programme to trade on a regulated market or for the inclusion 
+in a multilateral trading facility. The Issuer does not intend to apply for the admission to trade the Notes on a 
+regulated market. The decision on the inclusion in a multilateral trading facility is made individually for each 
+Series of Notes and will be quoted in the respective Final Terms. 
+Each Series of Notes shall be securitised in a Global bearer Certificate (the "Global Certificate") in accordance 
+with § 24 of the Austrian Law on the Deposit and Acquisition of Securities (Bundesgesetz vom 
+22. Oktober 1969 über die Verwahrung und Anschaffung von Wertpapieren; Depotgesetz - “DepG”) from the 
+Issue Date. There is no entitlement to issue individual Notes (individual physical certificates). Each Global 
+Certificate shall be held in custody by or on behalf of a central securities depository designated by the Issuer 
+until all liabilities of the Issuer under the respective Notes have been met. 
+The Luxembourg Financial Market Authority CSSF (Commission de Surveillance du Secteur Financier) 
+has approved the Prospectus as competent authority under Regulation (EU) 2017/1129. CSSF has 
+approved this Prospectus for the purpose of the offer to the public in Luxembourg, Slovenia, Austria and 
+Germany and that the CSSF has neither reviewed nor approved any information in relation to the 
+admission to trading on any multilateral trading facilities. The CSSF only approves this Prospectus as 
+meeting the standards of completeness, comprehensibility and consistency imposed by Regulation (EU) 
+2017/1129. Such approval should not be considered as an endorsement of the Issuer that is the subject of 
+this Prospectus. Investors should make their own assessment as to the suitability of investing in the Notes. 
+The Base Prospectus has been drawn up as an EU Growth Prospectus in accordance with Article 15 of 
+Regulation (EU) 2017/1129. In particular, the CSSF gives no undertaking as to the economic and financial 
+soundness of the transaction or the quality or solvency of the Issuer. 
+The approved Prospectus (which includes the Audited Annual Financial Statements and unaudited 
+Interim Financial Statements) is published on the website of the Issuer under the dedicated section 
+“investor-relations” (https://www.pv-invest.com/de/investor-relations/). Paper versions of the Prospectus 
+and any supplements thereof are available to investors free of charge at the Company's business address. 
+This prospectus is valid for a period of 12 months from its approval, being until 14 November 2023. The 
+obligation to supplement a prospectus in the event of significant new factors, material mistakes or 
+material inaccuracies does not apply when a prospectus is no longer valid. 
+PV-Invest GmbH
+
+--- Page 2 ---
+ii 
+This Prospectus has been prepared by the Issuer as an EU Growth Prospectus in the form of a Base Prospectus 
+(the "Prospectus" or "Base Prospectus") in accordance with Regulation (EU) 2017/1129 (the "Prospectus 
+Regulation") and in accordance with the provisions of Commission Delegated Regulations (EU) 2019/980 and 
+2019/979 of 14 March 2019, as in force on the date of this Base Prospectus, to enable investors to consider 
+subscribing to the Issuer's Notes in connection with the respective individual Issues. Pursuant to 
+Article 23 Prospectus Regulation, every significant new factor, material mistake or material inaccuracy relating 
+to the information included in a prospectus which may affect the assessment of the securities and which arises or 
+is noted between the time when the prospectus is approved and the closing of the offer period or the time when 
+trading on a regulated market begins, whichever occurs later, shall be mentioned in a supplement to the prospectus 
+without undue delay.  
+This Prospectus, any supplements thereto and the Final Terms applicable to the relevant Series of Notes 
+contain all statements and information made by the Issuer in connection with the Offer of the relevant Series of 
+Notes. The Notes will be offered exclusively on the basis of this Prospectus, any supplements thereto and the Final 
+Terms applicable to the respective Series of Notes. With the exception of the Company, no person is entitled to 
+provide any information or assurances in connection with the Offer of Notes of the Issuer. Should such information 
+nevertheless be provided or assurances be given, no one may trust, that it has been approved by the Company. 
+This Prospectus is neither an Offer to purchase the Notes, nor a solicitation of an Offer to purchase the Notes.  
+WHEN MAKING AN INVESTMENT DECISION, INVESTORS MUST RELY ON THEIR OWN 
+ASSESSMENT OF THE COMPANY AND THE NOTES, INCLUDING THE ADVANTAGES AND RISKS 
+ASSOCIATED WITH AN INVESTMENT IN THE NOTES. ANY DECISION ON THE PURCHASE OR 
+SIGNING OF THE COMPANY'S NOTES SHOULD BE RESTRICTED ONLY TO THIS PROSPECTUS, 
+ANY SUPPLEMENTS THERETO, AND THE FINAL TERMS APPLICABLE TO EACH SERIES OF 
+NOTES. PLEASE NOTE, THAT ANY SUMMARY OR DESCRIPTION OF LEGAL PROVISIONS, 
+CORPORATE STRUCTURES OR CONTRACTUAL RELATIONSHIPS IS FOR INFORMATION 
+PURPOSES ONLY AND SHOULD NOT BE CONSTRUED AS LEGAL OR TAX ADVICE REGARDING 
+THE INTERPRETATION OR ENFORCEABILITY OF ITS TERMS OR RELATIONSHIPS. 
+This Prospectus shall not be published or distributed in any country other than Luxembourg, Austria, Slovenia 
+and Germany, where registration and admission requirements or other requirements relating to a public offering 
+of securities exist or may exist nor shall the information contained herein be used for any purpose other than an 
+investment in Notes of the Company. Any failure to comply with these restrictions may result in a violation of the 
+securities laws of such states. This Prospectus may not be used for or in connection with an Offer, and shall not 
+constitute an Offer or a solicitation to make an Offer in any jurisdiction, where it is unlawful to make such an 
+Offer. Persons, in whose possession this Prospectus comes, should inform themselves about it and observe these 
+restrictions. Further information regarding the restrictions on the offer and sale of the Issuer's Notes and the 
+distribution of this Prospectus can be found in the section "SELLING AND TRANSFER RESTRICTIONS".
+
+--- Page 3 ---
+iii 
+TABLE OF CONTENTS 
+TABLE OF CONTENTS ................................................................................................................................... III 
+INFORMATION INCORPORATED BY REFERENCE .................................................................................. VI 
+FORWARD-LOOKING STATEMENTS .......................................................................................................... VI 
+LINKS TO WEBSITES ..................................................................................................................................... VII 
+1.GENERAL DESCRIPTION OF THE PROGRAMME ............................................................................... 8 
+2.PERSONS RESPONSIBLE ......................................................................................................................... 8 
+2.1.Persons Responsible .................................................................................................................................. 8 
+2.2.Declaration of Persons Responsible ........................................................................................................... 8 
+2.3.Expert Statements ...................................................................................................................................... 8 
+2.4.Information from Third Parties .................................................................................................................. 8 
+2.5.Statement as to prospectus approval and drawing up the Prospectus as an EU Growth prospectus ........ 10 
+3.STRATEGY, PERFORMANCE AND BUSINESS ENVIRONMENT OF THE ISSUER ....................... 11 
+3.1.Information about the Issuer .................................................................................................................... 11 
+3.1.1.Legal and commercial name of the Issuer ............................................................................................ 11 
+3.1.2.Place of registration of the Issuer and its registration number ............................................................ 11 
+3.1.3.Date of incorporation and period of existence of the Issuer, provided that it is not unlimited ............. 11 
+3.1.4.Registered office and legal form of the Issuer; legal system in which it operates; country of 
+incorporation of the Company; address and telephone number of its registered office ................................ 11 
+3.1.5.Recent events in the Issuer's operations, that are materially relevant to the Issuer's assessment of its 
+solvency ... ..................................................................................................................................................... 11 
+3.1.6.Credit ratings assigned to the Issuer at the request or with the cooperation of the Issuer in the rating 
+process ..... ..................................................................................................................................................... 11 
+3.1.7.Information on the material changes in the Issuer’s borrowing and funding structure since the last 
+financial year; ................................................................................................................................................ 11 
+3.1.8.Description of the expected financing of the Issuer’s activities ............................................................ 12 
+4.BUSINESS OVERVIEW ........................................................................................................................... 12 
+4.1.Principal Activities .................................................................................................................................. 12 
+4.1.1.A description of the Issuer’s principal activities................................................................................... 12 
+4.1.2.Indication of any important new products and/or services ................................................................... 14 
+4.2.Principal Markets ..................................................................................................................................... 14 
+4.2.1.General ................................................................................................................................................. 14 
+4.2.2.Existing markets and planned expansion .............................................................................................. 15 
+4.3.Organizational Structure .......................................................................................................................... 18 
+4.3.1.Description of the group and the position of the Issuer within this group ............................................ 18 
+4.3.2.Dependence of the Issuer on other units within the Group ................................................................... 20 
+4.4.Trend Information .................................................................................................................................... 20 
+4.4.1.Declaration concerning significant adverse changes in the Issuer's prospects .................................... 20 
+4.4.2.Known trends ........................................................................................................................................ 20 
+4.5.Profit Forecasts or Estimates ................................................................................................................... 20 
+5.RISK FACTORS ........................................................................................................................................ 20 
+5.1.Risks related to the Issuer ........................................................................................................................ 20 
+5.1.1.Risks in connection with the market environment for green energy ..................................................... 20 
+5.1.2.Risks related to the Issuer’s Business ................................................................................................... 21 
+5.2.Risks specific to securities ....................................................................................................................... 22 
+6.TERMS AND CONDITIONS OF THE SECURITIES .............................................................................. 23 
+6.1.The types and class of securities to be offered ......................................................................................... 23 
+6.2.The legislation, on the basis of which the securities are issued ............................................................... 24 
+6.3.Indication, whether the securities are registered or bearer instruments ................................................... 24 
+6.4.Currency of the Issue of Notes................................................................................................................. 24 
+6.5.Rank of securities .................................................................................................................................... 24 
+6.6.Rights attached to the securities and procedures for exercising them ...................................................... 24 
+6.7.Indication of the nominal interest rate and provisions on interest owed .................................................. 24 
+6.8.Maturity Date and agreements for loan repayment .................................................................................. 25 
+6.9.Indication of the yield .............................................................................................................................. 26 
+6.10.Representation of debt securities holders............................................................................................... 26 
+6.11.Resolutions, authorisations and approvals which form the basis for the creation and/or Issue of the 
+securities that have taken place or will take place ......................................................................................... 26 
+6.12.Issue Date............................................................................................................................................... 26
+
+--- Page 4 ---
+iv 
+6.13.Restrictions on the free transferability of securities ............................................................................... 26 
+6.14.Taxation ................................................................................................................................................. 26 
+7.DETAILS OF THE OFFER/ADMISSION TO TRADING ....................................................................... 27 
+7.1.Terms and conditions of the offer of securities to the public ................................................................... 27 
+7.1.1.Conditions to which the Offer is subject ............................................................................................... 27 
+7.1.2.Total Nominal Amount of Issue............................................................................................................. 27 
+7.1.3.The time period, including any amendments, during which the Offer is open and a description of the 
+application process ........................................................................................................................................ 27 
+7.1.4.Description of the possibility to reduce the subscriptions .................................................................... 27 
+7.1.5.Minimum and/or maximum subscription amount ................................................................................. 27 
+7.1.6.Method and time limits for servicing the securities and their delivery ................................................. 27 
+7.1.7.Manner and date of disclosure of the results of the Offer ..................................................................... 28 
+7.1.8.Procedure for the exercise of any preferential rights, the transferability of subscription rights and the 
+treatment of unexercised subscription rights ................................................................................................. 28 
+7.2.Plan for the distribution of securities and their allotment ........................................................................ 28 
+7.2.1.Categories of potential investors .......................................................................................................... 28 
+7.2.2.Process for notifying the amount allocated to subscribers and whether it is possible to start trading 
+before the reporting procedure ...................................................................................................................... 28 
+7.3. Pricing ..................................................................................................................................................... 28 
+7.3.1.Expected Price ...................................................................................................................................... 28 
+7.3.2.Expenses and Taxes .............................................................................................................................. 29 
+7.4.Placing and underwriting ......................................................................................................................... 29 
+7.4.1.Name and address of the coordinator or coordinators of the entire Offer ........................................... 29 
+7.4.2.Paying Agents and custodians .............................................................................................................. 29 
+7.4.3.Entities, that are prepared to subscribe to the Issue on a firm commitment basis and to place an Issue 
+without firm commitment, or on "best possible terms" in accordance with agreements ............................... 29 
+7.4.4.The dates, on which the underwriting agreement was or will be concluded ........................................ 29 
+7.5.Admission to trading and dealing arrangements ...................................................................................... 29 
+7.5.1.Application for admission to trading .................................................................................................... 29 
+7.5.2.SME growth Markets or MTFs on which, to the knowledge of the Issuer, securities of the same class 
+are already admitted to trading ..................................................................................................................... 29 
+7.5.3.Entities which have a firm commitment to act as intermediaries in secondary trading ....................... 29 
+8.ADMINISTRATIVE, MANAGEMENT AND SUPERVISORY BODIES .............................................. 30 
+8.1.Names and business addresses of the following persons and their position with the Issuer, indicating the 
+principal activities they perform outside the Issuer, if these are of importance to the Issuer: ....................... 30 
+8.1.1.Board .................................................................................................................................................... 30 
+8.1.2.Board .................................................................................................................................................... 30 
+9.FINANCIAL INFORMATION AND KEY PERFORMANCE INDICATORS ........................................ 30 
+9.1.Historical Financial Information .............................................................................................................. 30 
+9.2.Interim Financial Information and other Financial Information .............................................................. 30 
+9.3.Audit of historical Financial Information ................................................................................................ 31 
+9.4.Key Performance Indicators .................................................................................................................... 31 
+9.5.Significant changes in the Issuer's financial position or trading position ................................................ 31 
+10.SHAREHOLDER AND SECURITY HOLDER INFORMATION ......................................................... 31 
+10.1.Major Shareholders ................................................................................................................................ 31 
+10.1.1.Shareholdings and control relationships ............................................................................................ 31 
+10.1.2.Agreements, the exercise of which could lead to a change of control in the Issuer at a later date .... 31 
+10.2.Legal and Arbitration Proceedings ........................................................................................................ 31 
+10.3.Conflicts of interests .............................................................................................................................. 32 
+10.4.Material contracts .................................................................................................................................. 32 
+11.DOCUMENTS AVAILABLE FOR INSPECTION ................................................................................. 33 
+CONSENT .......................................................................................................................................................... 33 
+1.INFORMATION TO BE PROVIDED REGARDING CONSENT BY THE ISSUER OR PERSON 
+RESPONSIBLE FOR DRAWING UP THE PROSPECTUS........................................................................ 33 
+1.1.Express consent by the Issuer to the use of the Prospectus and a statement that such person accepts 
+responsibility for the content of the Prospectus also with respect to the subsequent resale or final placement 
+of securities by any financial intermediary which was given consent to use the Prospectus. ........................ 33 
+1.2.Indication of the period for which consent to the use of the Prospectus is granted. ................................ 34 
+1.3.Indication of the Offer Period during which the subsequent resale or final placement of securities by 
+financial intermediaries can be made. ............................................................................................................ 34
+
+--- Page 5 ---
+v 
+1.4.Member States in which financial intermediaries may use the Prospectus for the subsequent resale or 
+final placement of securities. ......................................................................................................................... 34 
+1.5.Any other clear and objective conditions to which the consent is bound, and which are relevant for the 
+use of the Prospectus. .................................................................................................................................... 34 
+1.6. Notice ..................................................................................................................................................... 34 
+2.A ADDITIONAL INFORMATION IN THE EVENT, THAT ONE OR MORE SPECIFIC FINANCIAL 
+INTERMEDIARIES OBTAIN CONSENT................................................................................................... 35 
+2. A.1List and identity (name and address) of the financial intermediary(s) authorised to use this Prospectus.
+ ................. ..................................................................................................................................................... 35 
+2. A.2Disclosure of any new information on financial intermediaries unknown at the time of approval of the 
+Prospectus, Base Prospectus or, if applicable, transmission of the Final Terms, and the location, where it is 
+available. .. ..................................................................................................................................................... 35 
+2. BADDITIONAL INFORMATION IN THE EVENT, THAT ALL FINANCIAL INTERMEDIARIES 
+OBTAIN CONSENT ..................................................................................................................................... 35 
+A clear indication to investors, that any financial intermediary using the Prospectus must indicate on its 
+website, that it is using the Prospectus with the Issuer’s consent and in accordance with the terms to which 
+the consent is bound. ...................................................................................................................................... 35 
+SALE AND TRANSFER RESTRICTIONS ...................................................................................................... 35 
+Selling restrictions ......................................................................................................................................... 35 
+Transfer restrictions ....................................................................................................................................... 35 
+ANNEX A MODEL NOTE TERMS ................................................................................................................. 36 
+ANNEX B FORM OF THE FINAL TERMS .................................................................................................... 44 
+ANNEX C DEFINITIONS AND ABBREVIATIONS ...................................................................................... 49
+
+--- Page 6 ---
+vi 
+INFORMATION INCORPORATED BY REFERENCE 
+The following documents which have previously been published or which are published 
+simultaneously with this Prospectus and which have been filed with the CSSF shall be incorporated by 
+reference in, and form part of this Prospectus (page references relate to the respective electronic 
+documents): 
+Audited Consolidated Financial Statements as of 31 December 2021 (https://www.pv-
+invest.com/wp-content/uploads/2022/10/PV-Invest-Consolidated-Financial-Statements-2021.pdf):
+ 
+Page 
+Auditors‘ report ......................................................................................................................... 4 
+Consolidated balance sheet ........................................................................................................ 10 
+Consolidated income statement ................................................................................................. 12 
+Statement of changes in equity .................................................................................................. 13 
+Consolidated cash flow statement ............................................................................................. 14 
+Notes .......................................................................................................................................... 15 
+Group management report ......................................................................................................... 31 
+Interim 
+Financial 
+Statements 
+as 
+of 
+30 
+June, 2022 
+(https://www.pv-invest.com/wp-
+content/uploads/2022/10/PV-Invest-Interim-Financial-Statements-June-2022.pdf): 
+Page 
+Consolidated financial statement ............................................................................................... 1 
+Consolidated income statement ................................................................................................. 3 
+The information incorporated by reference that is not included in the cross-reference list, is 
+considered as additional information and is not required by the relevant schedules of Regulation (EU) 
+2017/1129. 
+The documents incorporated by reference are English-language translations of the respective 
+German-language Consolidated Financial Statements including the auditor's report and the Interim 
+Financial Statements. 
+The Prospectus is published on the website of the Issuer under the dedicated section “investor-
+relations” under https://www.pv-invest.com/de/investor-relations/. 
+FORWARD-LOOKING STATEMENTS 
+This Prospectus contains certain forward-looking statements relating to the business, financial 
+performance and earnings of the PV-Invest Group and the business segments in which the 
+PV-Invest Group operates. Forward-looking statements can be identified by terms such as "anticipates", 
+"expects", "intends", "plans", "believes", "seeks", "estimates" and similar expressions. Forward-looking 
+statements relate to future facts, events and other circumstances, that are not historical facts. Such 
+statements reflect only the views of the Company with regard to the assessment of possible future events 
+at the present time and are therefore subject to risks and uncertainties. Among other things, this 
+Prospectus contains forward-looking statements concerning: 
+• 
+the implementation of the Company's strategic projects and the effects of these projects on 
+the Company's net assets, financial position and results of operations; 
+• 
+the development of aspects that are important for the Company's results of operations; 
+• 
+the expectations of the Company regarding the effects of economic, operational, legal and 
+other risks affecting the Company's business, and
+
+--- Page 7 ---
+vii 
+• 
+other statements regarding the future business development of the Company and general 
+economic developments and trends. 
+These forward-looking statements are based on current plans, estimates, forecasts and expectations 
+of the Company, and on certain assumptions, which, although appropriate at this time in the Company's 
+opinion, may prove to be incorrect. Should the Company’s assumptions prove to be incorrect, it cannot 
+be ruled out, that the events occurring in the future will deviate significantly from those described in 
+this Prospectus as assumed, believed, estimated or expected. For this reason, the Company could not 
+achieve its financial and strategic goals. Neither the Company, nor its management can therefore accept 
+any responsibility for the accuracy of the opinions expressed in this Prospectus or for the actual 
+occurrence of the forecasted developments. Furthermore, it is pointed out, that the Company does not 
+intend to update the forward-looking statements or industry and customer information set out in this 
+Prospectus beyond its legal obligation. However, the Company is required to disclose in a supplement 
+to this Prospectus any material new circumstance and any material inaccuracy or inaccuracy with 
+respect to the information disclosed in this Prospectus, that is likely to influence the evaluation of the 
+Notes and that has arisen or appears to exist after approval. Such a supplement to the Prospectus shall 
+be deposited with the CSSF and be published in the same manner as this Prospectus. 
+LINKS TO WEBSITES 
+All references to websites contained in this Prospectus are for information purposes only and do 
+not become part of this Base Prospectus. The information on the website of the Issuer does not form 
+part of the Prospectus and has not been scrutinised or approved by the competent authority unless that 
+information is incorporated by reference into the Prospectus.
+
+--- Page 8 ---
+8 
+1. 
+GENERAL DESCRIPTION OF THE PROGRAMME 
+Within the scope of this programme (the “Offer Programme”), the Issuer will in the future issue and 
+publicly offer Notes of the Issuer on the basis and during the validity of this Base Prospectus including 
+any supplements thereto up to a maximum amount of EUR 40,000,000.-. 
+Each issue of Notes will be realised based on Final Terms (the "Final Terms") within the meaning 
+of Article 8 of the Prospectus Regulation. The Final Terms will be based on the Form of Final Terms 
+attached hereto as Appendix B "Form of Final Terms" (the "Form of Final Terms"), which will be filled 
+out for each individual issue. The Final Terms will also comprise final Note Terms (the "Note Terms") 
+based on the Form of Note Terms attached hereto as Appendix A. The relevant Final Terms will 
+constitute the terms and conditions of each issue and are applicable to a particular Series of Notes, and 
+define the rights and obligations of the Issuer and the respective Noteholders. The final terms will be 
+published on the website of the Issuer under the dedicated section “investor-relations” https://www.pv-
+invest.com/de/investor-relations/. 
+2. 
+PERSONS RESPONSIBLE 
+2.1. Persons Responsible 
+PV-Invest GmbH, registered with the Commercial Register of the Regional Court Klagenfurt under 
+FN 331809f, with its registered office in Klagenfurt and the business address Lakeside B07, 
+A-9020 Klagenfurt, is responsible for the information provided in this Base Prospectus. No other person 
+assumes any other responsibility for the information provided in this Prospectus or any part thereof.  
+The Issuer hereby declares, that, to the best of its knowledge, the information contained in the Base 
+Prospectus is in accordance with the facts and the Base Prospectus makes no omission likely to affect 
+its import. 
+2.2. Declaration of Persons Responsible 
+PV-Invest GmbH, Lakeside B07, A-9020 Klagenfurt, assumes responsibility as Issuer for the 
+contents of this Prospectus. It hereby declares, that, to the best of its knowledge, the information 
+contained in this Prospectus is accurate and that no material circumstances have been omitted. It further 
+declares, that it has taken the necessary care to ensure that, to the best of its knowledge, the information 
+contained in this Prospectus is accurate and that no facts have been omitted which are likely to alter the 
+meaning of the Prospectus. 
+2.3. Expert Statements 
+n.a. The Prospectus does not contain statements or reports attributed to a person as an expert. 
+2.4. Information from Third Parties 
+This Prospectus contains information sourced from the following third parties: 
+− 
+Bankwatch Network, 2017 The energy sector in Bosnia and Herzegovina; 
+https://bankwatch.org  
+− 
+European 
+Council, 
+2014; 
+European 
+Climate and 
+Energy 
+Framework 
+2030; 
+http://www.consilium.europa.eu  
+− 
+European Council, 2017; EU Progress Report 2017: Two years after Paris - Progress 
+towards meeting EU climate targets; https://ec.europa.eu  
+− 
+European Green Deal: 
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52019DC0640
+
+--- Page 9 ---
+9 
+− 
+Kommunalkredit Austria AG / Saxinger, Chalupsky & Partner Rechtsanwälte GmbH, 2017; 
+Investing in Renewable Energy 2017; https://www.kommunalkredit.at  
+− 
+PV Magazine Hungary: 
+https://www.pv-magazine.com/2019/04/10/hungary-deployed-more-than-400-mw-of-
+solar-in-2018/  
+− 
+PV Magazine Northmacedonia: 
+https://www.pv-magazine.com/2019/09/25/north-macedonian-utility-embraces-solar-at-
+expense-of-coal/ 
+− 
+PV Magazine Northmacedonia: 
+https://www.pv-magazine.com/2019/04/01/macedonia-issues-tender-for-first-large-scale-
+pv-plant/ 
+− 
+Res Legal, 2018; Federation of Bosnia and Herzegovina: Feed-in tariff; http://www.res-
+legal.eu) 
+− 
+RES Legal Greece 2020: 
+http://www.res-legal.eu/search-by-country/greece/tools-list/c/greece/s/res-
+e/t/promotion/sum/140/lpid/139/  
+− 
+Swiss Energy Foundation, Solar and wind energy production in Switzerland in European 
+comparison 2017, 23 May 2018 
+− 
+SEIA & GSG, 2018; Solar Power: Become America's Energy; http://www.seia.org 
+− 
+Solar media: http://solarmedia.blogspot.co.at/p/world-solar-outlook-2015.html 
+− 
+SolarPower Europe 2020; Global market outlook fpr solar power 2020-2024 
+https://resources.solarbusinesshub.com/images/reports/259.pdf 
+− 
+SolarPower 
+Europe 
+Global 
+Market 
+Outlook 
+2019-2023: 
+http://www.solarpowereurope.org/wp-content/uploads/2019/05/SolarPower-Europe-
+Global-Market-Outlook-2019-2023.pdf 
+− 
+Statistics, 
+2016; 
+http://www.statista.com/statistics/264629/existing-solar-pv-capacity-
+worldwide 
+− 
+Exxon Mobil, 2021; Outlook for energy: „view of energy demand and supply through 
+2050”; https://corporate.exxonmobil.com/energy-and-innovation/outlook-for-energy 
+− 
+European 
+Council, 
+2014; 
+Europäischer 
+Klima- 
+und 
+Energierahmen 
+2030; 
+http://www.consilium.europa.eu 
+− 
+European Council, 2017; EU Progress Report 2017: Two years after Paris - Progress 
+towards meeting the EU's climate commitments; https://ec.europa.eu; European Green 
+Deal, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52019DC0640 
+− 
+European 
+Commission: 
+climate-energy-framework 
+https://ec.europa.eu/clima/eu-
+action/climate-strategies-targets/2030-climate-energy-framework_de#greenhouse-gas-
+emissions---raising-the-ambition 
+− 
+United Nations, 2022; Nachhaltige Entwicklung fördern; https://unric.org/de/un-aufgaben-
+ziele/nachhaltige-entwicklung
+
+--- Page 10 ---
+10 
+− 
+ SolarPower Europe, 2022; Global market outlook for solar power 2022-2026; 
+https://www.solarpowereurope.org/insights/market-outlooks/global-market-outlook-for-
+solar-power-2022#downloadForm 
+− 
+Statista, 
+2016; 
+http://www.statista.com/statistics/264629/existing-solar-pv-capacity-
+worldwide 
+− 
+Statistika, 2022; https://www.statista.com/statistics/264629/existing-solar-pv-capacity-
+worldwide 
+− 
+FRAUNHOFER-INSTITUT FÜR SOLARE ENERGIESYSTEME ISE, Juni 2021, 
+Stromgestehungskosten 
+Erneuerbare 
+Energien; 
+https://www.ise.fraunhofer.de/de/veroeffentlichungen/studien/studie-
+stromgestehungskosten-erneuerbare-energien.html 
+− 
+Terna, 
+2021; 
+monthly 
+report 
+on 
+the 
+Elictricity 
+System; 
+2021 
+July: 
+https://download.terna.it/terna/Monthly%20Report%20on%20the%20Electricity%20Syst
+em_July22_8da8cd6bd173d87.pdf 
+− 
+IEA International Energy Agency, Snapshot 2022; https://iea-pvps.org/snapshot-
+reports/snapshot-2022/ 
+− 
+(PNIEC), 
+2020; 
+Integrated 
+National 
+Energy 
+and 
+Climate 
+Plan 
+2021-2030; 
+https://www.miteco.gob.es/es/prensa/pniec.aspx 
+− 
+legal-information system, 2021; Resolution on the Slovenian climate long-term strategy 
+2050 (ReDPS50); http://www.pisrs.si/Pis.web/pregledPredpisa?id=RESO131 
+− 
+Our World Data, 2022; https://ourworldindata.org/energy/country/slovenia 
+− 
+Bundesministerium 
+für 
+Umweltschutz, 
+Erneuerbaren-Ausbau-Gesetz, 
+2021: 
+https://www.bmk.gv.at/service/presse/gewessler/20210317_eag.html 
+This information has been accurately reproduced and as far as the Issuer is aware and is able to 
+ascertain from information published by such third parties, no facts have been omitted which would 
+render the reproduced information inaccurate or misleading. 
+However, investors should carefully consider this information. Studies are often based on 
+information and assumptions, that may not be accurate or appropriate, and their methodology is 
+inherently forward-looking and speculative. Investors should note, that some of the Company's 
+estimates are based on such studies. The Company has not separately reviewed the figures, market data 
+and other information, on which the third parties cited have based their studies and therefore assumes 
+no responsibility or guarantee for the accuracy of the information contained in this Prospectus from 
+third party studies. 
+2.5. Statement as to prospectus approval and drawing up the Prospectus as an EU Growth 
+prospectus  
+To avoid duplication of statements please see the statement as to prospectus approval on the cover 
+page of this Prospectus and the statement as to the drawing up of the Prospectus as an EU Growth 
+prospectus on Page ii of this Prospectus.
+
+--- Page 11 ---
+11 
+3. 
+STRATEGY, PERFORMANCE AND BUSINESS ENVIRONMENT OF THE ISSUER 
+3.1. Information about the Issuer 
+3.1.1. 
+Legal and commercial name of the Issuer 
+The legal name of the Issuer is PV-Invest GmbH. In business transactions, the Issuer also uses the 
+abbreviations “PV–Invest”. 
+3.1.2. 
+Place of registration of the Issuer and its registration number 
+The Company is registered with the Commercial Register of the Regional Court Klagenfurt under 
+FN 331809f. The LEI (legal entity identifier) of the Issuer is 529900N7QQWAEGB1D819. 
+3.1.3. 
+Date of incorporation and period of existence of the Issuer, provided that it is not unlimited 
+The Company was founded with a declaration on the establishment of the Company dated 
+20 August 2009 and was registered with the Commercial Register on 28 August 2009. The Company is 
+established for an indefinite period. 
+3.1.4. 
+Registered office and legal form of the Issuer; legal system in which it operates; country of 
+incorporation of the Company; address and telephone number of its registered office 
+The Company is a limited liability company under Austrian law and has its registered office at 
+Lakeside B07, A-9020 Klagenfurt/Austria. The Company operates under the laws of the Republic of 
+Austria. It was founded in Austria. Its business address is Lakeside B07, A-9020 Klagenfurt, 
+Phone +43 (0) 463/218 073, Fax +43 (0) 463/218 073-89, www.pv-invest.com. 
+The information on the website of the Issuer does not form part of the Prospectus unless that 
+information is incorporated by reference into the prospectus 
+3.1.5. 
+Recent events in the Issuer's operations, that are materially relevant to the Issuer's assessment 
+of its solvency 
+There have been no recent events that are materially relevant to the assessment of the solvency of 
+the Issuer.  
+3.1.6. 
+Credit ratings assigned to the Issuer at the request or with the cooperation of the Issuer in the 
+rating process 
+The Issuer has not been assigned any recent ratings at its request or with its cooperation in the rating 
+process.  
+3.1.7. Other ratings assigned to the Issuer at the request or with the cooperation of the Issuer in the 
+rating process 
+In March 2022 the Company received a sustainability ranking by rfu Mag. Reinhard Friesenbichler 
+Unternehmensberatung, A-1060 Vienna, Loquaiplatz 13/10. With the score of +3.6, the Company 
+achieves the status "qualified" in this sustainability rating. 
+3.1.8. 
+Information on the material changes in the Issuer’s borrowing and funding structure since 
+the last financial year; 
+Since the last Audited Financial Statement, the Issuer has fully repaid the subordinated bond named 
+"Collemeto" with a maturity of 2012 - 2022 in the amount of EUR 2,000,000.- in March 2022. Besides 
+the pay out, there have been no material changes in the Issuer’s borrowing and funding structure.
+
+--- Page 12 ---
+12 
+3.1.9. 
+Description of the expected financing of the Issuer’s activities 
+The Issuer is financing its activities by the operational cashflows and by dividend payments of 
+subsidiaries. To finance growth activities the Issuer expects to issue Notes under this Offer Programme. 
+Overdraft facilities are used in case of short term needs for working capital.  
+4. 
+BUSINESS OVERVIEW  
+4.1. Principal Activities  
+4.1.1. 
+A description of the Issuer’s principal activities 
+Summary 
+PV-Invest Group is active in the renewable energy sector and its subsidiaries produce electricity 
+from photovoltaic power plants. With its subsidiary, KPV Solar, PV-Invest also has an EPC company 
+and revenue is generated from the construction of PV power plants for its own portfolio but also for 
+third parties. Revenues are thus derived from the sale of electricity as well as from the construction and 
+sale of photovoltaic power plants. The main purpose of the Company is to invest in domestic and foreign 
+companies, that focus on the production of renewable energy. In particular, consulting services are 
+provided with regard to the financing of subsidiaries for the generation of electrical energy from solar 
+power plants as well as general management services to ensure ongoing operations. PV-Invest is also 
+active in asset management for third-party companies. 
+PV-Invest can look back on a successful past in the assessment of the company in the acquisition 
+of photovoltaic power plants. To date, 91 power plants with a total investment volume of more than 
+EUR 100 million have been built or acquired for its own portfolio. This was financed partly by the issue 
+of Notes, partly by direct investments by private investors and with Austrian and international banks. 
+In March 2021, the share capital of PV-Invest has been increased by EUR 15 million, due to the 
+participation of Liechtenstein Invest GmbH. At the beginning of 2022, the first solar thermal power 
+plant, which is built and operated by Unser Kraftwerk, went into operation. 
+PV-Invest acts with its existing plants as an electricity producer in the field of solar energy and 
+hydropower and with its subsidiary KPV Solar as EPC Contractor. As a contractor, KPV Solar plans 
+and constructs photovoltaic power plant projects for investors internationally. KPV will at the end of 
+2022 likely have generated sales of more than EUR 200 million in the construction and sale of PV 
+power plants in recent years. PV-Invest does not have its own production for components of a 
+photovoltaic system. 
+PV-Invest operates photovoltaic plants through its subsidiaries, which generate sales from the 
+generation and subsequent sale of the generated electricity. The electricity sales prices achieved are 
+fixed by country-specific feed-in tariffs over a certain period of time. In KPV's project business, prices 
+are market-dependent. KPV plans the PV power plants itself and builds the PV power plants with 
+subcontractors. 
+The current portfolio of the PV-Invest Group comprises a total of 91 power plant systems, of which 
+twenty-eight are in Slovenia, twenty-eight in Austria, nine each in Italy and Hungary, six in Greece, 
+two each in Bulgaria and France, one each in Germany, Macedonia, Bosnia-Herzegovina. Further the 
+portfolio also includes four small hydropower plants, of which three are in Bosnia-Herzegovina and 
+one in North Macedonia. The total capacity amounts to 59.0MWp (including minority interests). The 
+electricity they produce is remunerated for up to 24 years at state-fixed feed-in tariffs.
+
+--- Page 13 ---
+13 
+The strategy of PV-Invest 
+PV-Invest was already committed to sustainability when it was founded in 2009. The sustainability 
+concept is not only reflected in the focus on renewable energies, especially photovoltaics, but also in an 
+economically sustainable approach.  
+The strategy of PV-Invest is based on three pillars: 
+• 
+Trust: PV-Invest tries to achieve a high degree of trust with its business partners through a 
+careful selection of projects focusing on risks avoidance with good earning opportunities and 
+transparency. The successfully completed projects create the basis for the trusting cooperation.  
+• 
+Ecological responsibility: Each commissioning of a PV power plant stands for additional 
+renewable energy and enables the reduction of CO₂ - emitting power plants.  
+• 
+Profitable investments: Investing in economically viable PV power plants allows the Company 
+to earn the funds necessary to meet all of its financial obligations. 
+Securing long-term income from the individual PV systems is an essential cornerstone of this the 
+Issuer’s strategic orientation. From the Company's point of view, the state-guaranteed feed-in tariffs 
+with terms of up to twenty four (24) years should guarantee the necessary planning security. This 
+ensures, that PV-Invest is not dependent on uncertain future developments. The Company's sales during 
+the financing periods of the PV power plants are secured by the state feed-in tariffs. This is associated 
+with a high degree of planning reliability and stable earnings. 
+In the opinion of the Company the attractive market situation also allows investments in PV power 
+plants at market prices. Projects with market prices are in preparation, but here, too, consideration is 
+given to long-term hedging. Furthermore, larger projects are being developed in Greece and a larger 
+project pipeline in Italy, which will operate on a market price basis. 
+The Company aims to build a geographically diversified, larger portfolio of solar plants and small 
+hydropower plants by acquiring existing plants, that already produce electricity, and by building new 
+plants in countries, where still long-term feed-in tariffs exist.  
+In general, the Company is expanding its EPC (Engineering, Procurement & Construction) business 
+through its subsidiary KPV Solar.  
+The system of feed-in tariffs 
+With the introduction of the German Renewable Energy Act (Erneuerbare Energien Gesetz – 
+“EEG”) in 2000 and its predecessor in 1991, Germany basically laid the foundation for the market 
+development of photovoltaics. The principle of priority and cost-covering remuneration of the 
+electricity produced, enabled the construction and operation of PV systems. This initiated the industrial 
+production of PV panels, which caused a steady price fall per kWh of electricity. In the following years, 
+most European countries adopted the system of feed-in tariffs and converted it into local laws. 
+The principle of priority means, that energy supply companies are obliged to purchase electricity 
+primarily from PV power plants. The reliability of sales decouples the producers of PV electricity from 
+any distortions on the electricity market. Even if global or regional influences may lead to an oversupply 
+of electricity, the sales of the electricity produced by PV power plants are therefore secured. In such a 
+case, coal-fired or other power plants must be shut down. This intends to have an environmentally 
+desired steering effect. 
+Cost-covering remuneration means, that the state announces feed-in tariffs, at which the potential 
+installer of a PV power plant is remunerated for the electricity produced. A feed-in tariff is binding for 
+a certain period of time (in Germany, Italy or France, e.g. twenty (20) years; in Slovenia or Slovakia
+
+--- Page 14 ---
+14 
+fifteen (15) years) and gives the investor calculatory assurance and the possibility to enter into financing 
+obligations for the construction costs. 
+The costs for the cost-covering remuneration are passed on to all electricity consumers via the 
+eco-electricity surcharges and are therefore financed by them and not the state budget. This system also 
+mitigates the risk (even if it cannot be completely ruled out), that the promised feed-in tariffs will be 
+subsequently changed for budgetary reasons. 
+The current market situation  
+Due to the progressive end of life of nuclear power plants in Europe, which led to increasing 
+maintenance work and the temporary shutdown of the power plants, there have been reduced electricity 
+production volumes in Europe. Furthermore, the water flow of European rivers is generally below the 
+long-term average due to the lack of precipitation, which has also led to lower electricity generation 
+from hydropower plants. 
+Even before the start of the war in Ukraine, the amount of gas supplied by Russia had already 
+decreased. This situation has worsened since the outbreak of the war, so that on the one hand, gas prices 
+have increased more than 10 times and, on the other hand, electricity production from gas-fired power 
+plants has had to be reduced, making it necessary to re-start coal-fired power plants that had already 
+been closed.  
+All these reasons have restricted the supply of electricity in Europe, to which the market has reacted 
+by increasing electricity prices. The massive burden placed on the population and the economy by high 
+electricity and gas prices has led to political discussions about the introduction of price caps. From 
+today's perspective, it is not clear what form the implementation of this topic of discussion will take. 
+For this, the future political decisions cannot be anticipated with certainty. 
+4.1.2. 
+Indication of any important new products and/or services 
+The hydropower plant in North Macedonia went into operation in three stages at the beginning of 
+the year 2022. Furthermore, the Company by its wholly owned subsidiary, Unser Kraftwerk UK-
+Naturstrom GmbH, commissioned its first solar thermal power plant in Friesach, Carinthia, which is 
+economically secured by a long-term supply contract with KELAG Energie &Wärme GmbH. 
+4.2. Principal Markets 
+4.2.1. 
+General 
+In 2021, Exxon Mobil released its “Outlook for Energy”, an updated report that reports key findings 
+from its 2050 projections, including that the industrial sector will account for 50% of final energy 
+consumption in 2021 and predicts that energy-related CO2 emissions will peak in 2030 before declining 
+by 13% by 2050, a significant improvement from the 15% increase in emissions over the past decade. 
+ExxonMobil's outlook assumes efficiency improvements that will reduce per capita energy consumption 
+in developed countries, while increasing per capita energy consumption in developing countries. This 
+increased demand in developing countries, which account for over 80% of the world's population, leads 
+to a 15% higher estimate of global energy demand in 2050 compared to 2019. The report indicates that 
+coal still plays an important role in some non-OECD countries, although global consumption is 
+estimated to have peaked in 2013. (Source: Outlook for Energy 2021 "view of energy demand and 
+supply through 2050" published by ExxonMobil: https://corporate.exxonmobil.com/energy-and-
+innovation/outlook-for-energy). 
+The climate targets of the 2020 framework set by the European Union were increased in October 
+2014 in the form of the 2030 climate and energy framework and made mandatory for the future. (Source: 
+European 
+Council, 
+2014; 
+European 
+Climate 
+and 
+Energy 
+Framework 
+2030; 
+http://www.consilium.europa.eu). On the basis of the current climate policy of the European Union, the 
+reduction of CO2 emissions by 20 % (compared to 1990) will be achieved by 2020. The target for 2030
+
+--- Page 15 ---
+15 
+is a 40 % reduction in emissions compared to 1990. In September 2020 the chair of the EU commission 
+suggested to increase the 2030 targets up to as high as 55% greenhouse gas reduction and based this 
+ambitious goal on the European Green Deal published in December 2019 (Source: European Council, 
+2017; EU Progress Report 2017: Two years after Paris - Progress towards meeting the EU's climate 
+commitments; 
+https://ec.europa.eu; 
+European 
+Green 
+Deal, 
+https://eur-lex.europa.eu/legal-
+content/EN/TXT/?uri=CELEX:52019DC0640). 
+As part of the European Green Deal in September 2020, the target for reducing greenhouse gas 
+emissions by 2030, including emissions and removals, was raised to at least 55% compared to 1990. 
+(Source: European Commission: https://ec.europa.eu/clima/eu-action/climate-strategies-targets/2030-
+climate-energy-framework_de#greenhouse-gas-emissions---raising-the-ambition). The 2030 Agenda 
+for Sustainable Development was adopted in September 2015. The 2030 Agenda comprises 17 
+Sustainable Development Goals (SDGs) to be achieved collectively by 2030. (Source: United Nations, 
+2022; Promoting Sustainable Development; https://unric.org/de/un-aufgaben-ziele/nachhaltige-
+entwicklung/). 
+Global solar capacity doubled within three years from 2018, reaching a capacity of one terawatt in 
+April 2022. The global solar market is growing exponentially. It took about a decade for global solar 
+capacity to reach 1 TW, from 100 GW in 2012. SolarPower Europe forecasts that global solar capacity 
+will more than double in just three years to 2.3 TW in 2025. 
+In 2021, 167.8 GW of solar capacity had been connected to the grid globally, a 21% growth from 
+the 139.2 GW added in the previous year and despite the Corona pandemic (Source: SolarPower Europe, 
+2022; 
+Global 
+market 
+outlook 
+for 
+solar 
+power 
+2022-2026; 
+https://www.solarpowereurope.org/insights/market-outlooks/global-market-outlook-for-solar-power-
+2022#downloadForm). 
+In 2021, the European Union ranked third in the world for the installation of PV power plants with 
+almost 25 GW. The largest European market in 2021 was again Germany (5.3 GW), followed by Spain 
+(4.9 GW), France (3.4 GW), the Netherlands (3.3 GW), Poland (3.3 GW), Greece (1.2 GW), Italy (944 
+MW) and Belgium (850 MW). Considerable growth was observed in Portugal (572 MW compared to 
+151 MW in 2020), Austria (720 MW compared to 340 MW in 2020) and, to a lesser extent, Italy (944 
+MW compared to 785 MW in 2020). The Netherlands continued to install massive PV, with 3.3 GW 
+compared to 3 GW last year, and Poland continues its expansion in the GW range. Greece resumed PV 
+installations after a year-long hiatus, and in general the European market benefited from overall growth 
+(Source: IEA International Energy Agency, Snapshot 2022; https://iea-pvps.org/snapshot-
+reports/snapshot-2022/ . 
+4.2.2. 
+Existing markets and planned expansion 
+PV-Invest is currently represented by subsidiaries in Germany, Italy, France, Bulgaria, Slovenia, 
+North Macedonia, Greece, Hungary, Austria and Bosnia-Herzegovina. In particular, the expansion of 
+business activities in the existing markets with a focus on Greece, Italy, Austria and Slovenia is planned.  
+Germany 
+Germany was the first country in the world to promote PV on a large scale and was the largest PV 
+market in the world in 2014 with almost 40 GW of installed PV capacity (source: Statista, 2016; 
+http://www.statista.com/statistics/264629/existing-solar-pv-capacity-worldwide), being overtaken by 
+China as the new global market leader in 2015. At the end of 2021, Germany was only in fifth place 
+with an installed capacity of 59.2 GW, behind China (307.1 GW), the USA (122.1 GW), Japan (77.6 
+GW) 
+and 
+India 
+(60.2 
+GW). 
+(Source: 
+Statistika 
+2022; 
+https://www.statista.com/statistics/264629/existing-solar-pv-capacity-worldwide). 
+The LCOE for PV electricity has fallen drastically in recent years and has far exceeded all forecasts. 
+Depending on the type of system and irradiation, PV systems achieve LCOE of between 3.12 and 11.01
+
+--- Page 16 ---
+16 
+Cent/kWh. Ground-mounted PV systems can already produce around 3 to 6 Cent/kWh of PV electricity 
+in Germany (source: New June 2021, Electricity Production Costs Renewable Energies), while 
+electricity from coal-fired power plants costs 10 to 15 Cent, gas-fired power plants 11 to 29 Cent and 
+electricity from nuclear power plants 11 Cent (source: Institute für Solare Energiesysteme ISE, June 
+2021, Electricity Production Costs Renewable Energies). 
+Currently, new photovoltaic power plants in Germany are still subsidised according to different 
+criteria depending on their size. The subsidy rates for larger PV plants are determined in a tendering 
+process. The subsidy is granted for a period of 20 years. 
+Italy 
+In Italy, the energy generated from photovoltaics reached 3,523 GWh in July 2022. The cumulative 
+annual figure has increased compared to the previous year (+11.6%) (source www.terna.it monthly 
+report 
+2021 
+July: 
+https://download.terna.it/terna/Monthly%20Report%20on%20the%20Electricity%20System_July22_
+8da8cd6bd173d87.pdf ). 
+Italy has set a reduction target for greenhouse gas emissions in the national energy and climate plan 
+(PNIEC) - renewable energies play an important role in this. 
+Overall, the share of renewables in total capacity is expected to increase to 55% in 2030 from 34.1% 
+in 2017. With more than 52 GW by 2030, solar energy ranks first in terms of installed capacity in Italy, 
+followed by 19 GW of wind energy and 19 GW of hydropower (Source : Integrated National Energy 
+and Climate Plan (PNIEC) 2021-2030; https://www.miteco.gob.es/es/prensa/pniec.aspx). 
+The massively lower construction costs for PV power plants in Italy, the high solar irradiation and 
+the construction of new PV plants with faster approval procedures open up attractive business 
+opportunities and show a changing market. 
+France 
+With more than 14.3 GW of installed capacity in 2021, France is number 10 in the global PV market 
+(Source: IEA International Energy Agency, Snapshot 2022; https://iea-pvps.org/snapshot-
+reports/snapshot-2022/), France added more than 3.3 GW of PV power plants in 2021. (Source: IEA 
+International Energy Agency, Snapshot 2022; https://iea-pvps.org/snapshot-reports/snapshot-2022/) 
+Bulgaria 
+Bulgaria experienced its PV boom in the years of 2011 and 2012, when almost all of the country's 
+installed capacity of just over 1 GW was built in merely a year, benefiting from advantageous feed-in 
+tariffs. The market has collapsed with retroactively introduced restrictions of the subsidy tariff and with 
+control introductions for PV electricity. Ever since no new PV power plants have been built (source: 
+Solar Media, word outlook 2015, http://solarmedia.blogspot.co.at/p/world-solar-outlook-2015.html). 
+However, the profitability of the PV systems installed at the time remains good, albeit below initial 
+expectations. 
+Slovenia 
+At the beginning of 2017, a tender system for renewable energies was launched, which has a low 
+funding volume on the one hand and a focus on energy sources other than photovoltaics on the other 
+hand. (Source: Kommunalkredit Austria AG / Saxinger, Chalupsky & Partner Rechtsanwälte GmbH, 
+2017; Investing in Renewable Energy 2017; https://www.kommunalkredit.at). In 2021, the share of 
+renewable 
+energy 
+in 
+Slovenia 
+was 
+18.77% 
+(Our 
+World 
+Data, 
+https://ourworldindata.org/energy/country/slovenia). Slovenia wants to make its economy climate 
+neutral by 2050. The National Energy and Climate Plan aims to increase the share of renewable energy
+
+--- Page 17 ---
+17 
+in gross final consumption to 27 percent by 2030. (Source: Resolution on Slovenia's Long-Term Climate 
+Strategy 2050 (ReDPS50); http://www.pisrs.si/Pis.web/pregledPredpisa?id=RESO131) 
+Bosnia and Herzegovina  
+The renewable energy support scheme in Bosnia and Herzegovina is based on a feed-in tariff 
+designed for different technologies and depending on the installed capacity. The area of renewable 
+energy is governed by special provisions; however, connection to the grid is basically governed by 
+general legislation. Electricity from renewable energy sources shall have priority (Source: Res Legal, 
+2018; Federation of Bosnia and Herzegovina: Feed-in tariff; http://www.res-legal.eu). 
+Electricity production in 2016 was largely generated by coal (approx. 64.4 %), followed by 
+hydropower (33.2 %), photovoltaics and small hydropower. Various studies estimate the PV potential 
+for Bosnia-Herzegovina at between 1855 MW and 4500 MW. By comparison, only 14 MW of PV 
+capacity was installed in 2016. Coal and hydropower were 2156 MW and 2180 MW respectively in the 
+same year (Source: Bankwatch Network, 2017 The energy sector in Bosnia and Herzegovina; 
+https://bankwatch.org). 
+Hungary 
+In Hungary, electricity from renewable energy sources is supported through a feed-in tariff (FiT) 
+for different technologies and depending on the installed capacity. The support programmes are mainly 
+implemented under the Operational Programme for Environment and Energy Efficiency (EEEOP) and 
+the Economic Development and Innovation Programme (EDIOP). Renewable energy installations are 
+to be given priority for grid connection and grid access. The costs for grid connection of renewable 
+energy installations and grid expansion are borne either by the installation operator or the grid operator 
+according to certain criteria. (Source: Res Legal, 2018; Federation of Bosnia and Herzegovina: Feed-in 
+tariff; http://www.res-legal.eu) The country is still heavily dependent on electricity imports. In 2014, 
+only 35 % of Hungary's electricity demand was covered by domestic generation. According to Solar 
+Power Europe, Hungary reached a cumulative installed PV capacity of around 800 MW in 2018. 
+(sources: 
+SolarPower 
+Europe 
+Global 
+Market 
+Outlook 
+2019-2023 
+& 
+https://www.pv-
+magazine.com/2019/04/10/hungary-deployed-more-than-400-mw-of-solar-in-2018/) 
+North Macedonia 
+Northern Macedonia covers a large part of its electricity needs with thermal power plants. It 
+currently has an installed PV capacity of only 18 MW, most of which consists of decentralised 
+generation. Of the total electricity generation capacity of 1.41 GW, thermal power plants account for 
+842 MW, hydropower for 553.6 MW and wind power for 36.8 MW (sources: https://www.pv-
+magazine.com/2019/09/25/north-macedonian-utility-embraces-solar-at-expense-of-coal/ 
+& 
+https://www.pv-magazine.com/2019/04/01/macedonia-issues-tender-for-first-large-scale-pv-plant/). 
+Greece 
+From 2016, RE and CHP plants to be connected to the transmission grid participate in the electricity 
+market and receive a sliding feed-in premium (the so-called "operating support based on a differentiated 
+balancing price"); from 2017, the feed-in premium was granted via tenders. However, exceptions apply 
+to smaller installations, i.e. wind turbines ≤3 MW and other RE installations (including PV 
+installations) ≤500 kW, which are eligible for a feed-in tariff. The subsidies are granted for a period of 
+20 years. The model is based on a fixed feed-in tariff without inflation compensation (Source: RES 
+Legal 
+Greece 
+2020: 
+http://www.res-legal.eu/search-by-country/greece/tools-list/c/greece/s/res-
+e/t/promotion/sum/140/lpid/139/).
+
+--- Page 18 ---
+18 
+Austria 
+In Austria, electricity from renewable energy sources is mainly subsidised through a feed-in tariff, 
+which is laid down in the Green Electricity Act (Ökostromgesetz 2012) and associated ordinances. The 
+operators of renewable energy plants have a claim against the state procurement agency, the so-called 
+“Abwicklungsstelle für Ökostrom AG”, to conclude a contract for the purchase of the electricity they 
+generate ("contracting obligation"), provided that the FiT support volume has not been exhausted. The 
+total FiT subsidy amount is redefined annually by a decreasing subsidy volume. The Green Electricity 
+Act was replaced by the Renewable Expansion Act (“Erneuerbare Ausbau Gesetz") in 2021. Both 
+operating subsidies in the form of sliding market premiums and investment grants are used as subsidy 
+instruments for renewable electricity.  
+Subsidies based on market premiums are provided for electricity generation from hydropower, wind 
+power, photovoltaic, biomass and biogas plants. The subsidy period is 20 years (from commissioning 
+of the respective plant). Investment subsidies are granted for the new construction and expansion of 
+photovoltaic plants and electricity storage facilities, as well as for the new construction of wind power 
+plants up to 1 megawatt (MW), according to the respective ranking and the available subsidies. (Source: 
+Bundesministerium 
+für 
+Umweltschutz, 
+Erneuerbaren-Ausbau-Gesetz, 
+2021: 
+https://www.bmk.gv.at/service/presse/gewessler/20210317_eag.html). 
+4.3. Organizational Structure 
+4.3.1. 
+Description of the group and the position of the Issuer within this group 
+PV-Invest is the parent company of the PV-Invest Group. The shareholders are 
+Managementkompetenz UB-Unternehmensberatung GmbH, RGA Beteiligungs GmbH and, since 2021, 
+Liechtenstein 
+Invest 
+GmbH. 
+The 
+sole 
+shareholder 
+of 
+Managementkompetenz 
+UB-
+Unternehmensberatung GmbH is Mr Günter Grabner, who is also the company's managing director. 
+RGA Beteiligungs GmbH is held 50% each by Ms Anneliese Rabensteiner and Mr Gerhard 
+Rabensteiner, who is also the company's managing director. Lichtenstein Invest GmbH is held 89% by 
+the Liechtenstein Group AG, 5% each by Prince Constantin von und zu Liechtenstein and Johannes 
+Meran, and one percent by Mr Jorge Fernandez Vidal. The sole beneficiary of the Liechtenstein Group 
+AG is S.D. Prince Hans-Adam II von und zu Liechtenstein. The following chart describes the position 
+of the Issuer within the PV-Invest Group:
+
+--- Page 19 ---
+19 
+ 
+Source: Company's own information
+
+--- Page 20 ---
+20 
+ 
+As part of its ordinary business activities, the Company regularly establishes further subsidiaries as 
+project companies for the implementation of individual projects. 
+4.3.2. 
+Dependence of the Issuer on other units within the Group 
+The Issuer, as holding and management company of the PV-Invest Group, is dependent on other 
+companies of the Group as these subsidiaries generate the revenues in the PV-Invest Group. 
+4.4. Trend Information 
+4.4.1. 
+Declaration concerning significant adverse changes in the Issuer's prospects 
+The Issuer hereby declares, that there have been no material adverse changes in the prospects of the 
+Issuer since the date of the Audited Financial Statements on 31 December 2021. Further, there has been 
+no significant change in the financial performance of the PV-Invest Group since the date of the Interim 
+Financial Statements on 30 June 2022. 
+4.4.2. 
+Known trends 
+Due to the persisting high inflation in the jurisdictions the Company operates in and given the fact 
+that the Company has relatively moderate inflation driven costs, the Company expects a positive effect 
+on its results of operations. Furthermore, the Company in its financing structure shows a relatively high 
+amount of fixed interest rates which leaves the Company to a large degree unaffected by inflation driven 
+interest rate hikes. Besides that, the Company has no information on known trends, uncertainties, 
+demand, obligations or events, that are expected to have a material impact on the Issuer's prospects, at 
+least in the current financial year.  
+4.5. Profit Forecasts or Estimates 
+The Issuer does not include any profit forecast or profit estimate in this Prospectus. 
+5. 
+RISK FACTORS 
+In addition to the other information contained in this Prospectus, investors should carefully read 
+and consider the risks described below, in particular before rendering the decision to purchase 
+securities of the Company. The occurrence of these risks can, individually or together with other 
+circumstances, significantly impair the business activities of the PV – Invest Group and have significant 
+adverse effects on the net assets, financial position and results of operations of the PV-Invest Group. 
+The risks described below represent the main risks, that the Company believes to be associated with the 
+acquisition of the Notes and the Issuer’s business operations. The value of the Notes could decrease 
+due to the occurrence of each of these risks and investors could lose all or part of their invested capital.  
+5.1. Risks related to the Issuer 
+5.1.1. 
+Risks in connection with the market environment for green energy 
+There is a risk that a possible decline from the current high price level for conventional energy 
+sources could reduce the price of electricity from such conventional energy sources and thus the 
+overall electricity price, which could also lead to a decline in the Company's revenues. 
+The current demand for electricity from photovoltaic systems results partly from the fact, that prices 
+for conventional energy sources have risen sharply in the recent past. The higher the price for energy 
+obtained from the use of conventional energy sources, the more economically attractive alternative 
+energy production through photovoltaic systems appears. A reduction in market prices for conventional 
+energy sources, such as crude oil or natural gas, or for example, a reduction in electricity prices due to 
+increasing competition resulting from a liberalisation of the electricity market, or by governmental 
+interventions such as price caps, could conversely make energy production by photovoltaic systems
+
+--- Page 21 ---
+21 
+appear to be an economically less attractive alternative and lead to a decline in revenues for the 
+Company. This could have a material adverse effect on the net assets, financial position and results of 
+operations of the Company.  
+The political and legal framework conditions for green electricity could change. 
+The current political and legal situation favours electricity from alternative energy sources and 
+guarantees a long-term planning horizon through a system of legally regulated feed-in tariffs. However, 
+there is a risk, that the political environment changes and the legal framework conditions may also 
+change retroactively. In particular a change in the amount of the feed-in tariffs could have a significant 
+negative impact on the net assets, financial position and results of operations of the Company. 
+Competition with electricity producers from other renewable energy sources could lead to increased 
+competitive pressure. 
+Some electricity production from photovoltaics is already in place and could be even more in 
+competition with other methods of electricity production from other renewable energy sources, such as 
+wind power, biomass or geothermal energy. These other methods could exert a high competitive 
+pressure on photovoltaics, for example, if they prove to be more economical due to technical progress 
+or receive greater regulatory support for political reasons. This could have a material adverse effect on 
+the net assets, financial position and results of operations of the Company.  
+Increased competition and increasing market concentration could lead to increased price pressure 
+and could complicate the acquisition of new projects.  
+The market for renewable energies, in which the Company is active, has been undergoing a 
+process of concentration for some time now. In addition, other competitors are entering the market. The 
+Company believes, that this development will continue in the future. Increasing market concentration 
+and increased competition could lead to increased price pressure. Furthermore, increased competition 
+on the part of investors could lead the Company not or not to the planned extent to be in a position to 
+acquire new photovoltaic projects on the market at attractive conditions. This could have a material 
+adverse effect on the net assets, financial position and results of operations of the Company. 
+5.1.2. 
+Risks related to the Issuer’s Business 
+The Issuer’s results of operations may be negatively impacted by the Ukraine Conflict and Supply 
+Chain Disruptions.  
+On 24 February 2022, Russia invaded Ukraine in a major escalation of the Russo-Ukrainian War 
+that began in 2014.  
+As an effect of the conflict the supply chain crisis based on the COVID pandemic has further 
+expanded. This resulted in supply problems in particular but not limited to solar panels and power 
+inverters which are to a large extent sourced in China and steel and cables sourced in Ukraine. In 
+addition, the EPC business of the Company can be negatively affected by the conflict as Ukrainian 
+personnel employed by subcontractors of the Company is currently not available, which may lead to 
+delays in construction. 
+The duration of the business disruptions internationally and related financial impact cannot be 
+reasonably estimated at this time. Similarly, the Issuer cannot estimate whether or to what extent this 
+conflict and potential financial impact may affect countries where it operates in.  
+Other local, regional, national or international conflicts (such as the dispute between China and 
+Taiwan) could arise and result in a further disruption of supply chains, or a general or acute decline in 
+economic activity. Further, the Issuer may incur expenses or delays relating to such events outside of 
+its control, which could have a material adverse impact on its business, operating results and financial 
+condition. Although the full extent of the Ukraine Conflict on the results of the Issuer cannot yet be 
+foreseen it could be possible, that it will have a material negative impact on the consolidated results of 
+the Issuer in 2022.
+
+--- Page 22 ---
+22 
+There is a risk of lower performance or higher maintenance costs for PV systems. 
+The Company's planning is based on the current performance and maintenance costs of the PV 
+systems in its portfolio. In the future, the performance of PV systems could be lower than expected by 
+the Company today, e.g. due to lower solar radiation due to climate change and/or due to sub-plan 
+performance of the PV systems as a consequence of technical failures and/or higher maintenance costs 
+for the PV systems due to increased prices of raw materials and/or services and/or the need for additional 
+investments, which could have a significantly negative impact on the net assets, financial position and 
+results of operations of the Company. 
+The Issuer’s results of operations may be negatively impacted by the COVID-19 outbreak.  
+In December 2019, the 2019 novel coronavirus (COVID-19) surfaced in Wuhan, China. The World 
+Health Organization declared a global emergency on 30 January 2020 with respect to the outbreak then 
+characterized it as a pandemic on 11 March 2020. The outbreak has spread throughout the globe, 
+causing companies and various international jurisdictions to impose restrictions, such as quarantines, 
+closures, cancellations and travel restrictions. While these effects are expected to be temporary, the 
+duration of the business disruptions internationally and related financial impact cannot be reasonably 
+estimated at this time. Similarly, the Issuer cannot estimate whether or to what extent this outbreak and 
+potential financial impact may affect countries where it operates in.  
+A local, regional, national or international outbreak of a contagious disease, including, but not 
+limited to, COVID-19, Middle East Respiratory Syndrome, Severe Acute Respiratory Syndrome, H1N1 
+influenza virus, avian flu, Monkeypox or any other similar illness could result in a general or acute 
+decline in economic activity in the regions the Company operates in. Further, the Issuer may incur 
+expenses or delays relating to such events outside of its control, which could have a material adverse 
+impact on its business, operating results and financial condition. Although the full extent of the 
+pandemic on the results of the Issuer cannot yet be foreseen it could be possible, that the pandemic will 
+have a material negative impact on the consolidated results of the Issuer in 2022. 
+There is the possibility of conflicts of interest of the Company's board administrators in connection 
+with their activities in other companies. 
+In addition to his function in the Company, the managing director of the Company, Mr. Günter 
+Grabner, is also active as managing director or owner in other companies, some of which have a business 
+relationship with the Company. The Company cannot exclude the possibility of conflicts of interest 
+arising between the managing director’s function in the Company and his activities in other companies. 
+In addition there is a risk that conflicts of interest arise between the Issuer and its shareholders regarding 
+the implementation of projects or business strategy. In particular, conflicts could arise between the 
+Issuer and its shareholder Liechtenstein Invest GmbH if Liechtenstein Invest GmbH would pursue 
+projects in other companies in its portfolio. 
+Risk due to lack of external control of the application of funds. 
+The proceeds from the Issue of Notes will be transferred to the assets of the Company. There is no 
+contractually agreed external control of the use of these funds, e.g. by an auditor. Rather, the 
+management of the Company is responsible for controlling the business activities of the Company. The 
+lack of external control regarding the use of funds may lead to an improper use of the funds. This fact 
+may not be discovered at all or only at a later point in time. This could have negative effects on e.g. the 
+liquidity of the Company and thus endanger its existence. These factors can lead to a complete or partial 
+loss of an investor’s capital. 
+5.2. Risks specific to securities  
+Risks exist due to the structural subordination of the Notes to other financing raised by the Issuer 
+and its subsidiaries. 
+Noteholders are unsecured creditors of the Issuer. Noteholders are therefore structurally 
+subordinated to secured creditors of the Issuer and its subsidiaries. Secured creditors have preferential
+
+--- Page 23 ---
+23 
+access to assets, if they have a lien. There is also a structural subordination with regard to unsecured 
+creditors of subsidiaries (if and to the extent, that the Issuer is not itself a subordinate creditor), since in 
+the event of the subsidiary's insolvency they have access to the assets of the relevant subsidiary and the 
+Issuer would only receive any liquidation proceeds after all other creditors of the relevant subsidiary 
+have been satisfied. In addition, claims of the Issuer against a subsidiary in the event of insolvency of 
+the subsidiary could be treated as subordinated under applicable law. These aspects may have negative 
+effects on the net assets, financial position and results of operations of the Company and impair the 
+ability of the Issuer to meet its obligations under the Notes. 
+A rise in interest rates may cause the value of the Notes to decline. 
+In the event, that a market price or stock exchange price of the Notes exists, a change in the interest 
+level of existing fixed-interest securities leads to price changes. Rising interest rates lead to falling 
+prices. The longer the remaining term of a fixed-interest security, the greater the change in price are, if 
+interest rates change. If the interest rate on the capital market rises, the price of the fixed-interest Notes 
+usually falls until their yield corresponds to the market interest rate. Investors who wish to sell 
+fixed-interest securities during their term are thus exposed to the risk of price losses due to an increase 
+in interest rates. This may have considerable adverse effects for investors. 
+If the creditworthiness of the Issuer deteriorates, this may lead to a lower market value of the Notes. 
+The creditworthiness of the Issuer has a significant influence on the price behaviour of the Notes. 
+If the creditworthiness of the Issuer deteriorates, this may lead to a lower market value of the Notes and 
+consequently to losses for investors, who sell the Notes during their term. 
+Liabilities arising from the Notes are not covered by any statutory protection scheme. 
+Claims in connection with the Notes are not secured by a statutory protection scheme (deposit 
+guarantee or investor compensation). In the event of the Issuer's insolvency, investors therefore cannot 
+expect a repayment of the invested capital from any third party. 
+The Issuer may redeem the Notes prematurely. 
+The Issuer is entitled under the Note Terms to redeem all or parts of the Notes prior to their Final 
+Maturity Date. In this case, repayment will be at par plus a certain premium and plus interest accrued 
+prior to the date of repayment. If the Issuer exercises its right to redeem the Notes prematurely, the 
+Noteholders may achieve a lower yield than expected. This is in particularly the case, if investors can 
+only reinvest the amount received from the premature redemption of Notes at inferior conditions.  
+6. 
+TERMS AND CONDITIONS OF THE SECURITIES  
+6.1. The types and class of securities to be offered  
+The Notes are non-subordinated, fixed-, or variable interest Notes of the Issuer. The ISIN 
+(International Security Identification Number) is determined for the respective Series of Notes and 
+published in the respective Final Terms. 
+The securities offered under the Offer Programme will be offered as “Green Bonds”. As a company 
+exclusively engaged in the clean energy sector the Issuer applies all funding exclusively in Green 
+Projects as defined by ICMA. As the application of Green Bond Frameworks acc. to ICMA’s green 
+bond principles are recommendations applying to individual bonds of an issuer (i.e. in cases where also 
+other application of funds would be possible), the Issuer has so far not seen a requirement for a separate 
+Green Bond Framework as set out in the ICMA green bond principles as the application of all funds of 
+the Issuer are publicly stated in its financial statements.
+
+--- Page 24 ---
+24 
+6.2. The legislation, on the basis of which the securities are issued 
+The Notes are subject to Austrian law. The Notes issued on the basis of this Base Prospectus will 
+be issued via a resolution of the management of the Issuer with the approval of the general meeting of 
+the shareholders of the Company. 
+6.3. Indication, whether the securities are registered or bearer instruments  
+The Notes of the individual Series are bearer securities. Each Series of Notes shall be securitised in 
+a Global bearer Certificate (a "Global Certificate") in accordance with § 24 DepG from the Date of 
+Issue. There is no entitlement to the issue of individual Notes (individual physical certificates). Each 
+Global Certificate shall be held in custody by or on behalf of a central securities depository designated 
+by the Issuer, until all liabilities of the Issuer under the respective Series of Notes have been met. 
+6.4. Currency of the Issue of Notes 
+The Notes are issued in currency Euro/€. 
+6.5. Rank of securities 
+The Notes create direct, unconditional, unsecured and unsubordinated liabilities of the Issuer, which 
+rank equally with each other and with all other current or future unsecured and unsubordinated liabilities 
+of the Issuer, with the exception of liabilities which have priority under applicable mandatory law. 
+6.6. Rights attached to the securities and procedures for exercising them 
+The Notes grant the right of annual interest payments in the amount and for the term specified in 
+the Final Terms. In addition, the Notes grant the right of repayment of the Nominal Amount of the 
+paid-in capital on the Final Maturity Date or, if the Notes are terminated prior in accordance with the 
+Final Terms, on the date of effectiveness of the respective termination. 
+If the Notes are voluntarily redeemed prematurely by the Issuer in accordance with sec. 5.3 of the 
+Note Terms, this will be done at a premium of the principal amount determined for the respective Series 
+of Notes in the Final Terms. 
+The rights and obligations of the Noteholders result from the Model Note Terms and are completed 
+by the relevant Final Terms. Those complete the information missing in the Model Note Terms. 
+All payments under the Notes will be made through the Paying Agent. 
+6.7. Indication of the nominal interest rate and provisions on interest owed 
+The interest rate for the respective Series of Notes is determined in each case in the Final Terms as 
+fixed or variable interest rate per annum. In case of variable interest rate the rate is determined as a 
+premium over the 3-month EURIBOR. 
+Interest is due retrospectively on the respective interest payment date of each year (one interest 
+payment date).  
+The interest period is one year from each interest payment date (including the day) to the following 
+interest payment date (excluding the day). For periods from the respective Issue Date to the first interest 
+payment date, interest is calculated on an actual/actual basis.  
+In the case of variable interest rates, the interest rate is calculated on the basis of the 3-month 
+EURIBOR plus a risk premium in % of the nominal value, rounded to the nearest 1/8%. The respective 
+risk premium will be specified in the Final Terms for the respective Series of Notes.  
+If, and for as long as, for whatever reason the 3-month EURIBOR is no longer available or its 
+publication is discontinued, the Issuer shall use its reasonable endeavours to appoint and consult with 
+an independent adviser (the “Adviser”), who has to qualify as an Austrian certified auditor and be a
+
+--- Page 25 ---
+25 
+member in good standing of the Austrian chamber of tax advisers and auditors, as soon as reasonably 
+practicable, to determine an alternative rate, that in its economic nature and effect comes as close as 
+reasonably possible to the 3-month EURIBOR (the “Alternative Rate”). The Issuer shall determine the 
+respective Alternative Rate on the basis of such consultation, and shall publish it without undue delay 
+on its website under the dedicated section “investor-relations” https://www.pv-invest.com/de/investor-
+relations/ and in the form of a supplement to this Prospectus according to Art. 23 Prospectus Regulation. 
+The Adviser shall act in good faith, in a commercially reasonable manner and in compliance with 
+its professional standards in consultation with the Issuer and (in the absence of bad faith, fraud or gross 
+negligence) shall have no liability whatsoever to the Issuer, the Paying Agent, the Noteholders or any 
+other for any determination made by it or for any advice given to the Issuer in connection with the 
+determination of the Alternative Rate. 
+The determination of whether the relevant interest shall be determined on an annual, semi-annual 
+or quarterly basis shall be determined by the Issuer in the Final Terms for the relevant Series of Notes. 
+Interest shall be determined on 31 October of each year in the case of annual interest determination, on 
+31 October and 30 April in the case of semi-annual interest determination and on 31 October, 31 January, 
+30 April and 31 July of each year in the case of quarterly interest determination (each an Interest 
+Determination Date). The relevant 3-month EURIBOR is in each case the 3-month EURIBOR 
+announced on the respective Interest Determination Date. For the period from the respective Issue Date 
+until the first Interest Determination Date, the applicable 3-month EURIBOR shall be the 3-month 
+EURIBOR valid on the Interest Determination Date immediately preceding the Issue Date. The 
+applicable interest rate shall be published by the Issuer on its website under the dedicated section 
+“investor-relations” https://www.pv-invest.com/de/investor-relations/ no later than on the respective 
+Interest Determination Date. For the period from the respective Issue Date to the first interest payment 
+date the total interest rate is identified in the Final Terms. 
+The 3-month EURIBOR is displayed free of charge on https://www.euribor-rates.eu/en/current-
+euribor-rates or on the appropriate page of such other information service which publishes that rate from 
+time to time in place of www.euribor-rates.eu. If such page or service ceases to be available, the Issuer 
+may specify another page or service displaying the relevant rat. If an Alternative Rate is determined, 
+the Issuer will, in a supplement to this Prospectus (if this occurs during the validity of the Prospectus) 
+or via an ad-hoc announcement disclose on its website under the dedicated section “investor-relations” 
+https://www.pv-invest.com/de/investor-relations/ where such Alternative Rate is published by 
+electronic means free of charge. 
+Information about the past and the further performance of the 3-month EURIBOR and its volatility 
+can be obtained by electronic means and free of charge on https://www.euribor-rates.eu/en/euribor-
+charts/. 
+Claims for the payment of interest become time-barred after three years from their due date, claims 
+for the payment of capital become time-barred after thirty years from their due date. 
+6.8. Maturity Date and agreements for loan repayment 
+Unless the Notes have already been repaid or purchased and cancelled in whole or in part in 
+accordance with sec. 5.2., 5.3. or 8. of the Note Terms, they will be repaid at their Nominal Amount on 
+the respective Final Maturity Date specified in the Final Terms. With the exception of the provisions of 
+sec. 5.2. and 5.3., the Issuer is not entitled to redeem the Notes before their Final Maturity Date. 
+Pursuant to sec. 5.2. of the Note Terms, the Issuer has the right to redeem the Notes early for tax 
+reasons. Furthermore, pursuant to sec. 5.3 of the Note Terms, the Issuer is entitled to redeem the Notes 
+in full, but not in part, without giving any reasons from the completed third year of their Term with 
+effect from the end of a calendar quarter. In such a case, repayment will be made at a premium above 
+the Nominal Amount, the specifics of which will be determined in the Final Terms.
+
+--- Page 26 ---
+26 
+6.9. Indication of the yield 
+In principle, the yield on Notes is calculated from their interest rate, term, issue price and 
+redemption or redemption price. Since both the Issue price (without considering any issue premium 
+fixed in the Final Terms) and the redemption price are 100 %, the annual yield of the Notes corresponds 
+with the interest rate set out in the Final Terms or as calculated on the basis of EURIBOR in case of 
+variable-interest notes. The respective net yield of the Notes can only be determined at their Final 
+Maturity Date, as it depends on the amount of any front-end load on the term of the Note and on any 
+individual transaction costs to be paid (e.g. custody fees to the bank commissioned by the investor). 
+6.10. Representation of debt securities holders 
+All rights arising from the Notes are to be asserted by the individual holders of the Notes themselves 
+or their appointed legal representatives against the Issuer directly, at the Issuer's registered office at 
+regular business hours, as well as in writing (registered mail) or by due legal process. The Issuer does 
+not intend to represent the Noteholders in an organised manner.  
+However, in order to safeguard the exercise of the rights of creditors of bearer Notes or Notes of 
+domestic issuers, which can be transferred by endorsement, and of certain other Notes, a trustee for the 
+respective Note creditors must be appointed by the competent court in accordance with the provisions 
+of the Curator Act 1874 and the Curator Supplement Act 1877, if their rights would be endangered or 
+suspended by the lack of joint representation, in particular in the event of the Issuer's bankruptcy. In 
+certain cases, the Curator’s legal acts require the approval of the court of trustees and its powers are 
+defined in more detail by the court within the common matters of the investors. The provisions of the 
+Curator Act 1874 and the Curator Supplement Act 1877 may not be repealed or amended by agreement 
+or issue conditions, unless a joint representation of interests, equivalent to that of the creditors is 
+provided for. With regard to matters to be handled by the curator, the exclusive and indispensable 
+jurisdiction of the court appointing him shall apply (§ 83a Austrian Law on Jurisdiction; Gesetz vom 
+1. August 1895, über die Ausübung der Gerichtsbarkeit und die Zuständigkeit der ordentlichen Gerichte 
+in bürgerlichen Rechtssachen, Jurisdiktionsnorm – “JN”).  
+An application for the appointment of a trustee may be filed by any creditor with the competent 
+court, which is the Court of first instance in Commercial Matters. In the case of the Issuer, the competent 
+court is the Klagenfurt Regional Court, Josef Wolfgang Dobernigstrasse 2, A-9020 Klagenfurt. 
+6.11. Resolutions, authorisations and approvals which form the basis for the creation and/or 
+Issue of the securities that have taken place or will take place 
+The Notes are issued on the basis of a resolution of the Company's management, which will be 
+approved by the Company’s general assembly of shareholders. 
+6.12. Issue Date 
+The Issue Date is determined by the Issuer for the respective Series of Notes in the Final Terms. 
+6.13. Restrictions on the free transferability of securities 
+There are no restrictions to the free transferability of the Notes. 
+6.14. Taxation 
+Investors should be aware that the tax legislation of the Investor’s home member state and/or of the 
+Issuer’s country of incorporation may have an impact on the income received from the Notes. 
+Prospective purchasers of Notes are advised to consult their own tax advisors as to the tax 
+consequences of the purchase, ownership and disposition of Notes, including the effect of any state or 
+local taxes, under the tax laws applicable in the Federal Republic of Germany, the Grand Duchy of 
+Luxembourg, Slovenia and the Republic of Austria and each country of which they are residents.
+
+--- Page 27 ---
+27 
+7. 
+DETAILS OF THE OFFER/ADMISSION TO TRADING 
+7.1. Terms and conditions of the offer of securities to the public 
+7.1.1. 
+Conditions to which the Offer is subject 
+Each Issue of Notes will be made using the Model Note Terms described in Appendix A "Model 
+Note Terms" of the Prospectus (the "Model Note Terms"). The Model Note Terms are completed for 
+each Series of Notes by final terms (the "Final Terms") by completing the information elements missing 
+from the Model Note Terms (together the "Note Terms"). A model of the Final Terms is set out in 
+Appendix B of this Prospectus. The relevant Final Terms constitute the Note Terms applicable to a 
+particular Series of Notes, which give rise to the rights and obligations of the Issuer and the Noteholders. 
+7.1.2. 
+Total Nominal Amount of Issue 
+The total Nominal Amount of a Note Issue is determined in the respective Final Terms. The final 
+Issue volume will be determined by resolution of the management at the end of the Offer Period on the 
+basis of the subscription declarations received. 
+7.1.3. 
+The time period, including any amendments, during which the Offer is open and a description 
+of the application process 
+The Offer Period for the respective Series of Notes is specified in the Final Terms of the respective 
+Notes. Subscription declarations are accepted by the Issuer directly via the online subscription form on 
+the Company's website under www.pv-invest.com. The Company reserves the right to extend or shorten 
+the Offer Period. This will be published in the form of a supplement to this Base Prospectus in 
+accordance with Article 23 of the Prospectus Regulation on the website of the Issuer under the dedicated 
+section “investor-relations” https://www.pv-invest.com/de/investor-relations/. 
+7.1.4. 
+Description of the possibility to reduce the subscriptions 
+There are no plans to reduce the total number of subscriptions. However, the Issuer has the right to 
+limit subscriptions within the scope of the respective Offer at its own discretion. It will make use of this 
+right, in particular, if the subscription requests exceed the total volume of the Notes offered in each 
+Series. Any amount overpaid by the subscribers will be reimbursed by the Issuer through the Paying 
+Agent. 
+7.1.5. 
+Minimum and/or maximum subscription amount 
+The Issuer provides in the respective Final Terms for a minimum amount of at least EUR 1,000.- 
+("Nominal Amount"). There is no maximum subscription amount. However, the Issuer does not 
+preclude, that its distribution partners may subject the subscription of the Notes to a minimum purchase 
+amount. 
+7.1.6. 
+Method and time limits for paying up the securities and their delivery 
+The Notes may be purchased directly through the Issuer. An online subscription form is available 
+for this purpose to interested investors on the Company's website under www.pv-invest.com.  
+After allocation of the Notes by the Issuer on the basis of purchase orders received, the Paying 
+Agent will assume the Notes, for which purchase requests and allocations have been made, on behalf 
+of the Issuer as a finance commission agent. The Paying Agent has assumed a contractual commitment 
+towards the Issuer to transfer the Notes to the subscribing investors in accordance with the allocation 
+via the respective custodian bank. The transfer of Notes by booking them into the investor's bank 
+custody account (delivery) takes place step by step against payment of the Issue Price for the Notes. All 
+Notes will be delivered to investors in accordance with the allotment as soon as the Paying Agent has 
+received the Notes in the form of a Global Certificate for further transfer from the Issuer. Under the 
+Offer, the Notes will be delivered to those subscribers, who on the value date specified in the respective
+
+--- Page 28 ---
+28 
+Final Terms or if the Offer is extended at a later date, have transferred the corresponding payments 
+necessary for the subscription of the Notes to the Issuer. The Issuer will inform the Paying Agent 
+accordingly who will subsequently transfer the corresponding number of Notes to the subscribers’ 
+securities accounts. The respective value date is determined in the Final Terms in each case. 
+The Notes will be delivered via a Clearing System, determined by the Issuer in each case in the 
+Final Terms. The Notes are securitised in their entirety by one or more Global Certificates in accordance 
+with § 24 lit. b DepotG. Investors do not have a right to obtain individual securitisation and delivery of 
+Notes. The interest and redemption payments due are serviced by the respective custodian bank for the 
+Noteholders. Claims for the payment of interest become time-barred after three (3) years from their due 
+date and other claims after thirty (30) years from their due date. 
+7.1.7. 
+Manner and date of disclosure of the results of the Offer 
+Investors will be informed by their custodian banks of the number of Notes allocated to them in the 
+context of the respective Offer. The results of the Offer will be published after the end of the Offer 
+Period via electronic media and on the Company's website at www.pv-invest.com and will be filed with 
+the CSSF in accordance with Article 17.2 and Article 8.5 Prospectus Regulation. The result of the Offer 
+will be published on the bank working day following the last day of the respective Offer Period. 
+7.1.8. 
+Procedure for the exercise of any preferential rights, the transferability of subscription rights 
+and the treatment of unexercised subscription rights 
+There are no preferential rights or subscription rights with respect to the Notes. 
+7.2. Plan for the distribution of securities and their allotment 
+7.2.1. 
+Categories of potential investors 
+The Notes will be offered for subscription to potential investors in the context of the respective 
+Offer in a public offering in Luxembourg, Slovenia, Austria and Germany and in the context of a private 
+placement in Europe with reference to the exceptions for qualified investors under capital market law. 
+Restrictions regarding certain investors will not be made. 
+7.2.2. 
+Process for notifying the amount allocated to subscribers and whether it is possible to start 
+trading before the reporting procedure 
+In the event of an allotment of securities, subscribers receive securities settlements for the securities 
+allocated by the custodian bank of the subscriber to the securities. There will be no other notifications 
+of allocations. Any subscriber may hold the Notes directly, including outside a regulated market. 
+7.3. Pricing 
+7.3.1. 
+Expected Price 
+The Issue Price for each Series of Notes is 100 % of the Nominal Amounts of the Notes plus an 
+Issue Premium, if any, specified in the Final Terms, until the end of the Offer Period, specified in the 
+respective Final Terms.  
+If the Offer is extended after the expiry of the initial Offer Period, the Issue price shall be 100 % of 
+the Nominal Amount of the Notes plus any Issue Premium and plus any accrued interest for the period 
+from the bank working day (including the day) following the end of the Offer Period until the calendar 
+day (including the day) preceding the second bank working day on which the investor instructs his 
+account-holding bank to transfer the Nominal Amount plus any accrued interest to the account of the 
+Issuer at the Paying Agent.
+
+--- Page 29 ---
+29 
+7.3.2. 
+Expenses and Taxes 
+With the exception of bank charges and, if applicable, Austrian withholding tax on interest 
+(Kapitalertragssteuer – KESt) no additional costs or taxes will be charged to the subscriber when 
+acquiring the Notes. 
+7.4. Placing and underwriting 
+7.4.1. 
+Name and address of the coordinator or coordinators of the entire Offer 
+The coordination and placement of the Notes are carried out by the Company itself. 
+7.4.2. 
+Paying Agents and custodians 
+The Paying Agent of the Company with respect to the Notes of each Series is the company specified 
+by the Issuer in the respective Final Terms. The Notes securitised by a Global Certificate shall be 
+deposited with the Clearing System specified in the Final Terms as a central securities depository. 
+The Global Certificate shall be held in custody by the respective Clearing System as a central 
+securities depository for the duration of the Note Term. The holders of the Notes (“Noteholders”) are 
+entitled to co-ownership shares of the Global Certificate. 
+7.4.3. 
+Entities, that are prepared to subscribe to the Issue on a firm commitment basis and to place 
+an Issue without firm commitment, or on "best possible terms" in accordance with agreements 
+No placement guarantee or commitments to take over the Notes were made. 
+7.4.4. 
+The dates, on which the underwriting agreement was or will be concluded 
+n.a.; Please see sec. 7.4.3. of this Prospectus above. Accordingly, no underwriting agreement was 
+or will be concluded. 
+7.5. Admission to trading and dealing arrangements 
+7.5.1. 
+Application for admission to trading 
+The Company does not plan to apply for admission to trade on a SME growth Market for Notes. 
+The inclusion of a certain Series of Notes in the trade on multilateral trading facilities, such as the 
+Vienna MTF operated by the Vienna Stock Exchange will be decided in individual cases and will be 
+specified in the corresponding Final Terms. 
+7.5.2. 
+SME growth Markets or MTFs on which, to the knowledge of the Issuer, securities of the same 
+class are already admitted to trading 
+No securities of the same security category as the Issuer's Notes are admitted for the trade on a SME 
+growth Market. Notes issued by the Issuer in previous issues are traded on the Vienna MTF. 
+7.5.3. 
+Entities which have a firm commitment to act as intermediaries in secondary trading 
+The Issuer will decide in each Offer whether to appoint entities which have a firm commitment to 
+act as intermediaries in secondary trading, providing liquidity through bid and offer rates. The names 
+and addresses of the coordinator(s) of each respective Offer (including and of single parts of the Offer 
+and, to the extent known to the Issuer or to the offeror, of the placers in the various countries where the 
+offer takes place) and/or name and addresses of any underwriters (including the basis of underwriting 
+and date of the relevant agreement) will be disclosed in the applicable Final Terms.
+
+--- Page 30 ---
+30 
+8. 
+ADMINISTRATIVE, MANAGEMENT AND SUPERVISORY BODIES 
+8.1. Names and business addresses of the following persons and their position with the Issuer, 
+indicating the principal activities they perform outside the Issuer, if these are of importance 
+to the Issuer: 
+8.1.1. 
+Board 
+Managing Directors of PV-Invest are Mr. Günter Grabner and Mr. Gerhard Rabensteiner. Both 
+managing directors have sole power of representation. Both are also managing directors of the 
+respective Austrian subsidiaries. The managing directors can be contacted at the Company's business 
+address.  
+In addition to his activities with the Company, the managing director Günter Grabner also performs 
+the following functions outside the Issuer, which are of importance to the Issuer: 
+• 
+Sole 
+shareholder 
+of 
+the 
+parent 
+company, 
+Managementkompetenz 
+UB-Unternehmensberatung GmbH, FN 212078f, Neptunweg 8, A-9020 Klagenfurt; 
+• 
+Sole Managing Director of Winzerwerk Energy GmbH, FN 297083m, Lakeside B07, 
+A-9020 Klagenfurt; 
+• 
+Managing Director with sole power of representation and 50 % shareholder of Aladin Solar 
+GmbH (including all subsidiaries), FN 415317k, Lakeside B07, A-9020 Klagenfurt. 
+In addition to his activities with the Company, Mr. Gerhard Rabensteiner holds the following 
+functions outside the Issuer: 
+• 
+Managing Director with sole power of representation and 50 % shareholder of RGA 
+Beteiligungs GmbH, FN 365147g, Krottendorferstraße 24, A-9073 Klagenfurt-Viktring; 
+• 
+Managing Director with sole power of representation and 50 % shareholder of Aladin Solar 
+GmbH (including all subsidiaries), FN 415317k, Lakeside B07, A-9020 Klagenfurt. 
+8.1.2. 
+Supervisory Board 
+The Company has no supervisory board. 
+9. 
+FINANCIAL INFORMATION AND KEY PERFORMANCE INDICATORS 
+9.1. Historical Financial Information 
+For historical Financial Information, including the auditor's report, please see the Audited 
+Consolidated Financial Statements of the Company as of 31 December 2021, incorporated in this 
+Prospectus by reference, and the unaudited Interim Financial Statements of the Company as of 
+30 June 2022, also incorporated in this Prospectus by reference.  
+The Audited Consolidated Financial Statements and the Interim Financial Statements were prepared 
+in accordance with the accounting principles applicable in the Republic of Austria and are available free 
+of charge at the Company's website under the dedicated section “investor-relations” https://www.pv-
+invest.com/de/investor-relations/ and during regular business hours at the offices of PV-Invest GmbH, 
+Lakeside B07, A-9020 Klagenfurt, Tel. +43 (0) 463/218 073 - 0. 
+9.2. Interim Financial Information and other Financial Information 
+This Prospectus incorporates the unaudited Interim Financial Statements of the Issuer as of 
+30 June 2022 by reference.
+
+--- Page 31 ---
+31 
+9.3. Audit of historical Financial Information 
+The Audited Consolidated Financial Statements for the fiscal years ending 31 December 2021 with 
+comparison to 31 December 2020 were audited by Grant Thornton ALPEN-ADRIA Wirtschaftsprüfung 
+GmbH, August-Jaksch-Straße 2, A-9020 Klagenfurt (“Grant Thornton”). 
+Grant Thornton are sworn auditors and members of the Austrian Chamber of Chartered 
+Accountants. Apart from the information contained in the Audited Consolidated Financial Statements, 
+no information contained in this Prospectus has been audited. During the period covered by the 
+historical Financial Information, the Company's auditors have not been removed, reappointed or 
+resigned. 
+The Audited Consolidated Financial Statements were audited by Grant Thornton and issued with 
+an unqualified audit opinion. Apart from the Audited Consolidated Financial Statements, no other 
+information was included in this Prospectus, that was partially or completely audited by statutory 
+auditors and on which the auditors prepared an audit report. 
+The financial data contained in this Prospectus as of 30 June 2022 have been copied from the 
+Interim Financial Statements of the Issuer. This data is not audited.  
+9.4. Key Performance Indicators 
+The Issuer does not publish Key Performance Indicators. 
+9.5. Significant changes in the Issuer's financial position or trading position 
+There have been no significant changes in the financial position or trading position of the Issuer's 
+Group since 30 June 2022.  
+10. SHAREHOLDER AND SECURITY HOLDER INFORMATION 
+10.1. Major Shareholders 
+10.1.1. 
+Shareholdings and control relationships 
+The Company is owned 29 % each by (i) Managementkompetenz UB Unternehmensberatung 
+GmbH, FN 212078f, Neptunweg 8, A-9020 Klagenfurt, which in turn is solely owned by the Managing 
+Director of the Company, Mr. Günter Grabner, and (ii) RGA Beteiligungs GmbH, FN 365147g, 
+Krottendorferstraße 24, A-9073 Klagenfurt Viktring, which in turn is owned 5 0% each by Ms Anneliese 
+Rabensteiner and Mr Gerhard Rabensteiner, who is also the Managing Director of the Company, and 
+(iii) 42 % by Liechtenstein Invest GmbH, FN 531966d, Bankgasse 9, A-1010 Vienna, which in turn is 
+89 % owned by Liechtenstein Holding AG, 5 % each by Prince Constantin von und zu Liechtensteins 
+and Johannes Meran, and 1 % owned by Mr. Jorge Fernandez Vaduz. 
+There are no special measures in place to prevent the abuse of control over the Issuer by the main 
+shareholders, which go beyond the provisions of Austrian corporate law. There are no control 
+agreements between the Issuer or its subsidiaries and its shareholders. 
+10.1.2. 
+Agreements, the exercise of which could lead to a change of control in the Issuer at a later 
+date 
+The Company is not aware of any agreements, the exercise of which could lead to a change in the 
+control of the Issuer at a later date. 
+10.2. Legal and Arbitration Proceedings 
+PV-Invest itself is not currently party to any government intervention, legal or arbitration 
+proceedings (including those, which, to the Issuer's knowledge, are still pending or may be initiated),
+
+--- Page 32 ---
+32 
+that took place in the last twelve (12) months or more and which have recently had or may in the future 
+have a material effect on the financial position or profitability of the Issuer and/or the PV-Invest Group. 
+One Italian subsidiary of PV-Invest has brought a legal action before the Administrative Court of 
+the Lazio Region to award a feed-in tariff under the rules of the Italian "Conto Energia". Should these 
+proceedings be successful, PV-Invest's income would be correspondingly higher in the upcoming years; 
+the results of these proceedings would therefore also be to the advantage of PV-Invest.  
+KPV Solar GmbH (KPV) ordered, among other things, photovoltaic modules from KIOTO 
+Photovoltaics GmbH (KIOTO) for various PV systems in the period 2010 - 2012. In some projects it 
+became known that the so-called "foils" on the back of the modules are beginning to dissolve and are 
+therefore defective. The exact cause is not known. Due to the fact that these modules and foils were 
+used in different systems, several cases of damage can be assumed. It can be stated that even in the 
+event that a claim is ultimately made against KPV - which from today's perspective represents many 
+imponderables - due to the recourse possibilities of KPV against KIOTO and / or TELEOS GmbH, the 
+existing product guarantee of KIOTO and any existing liability insurance of the affected companies, 
+the risk is to be assessed as low. 
+KPV Solar GmbH (KPV) delivered 1.3 MWp PV modules based on the order dated 20 June 2011 
+from Atrya Energies Services Sarl (ATRYA). The production of the PV modules was carried out by 
+order from KPV to KIOTO Photovoltaics GmbH (KIOTO) by KIOTO with its various sub-suppliers 
+(now TELEOS GmbH, formerly Isovoltaic GmbH). The order from ATRYA to KPV was forwarded to 
+KIOTO with the same content, without further specifications. Subsequently, the supplied PV modules 
+were framed and roof-integrated by a third party, namely SAS Norba Energies. Due to various glass 
+breaks, there were first notifications of defects in November 2014, which ultimately ended in the fact 
+that in 2016 the plant owner SAS Julia Energie AG filed a lawsuit against all companies involved, 
+including KPV and KIOTO, at the commercial court in Rodez, France. The filed lawsuit is about 
+warranty and compensation claims as well as claims from lost profit. If there were to be a partial 
+conviction of the KPV by a French court, it should be noted that 3 participants are on the defendant's 
+side. If KPV is obliged to pay damages, it is entitled to recourse against KIOTO with the given insurance 
+coverage, depending on possible own insurance benefits. The extent of a rightly existing insurance 
+coverage cannot be assessed. From today's perspective, the risk that damage will ultimately remain in 
+the assets of KPV is to be classified as low. 
+10.3. Conflicts of interests 
+The managing directors of the Company perform board functions in other companies. Potential 
+conflicts of interest may arise from these dual functions in individual cases. In particular, such conflicts 
+of interest may result in business decision-making processes being prevented or delayed or to the 
+detriment of Noteholders. In the Company's estimation, there are currently no conflicts of interest 
+between the obligations of the managing directors towards the Company and their other board functions 
+or private interests.  
+10.4. Material contracts 
+The Company has issued the following Notes in the past: 
+• 
+Note "4.15 % Photovoltaic Note 2016-2023" with an interest rate of 4.15 % p.a. and an 
+issued volume of EUR 2,642,000, maturing on 5 December 2023.  
+• 
+Note "4.5 % Photovoltaic Note 2016-2026" with an interest rate of 4.5 % p.a. and an issued 
+volume of EUR 2,456,000. The Note matures on 5 December 2026. 
+• 
+Note "4.15 % Photovoltaic Note 2017-2024" with an interest rate of 4.15 % p.a. and an 
+issued volume of TEUR 2,877,000 maturing on 18 December 2024.
+
+--- Page 33 ---
+33 
+• 
+Note "4.5 % Photovoltaic Note 2017-2027" with an interest rate of 4.5 % p.a. and an issued 
+volume of TEUR 2,612,000 The Note matures on 18 December 2026. 
+• 
+Note "4.15 % Photovoltaic Note 2019-2026" with an interest rate of 4.15 % p.a. and an 
+issued volume of TEUR 2,821,000 maturing on 13 January 2026.  
+• 
+Note "4.5 % Photovoltaic Note 2019-2029" with an interest rate of 4.5 % p.a. and an issued 
+volume of TEUR 2,511,000. The Note matures on 13 January 2029. 
+• 
+Note "4.15 % Green Bond 2019-2026" with an interest rate of 4.15 % p.a. and an issued 
+volume of TEUR 3,429,000, maturing on 30 October 2026.  
+• 
+Note "4.5 % Green Bond 2019-2029" with an interest rate of 4.5 % p.a. and an issued 
+volume of TEUR 2,548. The Note matures on 30 October 2029. 
+• 
+Note "3.5 % Green Bond 2020-2025" with an interest rate of 3.5 % p.a. and an issued 
+volume of TEUR 3,748,000 maturing on 22 June 2025.  
+• 
+Note "4.5 % Green Bond 2020-2030" with an interest rate of 4.5 % p.a. and an issued 
+volume of TEUR 3,607,000. The Note matures on 22 November 2030. 
+11. DOCUMENTS AVAILABLE FOR INSPECTION 
+The documents listed below can be inspected during the term of this Prospectus at regular business 
+hours at PV-Invest GmbH, Lakeside B07, A-9020 Klagenfurt: 
+• 
+this Prospectus and any supplements thereto; 
+• 
+the respective Final Terms; 
+• 
+the current Articles of Association of the Company;  
+• 
+the Audited Consolidated Financial Statements of the Company as of 31 December 2021 
+and 31 December 2020, including the respective auditor's opinions; 
+• 
+the unaudited Interim Financial Statements of the Company as of 30 June 2022 and 
+30 June 2021; 
+Future annual and interim reports of the Company will be available at the Company’s business 
+address.  
+This Prospectus and the other documents mentioned above will be published on the Company's 
+website under the dedicated section “investor-relations” https://www.pv-invest.com/de/investor-
+relations/. The prospectus is also available free of charge during regular business hours at the offices of 
+PV-Invest GmbH, Lakeside B07, A-9020 Klagenfurt, tel. +43 (0) 463/218 073-0. The approved 
+Prospectus (which includes the Audited Consolidated Annual and unaudited Interim Financial 
+Statements) will also be published on the website of the Luxembourg Stock Exchange (www.bourse.lu). 
+CONSENT  
+1. INFORMATION TO BE PROVIDED REGARDING CONSENT BY THE ISSUER OR 
+PERSON RESPONSIBLE FOR DRAWING UP THE PROSPECTUS 
+1.1. Express consent by the Issuer to the use of the Prospectus and a statement that such person 
+accepts responsibility for the content of the Prospectus also with respect to the subsequent
+
+--- Page 34 ---
+34 
+resale or final placement of securities by any financial intermediary which was given consent 
+to use the Prospectus. 
+For each Series of Notes, the Issuer reserves the right to decide individually whether it consents to 
+the use of the Prospectus by financial intermediaries for the respective Issue. Depending on this 
+decision, the Final Terms will contain one of the following three options: 
+In the event of general approval: Subject to the following paragraphs, the Issuer consents to the use 
+of the Base Prospectus during its term for subsequent resale or final placement of the Notes by financial 
+intermediaries. 
+In the event of individual approval: Subject to the following paragraphs, the Issuer consents to the 
+use of the Base Prospectus during its term for subsequent resale or final placement of the Notes by 
+individual financial intermediaries expressly identified in the Final Terms. 
+In case of non-granting of consent: Not applicable. The Issuer does not consent to the use of the 
+Base Prospectus for subsequent resale or final placement of the Notes by financial intermediaries. 
+If consent is granted, the Issuer declares, that it also assumes liability for the content of the 
+Prospectus with regard to any subsequent resale or final placement of the Notes by financial 
+intermediaries, who have received consent for the use of the Prospectus. 
+1.2. Indication of the period for which consent to the use of the Prospectus is granted. 
+In the event, that consent to the use of this Prospectus by financial intermediaries is granted, the 
+Issuer reserves the right to decide individually for each Series of Notes for which period of time it gives 
+its consent to the completion of the Prospectus. Such consent for the use of the Base Prospectus is 
+granted either for the respective Offer Period of the securities or for the term of the Base Prospectus. A 
+corresponding determination is made for each Series of Notes in the respective Final Terms. 
+1.3. Indication of the Offer Period during which the subsequent resale or final placement of 
+securities by financial intermediaries can be made. 
+The Offer Period, during which the subsequent resale or final placement of securities by financial 
+intermediaries may take place, except if it is subject to appropriate consent, shall be individually 
+determined by the Issuer for each Series of Notes in the Final Terms. 
+1.4. Member States in which financial intermediaries may use the Prospectus for the subsequent 
+resale or final placement of securities. 
+Subject to approval, the Base Prospectus may be used for placement or resale in the Grand Duchy 
+of Luxembourg, Slovenia, the Federal Republic of Germany and the Republic of Austria. 
+1.5. Any other clear and objective conditions to which the consent is bound, and which are 
+relevant for the use of the Prospectus. 
+In the event of consent, the Issuer’s consent for the use of the Base Prospectus is conditional upon 
+each financial intermediary complying with the applicable sales restrictions and the terms and 
+conditions of the Offer. The Issuer’s consent for the use of the Base Prospectus is also subject to the 
+condition, that the using financial intermediary sells the Notes in a responsible manner to its clients. 
+Any financial intermediary using the Prospectus shall indicate on its website, that it is using the 
+Prospectus with the consent and under the conditions, to which the consent is bound. Furthermore, the 
+consent is not bound to any other conditions. 
+1.6. Notice 
+If a financial intermediary makes an Offer regarding the Notes, such financial intermediary 
+will provide information to investors on the terms and conditions of the Offer at the time the Offer 
+is made.
+
+--- Page 35 ---
+35 
+2. A ADDITIONAL INFORMATION IN THE EVENT, THAT ONE OR MORE SPECIFIC 
+FINANCIAL INTERMEDIARIES OBTAIN CONSENT 
+2. A.1 List and identity (name and address) of the financial intermediary(s) authorised to use 
+this Prospectus. 
+In the event, that consent is granted to certain financial intermediaries, a list of those may be inserted 
+in the Final Terms by the Issuer. 
+2. A.2 Disclosure of any new information on financial intermediaries unknown at the time of 
+approval of the Prospectus, Base Prospectus or, if applicable, transmission of the Final Terms, 
+and the location, where it is available. 
+New information on financial intermediaries will be published by the Issuer on its website 
+www.pv-invest.com, and will be available free of charge during regular business hours at the office of 
+PV-Invest GmbH, Lakeside B07, A-9020 Klagenfurt, tel. +43 463/218 073. 
+2. B 
+ADDITIONAL INFORMATION IN THE EVENT, THAT ALL FINANCIAL 
+INTERMEDIARIES OBTAIN CONSENT 
+A clear indication to investors, that any financial intermediary using the Prospectus must 
+indicate on its website, that it is using the Prospectus with the Issuer’s consent and in 
+accordance with the terms to which the consent is bound. 
+Please see sec. 1.6. above. 
+ 
+SALE AND TRANSFER RESTRICTIONS 
+Selling restrictions 
+No measures have been taken to register the Notes in any other jurisdiction outside the Grand Duchy 
+of Luxembourg, Slovenia, the Republic of Austria or the Federal Republic of Germany or to facilitate 
+in any way a public offering of the Notes. 
+The Notes are and will not be registered under the Securities Act and shall not be offered or sold in 
+the United States of America (as defined in Regulation S under the Securities Act).  
+Transfer restrictions 
+This Prospectus shall not be published, in whole or in part, in any country outside the Grand Duchy 
+of Luxembourg, Slovenia, the Republic of Austria and the Federal Republic of Germany in which 
+provisions on registration, admission or other provisions relating to a public offering of securities exist 
+or may exist. Any failure to comply with these restrictions may result in a violation of the securities 
+laws of such states. This Prospectus shall not be used for or in connection with an Offer, and neither an 
+Offer, nor a solicitation to make an Offer shall be made in any jurisdiction, where it is unlawful to make 
+such an Offer. 
+PV-Invest GmbH 
+as Issuer 
+Klagenfurt, 14 November 2022 
+ 
+ 
+Mag. Günter Grabner 
+ 
+Mag. Gerhard Rabensteiner
+
+--- Page 36 ---
+36 
+ANNEX A 
+MODEL NOTE TERMS 
+The blanks and/or placeholders in these Model Note Terms are deemed to be filled in by the information contained 
+in the relevant Final Terms as if the blanks in the relevant provisions of the Model Note Terms were filled in by 
+this information. 
+ 
+Note Terms 
+for the 
+up to nominal EUR [***] [***] % [Note] 20[***] to 20[***] 
+that 
+ 
+ 
+ 
+ 
+PV-Invest GmbH 
+ 
+ 
+1. Issuer, total Nominal Amount, denomination, form, securitisation, 
+central securities depository, ISIN, definition 
+1.1. 
+Issuer, total Nominal Amount, denomination: the Issuer issues the [***] % Green Bond 20[***] to 20[***] 
+(the "Note") with a total nominal amount of up to EUR [***] ([in words] million euros) in a denomination 
+in partial notes (Teilschuldverschreibungen) with a nominal amount (the "Nominal Amount") of EUR [at 
+least 1,000] ([one thousand] Euro) (the "Notes") in the form of a public offering in Luxembourg, Slovenia, 
+Austria and Germany. [The Notes are issued with an issue premium of [***] %. The total Issue Amount 
+per Note is therefore EUR [***] or [***] % of the Nominal Amount]. 
+1.2. 
+Shape: The Notes are bearer Notes and have equal rights and rank among themselves. 
+1.3. 
+Securitisation: The Notes are securitised in their entirety by means of an amendable Global Certificate in 
+accordance with Art. 24 lit. b) DepotG (the "Global Certificate"). The Global Certificate will be 
+subscribed by the Issuer and may be increased or exchanged by the Issuer at any time without the consent 
+of the Noteholders. Investors shall not have any rights or claims for the issue of individual Notes or 
+individual interest coupons. 
+1.4. 
+Collective security deposit bank: The Global Certificate is held in custody by the [***] ("[***]") as the 
+Global Certificate deposit bank for the duration of the term of the Notes until all liabilities of the Issuer 
+arising from the Notes have been fulfilled. The Noteholders are entitled to co-ownership interests in the 
+Global Certificate, which may be transferred in accordance with the provisions of [***] or the respective 
+provisions of the collective security bank (the "Clearing System") designated by the Issuer. 
+1.5. 
+International Securities Identification Number ("ISIN"): [***] 
+1.6. 
+"Noteholder" means any holder of a co-ownership interest in the Notes securitised in the Global 
+Certificate. 
+1.7. 
+"Note Terms" means the present Note Terms.
+
+--- Page 37 ---
+37 
+2. Status, Representations and Warranties 
+2.1. 
+Status: The Notes establish direct, unconditional, unsecured and unsubordinated obligations of the Issuer, 
+which rank equally with each other and with all other current or future unsecured and unsubordinated 
+liabilities of the Issuer, excepted thereof are liabilities, which are subject to priority under applicable 
+mandatory law. 
+2.2. Negative obligation: The Issuer undertakes during the term of the Notes, but not longer than until all 
+amounts of capital and interest for the Notes have been made completely available to the Clearing 
+System: 
+(a) 
+for other capital market liabilities, including guarantees or liabilities assumed, not to provide 
+collateral in respect of its current or future assets or income or to oblige third parties not to provide 
+collateral in respect of the assets of such third party to secure the capital market liabilities issued or 
+guaranteed by the Issuer or its subsidiaries without immediately giving the Noteholders, at the 
+expense of the Issuer, at the same time and with the same priority, such collateral or other collateral 
+recognised as equivalent collateral by an internationally recognised auditor independent of the 
+Issuer's existing auditor; 
+(b) 
+ensure, that its subsidiaries do not provide collateral for other capital market liabilities, including 
+guarantees or liabilities assumed for such liabilities, in respect of its current or future assets or 
+income or oblige third parties not to provide collateral for the assets of such third party to secure 
+the capital market liabilities issued or guaranteed by the Issuer or its subsidiaries, without 
+immediately providing the Noteholders, at the expense of the Issuer, at the same time and with the 
+same priority, with such securities or other securities that are recognised as equivalent securities by 
+an internationally recognised auditor independent of the existing auditor of the Issuer. 
+"Capital Market Debt" means for the purposes of this sec. 2., a present or future obligation to pay funds 
+(including obligations under guarantees or other liability arrangements) under securities, Notes or other 
+similar debt instruments, and promissory Notes, whether admitted to or included in a stock exchange, a 
+regulated market, a multilateral trading facility, excluding this Note. 
+"Subsidiary" for the purposes of these Note Terms means any corporation or partnership which is directly 
+or indirectly under the controlling influence of the Issuer or in which the Issuer directly or indirectly holds 
+more than 50 % of the capital or the voting shares. 
+"Collateral" for the purposes of this sec. 2. means mortgages, liens, rights of retention or other charges 
+and security interests in the current or future assets or income of the Issuer, its subsidiaries or third parties. 
+This does not include standardised collateral for existing and future securitisation programs (ABS 
+programs). 
+2.3. 
+Assurance: The Issuer undertakes, during the term of the Notes, but not longer than until all amounts of 
+principal and interest for the Notes have been fully made available to the Clearing System, to ensure that 
+all subsidiaries, if necessary and if they generate profits, distribute at least sufficient funds to the Issuer to 
+enable the Issuer to meet its obligations under sec. 4 (“Interest”) and to redeem the Notes under sec. 5 
+(“Redemption”) 
+ 
+3. Term 
+The term of the Notes begins on [***] 20[***] (including the day) and ends on the Final Maturity Date on [***] 
+20[***] (including the day). The term is thus [***] years. 
+ 
+4. Interest 
+4.1. 
+Interest rate and interest payment days: The Notes bear interest from [***] 20[***] (including the "Start 
+of Interest") until the Final Maturity Date of the Notes or until an early repayment occurs, whichever 
+occurs earlier, at an annual interest rate of [***] % of the Nominal Amount.  
+[The interest rate is calculated on the basis of the 3-month EURIBOR plus a risk premium in % of the 
+nominal value, rounded to the nearest 1/8%.
+
+--- Page 38 ---
+38 
+a) 
+If, and for as long as, for whatever reason the 3-month EURIBOR is no longer available or its 
+publication is discontinued, the Issuer shall use its reasonable endeavours to appoint and consult with an 
+independent adviser (the “Adviser”), who has to qualify as an Austrian certified auditor and be a member 
+in good standing of the Austrian chamber of tax advisers and auditors, as soon as reasonably practicable, 
+to determine an alternative rate, that in its economic nature and effect comes as close as reasonably possible 
+to the 3-month EURIBOR (the “Alternative Rate”). The Issuer shall then determine the respective 
+Alternative Rate on the basis of such consultation. 
+The Adviser shall act in good faith, in a commercially reasonable manner and in compliance with its 
+professional standards in consultation with the Issuer and (in the absence of bad faith, fraud or gross 
+negligence) shall have no liability whatsoever to the Issuer, the Paying Agent, the Noteholders or any other 
+for any determination made by it or for any advice given to the Issuer in connection with the determination 
+of the Alternative Rate.] 
+b) 
+The interest shall be determined on an [annual/semi-annual/quarterly basis] on [31 October of 
+each year/on 31 October and 30 April /on 31 October, 31 January, 30 April and 31 July of each year] (each 
+an Interest Determination Date). The relevant 3-month EURIBOR is in each case the 3-month EURIBOR 
+announced on the respective Interest Determination Date. For the period from the respective Issue Date 
+until the first Interest Determination Date, the applicable 3-month EURIBOR shall be the 3-month 
+EURIBOR valid on the Interest Determination Date immediately preceding the Issue Date. The applicable 
+interest rate shall be published by the Issuer on its website under the dedicated section “investor-relations” 
+https://www.pv-invest.com/de/investor-relations/ no later than on the respective Interest Determination 
+Date . For the period from the Issue Date to the first Interest Payment Date the total interest rate is […]. 
+Interest is payable annually in arrears on [***] of each year (one "Interest Payment Date" each). The first 
+Interest Payment shall be made on [***] 20[***].] 
+4.2. 
+Interest Period: "Interest Period" means the period from the Start of Interest (including the day) to the 
+first Interest Payment Date (excluding the day) and the period from each Interest Payment Date (including 
+the day) to the respective following Interest Payment Date (excluding the day). 
+4.3. 
+Accrued interest: If the Issuer does not repay the Notes at the Final Maturity Date, interest will not end on 
+the day preceding the maturity of the Notes, but only on the day preceding the actual repayment of the 
+Notes. 
+4.4. 
+Calculation of interest for parts of periods: If interest is calculated for a period of less than one year (the 
+"Interest Calculation Period"), the calculation is based on the current days in the Interest Calculation 
+Period divided by the number of current days in the Interest Period. The calculation basis is: actual/actual 
+(according to ICMA rules). 
+4.5. 
+Bank Working Day/TARGET2 Business Day: If a repayment date, Interest Payment Date or other payment 
+date arising in connection with the Notes does not fall on a Bank Working Day or on a TARGET2 Business 
+Day, Noteholders are not entitled to payment of principal and interest (unadjusted) until the following Bank 
+Working Day or on the following TARGET2 Business Day. The Noteholders are not entitled to claim 
+interest or any other compensation for such deferral of payment.  
+"Bank working day" is a day, on which credit institutions in Vienna and Frankfurt/Main are generally 
+open for public business.  
+"TARGET2 Business Day" means a day on which the Trans-European Automated Real-Time Gross 
+Settlement Transfer System (TARGET2) is operational. 
+ 
+5. Repayment 
+5.1. 
+Redemption on the Final Maturity Date: Unless the Notes have already been repaid or purchased and 
+cancelled in whole or in part in accordance with sec. 5.2., 5.3. or 8., they will be repaid on [***] 20[***] 
+at par value. With the exception of the provisions of sec. 5.2. and 5.3., the Issuer is not entitled to redeem 
+the Notes before the Final Maturity Date. 
+5.2. 
+Early repayment for tax reasons: If the Issuer is obliged to pay additional amounts (as defined in sec. 7.2.) 
+on the next Interest Payment Date as a result of a change or addition to the tax provisions in the Republic
+
+--- Page 39 ---
+39 
+of Austria or as a result of a change or addition to the application or official interpretation of these 
+provisions, and the Issuer cannot avoid this obligation by taking reasonable measures, the Issuer is entitled 
+to call the Notes in full, but not in part, prematurely and to repay them at their Nominal Amount plus any 
+interest accrued up to the date fixed for repayment. 
+However, such an early termination may not  
+(i) with effect earlier than ninety (90) days before the earliest possible date, on which the Issuer 
+would be obliged to pay such Additional Amounts if a payment on the Notes were then due, or  
+(ii) if the obligation to pay additional amounts or to withhold or deduct is no longer effective at the 
+time of termination. 
+The Issuer shall notify the Paying Agent of such an early redemption by registered letter with a notice 
+period of at least thirty (30) days. Such redemption will take effect at the time of its publication, provided 
+that it is announced to the Noteholders in accordance with sec. 12.. It is irrevocable, must specify the date 
+fixed for redemption and must contain a summary statement setting out the circumstances giving rise to 
+the redemption right of the Issuer. 
+5.3. 
+Early repayment for other reasons: From the completed third year of the term of the Notes, the Issuer has 
+the right to call the Notes in full, but not in part, prematurely without stating reasons, effective at the end 
+of each calendar quarter and to repay them at the amount of [***] % of their Nominal Amount plus interest 
+accrued up to the effective date. However, such an early termination may not take effect earlier than [***] 
+20[***]. 
+The Issuer shall notify the Paying Agent of such an early redemption by registered letter with a notice 
+period of at least thirty (30) days. Such redemption will take effect at the time of its publication, provided 
+that it is announced to the Noteholders in accordance with sec. 12.. It is irrevocable and must specify the 
+date fixed for repayment. 
+ 
+6. Paying Agent, Payments 
+6.1. 
+Paying agent: The Paying Agent for the Notes is [***]. 
+6.2. 
+Amendment of the appointment or dismissal: The Issuer reserves the right to change or terminate the 
+appointment of the Paying Agent at any time and to appoint another credit institution domiciled in Austria 
+or the European Union, that is licensed in accordance with the provisions of the Austrian Banking Act 
+(Bundesgesetz über das Bankwesen; Bankwesengesetz – “BWG”) or another member state of the European 
+Union and is subject to its provisions as Paying Agent. The Issuer will maintain a Paying Agent until the 
+Notes have been repaid in full. An amendment, removal, appointment or other bill of exchange shall only 
+become effective (except in the event of insolvency of the Paying Agent; in which such an amendment 
+becomes effective immediately) if the Noteholders have been informed of this in accordance with sec. 12. 
+of these Note Terms in advance and within a period of at least thirty (30) and not more than fourtyfive (45) 
+days. 
+6.3. 
+Issuer's Paying Agent: The Paying Agent acts exclusively as agent of the Issuer, has no legal relationship 
+with the Noteholders and assumes no obligations towards the Noteholders. No order or trust relationship 
+is established between it and the Noteholders and is therefore under no circumstances responsible to the 
+Noteholders. 
+6.4. 
+Settlement: Payments by the Issuer from capital and interest are carried out via the Paying Agent to the 
+Clearing System or credited to the order of the respective Noteholder. Payments from the Notes shall be 
+deemed timely, if they are credited to the account of the appointed Paying Agent no later than 10:00 a.m. 
+on the fifth banking day prior to their due date. The Issuer is released from its corresponding payment 
+obligation to the Noteholders upon payment to the Paying Agent. 
+6.5. 
+Crediting of interest and repayment payments: The interest and redemption payments are credited via the 
+respective custodian for the Noteholders. Subject to applicable tax, other statutory regulations and 
+provisions, payments regarding the Notes shall be made in Euro.
+
+--- Page 40 ---
+40 
+7. Taxes 
+7.1. 
+Additional Amounts: All payments regarding the Notes shall be made without withholding or deduction at 
+the source of any current or future taxes or other charges of any kind imposed or levied by or in the Republic 
+of Austria or for its account or by or for the account of a local authority or tax authority of or in the Republic 
+of Austria, unless such withholding or deduction is required by law. In this case, the Issuer will pay the 
+additional amounts (the "Additional Amounts") necessary for the net amounts received by the Noteholders 
+after such retention or deduction to equal the amounts that would have been received by the Noteholders 
+without such retention or deduction. It is expressly stated that the Austrian capital gains tax is not a tax 
+within the meaning of this provision for which additional amounts are payable by the Issuer. 
+7.2. 
+However, the obligation to pay Additional Amounts does not apply to such taxes and levies that: 
+(a) 
+other than by withholding or deduction at source on payments of principal and interest from the 
+Notes; or 
+(b) 
+are payable because the Noteholder  
+(i) has a tax-relevant connection with the Republic of Austria other than the mere fact, that he is 
+the owner of the Notes, or  
+(ii) receives a payment of capital or interest from the Notes from a coupon paying agent located in 
+the Republic of Austria (within the meaning of § 95 EStG, as amended or any corresponding 
+successor provision); or 
+(c) 
+retained or deducted by a Paying Agent where the payment could have been made by another Paying 
+Agent without the retention or deduction; or 
+(d) 
+after payment by the Issuer in connection with the transfer to the Noteholder; or 
+(e) 
+would not be payable if the Noteholder had properly claimed the relevant payment of principal or 
+interest within thirty (30) days of the respective maturity date; or 
+(f) 
+would be refundable under a Double Taxation Agreement or the tax laws of the Republic of Austria 
+or would be dischargeable at source under Community Law (EU); or 
+(g) 
+by reason of or as a result of  
+(i) an international treaty to which the Republic of Austria is a party to, or  
+(ii) imposed or levied upon a regulation or directive pursuant to or as a result of such an international 
+treaty; or 
+(h) 
+due to a change in law which becomes effective more than thirty (30) days after the due date of the 
+relevant payment or - if the payment is made later - after all amounts due have been duly made 
+available and a notice to that effect in accordance with sec. 12.; or 
+(i) 
+have been withheld or withdrawn by a Paying Agent pursuant to Directive 2003/48/EC, EU-QuStG, 
+BGBl I No. 33/2004 as amended or other laws, regulations or administrative provisions adopted to 
+implement Directive 2003/48/EC, or 
+(j) 
+would not be payable by a Noteholder, if he could have obtained tax exemption or a tax refund or 
+a tax credit. 
+ 
+8. Termination by the Noteholders 
+8.1. 
+Termination: The Noteholders have no ordinary right of termination. This does not affect the right of 
+extraordinary termination by the Noteholders for good cause, in particular, if the events described in 
+sec. 8.2. of the Note Terms occur. 
+8.2. 
+Extraordinary termination: Noteholders are entitled to terminate in full, but not in part, the Notes for good 
+cause and to demand their immediate repayment at par plus interest accrued up to the day of repayment. 
+Important reasons are, when:
+
+--- Page 41 ---
+41 
+(a) 
+the Issuer does not pay principal or interest within ten (10) calendar days after the respective 
+maturity date; or 
+(b) 
+the Issuer fails to properly meet any other material obligation under the Notes and the default 
+continues for more than ten (10) calendar days after the Issuer has received notice thereof from a 
+Noteholder; or 
+(c) 
+(i) a debt of the Issuer or a Material Group Company finally and conclusively determined by an 
+(arbitration) court or administrative authority or (ii) an amount exceeding EUR 5,000,000 (five 
+million Euros) (or the equivalent in another currency) expressly acknowledged by the Issuer is not 
+paid and this default continues for more than four (4) weeks; or 
+(d) 
+a security provided for a liability of the Issuer is realised by one of the contracting parties, thereby 
+substantially impairing the ability of the Issuer to service its obligations under the Notes; or 
+(e) 
+the Issuer or an important affiliate ceases to make payments or publicly announces its insolvency 
+or overindebtedness, or offers its creditors a general arrangement for the payment of its debts; or 
+(f) 
+a court has opened insolvency proceedings against the Issuer and such proceedings have not been 
+terminated or suspended within sixty (60) days or such insolvency proceedings are rejected for lack 
+of cost-covering assets, or if the Issuer makes or offers a general debt arrangement in favour of its 
+creditors; or 
+(g) 
+the Issuer or a Material Group Company  
+(i) 
+discontinues all or most of its business activities, or  
+(ii) sells or otherwise disposes of all or significant portions of its assets, or  
+(iii) enters into transactions with affiliated companies, that are not customary for third parties, and 
+the net assets, financial position and results of operations of the Issuer deteriorate significantly 
+as a result; or 
+(h) 
+the Issuer enters into liquidation, unless this occurs in connection with a merger or other form of 
+merger or restructuring and all obligations under these Notes are assumed by the other or new 
+company and the creditworthiness of this company is equal to or higher than that of the Issuer; or 
+(i) 
+a change of control (as defined below) occurs and this change of control significantly impairs the 
+ability of the Issuer to meet its obligations under the Notes. The Issuer will immediately announce 
+a change of control in accordance with sec. 12. titled “Termination” under this sec. 8.2. (i) is only 
+valid if the corresponding notice of termination under sec. 8.3 is given within thirty (30) calendar 
+days of the notice of a change of control; or 
+(j) 
+the Issuer breaches any of its obligations under sec. 2 of these Note Terms and the breach continues 
+for more than ten (10) calendar days after the Issuer has received notice of such breach from a 
+Noteholder. 
+A "Material Group Company" within the meaning of this sec. 8 is a Group Company (within the meaning 
+of § 15 AktG) of the Issuer whose turnover on the basis of the last published Audited Consolidated 
+Financial Statements of the Issuer exceeds 20 % of the consolidated Group turnover of the Issuer. 
+The right of termination shall lapse, if the reason for termination has been cured before effective exercise 
+of the right of termination under this paragraph. In the cases referred to in paragraphs (a), (b), (c), (e), (f) 
+or (j), a redemption will only take effect, if the Issuer has received redemption notices from Noteholders 
+with a Nominal Amount of at least 10 % of the then outstanding Notes. In all other cases, the notice of 
+termination shall take effect upon receipt of the notice of termination pursuant to sec. 8.3. of this 
+Prospectus. 
+8.3. 
+Messages: All notifications of the Noteholders to the Issuer, in particular a redemption of the Notes 
+pursuant to sec. 8.2. must be submitted to the Issuer in writing and in German language. Notices become 
+effective (subject to sec. 8.2.) upon reception by the Issuer. The notification shall be accompanied by proof, 
+that the Noteholder in question is the Noteholders in question at the time of notification. Such proof may 
+be provided by a certificate from the custodian bank or by other suitable means.
+
+--- Page 42 ---
+42 
+9. Statute of limitations 
+Claims for the payment of interest become time-barred after three years from their due date, claims for the 
+payment of capital become time-barred after thirty years from their due date. 
+ 
+10. Trading 
+[The Company intends to apply for the Notes to be included in the trade on the Vienna MTF operated by 
+Vienna Stock Exchange/ The Company does not intend to include the Notes in the trade on a regulated 
+market or comparable trading facility.] 
+ 
+11. Issue of further Notes, purchase, cancellation 
+11.1. Issue of further Notes: In addition to issuing further Notes, which do not form a uniform Series with these 
+Notes, the Issuer is entitled - without the consent of the Noteholders - to issue further Notes with the same 
+features (with the possible exception of the Date of Issue, the start of interest and/or the Issue price) at any 
+time in such a way that they form a uniform Series with these Notes. 
+11.2. Purchase: The Issuer is entitled to buy Notes on the market or otherwise at any price at any time. The Notes 
+acquired by the Issuer may, at the option of the Issuer, be held by the Issuer, resold or submitted to the 
+Paying Agent for devaluation. 
+11.3. Cancellation: All fully repaid Notes must be cancelled immediately and cannot be reissued or resold. 
+ 
+12. Notices 
+12.1. Communications in electronic form: In the event, that the Notes are included in the trade on a trading 
+facility, all notifications to the Noteholders shall be deemed to have been duly disclosed, if they are made 
+by electronic means with distribution within the European Union and the country of the respective trading 
+facility on which the Notes are listed, as long as this listing continues and as required by the rules of the 
+respective trading facility. Any such communication shall be deemed to have been made public from the 
+date of the first publication; if publication in more than one electronic form of communication is required, 
+the date on which the announcement was made for the first time in all necessary electronic forms of 
+communication; or 
+12.2. Other communications: In all other cases, all notifications concerning the Notes will be made to the 
+Noteholders on the Company's website at http://www.pv-invest.com, unless any other form of mandatory 
+publication is prescribed. Any such notification shall be deemed effective on the banking business day 
+following the date of publication. 
+12.3. Publication on the Company's website: All notifications pursuant to sec. 12.1. will also be published on the 
+Company's website at www.pv-invest.com at the same time as they are published. 
+ 
+13. Applicable law, place of performance, place of jurisdiction, partial invalidity 
+13.1. Applicable law: The form and content of the Notes and all rights and obligations of the Noteholders and 
+Issuer arising from these Note Terms are subject to Austrian law, with the exclusion of the conflict of laws 
+provisions of the international private law and the UN Sales Convention. 
+13.2. Place of performance: Place of performance is Klagenfurt, Austria. 
+13.3. Jurisdiction: All disputes arising out of or in connection with these Notes (including any disputes in 
+connection with non-contractual obligations arising out of or in connection with the Notes) shall be 
+submitted exclusively to the court having jurisdiction in commercial matters at the registered office of the 
+Issuer. 
+13.4. Place of jurisdiction: For all legal disputes of a consumer arising from or in connection with the Notes 
+(including any disputes in connection with non-contractual obligations arising from or in connection with
+
+--- Page 43 ---
+43 
+the Notes) against the Issuer, the competent court at the domicile of the consumer or at the registered office 
+of the Issuer or any other court having jurisdiction under the statutory provisions shall have jurisdiction, at 
+the consumer's discretion. 
+The general place of jurisdiction in Austria given for legal disputes of a consumer upon conclusion of a 
+contract with a credit institution shall remain in force even if the consumer moves his place of residence 
+abroad after conclusion of the contract and Austrian court decisions in this country are enforceable. 
+13.5. Severability Clause: Should provisions of these Note Terms be or become invalid in whole or in part, the 
+remaining provisions of these Note Terms shall remain in force. Ineffective provisions are to be replaced 
+by effective provisions in accordance with the meaning and purpose of these conditions, the economic 
+effects of which come as close as legally possible to those of the ineffective provisions. This applies mutatis 
+mutandis to any gaps in these Note Terms.
+
+--- Page 44 ---
+44 
+ANNEX B 
+FORM OF THE FINAL TERMS 
+ 
+PV-Invest GmbH  
+Final Terms of the [***] 20[***] 
+for the up to nominal EUR [***] [***] % [Note] 20[***] to 20[***] 
+on the basis of the Base Prospectus for the Offer of PV-Invest GmbH for the Issue of Notes  
+* * * * * * * * * * *  
+The present Final Terms have been prepared for the purposes of Article 8 of Regulation (EU) 
+2017/1129. The Final Terms must be read in conjunction with the Base Prospectus of the Offer 
+Programme of PV-Invest GmbH of 14 November 2022 and any supplement thereto in order to obtain 
+all the relevant information. 
+The Base Prospectus and its supplement/s are published on the website of the Issuer under the 
+dedicated section “investor-relations” https://www.pv-invest.com/de/investor-relations/ and on the 
+website of the Luxembourg Stock Exchange (www.bourse.lu). 
+A summary for each Issue is annexed to the Final Terms. 
+The last day of validity of the Base Prospectus is 14 November 2023. A succeeding base prospectus 
+within the meaning of Art. 8 para. 11 of Regulation (EU) 2017/1129 will be published on the website 
+of the Issuer under under the dedicated section “investor-relations” https://www.pv-
+invest.com/de/investor-relations/. 
+* * * * * * * * * * *  
+ 
+FINAL TERMS 
+Offer 
+Offer Period 
+From [***] (including the day) to [***] (including the 
+day).  
+Expected Issue Date/Issue Date 
+[***] 
+Value Date 
+[***] 
+Closing date 
+The Notes are issued on the basis of a resolution of the 
+management of the Company of [***] with the 
+consent of the shareholders of [***]. 
+Series and Tranche 
+[***] 
+ISIN 
+[***]
+
+--- Page 45 ---
+45 
+Interests of natural and legal persons involved in the 
+Issue/Offer 
+[***] 
+Reasons for the Offer use of proceeds and expenses of 
+the issue/offer and disclosure of the use of proceeds 
+[***] 
+General description of the green projects for which 
+the net proceeds of the offer to the public of green 
+bonds will be used 
+[***] 
+Estimated total expenses of the Issue/Offer 
+[***] 
+Estimated net amount of proceeds 
+[***] 
+ 
+Total Nominal Amount and denomination  
+Total Nominal Amount/Offer volume 
+EUR [***],- 
+Nominal Amount/denomination 
+EUR [***],- per Note 
+Minimum purchase amount 
+EUR [***],- 
+Issue Premium 
+[***] % 
+Total Issue Price per Note 
+EUR [***] or [***] % of Nominal Amount 
+ 
+Term  
+Start of term 
+[***] 20[***] (including the day) 
+Maturity Date 
+[***] 20[***] (including the day) 
+Term 
+[***] years 
+ 
+Interest rate and interest payment days, yield 
+Rate 
+[EURIBOR plus] [***] % Percentage of Nominal 
+Amount per annum 
+[The interest rate is calculated on the basis of the 3-
+month EURIBOR plus a risk premium of […]% of the 
+nominal value, rounded to the nearest 1/8%. 
+The interest is determined on an [annual/semi-annual 
+/quarterly basis] by the Issuer. Interest shall be 
+determined on [31 October of each year / on 31 
+October and 30 April of each year / on 31 October, 31 
+January, 30 April and 31 July of each year (each an 
+Interest Determination Date). The relevant 3-month 
+EURIBOR is the 3-month EURIBOR announced on 
+the respective Interest Determination Date. For the
+
+--- Page 46 ---
+46 
+period from the Issue Date until the first Interest 
+Determination 
+Date, 
+the 
+applicable 
+3-month 
+EURIBOR shall be the 3-month EURIBOR valid on 
+the 
+Interest 
+Determination 
+Date 
+immediately 
+preceding the Issue Date. The applicable interest rate 
+shall be published by the Issuer on its website under 
+the 
+dedicated 
+section 
+“investor-relations” 
+https://www.pv-invest.com/de/investor-relations/ no 
+later than on the respective Interest Determination 
+Date. For the period from the Issue Date to the first 
+Interest Payment Date the total interest rate is [***]. 
+If, and for as long as, for whatever reason the 3-month 
+EURIBOR is no longer available or its publication is 
+discontinued, the Issuer shall use its reasonable 
+endeavours to appoint and consult with an 
+independent adviser (the “Adviser”), who has to 
+qualify as an Austrian and be a member in good 
+standing of the Austrian chamber of tax advisers and 
+auditors, as soon as reasonably practicable, to 
+determine an alternative rate, that in its economic 
+nature and effect comes as close as reasonably 
+possible to the 3-month EURIBOR (the “Alternative 
+Rate”).] 
+Start of Interest  
+[***] 20[***] 
+End of interest 
+[***] 20[***] 
+Interest Payment Date 
+[***] 
+First Interest Payment Date 
+[***] 20[***] 
+Yield 
+[Taking into account the issue premium of [***] %], 
+the annual yield is [***] %  
+ 
+Repayment 
+Repayment at Final Maturity Date (sec. 5.1.) 
+To the extent, that the Notes have not already been 
+redeemed or purchased and cancelled in whole or in 
+part pursuant to sec. 5.2., 5.3. or 8. of this Prospectus, 
+they will be redeemed at par on [***] 20[***]. 
+Early repayment for other reasons (sec. 5.3.) 
+From the completed third year of the term of the 
+Notes, the Issuer has the right to call the Notes in full, 
+but not in part, prematurely without stating reasons 
+effective at the end of each calendar quarter and to 
+repay them at the amount of [***] % of their Nominal 
+Amount plus interest accrued up to the effective date. 
+However, such an early termination may not take 
+effect earlier than [***] 20[***].
+
+--- Page 47 ---
+47 
+Paying Agent (sec. 6.1. Note Terms) and Clearing System 
+The Paying Agent for the Notes is [***], [***address***]. 
+The Clearing System for the Notes is [***], [***address***]. 
+ 
+Inclusion in trade (sec. 10. Note Terms) 
+[The Company intends to apply for the Notes to be included in the trade on the Vienna MTF operated by the 
+Vienna Stock Exchange/The Company does not plan with the Notes to be included in the trade on a regulated 
+market or comparable trading facility.] 
+ 
+Financial intermediaries 
+[Subject to the following paragraphs, the Issuer consents to the use of the Base Prospectus during the period of 
+its validity for subsequent resale or final placement of the Notes by financial intermediaries.] 
+[The Issuer does not consent to the use of the Base Prospectus for subsequent resale or final placement of the 
+Notes by financial intermediaries.] 
+[A resale or final placement of the Notes by financial intermediaries may take place and consent to the use of 
+the Base Prospectus is granted for the following Offer Period of the Notes: [Insert deadline for submission of 
+tenders, for which consent is granted] [the period of validity of the Base Prospectus].] 
+[Consent to the use of the Base Prospectus is granted to the following financial intermediaries:] 
+[The list and identity (name and address) of the financial intermediary(s) authorised to use the prospectus] 
+[Name and address of the coordinator(s) of the global offer and of single parts of the offer and, to the extent 
+known to the issuer or to the offeror, of the placers in the various countries where the offer takes place.] 
+[Name and address of the entities agreeing to underwrite the issue on a firm commitment basis, and name and 
+address of the entities agreeing to place the issue without a firm commitment or under ‘best efforts’ 
+arrangements. Indication of the material features of the agreements, including the quotas. Where not all of the 
+issue is underwritten, a statement of the portion not covered. Indication of the overall amount of the 
+underwriting commission and of the placing commission.] 
+[When the underwriting agreement has been or will be reached.] 
+ 
+Designated Sponsor 
+[In case a Designated Sponsor is appointed: The Company has appointed [***] as Designated Sponsor to 
+provide liquidity for the Notes through bid and ask prices.] 
+[In case no Designated Sponsor is appointed: not applicable] 
+ 
+OFFER SPECIFIC SUMMARY 
+[a summary pursuant to Annex 23 of Commission Delegated Regulation (EU) 2019/980 and Annex II of 
+Commission Delegated Regulation 2019/979 will be included in the Final Terms of each Offer]
+
+--- Page 48 ---
+48 
+PV-Invest GmbH 
+as Issuer 
+Klagenfurt, on [***] 20[***] 
+Mag. Günter Grabner 
+ 
+Mag. Gerhard Rabensteiner
+
+--- Page 49 ---
+49 
+ANNEX C 
+DEFINITIONS AND ABBREVIATIONS 
+For ease of reading, the abbreviations and definitions used in this Prospectus are stated below in 
+alphabetical order. Readers of this Prospectus should be of the full and accurate meaning of the 
+definitions and abbreviations contained in this Prospectus.  
+Definitions and abbreviations used in this Prospectus are as follows:  
+actual / actual (act/act) 
+means that when interest amounts are calculated, the actual 
+number of days in an interest period is divided by 365. If part 
+of an interest period falls into a leap year, (i) the actual number 
+of days falling into a leap year is divided by 366 and (ii) the 
+actual number of days falling into a non-leap year is divided 
+by 365; 
+Adviser 
+the adviser appointed by the Issuer in accordance with section 
+4.1. a) of the Note Terms to advise the Issuer on the 
+determination of an Alternative Rate; 
+Alternative Rate 
+the alternative rate replacing the 3-month EURIBOR if such is 
+no longer available or published, as determined in accordance 
+with section 4.1. a) of the Note Terms; 
+Audited Consolidated Financial Statements 
+the audited consolidated financial statements of the Company 
+according to UGB accounting regulations for the financial 
+year ending December 31st, 2021 (including Notes and 
+management report) incorporated in this Prospectus by 
+reference; 
+Bank Business Day 
+a day on which credit institutions in Vienna are generally open 
+for public business; 
+Bloomberg 
+Bloomberg LP, 50 Finsbury Square, GB-London EC2A 1HD; 
+BörseG 
+the 
+Austrian 
+Stock 
+Exchange 
+Act 
+2018, 
+BGBl. I No. 107/2017, in the currently applicable version 
+(Börsegesetz 2018); 
+Company 
+PV-Invest 
+GmbH, 
+FN 331809f, 
+Lakeside B07, 
+A-9020 Klagenfurt; 
+CSSF 
+CSSF (Commission de Surveillance du Secteur Financier), 
+283 Route d'Arlon, LU-1150 Luxembourg (head office); 
+LU-2991 Luxembourg (P&T) 
+Date of Issue 
+the day on which the Notes of the respective Series are issued; 
+DepotG 
+Federal Act of October 22nd, 1969 on the Custody and 
+Acquisition of Securities, BGBI 1969/424, in the currently 
+applicable version (Bundesgesetz vom 22. Oktober 1969 über 
+die Verwahrung und Anschaffung von Wertpapieren 
+(Depotgesetz)); 
+dpa-AFX 
+dpa-AFX Wirtschaftsnachrichten GmbH, Gutleutstraße 110, 
+D-60327 Frankfurt; 
+DTA 
+Double Taxation Agreements; 
+EU 
+the European Union; 
+EURIBOR 
+the euro interbank offered rate administered by the Banking 
+Federation of the European Union (or any other person which 
+takes over the administration of that rate) for the relevant 
+period displayed on https://www.euribor-rates.eu/en/current-
+
+--- Page 50 ---
+50 
+euribor-rates (or any replacement page which displays that 
+rate); 
+Euro/EUR/€ 
+the Euro; the single currency of the member states of the 
+European Union participating in European Monetary Union; 
+Federal Financial Supervisory Authority 
+the German Federal Financial Supervisory Authority, Marie-
+Curie-Str. 24-28, D-60439 Frankfurt, Federal Republic of 
+Germany, or P.O. Box 50 01 54, D-60391 Frankfurt, Federal 
+Republic of Germany; 
+Final Terms  
+the Final Terms applicable to each Series of Notes in 
+accordance with the Final Terms are set out in Appendix B to 
+this Prospectus; 
+Financial Information 
+(i) the Audited Consolidated Financial Statements of the 
+Company contained in this Prospectus and (ii) the unaudited 
+Interim Financial Statements of the Company incorporated in 
+this Prospectus by reference; 
+FMA 
+the 
+Austrian 
+Financial 
+Market 
+Authority, 
+Otto-Wagner-Platz 5, A-1090 Vienna; 
+Grant Thornton 
+The auditors oft he Company, Grant Thornton ALPEN-
+ADRIA Wirtschaftsprüfung GmbH, August-Jaksch-Straße 2, 
+A-9020 Klagenfurt am Wörthersee. 
+ICMA 
+the 
+International 
+Capital 
+Market 
+Association, 
+www.icmagroup.org; 
+Interest Accrued 
+are partial interest amounts calculated for the period from the 
+value date to the calendar day (including the day) preceding 
+the second banking day on which the investor instructs his 
+account-keeping credit institution to transfer the Issue amount 
+multiplied by the number of Notes subscribed by the 
+respective investor to the Issuer's account at the paying agent 
+without deduction. The purchaser of the Notes must pay the 
+accrued interest as compensation for the fact, that the interest 
+for the full interest run is credited to him on the next interest 
+payment date, although he is only entitled to pro rata interest 
+from the purchase date to the next interest payment date, i.e. 
+for the actual holding period in the first year. The accrued 
+interest to be paid does therefore not contain any costs for the 
+purchaser of the Notes, but merely an advance offsetting of the 
+pro rata interest. 
+Interest Determination Date 
+means the dates on which, in case of variable interest, the 
+Issuer determines the applicable interest rate on the basis of 
+the 3-month EURIBOR.  
+Interim Financial Statements 
+the unaudited interim financial statements of the Company as 
+of June 30th, 2022, which were prepared in accordance with 
+UGB accounting regulations and are incorporated in this 
+Prospectus by reference; 
+Issue Price 
+the price set out in the respective Final Terms at which the 
+Notes will be offered for sale to interested investors; 
+Issuer 
+the Company; 
+Issue Premium 
+means the premium over the Nominal Amount, if any, for 
+which the Notes are issued, as set out in the respective Final 
+Terms; 
+KMG 
+the Austrian Capital Market Act, BGBl 1991/625, in the 
+currently applicable version (Bundesgesetz über das 
+öffentliche Anbieten von Wertpapieren und anderen
+
+--- Page 51 ---
+51 
+Kapitalveranlagungen 
+und 
+über 
+die 
+Aufhebung 
+des 
+Wertpapier-Emissionsgesetzes (Kapitalmarktgesetz)); 
+KPV 
+KPV 
+Solar 
+GmbH, 
+FN 344176t, 
+Lakeside B07, 
+A-9020 Klagenfurt; 
+m/mn. 
+Million/s; 
+Model Note Terms 
+the Model Note Terms set out in Annex A to this Prospectus; 
+Note Terms 
+the terms and conditions of the Notes as set out in Annex A to 
+this Prospectus as Model Note Terms, as completed by the 
+Final Terms from time to time; 
+Note(s) 
+the Notes issued by the Company under this Prospectus 
+together with any supplements in accordance with the 
+applicable Final Terms within the framework of the individual 
+Offers; 
+Offer 
+any future public offering of the Company's Notes on the basis 
+of this Prospectus, together with any supplements thereto and 
+the applicable Final Terms; 
+Offer Programme 
+means the programme, within the scope of which the Issuer 
+will in the future issue and publicly offer Notes of the Issuer 
+on the basis and during the validity of this Base Prospectus 
+including any supplements thereto up to a maximum amount 
+of EUR 40,000,000.-; 
+Paying Agent 
+the paying office specified by the Issuer in the Final Terms for 
+each Series of Notes; 
+Prospectus Regulation 
+Regulation (EC) No. 2017/1129 as amended; 
+Prospectus/Base Prospectus 
+this Prospectus including any supplements; 
+PV-Invest 
+the Company; 
+PV-Invest Group 
+the Company including its subsidiaries; 
+Regulated Market 
+A market within the meaning of Art. 4 para. 1 no. 14 of 
+Directive 2004/39/EC of April 21st, 2004 on markets in 
+financial instruments (MiFID); 
+RGA 
+RGA 
+Beteiligungs 
+GmbH, 
+FN 365147g, 
+Krottendorferstrasse 24, A-9073 Klagenfurt-Viktring; 
+RGBI 
+Reichsgesetzblatt; 
+Securities Act 
+the US Securities Act of 1933, as amended; 
+Series 
+one Series into each of which Notes offered in the context of 
+an Offer under this Base Prospectus are divided; 
+TARGET2 Business day 
+a day on which the Trans-European Automated Real-Time 
+Gross Settlement Express Transfer System (TARG ET2) is 
+operational; 
+Thomson Reuters 
+Thomson Reuters (Markets) Deutschland GmbH, Friedrich-
+Ebert-Anlage 49, DE-60327 Frankfurt am Main; 
+UGB 
+the Austrian Commercial Code, DRGBl 1897 S 219, in the 
+currently applicable version (Unternehmensgesetzbuch); 
+UGB Financial Reporting Standards 
+the accounting regulations applicable in the Republic of 
+Austria in accordance with the Third Book of the UGB;
+
+--- Page 52 ---
+52 
+Unser Kraftwerk 
+means Unser Kraftwerk UK-Naturstrom GmbH, with its 
+registered seat in A-9020 Klagenfurt am Wörthersee and its 
+business address at Lakeside B07, 9020 Klagenfurt am 
+Wörthersee, registered with the commercial register under FN 
+380770g; 
+USA 
+the United States of America; 
+Vienna MTF 
+Vienna MTF is a multilateral trading facility (MTF) operated 
+by the Wiener Börse AG, Wallnerstrasse 8, A-1014 Vienna, 
+in accordance with the provisions of the Austrian Securities 
+Supervision Act 2018 (Wertpapieraufsichtsgesetz 2018 – 
+“WAG”). The Third Market is therefore not a regulated market 
+within the meaning of § 1 para. 2 Austrian Stock Exchange 
+Act 2018 (Börsegesetz 2018).

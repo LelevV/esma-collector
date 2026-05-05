@@ -1,0 +1,2904 @@
+--- Page 1 ---
+Base Prospectus dated 10 October 2023 
+This document constitutes the base prospectus for the purposes of Article 8 (1) of Regulation (EU) No 2017/1129 of 
+the European Parliament and the Council of 14 June 2017, as amended (the "Prospectus Regulation") in connection 
+with Annexes 17, 23, 25, 27 and 28 of the Commission Delegated Regulation (EU) 2019/980 of 14 March 2019, as 
+amended ("Delegated Regulation") of Mimo Capital AG in respect of non-equity securities within the meaning of 
+Article 2 (c) of the Prospectus Regulation (the "Prospectus"). 
+ 
+ 
+ 
+ 
+ 
+ 
+Mimo Capital AG 
+(Vaduz, Principality of Liechtenstein) 
+(the "Issuer") 
+Token Issuance Programme 
+(the "Programme") 
+This Prospectus has been prepared for the offering of tokenized securities ("Tokens") drawn up as part of an EU Growth 
+prospectus in accordance with Article 15 of Regulation (EU) 2017/1129 by the Issuer which are deemed securities 
+under the Prospectus Regulation. This Prospectus has been approved by the Financial Market Authority Liechtenstein 
+("FMA"), as competent authority in the Principality of Liechtenstein (“Liechtenstein”) under the Prospectus 
+Regulation. The FMA only approves this Prospectus as meeting the standards of completeness, comprehensibility and 
+consistency imposed by the Prospectus Regulation. By approving this Prospectus, the FMA does not give any 
+endorsement of the quality of the securities that are subject of the Prospectus and endorsement of the issuer that is the 
+subject of this Prospectus. 
+This Prospectus should be read and construed with any supplement pursuant to Art. 23 of the Prospectus Regulation (a 
+"Supplement") hereto and with any other documents incorporated by reference herein. Full information on the Issuer 
+and any series of Tokens issued under this Programme (each, a "Series of Tokens") is only available on the basis of 
+the combination of the Prospectus and the final terms (the "Final Terms") relating to such Series of Tokens. 
+The Issuer has requested FMA to notify the competent authority in Austria, Belgium, Republic of Cyprus, Czech 
+Republic, Denmark, Estonia, Finland, France, Germany, Iceland, Ireland, Luxembourg, Malta, The Netherlands, 
+Norway, Portugal, Slovak Republic, Spain and Sweden in relation to this Prospectus with a certificate of approval 
+("Notification") attesting that this Prospectus has been drawn up in accordance with the Prospectus Regulation and 
+providing it with an electronic copy of this Prospectus. Further, the Issuer may request FMA to provide a Notification 
+to competent authorities in additional member states within the European Economic Area. 
+This Prospectus will be published in electronic form on the website of the Issuer (https://mcag.mimo.capital). It is valid 
+for a period of twelve months from the date of its approval.
+
+--- Page 2 ---
+- ii - 
+ 
+RESPONSIBILITY STATEMENT 
+Mimo Capital AG as Issuer (also referred to as the "Company") with its registered office in Alvierweg 17, 
+9490 Vaduz, Liechtenstein, trade register number FL-0002.584.786-1 and operated under Liechtenstein 
+law is solely responsible for the information given in this Prospectus. 
+The Issuer hereby declares that, having taken all reasonable care to ensure that such is the case, the 
+information contained in this Prospectus is, to the best of its knowledge, in accordance with the facts and 
+contains no omission likely to affect its import. 
+If any claims are asserted before a court of law based on the information contained in this Prospectus, the 
+investor appearing as plaintiff may have to bear the costs of translating this Prospectus prior to the 
+commencement of the court proceedings pursuant to the national legislation of the member states of the 
+European Economic Area ("EEA"). 
+In case of any significant new event or significant error or inaccuracy relating to the information contained 
+in this Prospectus that may affect an assessment of the Tokens and occurs or comes to light following the 
+approval of this Prospectus, these updates must be disclosed in a prospectus supplement without undue 
+delay. When the Prospectus has become invalid, the obligation to prepare a Supplement in the event of 
+significant new factors, material mistakes or material inaccuracies does not apply.
+
+--- Page 3 ---
+- iii - 
+ 
+NOTICE 
+This Prospectus contains all information with regard to the Issuer and the Tokens which is material in the 
+context of the Programme and the issue and offering of Tokens thereunder, and the information contained 
+herein with respect to the Issuer and the Tokens is accurate and complete in all material respects and is not 
+misleading, and the opinions and intentions expressed herein are honestly held and based on reasonable 
+assumptions, and there are no other facts in respect of the Issuer or the Tokens, the omission of which would 
+make this Prospectus as a whole or any of such information or the expression of any such opinions or 
+intentions misleading, and the Issuer has made all reasonable enquiries to ascertain all facts material for the 
+purposes aforesaid. 
+This Prospectus is valid for 12 months from the date of its approval and it and any Supplement as well as 
+any Final Terms reflect the status as of their respective dates of issue. Neither the delivery of this Prospectus 
+nor any Final Terms nor the offering, sale or delivery of any Tokens shall, in any circumstances, create any 
+implication that the information contained in this Prospectus is accurate and complete subsequent to their 
+respective dates of issue or that there has been no adverse change in the financial situation of the Issuer 
+since such date or that any other information supplied in connection with the Programme is accurate at any 
+time subsequent to the date on which it is supplied or, if different, the date indicated in the document 
+containing the same. 
+No person has been authorized by the Issuer to give any information or to make any representation not 
+contained in or not consistent with this Prospectus or any other document entered into in relation to the 
+Programme or any information supplied by the Issuer or such other information as in the public domain 
+and, if given or made, such information or representation should not be relied upon as having been 
+authorized by the Issuer. 
+No person mentioned in this Prospectus other than the Issuer, is responsible for the information contained 
+in this Prospectus or any supplement hereto, or any Final Terms or any document incorporated herein by 
+reference, and accordingly, and to the extent permitted by the laws of any relevant jurisdiction, none of 
+these persons accepts any responsibility for the accuracy and completeness of the information contained in 
+any of these documents. 
+The distribution of this Prospectus and any Final Terms and the offering, sale and delivery of the Tokens 
+in certain jurisdictions may be restricted by law. Persons into whose possession the Prospectus or any Final 
+Terms comes are required by the Issuer to inform themselves about and to observe any such restrictions. 
+For a description of the restrictions applicable in particular in the United States of America, the European 
+Economic Area in general, the United Kingdom, Northern Ireland and Japan, see "Selling Restrictions". 
+NEITHER THE PROSPECTUS NOR ANY FINAL TERMS MAY BE USED FOR THE PURPOSE 
+OF AN OFFER OR SOLICITATION BY ANYONE IN ANY JURISDICTION IN WHICH SUCH 
+OFFER OR SOLICITATION IS NOT AUTHORIZED OR TO ANY PERSON TO WHOM IT IS 
+UNLAWFUL TO MAKE SUCH AN OFFER OR SOLICITATION. NEITHER THIS PROSPECTUS 
+NOR ANY FINAL TERMS CONSTITUTE AN OFFER OR AN INVITATION TO SUBSCRIBE 
+FOR OR TO PURCHASE ANY TOKENS AND SHOULD NOT BE CONSIDERED AS A 
+RECOMMENDATION BY THE ISSUER THAT ANY RECIPIENT OF THIS PROSPECTUS OR 
+ANY FINAL TERMS SHOULD SUBSCRIBE FOR OR PURCHASE ANY TOKENS. 
+In particular, the Tokens have not been and will not be registered under the United States Securities Act of 
+1933, as amended (the "Securities Act") or with any securities regulatory authority of any state or other 
+jurisdiction of the United States and are being sold pursuant to an exemption from the registration 
+requirements of the Securities Act. The Tokens are subject to tax law requirements of the United States of 
+America. Subject to certain exceptions, the Tokens may not be offered, sold or delivered within the United 
+States of America or to, or for the account or benefit of, US persons (as defined in Regulation S under the 
+Securities Act ("Regulation S")). For further information, see "Selling Restrictions – United States of 
+America".  
+THE TOKENS OFFERED UNDER THIS PROSPECTUS ON PRIMARY MARKETS, 
+SECONDARY MARKETS AND ANY OTHER PLATFORM ARE NOT FOR DISTRIBUTION TO 
+ANY U.S. PERSON OR TO ANY PERSON IN THE U.S. OR IN ANY OTHER JURISDICTION OR 
+TO ANY OTHER PERSON TO WHICH A DISTRIBUTION WOULD BE UNLAWFUL.
+
+--- Page 4 ---
+- iv - 
+ 
+The language of this Prospectus is English. Any part of this Prospectus in another language constitutes a 
+translation only. 
+In connection with the issue of any Series of Tokens, the entity named as the stabilizing manager in the 
+applicable Final Terms, if any (or the persons acting on behalf of any stabilizing manager, if any) (the 
+"Stabilizing Managers") may over-allot Tokens or effect transactions with a view to supporting the market 
+price of the Tokens at a level higher than that which might otherwise prevail. However, stabilization may 
+not necessarily occur. Any stabilization action may begin on or after the date on which adequate public 
+disclosure of the terms of the offer of the relevant Series of Tokens is made and, if begun, may cease at any 
+time, but it must end no later than the earlier of 30 days after the issue date of the relevant Tranche of 
+Tokens and 60 days after the date of the allotment of the relevant Series of Tokens. Any stabilization or 
+over-allotment must be conducted by the relevant Stabilizing Manager(s) (or persons acting on behalf of 
+any Stabilizing Manager(s)) in accordance with all applicable laws and rules. 
+Any websites referred to in the Prospectus are referred to for information purposes only and do not form 
+part of the Prospectus. 
+The Final Terms in respect of any Tokens may include a legend entitled "MiFID II Product Governance" 
+which will outline the target market assessment in respect of the Tokens and which channels for distribution 
+of the Tokens are appropriate. Any person subsequently offering, selling or recommending the Tokens (a 
+"distributor") should take into consideration the target market assessment; however, a distributor subject 
+to MiFID II is responsible for undertaking its own target market assessment in respect of the Tokens (by 
+either adopting or refining the target market assessment) and determining appropriate distribution channels. 
+A determination will be made in relation to each issue about whether, for the purpose of the MiFID Product 
+Governance rules under EU Delegated Directive 2017/593 (the "MiFID Product Governance Rules"), 
+any Dealer subscribing for any Tokens is a manufacturer in respect of such Tokens, but otherwise neither 
+the Arranger nor the Dealers nor any of their respective affiliates will be a manufacturer for the purpose of 
+the MiFID Product Governance Rules. Furthermore, the Issuer is not a manufacturer of distributor for the 
+purposes of MiFID II. 
+If the Final Terms in respect of any Tokens include a legend entitled "Prohibition of Sales to Retail Investors 
+in the European Economic Area", the Tokens are not intended to be offered, sold or otherwise made 
+available to and should not be offered, sold or otherwise made available to any retail investor in the 
+European Economic Area ("EEA"). For these purposes, a retail investor means a person who is one (or 
+more) of: (i) a retail client as defined in point (11) of Article 4(1) of MiFID II; (ii) a customer within the 
+meaning of Directive 2002/92/EC (as amended, the "Insurance Mediation Directive"), where that 
+customer would not qualify as a professional client as defined in point (10) of Article 4(1) of MiFID II; or 
+(iii) not a qualified investor as defined in the Prospectus Directive. Consequently, if the Final Terms in 
+respect of any Tokens include the abovementioned legend, no key information document required by 
+Regulation (EU) No. 1286/2014 (the "PRIIPs Regulation") for offering or selling the Tokens or otherwise 
+making them available to retail investors in the EEA has been prepared and therefore offering or selling the 
+Tokens or otherwise making them available to any retail investor in the EEA may be unlawful under the 
+PRIIPs Regulation. 
+This Prospectus has been prepared on the basis that any offer of Tokens in the United Kingdom will be 
+made pursuant to an exemption under Regulation (EU) 2017/1129 as it forms part of UK domestic law by 
+virtue of the UK Prospectus Regulation from the requirement to publish a prospectus for offers of Tokens, 
+where "UK Prospectus Regulation" means Regulation (EU) 2017/1129 as it forms part of UK domestic law 
+by virtue of the European Union (Withdrawal) Act 2018 (as amended, the "EUWA") and regulations made 
+thereunder. Accordingly, any person making or intending to make an offer in the United Kingdom of 
+Tokens which are the subject of an offering contemplated in this Prospectus as completed by the Final 
+Terms in relation to the offer of those Tokens may only do so in circumstances in which no obligation arises 
+for the Issuer or the Dealers to publish a prospectus pursuant to section 85 of the Financial Services and 
+Markets Act 2000 (as amended, the "FSMA") or supplement a prospectus pursuant to Article 23 of the UK 
+Prospectus Regulation, in each case, in relation to such offer.  
+Unless the Final Terms in respect of any Series of the Tokens specify "Prohibition of Sales to UK Retail 
+Investors" as "Not Applicable", the Tokens are not intended to be offered, sold or otherwise made available 
+to, and should not be offered, sold or otherwise made available to, any retail investor in the United 
+Kingdom.
+
+--- Page 5 ---
+- v - 
+ 
+For these purposes, a retail investor means a person who is one (or more) of the following:  
+(a) 
+a retail client, as defined in point (8) of Article 2 of Regulation (EU) No 2017/565 as it forms part 
+of domestic law by virtue of the EUWA;  
+(b) 
+a customer within the meaning of the provisions of FSMA and any rules or regulations made under 
+the FSMA to implement Directive (EU) 2016/97, where that customer would not qualify as a 
+professional client, as defined in point (8) of Article 2(1) of Regulation (EU) No 600/2014 as it 
+forms part of “retained EU law” by virtue of the EUWA;  
+(c) 
+not a qualified investor as defined in Article 2 of Regulation (EU) 2017/1129 as it forms part of 
+“retained EU law” by virtue of the EUWA and regulations made thereunder (the "UK Prospectus 
+Regulation").  
+Consequently, no key information document required by Regulation (EU) No 1286/2014 as it forms part 
+of domestic law by virtue of the EUWA (the "UK PRIIPs Regulation") for offering or selling the Tokens 
+or otherwise making them available to retail investors in the United Kingdom has been prepared and 
+therefore offering or selling the Tokens or otherwise making them available to any retail investor in the 
+United Kingdom may be unlawful under the UK PRIIPs Regulation. 
+Notwithstanding the above paragraph, in the case where the Final Terms in respect of any Series of the 
+Tokens include a legend entitled "Prohibition of Sales to UK Retail Investors" but where the Issuer 
+subsequently prepares and publishes a key information document under the UK PRIIPs Regulation in 
+respect of such Tokens, then following such publication, the prohibition on the offering, sale or otherwise 
+making available the Tokens to a retail investor in the United Kingdom as described in the above paragraph 
+and in such legend shall no longer apply. 
+FORWARD-LOOKING STATEMENTS 
+This Prospectus may contain forward-looking statements. Forward-looking statements are statements that 
+do not relate to historical facts and events. They are based on the analyses or forecasts of future results and 
+estimates of amounts not yet determinable or foreseeable. These forward-looking statements are identified 
+by the use of terms and phrases such as "anticipate", "believe", "could", "estimate", "expect", "intend", 
+"may", "plan", "predict", "project", "will" and similar terms and phrases, including references and 
+assumptions. This applies, in particular, to statements in this Prospectus containing information on future 
+earnings capacity, plans and expectations regarding the Issuer's business and management, its growth and 
+profitability, and general economic and regulatory conditions and other factors that affect it. 
+Forward-looking statements in this Prospectus are based on current estimates and assumptions that the 
+Issuer makes to the best of its present knowledge. These forward-looking statements are subject to risks, 
+uncertainties and other factors which could cause actual results, including the Issuer's financial condition 
+and results of operations, to differ materially from and be worse than results that have expressly or implicitly 
+been assumed or described in these forward-looking statements. The Issuer's business is also subject to a 
+number of risks and uncertainties that could cause a forward-looking statement, estimate or prediction in 
+this Prospectus to become inaccurate. Accordingly, potential investors are strongly advised to read the 
+following sections of this Prospectus: "Summary", "Risk Factors" and "Business Description". These 
+sections include more detailed descriptions of factors that might have an impact on the Issuer's business 
+and the markets in which it operates. 
+In light of these risks, uncertainties and assumptions, future events described in this Prospectus may not 
+occur. In addition, the Issuer does not assume any obligation, except as required by law, to update any 
+forward-looking statement or to conform these forward-looking statements to actual events or 
+developments.
+
+--- Page 6 ---
+- vi - 
+ 
+ 
+CONTENTS 
+ 
+Page 
+ 
+RISK FACTORS ........................................................................................................................................ 1 
+CONSENT TO USE THE PROSPECTUS............................................................................................. 15 
+USE OF PROCEEDS AND REASONS FOR THE OFFER ................................................................ 16 
+GENERAL DESCRIPTION OF THE PROGRAMME ....................................................................... 17 
+GENERAL DESCRIPTION OF THE TOKENS .................................................................................. 24 
+GENERAL DESCRIPTION OF THE UNDERLYING ........................................................................ 27 
+TERMS AND CONDITIONS OF THE TOKENS ................................................................................ 29 
+FORM OF FINAL TERMS ..................................................................................................................... 38 
+MIMO CAPITAL AG AS ISSUER ......................................................................................................... 46 
+SELLING RESTRICTIONS ................................................................................................................... 51 
+GENERAL INFORMATION .................................................................................................................. 54 
+DOCUMENTS INCORPORATED BY REFERENCE ......................................................................... 55
+
+--- Page 7 ---
+- 1 - 
+ 
+RISK FACTORS 
+The Tokens are designed to track the performance of specific governmental or corporate debt serving as 
+underlying (the “Underlying”). Therefore, the Tokens are backed by the Underlying at 100 per cent. of 
+their aggregate principal amount.  
+Prospective investors in Tokens (“Investors”) should carefully review and consider all information 
+provided in or incorporated by reference into this Prospectus or the relevant Final Terms of a Series of 
+Tokens before deciding to purchase Tokens issued under the Programme and consult with their own 
+professional advisers (including their financial, accounting, legal and tax advisers) if they consider it 
+necessary or appropriate.  
+Investors should note that an investment in Tokens issued under the Programme from time to time involves 
+a high degree of risk, including the risk of a total loss of all capital invested, as the Tokens and the 
+underlying security arrangements in respect of each Token are speculative. 
+The material risk factors inherent in the Issuer are set out below. The most significant risk factors are 
+prefixed to each section. Investors should also take into account that all of the risks described may interact 
+and thereby exacerbate each other. 
+Investing in the Tokens could involve additional risks and uncertainties of which the Issuer is not presently 
+aware and which could also affect the business operations of the Issuer or the Group and adversely affect 
+its business activities and financial condition and results of operations and the ability of the Issuer to fulfil 
+its respective obligations under the Tokens. 
+Risks related to the Financial Situation of the Issuer 
+Liquidity Risk 
+The Issuer may not have sufficient funds to meet its payment obligations and to make payments to Investors 
+under the Tokens. In the event of insufficient liquid funds, in particular due to the inability to liquidate the 
+Underlying with respect to a specific Series of Tokens, there is a risk that the Issuer will not be able to, 
+fully or partially, fulfil its payment obligations on time or at all. 
+Materiality: High 
+Lack of Revenue 
+The Issuer has not yet generated substantial revenue as it was a dormant company for the application period 
+and registration process of the Issuer as a TT Exchange Service Provider, Token Generator, and Token 
+Issuer under the Token and Trusted Technology Service Provider Act (“TVTG”) of Liechtenstein. If the 
+Issuer does not generate revenues from operating activities in the foreseeable future, it may not achieve or 
+maintain profitability and investors might lose part or all of their investment. 
+Materiality: High 
+Funding 
+As the Issuer has not yet generated substantial revenue from its operating activities, it relies on external 
+financing sources to cover its financial liabilities and current operations. The Issuer's means and liquidity 
+for the next twelve months will be secured by the commitment of the Issuer’s parent companies. The 
+Issuer’s immediate holding company, DeCentral Pte. Ltd., and the Issuer entered into a shareholder loan 
+agreement dated 1 June 2021. Certain repayment obligation of such shareholder loan in the aggregate 
+amount of EUR 2,137,799 have been subject to a debt waiver dated 7 June 2022 under which DeCentral 
+Pte. Ltd. unconditionally and irrevocably released and discharged the Issuer from such repayment 
+obligations. The Issuer continues to rely on these forms of external funding in the foreseeable future. Should 
+the Issuer be unable to obtain or raise the necessary funds, this may result in investors to lose their entire 
+investment. 
+Materiality: Medium
+
+--- Page 8 ---
+- 2 - 
+ 
+Credit Risk 
+Investors are exposed to the credit risk of the Issuer, the Custodian and other parties. An Investor's ability 
+to obtain payment in accordance with the relevant Terms and Conditions is dependent on the Issuer's ability 
+to meet these obligations. The Tokens are not, either directly or indirectly, an obligation of any other party. 
+As a result, the creditworthiness of the Issuer may affect the market value of any Tokens, and in the event 
+of default, insolvency or bankruptcy, Investors may not receive the amount owed to them under the relevant 
+Terms and Conditions. Next to direct credit risks, the Investors are indirectly exposed to any indirect credit 
+risks that the Issuer is exposed to, for example the credit risks of other affiliated parties of the offer. 
+Furthermore, the Issuer may incur losses and/or fail to obtain delivery under any arrangements in place in 
+respect of any Underlying. 
+Materiality: Medium 
+Risks related to the Business Activities and Industry of the Issuer 
+Short Business History and Limited Financial Information of the Issuer 
+The issuer was a dormant company for the application period and registration process of the Issuer as a 
+Token Exchange Provider, Token Generator, and Token Issuer under the TVTG. Therefore, no significant 
+"track record" on its activity and/or performance is in the public domain and the historical financial 
+information on the Issuer is very limited. This implies the risk for Investors that the business activity of the 
+newly established company is not yet proven and may fail, which results in operating losses and may have 
+material adverse effects on the Issuer’s performance and results of operations, which may ultimately lead 
+to Investors losing all or part of their investment. 
+Materiality: High 
+Business Risks 
+The Issuer's principal activity is the issuance of Tokens in the form of blockchain based cryptographic 
+tokens, which are backed by governmental or corporate bonds, against fees. For that purpose, the Issuer 
+designs Tokens fully backed by the underlying bonds. In addition, the Issuer commercializes and sells 
+Tokens to Investors. Therefore, the Issuer's ability to conduct its business successfully depends on its ability 
+to market Tokens successfully to Investors and to comply with rules and regulations. In particular, the 
+failure to pass any audit regarding the Issuer's compliance with rules and regulations or to be found in 
+breach of regulations in Liechtenstein or elsewhere applicable to the Issuer could result in fines or adverse 
+publicity which could have a material adverse effect to the business and which may lead to significantly 
+decreased results of operations and losses. New legislation or regulations, decisions by public authorities 
+or changes regarding the application or interpretation of existing legislation, regulations, or decisions by 
+public authorities applicable to the Issuer's operations, the Tokens, the blockchain technology or the 
+Underlying, may adversely affect the Issuer's business or an investment in Tokens. Moreover, the Issuer 
+depends on reputable and reliable ledger systems, on which the smart contracts in the blockchain will be 
+conducted. Should their service or operation among others be constrained or a disruption occurs, the Issuer 
+may be unable to issue additional Tokens, which may, in turn, adversely impact the Issuer's reputation, 
+financial performance and creditworthiness. 
+Materiality: Medium 
+Dependence on Service Providers 
+The Issuer is dependent on a number of service providers to maintain the issuances of Tokens. These 
+include, but are not limited to, 
+(a) 
+any person administering the accounts to which the Underlyings purchased by the Issuer are 
+credited ("Custodian"); 
+(b) 
+any person accepting or dispatching payments on behalf of the Issuer and by accepting or 
+distributing the funds from/to the Investors ("Paying Account Provider");
+
+--- Page 9 ---
+- 3 - 
+ 
+(c) 
+any person that provides market making services including bid and offer of market prices for 
+Tokens, next to adequate liquidity with regard to all Tokens of the relevant Series ("Market 
+Maker"); and 
+(d) 
+any person or legal entity which is a licensed bank, a securities firm, an insurance company or 
+another institution being supervised in an equivalent manner in any relevant offer jurisdiction, 
+approved by the Issuer (in its sole discretion), which files requests that Tokens are created or 
+redeemed ("Authorized Participants"). 
+As the case may be, the Issuer may further depend on a regulated securities broker regarding brokerage 
+services in connection with buying/selling the Underlyings ("Broker"), trading desks, lending desks, and 
+wallet providers. Should there be a material adverse change with any existing partner and a suitable 
+alternative be unavailable or impracticable, it may be impossible for the Issuer to continue to list and service 
+the Tokens. 
+Materiality: Low 
+Legal and Regulatory Risks 
+Changes of the Regulatory Environment 
+The Issuer issues financial products whose regulatory environment appears to be unclear because it is 
+constantly developing and adapting to new technologies. This applies particularly to the business with 
+tokenized securities. Regulatory changes are to be expected here at national and international level. This 
+may lead to significant cost increases in the operating business and may have a material adverse effect on 
+the Issuer's net assets, financial position and results of operations and thus negatively affect its ability to 
+fulfil claims arising from the Tokens. Therefore, it cannot be ruled out that negative effects of a change in 
+the regulatory environment will result in the Issuer no longer being able to operate its business operations 
+economically and having to discontinue them as whole or partially. 
+Materiality: Medium 
+Risk of a Data Breach 
+The Issuer maintains significant amounts of data surrounding trades, trade execution, as well as customer 
+data. A significant data breach may have wide reaching adverse effects, including trading losses and loss 
+of reputation, which may negatively impact the Issuer’s core business. 
+Materiality: Medium 
+Further Risks 
+Conflicts of Interest 
+In accordance with the relevant applicable law, the key personnel of the Issuer may hold Tokens, 
+Underlyings, other financial instruments or digital assets on their personal name and account. They are 
+under no obligation to disclose their holdings, changes in the value of their holdings, any trading activity 
+in those holdings. These interests may deviate from or conflict with interests of Investors in the Tokens. 
+The Issuer may issue other products relating to the Underlying or other underlyings. The introduction of 
+such competing products may affect the market value of the Tokens. 
+Materiality: Medium 
+ Cybersecurity related Risks 
+The Issuer deals with tokenized securities registered online and therefore is susceptible to operational, 
+information security and related “cyber” risks. In general, cyber incidents can result from deliberate attacks 
+or unintentional events. Cyber incidents include, but are not limited to, gaining unauthorized access to 
+digital systems (e.g. through “hacking” or malicious software coding) for purposes of misappropriating 
+assets or sensitive information, corrupting data, or causing operational disruption. Cyberattacks may also 
+be carried out in a manner that does not require gaining unauthorized access, such as causing denial-of-
+service attacks on websites (i.e., efforts to make network services unavailable to intended users).
+
+--- Page 10 ---
+- 4 - 
+ 
+Cybersecurity failures by, or breaches of, the systems have the ability to cause disruptions and impact 
+business operations, potentially resulting in: financial losses, interference with the business activity, 
+disclosure of confidential information, impediments to trading, submission of erroneous trades or erroneous 
+creation or redemption orders, the inability of the company or its service providers to transact business, 
+violations of applicable privacy and other laws, regulatory fines, penalties, reputational damage, 
+reimbursement or other compensation costs, or additional compliance costs. Investors may lose their 
+investment as direct or indirect consequence of such cybersecurity related risks. 
+Materiality: Medium 
+Software related Risks 
+Tokenized securities may be susceptible to bugs and smart contract related risks, that might lead to investors 
+losing control over their assets, or a breach that might cause an unintended minting of the asset, that 
+ultimately lead to the dilution of the investors' holdings. Other risks include Issuer's back-office software 
+bugs which may lead to mishandling of the Underlying or a loss of significant tokens reserve, which may 
+cause turbulence in the secondary market. By nature, attacks on blockchain infrastructure can cause much 
+more damage than for a centralized service, as the blockchain is an objective layer, and cannot be stopped 
+or rolled back. 
+Materiality: Low 
+Environmental and Social Risks 
+The applied technology of smart contracts on blockchains by the Issuer are energy intensive systems and 
+thus might be susceptible to existing and potential regulation and/or costs with the goal to limit energy 
+consumption. 
+Materiality: Low
+
+--- Page 11 ---
+- 5 - 
+ 
+RISK FACTORS REGARDING THE TOKENS 
+The following is a disclosure of the principal risk factors which are material to the Tokens issued under the 
+Programme in order to assess the market risk associated with the Tokens. Under the circumstances 
+described below, potential investors may lose the value of their entire investment or part of it. 
+Risks relating to the Market 
+Market Volatility 
+Market volatility refers to the risk that market prices of securities will rise or fall, sometimes rapidly or 
+unpredictably. An investment in the Tokens is subject to market risk, including the potential loss of the 
+entire amount of the investment. Changes in interest, foreign exchange rates, and increases in volatility can 
+increase credit and market risks and may also affect revenues of Investors. General movements in local and 
+international markets and factors that affect the investment climate and Investor sentiment could affect the 
+level of trading and, therefore, the market price of any Token and the respective Underlying. These risks 
+are generally applicable to any investment in securities or instruments. Investors should be aware that any 
+and all Tokens can go down and up in price and that there can be a partial or total loss of the invested 
+amount. 
+Materiality: High 
+Pricing Divergences 
+The price at which Tokens are traded on the secondary market may deviate from the accurate or "real-time" 
+price of the relevant Underlying at the respective time. The application and redemption procedures for the 
+Issuer are intended to minimize this potential difference, delay or tracking error. However, the market price 
+of Tokens will also be a function of supply and demand amongst Investors wishing to buy and sell Tokens 
+and the bid/offer spread that Market Makers are willing to quote for such Tokens. It is not within the Issuer’s 
+control to ensure that the Tokens trade continuously at a price which equates perfectly to the value of the 
+Underlying or, to ensure that any degree of variation between “bid/ask” and the value of the Underlying 
+does not exceed certain margins. 
+Materiality: Medium 
+Market Trading Risk and Liquidity 
+The Tokens are intended to be available and traded on a trading venue and could also be traded on other 
+exchanges or networks. There is no certainty that there will be liquidity available on any of the trading 
+networks or that the market price will be in line with the net asset value at any given time. There is also no 
+guarantee that once the Tokens are available and traded on a blockchain that they will remain accessible 
+and traded as a result of changes in admissibility of the Underlyings, the technology or the status of the 
+Issuer. 
+Under normal market conditions, users acting as Market Makers will purchase and sell Tokens on secondary 
+markets reducing the price gap between such trading venues and prices offered by the Issuer. Nevertheless, 
+the Investors cannot rely on the opportunity to sell Tokens at a specific price or time. Furthermore, the 
+Market Maker(s) are not obliged to secure a certain minimum level rate, purchasing unlimited numbers of 
+Tokens or certain minimum volume in abnormal market conditions. In addition, the Issuer itself may have 
+the right (but no obligation) to purchase Tokens at any time and any price in the open market or by tender 
+or private agreement, subject to the applicable law. 
+Materiality: Medium
+
+--- Page 12 ---
+- 6 - 
+ 
+Risks relating to Currency Exchange Rates 
+In general, currency values may be affected by complex political, economic, and international factors, 
+including governmental actions to support the domestic currency, independent of other market forces. An 
+investment in the Tokens may be affected by the exchange rate risk of the relevant currencies in which the 
+Tokens are denominated and in which the Underlying is/are traded or evaluated. The Underlying will be 
+denominated in another currency (USD, EUR or any other) than the Tokens offered as specified in the Final 
+Terms. 
+An Investor’s right related to the Tokens may be determined on the basis of a currency other than the 
+currency in which the redemption amount is settled ("Settlement Currency"). The value of the Underlying 
+may be determined in a currency or unit of value other than the Settlement Currency. Accordingly, Investors 
+should be aware that investments in Tokens could entail risks due to fluctuating exchange rates and, 
+moreover, that the risk of loss depends not only on the performance of the Underlying, but also on 
+unfavourable developments of the value of any currency involved. Investors should be aware that the above 
+mentioned risks may arise at any time during the life of the Token if the currency of the Token and/or of 
+the Underlying will be replaced by a different or a new currency. 
+Materiality: Medium 
+Market Disruption Events 
+A market and/or settlement disruption event ("Market Disruption Event or Settlement Disruption 
+Event") describes the occurrence or existence of a suspension or a limitation on trading in or a limitation 
+on the market price issued by reference sources (but for the avoidance of doubt, not merely a limitation on 
+the hours and number of days of trading resulting from an announced change in the regular business hours 
+of the relevant Underlying exchange) for the Underlying so that the price or value of the Token cannot be 
+determined, announced or published or otherwise is not being made available on a Business Day relevant 
+for the fixing, observation or valuation of such Underlying as determined by the Issuer in its duly exercised 
+discretion. 
+In accordance with the Terms and Conditions, the Issuer may determine in its duly exercised discretion that 
+a Market Disruption Event or Settlement Disruption Event has occurred or exists at a relevant time, which 
+could result in the postponement of the fixing, observation or valuation of the applicable Underlying. This 
+could have an adverse effect on the market value of the Tokens, including a partial or total loss of the 
+investment. 
+These events may include, but are not limited to, the Issuer's inability to source reliable data, regulatory 
+changes or other significant technological issues. 
+Materiality: Low 
+Other Factors affecting Market Value 
+The fact that the Tokens are issued in the form of ledger-based securities, requires the ability to execute 
+transactions on the blockchain in order to purchase or sell the Token. Transactions on the blockchain are 
+sometimes governed by fees paid to the blockchain validators, and these might increase significantly in 
+times of market disruption or congestion. In such times, issuance and redemption of Tokens in values in 
+the order of magnitude of the required fees may have an adverse impact on the total value obtained by the 
+investor. The issuer has no ability to control or predict future blockchain fees. 
+Materiality: Low
+
+--- Page 13 ---
+- 7 - 
+ 
+Risks relating to Tokenized Securities and Distributed Ledger Technology 
+Risks Associated with the Ethereum Protocol and other Blockchain Protocols 
+Any Token-DLT, which will be used for the tokenized issuance of securities, is or may be susceptible to 
+mining attacks, including double-spend attacks, majority mining power attacks, selfish-mining attacks, and 
+race condition attacks, as well as their equivalent in proof-of-stake systems, and other new forms of attacks 
+that may be created. Any successful attack presents a risk to the issuance of the securities, and expected 
+proper execution and sequencing of Ethereum (and other blockchains) contract computations in general. 
+Mining attacks may also target other blockchain networks with which the used crypto protocol may interact, 
+which may consequently impact the used digital token significantly. As such, any malfunction, breakdown, 
+abandonment, unintended function or unexpected functioning of the Ethereum protocol, or any other 
+blockchain protocol, may have a material adverse effect on the Issuer, the issuance of the tokenized 
+securities and/or the Tokens offered. 
+Materiality: Medium 
+Potential for Market Abuse 
+The markets for digital assets are local, national and/or international, increasingly growing and including a 
+broad range of products and participants. In this environment, significant trading may occur on systems and 
+platforms with minimum predictability. 
+In general, the characteristic of digital assets could be used by certain market participants to exploit 
+arbitrage opportunities through schemes like front running, miner extracted value, spoofing, pump-and-
+dump and fraud across different systems, platforms or geographic locations. Due to the reduced oversight 
+of authorities, these kinds of illicit schemes may be more widespread in the crypto market than in the general 
+market for financial products. A result of any market abuse could be the loss of Investors' confidence in the 
+digital assets and thus in structured products which base on them and therefore, may adversely impact an 
+investment in the Tokens, the Issuer's ability to operate and/or the pricing of digital assets used for the 
+transaction or of digital assets in general. 
+Because there is a lack of a central regulatory authority and structure and due to the global nature of digital 
+assets and blockchain technologies, the Investors may have no legal remedies or recourse against the Issuer, 
+other users, holders, purchasers or sellers of tokenized securities or digital assets, and any other person or 
+entity that may interfere with the Issuer, the Tokens or the Investors' digital wallet. 
+Materiality: Medium 
+Risk of Loss of Private Key 
+The Tokens must be stored in a wallet by the Investor. This wallet can only be accessed with a password 
+selected by the Investor. If an Investor does not maintain an accurate record of the password or loses its 
+wallet file, this will lead to the total loss of tokens and thus of all its investments. If a private key is lost, 
+destroyed or otherwise compromised and no backup of the private key is accessible, the Investor will not 
+be able to access the digital assets associated with the corresponding address, and the token network or the 
+Issuer will not be capable of restoring the private key. Any loss of private keys relating to digital wallets 
+used to store digital assets on a blockchain could have an adverse effect on the Investor and its investment. 
+It is the Investor's sole responsibility to store and protect its private key, respectively wallet, accordingly. 
+Materiality: Medium 
+Hacking and Theft Risk 
+The crypto network, smart contracts, associated websites, the applied software applications and software 
+platforms of the blockchain may be exposed to attacks by hackers or other individuals that could result in
+
+--- Page 14 ---
+- 8 - 
+ 
+theft or loss of tokens or other (financial) support for the crypto network in use. This may affect the 
+Investors' investment up to a total loss. Furthermore, it may impact the Issuer's ability to issue Tokens. 
+Materiality: Medium 
+Tax Risk related to Digital Assets 
+The taxation of digital assets and associated companies can vary significantly by jurisdiction and are subject 
+to significant revisions. These revisions, or the application of new tax schemes or taxation in additional 
+jurisdictions, may adversely impact the Issuer’s performance. Accordingly, the way in which digital assets 
+are taxed varies from country to country. Before deciding to invest in Tokens, Investors should consult their 
+local tax advisor. The Issuer may become exposed to significant tax risk. Any major tax burden may hinder 
+the Issuer’s ability to maintain the listing and, if such tax burden results in insolvency, to otherwise continue 
+to operate as expected. 
+Materiality: Medium 
+Technical Risks relating to Blockchains 
+There are several technical risks to which the Investors of digital assets are exposed including, but not 
+limited to, flaws in the code, the event in which an interlinked chain of blocks (a blockchain) is, at a certain 
+block onwards, followed by two or more parallel and non-identical blocks, each generating a separated 
+continuum of the original blockchain, possibly becoming the dominant version and thus obliviating all 
+transactions recorded on the other possible chains (Forks) of the underlying protocols, double spending and 
+51% attacks. These and various other risks must be considered by the Investors and are not unlikely to 
+occur over time. 
+Ethereum and other blockchains assets are mostly built on open-source code which is available to the public, 
+and developed in a shared way. Therefore, the underlying source code of these digital assets is visible 
+publicly to anyone, and anyone can suggest changes to the code. It is possible that flaws or mistakes in the 
+released and public source code could lead to severe damage to the blockchain technology, digital assets 
+and networks. Furthermore, it is possible that a group of highly skilled contributors or other technical groups 
+may attack the code, which may directly lead to severe damage. In any of these technical vulnerabilities, 
+the value of the Investors' stakes can be severely and detrimentally affected. 
+The Ethereum blockchain is undergoing a series of upgrades, most notably the gradual move from a Proof 
+of Work ("PoW") consensus mechanism to a Proof of Stake ("PoS") mechanism, both in form of Forks, 
+changes to the rules of the protocol, and in other ways. This might significantly alter the way the blockchain 
+operates, both in terms of the way new blocks are mined, how consensus is reached, the transaction 
+throughput of the blockchain, the incentive mechanism of including transactions in a block, and many more 
+changes. Some of these changes may impact existing smart contracts and create uncertainty as to the 
+behaviour of software deployed on the blockchain or interacting with it. 
+For Investors, Forks may have a detrimental effect on the value of the digital assets, including by negatively 
+affecting Cryptocurrency allocations or by failing to capture the full value of newly-forked digital assets 
+when being removed from the main index or another applicable index. This can disturb the creation of smart 
+contracts on the blockchain to purchase or sell the Tokens. 
+Mining of digital assets is a distributed consensus system which is used to confirm pending transactions. 
+The result of the agreement will be displayed and included on the public ledger, the blockchain. The crypto 
+miners can earn digital assets by confirmation of the transactions and reaching consensus in that matter. In 
+case a group of miners acting in concert controls temporarily a majority of the network mining power (also 
+called hash power) of a respective blockchain network, they can use this control to undertake harmful 
+actions, so-called 51% attacks. In such cases the attackers could prevent new transactions from being 
+confirmed, allowing them to halt payments between certain or all users. They could also reverse
+
+--- Page 15 ---
+- 9 - 
+ 
+transactions in the process of completion and thus in the control of the network, with the consequence that 
+they could doublespend coins. The attackers could allow their coins to be spent on multiple occasions as 
+they control the network's confirmation process including, but not limited to, sending two conflicting 
+transactions to the network while creating one transaction but already sending the digital assets before 
+release of the associated block on the blockchain, which would invalidate it. Theoretically, the execution 
+of attacks is more likely to appear to blockchains with a smaller mining power or market capitalization 
+since the necessary computing power threshold to control a majority of the network will be reached more 
+easily. However, there have also been reports of attacks against the ETC network in the past, which 
+illustrates that networks with higher market capitalization can also be a target to such attacks. 
+The distribution and/or performance of the tokenized securities may be negatively affected by such or 
+similar technical risks relating to blockchains as described above and thus may negatively impact the 
+Investors. 
+Materiality: Low 
+Risk of Blockchain Forks 
+A fork is an event in which an interlinked chain of blocks (a blockchain) is, at a certain block on-wards, 
+followed by two or more parallel and non-identical blocks, each generating a separated continuum of the 
+original blockchain, possibly becoming the dominant version and thus obliviating all transactions record-
+ed on the other possible chains (a “Fork”). Therefore, Forks are changes to the rules of the Ethereum 
+protocol or other digital assets which often include major technical upgrades or changes needed to be made 
+to the network. They typically originate from improvement proposals by the community and result in 
+changes of the rules of the protocol. The rule changes may create a temporary split in the network. New 
+blocks of digital assets could be produced according to the old rules or the new rules. Forks are usually 
+agreed upon in advance to give owners the opportunity to adapt to changes concordantly. Consequently, 
+the Fork including the upgrades becomes the main chain. However, in rare cases, disagreements over Forks 
+can cause the network to permanently split. For the Ethereum network such a split occurred with the 
+creation of Ethereum Classic ("ETC") in the Decentralized Autonomous Organization ("DAO") Fork in 
+2016. The DAO Fork was a response to the 2016 DAO attack where an insecure DAO contract was drained 
+of over 3.6 million Ethereum in a hack. As a result, the Ethereum community voted on the planned Fork. 
+The implemented Fork moved the funds from the faulty contract to a new Ethereum contract by 
+withdrawing them. A group of miners however refused to fork and continued to use the original Ethereum 
+blockchain due to immutability concerns. They continued to form ETC. 
+The Fork risk for externally backed tokens (such as tokenized securities) is much more severe compared to 
+native tokens such as Ether ("ETH"). In case a user holds ETH tokens and the network splits, they can hold 
+both ends of the fork. However, for tokenized securities, a choice must be made which represents the claim 
+over the security issued by the Issuer. 
+In the event of a Fork in the blockchain used by the Issuer for the Tokens, the Issuer, in its sole discretion, 
+will determine: 
+(a) 
+whether or not to participate in the Fork; and 
+(b) 
+which of the Fork's two resulting chains would be recognized, or if a different 
+platform/protocol/blockchain for such purpose shall be used. 
+Regulatory Risks related to Digital Assets and Blockchains 
+Blockchain technologies and cryptographic tokens have been and will be the subject of intense scrutiny by 
+various regulatory bodies around the world. The functioning of the Ethereum network, associated 
+blockchain networks and tokens may be adversely impacted by regulatory actions, including restrictions or 
+prohibitions on their use, purchase, or possession. For example, some jurisdictions regulate providers of
+
+--- Page 16 ---
+- 10 - 
+ 
+prepaid access or money transmission services who create a medium of exchange or a method by which 
+value is transferred from one to another person or location. The implications of triggering such requirements 
+may include registration with a state or national agency or enforcement authority and implementing an anti-
+money laundering ("AML")/know-your-customer compliance program that meets the standards, including 
+transaction monitoring, designation of compliance personnel, employee training, and periodic auditing and 
+testing. Moreover, there may be various compliance obligations, including the need for a license, meeting 
+minimum net-worth requirements, bonding, biographical and financial approval of officers and directors, 
+and other ongoing compliance, such as examination and reporting obligations. 
+It is possible that certain jurisdictions will apply existing regulations on, or introduce new regulations 
+addressing blockchain technologies-based applications, which may be contrary to the current setup of the 
+smart contracts or the issuance of tokenized securities and which may, inter alia, result in substantial 
+modifications of the smart contracts and/or the issuance of tokenized securities, including its termination 
+and the loss of the investment for the Investors. 
+The Issuer could be impacted by one or more regulatory inquiries or regulatory action which could impede 
+or limit the ability of the Issuer or third persons to continue to develop the Issuer's Tokens and/or services. 
+It could cause significant costs and adversely affect the development of Tokens and/or the operations. 
+Further, the issuance of tokenized securities and/or the Issuer may be subject to unexpected tax burdens. 
+Materiality: Low 
+Cease in Expansion of Processing Power 
+If the aggregate revenue from transaction fees and the block reward is below a miner’s cost, miners may 
+terminate operations. Additionally, in the event of a Fork of the relevant crypto network, some miners may 
+choose to mine the alternative new digital asset resulting from the Fork, thus reducing processing power on 
+the original blockchain. An acute cessation of mining operations would reduce the collective processing 
+power on the blockchain, which would adversely affect the transaction verification process by temporarily 
+decreasing the speed at which blocks are added to the blockchain and make the blockchain more vulnerable 
+to attackers obtaining control in excess of 50% of the processing power on the blockchain. Reductions in 
+processing power could result in material, though temporary, delays in transaction confirmation time. Any 
+reduction in confidence in the transaction verification process or mining processing power may adversely 
+impact the value of an investment in the Tokens or the ability of the Issuer to operate. 
+Materiality: Low 
+Uncertainty related to Innovation 
+It is to note that digital assets, blockchains and their networks are still in the starting phase and have not yet 
+become the new standard for transactions. Therefore, the form and functioning are still evolving. There is 
+no guarantee that digital assets will become the dominant form of payment, storage of value or method of 
+exchange. Potential changes in the viability of any crypto network may adversely impact pricing and 
+liquidity of digital assets and thus of the Tokens. Furthermore, other crypto networks and/or technologies 
+may compete with the applied digital assets network. There is no guarantee that the selected form of digital 
+assets to confirm the transactions on the blockchain will be a popular form of transaction or method of 
+exchange in the future. 
+Materiality: Low 
+Environmental Concerns 
+Due to the increasing carbon emissions by mining of digital assets, concern has arisen in the context of its 
+impact on the global sustainable goals. Thus, governments and other bodies may regulate and restrict
+
+--- Page 17 ---
+- 11 - 
+ 
+blockchain technologies in this respect in the future. This could hinder or even make the usage of smart 
+contracts for the verification of transactions in some jurisdictions impossible. 
+Materiality: Low 
+Risks relating to the Nature of the Tokens 
+Risks relating to the structured nature of the Tokens 
+The Tokens are designed to track the performance of the Underlying and are backed by the Underlying in 
+the amount of 100 per cent. of the aggregate principal amount of their respective nominal values. Interest 
+payments which the Issuer receives on the Underlying for any outstanding Token are streamed to Investor 
+less a margin (if and as specified in the relevant Final Terms). The Tokens will be redeemed by payment 
+of a cash amount or by physical delivery, if applicable. The redemption amount for the Tokens is calculated 
+based on the current market price of the Underlying fixed on a daily basis minus fees and currency 
+adjustments, if necessary. If applicable, Tokens can also be redeemed at the sole discretion of the Investor 
+by physical delivery of the Underlying and, where applicable, payment of an adjustment amount. Therefore, 
+Tokens are considered a combination of conventional instruments with derivative elements to create a 
+stand-alone fixed-income product that is then issued to Investors. 
+Investors should be aware that the market value of the Tokens may not perfectly correlate with the 
+prevailing price of the Underlying. As a result, changes in the prevailing price of the Underlying will not 
+necessarily result in a comparable change in the market value of the Token. Investing in the Tokens does 
+not represent a 100% match of a direct investment in the Underlying. 
+In particular, the performance of the Tokens may differ significantly from returns on direct holdings of the 
+Underlying itself because of the negative effect of the margin on interest payments, the base fee and other 
+fees due to providers of services in relation to the Tokens ("Investor Fee(s)"), additionally to the negative 
+effect of any other described risk herein. Consequently, the return on Tokens will not reflect the potential 
+return of actual ownership of the Underlying, being held for a similar period. 
+Materiality: Medium 
+Impact of Redemptions of Underlyings 
+The redemption or maturity of the Underlying has an effect on the pricing of Tokens. The Tokens have no 
+maturity date and, if not redeemed at the option of the Issuer or the Investors, as applicable, will survive 
+the redemption or maturity of the Underlying. In such case, Investors will cease to receive interest 
+payments, if applicable, and the redemption amount of the Tokens will be calculated based on the last 
+available quotation for the Underlying. 
+Materiality: Medium 
+Lack of Capital Protection 
+The Tokens do not provide any capital protection of any amount payable under the Tokens. This causes a 
+risk for Investors that a part or all of the invested amount may be lost due to the market risk associated with 
+the exposure of Tokens. This means if the price of the relevant Underlying develops in an unfavourable 
+way for the Investors, the terms do not provide for any level of protected capital and the Investors will 
+sustain the full loss corresponding to the unfavourable development of the relevant Underlying. Depending 
+on the performance of the Underlying, Investors may sustain a loss up to their entire investment. 
+Materiality: Medium
+
+--- Page 18 ---
+- 12 - 
+ 
+Risks relating to the Underlying  
+General market risk and credit risk 
+The market value of the Tokens depends on the performance of the Underlying. The Issuer has no influence 
+on the market price of the Underlying. Therefore, Investors in the Tokens may bear market risks similar to 
+a direct investment in the relevant Underlying. The Underlying may be subject to major fluctuations and 
+unfavourable price developments of the Underlying. In particular, the past development of an Underlying 
+will not be indicative for its future performance. The price of the Underlying can even drop to a price close 
+to zero in case of a default of the Underlying’s issuing entity or external shocks materially adversely 
+affecting such issuing entity. In such event, Investors in the Tokens may suffer a partial or total loss of their 
+investment. 
+Materiality: High 
+Impact of Underlying Sale 
+Within the issuance and redemption processes, the Issuer can sell the Underlying, or will be required to 
+redeem Tokens pursuant to the Terms and Conditions. These transactions will be performed, at the Issuer's 
+sole discretion, on the open market or via over-the-counter ("OTC") trading platforms. In case the amount 
+of Underlyings sold is significant enough relative to global supply and demand, such sales could have an 
+impact on supply and demand for the specific Underlyings in a manner unrelated to other factors and may 
+affect the pricing of other Tokens of the same Series under this Prospectus. 
+Materiality: High 
+Risk of Occurrence of an Extraordinary Event 
+In case of fraud, theft, drastic changes in regulation or similar events with respect to, or affecting any, 
+Underlying, the redemption amount for Tokens shall be reduced, potentially to the smallest denomination 
+of the settlement currency per Token or to zero. As a consequence, Investors bear the risk of the occurrence 
+of an extraordinary event and of a partial or complete loss of their investment. Moreover, the risks of an 
+extraordinary event are greater than for similar events with respect to other asset classes and, unlike in the 
+case of other asset classes, are unable to be mitigated. Additionally, it is not presently practical to insure 
+against an extraordinary event. If an extraordinary event occurs, Investors might suffer a loss of partial or 
+the entire investment. 
+Materiality: Medium 
+Limited Trading Hours 
+The on-exchange trading of Underlyings of the Tokens, may be restricted to specific trading windows 
+available on the relevant securities/commodities exchange. Therefore, the Issuer may not be able to buy or 
+sell Underlyings outside of exchange market hours in the necessary quantities, or at all. This restriction 
+could limit the Issuer's ability to ensure the Underlying coverage and might make the Issuer and the 
+Investors vulnerable to price movements and volatility on the markets. Additionally, the Issuer may choose 
+to limit issuance and redemption to once per trading day, in the form of end-of-day market price. In such a 
+case, the respective purchase or sale price would depend on the price at market close and not at the time of 
+arrival of request to the Issuer. 
+Materiality: Low
+
+--- Page 19 ---
+- 13 - 
+ 
+Risks relating to the Offer to the Public 
+Limited Liquidity and Trading Volume 
+There is no guarantee for the liquidity of the Tokens offered via secondary markets to retail and institutional 
+Investors alike. The volume of Tokens traded on secondary markets may be highly limited, which can have 
+a negative effect on the market price of the Tokens. Therefore, it may be extremely difficult for Investors 
+to buy and/or sell the Tokens in a short period of time (without its price being negatively affected or any 
+comparable event). Furthermore, it is to bear in mind that the Issuer may only be permitted in some 
+jurisdictions to offer Tokens to professional Investors ("Professional Investors"). Regulated and 
+supervised banks, securities firms and insurance companies may offer Tokens to Professional Investors and 
+Investors not qualifying as Professional Investors ("Retail Investors"). 
+Materiality: High 
+General Regulatory and Legal Risks 
+Dependence on Authorizations 
+A public offer of the Tokens may depend on a relevant approval of the competent authorities in the relevant 
+jurisdictions. Any change to such relevant requirements, the regulations of the Tokens, or acceptance of 
+tokenized securities could adversely impact the offering of the Tokens and therefore the main revenue 
+source of the Issuer's business. 
+Materiality: High 
+KYC and Sanctions Compliance 
+The Issuer is directly responsible for know-your-customer procedures and documentation in accordance 
+with AMLA and Sanctions Regulations ("KYC") of direct Investors, whereas sanctions regulations mean 
+Liechtenstein sanctions regulations, and any other sanctions regulations in the Issuer's sole discretion 
+("Sanction Regulations"). However, the Issuer is not responsible for KYC/AML of Investors purchasing 
+the Tokens on secondary markets, on which the Tokens might be traded. The Issuer has no influence on the 
+compliance system of third party platforms on which the Tokens may be traded. However, the Issuer takes 
+reasonable efforts to establish and verify counterparty identities, understand the nature of counterparties 
+and customer activities through its KYC procedures and tries to ascertain the legitimacy of counterparty 
+funds, where possible. 
+In view of the Issuer's compliance requirements with regard to KYC, there is the risk that an Investor 
+purchasing the Tokens on secondary markets will not meet such KYC requirements and therefore may not 
+be able to redeem the Tokens. 
+Furthermore, there are stringent rules concerning tokenized securities, among the Issuer's Authorized 
+Participants and other service providers, such as crypto platforms, administrators and Custodians. Any 
+breach of compliance processes of such exchanges or service providers could have a material adverse effect 
+on the Issuer's core business and its reputation. 
+Materiality: Medium 
+Taxation 
+Depending on the Investor's country of residence, holding the Tokens may have tax implications, such as 
+value-added tax or capital gains tax. Investors are advised to consult with their tax advisors as to their 
+specific consequences. Therefore, Investors should consider whether such tax liabilities apply when 
+investing in the Tokens. Each Investor will assume and be solely responsible for all taxes of any jurisdiction,
+
+--- Page 20 ---
+- 14 - 
+ 
+including central government or local state taxes or other like assessments or charges which may be applied 
+in respect of the Tokens. 
+The tax considerations contained in this Prospectus reflect the view of the Issuer based on the legislation 
+applicable at the date of this Prospectus. It cannot, however, be ruled out that the tax treatment by the tax 
+authorities and courts could be interpreted differently or could be subject to changes in the future. 
+Additionally, the tax considerations contained herein are in summary form and may not be used as the sole 
+basis for the decision to invest in the Tokens from a tax perspective, since the individual situation of each 
+Investor must also be considered. Accordingly, the considerations regarding taxation contained in this 
+Prospectus do not constitute any sort of material information or tax advice nor are they in any way to be 
+construed as a warranty with respect to specific tax consequences. 
+According to the Terms and Conditions, the Issuer may redeem all outstanding securities at anytime, inter 
+alia, for certain tax reasons. Accordingly, Investors should consult their personal tax advisors before making 
+any decision to purchase securities in the Tokens and must be aware of and be prepared to bear the risk of 
+a potential early redemption due to tax reasons. 
+Materiality: Medium
+
+--- Page 21 ---
+- 15 - 
+ 
+CONSENT TO USE THE PROSPECTUS 
+The Authorized Participant and/or each further financial intermediary subsequently reselling or finally 
+placing Tokens – if and to the extent this is so expressed in the Final Terms relating to a particular series 
+of Tokens – is entitled to use the Prospectus in Liechtenstein or such other Member State whose competent 
+authorities have been notified of the approval of this Prospectus, for the subsequent resale or final placement 
+of the relevant Tokens during the respective offer period (as determined in the applicable Final Terms), 
+provided however, that the Prospectus is still valid in accordance with Article 12 Prospectus Regulation. 
+The Issuer accepts responsibility for the information given in the Prospectus also with respect to such 
+subsequent resale or final placement of the relevant Tokens. 
+Such consent for the subsequent resale or final placement of Tokens by the financial intermediaries may be 
+restricted to certain jurisdictions and subject to conditions as stated in the applicable Final Terms. 
+The Prospectus may only be delivered to potential investors together with all supplements published before 
+such delivery. Any supplement to the Prospectus is available for inspection in electronic form on the website 
+of the Issuer. 
+When using the Prospectus, the Authorized Participant and/or relevant further financial intermediary must 
+make certain that it complies with all applicable laws and regulations in force in the respective jurisdictions. 
+In the event of an offer being made by the Authorized Participant and/or a further financial 
+intermediary, the Authorized Participant and/or the further financial intermediary shall provide 
+information to investors on the terms of the offer at the time of that offer. 
+The Authorized Participant and/or further financial intermediary using the Prospectus has to state 
+on its website that it uses the Prospectus in accordance with this consent and the conditions attached 
+thereto.
+
+--- Page 22 ---
+- 16 - 
+ 
+USE OF PROCEEDS AND REASONS FOR THE OFFER 
+The Token offerings under the Programme make use of ledger-based securities (i.e. securities in the form 
+of tokens on a distributed ledger or blockchain), which are designed to track the performance of specific 
+governmental or corporate debt serving as Underlying. Therefore, the Tokens are backed by the Underlying 
+at 100 per cent. of their aggregate principal amount.  
+The Issuer will use the proceeds of the offering (i) to refinance the prior purchase of the Underlying, (ii) to 
+pay the fees and costs of the service providers in connection with creating, launching, issuing, redeeming, 
+and providing all further services for the Tokens, and (iii) to finance its own existing and future business 
+activities. If, in respect of any particular Series of Tokens, there is a particular identified use of proceeds, 
+this will be stated in the applicable Final Terms.
+
+--- Page 23 ---
+- 17 - 
+ 
+GENERAL DESCRIPTION OF THE PROGRAMME 
+General 
+Under this Programme, the Issuer may from time to time issue Tokens to one or more Investors. The Tokens 
+are designed to track the performance of specific governmental or corporate debt serving as Underlying. 
+The Tokens are backed by the Underlying at 100 per cent. of their aggregate principal amount. Interest 
+payments which the Issuer receives on the Underlying for any outstanding Token are streamed to the 
+Investors less a margin (if and as specified in the relevant Final Terms). The Tokens will be redeemed by 
+payment of a cash amount or by physical delivery, if applicable. The redemption amount for the Tokens is 
+calculated based on the current market price of the Underlying fixed on a daily basis minus fees and 
+currency adjustments, if necessary. If applicable, Tokens can also be redeemed at the sole discretion of the 
+Holder by physical delivery of the Underlying and, where applicable, payment of an adjustment amount.  
+Such Tokenization of the Underlying has several major advantages compared to the use of the original 
+underlying security in a conventional form, such as certificated securities, uncertificated securities or book-
+entry securities. One major advantage is e.g. that ledger-based securities can be traded 24 hours per day, 7 
+days per week. Another advantage is that secondary markets for such ledger-based securities are inherently 
+global, as opposed to national markets where conventional securities are traded. A third advantage lies in 
+the direct control of the ledger-based security by the Investor, as it may be held in an unhosted respectively 
+non-custody wallet, which the Investor has exclusive access to. 
+The maximum aggregate principal amount of the Tokens at any time outstanding under the Programme is 
+unlimited. 
+The Issuer acquires the Underlying in the amount of 100 per cent. of the aggregate principal amount of the 
+Tokens and transfers the Underlying to the custody account with the Issuer’s custodian. Subsequently, the 
+Issuer generates the Tokens in its own interest. Subsequently, the Issuer in its capacity as Tokenizer creates 
+in its own interest Ledger-based Securities evidencing the Tokens (without activation) by referencing or 
+attaching the information contained in Terms and Conditions and Final Terms to the Ledger-based 
+Securities evidencing the Tokens. 
+Tokens may be issued to one or more Investors. Tokens may be distributed by way of public offerings and, 
+in each case, on a syndicated or non-syndicated basis. The method of distribution of each Series of Tokens 
+will be stated in the Final Terms. Tokens may be offered to non-qualified and/or qualified investors. 
+Tokens may be issued on a continuous basis in Series of Tokens, each Series of Tokens consisting of Tokens 
+which are identical in all commercial respects. One or more Series of Tokens, which are expressed to be 
+consolidated and forming a single series and identical in all respects, but having different issue dates and 
+issue prices may form a series ("Series") of Tokens. Further, Tokens may be issued by way of a tap issue 
+as part of existing Series. The specific terms of each Series of Tokens will be set forth in the Final Terms. 
+Tokens will be issued in such denominations and currencies as may be agreed between the Issuer and the 
+relevant Investor and as indicated in the Final Terms. Tokens may be issued at an issue price which is at 
+par or at a discount to, or premium over, par, as stated in the Final Terms. 
+Legal Structure of the Programme 
+Overview 
+The following parties and documents are part of the Programme:
+
+--- Page 24 ---
+- 18 - 
+ 
+ 
+Tokenizer 
+Mimo Capital AG will act as Tokenizer which provides tokenization services for the purpose of issuing 
+Tokens under the Programme. Tokenization means the legal linking of a (transferable) obligatory or real 
+legal position with a token, on the basis of which this legal position can be asserted and transferred 
+exclusively by the person entitled to the token over the distributed ledger/blockchain infrastructure. Tokens 
+can be described as data or information units stored in a smart contract distributed ledger serving as 
+securities ledger ("Securities Ledger"). 
+Under Liechtenstein law, tokenization of existing securities is being done by directly creating and issuing 
+ledger-based security tokens ("Ledger-based Securities" or "Registerwertrechte"). The Tokenizer will, 
+inter alia, provide the following services ("Tokenization Services"): 
+(a) 
+Mint the Tokens in the network as Ledger-based Securities in accordance with specifications 
+reflecting the commercial structure of the respective Series of Tokens to be issued under the 
+Programme as offered by the Issuer in the Prospectus and the respective Final Terms; 
+(b) 
+Safeguard the Tokens until required by the Authorized Participant, if applicable; 
+(c) 
+Deliver the Tokens when required and, if applicable, as instructed by the Authorized Participant, 
+to Investors; 
+(d) 
+Receive and cancel (“burn”) the Ledger-based Securities evidencing the Tokens in the register in 
+case of redemption, as required by the Issuer in its sole discretion; 
+(e) 
+Develop and deploy smart contracts on different supported blockchains as required for the purpose 
+of issuing and maintaining the Tokens; 
+(f) 
+Conduct security audits of blockchain smart contracts and provide transparency through 
+independent third parties such as auditors on the backing of the tokens by the relevant Underlying; 
+(g) 
+Provide ongoing support of the blockchain network used for the Tokens;
+
+--- Page 25 ---
+- 19 - 
+ 
+(h) 
+Design and develop a web platform and SDK for issuance and redemption procedures as well as 
+interfacing such web platform and app to the other service providers as required and described in 
+this Prospectus, as the case may be; 
+(i) 
+Design and develop an administration platform for the Issuer to overview the status of the 
+tokenized Underlyings; and 
+(j) 
+Monitor the Tokens on the blockchain. 
+Authorized Participant(s) Function 
+Authorized Participants may offer the Tokens to Investors, i.e. to Professional Investors and, if the 
+Issuer is restricted by applicable law in some jurisdictions, to Retail Investors. They may also act as 
+Market Makers by buying and selling Tokens from and to Investors on an OTC basis or through other 
+trading venues. However, Market Makers do not necessarily need to be Authorized Participants.  
+ 
+A person or legal entity qualifies only as an Authorized Participant ("Authorized Participant") if it is  
+(i) a credit institution authorised in accordance with Directive 2013/36/EU, (ii) an investment firm 
+pursuant to Art. 4 (1) Directive 2014/65/EU (MiFID II), (iii) an insurance undertakings or undertakings 
+carrying out the reinsurance and retrocession activities referred to in Directive 2009/138/EC, or (iv) a 
+non-EU institution being supervised in an equivalent manner, approved and engaged by the Issuer (in 
+its absolute sole discretion) for the offering of one or several Series of Tokens to Retail Investors and/or 
+Professional Investors. 
+ 
+An Authorized Participant must have entered into an Agreement with the Issuer, specifying the rights 
+and obligations of the Authorized Participant in the context of application and redemption of Tokens 
+("Authorized Participant Agreement"). 
+ 
+With reasonable efforts, the Issuer will ensure that at all times for the duration of an offering to Retail 
+Investors, there is at least one Authorized Participant, if required in the relevant offer jurisdiction. 
+ 
+If the relevant offer jurisdiction requires, only Authorized Participants will offer Tokens to Retail 
+Investors. The Tokens may be offered to Professional Investors by Authorized Participants or the Issuer. 
+ 
+The Investors may freely (re-)sell the Tokens in the secondary market to third parties or to Authorized 
+Participants in accordance with the Terms and Conditions. 
+ 
+For each Token, the Issuer will specify the respective Authorized Participant(s), if any, in the relevant 
+Final Terms. 
+ 
+Custodian(s) 
+The Custodian is a custodian bank of the Issuer which provides the accounts to which the Underlyings 
+are credited upon purchase by the Issuer. Further, the Custodian holds cash amounts and other assets 
+received by the Issuer in connection with the purchase and selling of the Underlyings and is responsible 
+for all matters in connection with actions in the Underlyings.  
+ 
+The Issuer may enter into agreements with the respective Custodian for the respective Token. 
+ 
+Bank Frick & Co. AG (“Bank Frick”), a custodian regularly used by the Issuer, is a company 
+incorporated under the laws of Liechtenstein with its business address in Landstrasse 14, 9496 Balzers, 
+Liechtenstein and licensed under the laws of Liechtenstein by FMA as a securities firm. Bank Frick 
+will be acting as Custodian for those Underlyings indicated by the respective Final Terms of the relevant 
+Tokens. The Issuer can also appoint other licensed parties for the role as Custodian for Tokens as 
+indicated in the Final Terms. 
+ 
+Custody of the Tokens purchased by the Investors is in the sole responsibility of the Investor. The Issuer
+
+--- Page 26 ---
+- 20 - 
+ 
+is not obliged to provide for a custody offering for the Investor. 
+ 
+In general, the Issuer and any Custodian shall enter into a Custody Agreement according to general 
+market standards for custody services ("Custody Agreement"). Such Custody Agreement shall set out 
+the principal terms on which the Custodian is appointed to act as Custodian in respect of the Tokens 
+issued under the Program and sets out the duties and obligations of the Custodian in relation to holding 
+all assets that the Issuer delivers to the Custodian in a separate account set up for the Issuer. The Custody 
+Agreement sets out the conditions for the appointment of the Custodian and termination of the 
+agreement (by either party to the agreement after giving prior written notice to the other party in written 
+form). 
+ 
+Any Custody Agreement applies, inter alia, to deposits and assets held in the securities account by the 
+Custodian. The Custodian shall provide for one main account for the Issuer with a sub-account for each 
+Underlying and Token. The Custodian will handle the deposited assets with the customary care and 
+diligence and is responsible on behalf of itself and its ancillary agents solely for direct losses and bears 
+no liability in any event for consequential, third-party or special losses. The Custodian is neither 
+allowed to do any securities lending nor any other proprietary transactions with the assets in the main 
+and sub-accounts at all time. Subject to other contractual agreements, applicable periods of notice and 
+mandatory statutory provisions, the Issuer may request that the deposited assets be surrendered or made 
+available to it at any time, whereby normal delivery periods and hours of business are to be observed. 
+The custodian shall have no right to assert any applicable rights of lien, retention or other rights to 
+retain. Deposits are generally affected for an unlimited period and will not expire in the event of loss 
+of capacity to act or bankruptcy on the part of the Issuer. The Custodian shall only be allowed to 
+delegate its duties under the agreement to any third-party with the prior written approval of the Issuer. 
+ 
+Broker 
+A broker is any regulated securities broker regarding brokerage services in connection with buying and 
+selling the Underlyings (a "Broker"). His role is to purchase and sell the Underlyings on the markets 
+on instruction of the Issuer. 
+ 
+Bank Frick will be acting as Broker for the Underlyings in respect of Tokens. The Issuer can also 
+appoint other licensed parties for the role as Broker for Underlyings of Tokens as indicated in the 
+relevant Final Terms (with the sole Issuer's discretion to appoint another party). 
+ 
+In general, the Issuer and any new Broker will enter into a market standard agreement regarding the 
+provision of paying account(s) ("Brokerage Agreement"). The Brokerage Agreement applies, inter 
+alia, to the purchase and sale of the Underlying(s) of the Tokens as well as FX conversion 
+transactions and other FX hedge transactions (defined within the agreement as "Brokerage 
+Transactions") by using the custody accounts and transactional accounts. Such brokerage 
+transactions are usually executed on an execution-only basis. In executing orders for the purchase 
+and sale of Underlyings and other assets, the Broker regularly acts as a commission agent or self-
+contracting party for the Issuer. The standard practices of the stock exchange and trading platform in 
+question and/or the regulations of the respective issuers and business partners apply. Payment in full 
+for executed brokerage transactions pursuant to the Brokerage Agreement is usually due on the date 
+indicated as settlement date on the execution confirmation. With regard to losses resulting from 
+failures or delays in executing instructions or orders (excluding stock exchange orders), the Broker 
+is solely responsible for the loss of interest, save for where the Broker was notified of the impending 
+risk of further losses in the specific individual case. In the case of stock exchange orders, the Broker 
+is not responsible for errors and omissions on the part of its agents. 
+ 
+Paying Account Provider Function 
+The role of the Paying Account Provider is to provide one or several Paying Accounts to the Issuer
+
+--- Page 27 ---
+- 21 - 
+ 
+in order to enable the Issuer to: 
+(a) 
+receive FIAT currency or any other currency in the discretion of the Issuer from Investors in the 
+event of an issuance of the Tokens as set out in the Terms and Conditions; 
+(b) 
+disburse FIAT currency or any other currency in the discretion of the Issuer to Investors in the 
+event of a redemption of the Tokens as set out in the Terms and Conditions; 
+(c) 
+hold cash balance in the period between the liquidation or sale, respectively, of the Underlying and 
+the return of the cash to Investors. 
+(together, the "Paying Account Provider Functions"). 
+ 
+Bank Frick & Co. AG, Landstrasse 14, 9496 Balzers is a company incorporated under the laws of 
+Liechtenstein and registered in the commercial register of Liechtenstein and licensed under the 
+Banking Act by the Financial Market Authority as a securities firm. Bank Frick & Co. AG will be 
+acting as Paying Account Provider for those Tokens indicated by the respective Final Terms. The Issuer 
+can also appoint other licensed parties as Paying Account Provider for Tokens as indicated in the Final 
+Terms. 
+ 
+In general, the Issuer and the respective Paying Account Provider will enter into a market standard 
+agreement regarding the provision of paying account(s) ("Paying Account Provider Agreement"). 
+The Paying Account Provider shall provide for one main account for the Issuer with sub-accounts for 
+different currencies and/or for each Series of Tokens as agreed between the parties. Such transactional 
+accounts are limited to services and assets in connection with the settlement of the securities trading. 
+ 
+Market Maker(s) 
+The Issuer has the right but no obligation to appoint Market Makers in their capacity as Stabilizing 
+Manager(s) for any Series of Tokens. The Market Maker provides market making services, including 
+bid and ask prices for the Tokens, next to adequate liquidity with regard to all Tokens of the relevant 
+Series. The respective Market Maker(s) for each Token (if any) is/are specified in the relevant Final 
+Terms (with the sole Issuer's discretion to appoint another party). In case the Issuer makes use of its 
+right to engage a Market Maker, it will enter into a customary Market Maker Agreement. 
+ 
+Summary of the Issue Procedures and Redemption Process 
+General 
+The issuance and redemption of Tokens is a continuous process and is intended to ensure that Tokens 
+have sufficient liquidity and that the price tracks the relevant Underlyings. Retail Investors may 
+subscribe via issuance through the Issuer or, if required in the respective jurisdiction, an Authorized 
+Participant and sell back their Tokens either via redemption through the Issuer or through selling the 
+Token to an Authorized Participant who will redeem it to the Issuer. Investors may subscribe via 
+issuance and sell back via redemption through the Issuer. 
+The Issuer and the relevant investor will agree on the terms and conditions applicable to each particular 
+Series of Tokens, which will be constituted by the relevant set of terms and conditions of the Tokens 
+set forth below (the "Terms and Conditions") as completed by the provisions of the Final Terms as 
+set out below. 
+ 
+The practical steps involved in the issuance of Tokens are as follows: 
+(a) 
+Investor requests a pricing indication for a specified Token from the Issuer and, if acceptable, 
+submits a request for proposal to Authorized Participant or Issuer. The Authorized Participant, if 
+any, forwards the request for proposal immediately to the Issuer.
+
+--- Page 28 ---
+- 22 - 
+ 
+(b) 
+The Investor has to pass KYC procedures, if necessary, to be conducted at the Issuer's sole 
+discretion. The Issuer has the right to reject any issuance request if there are negative findings or 
+other material issues with the issuance. 
+(c) 
+Issuer and Investor enter into the Registration Agreement.  
+(d) 
+Issuer acquires the Underlying in the amount equivalent to the aggregate principal amount of the 
+ordered Tokens (fractional Underlying is possible) and stores the Underlying in the custody 
+account kept by the Custodian. Subsequently, the Issuer generated the Tokens in its own interest. 
+The Issuer in its capacity as Tokenizer creates in its own interest Ledger-based Securities 
+evidencing the Tokens (without activation) by referencing or attaching the information contained 
+in the Terms and Conditions and the Final Terms to the Ledger-based Securities evidencing the 
+Tokens. 
+(e) 
+On the closing date, the Issuer transfers the Tokens until 5:00pm CEST at the latest to the wallet 
+specified by the Investor. 
+ 
+There are no creation limits on the Tokens assuming sufficient liquidity in the capital markets in which the 
+Underlying is purchased. 
+Redemption Process 
+If specified in the relevant Final Terms, each of the Issuer (“Issuer Call Option”) or the Investor (“Investor 
+Put Option”) has the right to terminate a Token (in whole or in part) at its sole discretion at any time in 
+accordance with the Terms and Conditions. 
+The practical steps involved in the redemption of Tokens are as follows: 
+Issuer Call Option 
+Investor Put Option 
+Issuer to submit to the Investor a termination 
+notice by email, publication on the Issuer’s 
+website or other means specified in § 10 (Notices) 
+of the T&Cs, specifying the series of Tokens 
+subject to redemption, the aggregate principal 
+amount of the Tokens to be redeemed and the Call 
+Redemption Date. 
+  
+Investor requests a (non-binding) price indication 
+as to the current conditions, including the 
+redemption amount for a specific Token, from the 
+Issuer. 
+Issuer to provide (non-binding) price indication to 
+Investor and, if applicable, requests from Investor 
+any information required by the Issuer to perform 
+its KYC procedure. 
+Once Issuer has received all required documents, 
+it performs KYC procedure in its discretion and 
+informs Investor about the results of such KYC 
+procedures, together with an updated (non-
+binding) pricing indication if the indicative pricing 
+changed. 
+If acceptable, Investor to submit to the Issuer a 
+notice by email, specifying the series of Tokens 
+subject to redemption, the aggregate principal 
+amount of the Tokens to be redeemed, the Put 
+Redemption Date, if specified in the relevant Final 
+Terms, whether the redemption shall be settled is 
+cash or by physical delivery and Investor’s account 
+details. 
+Investor to transfer the Tokens subject to redemption to the Issuer two Business Days prior to the Put 
+Redemption Date or Call Redemption Date, respectively. 
+On the Put Redemption Date or Call Redemption Date, respectively, the Issuer: 
+(i) 
+in its capacity as Tokenizer to burn the Token received by the Investor, as applicable;
+
+--- Page 29 ---
+- 23 - 
+ 
+(ii) 
+in case of a cash settlement, in its sole discretion opts to liquidate the Underlying in the 
+Underlying account relating to the Tokens in the same amount as the redeemed Tokens 
+or keep the Underlying in its own security accounts; 
+(iii) 
+in its capacity as Calculation Agent, calculates the (binding) redemption amount to be 
+paid out to the Investor or the Authorized Participant, and, in case of physical 
+settlement, the physical delivery amount and adjustment amounts, if any; 
+(iv) 
+in case of cash settlement, instructs the Paying Account Provider to pay the redemption 
+amount (i.e. the current market price of the Underlying fixed on a daily basis minus 
+fees and currency adjustments, if applicable) to the Investor or Authorized Participant 
+on the Put Redemption Date or Call Redemption Date, respectively 
+(v) 
+in case of physical settlement, instructs the Custodian to transfer Underlyings in the 
+physical delivery amount to the account of the Investor and instructs the Paying 
+Account Provider to pay any adjustment amount to the Investor or Authorized 
+Participant, both on the Put Redemption Date.
+
+--- Page 30 ---
+- 24 - 
+ 
+GENERAL DESCRIPTION OF THE TOKENS 
+General 
+Under this Programme, the Issuer may from time to time issue Tokens to one or more Investors. The 
+Tokens are designed to track the performance of specific governmental or corporate bonds serving as 
+Underlyings. Therefore, the Tokens are backed by the Underlying at 100 per cent. of their aggregate 
+principal amount.  
+Type and Class of the Offered Tokens 
+The Tokens offered by the Issuer to Investors are tokenized governmental or corporate bonds which 
+can be characterized as derivative financial instruments. 
+The Tokens evidence Investor’s rights in accordance with an agreement between the Issuer and the 
+Investor. They are being issued in the form of book-entry securities (Wertrechte) pursuant to § 81a of 
+the Liechtenstein Persons and Companies Act (PGR), and created by the Issuer by means of a 
+registration entry in a smart contract-based securities ledger (Securities Ledger). The Tokens may be 
+exercised and transferred freely to others only via entries in the Securities Ledger. The Securities 
+Ledger serves as the source of proof in relation to transfer records.  
+Tokens are primarily targeted at Investors that expect the value of the Underlying to increase. 
+Through the Tokens, Investors can participate in the performance of the Underlying. Furthermore, the 
+price movement of any Token offered reflects any price movement of the respective Underlyings nearly 
+1:1, whereby the entitlement of the Investors will be reduced and/or adjusted by fees or margins, as set 
+out in the relevant Final Terms. The resulting value will further be adjusted by the applicable fees of 
+third parties, tracking errors from foreign currency hedging and conversion ratios as the Underlying of 
+the Tokens are traded in a differing currency ("Underlying Currency"), which may not be the 
+Settlement Currency. Calculation Agent is responsible for calculating the redemption amount, the 
+physical delivery amount (if any) and any adjustment amount of the Tokens in accordance with the 
+Terms and Conditions. 
+The Tokens are open-ended. This means these Tokens do not have a predetermined fixed maturity date, 
+but can be terminated at the option of the Investor or the Issuer at any time, as specified in the relevant 
+Final Terms. 
+ 
+The international security identification number ("ISIN") for the respective Tokens will be indicated 
+in the respective Final Terms. In general, the securities offered are Ledger-based Securities. It describes 
+a right in accordance with an agreement between the parties which is registered in a distributed ledger 
+serving as securities ledger ("Securities Ledger") and may be exercised and transferred freely to others 
+only via this Securities Ledger. Thus, the securities are neither in certificated nor in book-entry form 
+but in tokenized form. 
+ 
+The Securities Ledger serves as the source of proof in relation to transfer records. The Issuer will 
+publish a link to the record of transaction for each Token on its Website: https://mcag.mimo.capital. 
+Legislation under which the Tokens have been created 
+The Tokens have been created under the laws of Liechtenstein. Therefore, the Tokens are governed by 
+and shall be construed in accordance with Liechtenstein law, without reference to principles of conflicts 
+of law rules.
+
+--- Page 31 ---
+- 25 - 
+ 
+Total Amount of the Offer 
+The total amount of the offer for a specific Series of Tokens will be specified in the relevant Final 
+Terms. 
+Issue Price of the Tokens 
+The Issue Price of the Tokens will be calculated (a) either as the sum of (i) the market price as indicated 
+by the bid price of the Underlying specified on a binding quotation received by email from the 
+Underlying Quotation Source at the relevant time (ii) the Issuance Fee (iii) and making currency 
+adjustments, if applicable, or (b) as the present value of the principal amount of the Tokens to be 
+redeemed plus expected interest payments under the Underlying less the margin, if any. The interest 
+rate used to determine this present value is the risk free market rate represented by the bund rate plus 
+a margin. 
+Currency 
+The currency of the securities offered by the Issuer will be specified in the respective Final Terms. 
+Relative Seniority of the Tokens in the Issuer's Capital Structure 
+The Tokens represent a senior unsecured, non-subordinated debt of the Issuer. The liabilities of the 
+Issuer under the Tokens shall rank in right and priority of payment at all times until the Tokens have 
+been fully redeemed senior to all current and future liabilities of the Issuer under any other bonds, loans, 
+guarantees and any other financial indebtedness. 
+Rights attached to the Tokens 
+The Tokens are designed to track the performance of specific governmental or corporate debt serving 
+as Underlying. The Tokens are backed by the Underlying at 100 per cent. of their aggregate principal 
+amount. Interest payments which the Issuer receives on the Underlying for any outstanding Token are 
+paid to the Investors less a margin (if any) within 5 Business Days upon reception of such amounts on 
+the accounts of the Issuer or on the redemption date of the Tokens, all as specified in the relevant Final 
+Terms.  
+The Tokens will be redeemed by payment of a cash amount or by physical delivery of the Underlying, 
+if specified in the relevant Final Terms. In case of cash settlement, the redemption amounts for the 
+Tokens are calculated based on the current market price of the Underlying fixed on a daily basis minus 
+fees and currency adjustments, if necessary. If specified in the relevant Final Terms, Tokens can also 
+be redeemed by physical delivery of the Underlying at the sole discretion of the Holder and, where 
+applicable, payment of an adjustment amount. Fractional delivery of the Underlying is excluded. 
+The 
+Issuer 
+and 
+each 
+Investor 
+in 
+Tokens 
+enter 
+into 
+a 
+Registration 
+Agreement 
+(Registrierungsvereinbarung) ("Registration Agreement") which sets out the terms relating to the 
+attributes of the Tokens as ledger-based securities, the effects, the rules of transfer and the process in 
+case of loss of such ledger-based securities. 
+Notably, Investors’ rights under the Tokens are no shareholder-like rights. Therefore, Tokens do not 
+grant any rights of attendance, dividend payments, other participation rights or voting rights at a general 
+assembly of the Issuer or any issuers of Underlyings or other entities. The management of the Issuer is 
+solely responsible for the actions of the Issuer.  
+The Investors do not have any dividend, voting, pre-emption rights in offers for subscription of the 
+Underlying or any right to share in the profits of an issuer of an Underlying, or any right in any surplus 
+in the event of liquidation, also relating to the Underlying.
+
+--- Page 32 ---
+- 26 - 
+ 
+The Investors in a Token are not entitled to any rights or claims to the Underlying aside from those 
+described in the Terms and Conditions. If not specified in the relevant Final terms, physical delivery 
+of the Underlyings is excluded and Investors' interests are settled in the relevant fiat currency and/or 
+Cryptocurrencies in the event of a redemption. 
+None of the Issuer, the Investors, the Custodian or the Paying Account Provider or any other person 
+shall at any time have the right to affect or demand the conversion of Tokens (as Ledger-based 
+Securities) into, or the delivery of, individually certificated securities ("Wertpapiere"). 
+Procedure for the Exercise of those Rights 
+The procedure for the Issuance and Redemption of the Tokens is further described in "General 
+Description of the Programme - Summary of Token Issuance and Redemption Process". 
+Restrictions on Transferability 
+While the Tokens are freely transferable in general, any transfer of Ledger-based Securities such as 
+the Tokens is subject to the Registration Agreement, TVTG, the rules of the Securities Ledger and 
+requires the transfer of the securities via the Ledger. 
+Any transfer of the entitlement to the securities other than by a transfer via the Securities Ledger is 
+prohibited. 
+The transferability of the securities by the Investors on the secondary market is not restricted. However, 
+Investors must comply with the Selling Restrictions specified in this Prospectus. 
+Tax Restrictions 
+The Investors shall be warned that tax legislation, rules and fiscal practice of the authorities of the 
+Investor's domicile, any member state of the EU/EEA and of the Issuer's country of incorporation may 
+have an adverse impact on the income received from the Tokens. 
+The tax treatment for each Investor depends on their specific tax situation. All Investors are advised to 
+consult with their professional tax advisors as to the respective Swiss and other jurisdictional tax 
+consequences of the purchase, ownership, disposition, lapse, exercise or redemption of securities (or 
+options embedded therein) in light of their particular circumstances. 
+According to clause "Taxation" of the Terms and Conditions, each Investor shall assume and be 
+responsible for any and all taxes, duties, fees and charges imposed on or levied against (or which could 
+be imposed on or levied against) such Investor in any jurisdiction or by any governmental or regulatory 
+authority.
+
+--- Page 33 ---
+- 27 - 
+ 
+GENERAL DESCRIPTION OF THE UNDERLYING 
+General 
+The Tokens are designed to track the performance of specific governmental or corporate bonds serving 
+as Underlyings. Therefore, the Tokens are backed by the Underlying at 100 per cent. of their aggregate 
+principal amount.  
+The Underlying for each Series of Tokens issued under this Programme are specified in the relevant 
+Final Terms, in particular the type and class of governmental or corporate bonds, the specified 
+currency, the legislation under which the Underlyings have been or will be created, the rights attached 
+to it, any applicable transfer restrictions, any admittances to trading respectively listings. The 
+respective Final Terms also contain an indication where information on the Underlying can be obtained 
+by electronic means and whether it can be obtained free of charge, including the ISIN, information on 
+past and future performance and the Underlying's volatility. Additionally, the Final Terms may define 
+(re-)sales restrictions deviating from this Prospectus, in particular because of regulatory requirements 
+for specific Underlyings or offer jurisdictions. 
+Debt securities as Underlying 
+According to Art. 4 para. 1 no. 44 MiFID II, transferable securities are among others bonds, including 
+governmental or corporate bonds. The specific Underlying, the name of its issuing entity as well as its 
+ISIN are described in the Final Terms. 
+If specified in the relevant Final Terms, the market price of the Underlying is specified in a binding 
+quotation received by email from the Underlying Quotation Source and determined by the Calculation 
+Agent at the relevant time, all as specified in the Terms and Conditions and the relevant Final Terms, 
+is exclusively relevant for the calculation of the value of the Underlying. 
+If specified in the relevant Final Terms, the fair value of the Underlying can be determined by the 
+Calculation Agent as the present value of the outstanding principal amount of the Tokens to be 
+redeemed plus the remaining Token Interest Payments to the maturity date of the Underlying. The 
+interest rate used to calculate this present value is the risk free market rate (here represented by the 
+bund rate) plus a margin. 
+Any interest payments of the Underlyings to the Issuer will be paid by the Issuer to Investors less as 
+margin within 5 Business Days upon reception of such amounts on the accounts of the Issuer or on the 
+redemption date of the Tokens, all if and as specified in the relevant Final Terms. 
+The market value of the Tokens depends on the performance of the Underlying. Therefore, Investors 
+may bear market risks similar to a direct investment in the relevant Underlying. The Underlying may 
+be subject to major fluctuations and unfavourable price developments of the Underlying, including to 
+a price close to zero in case of a default of the Underlying’s issuing entity. In such an event, Investors 
+in the Tokens may suffer a total loss of their investment. 
+Reference Sources 
+The Underlyings are usually traded on exchanges, purchased and sold by the Broker on instruction of 
+the Issuer. The market price of the Underlying will be determined by the Issuer based on a binding 
+quotation received by email from the Underlying Quotation Source (as specified in the Final Terms or 
+any substitute and/or successor of such Reference Sources). This will be determined as required by the 
+Calculation Agent and, as the case may be, published on its website. 
+If specified in the relevant Final Terms, the fair value of the Underlying can be determined by the 
+Calculation Agent as the present value of the outstanding principal amount of the Tokens to be 
+redeemed plus the remaining Token Interest Payments to the maturity date of the Underlying. The
+
+--- Page 34 ---
+- 28 - 
+ 
+interest rate used to calculate this present value is the risk free market rate (here represented by the 
+bund rate) plus a margin. 
+Description of any Market Disruption Event that Affect the Underlying 
+Generally, the reference price of the Underlyings as provided by the Reference Sources traded on an 
+exchange may be subject to significant volatility. Such price fluctuations can occur suddenly and may 
+even have severe effects (particularly, but not limited to gapping). As a consequence of technical or 
+other incidents, trading of the Underlying may be suspended for a short or long period of time. In this 
+case, it appears not to be possible to determine the reference price, liquidate positions and thus make 
+pay-outs. These circumstances may significantly delay the redemption of the Tokens or stand in the 
+way of successful settlement as such. 
+A Market Disruption Event describes in relation to a single Underlying, the occurrence or existence of 
+a suspension or a limitation on trading in or a limitation on the market price issued by Reference Sources 
+(but for the avoidance of doubt, not merely a limitation on the hours and number of days of trading 
+resulting from an announced change in the regular business hours of the relevant Underlying exchange) 
+for the Underlying so that the price or value of the Token cannot be determined, announced or published 
+or otherwise is not being made available on a Business Day relevant for the fixing, observation or 
+valuation of such Underlying as determined by the Issuer in its duly exercised discretion. 
+A business day means a day on which relevant clearing systems are open and securities can be settled, 
+relevant commercial banks and custodians are open, banks in Liechtenstein are open, foreign exchange 
+markets execute payments in the respective Settlement Currency and Underlyings of the relevant Token 
+can be settled, and/or any other day, as specified in the Final Terms ("Business Day"). In such a case, 
+it will be determined by the Issuer in its duly exercised discretion.
+
+--- Page 35 ---
+- 29 - 
+ 
+TERMS AND CONDITIONS OF THE TOKENS 
+The Terms and Conditions of the Tokens (the "Terms and Conditions") are set forth below. 
+The Issuer may issue Tokens under the Prospectus, linked to Underlyings providing exposure for 
+Investors to a range of governmental or corporate bonds. The following Terms and Conditions are 
+applicable to all Tokens issued under the Programme. The Terms and Conditions shall be completed 
+by and must be read in conjunction with the respective Final Terms belonging to the relevant Token. 
+In case of inconsistencies between the Terms and Conditions and the Final Terms, the Final Terms 
+shall prevail. 
+Capitalized terms in the Terms and Conditions not defined in this section will have the meaning set out 
+in the relevant Final Terms. Terms defined elsewhere in this Prospectus form an integral part of these 
+Terms and Conditions. A reference table of all defined terms is set out in the section "Definitions" of 
+this Prospectus. 
+The Investors are deemed to have read and taken notice of the provisions of these Terms and Conditions 
+and the Final Terms as well as the key elements of the Authorized Participant Agreement, the Custody 
+Agreement, the Brokerage Agreement, the Paying Account Provider Agreement and the Market Maker 
+Agreement (if any) as described in the Prospectus and the Final Terms. 
+§ 1 
+(CURRENCY, DENOMINATION, FORM) 
+(1) 
+Currency; Denomination. This Series of Tokens (the "Tokens") of Mimo Capital AG ("Mimo 
+Capital" or the "Issuer") is being issued in [Specified Currency] (the "Specified Currency") in 
+the aggregate principal amount of [Aggregate Principal Amount] (in words: [Aggregate 
+Principal Amount in words]) (the "Aggregate Principal Amount") in the denomination of 
+[Specified Denomination] (the "Specified Denomination"). 
+(2) 
+Form. The Tokens are being issued in the form of book-entry securities (Wertrechte) pursuant to 
+§ 81a of the Liechtenstein Persons and Companies Act (PGR), and created by the Issuer by means 
+of a registration entry in a smart contract-based securities ledger which is for the purpose of the 
+Tokens [Securities Ledger] (the “Securities Ledger”) serving as underlying system for the 
+ledger-based securities (“Ledger-based Securities”) evidencing the Tokens. None of the Issuer, 
+the Holders, the Custodian, the Paying Account Provider or any other person shall at any time 
+have the right to affect or demand the conversion of Tokens (as Ledger-based Securities) into, or 
+the delivery of, individually certificated securities ("Wertpapiere"). 
+(3) 
+Entitlement. The entitlement to the Tokens exclusively results from the entry in the Securities 
+Ledger. The Issuer recognizes and acknowledges the person having the power of disposal over the 
+Tokens reported by the Securities Ledger pursuant to Art. 5 and 8 of the Token and Trusted 
+Technology Service Provider Act (“TVTG”) of Liechtenstein (a “Holder”) as the person 
+exclusively entitled to claim and exercise any and all rights set out in these Terms and Conditions 
+which are represented by the Tokens (“Represented Rights”). Definitive notes and interest 
+coupons will not be issued. The Tokens are exclusively exercisable via the Securities Ledger and 
+are subject to the terms and conditions of the underlying distributed-ledger protocol (System).  
+(4) 
+Transfer and Disposal. The Tokens are transferable by (i) any action that technically transfers 
+the direct or indirect power of disposal over the ledger-based securities from one natural or legal 
+person to another in accordance with the terms and conditions of the underlying distributed-ledger 
+protocol (System), and (ii) complying with these Terms and Conditions. A disposal over the 
+Tokens shall result in a disposal over the Represented Rights. A competing disposal over the 
+Represented Rights is excluded.
+
+--- Page 36 ---
+- 30 - 
+ 
+§ 2 
+(TOKENIZATION) 
+(1) 
+Tokenization. The smart contract(s) representing the Securities Ledger have the following 
+functionalities: 
+minting: ability to create new or additional ledger-based securities 
+burning: ability to destroy ledger-based securities by erasing a balance and reducing the 
+supply when the Token is within the Issuer's wallet 
+pausing: ability to stop all transfers of tokens 
+ 
+The Issuer in its capacity as tokenizer (“Tokenizer”) shall exclusively execute: 
+(a) 
+The minting function in accordance with § 2 (Tokenization) of the Terms and Conditions; 
+(b) 
+the burning function only with regard to Ledger-based Securities held by itself; 
+(c) 
+the pausing function, if practicable. 
+(2)  
+Pause. The Issuer in its capacity as Tokenizer may pause all transactions related to the Ledger-
+based Securities in case of any technological change, discovery of a vulnerability, or hack 
+attempts, to ensure the functionality of the Securities Ledger (e.g. in case of a hard fork); such 
+pause is limited to the time reasonably required to fulfill its purpose. 
+ 
+§ 3 
+(STATUS) 
+The Tokens represent a senior unsecured, non-subordinated debt of the Issuer. The liabilities of the 
+Issuer under the Tokens shall rank in right and priority of payment at all times until the Tokens 
+have been fully redeemed senior to all current and future liabilities of the Issuer under any other 
+bonds, loans, guarantees and any other financial indebtedness. 
+§ 4 
+(UNDERLYING INTEREST PAYMENTS) 
+(1) 
+Underlying Interest Payments. If specified in the relevant Final Terms, the Issuer shall pay to 
+the Holder the interest amount paid on the Underlying (“Underlying Interest Amount”) less a 
+margin of [Margin] (the “Token Interest Amount”) on the Interest Payment Date.  
+“Interest Payment Date” means, the date falling five (5) Business Days after the date on which 
+the Issuer has received the Underlying Interest Amount, provided that if the relevant Final Terms 
+specify [Interest Deferral] as applicable, Interest Payment Date means the earlier of the Call 
+Redemption Date or Put Redemption Date, each as defined in §7 (Redemption), it being 
+understood that no interest shall accrue on any outstanding Token Interest Amounts until such 
+redemption date. 
+(2) 
+Interest Floor. If the Underlying bears a negative interest (i.e. the Issuer would have to pay 
+negative interest on the Underlying without compensation), the Token Interest Amount is null.  
+§ 5 
+(PAYMENTS) 
+(1) 
+Manner of Payment. Subject to applicable fiscal and other laws and regulations, payments of 
+amounts due in respect of the Tokens shall be made in [Settlement Currency] or any agreed form 
+of fiat or cryptocurrencies. 
+(2) 
+Discharge. The Issuer shall be discharged by payment to, or to the order of, the Holder.
+
+--- Page 37 ---
+- 31 - 
+ 
+(3) 
+Payment Business Day. If the date for payment of any amount in respect of any Tokens is not a 
+Payment Business Day then the Holder shall not be entitled to payment until the next such day in 
+the relevant place and shall not be entitled to further interest or other payment in respect of such 
+delay. 
+For these purposes, "Payment Business Day" means any day which is 
+[In the case the Notes are not denominated in Euro the following applies: a day (other than a 
+Saturday or a Sunday) on which commercial banks and foreign exchange markets settle payments 
+in [relevant financial center(s)][.][and]] 
+[In the case TARGET2 shall be open the following applies: a day (other than a Saturday or a 
+Sunday) on which all relevant parts of the Trans European Automated Real time Gross Settlement 
+Express Transfer payment system (TARGET2) are operational to forward the relevant payment]. 
+§ 6 
+(UNDERLYING) 
+The Tokens are backed by an underlying debt security (the “Underlying”) at 100% of their 
+Aggregate Principal Amount. The Underlying is issued by [Issuer of Underlying] with ISIN 
+[ISIN of Underlying], issued in [Specified Currency of Underlying] the current price of which 
+is available from the Underlying Quotation Source (as defined in § 7 (Redemption) below). Any 
+Underlying will be held and administered by the Issuer on one or several separate custody accounts 
+for each Underlying held with the Custodian in accordance with the Custody Agreement.  
+§ 7 
+(REDEMPTION) 
+(1) 
+No Final Maturity. Unless previously redeemed in whole or in part or purchased and cancelled, 
+the Tokens are perpetual (open ended) and have no final maturity date. In case of a redemption of 
+the Underlying, the Tokens will remain until fully redeemed or purchased and burnt.  
+ (2) 
+Redemption at the Option of the Issuer (Issuer Call). If specified in the relevant Final Terms, 
+the Issuer may in its sole discretion and upon notice given in accordance with this provision, at 
+any time repay all or some of the Tokens at the redemption date specified in the notice (the "Call 
+Redemption Date") at the Redemption Amount (as defined below) without any accrued interest 
+thereon. Notice of redemption shall be given by the Issuer to the Holders in accordance with § 10 
+(Notices). Such notice shall specify: 
+(a) 
+the series of Tokens subject to redemption; 
+(b) 
+whether such series is to be redeemed in whole or in part only and, if in part only, the 
+aggregate principal amount of the Tokens which are to be redeemed; and 
+(c) 
+the Call Redemption Date, which shall be not less than [Minimum Notice to Holders] 
+nor more than [Maximum Notice to Holders] days after the date on which notice is given 
+by the Issuer to the Holders. 
+In the case of a partial redemption, Tokens to be redeemed shall be selected in accordance with the 
+rules of the relevant Securities Ledger. 
+ (3) 
+Redemption at the Option of the Holder (Investor Put). If specified in the relevant Final Terms 
+and subject to the Issuer’s KYC approval of the Holder, the Holder may on its sole discretion and 
+upon notice given in accordance with this provision, at any time request redemption of all or some 
+of the Tokens held by it at the redemption date specified in the notice (the "Put Redemption 
+Date") by:  
+(a) 
+cash payment at the Redemption Amount (as defined below) without any accrued interest; 
+or
+
+--- Page 38 ---
+- 32 - 
+ 
+(b) 
+if specified in the relevant Final Terms, at the sole discretion of the Holder, physical 
+delivery of the Underlying in the Physical Delivery Amount. and, where applicable, 
+payment of Adjustment Cash Amount. Fractional delivery of the Underlying is excluded. 
+“Physical Delivery Amount” means the Redemption Amount (as defined below) without 
+any accrued interest, rounded down to the next whole deliverable unit of the Underlying, 
+as determined by the Calculation Agent. 
+“Adjustment Cash Amount” means the Redemption Amount (as defined below) less the 
+Physical Delivery Amount, as determined by the Calculation Agent. 
+Notice of redemption shall be given by the Holder to the Issuer in accordance with § 10 (Notices). 
+Such notice shall specify: 
+(a) 
+the series of Tokens subject to redemption; 
+(b) 
+the aggregate principal amount of the Tokens which are to be redeemed; 
+(c) 
+the Put Redemption Date, which shall be not less than [Minimum Notice to Issuer] nor 
+more than [Maximum Notice to Issuer] days after the date on which notice is given by 
+the Holder to the Issuer; 
+(d) 
+any information that the Issuer requires from the Holder for its KYC procedures; and 
+(e) 
+if specified in the relevant Final Terms, whether the redemption shall be settled in cash or 
+by physical delivery; and 
+(f) 
+the details of Holder’s accounts to which settlement shall be made 
+In the case of a partial redemption, Tokens to be redeemed shall be selected in accordance with the 
+rules of the relevant Securities Ledger. It is understood that the redemption at the Option of the 
+Holder on the Put Redemption Date shall be effective only in case of a positive KYC procedure, 
+i.e. in case of KYC findings by the Issuer the Holder’s redemption is not effective. 
+(4) 
+Early Redemption for Reasons of Taxation. If specified in the relevant Final Terms and if as a 
+result of any change in, or amendment to, the laws or regulations of Liechtenstein (or in the event 
+the Issuer becoming subject to another tax jurisdiction pursuant to § 8 (Taxation), the laws or 
+regulations of such other tax jurisdiction) affecting taxation or the obligation to pay duties of any 
+kind, or any change in, or amendment to, an official interpretation or application of such laws or 
+regulations, which amendment or change becomes effective on or after the issue date of the 
+Tokens, the Issuer is required to pay additional amounts on the next succeeding date on which 
+Token Interest Payments pursuant to § 4 (Underlying Interest Payments) fall due, and this 
+obligation cannot be avoided by measures available to the Issuer which are, in the judgement of 
+the Issuer, in each case taking into account the interests of Holders, reasonable, the Tokens may 
+be redeemed, in whole but not in part, at the option of the Issuer, at any time upon not more than 
+45 days' nor less than 30 days' prior notice of redemption given to the Holder in accordance with 
+§ 10 (Notices), on the redemption date (the "Call Redemption Date") at the Redemption Amount 
+without interest accrued. 
+(5) 
+Early Redemption for Regulatory Reasons. If specified in the relevant Final Terms and if the 
+Issuer is notified in writing by any authority competent under the laws or regulations of 
+Liechtenstein to the effect that the Tokens are not, or cease to be, in full compliance with applicable 
+law, the Tokens may be redeemed, in whole but not in part, at the option of the Issuer, at any time 
+upon not more than 45 days' nor less than 30 days' prior notice of redemption given to the Holder 
+in accordance with § 10 (Notices), on the redemption date (the "Call Redemption Date") at the 
+Redemption Amount without interest accrued 
+(6) 
+Redemption Amount. The amount payable to the Holder upon redemption in accordance with 
+this section shall, in case [Valuation Method] as specified in the relevant Final Terms is set to 
+‘Market based Quotation’, the Market Price, or in case [Valuation Method] as specified in the 
+relevant Final Terms is set to ‘Model based Quotation’, the Model Based Price, on the date falling 
+two Business Days prior to the Redemption Date less fees of [Fees] plus any unpaid Token Interest
+
+--- Page 39 ---
+- 33 - 
+ 
+Amounts which are due pursuant to § 4 (Underlying Interest Payments), all as determined by the 
+Calculation Agent. 
+“Redemption Date” means the Call Redemption Date (in case of an Issuer Call) or Put 
+Redemption Date (in case of an Investor Put). 
+“Market Price” means the bid price of the Underlying as specified on a binding quotation from 
+the Underlying Quotation Source at around [Relevant Time] on the relevant date. 
+ 
+“Underlying Quotation Source” means [Underlying Quotation Source] as specified in the 
+relevant Final Terms or any alternative quotation source which offers a bid price of the Underlying 
+which is more favourable to the Holder, as selected by the Calculation Agent in its equitable 
+discretion. 
+(a) 
+If the Underlying Quotation Source is not available or does not provide any quotation for 
+the Underlying at the relevant time, the Underlying Quotation Source shall be (for the 
+purpose of the determination of the Redemption Amount at the relevant time only) a credit 
+institution of recognized standing, selected by the Calculation Agent in its equitable 
+discretion, taking into account reasonable interests of the Holders. (“Alternative 
+Quotation Source”)  
+(b) 
+If neither the Underlying Quotation Source nor the Alternative Quotation Source is 
+available or does not provide any quotation for the Underlying at the relevant time, the 
+Issuer shall sell the Underlying in an arms-length transaction and the Calculation Agent 
+shall determine the Redemption Amount based on the actual purchase price received for 
+the Underlying. 
+It is understood that in case of a redemption or maturity of the Underlying, the Tokens will remain 
+until fully redeemed or purchased and cancelled. In that case, the Redemption Amount will be 
+determined by the Calculation Agent based on the last available quotation for the Underlying as of 
+its redemption or maturity date of the Underlying (“Last Quotation”) received from the 
+Underlying Quotation Source or Alternative Quotation Source, as the case may be, or, if no such 
+Last Quotation is available from these sources, the Calculation Agent shall determine the Last 
+Quotation in its equitable discretion. 
+“Model Based Price” means the amount calculated by the Calculation Agent by discounting to 
+the Redemption Date the sum of the principal amount of the relevant Tokens to be redeemed and 
+the remaining Token Interest Payments to the maturity date of the Underlying on an annual basis, 
+assuming a 365-day year or a 366-day year, as the case may be, and the actual number of days 
+elapsed in such year and using the Reference Rate plus 30 basis points. 
+“Reference Rate” shall be the yield to maturity at the Redemption Date of a direct obligation of 
+the Federal Republic of Germany (Bund or Bundesanleihen) with a constant maturity (as officially 
+compiled and published in the most recent financial statistics that have become publicly available 
+at least two Business Days (but not more than five Business Days) prior to the Redemption Date 
+(or, if such financial statistics are not so published or available, any publicly available source of 
+similar market data)) most nearly equal to the period from the relevant Redemption Date to the 
+maturity date of the Underlying; provided, however, that if the period from the relevant 
+Redemption Date to the maturity date of the Underlying is not equal to the constant maturity of the 
+direct obligation of the Federal Republic of Germany for which a weekly average yield is given, 
+the Bund Rate shall be obtained by linear interpolation (calculated to the nearest one-twelfth of a 
+year) from the weekly average yields of a direct obligation of the Federal Republic of Germany for 
+which such yields are given, except that if the period from the relevant Redemption Date to the 
+maturity date of the Underlying is less than one year, the weekly average yield on an actually traded 
+direct obligation of the Federal Republic of Germany adjusted to a constant maturity of one year 
+shall be used.
+
+--- Page 40 ---
+- 34 - 
+ 
+§ 8 
+(TAXATION) 
+All payments made by the Issuer in respect of the Tokens to the Holders shall be made free and clear of, 
+and without withholding or deduction for, any present or future taxes or duties of whatever nature, unless 
+such deduction or withholding is required by Liechtenstein law. In this case, the Issuer shall make the 
+appropriate deductions and pay the amounts deducted to the relevant authorities with discharging effect vis-
+à-vis the Holders. 
+ 
+§ 9 
+(FURTHER ISSUES, PURCHASES AND BURNING) 
+(1) 
+Further Issues. The Issuer may from time to time, without the consent of the Holders, issue further 
+Tokens of the same series having the same terms and conditions as the Tokens in all respects so 
+as to form a single Series with the Tokens. 
+(2) 
+Purchases. The Issuer may at any time purchase Tokens in the open market or otherwise and at 
+any price. Tokens purchased by the Issuer may, at the option of the Issuer, be held, resold or 
+surrendered for cancellation. If purchases are made by tender, tenders for such Tokens must be 
+made available to all Holders of such Tokens alike. 
+(3) 
+Burning. All Tokens redeemed in full shall be burnt forthwith and may not be reissued or resold. 
+ 
+§ 10 
+(NOTICES) 
+(1) 
+Notices of the Issuer. All notices of the Issuer to the Holders concerning the Tokens will be made, 
+on the sole discretion of the Issuer, by means of electronic publication on the website of the Issuer 
+(https://mcag.mimo.capital) or on the website of any trading venue on which the relevant Tokens 
+are traded or by email directly to the Holder or by entry in the Securities Ledger relating to the 
+Tokens. Any notice will be deemed to have been validly given to Holders on the third day 
+following the date of such publication (or, if published more than once, on the third day following 
+the date of the first such publication). 
+(2) 
+Notice of Holders. All notices of Holders to the Issuer concerning the Tokens will be made by 
+means of electronic mail (email) to the following email address: tokenization@mimo.capital. Any 
+notice will be deemed to have been validly given to the Issuer on the third day following the date 
+of such notice transfer (or, if published more than once, on the third day following the date of the 
+first such notice transfer). 
+ 
+§ 11 
+(MARKET EVENTS) 
+(1) 
+Market Disruption Event. If the Issuer, in its discretion determines that a Market Disruption 
+Event has occurred and is continuing on a Business Day relevant for the fixing, observation or 
+valuation of the relevant Underlying in the case of a single Underlying or components of an 
+Underlying then the respective Business Day relevant for the fixing, observation or valuation of 
+the relevant Underlying shall be postponed until the next following Business Day on which there 
+is no such Market Disruption Event. 
+If, in the sole opinion of the Issuer, a Market Disruption Event is continuing, then (i) the Business 
+Day relevant for the fixing, observation or valuation and (ii) the value for that Underlying for such 
+date shall be determined by the Issuer, in its duly exercised discretion and in accordance with 
+established market practice, it being understood that for relevant Underlyings that are not affected 
+by the Market Disruption Event the Business Day relevant for the fixing, observation or valuation 
+of the Underlying shall continue to be the originally designated date.
+
+--- Page 41 ---
+- 35 - 
+ 
+A “Market Disruption Event” means a suspension or a limitation on trading in the Underlying 
+(but for the avoidance of doubt, not merely a limitation on the hours and number of days of trading 
+resulting from an announced change in the regular business hours of the relevant Underlying 
+exchange) so that the price or value of the Token cannot be adequately determined, announced or 
+published or otherwise is not being made available on a Business Day relevant for the fixing, 
+observation or valuation of such Underlying as determined by the Issuer in its duly exercised 
+discretion. 
+(2) 
+Underlying illiquidity. Upon the occurrence of Underlying Illiquidity, 
+(a) 
+if the Issuer is unable to purchase the Underlying within the specified or reasonable 
+timeframe in connection with the issuance of Tokens, the Issuer cancels the purchase order 
+and transfers back the purchase price to the Investor; 
+(b) 
+if the Issuer is unable to sell/liquidate the Underlying in the same amount as the redeemed 
+Tokens within the specified timeframe in connection with the redemption, the Calculation 
+Agent may (re)calculate the relevant Redemption Amount based on the actual execution 
+price (less transaction costs) as it was obtained on a best effort basis, as determined by the 
+Issuer, instead of using the originally predefined fixing or value of the Underlying as 
+specified by the Underlying Quotation Source.  
+The Calculation Agent may postpone the determination (fixing) and/or the payment of the relevant 
+redemption amount accordingly by such number of Business Days necessary to account for such 
+prevailing market conditions as determined by the Issuer. 
+“Underlying Illiquidity” means, in respect of any Underlying, low or no trading volume in the 
+Underlying, the difficulty to buy and/or sell the Underlying or Underlying Components in a short 
+period of time without its price being affected, or any comparable event that leads to an 
+extraordinary illiquidity in any Underlying, as determined by the Issuer in its sole discretion. 
+(3) 
+Fork Event. Upon the occurrence of a Fork Event, the Issuer, in its sole discretion, will determine 
+whether or not to participate in the Fork and which of the Fork's two resulting chains would be 
+recognized, or if a different platform/protocol/blockchain for such purpose shall be used. 
+The Issuer is not obliged to assess every Fork or event resulting in a Fork or to notify the Holder 
+of any Fork or event resulting in a Fork. 
+A “Fork Event” means an event in which an interlinked chain of blocks relating to a Securities 
+Ledger is, at a certain block onwards, followed by two or more parallel and non-identical blocks, 
+each generating a separated continuum of the original blockchain, possibly becoming the dominant 
+version and thus obliviating all transactions recorded on the other possible chains. 
+ 
+§ 12 
+(AGENTS) 
+(1) 
+Appointment; Specified Office. The initial Paying Account Provider and the Calculation Agent 
+and its initial specified office shall be: 
+Paying Account Provider 
+[Paying Account Provider] 
+ 
+Calculation Agent 
+[Calculation Agent] 
+ 
+The Paying Account Provider and the Calculation Agent (each, an “Agent”) reserve the right at 
+any time to change their respective specified offices to some other specified office in the same city. 
+(2) 
+Variation or Termination of Appointment. The Issuer reserves the right at any time to vary or 
+terminate the appointment of an Agent and to appoint a successor Agent. The Issuer shall at all 
+times maintain each of the Agents in an EEA member state. Any variation, termination,
+
+--- Page 42 ---
+- 36 - 
+ 
+appointment or change shall only take effect (other than in the case of insolvency, when it shall be 
+of immediate effect) after not less than 30 nor more than 45 days' prior notice thereof shall have 
+been given to the Holders in accordance with § 10 (Notices). 
+(3) 
+Agent of the Issuer. The Paying Account Provider and the Calculation Agent act solely as the 
+agents of the Issuer and do not assume any obligations towards or relationship of agency or trust 
+for any Holder. It is understood, that the Issuer can act as Calculation Agent, if specified in the 
+respective Final Terms. 
+(4) 
+Determinations of the Issuer. The Issuer will carry out all calculation and determination services 
+which are not specifically assigned to the Calculation Agent. With regard to these services, the 
+Issuer does not act as agent for the Holder and does not assume any obligation or duty to, or any 
+relationship of agency or trust for or with, the Holder. All calculations, decisions and 
+determinations made by the Issuer shall (save in the case of manifest error or wilful misconduct) 
+be final and binding on the Holders and the additional services providers described in the 
+Prospectus and the Final Terms. 
+ 
+§ 13 
+(EVENTS OF DEFAULT) 
+(1) 
+Events of Default. Each Holder shall be entitled to declare due and payable by notice to the Issuer 
+in accordance with § 10 (Notices) its entire claims arising from the Tokens and demand immediate 
+redemption thereof at the Redemption Amount, without accrued interest, in the event that: 
+(a) 
+the Issuer fails to pay any amounts due under the Tokens within 30 days from the relevant 
+due date, or 
+(b) 
+the Issuer fails to duly perform any other material obligation arising from the Tokens and 
+such failure continues unremedied for more than 30 days after the Issuer has received a 
+request thereof in the manner set forth in § 10 (Notices) from a Holder to perform such 
+obligation; or 
+(c) 
+the Issuer announces its inability to meet its financial obligations or ceases its payments 
+generally; or 
+(d) 
+a court opens insolvency proceedings against the Issuer and such proceedings are 
+instituted and have not been discharged or stayed within 90 days, or the Issuer applies for 
+or institutes such proceedings; or 
+(e) 
+the Issuer enters into liquidation unless this is done in connection with a merger 
+(Verschmelzung) or other form of transformation (Umwandlung) or other form of 
+combination with another company and such company assumes all obligations contracted 
+by the Issuer in connection with the Tokens; or 
+(f) 
+any governmental order, decree or enactment shall be made in or by Liechtenstein 
+whereby the Issuer is prevented from observing and performing in full its obligations as 
+set forth in these Terms and Conditions and this situation is not cured within 90 days. 
+(2) 
+No Termination. The right to declare Tokens due shall terminate if the situation giving rise to it 
+has been cured before the right is exercised. 
+(3) 
+Quorum. In the events specified in subparagraph (1) (d), any notice declaring Tokens due shall, 
+unless at the time such notice is received any of the events specified in subparagraph (1) (a), (b) 
+and (d) through (f) entitling Holders to declare their Tokens due has occurred, become effective 
+only when the Issuer has received such default notices from the Holders representing at least 25 
+per cent. of the aggregate principal amount of Tokens then outstanding.
+
+--- Page 43 ---
+- 37 - 
+ 
+§ 14 
+(SUBSTITUTION) 
+(1) 
+Substitution. The Issuer (reference to which shall always include any previous Substitute Debtor 
+(as defined below)) may, at any time, if no payment on any of the Tokens is in default, without 
+the consent of the Holders, substitute for the Issuer any affiliate of the Issuer as the principal debtor 
+in respect of all obligations arising from or in connection with the Tokens (any such company, the 
+"Substitute Debtor"), provided that: 
+(a) 
+the Substitute Debtor assumes all obligations of the Issuer in respect of the Tokens; 
+(b) 
+the Substitute Debtor has obtained all necessary authorisations and may transfer to the 
+Holders in the Specified Currency without being obligated to deduct or withhold any taxes 
+or other duties of whatever nature levied by the country in which the Substitute Debtor or 
+the Issuer has its domicile or tax residence, all amounts required for the fulfilment of the 
+payment obligations arising under the Tokens; 
+(c) 
+the Substitute Debtor has agreed to hold harmless each Holder against any withholding 
+tax, duty, assessment or governmental charge imposed on such Holder in respect of such 
+substitution except as specified in §7 (Taxation); 
+(d) 
+the Substitute Debtor entered into the Security Agency Agreement; and 
+(e) 
+there shall have been delivered to the Fiscal Agent one opinion for each jurisdiction 
+affected of lawyers of recognized standing to the effect that subparagraphs (a) through (d) 
+above have been satisfied. 
+ (2) 
+Discharge from Obligations. References. Upon a substitution in accordance with this § 13 
+(Substitution), the Substitute Debtor shall be deemed to be named in the Tokens as the principal 
+debtor in place of the Issuer as issuer and the Tokens shall thereupon be deemed to be amended to 
+give effect to the substitution including that the relevant jurisdiction in relation to the Issuer in § 
+7 (Taxation) shall be the Substitute Debtor's country of domicile for tax purposes. Any such 
+substitution, together with the notice referred to in subparagraph (3) below, shall, in the case of 
+the substitution of any other company as principal debtor, operate to release the Issuer as issuer 
+from all of its obligations as principal debtor in respect of the Tokens. 
+(3) 
+Notification to Holders. Not later than 15 Payment Business Days after effecting the substitution, 
+the Substitute Debtor shall give notice thereof to the Holders in accordance with § 10 (Notices) 
+and to any other person or authority as required by applicable laws or regulations. 
+ 
+§ 15 
+(APPLICABLE LAW, PLACE OF JURISDICTION AND ENFORCEMENT) 
+(1) 
+Applicable Law. The Tokens, as to form and content, and all rights and obligations of the Holders 
+and the Issuer, shall be governed in every respect by Liechtenstein law. 
+(2) 
+Submission to Jurisdiction. The Court of Justice (Fürstliches Landgericht) in Liechtenstein shall 
+have non- exclusive jurisdiction for any action or other legal proceedings ("Proceedings") arising 
+out of or in connection with the Tokens. 
+§ 16 
+(LANGUAGE) 
+These Terms and Conditions are written in the English language only.
+
+--- Page 44 ---
+- 38 - 
+ 
+FORM OF FINAL TERMS 
+[MiFID II PRODUCT GOVERNANCE / [PROFESSIONAL INVESTORS AND ELIGIBLE 
+COUNTERPARTIES ONLY TARGET MARKET] [RETAIL INVESTORS TARGET MARKET] – 
+Solely for the purposes of [the/each] manufacturer's product approval process, the target market assessment 
+in respect of the Tokens has led to the conclusion that: (i) the target market for the Tokens is eligible 
+counterparties[,] [and] professional clients [and retail clients], each as defined in Directive 2014/65/EU (as 
+amended, "MiFID II"); and (ii) all channels for distribution of the Tokens are appropriate [including 
+investment advice, portfolio management, non-advised sales and pure execution services]. [Consider any 
+negative target market] Any person subsequently offering, selling or recommending the Tokens (a 
+"distributor") should take into consideration the manufacturer['s/s'] target market assessment; however, a 
+distributor subject to MiFID II is responsible for undertaking its own target market assessment in respect 
+of the Tokens (by either adopting or refining the manufacturer['s/s'] target market assessment) and 
+determining appropriate distribution channels[, subject to the distributor's suitability and appropriateness 
+obligations under MiFID II, as applicable].]]  
+ 
+[[PROHIBITION OF SALES TO EEA RETAIL INVESTORS – The Tokens are not intended to be 
+offered, sold or otherwise made available to and should not be offered, sold or otherwise made available to 
+any retail investor in the European Economic Area ("EEA"). For these purposes, a retail investor means a 
+person who is one (or more) of: (i) a retail client as defined in point (11) of Article 4(1) of MiFID II; (ii) a 
+customer within the meaning of Directive 2016/97/EU as amended ("IDD"), where that customer would 
+not qualify as a professional client as defined in point (10) of Article 4(1) of MiFID II; or (iii) not a qualified 
+investor as defined in Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 
+June 2017 (as amended, the "Prospectus Regulation"). Consequently, no key information document 
+required by Regulation (EU) 1286/2014 (the "PRIIPs Regulation") for offering or selling the Tokens or 
+otherwise making them available to retail investors in the EEA has been prepared and therefore offering or 
+selling the Tokens or otherwise making them available to any retail investor in the EEA may be unlawful 
+under the PRIIPs Regulation.]] 1 
+ 
+PROHIBITION OF SALES TO UK RETAIL INVESTORS - Unless the Final Terms in respect of any 
+Series of the Tokens specify "Prohibition of Sales to UK Retail Investors" as "Not Applicable", the Tokens 
+are not intended to be offered, sold or otherwise made available to, and should not be offered, sold or 
+otherwise made available to, any retail investor in the United Kingdom.  
+For these purposes, a retail investor means a person who is one (or more) of the following:  
+● 
+a retail client, as defined in point (8) of Article 2 of Regulation (EU) No 2017/565 as it 
+forms part of domestic law by virtue of the EUWA;  
+● 
+a customer within the meaning of the provisions of the FSMA and any rules or regulations 
+made under the FSMA to implement Directive (EU) 2016/97, where that customer would 
+not qualify as a professional client, as defined in point (8) of Article 2(1) of Regulation 
+(EU) No 600/2014 as it forms part of “retained EU law” by virtue of the EUWA;  
+● 
+not a qualified investor as defined in Article 2 of Regulation (EU) 2017/1129 as it forms 
+part of “retained EU law” by virtue of the EUWA and regulations made thereunder (the 
+"UK Prospectus Regulation").  
+Consequently, no key information document required by Regulation (EU) No 1286/2014 as it forms part 
+of domestic law by virtue of the EUWA (the "UK PRIIPs Regulation") for offering or selling the Tokens 
+or otherwise making them available to retail investors in the United Kingdom has been prepared and 
+therefore offering or selling the Tokens or otherwise making them available to any retail investor in the 
+United Kingdom may be unlawful under the UK PRIIPs Regulation. 
+Notwithstanding the above paragraph, in the case where the Final Terms in respect of any Series of the 
+Tokens include a legend entitled "Prohibition of Sales to UK Retail Investors" but where the Issuer 
+subsequently prepares and publishes a key information document under the UK PRIIPs Regulation in 
+respect of such Tokens, then following such publication, the prohibition on the offering, sale or otherwise 
+                                                          
+1 
+To be included in case "Prohibition of Sales to Retails Investors in the EEA" is selected to be "applicable" in Part II. A of the 
+Final Terms.
+
+--- Page 45 ---
+- 39 - 
+ 
+making available the Tokens to a retail investor in the United Kingdom as described in the above paragraph 
+and in such legend shall no longer apply. 
+ 
+[Date] 
+FINAL TERMS 
+Mimo Capital AG 
+[Title of relevant Series of Tokens] 
+Series: [●], Tranche [●] 
+issued pursuant to the 
+Token Issuance Programme 
+Dated 10 October 2023 
+ 
+Issue Price: [●] per cent. 
+Issue Date: [●]2 
+These are the Final Terms of an issue of Tokens under the Token Issuance Programme of Mimo Capital 
+AG (the "Programme") which have been prepared for the purpose of Article 8 (5) in conjunction with 
+Article 25 (4) of the Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 
+2017, as amended. Full information on Mimo Capital AG and the offer of the Tokens is only available on 
+the basis of the combination of the Prospectus dated 10 October 2023 [as supplemented by [a] 
+Supplement[s] dated [●]] (the "Prospectus") and these Final Terms, which must be read in conjunction 
+with each other. The Prospectus and any supplement thereto are available for viewing in electronic form 
+on the website of Mimo Capital AG (https://mcag.mimo.capital) and copies may be obtained free of charge 
+at the specified office of Mimo Capital AG, provided that, in the case of Tokens which are not listed on 
+any trading venue, copies of the relevant Final Terms will only be available to Holders of such Notes. [Each 
+potential investor should note that a summary relating to the specific issue of the Tokens is annexed to these 
+Final Terms.]3 
+[This Tranche of Tokens will be consolidated and form a single Series with [Title(s) of relevant Tranches 
+of Tokens] on [●].]4 
+Part I.: TERMS AND CONDITIONS 
+This Part I. of the Final Terms is to be read in conjunction with the set of Terms and Conditions that apply 
+to the Tokens set forth in the Prospectus (the "Terms and Conditions”) Capitalised terms not otherwise 
+defined herein shall have the meanings specified in the Terms and Conditions. All references in this Part I. 
+of the Final Terms to numbered paragraphs and subparagraphs are to paragraphs and subparagraphs of the 
+Terms and Conditions. 
+The blanks in the provisions of the Terms and Conditions, which are applicable to the Tokens shall be 
+deemed to be completed with the information contained in the Final Terms as if such information were 
+inserted in the blanks of such provisions. All provisions in the Terms and Conditions corresponding to items 
+                                                          
+2 
+The Issue date is the date of payment and settlement of the Tokens. In the case of free delivery, the Issue Date is the delivery 
+date. 
+3  
+Only required for Tokens with a denomination of less than EUR 100,000 or equivalent. 
+4 
+To be inserted in the case that the Tokens will be consolidated and form a single Series with one or several existing Tranches of 
+Tokens (i.e. in case of a tap issue).
+
+--- Page 46 ---
+- 40 - 
+ 
+in these Final Terms which are either not selected or not completed or which are deleted shall be deemed 
+to be deleted from the Terms and Conditions applicable to the Tokens (the "Conditions"). 
+CURRENCY, DENOMINATION, FORM (§ 1) 
+Currency and Denomination 
+ 
+Specified Currency 
+     [●] 
+ 
+Aggregate Principal Amount 
+     [●] 
+ 
+Aggregate Principal Amount in words 
+     [●] 
+ 
+Specified Denomination 
+[●] 
+ 
+Securities Ledger5 
+   
+[Ethereum][Polygon][Fantom] 
+[Binance Smart Chain]   
+[Ethereum Rollups] [Velas]] 
+[●] 
+STATUS (§ 3) 
+ 
+Status 
+Unsecured, unsubordinated 
+UNDERLYING INTEREST PAYMENTS (§ 4) 
+ 
+☐ 
+Underlying Interest Payments6 
+ 
+        Margin 
+ 
+[●] 
+☐    Interest Deferral7 
+ 
+ 
+ 
+PAYMENTS (§ 5) 
+Settlement Currency 
+☐ 
+Specified Currency 
+☐ 
+Alternative Settlement Currency8 
+     [●] 
+Payment Business Day 
+☐ 
+Relevant Financial Center(s) 
+[Liechtenstein][●] 
+                                                          
+5 
+To specify the securities ledger used for the purpose of the Tokens, i.e. where the entries for the purpose of the Tokens will be 
+made. 
+6  
+Set applicable in case interest payments of the Underlying shall be forwarded to the Holder less a Margin, i.e. the tokens bear 
+the same interest as the Underlying less a margin. 
+7  
+Set applicable if Underlying interest payments shall be paid to Investors only upon final redemption of the Tokens. 
+8  
+In case redemption amount shall be paid in alternative currency (i.e. other than the specified currency of the Token in section 1), 
+insert here alternative currency (e.g. any FIAT currency or cryptocurrency, as the case may be)
+
+--- Page 47 ---
+- 41 - 
+ 
+☐ 
+TARGET2 
+ 
+UNDERLYING (§ 6) 
+ 
+ 
+Issuer of Underlying 
+ [●] 
+ 
+ISIN of Underlying 
+[●] 
+ 
+Specified Currency of Underlying 
+ [●] 
+ 
+ 
+ 
+ 
+ 
+ 
+REDEMPTION (§ 7) 
+Redemption at the Option of the Issuer (Issuer Call) 
+[Applicable] 
+[Not applicable] 
+ 
+Minimum Notice to Holders 
+ 
+[●] days 
+ 
+Maximum Notice to Holders 
+[●] days 
+Early Redemption for Reasons of Taxation9 
+[Applicable] 
+[Not applicable] 
+ 
+Early Redemption for Regulatory Reasons10 
+[Applicable] 
+[Not applicable] 
+Redemption at the Option of a Holder 
+[Applicable] 
+[Not applicable] 
+ 
+Physical Delivery Option11 
+[Applicable] 
+[Not applicable] 
+ 
+Minimum Notice to Issuer 
+[●] days 
+ 
+Maximum Notice to Issuer (not more than 60 days) 
+[●] days 
+Redemption Amount 
+ 
+ 
+Relevant Time12 
+[●] 
+ 
+Fees13 
+[[●] per cent.] [●] 
+                                                          
+9  
+Only use ‘Applicable’ if there is no Issuer Call agreed with Investor. 
+10  
+Only use ‘Applicable’ if there is no Issuer Call agreed with Investor. 
+11  
+Use ‘Applicable’ if the Investor shall have the option to chose between cash settlement or physical delivery of the Underlying 
+upon exercising its Holder Put Option. 
+12  
+Time (on the date two business days prior to the Redemption Date) on which the market price of the Underlying is obtained from 
+the Underlying Quotation Source as a basis for calculating the redemption amount payable to Investor. Consider a time 
+practicable for the Issuer and for the Underlying. 
+13  
+Fees to be deducted from the redemption amount payable to investors. If no fees shall be deducted, enter 0.
+
+--- Page 48 ---
+- 42 - 
+ 
+ 
+Valuation Method14 
+[Model Based Valuation]  
+[Market Based Valuation] 
+ 
+Underlying Quotation Source 
+[Custodian][●] 
+AGENTS (§ 11) 
+Paying Account Provider 
+Name and Specified Office 
+ 
+[●] 
+Calculation Agent 
+ 
+        ☐     Issuer 
+ 
+ 
+        ☐     Other 
+ 
+                  Specified Office 
+[●] 
+ 
+                                                          
+14  
+Use ‘Market Based Valuation’ in case a market price is available from the Underlying Quotation Source (e.g. a quote from a 
+reference bank). If no market price is available, use ‘Model Based Valuation’ in which case the present value is calculated.
+
+--- Page 49 ---
+- 43 - 
+ 
+Part II.: ADDITIONAL INFORMATION 
+A. Essential information 
+Interests of Natural and Legal Persons involved in the Issue15 
+[Not applicable] [specify details] 
+Use of proceeds16 
+[The Issuer will use the Proceeds to 
+(i) refinance the prior purchase of 
+the Underlying for the Tokens, (ii) 
+pay the fees and costs of the service 
+providers 
+in 
+connection 
+with 
+creating, 
+launching, 
+issuing, 
+redeeming, and providing all further 
+services for the Tokens, (iii) finance 
+its own existing and future business 
+activities.][specify details] 
+[Estimated net proceeds17] 
+[●] 
+Eurosystem eligibility 
+ 
+ 
+Intended to be held in a manner which 
+would allow Eurosystem eligibility 
+No 
+Prohibition of Sales to Retail Investors in 
+the European Economic Area18 
+[Applicable] 
+[Not applicable] 
+ 
+ 
+ 
+B. Information concerning the Tokens 
+[Common Code 
+[●]] 
+ISIN 
+[●] 
+Interest payments 
+[The Tokens do not bear 
+interest][Interest payments of the 
+Underlying received by the Issuer 
+will be paid to Holders [less a fee 
+of [●]]]. 
+Rating 
+[The Tokens are not rated.] [●] 
+Calculation of Issue price  
+[The Issue Price of the Tokens will 
+be calculated as (i) the market price 
+as indicated by the bid price of the 
+Underlying specified on a binding 
+quotation received by email from 
+the Underlying Quotation Source 
+(ii) plus the Issuance Fee (iii) and 
+                                                          
+15  
+Use ‚Not applicable‘ without involvement of Authorized Participant. If Authorized Participant has certain specific interest, 
+specify here. 
+16 
+See "Use of Proceeds" wording in the Prospectus. 
+17 
+If proceeds are intended for more than one use they will need to be split out and presented in order of priority. 
+18  
+The Tokens specify as ‘packaged products’ under PRIIPs Regulation. If no KID will be prepared, "Applicable" should be 
+specified.
+
+--- Page 50 ---
+- 44 - 
+ 
+making currency adjustments, if 
+applicable. 
+] 
+Issuance Fee 
+[[●] per cent.] [●] 
+Total issue volume of the Series of Tokens 
+[●] 
+Resolutions, authorisations and approvals by virtue of 
+which the Tokens will be created 
+[The 
+Tokens 
+are 
+issued 
+in 
+accordance with the resolution of 
+the Issuer's management board 
+dated [●]][Specify details] 
+C. Information concerning the Underlying 
+ 
+ 
+ 
+Issuer of the Underlying (name and addresses, LEI) 
+[●] 
+Description of the Underlying 
+[The 
+Underlying 
+is 
+a 
+[governmental][corporate] 
+bond. 
+Information on the issuer’s rating 
+and the past performance and future 
+performance projections of the 
+Underlying as well as regarding its 
+volatility is generally available on 
+the Issuer’s website [●]]19 
+Rating 
+[The Underlying is not rated.] [●] 
+Additional Information 
+[ISIN, Specified and Currency of 
+the Underlying are specified in § 5 
+(Underlying) above.] [●] 
+Maturity Date of the Underlying 
+[●] 
+Initial Interest Rate of the Underlying 
+[●] 
+D. 
+Distribution Method and Offeror 
+ 
+Method of distribution 
+☐ 
+Self marketing of the Issuer 
+[●] 
+☐ 
+Non-syndicated 
+ 
+☐ 
+Syndicated 
+ 
+                                                          
+19  
+To insert link to relevant PRIIPS KID, if any, which contains such information or include a brief description of the Underlying 
+here.
+
+--- Page 51 ---
+- 45 - 
+ 
+Management Details 
+Specify Authorized Participant(s) (names and addresses, LEI) 
+[●][Not applicable] 
+Interests of natural and legal persons involved in the issue/offer 
+[So far as the Issuer is aware, no person involved in the offer of the Tokens has an interest material to 
+the offer.] [●] 
+Commissions 
+ 
+Base Fee (specify) 
+[●] 
+ 
+  
+ 
+  
+Stabilizing Manager(s) 
+[insert details/None] 
+Selling restrictions 
+ 
+U.S. Selling Restrictions 
+[●] [C Rules/D Rules] 
+E. Listing(s) and admission to trading 
+[Applicable][Not applicable] 
+☐ 
+No admission to trading on any stock exchange 
+☐ 
+Other 
+[●] 
+Date of admission 
+[●] 
+Estimate of the total expenses related to admission to trading 
+[●] 
+ 
+F. Additional Information 
+[Third Party Information 
+With respect to any information included herein and specified to be sourced from a third party (i) the Issuer 
+confirms that any such information has been accurately reproduced and as far as the Issuer is aware and is 
+able to ascertain from information available to it from such third party, no facts have been omitted which 
+would render the reproduced information inaccurate or misleading and (ii) the Issuer have not 
+independently verified any such information and accept no responsibility for the accuracy thereof. Where 
+third-party information is used herein, the source of such information is stated.] 
+Mimo Capital AG 
+ 
+ 
+ 
+[Name and title of signatory]
+
+--- Page 52 ---
+- 46 - 
+ 
+MIMO CAPITAL AG AS ISSUER 
+General Information 
+Mimo Capital AG as Issuer is a Liechtenstein public limited company (Aktiengesellschaft), incorporated 
+under and governed by the laws of Liechtenstein with its registered office in Alvierweg 17, 9490 Vaduz, 
+Liechtenstein, trade register number FL-0002.584.786-1. The Company has been established for an 
+unlimited period of time. 
+The Company can be contacted under email tokenization@mimo.capital. The Company operates a website 
+under: https://mcag.mimo.capital. The information on the website does not form part of this Prospectus unless 
+that information is incorporated by reference into the prospectus. 
+The Company's legal name is Mimo Capital AG, the commercial name is ‘Mimo Capital’. 
+The Company is registered as token issuer under the TVTG by the FMA in Liechtenstein. 
+The Legal Entity Identifier (LEI) of the Issuer is: 254900E7ZUXDELL0LV43. 
+Corporate History 
+The Company was established at a meeting of the company members and registered in the commercial 
+register of Liechtenstein on 6 July 2018, initially under the name of TenX Finance GmbH, a limited liability 
+company (Gesellschaft mit beschränkter Haftung) governed by the laws of Liechtenstein. By virtue of a 
+meeting of the company members dated 3 November 2021, the Company was converted to a public limited 
+company (Aktiengesellschaft) and renamed to ‘Mimo Capital AG’. 
+Corporate Purpose 
+Pursuant to Section 3 of the Company's articles of association (the "Articles of Association"), the corporate 
+purpose of the Company is to provide services in accordance with the TVTG. The company may participate 
+in other companies, acquire, hold and sell real estate in Liechtenstein and abroad, establish subsidiaries and 
+branch offices in Liechtenstein and abroad and perform ancillary acts that the purpose of the company may 
+entail. This includes the performance of all commercial, financial and other activities related to the purpose 
+of the company. 
+Principal Activities 
+The Issuer's principal activity is the issuance of Tokens in the form of blockchain based cryptographic 
+tokens in Liechtenstein and other jurisdictions against fees. The Tokens are backed by governmental or 
+corporate bonds. For that purpose, the Issuer researches, identifies and designs Tokens fully backed by the 
+underlying governmental or corporate bonds. The Tokens are digitally accessible to Investors. 
+Principal Markets 
+The Issuer plans to offer Tokens mainly in selected jurisdictions such as [Austria, Belgium, Republic of Cyprus, 
+Czech Republic, Denmark, Estonia, Finland, France, Germany, Iceland, Ireland, Luxembourg, Malta, The Netherlands, 
+Norway, Portugal, Slovak Republic, Spain and Sweden]. The Issuer reserves the right to extend the offer to other 
+countries within the EU and the European Economic Area ("EEA") in a later stage. 
+Organizational and Shareholder Structure 
+The Company is a direct subsidiary of DeCentral Pte. Ltd. with a portion of 100% in the Issuer’s share 
+capital and DeCentral Holdings Pte. Ltd. with a portion of 100% in the share capital of DeCentral Pte. Ltd., 
+both incorporated in Singapore. Mr. Paul Warrunthorn Kittiwongsunthorn directly holds 100% of the share 
+capital and voting rights of DeCentral Holdings Pte. Ltd. The Company does not have any subsidiaries. The 
+following diagram indicates such corporate structure:
+
+--- Page 53 ---
+- 47 - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Share Capital 
+As of the date of this Prospectus, the share capital of the Company amounts to EUR 350,000.00 and consists 
+of 350,000 registered shares with restricted transferability, each with a nominal value of EUR 1.00. The 
+Company's share capital has been fully paid up. The shares were created pursuant to Liechtenstein law. 
+Statutory Auditors 
+Grant Thornton AG, Bahnhofstrasse 15, P.O. Box 663, 9494 Schaan, Liechtenstein ("Grand Thornton"), 
+was appointed as the Company's auditor for the fiscal years ended 31 December 2021 and 2022. 
+Grand Thornton audited the Company's annual financial statements, which were prepared in accordance 
+with the provisions of Liechtenstein law and its generally accepted accounting principles ("Liechtenstein 
+GAAP") for the fiscal years ended 31 December 2021 and 2022, and issued an unqualified auditor's report 
+(uneingeschränkter Bestätigungsvermerk) in each case. 
+This Prospectus and the relevant Final terms of each Series of Tokens have not been and will not be audited 
+or reviewed by Grand Thornton. 
+For the period covered by the historical financial information contained in this Prospectus, Grand Thornton 
+has not resigned, not removed and was not re-appointed as auditors of the Company. 
+Financial Year 
+The Company's fiscal year corresponds to the calendar year. 
+Financial Information 
+Parts of the audited financial statements of the Company as of and for the financial years ended 
+31 December 2021 and 2022 which have been prepared in accordance with Liechtenstein GAAP are 
+incorporated by reference into this Prospectus as more specifically set out under section “Documents 
+incorporated by reference” below. 
+Funding 
+Initially, the Issuer is financed by its shareholder, DeCentral Pte. Ltd. In a second stage, the fees earned by 
+the sale of the Tokens should cover the operational costs. 
+DeCentral Holdings Pte. Ltd. 
+100% 
+DeCentral Pte. Ltd. 
+100% 
+Mimo Capital 
+AG 
+Mr. Paul Warrunthorn 
+Kittiwongsunthorn 
+100% 
+Mimo Initiative 
+Ltd. 
+Mimo Europe 
+UAB* 
+TenX Pte. Ltd. 
+Mimo Capital 
+Ltd. 
+100% 
+100% 
+100% 
+100% 
+* In liquidation.
+
+--- Page 54 ---
+- 48 - 
+ 
+For the incorporation of the Issuer, the necessary share capital of EUR 350,000.00 has been fully paid up. 
+This amount is available for the Issuer to cover its initial operational costs until the Issuer’s operations and 
+business activities are fully established and generate profits.  
+The Issuer uses its own funds to acquire the Underlying in the amount of 100 per cent. of the aggregate 
+principal amount of the Tokens. 
+The Issuer contemplates to finance its business operations by (i) a surcharge on the issue price of the Tokens 
+(ii) a deduction on the redemption amount; and/or (iii) a margin on interest payments which the Issuer has 
+received and which will be forwarded on a pro rata basis to the Investors, in each case as specified in the 
+relevant Final Terms. The Issuer can and will hold in its own name and its own account securities. 
+Therefore, it is the Issuer's right to make a profit by selling and purchasing securities. 
+Trend Information 
+The Issuer did not publish any profit forecasts or estimates. 
+There has been no material adverse change in the prospects of the Issuer since 31 December 2022. 
+No significant changes 
+There has been no significant change in the financial or trading position of the Issuer since 31 December 
+2022 (the end of the last financial period for which financial information has been published). 
+There has been no significant change in the Issuer’s financial performance since 31 December 2022 (the 
+date of the last published audited annual financial statement). 
+There has been no material change in the Issuer’s borrowing and funding structure since 31 December 2022 
+(the date of the last published audited annual financial statement). 
+Credit Rating 
+The Issuer and any Series of Tokens have no credit ratings. 
+Executive and Supervisory Bodies of the Company 
+Management Board 
+Pursuant to the Articles of Association, the management board (Geschäftsführung) of the Company 
+(“Management Board”) must consist of at least one person. The board of directors (Verwaltungsrat) of 
+the Company (“Board of Directors”) determines the number of the members of the Management Board. 
+Each member of the Management Board must be registered in the Liechtenstein Commercial Register 
+(Firmenindex des Handelsregisters Liechtenstein). As of the date of this Prospectus, no person is registered 
+as a member of the Management Board. As a result, the Board of Directors directly exercises the entire 
+management function of the Company on a transitional basis. 
+The members of the Management Board may be reached at the Company's office at Alvierweg 17, 9490 
+Vaduz, Liechtenstein. 
+Board of Directors 
+Pursuant to the Company's Articles of Association, the Company's Board of Directors consists of at least 2 
+members. As of the date of this Prospectus, the Board of Directors consists of 2 members.
+
+--- Page 55 ---
+- 49 - 
+ 
+The members of the Board of Directors are: 
+Dr. Stephan Ochsner (Chairman) 
+Member of the board 
+Further mandates: 
+● 
+Owner and chairman of Ochsner Consulting Establishment, a company offering compliance 
+advisory and -training services.  
+● 
+Attorney at law admitted to the bar in Switzerland and Liechtenstein. 
+ 
+Claude Pierre Equienta 
+Member of the board 
+Further mandates: 
+● 
+Director of Decentral Pte Ltd. 
+ 
+The members of the Board of Directors can be reached at the Company's office at Alvierweg 17, 9490 
+Vaduz, Liechtenstein. 
+ 
+Conflicts of Interest 
+Claude Pierre Equienta is a director of Decentral Pte Ltd., the sole shareholder of the Issuer.  
+Other than that, the above mentioned members of the Management Board and the Board of Directors (Dr. 
+Stephan Ochsner) do not have potential conflicts of interest between any duties to the Issuer and their 
+private interests or other duties as of the date of this Prospectus. In particular, the above mentioned members 
+of the Management Board and the Board of Directors do not have any principal activities performed by 
+them outside the Issuer which are significant with respect to the Issuer. 
+Major Shareholder 
+The Company is a direct subsidiary of DeCentral Pte. Ltd. with a portion of 100% in the Issuer’s share 
+capital. DeCentral Holdings Pte. Ltd. holds a portion of 100% in the share capital of DeCentral Pte. Ltd. 
+Both are incorporated in Singapore. DeCentral Pte. Ltd. is a limited liability company with its registered 
+address in 109 North Bridge Road, #05-136, Singapore 179097, Singapore.  
+DeCentral Holdings Pte. Ltd. is a limited liability company with its registered address in 109 North Bridge 
+Road, #05-136, Singapore 179097, Singapore. DeCentral Holdings Pte. Ltd is directly controlled by Mr. 
+Paul Warrunthorn Kittiwongsunthorn who directly holds 100% of the share capital and voting rights of 
+DeCentral Holdings Pte. Ltd. 
+All of the Company's shares confer the same voting rights. 
+Material Contracts 
+The Issuer’s immediate holding company, DeCentral Pte. Ltd., and the Issuer entered into a shareholder 
+loan agreement dated 1 June 2021. Certain repayment obligation of such shareholder loan in the aggregate 
+amount of EUR 2,137,799 have been subject to a debt waiver dated 7 June 2022 under which DeCentral 
+Pte. Ltd. unconditionally and irrevocably released and discharged the Issuer from such repayment 
+obligations. 
+Other than that, the Issuer did not enter into any contracts outside the ordinary course of business which 
+could result in any member of the Group being under an obligation or entitlement that is material to the 
+Issuer's ability to meet its obligations under the Tokens vis-à-vis the Investors. 
+Employees 
+As of the date of this Prospectus, the Company has 6 employees/consultants including the members of its 
+management board and Board of Directors.
+
+--- Page 56 ---
+- 50 - 
+ 
+Litigation and arbitration 
+There are no and there have been no governmental, legal or arbitration proceedings (including any such 
+proceedings which are pending or threatened of which the Issuer is aware), for the previous 12 months 
+which may have, or have had in the recent past significant effects on the Issuer's financial position or 
+profitability. 
+Documents Available 
+For so long as any Tokens issued under this Programme are outstanding, electronic versions of the following 
+documents are available on the Issuer's website: 
+(i) This Base Prospectus and any supplement to this Base Prospectus; 
+(ii) the 
+articles 
+of 
+association 
+of 
+the 
+Issuer 
+(accessed 
+by 
+using 
+the 
+hyperlink: 
+https://mcag.mimo.capital/legal/Mimo_Capital_AG_Certified_Articles_of_Association.pdf); 
+(iii) the documents incorporated by reference into this Base Prospectus (accessed by using the 
+hyperlinks set out in the section "Documents Incorporated by Reference" below). 
+This Base Prospectus, any document incorporated by reference and any supplement to this Base Prospectus 
+will be published on the website of the Issuer (https://mcag.mimo.capital).
+
+--- Page 57 ---
+- 51 - 
+ 
+SELLING RESTRICTIONS 
+The Authorized Participant has represented, warranted and undertaken that it will comply to the best of its 
+knowledge with all applicable laws and regulations in force in any jurisdiction in which it purchases, offers, 
+sells or delivers Tokens or possesses or distributes the Prospectus and will obtain any consent, approval or 
+permission required by it for the purchase, offer, sale or delivery by it of Tokens under the laws and 
+regulations in force in any jurisdiction to which it is subject or in which it makes such purchases, offers, 
+sales or deliveries and neither the Issuer nor any other Authorized Participant shall have any responsibility 
+therefor. 
+The Authorized Participant has acknowledged that to the best of its knowledge, no action has been or will 
+be taken in any jurisdiction that would permit a public offering of the Tokens, or possession or distribution 
+of any offering material in relation thereto, in any country or jurisdiction where additional action for that 
+purpose is legally required. 
+With regard to each Series of Tokens, the Authorized Participant will be required to comply with such other 
+additional restrictions as the Issuer and the relevant Dealer shall agree and as shall be set out in the Final 
+Terms. 
+United States of America (the "United States") 
+With regard to each Series of Tokens, each Authorized Participant has acknowledged that the Tokens have 
+not been and will not be registered under the Securities Act and may not be offered or sold within the United 
+States except pursuant to an exemption from, or in a transaction not subject to, the registration requirements 
+of the Securities Act. 
+Each Authorized Participant has represented, warranted and undertaken, that it has not offered or sold, and 
+will not offer or sell, any Token constituting part of its allotment within the United States except in 
+accordance with Rule 903 of Regulation S under the Securities Act. Accordingly, each Authorized 
+Participant has further represented, warranted and undertaken, that neither it, its affiliates nor any persons 
+acting on its or their behalf have engaged or will engage in any directed selling efforts with respect to any 
+Token. 
+The Tokens are subject to U.S. tax law requirements and may not be offered, sold or delivered within the 
+United States or its possessions or to a United States person, except in transactions permitted by U.S. tax 
+regulations. Terms used in this paragraph have the meanings given to them by the United States Internal 
+Revenue Code and regulations thereunder. 
+In addition, until 40 days after the commencement of the offering, an offer or sale of Tokens within the 
+United States by a dealer (whether or not participating in the offering) may violate the registration 
+requirements of the Securities Act. 
+European Economic Area ("EEA") 
+Unless the relevant Final Terms in respect of any Series of Tokens specify "Prohibition of Sales to EEA 
+retail investors" as "Not Applicable", the Authorized Participant has represented and agreed, that it has not 
+offered, sold or otherwise made available and will not offer, sell or otherwise make available any Tokens 
+which are the subject of the offering contemplated by this Prospectus as completed by the Final Terms in 
+relation thereto to any retail investor in the EEA. For the purposes of this provision: 
+(a) 
+the expression retail investor means a person who is one (or more) of  
+(i) 
+a retail client as defined in point (11) of Article 4(1) of MiFID II; or 
+(ii) 
+a customer within the meaning of the IDD, where that customer would not qualify as a 
+professional client as defined in point (10) of Article 4 (1) of MiFID II; or 
+(iii) 
+not a qualified investor as defined in the Prospectus Regulation; and 
+(b) 
+the expression offer includes the communication in any form and by any means of sufficient 
+information on the terms of the offer and the Tokens to be offered so as to enable an Investor to 
+decide to purchase or subscribe for the Tokens.
+
+--- Page 58 ---
+- 52 - 
+ 
+If the relevant Final Terms in respect of any Tokens specifies "Prohibition of Sales to EEA retail investors" 
+as "Not Applicable", in relation to each Member State of the EEA (each, a "Relevant State"), the 
+Authorized Participant has represented and agreed, that it has not made and will not make an offer of Tokens 
+which are the subject of the offering contemplated by this Prospectus as completed by the final terms in 
+relation thereto to the public in that Relevant State except that it may make an offer of such Tokens to the 
+public in that Relevant State: 
+(a) 
+if the Final Terms in relation to the Tokens specify that an offer of those Tokens may be made 
+other than pursuant to Article 1 (4) of the Prospectus Regulation in that Relevant State (a "Non-
+exempt Offer"), following the date of publication of a prospectus in relation to such Tokens which 
+has been approved by the competent authority in that Relevant State or, where appropriate, 
+approved in another Relevant State and notified to the competent authority in that Relevant State, 
+provided that any such prospectus has subsequently been completed by final terms contemplating 
+such Non-exempt Offer, in accordance with the Prospectus Regulation, in the period beginning 
+and ending on the dates specified in such prospectus or final terms, as applicable, and the Issuer 
+has consented in writing to its use for the purpose of that Non-exempt Offer; 
+(b) 
+at any time to any legal entity which is a qualified investor as defined in the Prospectus Regulation; 
+(c) 
+at any time to fewer than 150 natural or legal persons (other than qualified investors as defined in 
+the Prospectus Regulation) subject to obtaining the prior consent of the relevant Authorized 
+Participant nominated by the Issuer for any such offer; or 
+(d) 
+at any time in any other circumstances falling within Article 1 (4) of the Prospectus Regulation, 
+provided that no such offer of Tokens referred to in (b) to (d) above shall require the Issuer or any 
+Authorized Participant to publish a prospectus pursuant to Article 3 of the Prospectus Regulation or 
+supplement a prospectus pursuant to Article 23 of the Prospectus Regulation. 
+For the purposes of this provision the expression an "offer of Tokens to the public" in relation to any 
+Series of Tokens in any Relevant State means the communication in any form and by any means of 
+sufficient information on the terms of the offer and the Tokens to be offered so as to enable an investor to 
+decide to purchase or subscribe for the Tokens. 
+United Kingdom 
+Important - UK Retail Investors 
+Unless the Final Terms in respect of any Series of the Tokens specify "Prohibition of Sales to UK Retail 
+Investors" as "Not Applicable", the Tokens are not intended to be offered, sold or otherwise made available 
+to, and should not be offered, sold or otherwise made available to, any retail investor in the United 
+Kingdom.  
+For these purposes, a retail investor means a person who is one (or more) of the following:  
+(a) 
+a retail client, as defined in point (8) of Article 2 of Regulation (EU) No 2017/565 as it forms part 
+of domestic law by virtue of the EUWA;  
+(b) 
+a customer within the meaning of the provisions of the FSMA and any rules or regulations made 
+under the FSMA to implement Directive (EU) 2016/97, where that customer would not qualify as 
+a professional client, as defined in point (8) of Article 2(1) of Regulation (EU) No 600/2014 as it 
+forms part of “retained EU law” by virtue of the EUWA;  
+(c) 
+not a qualified investor as defined in Article 2 of Regulation (EU) 2017/1129 as it forms part of 
+“retained EU law” by virtue of the EUWA and regulations made thereunder (the "UK Prospectus 
+Regulation").  
+Consequently, no key information document required by Regulation (EU) No 1286/2014 as it forms part 
+of domestic law by virtue of the EUWA (the "UK PRIIPs Regulation") for offering or selling the Tokens 
+or otherwise making them available to retail investors in the United Kingdom has been prepared and 
+therefore offering or selling the Tokens or otherwise making them available to any retail investor in the 
+United Kingdom may be unlawful under the UK PRIIPs Regulation.
+
+--- Page 59 ---
+- 53 - 
+ 
+Notwithstanding the above paragraph, in the case where the Final Terms in respect of any Series of the 
+Tokens include a legend entitled "Prohibition of Sales to UK Retail Investors" but where the Issuer 
+subsequently prepares and publishes a key information document under the UK PRIIPs Regulation in 
+respect of such Tokens, then following such publication, the prohibition on the offering, sale or otherwise 
+making available the Tokens to a retail investor in the United Kingdom as described in the above paragraph 
+and in such legend shall no longer apply.
+
+--- Page 60 ---
+- 54 - 
+ 
+GENERAL INFORMATION 
+Interest of Natural and Legal Persons involved in the Issue/Offer 
+Certain investors in Tokens and their affiliates may be customers of, borrowers from or creditors of the 
+Issuer and its affiliates. In addition, certain investors and their affiliates have engaged, and may in the future 
+engage, in investment banking and/or commercial banking transactions with, and may perform services for 
+the Issuer and its affiliates in the ordinary course of business. 
+Furthermore, in the ordinary course of their business activities, some investors and their affiliates may make 
+or hold a broad array of investments and actively trade debt and equity securities (or related derivative 
+securities) and financial instruments (including bank loans) for their own account and for the accounts of 
+their customers. Such investments and securities activities may involve securities and/or instruments of the 
+Issuer or Issuer's affiliates. Certain of the investors or their affiliates that have a lending relationship with 
+the Issuer routinely hedge their credit exposure to the Issuer consistent with their customary risk 
+management policies. Typically, such investors and their affiliates would hedge such exposure by entering 
+into transactions, which consist of either the purchase of credit default swaps or the creation of short 
+positions in securities, including potentially the Tokens issued under the Programme. Any such short 
+positions could adversely affect future trading prices of Tokens issued under the Programme. Some 
+investors and their affiliates may also make investment recommendations and/or publish or express 
+independent research views in respect of such securities or financial instruments and may hold, or 
+recommend to clients that they acquire, long and/or short positions in such securities and instruments. 
+Authorization 
+The establishment of the Programme has been duly authorized by resolutions of the Issuer’s Management 
+Board dated 18 September 2023 and the Issuer’s Board of Directors dated 18 September 2023. 
+The Issuer has obtained or will obtain from time to time all necessary consents, approvals and authorizations 
+in connection with the issue and performance of its obligations under the Tokens. 
+Listing and Admission to Trading of the Tokens 
+The Tokens issued under the Programme are and will be neither listed nor admitted to trading at any 
+stock exchange, authorized multilateral trading facility or organized trading facility (inside or outside 
+of Liechtenstein).  
+ 
+The Final Terms will specify if and on which DLT trading facilities or secondary market DLT trading 
+facilities or equivalents the Tokens issued under the Programme will be admitted to trading on request of 
+the Issuer, if at all. This is at the sole discretion of the Issuer for each Series of Tokens.
+
+--- Page 61 ---
+- 55 - 
+ 
+DOCUMENTS INCORPORATED BY REFERENCE 
+The specified pages of the following documents are incorporated by reference in, and form part of, 
+this Prospectus: 
+Mimo Capital AG 
+Audited financial statements for the fiscal year ended 
+31 December 2022 (English language version, available under 
+https://mcag.mimo.capital/legal/Mimo_Capital_AG_Financial
+_Statements_2022_EN.pdf) 
+ 
+ 
+Extracted from the  
+financial statements 2022 
+–Balance sheet 
+– page 3 
+–Income statement 
+– page 4 
+–Explanatory notes to the financial statements 
+– page 5 to page 6 
+–Independent Auditors' Report 
+– page 7 
+ 
+Audited financial statements for the fiscal year ended 
+31 December 2021 (English language version, available under 
+https://mcag.mimo.capital/legal/Mimo_Capital_AG_Financial
+_Statements_2021_EN.pdf) 
+ 
+ 
+Extracted from the  
+financial statements 2021 
+–Balance sheet 
+– page 3 
+–Income statement 
+– page 4 
+–Explanatory notes to the financial statements 
+– page 5 to page 6 
+–Independent Auditors' Report 
+– page 7 
+ 
+Any information not incorporated by reference into this Prospectus but contained in one of the documents 
+mentioned as source documents in the cross reference list above is either not relevant for the investor or 
+covered in another part of this Prospectus. 
+Availability of Documents 
+Any document incorporated herein by reference will be available for inspection at the website of the Issuer 
+https://mcag.mimo.capital. The Issuer will provide, without charge, to each person to whom a copy of this 
+Prospectus has been delivered, upon the request of such person, a copy of any or all of the documents 
+incorporated herein by reference. Requests for such documents should be directed to the Issuer at its office 
+set out at the end of this Prospectus.
+
+--- Page 62 ---
+THE ISSUER 
+Mimo Capital AG 
+Alvierweg 17 
+9490 Vaduz, 
+Liechtenstein 
+ 
+TOKENIZER 
+Mimo Capital AG 
+Alvierweg 17 
+9490 Vaduz, 
+Liechtenstein 
+ 
+ 
+LEGAL ADVISERS  
+TO THE ISSUER 
+Taylor Wessing PartG mbB  
+Thurn-und-Taxis-Platz 6 
+60313 Frankfurt am Main 
+Germany 
+ 
+AUDITOR TO THE ISSUER 
+Grant Thornton AG 
+Bahnhofstrasse 15 
+P.O. Box 663 
+9494 Schaan 
+Liechtenstein

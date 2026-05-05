@@ -1,0 +1,2296 @@
+--- Page 1 ---
+SERIES BASE PROSPECTUS 
+LUMINIS FINANCE PLC
+(a public limited company incorporated in Ireland with registration number 635696, with a registered office at 32 
+Molesworth Street, Dublin 2, Ireland) 
+Legal entity identifier (LEI): 54930067RSRCM166RP48
+Series 2023-01
+Up to 200,000 Index Linked Certificates due 2029 
+Goldman Sachs International
+The date of this Series Base Prospectus is 03 March 2023
+
+--- Page 2 ---
+2
+IMPORTANT NOTICE
+NOT FOR DISTRIBUTION TO ANY U.S. PERSON OR TO ANY PERSON OR ADDRESS IN THE U.S.
+IMPORTANT: You must read the following before continuing. This Series Base Prospectus contains information 
+relating to the issue of one or more tranches (“Tranches”) of up to 200,000 index linked certificates due 2029 (the 
+“Securities” or the “Certificates”). This Series Base Prospectus should be read in conjunction with the base 
+prospectus dated 08 August 2022 (the “Base Prospectus”) relating to the Limited Recourse Securities Programme for 
+the issue of limited recourse securities (the “Programme”) of Luminis Finance Plc (the “Issuer”). This Series Base
+Prospectus constitutes a “base prospectus” for the purposes of Article 8 of the Prospectus Regulation (as defined 
+below). Unless otherwise defined, capitalised terms have the same meanings given to them in the Conditions.
+The following applies to this Series Base Prospectus, and you are therefore advised to read this carefully before 
+reading, accessing or making any other use of this Series Base Prospectus. 
+This Series Base Prospectus constitutes a base prospectus for the purposes of Regulation (EU) 2017/1129 (the 
+"Prospectus Regulation").
+This Series Base Prospectus has been approved by the Central Bank of Ireland (the “Central Bank”), as competent 
+authority under the Prospectus Regulation. The Central Bank only approves this Series Base Prospectus as meeting 
+the standards of completeness, comprehensibility and consistency imposed by the Prospectus Regulation. Such 
+approval should not be considered as an endorsement of either the Issuer or the quality of the Securities that are the 
+subject of this Series Base Prospectus and investors should make their own assessment as to the suitability of investing 
+in the Securities. Such approval relates only to Luminis Finance Plc Series 2023-01 Index Linked Certificates due 
+2029 which are to be offered to the public in Italy (a Member State of the European Economic Area).
+Application has also been made to Borsa Italiana S.p.A. ("Borsa Italiana") for the Securities to be admitted to trading 
+on the multilateral trading facility of securitised derivatives financial instruments, organised and managed by Borsa 
+Italiana ("SeDeX"). There can be no assurance that any such listing will be maintained.
+This Series Base Prospectus has been prepared for the purposes of the offering of the Securities in accordance with 
+the applicable laws and regulations and as further described in the section entitled “Subscription and Sale” in the Base
+Prospectus. 
+This Series Base Prospectus will be valid for 12 months from its date for public offers in Italy (a Member State of 
+the European Economic Area) by or with the consent of the Issuer. The obligation to supplement it in the event of 
+significant new factors, material mistakes or material inaccuracies will not apply after 12 months from the date of 
+this Series Base Prospectus.
+NOTHING IN THIS ELECTRONIC TRANSMISSION CONSTITUTES AN OFFER TO SELL OR THE 
+SOLICITATION OF AN OFFER TO BUY THE SECURITIES OF THE ISSUER. THE FOLLOWING SERIES 
+BASE PROSPECTUS MAY NOT BE FORWARDED OR DISTRIBUTED TO ANY OTHER PERSON AND MAY 
+NOT BE REPRODUCED IN ANY MANNER WHATSOEVER, AND IN PARTICULAR, MAY NOT BE 
+FORWARDED TO ANY U.S. PERSON OR TO ANY U.S. ADDRESS. ANY FORWARDING, DISTRIBUTION 
+OR REPRODUCTION OF THIS DOCUMENT IN WHOLE OR IN PART IS UNAUTHORISED. FAILURE TO 
+COMPLY WITH THIS DIRECTIVE MAY RESULT IN A VIOLATION OF THE U.S. SECURITIES ACT OF 1933, 
+AS AMENDED (THE “SECURITIES ACT”) OR THE APPLICABLE LAWS OF OTHER JURISDICTIONS.
+Confirmation of your Representation: This series base prospectus has been delivered to you on the basis that you 
+are a person into whose possession this series base prospectus may be lawfully delivered in accordance with the laws 
+of the jurisdiction in which you are located. By accessing this series base prospectus, you shall be deemed to have 
+represented to us that (a) you have understood and agree to the terms set out herein, (b) you consent to delivery of 
+this series base prospectus by electronic transmission, (c) you are not a U.S. person (within the meaning of Regulation
+
+--- Page 3 ---
+3
+S under the Securities Act) or acting for the account or benefit of a U.S. person and the electronic mail address that 
+you have given to us and to which this e-mail has been delivered is not located in the United States, its territories 
+and possessions (including Puerto Rico, the U.S. Virgin Islands, Guam, American Samoa, Wake Island and the 
+Northern Mariana Islands), any State of the United States or the District of Columbia and (d) if you are a person in 
+the United Kingdom, then you are a person who (i) is an “investment professional” as defined under Article 19 of 
+the Financial and Services Markets Act 2000 (Financial Promotion) Order 2005 (the “Order”) or (ii) is a high net 
+worth entity falling within Article 49(2)(a) to (d) of the Order. If you are not such a person, then you should not act 
+or rely on this series base prospectus or any of its contents. Any investment or investment activity to which this 
+series base prospectus relates is available only to and will only be engaged in with such persons.
+This series base prospectus has been sent to you in an electronic form. You are reminded that documents transmitted 
+via this medium may be altered or changed during the process of electronic transmission and consequently neither 
+Luminis Finance Plc, Goldman Sachs International nor any person who controls it nor any director, officer, employee 
+nor agent of it or affiliate of any such person accepts any liability or responsibility whatsoever in respect of any 
+difference between this series base prospectus distributed to you in electronic format and the hard copy version 
+available to you on request from Goldman Sachs International.
+The Securities are not rated.
+Prospective investors should have regard to the risk factors described and referred to under the section of 
+this Series Base Prospectus titled “Risk Factors”.
+
+--- Page 4 ---
+4
+This Series Base Prospectus comprises a base prospectus for the purposes of the Prospectus Regulation and for the 
+purpose of giving necessary information with regard to the Issuer and the Securities which, according to the 
+particular nature and circumstances of the Issuer and type of Securities, is material to prospective purchasers for 
+making an informed assessment of the assets and liabilities, financial position, profit and losses and prospects of the 
+Issuer, the rights attaching to the Securities and the reasons for the issuance and its impact on the Issuer.
+The Issuer accepts responsibility for the information contained in this Series Base Prospectus. To the best of the 
+Issuer’s knowledge, the information contained in this Series Base Prospectus is in accordance with the facts and 
+does not omit anything likely to affect the import of such information.
+A key information document has been issued in respect of the Securities, pursuant to Regulation (EU) No.1286/2014 
+on key information documents for packaged retail and insurance-based investment products, as may be amended 
+from time to time (the "PRIIPs Regulation"), (the "KID"), for the retail investors. EEA retail investors can refer to 
+the KID for the relevant Securities for details of, principally, the purposes of the Securities, the summary risk indicator 
+performance scenarios, the summary cost indicator and recommended holding period for the relevant Certificates in 
+accordance with the PRIIPs Regulation.
+The information in this Series Base Prospectus should be read in conjunction with the Base Prospectus (see the 
+section titled “Documents Incorporated by Reference” below). This Series Base Prospectus includes particulars for 
+the purpose of giving information with regard to the issue by the Issuer of the Securities.
+No person has been authorised to give any information or to make any representation other than those contained in 
+this Series Base Prospectus in connection with the issue or sale of the Securities and, if given or made, such 
+information or representation must not be relied upon as having been authorised by the Issuer or the Dealer (as 
+specified in the Issue Terms contained in this Series Base Prospectus). Neither the delivery of this Series Base
+Prospectus nor any sale of Securities made in connection therewith shall, under any circumstances, create any 
+implication that there has been no change in the affairs of the Issuer since the date of this Series Base Prospectus or 
+the date upon which this Series Base Prospectus has been most recently amended or supplemented or that there has 
+been no adverse change in the financial position of the Issuer since the date of this Series Base Prospectus or the date 
+upon which this Series Base Prospectus has been most recently amended or supplemented or that any other 
+information supplied in connection with the Programme or the Securities is correct as of any time subsequent to the 
+date on which it is supplied or, if different, the date indicated in the document containing the same.
+The language of this Series Base Prospectus is English. Certain legislative references and technical terms have been 
+cited in their original language in order that the correct technical meaning may be ascribed to them under the 
+applicable law.
+The information contained on any websites referred to herein does not form part of this Series Base Prospectus unless 
+that information is incorporated by reference into this Series Base Prospectus.
+The distribution of this Series Base Prospectus and the offering or sale of the Securities in certain jurisdictions may be 
+restricted by law. Persons into whose possession this Series Base Prospectus comes are required by the Issuer and the 
+Dealer to inform themselves about and to observe any such restriction. The Securities have not been and will not be 
+registered under the Securities Act. Securities may not at any time be offered, sold or, where relevant, delivered within 
+the United States or to, or for the account or benefit of, any person who is (a) a U.S. person (as defined in Regulation S 
+under the Securities Act); (b) a U.S. person (as defined in the credit risk retention regulations issued under Section 15G 
+of the U.S. Securities Exchange Act of 1934); or (c) not a Non-United States person (as defined in Rule 4.7 under the 
+U.S. Commodity Exchange Act of 1936, but excluding for purposes of subsection (D) thereof, the exception to the extent 
+that it would apply to persons who are not Non-United States persons).
+Any investor in the Securities (including investors following the issue date of such Securities) shall be deemed to 
+give the representations, agreements and acknowledgments specified in the Conditions of such Securities, including 
+a representation that it is not, nor is it acting for the account or benefit of, a person who is (a) a U.S. person (as defined 
+in Regulation S under the Securities Act); (b) a U.S. person (as defined in the credit risk retention regulations issued 
+under Section 15G of the U.S. Securities Exchange Act of 1934); or (c) not a Non-United States person (as defined
+
+--- Page 5 ---
+5
+in Rule 4.7 under the U.S. Commodity Exchange Act of 1936, but excluding for purposes of subsection (D) thereof, 
+the exception to the extent that it would apply to persons who are not Non-United States persons).
+For a description of certain restrictions on offers and sales of Securities and on distribution of this Series Base
+Prospectus, see the section headed “Subscription and Sale” in this Series Base Prospectus.
+Luminis Finance Plc has not been, and will not be, registered under the U.S. Investment Company Act of 1940, as 
+amended (the “Investment Company Act”).
+Capitalised terms used but not otherwise defined herein or in the Base Prospectus and the corresponding General 
+Definitions Module have the meaning given to them in the Issue Terms contained in this Series Base Prospectus.
+DISCLAIMERS
+This Series Base Prospectus does not constitute an offer of, or an invitation by or on behalf of the Issuer or the Dealer 
+to subscribe for, or purchase, any Securities.
+None of the Trustee, the Arranger, the Dealer, the Calculation Agent, the Principal Paying Agent, the Registrar, the 
+Transfer Agent, the Selling Agent, the Vendor, the Custodian, the Authentication Agent or the Swap Counterparty (the 
+"Programme Parties") has or will have independently verified the information contained herein or in this Series Base
+Prospectus. Accordingly, no representation, warranty or undertaking, express or implied, is or will be made and no 
+responsibility or liability is or will be accepted by the Programme Parties as to the accuracy or completeness of the 
+information contained or incorporated by reference in this Series Base Prospectus or any other information provided 
+by the Issuer in connection with the Programme or the Securities or their distribution.  
+Prospective investors of Securities should have regard to the factors described under the section headed “Risk 
+Factors” in this Series Base Prospectus. This Series Base Prospectus does not describe all of the risks of an investment 
+in the Securities. Neither this Series Base Prospectus nor any financial statements are intended to provide the basis 
+of any credit or other evaluation and should not be considered as a recommendation by any of the Issuer or the Dealer 
+that any recipient of this Series Base Prospectus or any other financial statements should purchase the Securities.
+No fiduciary role: None of the Issuer, the Dealer or any of the other Programme Parties or any of their respective 
+affiliates is acting as an investment adviser or as an adviser in any other capacity, and none of them (other than the 
+Trustee) assumes any fiduciary obligation to any investors of Securities or any other party, including the Issuer.
+None of the Issuer, the Dealer or any of the other Programme Parties assumes any responsibility for (i) conducting 
+or failing to conduct any investigation into the business, financial condition, prospects, creditworthiness, status and/or 
+affairs of any issuer or obligor of the Charged Assets or the terms thereof or of the Swap Counterparty or the terms 
+of the Swap Agreement or (ii) monitoring such issuer or obligor of the Charged Assets or Swap Counterparty during 
+the term of the Securities.
+Investors may not rely on the views of the Issuer, the Dealer or any of the other Programme Parties for any information 
+in relation to any person.
+No reliance: A prospective investor may not rely on the Issuer, the Dealer or any of the other Programme Parties or 
+any of their respective affiliates in connection with its determination as to the legality of its acquisition of the 
+Securities or as to any of the other matters referred to above.
+No representations: None of the Issuer, the Dealer or any of the other Programme Parties makes any representation 
+or warranty, express or implied, in respect of any:
+(i)
+Charged Assets or in respect of any information contained in any documents prepared, provided or filed in 
+respect of such Charged Assets with any exchange, governmental, supervisory or self-regulatory authority 
+or any other person;
+(ii)
+issuer or obligor of the Charged Assets or in respect of any information contained in any documents prepared, 
+provided or filed by or on behalf of such issuer or obligor with any exchange, governmental, supervisory or 
+self-regulatory authority or any other person;
+
+--- Page 6 ---
+6
+(iii)
+Swap Counterparty or in respect of any information contained in any documents prepared, provided or filed 
+by or on behalf of such party with any exchange, governmental, supervisory or self-regulatory authority or 
+any other person; or
+(iv)
+Swap Agreement or in respect of any information contained in any documents prepared, provided or filed in 
+respect of such agreement with any exchange, governmental, supervisory or self-regulatory authority or any 
+other person,
+save that this is not intended to limit the responsibility of the Issuer for the information in respect of the Swap 
+Counterparty in the section of the Base Prospectus titled “Description of the Swap Counterparty, Repo Counterparty 
+and the Calculation Agent”.
+None of the Dealer or any of the other Programme Parties makes any representation or warranty, express or implied, 
+in respect of the Issuer or in respect of any information contained in any documents prepared, provided or filed by or 
+on behalf of the Issuer.
+THE SECURITIES HAVE NOT BEEN AND WILL NOT BE REGISTERED UNDER THE SECURITIES ACT OR 
+WITH ANY SECURITIES REGULATORY AUTHORITY OF ANY STATE OR OTHER JURISDICTION OF THE 
+UNITED STATES. NO PERSON HAS REGISTERED NOR WILL REGISTER AS A COMMODITY POOL 
+OPERATOR OF THE ISSUER UNDER THE U.S. COMMODITY EXCHANGE ACT OF 1936 AS AMENDED 
+AND THE RULES OF THE COMMODITY FUTURES TRADING COMMISSION (“CFTC”) THEREUNDER. 
+THE SECURITIES MAY NOT AT ANY TIME BE OFFERED, SOLD OR, WHERE RELEVANT, DELIVERED 
+WITHIN THE UNITED STATES OR TO, OR FOR THE ACCOUNT OR BENEFIT OF, U.S. PERSONS (AS 
+DEFINED IN THE U.S. INTERNAL REVENUE CODE OF 1986, AS AMENDED, AND REGULATIONS 
+THEREUNDER).
+CONSEQUENTLY, THE SECURITIES MAY NOT AT ANY TIME BE OFFERED, SOLD OR OTHERWISE 
+TRANSFERRED EXCEPT (A) IN AN OFFSHORE TRANSACTION (AS SUCH TERM IS DEFINED UNDER 
+REGULATION S UNDER THE SECURITIES ACT (“REGULATION S”)) AND (B) TO PERSONS THAT ARE 
+(I) NOT U.S. PERSONS (AS DEFINED IN REGULATION S), (II) NOT U.S. PERSONS (AS DEFINED IN THE 
+CREDIT RISK RETENTION REGULATIONS ISSUED UNDER SECTION 15G OF THE U.S. SECURITIES 
+EXCHANGE ACT OF 1934) AND (III) NON-UNITED STATES PERSONS (AS DEFINED IN RULE 4.7 UNDER 
+THE U.S. COMMODITY EXCHANGE ACT OF 1936, BUT EXCLUDING FOR PURPOSES OF SUBSECTION 
+(D) THEREOF, THE EXCEPTION TO THE EXTENT THAT IT WOULD APPLY TO PERSONS WHO ARE NOT 
+NON-UNITED STATES PERSONS) (ANY PERSON SATISFYING EACH OF (I) TO (III) IMMEDIATELY 
+ABOVE, A “PERMITTED PURCHASER”). IF A PERMITTED PURCHASER ACQUIRING SECURITIES IS 
+DOING SO FOR THE ACCOUNT OR BENEFIT OF ANOTHER PERSON, SUCH OTHER PERSON MUST 
+ALSO BE A PERMITTED PURCHASER.
+THIS SERIES BASE PROSPECTUS HAS BEEN PREPARED BY THE ISSUER (A) FOR USE IN 
+CONNECTION WITH THE OFFER AND SALE OF THE SECURITIES OUTSIDE OF THE UNITED STATES 
+TO PERMITTED PURCHASERS IN AN OFFSHORE TRANSACTION IN ACCORDANCE WITH RULE 903 
+OR 904 OF REGULATION S AND (B) FOR THE LISTING AND ADMISSION TO TRADING OF THE 
+SECURITIES ON SEDEX.
+IN MAKING AN INVESTMENT DECISION, PROSPECTIVE PURCHASERS MUST RELY ON THEIR OWN 
+EXAMINATION OF THE ISSUER AND THE TERMS OF THE OFFERING, INCLUDING THE MERITS AND 
+RISKS INVOLVED.
+THE SECURITIES HAVE NOT BEEN APPROVED OR DISAPPROVED BY THE U.S. SECURITIES AND 
+EXCHANGE COMMISSION OR ANY STATE SECURITIES COMMISSION IN THE UNITED STATES OR ANY 
+OTHER REGULATORY AUTHORITY IN THE UNITED STATES, NOR HAVE ANY OF THE FOREGOING 
+AUTHORITIES PASSED UPON OR ENDORSED THE MERITS OF THE OFFERING OF ANY SECURITIES
+PURSUANT TO THIS SERIES BASE PROSPECTUS OR THE ACCURACY OR THE ADEQUACY OF THIS 
+SERIES BASE PROSPECTUS OR ANY OTHER AUTHORISED OFFERING DOCUMENT.
+ANY 
+REPRESENTATION TO THE CONTRARY IS A CRIMINAL OFFENCE IN THE UNITED STATES.
+
+--- Page 7 ---
+7
+TABLE OF CONTENTS
+IMPORTANT NOTICE..................................................................................................................................................... 2
+RISK FACTORS................................................................................................................................................................ 8
+DOCUMENTS INCORPORATED BY REFERENCE ....................................................................................................11
+HOW THE VALUE OF THE SECURITIES IS AFFECTED BY THE VALUE OF THE INDEX AND THE INITIAL 
+CHARGED ASSETS ........................................................................................................................................................12
+ISSUE TERMS .................................................................................................................................................................13
+USE OF PROCEEDS........................................................................................................................................................45
+GENERAL INFORMATION ...........................................................................................................................................46
+THE ISSUER ....................................................................................................................................................................48
+
+--- Page 8 ---
+8
+RISK FACTORS
+The risk factors set out below should be read in addition to those set out in the section headed "Risk Factors" in the Base 
+Prospectus (incorporated herein by reference, subject to certain amendments and exclusions; see "Documents Incorporated 
+by Reference" above) and, in the event of any inconsistency, the risk factors set out below will prevail. Such risk factors 
+are risk factors that are material to the Securities in order to assess the market risk associated with them or which may 
+affect the Issuer’s ability to fulfil its obligations under them. None of the Issuer, the Arranger or any Dealer is in a position 
+to express a view on the likelihood of any contingency highlighted by a risk factor occurring. 
+Additional Risks associated with the Index
+Terms used below in respect of the risk factors provided under this section entitled “Additional Risks associated with the 
+Index” which are not defined herein shall have the meaning given thereto in the Issue Terms and as completed by the Final 
+Terms. 
+The Index is sensitive to the volatility of the Shares
+Due to the in-built volatility control mechanism, the exposure of the Index to the basket of liquid stock (the “Shares”)
+varies according to the realised volatility of the Shares. As realised volatility rises, the Index reduces exposure to the Shares
+and conversely, as realised volatility falls, the Index’s exposure to the Shares increases. Therefore the Index may 
+underperform relative to the Shares where high realised volatility is followed by positive performance of the Shares, or 
+where low realised volatility is followed by negative performance of the Share. The volatility of the Index may impact the 
+value of the Securities and the return to a potential investor.
+Historical or hypothetical performance of the Index is not an indication of future performance
+Investors should be aware that the historical or hypothetical performance of the Index should not be taken as an indication 
+of the future performance of the Index. The level of the Index may fluctuate significantly. It is impossible to predict whether 
+the level, value or price of the Index will fall or rise during the term of the Securities. Past performance is not a guarantee 
+or an indication of future returns.
+Publication of the Index
+The Index is scheduled to be published on a daily basis, but in certain circumstances such publication may be delayed. 
+Details of the past performance of the Index may be obtained from Bloomberg and Reuters. The Bloomberg ticker in 
+respect of the Index (as at the date of this Series Base Prospectus) is FTSE MIB Index and the Reuters ticker is .FTMIB. 
+Notional exposure
+The Index is constructed on “notional” investments and there is no actual portfolio of assets to which any person is entitled 
+or in respect of which any person has any direct or indirect ownership interest. The Index simply reflects a rules-based 
+proprietary trading strategy, the performance of which is used as a reference point for the purposes of calculating the level
+of the Index. Investment in Securities linked to the Index will therefore not make an investor a holder of, or give an investor 
+a direct investment position in, any shares. The return on your Securities may be less than if you held a direct position in 
+the Index or shares, or a different product linked thereto.
+Exposure to the Performance of the Index
+The Securities represent an investment linked to the performance of the Index and potential investors should note that any 
+interest amount payable under the Securities will depend upon the performance of the Index. The price, performance or 
+investment return of the Index may be subject to sudden and large unpredictable changes over time and this degree of 
+change is known as “volatility”. The volatility of the Index may be affected by national and international financial, political, 
+military or economic events, including governmental actions, or by the activities of participants in the relevant markets. 
+Any of these events or activities could adversely affect the value of the Securities.
+
+--- Page 9 ---
+9
+Potential investors in the Securities should be familiar with the behaviour of the Index and thoroughly understand how the 
+performance of the Index may affect payments (or any other benefit to be received) under, or the market value of, the 
+Securities. The past performance of the Index is not indicative of future performance. The market value of the Securities
+may be adversely affected by postponement or alternative provisions for the valuation of the level of the Index.
+For certain reasons, including compliance for tax, regulation constraints, or fees extracted at the constituent level, the
+performance of any component may not precisely track or replicate the performance of the relevant asset class or the 
+underlying of such component.
+Potential Conflicts of Interest
+Goldman Sachs International (acting as Arranger and Dealer) expects to engage in trading activities related to constituents 
+of the Index (including to hedge its obligations under any investments linked to the Index sold by Goldman Sachs 
+International) during the course of its normal business for both its proprietary accounts and/or in client related transactions. 
+These trading activities may present a conflict between the interests of investors with exposure to the Index and Goldman 
+Sachs International’s own interests, and if they have an influence on the share prices or levels (as applicable) of the Index
+constituents may have an adverse effect on the performance of the Index.  
+Goldman Sachs International may have and in the future may publish research reports with respect to the index constituents 
+or asset classes which may express opinions or provide recommendations that either support or are inconsistent with 
+investments into the Index. This research should not be viewed as a recommendation or endorsement of the Index in any 
+way and investors must make their own independent investigation of the merits of this investment.
+With respect to any of the activities described above, Goldman Sachs International does not have any obligation to take 
+the needs of any investor in Index products into consideration at any time, and may resolve conflicts of interest in its own 
+favour.
+Currency Risks
+Investors may be exposed to currency risks because (i) components of the Index may be denominated or priced in 
+currencies other than the currency in which the Index is denominated, or (ii) the Index and/or such components may be 
+denominated in currencies other than the currency of the country in which the investor is resident. The Index may therefore 
+increase or decrease as a result of fluctuations in those currencies. Where payments under the components of the Index are 
+made in a currency that is different from the currency in which the Securities are denominated, the amount investors 
+receive, when converted into the denomination currency, may be less than the corresponding price of the components of 
+the Index and investors may lose some or all of their initial investment. In such circumstances investors will receive a 
+lower return than if such payment had been made in the currency of the components of the Index due to the foreign 
+exchange rate risk.
+Risks associated with Equity Indices
+The sponsor of the Index and will have no obligation to any investor in investment products linked to the Index. The 
+sponsor of an equity index may take any actions in respect of such equity index without regard to the interests of the 
+investors (and its impact upon the return on the Securities) in investment products linked to the Index, including but not 
+limited to a change in the composition or discontinuance of such equity index, and any of these actions could have an 
+adverse effect on the value of the Index.
+No assurance can be given that the methodology underlying the Index will be successful in producing positive returns or 
+that the Index will out perform any other alternative investment strategy
+An investor should be aware that the index sponsor or Goldman Sachs International or any of their respective affiliates do not
+make any express or implied representation that the Index will achieve a positive performance, or a higher performance than 
+any other index or strategy, or returns independent of the overall direction of the relevant markets, whether managed or not 
+managed.
+Changes in market structure and/or increased investment in similar products may negatively affect the value of an Index.
+
+--- Page 10 ---
+10
+As a result of changes in market structure and/or due to increased investment in products using the same or similar investment 
+rationale to that of the Index, the underlying market or economic characteristics that the Index attempts to capture, measure or
+replicate may change, cease to exist, and/or lead to negative expected returns over any time period. This may have a negative 
+impact on the value of the Index and the value of an investment in Securities linked to the Index. The terms of such Securities 
+and Index will not be adjusted to take account of any such changes.
+Additional Risks related to the Market
+The initial market value of the Securities is likely to be lower, and may be significantly lower, than the issue or initial purchase 
+price of the Securities as a result of, inter alia, (where permitted by applicable law) amounts with respect to commissions 
+relating to the issue, sale and marketing of the Securities. Accordingly, the issue or purchase price of the Securities is likely to 
+be more than the initial market value of the Securities, and this could result in a loss if you sell the Securities prior to scheduled 
+redemption. Any secondary market prices of the Securities will also likely be lower than the original issue price of the Securities 
+because, among other things, (as above) secondary market prices will likely be reduced by selling commissions and marketing 
+commissions that are accounted for in the original issue price of the Securities. As a result, the price, if any, at which any person 
+would be willing to buy Securities from you in secondary market transactions, if at all, is likely to be lower than the original 
+issue price. Any sale by you prior to their scheduled redemption could result in a substantial loss.
+
+--- Page 11 ---
+11
+DOCUMENTS INCORPORATED BY REFERENCE
+1.
+The Base Prospectus, except for the following sections, shall be deemed to be incorporated in, and form part of, 
+this Series Base Prospectus:
+a.
+Description of the Luxembourg Issuer (pages 126 to 129) inclusive):
+b.
+Description of the Cayman Islands Issuer (pages 130 to 134 inclusive);
+c.
+Description of the Repo Agreement (pages 167 to 170 inclusive);
+d.
+Bearer Securities Base Conditions Module (pages 241 to 256 inclusive);
+e.
+Basket of Charged Assets Conditions Module (pages 306 to 322 inclusive);
+f.
+Equity Linked Conditions Module (pages 323 to 358 inclusive);
+g.
+FX Linked Conditions Module (pages 406 to 424 inclusive);
+h.
+Credit Linked Conditions Module (pages 425 to 448 inclusive);
+i.
+Form of Final Terms/Pricing Supplement (pages 449 to 503 inclusive);
+j.
+Form of Cross Currency Swap Confirmation (pages 518 to 535 inclusive); and 
+k.
+Form of Credit Default Swap Confirmation (pages 536 to 568 inclusive).
+2.
+Any statement contained in the Base Prospectus shall be deemed to be modified or superseded for the purpose of 
+this Series Base Prospectus to the extent that a statement contained herein modifies or supersedes any earlier 
+statement contained in any document incorporated by reference (whether expressly, by implication or otherwise). 
+Any statement so modified or superseded shall not be deemed, except as so modified or superseded, to constitute 
+part of this Series Base Prospectus.
+Where only certain sections of the Base Prospectus are incorporated by reference into this Series Base Prospectus, 
+the parts of the Base Prospectus which are not incorporated by reference are either not relevant for prospective 
+investors or are covered elsewhere in this Series Base Prospectus.
+Copies of the document incorporated herein by reference will be available free of charge from the registered office 
+of the Issuer and the Principal Paying Agent (as specified on the last page).
+The Base Prospectus has been filed with Euronext Dublin and is available for viewing at the following website:
+https://ise-prodnr-eu-west-1-data-integration.s3-eu-west-1.amazonaws.com/202208/48b86891-567c-4c48-898b-
+b3bd8c6fbb14.PDF.
+3.
+The Audited Financial Statements of the Issuer dated 27 December 2021 have been filed with Euronext Dublin 
+and are available for viewing at the following website: https://ise-prodnr-eu-west-1-data-integration.s3-eu-west-
+1.amazonaws.com/202302/f2406470-5d5b-40a3-b39b-321e80093618.pdf.
+
+--- Page 12 ---
+12
+HOW THE VALUE OF THE SECURITIES IS AFFECTED BY THE VALUE OF THE INDEX AND THE 
+INITIAL CHARGED ASSETS
+This section of the Series Base Prospectus explains how the value of the Securities is affected by the value of the Index and the 
+Initial Charged Assets.
+Interest payable on the Securities
+Interest is calculated on the Securities (as defined above) by calculating the difference between the Index Level (as defined 
+below) on the Scheduled Valuation Date (as defined below) and on the Initial Valuation Date (as defined below). Where the level 
+of the Index (as defined below) on the Scheduled Valuation Date is above the level of the Index on the Initial Valuation Date,
+interest will be payable. Where this is the case, the amount of interest payable will be determined by reference to the number of 
+Securities which an investor holds, and the amount by which the level of the Index has increased (provided that, if specified in 
+the relevant Final Terms, any such increase in the level of the Index is subject to a maximum amount). Therefore, the higher the 
+increase in the level of the Index (subject to such maximum amount, if applicable), the greater the amount of interest that is 
+payable. The dates on which the Index is calculated will be adjusted in certain circumstances, such as where such date is not a 
+business day or where the level of the Index has not been published on that day.
+Where the level of the Index on the Scheduled Valuation Date is below the level of the Index on the Initial Valuation Date, no 
+interest will be payable under the Securities.
+Early redemption of the Securities
+The Securities will be redeemed on the Scheduled Maturity Date (which is scheduled to be 19 June 2029) at 100 per cent. of their 
+unit value, unless certain events occur prior to such date. Where it is determined that an Early Redemption Event (as defined 
+below) has occurred, the Securities may be redeemed early in an amount which is related to the value of the Initial Charged 
+Assets (as defined below), and this may be less than 100 per cent. of their unit value. If the Securities are subject to an Early 
+Redemption Event, then no interest shall be payable on the Securities.
+Accordingly, the potential return to investors, and the corresponding value of the Securities at a particular time, will be impacted 
+by the level of the Index at such time, the likelihood of an Early Redemption Event occurring and the value of the Initial Charged 
+Assets.
+
+--- Page 13 ---
+13
+ISSUE TERMS
+The terms and conditions of the Securities shall consist of the terms and conditions set out in the Base Prospectus (as 
+incorporated by reference into this Series Base Prospectus) as amended below by these Issue Terms and as completed by 
+the final terms, a form of which is provided in Schedule 1 (Form of Final Terms) (the “Final Terms”). Where the terms 
+and conditions set out in the Base Prospectus refer to certain information being specified in the “Final Terms”, such 
+references shall be deemed to be to the information specified under the sections titled “Contractual Terms” and “Other 
+Information” below as completed by the relevant Final Terms.
+PART A
+CONTRACTUAL TERMS
+PROHIBITION OF SALES TO UK RETAIL INVESTORS – The Securities are not intended to be offered, sold or 
+otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in the United 
+Kingdom ("UK"). For these purposes, a retail investor means a person who is one (or more) of: (i) a retail client, as defined 
+in point (8) of Article 2 of Regulation (EU) No 2017/565 as it forms part of domestic law by virtue of the European Union 
+(Withdrawal) Act 2018 ("EUWA"); (ii) a customer within the meaning of the provisions of the FSMA and any rules or 
+regulations made under the FSMA to implement Directive (EU) 2016/97, where that customer would not qualify as a 
+professional client, as defined in point (8) of Article 2(1) of Regulation (EU) No 600/2014 as it forms part of domestic law 
+by virtue of the EUWA; or (iii) not a qualified investor as defined in Article 2 of Regulation (EU) 2017/1129 as it forms 
+part of domestic law by virtue of the EUWA. Consequently no key information document required by Regulation (EU) 
+No 1286/2014 as it forms part of domestic law by virtue of the EUWA (the "UK PRIIPs Regulation") for offering or 
+selling the Securities or otherwise making them available to retail investors in the UK has been prepared and therefore 
+offering or selling the Securities or otherwise making them available to any retail investor in the UK may be unlawful 
+under the UK PRIIPs Regulation.
+MIFID II product governance / Retail investors, professional investors and ECPs target market – Solely for the 
+purposes of the manufacturer's product approval process, the target market assessment in respect of the Securities has led 
+to the conclusion that: (i) the target market for the Securities is eligible counterparties, professional clients and retail clients, 
+each as defined in Directive 2014/65/EU (as amended, "MiFID II"); and (ii) all channels for distribution of the Securities 
+are appropriate, including investment advice, portfolio management, non‑advised sales and pure execution services. Any 
+person subsequently offering, selling or recommending the Securities (a "distributor") should take into consideration the 
+manufacturer's target market assessment; however, a distributor subject to MiFID II is responsible for undertaking its own 
+target market assessment in respect of the Securities (by either adopting or refining the manufacturer's target market 
+assessment) and determining appropriate distribution channels, subject to the distributor’s suitability and appropriateness 
+obligations under MiFID II, as applicable. 
+UK MIFIR product governance / Professional investors and ECPs only target market – Solely for the purposes of 
+the manufacturer’s product approval process, the target market assessment in respect of the Securities has led to the 
+conclusion that: (i) the target market for the Securities is only eligible counterparties, as defined in the FCA Handbook 
+Conduct of Business Sourcebook ("COBS"), and professional clients, as defined in Regulation (EU) No 600/2014 as it 
+forms part of domestic law by virtue of the European Union (Withdrawal) Act 2018 ("UK MiFIR"); and (ii) all channels 
+for distribution of the Securities to eligible counterparties and professional clients are appropriate. Any person 
+subsequently offering, selling or recommending the Securities (a "distributor") should take into consideration the 
+manufacturer’s target market assessment; however, a distributor subject to the FCA Handbook Product Intervention and 
+Product Governance Sourcebook (the "UK MiFIR Product Governance Rules”) is responsible for undertaking its own 
+target market assessment in respect of the Securities (by either adopting or refining the manufacturer’s target market 
+assessment) and determining appropriate distribution channels. 
+Any person making or intending to make an offer of the Securities may only do so:
+(a)
+in those Public Offer Jurisdictions mentioned in Paragraph (iv) of Paragraph 7 of Part B below, provided such 
+person is a Dealer or Authorised Offeror (as such term is defined in the Base Prospectus (as defined below)) and 
+that the offer is made during the Offer Period specified in that paragraph and that any conditions relevant to the use 
+of the Base Prospectus are complied with; or
+
+--- Page 14 ---
+14
+(b)
+otherwise pursuant to an Exempt Offer in circumstances in which no obligation arises for the Issuer or any Dealer 
+to publish a prospectus pursuant to Article 3 of the Prospectus Regulation or to supplement a prospectus pursuant 
+to Article 23 of the Prospectus Regulation, in each case, in relation to such offer.
+Neither the Issuer nor any Dealer has authorised, nor do they authorise, the making of any offer of Securities in any other 
+circumstances.
+The Securities have the terms as set out in these issue terms (the "Issue Terms"), which will complete the Registered 
+Securities Base Conditions Module, August 2022 Edition (the "Registered Securities Base Conditions Module"), the 
+General Definitions Module, August 2022 Edition (the "General Definitions Module") and the Index Conditions Module, 
+August 2022 Edition (the "Index Linked Conditions Module") (together, the "Conditions").  
+The Registered Securities Base Conditions Module, the General Definitions Module and the Index Linked Conditions 
+Module are set out in the Base Prospectus dated 08 August 2022 (together, the “Base Prospectus”). This document 
+constitutes the Issue Terms of the Securities described herein and must be read in conjunction with the Base Prospectus
+and the applicable Final Terms in respect of a Tranche. Full information on the Issuer and the offer of the Securities is only 
+available on the basis of the combination of these Issue Terms, the applicable Final Terms in respect of a Tranche, the 
+Registered Securities Base Conditions Module, the Index Linked Conditions Module, the General Definitions Module and 
+the Base Prospectus. The Base Prospectus is available for viewing at www.live.euronext.com and during normal business 
+hours copies may be obtained from The Bank of New York Mellon, 160 Queen Victoria Street, London, EC4V 4LA, 
+United Kingdom.
+The purchase of Securities involves substantial risks and is suitable only for investors who have the knowledge and 
+experience in financial and business matters necessary to enable them to evaluate the risks and the merits of an 
+investment in the Securities. Before making an investment decision, prospective purchasers of Securities should 
+ensure that they understand the nature of the Securities and the extent of their exposure to risks and that they 
+consider carefully, in the light of their own financial circumstances, financial condition and investment objectives, 
+all the information set forth in the Base Prospectus (including "Risk Factors" on pages 28 to 71 of the Base 
+Prospectus), this Series Base Prospectus (including “Risk Factors” on pages 9 to 11 of this Series Base Prospectus)
+and these Issue Terms.
+1.
+Issuer:
+LUMINIS FINANCE PLC
+2.
+Name of compartment:
+Not Applicable
+3.
+(a)
+Series Number:
+2023-01
+(b)
+Class Number:
+Not Applicable
+(c)
+Tranche Number:
+As specified in the relevant Final Terms.
+(d)
+Date on which the Securities will be 
+consolidated and form a single Series:
+As specified in the relevant Final Terms.
+4.
+Type of Securities:
+Certificates
+5.
+Currency of Issue:
+Euro (“EUR”)
+6.
+Number of Units:
+(a)
+Series:
+As specified in the relevant Final Terms, provided that (i) 
+the Number of Units shall increase by an amount equal to 
+the Number of Units in respect of any Further Fungible 
+Securities issued and (ii) the Number of Units in respect of 
+this Series of Securities shall not exceed 200,000.
+
+--- Page 15 ---
+15
+(b)
+Class:
+Not Applicable
+(c)
+Tranche:
+As specified in the relevant Final Terms.
+7.
+Issue Price:
+As specified in the relevant Final Terms.
+8.
+(a)
+Unit Value:
+EUR 1,000
+9.
+(a)
+Issue Date:
+As specified in the relevant Final Terms.
+(b)
+Interest 
+Commencement 
+Date 
+(if 
+different from Issue Date):
+Not Applicable
+(c)
+Trade Date:
+As specified in the relevant Final Terms.
+10.
+Maturity Date:
+The date which falls ten Business Days following the Final 
+Valuation Date (the “Scheduled Maturity Date”), subject 
+to adjustment in accordance with the Business Day 
+Convention.
+11.
+Type of Securities:
+Index Linked
+12.
+Interest Basis:
+As per the further particulars specified in items 19 and 20 
+below
+13.
+Change of Interest Basis:
+Not Applicable
+14.
+Redemption/Payment Basis:
+Redemption at Par
+15.
+Put/Call Options:
+Not Applicable
+16.
+Status of the Securities:
+Secured limited recourse obligations of the Issuer 
+17.
+Method of distribution:
+Non-syndicated
+18.
+Instructing Creditor:
+Not Applicable
+PROVISIONS RELATING TO INTEREST (IF ANY) PAYABLE
+19.
+Interest Provisions:
+Applicable
+(a)
+Interest Payment Date(s):
+The Maturity Date.
+(b)
+Business Day Convention:
+Modified Following Business Day Convention
+(c)
+Additional Business Centre(s):
+London, TARGET2
+(d)
+Day Count Fraction:
+Not Applicable
+(e)
+Principal Determination Date:
+The first day of each Interest Period
+(f)
+Interest Calculation Date:
+The Final Valuation Date
+20.
+Fixed Rate Security Provisions:
+Applicable
+
+--- Page 16 ---
+16
+(a)
+Interest Amount:
+Condition 7.6 (Determination of Interest Amounts) shall be 
+deleted in its entirety and replaced with the following: 
+“The interest amount payable to a Holder shall be payable 
+where, on the Final Valuation Date, the Index Level is 
+above the Interest Barrier Percentage multiplied by the 
+Reference Price (Initial), and in such case, shall be 
+determined by the Calculation Agent using the following 
+formula:
+A x B/C
+Where,
+“A” means the product of the Participation Rate and the 
+Performance Amount.
+“B” means the Number of Units held by such Holder. 
+“C” means the total Number of Units of this Series. 
+“Averaging Date” means the Final Valuation Date. 
+“Exchange” means FTSE International Limited.  
+“Final Valuation Date” means the Scheduled Valuation 
+Date, provided that if such day is not an Index Valuation 
+Day, the next following Index Valuation Day.    
+“Index” means FTSE MIB Index (and shall be a “Unitary 
+Index” for the purposes of the Index Linked Conditions).  
+“Index Sponsor” means FTSE International Limited. 
+“Initial Valuation Date” means the Issue Date of Tranche 
+1 of the Securities, provided that if such day is not an Index 
+Valuation Day, the next following Index Valuation Day.
+“Interest Barrier Percentage” means 100%.  
+“Interest Valuation Date” means the Final Valuation 
+Date
+“Participation Rate” means 100%.
+“Performance Amount” means either (i) Reference Price 
+(Final) / Reference Price (Initial) -100% or (ii) max (100%, 
+Reference Price (Final) / Reference Price (Initial) -100%), 
+as specified in the relevant Final Terms.
+“Reference Price (Final)” means the Final Index Level.
+“Reference Price (Initial)” means the Index Level on the 
+Initial Valuation Date.  
+“Related Exchange” means All Exchanges.  
+“Scheduled Valuation Date” means 05 June 2029, subject 
+to adjustment in accordance with the Business Day 
+Convention.
+“Valuation Date” means the Final Valuation Date.
+
+--- Page 17 ---
+17
+(b)
+Index Level Conditions
+For the purposes of Condition 2 of the Index Linked 
+Conditions, the Securities relate to a single Index and 
+“Single Index and Reference Dates” apply.
+For the purposes of Condition 2 of the Index Linked 
+Conditions, Postponement and No Adjustment shall apply. 
+(i)
+Dividend Amount Conditions:
+Not Applicable
+(ii)
+Index-Linked Derivatives Contract 
+Condition:
+Not Applicable
+For the purposes of Condition 4.2 of the Index Linked 
+Conditions, Calculation Agent Adjustment shall apply.
+(iii)
+Correction of Index Level:
+Applicable
+(iv)
+Index Disclaimer:
+Applicable
+21.
+Floating Rate Security Provisions:
+Not Applicable
+22.
+Interest Rate Payout Securities:
+Not Applicable
+23.
+Zero Coupon Security Provisions:  
+Not Applicable
+24.
+FX Linked Securities:
+Not Applicable
+PROVISIONS RELATING TO REDEMPTION 
+25.
+Issuer Call:
+Not Applicable
+26.
+Investor Put:
+Not Applicable
+27.
+Final Redemption Amount:
+EUR 1,000 per Certificate. 
+28.
+Early Redemption Amount and/or the method of 
+calculating the same (if required):
+As per the definition of Early Redemption Amount in the 
+General Definitions Module.
+Loss Waterfall: Not Applicable
+29.
+Instalment Securities:
+Not Applicable
+30.
+Physical Delivery Securities:
+Not Applicable
+31.
+Optional Amendment Events:
+(a)
+Initial Charged Assets Amendment 
+Event:
+Applicable
+(b)
+Euro Dissolution Event:
+Applicable
+(c)
+Margin Shortfall Event:
+Not Applicable
+
+--- Page 18 ---
+18
+(d)
+MTM Trigger Event:
+Not Applicable
+(e)
+Swap Regulatory Treatment Event:
+Applicable
+32.
+Optional Early Redemption Events relating to 
+Initial Charged Assets:
+(a)
+Initial Charged Assets Non-Repayment 
+Event:
+Not Applicable
+(b)
+Initial Charged Assets Non-Delivery 
+Event:
+Not Applicable
+33.
+Optional Early Redemption Events relating to 
+Swap Agreement and/or Repo Agreements:
+(a)
+Margin Shortfall Event:
+Not Applicable
+(b)
+MTM Trigger Event:
+Not Applicable
+34.
+Optional Early Redemption Events relating to 
+programme parties:
+(a)
+Arranger Insolvency Event:
+Applicable
+(b)
+Custodian/Principal 
+Paying 
+Agent 
+Event:
+Applicable
+35.
+Optional Early Redemption Events relating to 
+regulatory changes:
+(a)
+Illegality Event:
+Applicable
+(b)
+Change in Law Event:
+Applicable
+(c)
+Regulatory Treatment Event:
+Applicable
+Limb (a) of the definition of “Regulatory Treatment 
+Event” shall be deleted in its entirely and replaced with the 
+following:
+“(a) Any governmental, legal or regulatory body 
+determines that the Issuer is an alternative fund 
+within the meaning of Article 4(1)(a) of AIFMD, or 
+a fine or a sanction of any nature that is validly 
+imposed, or formal legal proceedings are instituted 
+(and not dismissed within 30 days), by any 
+governmental, legal, regulatory body or by the Borsa 
+Italiana S.p.A on or against the Issuer;”
+(d)
+Swap Regulatory Treatment Event:
+Applicable
+(e)
+Euro Dissolution Event:
+Applicable
+(f)
+Benchmark Fallback Failure Event:
+Not Applicable
+
+--- Page 19 ---
+19
+36.
+Optional Early Redemption Events relating to 
+taxation:
+Adjusted Adverse Tax Event:
+Not Applicable. 
+PROVISIONS RELATING TO SECURITY
+37.
+Initial Charged Assets:
+The Initial Charged Assets shall comprise the Initial 
+Charged Assets specified below, together with any Further 
+Charged Assets in respect of any Further Fungible 
+Securities. 
+As at the Issue Date in respect of Tranche 1, the Initial 
+Charged Assets shall comprise EUR 20,000,000 in 
+principal amount of an issue by the Republic of Italy of 2.8
+per cent. per annum senior unsecured bonds due 15 June 
+2029 identified below:
+Initial Charged Assets issuer: The Republic of Italy 
+Address: Via Venti Settembre, 97, 00187 Roma RM, Italy
+Country of Establishment: Italy
+Business activities: Sovereign
+Listed on the following stock exchanges/admitted to 
+trading on the following regulated market, or equivalent 
+third market or SME Growth Market: Borsa Italiana 
+MOT
+Borrowed Money Obligation: Not Applicable
+Callable Charged Assets: Not Applicable
+Initial Charged Assets Repudiation/Moratorium: Not 
+Applicable
+Initial Charged Assets Governmental Intervention: 
+Applicable
+
+--- Page 20 ---
+20
+Asset:
+ISIN: IT0005495731
+Asset Principal Amount: EUR 20,000,000
+Coupon: 2.80% per annum, payable semi-annually on 15
+June and December
+each
+year, with the interest 
+commencement date being 16 May 2022.
+Asset Maturity: 15 June 2029
+Currency: EUR
+Governing Law: Italian law
+Bloomberg Ticker: BTPS 2.8 06/15/29
+Status: Senior unsecured
+Listing on the following stock exchanges: Gettex, Börse 
+Dusseldorf, Börse Frankfurt, Börse Munich, Börse 
+Stuttgart, EuroTLX, HI-MTF and MOT.
+(a)
+Amount of the Initial Charged Assets:
+EUR 20,000,000 as at the Issue Date in respect of Tranche 
+1.
+(b)
+Price:
+Not Applicable
+(c)
+Initial Delivery Cut-Off Date:
+As per the General Definitions Module
+(d)
+Realisation Period End Date:
+10 Business Days. 
+(e)
+Realisation Cut-Off Date:
+Not Applicable
+(f)
+Self Purchase:
+Applicable
+38.
+Substitution of Charged Assets:
+(a)
+At the direction of the Counterparty or 
+Repo 
+Counterparty 
+pursuant 
+to 
+Condition 
+4.5(a)
+(Charged 
+Asset 
+Substitution):
+Not Applicable
+(b)
+At the direction of a Requesting Holder 
+pursuant to Condition 4.5(b) (Charged 
+Asset Substitution):
+Not Applicable
+39.
+Swap Agreements:
+(a)
+Swap Agreement(s):
+A 2002 ISDA Master Agreement and Schedule thereto (in 
+the form of the Swap Schedule Terms Module, August
+2022 Edition), as supplemented by a confirmation with an 
+effective date of the Issue Date comprising a swap 
+transaction (the "Swap Transaction") between the Issuer 
+and the Swap Counterparty (together, the "Swap 
+Agreement").
+
+--- Page 21 ---
+21
+(b)
+Swap Counterparty:
+Goldman Sachs International
+(c)
+Swap Agreement Confirmation Terms:
+Transaction type:
+Interest Rate Swap
+See Part C
+(d)
+Credit Support Annex:
+Applicable
+Two Way
+(e)
+Credit Support Annex – Terms:
+See Part D
+(f)
+Net Settlement:
+Applicable
+(g)
+Eligible Transferee Credit Rating:
+Not Applicable
+(h)
+Collateral Redelivery:
+Applicable
+40.
+Repo Agreements:
+Not Applicable
+41.
+Custodian Account details:
+Pledged Accounts: 
+Securities Account No. 437692 (LUMINIS FINANCE 
+PLC 2023-01) linked to Euroclear 27017 or such other 
+account as may be advised by the Custodian from time to 
+time. 
+Linked to CAD Cash Account No. 437693
+Linked EUR Cash Account No. 4376939780
+Linked GBP Cash Account No. 4376938260
+Linked JPY Cash Account No. 4376933920
+Linked USD Cash Account No. 4376938400
+Linked CHF Cash Account No. 4376937560
+or such other account as may be advised by the Custodian 
+from time to time
+42.
+Swap Counterparty Account details:
+EUR
+Reference: Luminis Finance Plc 2023-01
+Intermediary Details
+ROUTING CODE: CHASDEFX
+NAME: J.P.MORGAN AG
+LOCATION: FRANKFURT AM MAIN
+Final Beneficiary Details
+ROUTING CODE: GSILGB2X
+NAME: GOLDMAN SACHS INTERNATIONAL
+ACCOUNT: DE57501108006231605921
+
+--- Page 22 ---
+22
+43.
+Additional Charging Document: 
+Not Applicable
+44.
+FX Linked Securities:
+Not Applicable
+45.
+Credit Linked Securities:
+Not Applicable
+GENERAL PROVISIONS APPLICABLE TO THE SECURITIES
+46.
+Non-Representative Trigger Event:
+Not Applicable
+47.
+Whether the Issuer is able to purchase any of the 
+Securities pursuant to Condition 9 (Purchase):
+Yes
+48.
+Form of Securities:
+(a)
+Form:
+Registered Securities:
+Global Security (20,000 units, subject to the issuance of 
+any Further Fungible Securities), registered in the name of 
+a nominee for a common depositary for Euroclear and 
+Clearstream, Luxembourg exchangeable for Definitive 
+Securities upon an Exchange Event.
+(b)
+New Global Note:
+No
+49.
+Additional Financial Centre(s) or other special 
+provisions relating to Payment Days:
+London and TARGET2
+50.
+Talons for future Coupons or Receipts to be 
+attached to Definitive Securities: 
+No
+51.
+Details relating to Partly Paid Securities: amount 
+of each payment comprising the Issue Price and 
+date on which each payment is to be made and 
+consequences (if any) of failure to pay, including 
+any rights of the Issuer to forfeit the Securities 
+and interest due on late payment:
+Not Applicable
+AGENTS AND OTHER PARTIES AND DISTRIBUTION
+52.
+Arranger:
+Goldman Sachs International
+Plumtree Court
+25 Shoe Lane
+London
+EC4A 4AU
+53.
+Trustee:
+BNY Mellon Corporate Trustee Services Limited
+160 Queen Victoria Street
+London
+EC4V 4LA
+United Kingdom
+54.
+Principal Paying Agent
+The Bank of New York Mellon, London Branch
+160 Queen Victoria Street
+London 
+EC4V 4LA
+United Kingdom
+
+--- Page 23 ---
+23
+55.
+Custodian:
+The Bank of New York Mellon SA/NV, 
+Luxembourg Branch
+Vertigo Building – Polaris 
+2-4 Rue Eugène Ruppert 
+L-2453 Luxembourg 
+Grand Duchy of Luxembourg
+56.
+Calculation Agent:
+Goldman Sachs International
+Plumtree Court
+25 Shoe Lane
+London
+EC4A 4AU
+57.
+Selling Agent:
+Goldman Sachs International
+Plumtree Court
+25 Shoe Lane
+London
+EC4A 4AU
+58.
+Vendor:
+Goldman Sachs International
+Plumtree Court
+25 Shoe Lane
+London
+EC4A 4AU
+59.
+Issuer's Process Agent:
+Goldman Sachs International
+Plumtree Court
+25 Shoe Lane
+London
+EC4A 4AU
+60.
+Registrar:
+The Bank of New York Mellon SA/NV, 
+Luxembourg Branch
+Vertigo Building – Polaris 
+2-4 Rue Eugène Ruppert 
+L-2453 Luxembourg 
+Grand Duchy of Luxembourg
+61.
+Transfer Agent:
+The Bank of New York Mellon SA/NV, 
+Luxembourg Branch
+Vertigo Building – Polaris 
+2-4 Rue Eugène Ruppert 
+L-2453 Luxembourg 
+Grand Duchy of Luxembourg
+62.
+Authentication Agent:
+The Bank of New York Mellon SA/NV, 
+Luxembourg Branch
+Vertigo Building – Polaris 
+2-4 Rue Eugène Ruppert 
+L-2453 Luxembourg 
+Grand Duchy of Luxembourg
+63.
+Additional Agent(s):
+Not Applicable
+64.
+(a)
+If syndicated, names of Managers:
+Not Applicable
+(b)
+Stabilisation Manager(s) (if any)
+Not Applicable
+
+--- Page 24 ---
+24
+65.
+If Non-syndicated, name of any Dealer(s):
+Not Applicable
+66.
+U.S. Selling Restrictions:
+Regulation S; TEFRA Not Applicable
+67.
+United States Tax Considerations:
+The Swap Agreement is not subject to a 30 per cent. 
+withholding tax under Section 871(m) of the U.S. Internal 
+Revenue Code of 1986.
+68.
+Other Provisions:
+Condition 5 (Application of Secured Property) shall be 
+deleted and the following substituted thereafter: 
+“5.1 Prior to the security created by the Trust Instrument 
+becoming enforceable, the Issuer shall apply the 
+Realisation Amount plus the Swap Termination 
+Amount payable to the Issuer (if any) as set out in (a) 
+to (g) below: 
+(a) FIRST, in payment or satisfaction of all amounts 
+then due and unpaid under the Transaction 
+Documents to the Trustee and/or any Appointee 
+(including any Taxes required to be paid, the costs 
+of realising any security and the Trustee's 
+remuneration);
+(b) SECONDLY (without duplication), in payment or 
+satisfaction of all amounts then due and unpaid to 
+any Agent under the Agency Agreement and to the 
+Custodian 
+under 
+the 
+Custody 
+Agreement 
+(including any Taxes required to be paid and the 
+Agents' and the Custodian's remuneration);
+(c) THIRDLY, if an Arranger Insolvency Event has 
+occurred and is continuing, in payment or 
+satisfaction of any fees payable by the Issuer in 
+connection with the maintenance of its corporate 
+existence, including any audit fees, taxes, legal fees, 
+anticipated winding up fees, (in the case of the Irish 
+Issuer) the Irish Issuer Profit Amount, corporate 
+benefit fees, governmental and other regulatory fees 
+and fees and expenses payable to the administrator 
+of the Issuer under the relevant agreement(s) 
+appointing such administrator and any ancillary 
+agreements relating to the Issuer's corporate 
+existence (such amounts to be communicated to the 
+Trustee and apportioned pro rata among all 
+outstanding Series of the Issuer);
+(d) FOURTHLY, in meeting the claims of the Swap 
+Counterparty under the Swap Agreement (if any);
+(e) FIFTHLY, in meeting the claims of Borsa Italiana 
+S.p.A pursuant to a Regulatory Treatment Event; 
+(f) SIXTHLY, in meeting the claims of the Holders 
+under the Securities on a pari passu and pro rata 
+basis; and
+
+--- Page 25 ---
+25
+(g) SEVENTHLY, in payment or delivery, as 
+applicable, of the balance (if any) to the Issuer 
+(without prejudice to, or liability in respect of, any 
+question as to how such payment or delivery to the 
+Issuer shall be dealt with as between the Issuer and 
+any other person).
+For the avoidance of doubt, the Swap Counterparty 
+(if any) shall not have any claim in respect of the 
+Issuer's Rights under the Swap Agreement (including 
+any Credit Support Annex).
+5.2 Following the security becoming enforceable in 
+accordance with the terms of the Security Documents, 
+the Trustee will hold the Realisation Amount plus the 
+Swap Termination Amount (if any) on trust to apply 
+such amount as set out in (a) to (f) below:
+(a) FIRST, in payment or satisfaction of all amounts 
+then due and unpaid under the Transaction 
+Documents to the Trustee and/or any Appointee 
+(including any Taxes required to be paid, the costs 
+of realising any security and the Trustee's 
+remuneration);
+(b) SECONDLY (without duplication), in payment or 
+satisfaction of all amounts then due and unpaid to 
+any Agent under the Agency Agreement and to the 
+Custodian 
+under 
+the 
+Custody 
+Agreement 
+(including any Taxes required to be paid and the 
+Agents' and the Custodian's remuneration);
+(c) THIRDLY, if an Arranger Insolvency Event has 
+occurred and is continuing, in payment or 
+satisfaction of any fees payable by the Issuer in 
+connection with the maintenance of its corporate 
+existence, including any audit fees, taxes, legal fees, 
+anticipated winding up fees, (in the case of the Irish 
+Issuer) the Irish Issuer Profit Amount, corporate 
+benefit fees, governmental and other regulatory fees 
+and fees and expenses payable to the administrator 
+of the Issuer under the relevant agreement(s) 
+appointing such administrator and any ancillary 
+agreements relating to the
+Issuer's corporate 
+existence (such amounts to be communicated to the 
+Trustee and apportioned pro rata among all 
+outstanding Series of the Issuer);
+(d) FOURTHLY, in meeting the claims of the Swap 
+Counterparty under the Swap Agreement (if any);
+(e) FIFTHLY, in meeting the claims of the Holders 
+under the Securities on a pari passu and pro rata 
+basis; and
+
+--- Page 26 ---
+26
+(f) SIXTHLY, in payment or delivery, as applicable, 
+of the balance (if any) to the Issuer (without 
+prejudice to, or liability in respect of, any question
+as to how such payment or delivery to the Issuer 
+shall be dealt with as between the Issuer and any 
+other person).
+For the avoidance of doubt, the Swap Counterparty shall 
+not have any claim in respect of the Issuer's Rights under 
+the Swap Agreement (including any Credit Support 
+Annex).”
+Signed on behalf of LUMINIS FINANCE PLC
+By: ..............................................................................
+Duly authorised signatory
+
+--- Page 27 ---
+27
+PART B
+OTHER INFORMATION
+1.
+LISTING AND ADMISSION TO TRADING
+(i)
+Listing and admission to trading:
+Application has been made by the Issuer (or on its behalf) 
+for Tranche 1 of the Securities to be admitted to trading on 
+the SeDeX market, a multilateral trading facility of 
+securitised derivatives financial instruments, organised 
+and managed by Borsa Italiana S.p.A. ("SeDeX"). The 
+admission to trading of a Tranche of the Securities is 
+expected to be on or around the Issue Date of such 
+Tranche.
+No assurances can be given that such application for 
+admission to trading will be granted (or, if granted will be 
+granted on the Issue Date of such Tranche).
+The Issuer has no duty to maintain the listing (if any) of 
+the Securities on the relevant stock exchange(s) over their 
+entire lifetime. The Securities may be suspended from 
+trading and/or de-listed at any time in accordance with 
+applicable rules and regulations of the relevant stock 
+exchange(s).
+(ii)
+Estimate of total expenses related to 
+admission to trading:
+€4,500
+2.
+INTERESTS OF NATURAL AND LEGAL PERSONS INVOLVED IN THE ISSUE
+As far as the Issuer is aware, no person involved in the issue of the Securities has an interest material to the offer. The 
+Issuer will pay third parties to carry out advertising activities. Please see section “Distribution – Offer Period” below.
+3.
+REASONS FOR THE OFFER, ESTIMATED NET PROCEEDS AND TOTAL EXPENSES
+(i)
+Reasons for the offer:
+The net proceeds from Tranche 1 of the Securities will be 
+applied by the Issuer to purchase the Initial Charged 
+Assets applicable to the Series and/or to fund any initial 
+payment obligations under
+the
+Swap Agreement 
+(including the Credit Support Annex) and/or in meeting 
+certain expenses and fees payable in connection with the 
+operations of the Issuer and the issue of the Securities.
+(ii)
+Estimated net proceeds:
+EUR 20,000,000 (in respect of the issuance of Tranche 1
+of the Securities on the Issue Date of such Tranche).
+(iii)
+Estimated total expenses:
+Not Applicable
+4.
+YIELD (Fixed Rate Securities only)
+Indication of yield:
+Not Applicable
+5.
+PERFORMANCE OF RATES OF INDEX AND OTHER INFORMATION CONCERNING THE 
+INDEX ASSET
+
+--- Page 28 ---
+28
+Information relating to the Index can be found on the website of the Index Sponsor, at
+https://research.ftserussell.com/products/downloads/FTSE_MIB_Index__English_.pdf
+The interest amount payable on the Securities is linked to the value or performance of the Index as of the Final 
+Valuation Date.
+Therefore, the market price or the value of the Securities at any time is expected to be affected by changes in 
+the value of the Index to which the Securities are linked.
+6.
+OPERATIONAL INFORMATION
+(i)
+ISIN:
+XS2576261304
+(ii)
+Common Code:
+257626130
+(iii)
+CFI:
+DAVNFR
+(iv)
+FISN:
+LUMINIS FINANCE/VARASST BKD 2029061
+(v)
+Any clearing system(s) other than 
+Euroclear 
+and 
+Clearstream, 
+Luxembourg 
+and 
+the 
+relevant 
+identification number(s):
+Not Applicable
+(vi)
+Delivery:
+Delivery free of payment
+(vii)
+Intended to be held in a manner which 
+would allow Eurosystem eligibility:
+No. Whilst the designation is specified as "no" at the date 
+of these Issue Terms, should the Eurosystem eligibility 
+criteria be amended in the future such that the Securities 
+are capable of meeting them the Securities may then be 
+deposited with one of the ICSDs as common safekeeper 
+and registered in the name of a nominee of one of the 
+ICSDs acting as common safekeeper. Note that this does 
+not necessarily mean that the Securities will then be 
+recognised as eligible collateral for Eurosystem monetary 
+policy and intra day credit operations by the Eurosystem 
+at any time during their life. Such recognition will depend 
+upon the ECB being satisfied that Eurosystem eligibility 
+criteria have been met.
+7.
+DISTRIBUTION
+(i)
+Stabilisation Manager(s) (if any):
+Not Applicable
+(ii)
+Name and address of Dealer:
+Goldman Sachs International
+Plumtree Court
+25 Shoe Lane
+London
+EC4A 4AU
+Dealer Securities Depositary Account Details: EC 94589
+(iii)
+Total commission, concession and/or 
+fees:
+The Issuer will pay third parties to carry out advertising 
+activities. Please see “Offer Period” below.
+(iv)
+Non-exempt Offer:
+As specified in the relevant Final Terms.
+
+--- Page 29 ---
+29
+(v)
+Public Offer Jurisdictions:
+As specified in the relevant Final Terms.
+(vi)
+Offer Period:
+As specified in the relevant Final Terms.
+(vii)
+Financial 
+intermediaries 
+granted 
+specific consent to use the Base 
+Prospectus in accordance with the 
+Conditions in it:
+The Dealer.
+(viii)
+Other Authorised Offeror Terms:
+Not Applicable
+(ix)
+Prohibition of Sales to UK Retail 
+Investors:
+Applicable
+(x)
+Prohibition of Sales to EEA Retail 
+Investors:
+Not Applicable
+(xi)
+Swiss withdrawal right pursuant to 
+article 63 para 5 FinSO:
+Applicable
+8.
+TERMS AND CONDITIONS OF THE OFFER
+Offer Price:
+The Securities will be offered at the market price which 
+will be determined by the Dealer on a continuous basis in 
+accordance with the market conditions then prevailing.
+Depending on market conditions, the offer price shall be 
+equal, higher or lower than the Issue Price of the 
+Securities.
+Method Investments & Advisory Ltd (in its capacity as 
+appointed specialist under the SeDeX rules) (the 
+"Specialist") will publish offer prices (and bid prices) at 
+which the Specialist is prepared to sell (and purchase) the 
+Securities on the SeDeX.
+Conditions to which the offer is subject:
+Not Applicable
+Description of the application process:
+Securities
+may 
+be 
+purchased 
+from 
+any 
+market 
+intermediary approved and admitted to trading on the 
+SeDeX by Borsa Italiana S.p.A. (each, an "Authorised 
+Intermediary"), and purchase and settlement of the 
+Securities shall be in accordance with the usual rules of the 
+SeDeX.
+Details of the minimum and/or maximum amount of 
+application:
+The maximum amount of application: Not Applicable.
+The minimum amount of application: Unit value (as 
+specified in paragraph 8 of the Contractual Terms).
+Description of possibility to reduce subscriptions and 
+manner for refunding excess amount paid by applicants:
+Not Applicable
+Details of the method and time limits for paying up and 
+delivering the Securities:
+Each Tranche of the Securities will be issued by the Issuer 
+on the corresponding Issue Date of such Tranche and held 
+by it in inventory. Investors may purchase the Securities
+on SeDeX by payment of the purchase price to an
+
+--- Page 30 ---
+30
+Authorised Intermediary. Purchase and sale contracts 
+concluded on the SeDeX market shall be settled on the 
+second day following their conclusion, subject to and in 
+accordance with the applicable SeDeX rules.
+Manner in and date on which results of the offer are to be 
+made public:
+Not Applicable.
+Procedure for exercise of any right of pre-emption, 
+negotiability of subscription rights and treatment of 
+subscription rights not exercised:
+Not Applicable.
+Whether tranche(s) have been reserved for certain 
+countries:
+Not Applicable.
+Process for notification to applicants of the amount 
+allotted and the indication whether dealing may begin 
+before notification is made:
+Not Applicable.
+No dealings in Securities may take place prior to the first 
+day of trading of the Securities on SeDeX.
+Amount of any expenses and taxes specifically charged to 
+the subscriber or purchaser:
+The Entry Costs (as described in Commission Delegated 
+Regulation 
+(EU) 
+2017/653, 
+which 
+supplements 
+Regulation (EU) No 1286/2014) contained in the price of 
+the Securities as of the date of this Series Base Prospectus
+are EUR 46.00 per Certificate. Such Entry Costs may 
+change during the Offer Period and over the term of the 
+Securities. For the amount of the Entry Costs at the time 
+of purchase, please refer to the cost disclosure under 
+Regulation (EU) No 1286/2014.
+There are no expenses specifically charged by the Issuer 
+or Dealer to the subscriber or purchaser other than as 
+specified in this paragraph.
+Please refer to "Irish Taxation" in the section entitled 
+"Taxation" in the Base Prospectus.
+Expenses, taxes and other fees may be charged by the 
+Authorised 
+Intermediary: 
+potential 
+purchasers 
+of 
+Certificates should check with the relevant Authorised 
+Intermediary.
+Conditions attached to the consent:
+The Issuer consents to the use of the Base Prospectus and 
+this Series Base Prospectus in connection with the making 
+of an offer of the Securities to the public requiring the prior 
+publication of a prospectus under the EU Prospectus 
+Regulation (a "Non-exempt Offer") by the Dealer (the 
+"Authorised Offeror") in the Public Offer Jurisdiction.
+The Authorised Offeror (i) has the Issuer's consent to use 
+the Base Prospectus and this Series Base Prospectus in 
+respect of offers of the Securities made in the Public Offer 
+Jurisdiction provided that it complies with all applicable 
+laws and regulations, and (ii) has the Issuer's consent to 
+use the Base Prospectus and this Series Base Prospectus in 
+respect of private placements of the Securities that do not 
+subject the Issuer or any affiliate of the Issuer to any
+
+--- Page 31 ---
+31
+additional obligation to make any filing, registration, 
+reporting or similar requirement with any financial 
+regulator or other governmental or quasi-governmental 
+authority or body or securities exchange, or subject any 
+officer, director or employee of the Issuer or any affiliate 
+of the Issuer to personal liability, where such private 
+placements are conducted in compliance with the 
+applicable laws of the relevant jurisdictions thereof.
+Name(s) and address(es), to the extent known to the Issuer, 
+of the placers in the various countries where the offer takes 
+place.
+The Dealer.
+Name and address of the entities which have a firm 
+commitment to act as intermediaries in secondary trading, 
+providing liquidity through bid and offer rates and 
+description of the main terms of their commitment:
+Method Investments & Advisory Ltd
+40 New Bond Street 
+London
+W1S 2RX
+United Kingdom
+9.
+BENCHMARK REGULATION
+Benchmark Regulation: Article 29(2) statement on 
+benchmarks:
+Applicable.
+Amounts payable under the Securities are calculated by 
+reference to FTSE MIB Index, which is provided by FTSE 
+International Limited.
+As at the date of this Series Base Prospectus, FTSE 
+International Limited is not included in the register of 
+administrators 
+and 
+benchmarks 
+established 
+and 
+maintained by the European Securities and Markets 
+Authority ("ESMA") pursuant to article 36 of the 
+Benchmark Regulation (Regulation (EU) 2016/1011) (the 
+"BMR").
+10.
+POST ISSUANCE REPORTING
+The Issuer does not intend to provide any post issuance 
+information in relation to the Securities or in relation to the 
+Charged Assets, unless required to do so by applicable 
+law.
+11.
+BOARD APPROVAL
+The issue of Tranche 1 of the Securities has been 
+authorised by the Board on 27 January 2023. With respect 
+to each other relevant Tranche of Securities, as specified 
+in the relevant Final Terms.
+12.
+REPLACEMENT AND TERMINATION OF 
+CALCULATION AGENT
+Not Applicable
+13.
+RATINGS
+Not Applicable
+14.
+THIRD PARTY INFORMATION
+Not Applicable
+15.
+OPINIONS
+The Securities are not covered by the Irish law Master 
+Opinion and English law Master Opinion.
+
+--- Page 32 ---
+32
+INDEX DISCLAIMER
+FTSE MIB Index
+The Securities are not in any way sponsored, endorsed, sold or promoted by FTSE International Limited (“FTSE”) or the 
+London Stock Exchange Group companies (“LSEG”) (together the “Licensor Parties”) and none of the Licensor Parties 
+make any claim, prediction, warranty or representation whatsoever, expressly or impliedly, either as to (i) the results to be 
+obtained from the use of FTSE MIB Index (upon which the Securities are based), (ii) the figure at which FTSE MIB Index 
+is said to stand at any particular time on any particular day or otherwise, or (iii) the suitability of the Index for the purpose 
+to which it is being put in connection with the Securities. None of the Licensor Parties have provided or will provide any 
+financial or investment advice or recommendation in relation to the Index to the Issuer or to its clients. FTSE MIB Index 
+is calculated by FTSE or its agent. None of the Licensor Parties shall be (a) liable (whether in negligence or otherwise) to 
+any person for any error in the Index or (b) under any obligation to advise any person of any error therein. All rights in the 
+Index vest in FTSE. “FTSE®” is a trade mark of LSEG and is used by FTSE under licence.
+
+--- Page 33 ---
+33
+SCHEDULE 1 TO THE ISSUE TERMS:
+FORM OF FINAL TERMS
+The form of Final Terms that will be issued in respect of each Tranche of the Securities, subject only to the 
+deletion of non-applicable provisions, is set out below. Prospective investors in each Tranche of the Securities 
+should read the Summary provided in Schedule 1 (Summary) to these Final Terms.
+[date]
+LUMINIS FINANCE PLC
+(a public limited company incorporated in Ireland with registration number 635696, with a registered office at 32 
+Molesworth Street, Dublin 2, Ireland) 
+Legal entity identifier (LEI): 54930067RSRCM166RP48
+(the "Issuer")
+FINAL TERMS
+Issue of
+Series 2023-01
+Up to 200,000 Index Linked Certificates due 2029
+(the "Certificates" or the "Securities")
+under the Limited Recourse Securities Programme
+Arranger and Dealer
+Goldman Sachs International
+The Securities have the terms as set out in the Issue Terms dated 03 March 2023 as completed by these final terms (the 
+"Final Terms"), which will complete the Registered Securities Base Conditions Module, August 2022 Edition (the 
+"Registered Securities Base Conditions Module"), the General Definitions Module, August 2022 Edition (the "General 
+Definitions Module") and the Index Conditions Module, August 2022 Edition (the "Index Linked Conditions Module") 
+(together, the "Conditions").  
+The Registered Securities Base Conditions Module, the General Definitions Module and the Index Linked Conditions 
+Module are set out in the Base Prospectus dated 08 August 2022 (together, the “Base Prospectus”). This document 
+constitutes the Final Terms of the Securities described herein and must be read in conjunction with the Base Prospectus
+and the series base prospectus dated 03 March 2023 (the “Series Base Prospectus”). Full information on the Issuer and 
+the offer of the Securities is only available on the basis of the combination of these Final Terms, the Issue Terms, the Series 
+Base Prospectus, the Registered Securities Base Conditions Module, the Index Linked Conditions Module, the General 
+Definitions Module and the Base Prospectus. The Base Prospectus is available for viewing at www.live.euronext.com and 
+during normal business hours copies may be obtained from The Bank of New York Mellon, 160 Queen Victoria Street, 
+London, EC4V 4LA, United Kingdom.
+1.
+Tranche Number:
+[●]
+
+--- Page 34 ---
+34
+2.
+Date on which the Securities will be consolidated 
+and form a single Series:
+[●] 
+3.
+Issue Date:
+[●] 
+4.
+Trade Date:
+[●] 
+5.
+Aggregate Number of Certificates in the Series:
+[●] (including the Certificates issued in this Tranche), 
+provided that the Number of Units shall not exceed 
+200,000.
+6.
+Aggregate Number of Certificates
+in the 
+Tranche:
+[●] 
+7.
+Issue Price:
+EUR [●] per Certificate
+8.
+Listing and admission to trading:
+Application has been made by the Issuer (or on its behalf) 
+for Tranche [Tranche Number to be specified] of the 
+Securities to be admitted to trading on the SeDeX market, 
+a multilateral trading facility of securitised derivatives 
+financial instruments, organised and managed by Borsa 
+Italiana S.p.A. ("SeDeX"). The admission to trading of
+Tranche [Tranche Number to be specified] of the 
+Securities is expected to be on or around the Issue Date of 
+such Tranche.
+No assurances can be given that such application for 
+admission to trading will be granted (or, if granted will be 
+granted on the Issue Date of such Tranche).
+The Issuer has no duty to maintain the listing (if any) of 
+the Securities on the relevant stock exchange(s) over their 
+entire lifetime. The Securities may be suspended from 
+trading and/or de-listed at any time in accordance with 
+applicable rules and regulations of the relevant stock 
+exchange(s).
+9.
+Public Offer Jurisdictions: 
+Italy
+10.
+Non-exempt Offer:
+An offer of the Securities of this Tranche may be made by 
+the Dealer other than pursuant to Article 1(4) of the EU 
+Prospectus Regulation in the Republic of Italy (the "Public 
+Offer Jurisdiction") during the period commencing on 
+(and including) the day on which the Securities of this 
+Tranche are admitted to trading on the SeDeX and ending 
+on (and including) the date on which the Dealer ceases to 
+carry on active marketing activities in respect of the 
+Securities of such Tranche in the Public Offer Jurisdiction, 
+which date is expected to fall on or around [●] (the "Offer 
+Period"). 
+11.
+Offer Period:
+As specified under Non-exempt Offer above.
+The Issuer will pay third parties to carry out advertising 
+activities.
+
+--- Page 35 ---
+35
+The Offer Period is subject to adjustment by or on behalf 
+of the Issuer in accordance with the applicable regulations 
+and any adjustments to such period will be set out in one 
+or 
+more 
+notices 
+to 
+be 
+made 
+available 
+on 
+https://www.goldman-sachs.it/
+The offer of the Securities of this Tranche may be 
+withdrawn in whole or in part at any time at the discretion 
+of the Issuer or the Dealer and any such withdrawal will be 
+set out in one or more notices to be made available on 
+https://www.goldman-sachs.it/
+12.
+Performance Amount:
+[specify][Reference Price (Final) / Reference Price (Initial) 
+-100%] / [Max (100%, Reference Price (Final) / Reference 
+Price (Initial) -100%)]
+13.
+Board Approval:
+[●]
+Responsibility
+The Issuer accepts responsibility for the information contained in these Final Terms.
+These Final Terms are hereby executed by or on behalf of the Issuer.
+For and on behalf of 
+LUMINIS FINANCE PLC
+By………………………………………
+
+--- Page 36 ---
+36
+SCHEDULE 1 TO THE FINAL TERMS:
+SUMMARY
+[Summary to be appended to a completed Final Terms in respect of each issue of a Tranche]
+
+--- Page 37 ---
+37
+PART C
+SWAP AGREEMENT TERMS
+INDEX LINKED INTEREST RATE SWAP CONFIRMATION
+
+--- Page 38 ---
+38
+INDEX LINKED INTEREST RATE SWAP CONFIRMATION
+Date:
+[●]
+To:
+LUMINIS FINANCE PLC (the "Issuer")
+From:
+Goldman Sachs International (the "Swap Counterparty")
+Re:
+Index Linked Interest Rate Swap Transaction relating to Index Linked Certificates due 2029 (the 
+"Securities")
+Swap reference number: [●]
+Dear Sir or Madam:
+The purpose of this letter (this "Confirmation") is to confirm the terms and conditions of the Index Linked Interest Rate 
+Swap Transaction entered into between us on the Trade Date specified below (the "Transaction"). This Confirmation 
+constitutes a "Confirmation" as referred to in the ISDA Master Agreement specified below.
+The definitions and provisions contained in the 2021 ISDA Interest Rate Derivatives Definitions (the "Definitions"), as 
+published by the International Swaps and Derivatives Association, Inc., are incorporated into this Confirmation. In the 
+event of any inconsistency between the Definitions and this Confirmation, this Confirmation will govern. References 
+herein to a "Transaction" shall be deemed to be references to a "Swap Transaction" for the purposes of the Definitions.
+This Confirmation supplements, forms a part of, and is subject to, the ISDA Master Agreement dated as of the Issue Date 
+of the Securities, as amended and supplemented from time to time (the "Agreement"), entered into between you and us 
+by our execution of the Trust Instrument (as the same may be amended, modified and/or supplemented from time to time) 
+dated [●], (the “Trust Instrument”) between us and certain other persons for purposes including constituting the 
+Securities. All provisions contained in the Agreement govern this Confirmation except as expressly modified below. Words 
+and expressions defined in the Series Base Prospectus dated 03 March 2023 relating to the Securities (as the same may be 
+amended, modified or supplemented from time to time, the "Series Base Prospectus") will bear the same meanings in this 
+Confirmation and, except as otherwise provided herein, in the event of any inconsistency between words and meanings 
+defined in the Series Base Prospectus and words and expressions defined in this Confirmation, this Confirmation will 
+govern.
+1.
+General Terms
+Trade Date:
+[●]
+Effective Date:
+Issue Date of the Securities
+Termination Date:
+One Business Day prior to the Scheduled Maturity Date of the 
+Securities, subject to adjustment in accordance with the 
+Business Day Convention, and subject as provided below.
+Notional Amount:
+The product of the (a) Number of Units (subject to (x) any 
+increase pursuant to the issuance of any Further Fungible 
+Securities and (y) any decrease pursuant to a redemption of the 
+Securities) and (b) the Unit Value. 
+Business Days:
+London and TARGET2
+Business Day Convention:
+Modified Following Business Day Convention
+Calculation Agent:
+Swap Counterparty
+Initial Exchange:
+
+--- Page 39 ---
+39
+Initial Exchange Date:
+Each Issue Date in respect of a Tranche of the Securities
+Swap 
+Counterparty 
+Initial 
+Exchange 
+Amount:
+(a) EUR [●] in respect of the Initial Exchange Date falling on 
+the Issue Date of Tranche 1, and 
+(b) such amount as notified by the Swap Counterparty to the 
+Issuer in respect of each other Initial Exchange Date.
+Issuer Initial Exchange Amount:
+The Issue Price multiplied by the Notional Amount on the Issue 
+Date.
+Fixed Amount I Payments:
+Fixed Amount Payer I:
+Issuer 
+Fixed Amount I Payment Dates:
+Each date falling one Business Day after the date on which a 
+scheduled payment of an interest amount is due to a holder of 
+the Initial Charged Assets.
+For the purposes of determining a Fixed Amount I Payment 
+Date and the corresponding Fixed Amount I, whether a payment 
+date or amount is “scheduled” is to be determined by reference 
+to the terms of relevant Initial Charged Assets as at the Trade 
+Date and disregarding any terms allowing for non-payment, 
+deferral or adjustments to any scheduled payments and any 
+notice or grace period in respect thereof.
+Fixed Amount I:
+In respect of the Fixed Amount I Payment Date, an amount that 
+is equal to the aggregate scheduled interest amounts due in 
+respect of the Initial Charged Assets that the Issuer has agreed 
+to purchase on or around the Issue Date in respect of the 
+Securities, in each case assuming no deduction for or on account 
+of any withholding tax, back-up withholding or other tax, duties 
+or charges of whatever nature imposed by any authority of any 
+jurisdiction.
+Fixed Amount II Payments: 
+Fixed Amount Payer II:
+Swap Counterparty
+Fixed Amount II Payment Date:
+One Business Day preceding the Maturity Date, subject to 
+adjustment in accordance with the Business Day Convention.
+Fixed Amount II:
+The Interest Amount due and payable under the Securities on 
+such corresponding Fixed Amount II Payment Date.
+Final Exchange:
+Swap Counterparty Final Exchange Date:
+Termination Date, subject to adjustment in accordance with the 
+Business Day Convention.
+Swap 
+Counterparty 
+Final 
+Exchange 
+Amount:
+An amount that is equal to the aggregate of all Final Redemption 
+Amounts that are payable by the Issuer in respect of the 
+Securities on the Scheduled Maturity Date of the Securities.
+
+--- Page 40 ---
+40
+Issuer Final Exchange Date:
+One Business Day following the scheduled maturity date of the 
+Initial Charged Assets, subject to adjustment in accordance with 
+the Business Day Convention.
+Issuer Final Exchange Amount:
+An amount that is equal to the aggregate scheduled principal 
+amounts due on the Initial Charged Assets that the Issuer has 
+agreed to purchase on or around each Issue Date in respect of 
+each Tranche of the Securities, in each case assuming no 
+deduction for or on account of any withholding tax, back-up 
+withholding or other tax, duties or charges of whatever nature 
+imposed by any authority of any jurisdiction.
+2.
+Additional Provisions:
+(a)
+Early Redemption Event Trigger
+If the Securities fall to be redeemed pursuant to Condition 8.4 (Early Redemption Events), as specified in Part 
+1(n) of the Schedule to the ISDA Master Agreement, the relevant Early Redemption Trigger Date shall be deemed 
+to be an Early Termination Date in respect of the Transaction, and in respect of such termination, (i) the Issuer is 
+the sole Affected Party, (ii) all Transactions are Affected Transactions and (iii) in respect of this Transaction and 
+for the purposes of determining the Close-out Amount, no cashflows shall be deemed to have been payable under 
+this Transaction for the Realisation Period.
+(b)
+Determination of Early Termination Amount
+For the purpose of determining an Early Termination Amount under Section 6(e) of the Agreement (including in 
+the determination of an amount payable from one party to another pursuant to Part 1(p)(i)(C)(aa), Part 
+1(p)(i)(D)(aa) or Part 1(q)(i) of the Schedule to the ISDA Master Agreement), the Close-out Amount in respect 
+of the Transaction shall be determined as if the Securities have not been redeemed or cancelled prior to their 
+Scheduled Maturity Date.
+(c)
+Payment of Early Termination Amount
+Where an Early Termination Amount is determined in accordance with Section 6(e) of the Agreement as a result 
+of an early redemption of the Securities in accordance with Condition 8.4 (Early Redemption Events) thereof, and 
+such Early Termination Amount is due from the Issuer to the Swap Counterparty, notwithstanding anything to 
+the contrary in the Agreement, such amount shall only be payable on the Early Redemption Payment Date in 
+accordance with Condition 5 (Application of Secured Property) of the Securities.
+3.
+Representations:
+Each party will be deemed, as of the Trade Date:
+(a)
+to represent to the other party that it is entering into the Transaction for investment, financial 
+intermediation, hedging or other commercial purposes; and
+(b)
+to agree with the other party that, so long as either party has or may have any obligation to the other 
+party under the Transaction:
+(i)
+Non-reliance
+It is acting for its own account, and it has made its own independent decisions to enter into the 
+Transaction and as to whether the Transaction is appropriate or proper for it based upon its own 
+judgment and upon advice from such advisers as it has deemed necessary.  It is not relying on 
+any communication (written or oral) of the other party as investment advice or as a 
+recommendation to enter into the Transaction; it being understood that information and 
+explanations related to the terms and conditions of the Transaction will not be considered
+
+--- Page 41 ---
+41
+investment advice or a recommendation to enter into the Transaction.  It has not received from 
+the other party any assurance or guarantee as to the expected results of the Transaction.
+(ii)
+Evaluation and understanding
+It is capable of evaluating and understanding (on its own behalf or through independent 
+professional advice), and understands and accepts, the terms, conditions and risks of the 
+Transaction.  It is also capable of assuming, and assumes, the financial and other risks of the 
+Transaction.
+(iii)
+Hedging
+Each party may hedge its obligations under the Transaction by entering into another swap or 
+similar transaction with the other party or with a third party.
+(iv)
+Status of parties
+The other party is not acting as a fiduciary or an advisor for it in respect of Transaction.
+4.
+Notice and Account Details:
+Notice and Account Details for payments to Swap 
+Counterparty:
+Notice Details:
+Address: 
+Goldman Sachs International 
+Plumtree Court
+25 Shoe Lane
+London
+EC4A 4AU
+United Kingdom
+Telephone no.:  +44 (0) 2070513984
+Email Address: 
+gs-ldn-sps@gs.com;
+gs-spv-origination@ny.email.gs.com; 
+GSSPV-NewIssuanceProgram- Legal@ny.email.gs.com
+Account Details:
+Intermediary Details
+Routing Code: CHASDEFX
+Name: J.P.Morgan AG
+Location:  Frankfurt Am Main
+Final Beneficiary Details
+Routing Code: GSILGB2X
+Name: Goldman Sachs International
+Account: DE57501108006231605921
+Reference: Luminis Finance Plc 2023-01 - XS2576261304
+Notice and Account Details for payments to Issuer:
+Notice Details:
+Address:
+Luminis Finance Plc
+32 Molesworth Street
+Dublin 2
+
+--- Page 42 ---
+42
+D02 Y512
+Ireland
+Telephone no: +353 1697 3200
+Email Address: MFDUBLIN@MAPLES.COM
+Account Details:
+Correspondent Bank: BNY Mellon, Frankfurt
+SWIFT: IRVTDEFX 
+Account: DE84503303004672009710
+Beneficiary: The Bank of New York Mellon, London 
+Branch
+SWIFT: IRVTGB2X
+Reference: Luminis Finance Plc Series 2023-01 -
+XS2576261304
+Please confirm your agreement to be bound by the terms of the foregoing by executing a copy of this Confirmation and 
+returning it to us at the contact information listed above.
+Yours sincerely,
+____________________________
+For and on behalf of
+GOLDMAN SACHS INTERNATIONAL
+Confirmed as of the 
+date first above written:
+LUMINIS FINANCE PLC
+by: 
+_____________________
+Authorised Signature
+Name:
+Title:
+
+--- Page 43 ---
+43
+PART D – CSA TERMS
+Set out below are the relevant elections in respect of Paragraph 11 of the Credit Support Annex, insofar as 
+they deviate from the CSA Terms Module.
+Paragraph 11.  Elections and Variables
+(a)
+Base Currency and Eligible Currency.
+(i)
+"Base Currency" means Euro ("EUR"). 
+(ii)
+"Eligible Currency" means the Base Currency and, if different, U.S. dollars ("USD"), Euro 
+("EUR"), pounds sterling ("GBP"), Canadian dollars (“CAD”), Japanese Yen ("JPY") and 
+Swiss Francs ("CHF").
+(b)
+Credit Support Obligations.
+Delivery Amount, Return Amount and Credit Support Amount.
+(A)
+"Delivery Amount" has the meaning specified in Paragraph 2(a) provided, however, 
+that:
+(I)
+Party A and Party B hereby agree that the demand for transfer to be made by 
+the Transferee on or promptly following a Valuation Date, shall be deemed to 
+have been made by the Transferee and received by the Transferor upon the 
+Transferee's receipt of the notification made by the Valuation Agent under 
+Paragraph 3(b); and 
+(II)
+where Party B is the Transferor, its obligation to transfer Eligible Credit 
+Support shall at no time exceed the Value (determined as if such assets were 
+comprised in a Credit Support Balance) of the Charged Assets that are then 
+held by or on behalf of Party B and comprise Eligible Credit Support.
+(B)
+"Return Amount" has the meaning specified in Paragraph 2(b) as amended in 
+Paragraph 11(h)(i) of this Annex.
+(C)
+"Credit Support Amount" has the meaning specified in Paragraph 10.
+(ii)
+Eligible Credit Support.  The following items will qualify as Eligible Credit Support for the 
+party specified: 
+Party A
+Party B
+Valuation 
+Percentage
+(A)
+cash in an Eligible Currency
+Applicable
+Not 
+Applicable
+100%
+(B)
+Government or agency bonds in an Eligible 
+Currency issued by a government or a 
+government agency (as the case may be) in an 
+Eligible Country.
+Applicable
+Not 
+Applicable
+99%
+
+--- Page 44 ---
+44
+(C)
+Government or agency bonds in an Eligible 
+Currency issued by a government or a 
+government agency (as the case may be) in an 
+Additional Country, with a rating from S&P, 
+Moody’s or Fitch greater than the Asset 
+Rating or corporate bonds in an Eligible 
+Currency issued by an issuer in an Eligible 
+Country or an Additional Country, with a 
+rating from S&P, Moody’s or Fitch greater 
+than the Asset  Rating.
+Applicable
+Not 
+Applicable
+99%
+(D)
+Government or agency bonds in an Eligible 
+Currency issued by a government or a 
+government agency (as the case may be) in an 
+Additional Country, with a rating from S&P, 
+Moody’s or Fitch equal to the Asset Rating or 
+corporate bonds in an Eligible Currency 
+issued by an issuer in an Eligible Country or 
+an Additional Country, with a rating from 
+S&P, Moody’s or Fitch equal to the Asset 
+Rating.
+Applicable
+Not 
+Applicable
+99%
+(E)
+The Initial Charged Assets and any assets 
+substituted for such Initial Charged Assets in 
+accordance with this Annex and Condition 4.5 
+(Charged Asset Substitution), in each case to 
+the extent not captured in the definitions 
+above.
+Applicable
+Applicable
+99%
+For the purposes of this Paragraph 11(b)(ii): 
+"Eligible Country" means Austria, Belgium, Canada, France, Germany, Italy, Japan, the Netherlands, 
+Sweden, Switzerland, the United Kingdom and the United States. 
+"Additional Country" means none.
+"Asset Rating" means the rating assigned to the Initial Charged Assets as of the Trade Date by the 
+relevant rating agency.
+(iii)
+Thresholds.
+(A)
+"Minimum Transfer Amount" means, with respect to Party A and Party B, 250,000 
+units of the Base Currency, provided that if an Event of Default or Potential Event of 
+Default under this Agreement has occurred and is continuing with respect to a party or 
+an Additional Termination Event under this Agreement has occurred with respect to 
+which a party is the sole Affected Party, the Minimum Transfer Amount with respect 
+to such party shall be zero.
+(c)
+Valuation and Timing.
+(i)
+"Valuation Date" means each Local Business Day from and including the Issue Date in respect 
+of Tranche 1 of the Securities to but excluding the Maturity Date.
+
+--- Page 45 ---
+45
+USE OF PROCEEDS
+The net proceeds of the issuance of the Series will be used by the Issuer to acquire the Initial Charged Assets.
+
+--- Page 46 ---
+46
+GENERAL INFORMATION
+1.
+The issue of Tranche 1 of the Securities was authorised pursuant to a resolution passed by the Board of 
+Directors of the Issuer on 27 January 2023.
+2.
+The base prospectus dated 08 August 2022
+is available on the following website:
+www.live.euronext.com. 
+3.
+The Securities have been accepted for clearance through Euroclear and Clearstream, Luxembourg 
+under Common Code 257626130. The International Securities Identification Number (ISIN) is
+XS2576261304.
+4.
+The Issuer does not intend to provide post-issuance information regarding, where applicable, 
+performance of the Initial Charged Assets.
+5.
+Any websites included in the Base Prospectus or this Series Base Prospectus are for information 
+purposes only and do not form part of the Base Prospectus or this Series Base Prospectus.
+6.
+The Issuer has appointed Goldman Sachs International as the Process Agent to receive, for it and on its 
+behalf, service of process in any Proceedings in England.
+7.
+For the period of 12 months following the date of this Series Base Prospectus, copies of the following
+documents 
+are 
+available 
+for 
+inspection 
+at 
+the 
+website 
+of 
+Euronext 
+Dublin
+(https://www.euronext.com/en/markets/dublin):
+a.
+copies of the up-to-date constitutional documents of the Issuer; and
+b.
+the Trust Terms Module (which includes the forms of the Global Securities and the Securities in 
+definitive form and details of the terms and conditions on which the Trustee, as representative of 
+the Holders, has been appointed).
+8.
+For as long as the Securities are admitted to trading on SeDeX, copies of the following documents will, 
+when published (to the extent applicable), be available for inspection and/or collection in physical form 
+during normal business hours on any weekday (Saturdays, Sundays and public holidays excepted) at the 
+registered office of the Issuer and from the specified offices of the Principal Paying Agent in respect of 
+such Securities:
+(a) copies of the constitutional documents of the Issuer;
+(b) the Trust Terms Module (which includes the forms of the Global Securities and the Securities in 
+definitive form and details of the terms and conditions on which the Trustee, as representative 
+of the Holders has been appointed), the Agency Terms Module, the Sale Terms Module, the 
+Dealer Terms Module, the BNYM Custody Terms Module, the Swap Schedule Terms Module,
+the Japanese Law Pledge Agreement Terms Module, the CSA Terms Module and the Index 
+Linked Conditions Module;
+(c) the Trust Instrument relating to this Series (and the documents incorporated therein, including, 
+inter alia, the Agency Agreement, the Dealer Agreement, the Sale Agreement and the Custody 
+Agreement), the Swap Agreement (including the Credit Support Annex), the Issue Terms in 
+respect of the Securities and the Final Terms; and
+(d) a copy of this Series Base Prospectus.
+
+--- Page 47 ---
+47
+9.
+The Issuer has not been involved in any governmental, legal or arbitration proceedings including any 
+such proceedings which are pending or threatened of which the relevant Issuer is aware) in the 12 
+months preceding the date of this Series Base Prospectus which may have or have in such period had a 
+significant effect on the financial position or profitability of the Issuer.
+10.
+David McGuinness replaced Kate Macken as Director of the Issuer on 30 November 2022. His position 
+within the Issuer is director and his business address is 32 Molesworth Street, Dublin 2, Ireland.
+11.
+There has been no material adverse change in the financial position or prospects of the Issuer since the 
+date of its most recently published audited annual financial statements.
+
+--- Page 48 ---
+48
+THE ISSUER
+Luminis Finance Plc
+32 Molesworth Street
+Dublin 2
+Ireland
+THE TRUSTEE
+BNY Mellon Corporate Trustee 
+Services Limited
+160 Queen Victoria Street
+London
+EC4V 4LA
+United Kingdom
+THE DEALER
+Goldman Sachs 
+International
+Plumtree Court 
+25 Shoe Lane 
+London 
+EC4A 4AU 
+United Kingdom
+THE CUSTODIAN, THE 
+REGISTRAR AND THE 
+TRANSFER AGENT
+The Bank of New York Mellon 
+SA/NV, 
+Luxembourg Branch 
+Vertigo Building – Polaris 
+2-4 Rue Eugène Ruppert 
+L-2453 Luxembourg 
+Grand Duchy of Luxembourg
+THE VALUATION AGENT, THE 
+SELLING AGENT AND
+THE CALCULATION AGENT
+Goldman Sachs International
+Plumtree Court
+25 Shoe Lane
+London
+EC4A 4AU
+THE PRINCIPAL PAYING 
+AGENT
+The Bank of New York Mellon, 
+London Branch 
+160 Queen Victoria Street
+London
+EC4V 4LA
+United Kingdom
+LEGAL ADVISORS TO THE 
+DEALER
+Simmons & Simmons LLP
+As to English Law
+One Ropemaker Street
+London
+EC2Y 9SS
+United Kingdom
+As to Italian Law
+Via Tommaso Grossi 2
+20121 Milan
+Italy
+
+--- Page 49 ---
+49
+LISTING AGENT
+Maples and Calder (Ireland) LLP
+75 St Stephen’s Green
+Dublin 2
+Ireland
+LEGAL ADVISOR TO THE ISSUER 
+Maples and Calder (Ireland) LLP
+75 St Stephen’s Green
+Dublin 2
+Ireland

@@ -1,0 +1,3024 @@
+--- Page 1 ---
+Grundprospekt avseende Kinnevik AB:s MTN-program om 6 000 000 000 
+svenska kronor eller motvärdet därav i euro  
+ 
+ 
+Ledarbank 
+Skandinaviska Enskilda Banken AB (publ) 
+ 
+Emissionsinstitut 
+Svenska Handelsbanken AB (publ) 
+Swedbank AB (publ) 
+Nordea Bank Abp 
+Skandinaviska Enskilda Banken AB (publ) 
+DNB Bank ASA, filial Sverige 
+Danske Bank A/S, Danmark, Sverige Filial 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Detta grundprospekt godkändes av Finansinspektionen den 27 oktober 2023.  
+Grundprospektet är giltigt under en period om tolv månader efter godkännandet, förutsatt att det kompletteras med 
+tillägg när så krävs enligt artikel 23 i Europaparlamentets och Rådets förordning (EU) 2017/1129. Skyldigheten att 
+tillhandahålla tillägg till grundprospektet i fall av nya omständigheter av betydelse, sakfel eller väsentliga 
+felaktigheter gäller inte efter grundprospektets giltighetstid.
+
+--- Page 2 ---
+VIKTIG INFORMATION 
+Detta 6 000 000 000 svenska kronor ("kr" eller "SEK") Medium Term Note-program ("MTN-programmet") utgör en ram under vilken Kinnevik AB (publ), org.nr 
+556047–9742 ("Kinnevik" alternativt "Bolaget") avser att på den svenska kapitalmarknaden från tid till annan ta upp lån i svenska kronor respektive euro 
+("EUR"). Lån tas upp genom utgivande av obligationer och andra löpande skuldförbindelser (gemensamt "Obligationer" eller "MTN") s.k. Medium Term Notes, 
+med ett lägsta nominellt belopp om 100 000 EUR (eller motsvarande belopp i SEK). 
+     Detta grundprospekt ("Grundprospektet") har godkänts och registrerats av Finansinspektionen i enlighet med artikel 20 i Europaparlamentets och Rådets 
+förordning (EU) 2017/1129 av den 14 juni 2017 om prospekt som ska offentliggöras när värdepapper erbjuds till allmänheten eller tas upp till handel på en 
+reglerad marknad, och om upphävande av direktiv 2003/71/EG ("Prospektförordningen"). 
+     För Grundprospektet och erbjudanden enligt Grundprospektet gäller svensk rätt. Tvist med anledning av Grundprospektet, erbjudanden och därmed 
+sammanhängande rättsförhållanden ska avgöras av svensk domstol exklusivt. 
+     Kinnevik har inte uppdragit åt annan att lämna någon utfästelse eller någon information om Kinnevik, något bolag i den koncern där Kinnevik är moderbolag 
+("Koncernen") eller Obligationerna med annan innebörd än vad som framgår av detta Grundprospekt. Om sådan information skulle lämnas av annan, ska 
+mottagaren inte anta att denna har godkänts av Kinnevik eller annat bolag eller någon person inom Koncernen och mottagaren bör inte heller förlita sig på 
+sådan information av annan anledning. 
+En investering i MTN är förenat med vissa risker (se avsnittet Riskfaktorer). När investerare fattar ett investeringsbeslut måste de förlita sig på sin egen 
+bedömning av Bolaget och relevant MTN, inklusive föreliggande sakförhållanden och risker. Inför ett investeringsbeslut bör potentiella investerare anlita sina 
+egna professionella rådgivare samt noga utvärdera och överväga investeringsbeslutet. Investerare får endast förlita sig på informationen i detta Grundprospekt 
+samt eventuella tillägg till detta Grundprospekt. Varken offentliggörandet av detta Grundprospekt eller några andra transaktioner som genomförs med 
+anledning härav ska under några omständigheter anses innebära att informationen i detta Grundprospekt är korrekt och gällande vid någon annan tidpunkt än 
+per dagen för offentliggörandet av detta Grundprospekt eller att det inte har förkommit någon förändring i Bolagets verksamhet efter nämnda dag. Om det 
+sker väsentliga förändringar av informationen i detta Grundprospekt kommer sådana förändringar att offentliggöras enligt bestämmelserna om tillägg till 
+Grundprospekt i Prospektförordningen. 
+    Viss finansiell och annan information som presenteras i Grundprospektet har avrundats för att göra information lättillgänglig för läsaren. Följaktligen 
+överensstämmer inte siffrorna i vissa kolumner exakt med angiven totalsumma. 
+    MTN är inte en lämplig investering för alla investerare. Varje investerare bör därför utvärdera lämpligheten av en investering i MTN mot bakgrund av sina 
+egna förutsättningar. Varje investerare bör särskilt: 
+(i) 
+ha tillräcklig kunskap och erfarenhet för att kunna göra en ändamålsenlig utvärdering av (i) MTN, (ii) möjligheter och risker i samband med en 
+investering i MTN samt (iii) information som finns, eller är infogad genom hänvisning, i detta Grundprospekt eller eventuella tillägg; 
+(ii) 
+ha tillgång till, och kunskap om, lämpliga analytiska verktyg för att, mot bakgrund av sin egen finansiella situation, kunna utvärdera en investering 
+i MTN samt den inverkan som en sådan investering kommer att ha på investerarens totala investeringsportfölj; 
+(iii) 
+ha tillräckliga finansiella medel och likvida tillgångar för att kunna bära de risker som en investering i MTN medför, inbegripet då lånebelopp eller 
+ränta betalas i en eller flera valutor eller då valutan för lånebelopp eller ränta avviker från investerarens valuta; 
+(iv) 
+till fullo förstå villkoren för MTN och vara väl förtrogen med beteendet hos relevanta index och finansiella marknader; samt 
+(v) 
+vara kapabel att utvärdera (själv eller med hjälp av rådgivare) möjliga scenarion för ekonomiska, räntenivårelaterade eller andra faktorer som kan 
+påverka investeringen och möjligheterna att bära riskerna med investeringen. 
+Det har inte vidtagits någon åtgärd för att möjliggöra ett erbjudande av Obligationerna i något annat land än Sverige. Grundprospektet får inte distribueras, 
+och Obligationerna får inte erbjudas, i något land där distributionen eller erbjudandet kräver ytterligare prospekt, översättning, registrering eller andra åtgärder 
+än de som följer av svensk rätt eller som på annat sätt strider mot reglerna i ett sådant land. Den som innehar Grundprospektet eller Obligationer måste därför 
+själv informera sig om och iaktta eventuella restriktioner. Särskilt bör observeras att Obligationerna inte har och inte kommer att registreras enligt U.S. 
+Securities Act från 1933, såsom denna har ändrats, och därför inte får erbjudas eller säljas i USA eller till, direkt eller indirekt, amerikanska personer eller 
+personer bosatta i USA, förutom i enlighet med vissa undantagsbestämmelser.  
+I förhållande till varje emission av Obligationer kommer en målmarknadsbedömning att göras för Obligationerna och lämpliga distributionskanaler för 
+Obligationerna kommer att bestämmas. En person som senare erbjuder, säljer eller rekommenderar Obligationerna (en "Distributör") bör beakta 
+målmarknadsbedömningen. En Distributör som träffas av direktiv 2014/65/EU ("MiFID II") är dock skyldig att genomföra sin egen målmarknadsbedömning för 
+Obligationerna (genom att antingen tillämpa eller anpassa producentens målmarknadsbedömning) och att fastställa lämpliga distributionskanaler. Enligt 
+MiFID:s produktstyrningskrav under det delegerade direktivet 2017/593 ("MiFID:s produktstyrningskrav"), ska det i förhållande till varje emission fastställas 
+huruvida Ledarbanken eller någon av Emissionsinstituten som medverkar vid emissionen av Obligationer är en producent av sådana Obligationer. Varken 
+Ledarbanken, Administrerande Institut eller någon av Emissionsinstituten eller något av deras respektive dotterbolag som inte medverkar vid en emission, 
+kommer att anses vara producenter enligt MiFID:s produktstyrningskrav. 
+PRIIPS-förordningen 
+Om vissa emissioner av MTN skulle anses falla inom tillämpningsområdet för förordning (EU) nr. 1286/2014 ("PRIIPs-förordningen'') får sådana MTN inte 
+erbjudas, säljas eller på annat sätt göras tillgängliga för någon icke-professionell kund inom europeiska ekonomiska samarbetsområdet ("EES''). Detta då något 
+faktablad innehållande nyckelinformation som krävs för erbjudanden till icke-professionella kunder av produkter som faller inom tillämpningsområdet för 
+PRIIPs-förordningen inte kommer att upprättas under MTN-programmet, vilket är ett krav vid erbjudande till icke-professionella kunder av MTN som träffas 
+av PRIIPs-förordningen. Att trots detta erbjuda, sälja eller på annat sätt göra MTN tillgängliga för icke-professionella kunder inom EES kan strida mot 
+bestämmelserna i nämnda förordning. En icke-professionell kund är en person som uppfyller ett (eller flera) av följande kriterier: (i) en icke-professionell kund 
+enligt definitionen i punkt (11) artikel 4(1) i MiFID II; (ii) en kund som avses i direktiv 2002/92/EG, där kunden inte räknas som en professionell kund enligt 
+definitionen i punkt (10) artikel 4(1) i MiFID II; eller (iii) inte utgör en kvalificerad investerare såsom det definieras i Prospektförordningen. 
+Definierade termer och begrepp 
+Ord och uttryck som används i Grundprospektet har den innebörd som framgår av avsnittet Allmänna villkor ("Allmänna Villkor") om inte annat framgår av 
+sammanhanget. Grundprospektet ska läsas tillsammans med de dokument som införlivas genom hänvisning, eventuella tillägg till Grundprospektet samt 
+tillämpliga Slutliga Villkor ("Slutliga Villkor"). Vidare, i detta Grundprospekt avser "Mkr" miljoner svenska kronor och "Mdkr" avser miljarder svenska kronor. 
+Framåtriktad information 
+Grundprospektet innehåller viss framåtriktad information som återspeglar Kinneviks aktuella syn på framtida händelser samt finansiell och operativ utveckling. 
+Ord som "avses", "bedöms", "förväntas", "kan", "planerar", "uppskattar" och andra uttryck som innebär indikationer eller förutsägelser avseende framtida 
+utveckling eller trender, och som inte är grundade på historiska fakta, utgör framåtriktad information. Framåtriktad information är till sin natur förenad med 
+såväl kända som okända risker och osäkerhetsfaktorer eftersom den är avhängig framtida händelser och omständigheter. Framåtriktad information utgör inte 
+någon garanti avseende framtida resultat eller utveckling och verkligt utfall kan komma att väsentligen skilja sig från vad som uttalas i framåtriktad information. 
+     Faktorer som kan medföra att Kinneviks framtida resultat och utveckling avviker från vad som uttalas i framåtriktad information innefattar, men är inte 
+begränsade till, de som beskrivs i avsnittet "Riskfaktorer". Framåtriktad information i detta Grundprospekt gäller endast per dagen för Grundprospektets 
+offentliggörande. Kinnevik lämnar inga utfästelser om att offentliggöra uppdateringar eller revideringar av framåtriktad information till följd av ny information, 
+framtida händelser eller liknande omständigheter annat än vad som följer av tillämplig lagstiftning.
+
+--- Page 3 ---
+INNEHÅLLSFÖRTECKNING
+ 
+BESKRIVNING AV MTN-PROGRAM FÖR KINNEVIK ................................................................................... 2 
+RISKFAKTORER .......................................................................................................................................... 6 
+KINNEVIKS SUSTAINABILITY LINKED FINANCING FRAMEWORK ........................................................... 14 
+ALLMÄNNA VILLKOR FÖR LÅN UPPTAGNA UNDER KINNEVIK AB (PUBL) MTN-PROGRAM ..................17 
+MALL FÖR SLUTLIGA VILLKOR ................................................................................................................ 34 
+INFORMATION OM KINNEVIK .................................................................................................................. 38 
+HANDLINGAR INFÖRLIVADE GENOM HÄNVISNING ............................................................................... 47 
+ADRESSER ................................................................................................................................................ 49
+
+--- Page 4 ---
+2 
+ 
+BESKRIVNING AV MTN-PROGRAM FÖR KINNEVIK 
+Nedanstående beskrivning av de viktigaste egenskaperna av MTN-programmet innehåller endast en allmän 
+beskrivning av programmet och är inte en prospektsammanfattning. Informationen är därför kortfattad och 
+förenklad i syfte att lyfta fram vissa huvuddrag och gäller med förbehåll för övriga delar av informationen i 
+Grundprospektet. Begrepp och uttryck som finns definierade i avsnittet "Allmänna Villkor" ska ha samma betydelse 
+i denna beskrivning. 
+ 
+"Beloppsgräns för programmet" 
+6 000 000 000 kr eller motsvarande värde i EUR. 
+ 
+"Benchmarkförordningen" 
+ 
+Administratören för EURIBOR, European Money Market Institute, är 
+sedan den 3 juli 2019 registrerat i det register över administratörer av 
+referensvärden 
+som 
+hålls 
+av 
+den 
+Europeiska 
+värdepappersmyndigheten ("ESMA") i enlighet med artikel 36 i 
+Benchmarkförordningen. Administratören för STIBOR, Swedish 
+Financial Benchmark Facility AB, är sedan den 21 april 2023 registrerad 
+i det register över administratörer och referensvärden som förs av 
+ESMA i enlighet med artikel 36 i Benchmarkförordningen. 
+ 
+"Bolaget" 
+Kinnevik AB (publ). 
+ 
+"Clearing med mera" 
+Clearing kommer att ske hos Euroclear Sweden. Euroclear Sweden 
+eller, när det gäller förvaltarregistrerade innehav av MTN, den aktuella 
+förvaltaren verkställer avdrag för preliminär skatt vid betalning till 
+fysisk person bosatt i Sverige och till svenskt dödsbo. 
+ 
+"Emissionsinstitut" 
+Svenska Handelsbanken AB (publ), Swedbank AB (publ), Nordea Bank 
+Abp, Skandinaviska Enskilda Banken AB (publ), DNB Bank ASA, filial 
+Sverige och Danske Bank A/S, Danmark, Sverige Filial samt varje annat 
+emissionsinstitut som av Euroclear Sweden erhållit särskilt tillstånd att 
+hantera och registrera emissioner i Euroclears kontobaserade system 
+och som ansluter sig till MTN-programmet, dock endast så länge 
+sådant institut inte avträtt som emissionsinstitut. 
+ 
+"Emissionskurs" 
+MTN kan emitteras till den kurs och enligt de löptider som anges i 
+Slutliga Villkor. 
+ 
+"Form för MTN" 
+MTN kommer att emitteras i kontoförd form i enlighet med lag 
+(1998:1479) om värdepapperscentraler och kontoföring av finansiella 
+instrument genom Euroclear Sweden, Box 191, 101 23 Stockholm, 
+Sverige, och följaktligen kommer inga fysiska värdepapper att 
+utfärdas avseende MTN. 
+ 
+"Förtida återbetalning och 
+återköp" 
+MTN kan endast bli återbetalade och/eller återköpta före 
+Återbetalningsdagen på initiativ av Bolaget eller Fordringshavarna på 
+de villkor som framgår av tillämpliga Slutliga Villkor, på initiativ av 
+Fordringshavare vid vissa typer av betydande ägarförändringar enligt 
+Allmänna Villkor, eller annars i enlighet med Allmänna Villkor.  
+ 
+"Hållbarhetslänkade Lån" 
+MTN kan komma att emitteras som Hållbarhetslänkade Lån i enlighet 
+med vad som framgår av Bolagets Sustainability Linked Financing 
+Framework 
+som 
+återfinns 
+på 
+Kinneviks 
+hemsida, 
+www.kinnevik.com/investors/funding.   
+ 
+För att Bolagets Sustainability Linked Financing Framework ska vara 
+tillämpligt på ett specifikt Lån ska det anges i de Slutliga Villkoren för 
+sådant Lån. Lån för vilka Bolagets Sustainability Linked Financing 
+Framework är tillämpligt betecknas som "Hållbarhetslänkade Lån".
+
+--- Page 5 ---
+3 
+ 
+För Hållbarbetslänkade Lån, där "Räntehöjning" är specificerat enligt 
+Slutliga 
+Villkor, 
+kan 
+en 
+räntehöjning 
+fram 
+till 
+nästa 
+rapporteringstillfälle eller förfall inträffa om (i) ett Hållbarhetsmål inte 
+uppnåtts senast på relevant kontrolldatum och (ii) en extern granskare 
+fastställt att aktuellt Hållbarhetsmål inte uppnåtts vid ett 
+rapporteringstillfälle. 
+För 
+Hållbarhetslänkade 
+Lån, 
+där 
+"Räntesänkning" är specificerat enligt Slutliga villkor, kan en 
+räntesänkning fram till nästa rapporteringstillfälle eller förfall inträffa 
+om (i) ett Hållbarhetsmål uppnåtts senast på relevant kontrolldatum 
+och (ii) en extern granskare fastställt att aktuellt Hållbarhetsmål 
+uppnåtts vid ett rapporteringstillfälle. För Hållbarhetslänkade Lån där 
+"Tilläggsbelopp" är specificerat enligt Slutliga Villkor, kan ett 
+tilläggsbelopp utgå om (i) ett Hållbarhetsmål inte uppnåtts på senast 
+relevant kontrolldatum och (ii) en extern granskare har fastställt att ett 
+Hållbarhetsmål inte uppnåtts vid relevant rapporteringstillfälle. De 
+Hållbarhetsmål och tidsfrister som ska gälla i förhållande till 
+Hållbarbetslänkade Lån specificeras i Bolagets Sustainability Linked 
+Financing Framework och i de Slutliga Villkoren.  
+ 
+Bolagets Sustainability Linked Financing Framework kan från tid till 
+annan komma att uppdateras. Det Sustainability Linked Financing 
+Framework som var gällande vid Lånedatumet för ett specifikt Lån 
+kommer dock alltjämt att gälla för sådant Lån, oavsett om 
+förändringar görs i Bolagets Sustainability Linked Financing 
+Framework 
+efter 
+Lånedatumet. 
+Om 
+Bolaget 
+inte 
+uppfyller 
+Sustainability Linked Financing Framework i förhållande till visst 
+Hållbarhetslänkat Lån innebär det inte en uppsägningsgrund för 
+fordringshavare. 
+ 
+Kinnevik kommer att beskriva hur Bolaget har presterat i förhållande 
+till de Hållbarhetsmål som framgår av Bolagets Sustainability Linked 
+Financing Framework i hållbarhetsrapporten som presenteras årligen 
+och/eller i en separat Sustainability Linked Progress-rapport. 
+Hållbarhetsrapporterna 
+och 
+Sustainability 
+Linked 
+Progress-
+rapporterna kommer att finnas tillgängliga på Kinneviks hemsida, 
+www.kinnevik.com/sustainability.  
+ 
+"Kreditvärdighetsbetyg" 
+Bolaget har inte tilldelats något kreditvärdighetsbetyg från något 
+kreditvärdighetsinstitut. Om MTN som ges ut under MTN-
+programmet får ett kreditvärdighetsbetyg kommer det att anges i 
+Slutliga Villkor.  
+ 
+"KPI" 
+Eng. Key Performance Indicator och i de Allmänna Villkoren 
+Hållbarhetsindikator. Hållbarhetsindikatorerna har satts upp inom 
+ramen för Kinneviks hållbarhetsarbete och definieras i Kinneviks 
+Sustainability Linked Financing Framework som finns tillgängligt på 
+Kinneviks hemsida, www.kinnevik.com/investors/funding. 
+ 
+"Köp och försäljning" 
+Försäljning sker genom att ett eller flera av Emissionsinstituten från tid 
+till annan erhåller försäljningsuppdrag från Bolaget. Försäljningspriset 
+bestäms utifrån den tilltänkta emissionskursen och rådande 
+marknadsförhållanden. Försäljningspriset kan men behöver inte vara 
+detsamma som emissionskursen. Försäljning sker inte genom något 
+erbjudande till allmänheten, såvida detta inte uttryckligen anges i de 
+tillämpliga Slutliga Villkoren. Förfarande med teckningstid och 
+teckningsperiod används inte. 
+ 
+"Ledarbank" 
+Skandinaviska Enskilda Banken AB (publ).
+
+--- Page 6 ---
+4 
+ 
+ 
+"Lån med Fast Ränta" 
+Om Lånet är specificerat som Lån med Fast Ränta enligt tillämpliga 
+Slutliga Villkor ska Lånet löpa enligt Räntesatsen från (men exklusive) 
+Startdag 
+För 
+Ränteberäkning 
+till 
+och 
+med 
+(och 
+inklusive) 
+Återbetalningsdagen enligt de Allmänna Villkoren, om inte annat 
+framgår av tillämpliga Slutliga Villkor. Räntan beräknas enligt 
+Dagberäkningsmetoden 30/360. Ränta som upplupit under en 
+Ränteperiod erläggs i efterskott på respektive Ränteförfallodag. 
+ 
+"Lån med Rörlig Ränta (FRN)" 
+Om Lånet är specificerat som Lån med Rörlig Ränta (FRN) enligt 
+tillämpliga Slutliga Villkor ska Lånet löpa med ränta från (men 
+exklusive) Startdag För Ränteberäkning till och med (och inklusive) 
+Återbetalningsdagen. Räntesatsen för respektive Ränteperiod 
+fastställs 
+av 
+Administrerande 
+Institut 
+på 
+respektive 
+Räntebestämningsdag och utgörs av Räntebasen (eller sådan 
+Ersättande Räntebas som till följd av en Triggerhändelse eller ett 
+Offentliggörande ersätter den ursprungliga Räntebasen) med tillägg 
+av Räntebasmarginalen för samma period. Om beräkningen av 
+räntesatsen innebär ett värde lägre än noll, ska räntesatsen anses vara 
+noll. Räntan erläggs i efterskott på respektive Ränteförfallodag och 
+beräknas på Faktisk/360-dagarsbasis om inte annan beräkningsgrund 
+tillämpas för aktuell Räntebas. 
+ 
+"Lån utan ränta" 
+Om Lånet är specificerat som ett Nollkupongslån enligt tillämpliga 
+Slutliga Villkor ska Lånet löpa utan ränta. Nollkupongslån kan utfärdas 
+till underkurs eller överkurs och lösas in till ett belopp per MTN 
+motsvarande nominellt belopp eller andel därav. 
+ 
+"Lån" 
+Varje lån av viss serie, omfattande en eller flera MTN, som Bolaget 
+upptar under detta MTN-program. Lån tas med ett lägsta nominellt 
+belopp om 100 000 EUR (eller motsvarande belopp i SEK). 
+ 
+"Löptider" 
+MTN kommer att ha olika löptider, dock lägst ett år. 
+ 
+"Räntebas för lån med rörlig 
+ränta" 
+Avser den referensränta som specificeras i Slutliga Villkor. Vanligen 
+avses STIBOR för Lån i SEK och EURIBOR för Lån i EUR. 
+ 
+"Räntekonstruktion" 
+För MTN utgivna under MTN-programmet framgår den aktuella 
+Räntekonstruktionen för det specifika Lånet i de tillämpliga Slutliga 
+Villkoren.  
+ 
+Lån emitteras dock med någon av i detta prospekt beskrivna 
+räntekonstruktioner. 
+ 
+"Rätt till betalning" 
+Bolaget ska se till att dess betalningsförpliktelser enligt Lån i 
+förmånsrättsligt hänseende jämställs med Bolagets övriga icke 
+efterställda och icke säkerställda betalningsåtaganden, för vilka 
+förmånsrätt inte följer av lag. 
+ 
+"Slutliga Villkor" 
+Villkoren för varje Lån kommer att justeras och kompletteras genom 
+Slutliga Villkor, vilka ska läsas tillsammans med Allmänna Villkor och 
+Grundprospektet. Tillämpliga villkor för varje Lån utgörs av 
+Lånevillkoren för det specifika lånet. 
+ 
+"SPT" 
+Eng. Sustainability Performance Indicator och i de Allmänna Villkoren 
+Hållbarhetsmål. Hållbarhetmålen har satts upp för inom ramen för 
+Kinneviks hållbarhetsarbete och definieras i Kinneviks Sustainability
+
+--- Page 7 ---
+5 
+ 
+Linked Financing Framework som finns tillgängligt på Kinneviks 
+hemsida, www.kinnevik.com/investors/funding. 
+ 
+"Tillämplig rätt" 
+För MTN och MTN-programmet gäller svensk rätt. 
+ 
+"Upptagande till handel" 
+MTN kan komma att bli upptagna till handel på Nasdaq Stockholms 
+reglerade marknad för företagsobligationer (Corporate Bonds List), 
+eller annan reglerad marknad enligt vad som anges i Slutliga Villkor. 
+ 
+"Valuta" 
+SEK eller EUR. 
+ 
+"Valör" 
+Inom samma Lån kommer MTN ha samma nominella belopp, Valör, 
+enligt vad som anges i de Slutliga Villkoren. Det nominella beloppet 
+kan variera mellan olika Lån. Återbetalningsbeloppet kan vara högre 
+eller lägre än aktuell Valör där det så anges i de relevanta Slutliga 
+Villkoren. 
+  
+"Återbetalning" 
+Lån förfaller till betalning med dess Lånebelopp och eventuellt 
+tilläggsbelopp om tillämpligt på Återbetalningsdagen. Denna dag 
+framgår av Slutliga Villkor och kan vara förenad med villkor eller 
+åtagande av typ som framgår nedan eller ytterligare specificeras i 
+Slutliga Villkor.
+
+--- Page 8 ---
+6 
+ 
+RISKFAKTORER 
+Nedan beskrivs riskfaktorer som, var och en för sig eller tillsammans, bedöms vara väsentliga för Kinnevik. Om de 
+händelser som beskrivs i riskfaktorerna inträffar skulle det kunna påverka Kinneviks möjligheter att fullgöra sina 
+förpliktelser att betala ränta och kapitalbelopp på utgivna Obligationer.  
+ 
+De risker som beskrivs är dels risker förenade med Kinnevik och Kinneviks verksamhet, dels risker förenade med 
+Obligationer utgivna under MTN-programmet. Kinnevik har bedömt riskfaktorernas väsentlighet på grundval av 
+sannolikheten för deras förekomst och den förväntade omfattningen av deras negativa effekter. De riskfaktorer 
+som per dagen för detta Grundprospekt bedöms mest väsentliga presenteras först i varje kategori medan 
+efterkommande riskfaktorer presenteras utan inbördes rangordning. I de fall en riskfaktor kan kategoriseras in i mer 
+än en kategori, förekommer riskfaktorn endast under den kategori som är mest relevant för riskfaktorn i fråga. 
+ 
+Bedömningen av varje riskfaktors väsentlighet, baserat på sannolikheten att riskfaktorn inträffar och den 
+förväntade omfattningen av deras negativa effekter, indikeras genom att riskfaktorerna har graderats utefter 
+skalan låg, medellåg, medelhög eller hög. 
+RISKER RELATERADE TILL KINNEVIK OCH BRANSCHEN 
+Risker relaterade till Kinneviks portföljbolag 
+Risker relaterade till koncentrationen i och sammansättningen av Kinneviks portfölj 
+Kinneviks verksamhet innefattar förvaltningen av en portfölj med betydande investeringar i ett begränsat antal 
+onoterade och noterade bolag. Portföljen är koncentrerad till åtta kategorier av investeringar: Value-Based 
+Care; Virtual Care; Platforms & Marketplaces; Software; Consumer Finance; Early Bets & New Themes; Övriga 
+Portföljen och Emerging Markets.1 Per den 30 september 2023 bestod Kinneviks portfölj av 28 s.k. kvalificerade 
+investeringar, vilka utgör Kinneviks större eller särskilt betydelsefulla innehav i bolag. Dessa kvalificerade 
+investeringar har tillsammans betydande inverkan på Kinneviks finansiella ställning eftersom de motsvarade 
+cirka 81 procent av Kinneviks substansvärde per samma datum.  
+ 
+Av Kinneviks totala tillgångar (exklusive kassa) den 30 september 2023 var cirka 71 procent hänförligt till 
+onoterade portföljbolag och cirka 29 procent hänförligt till noterade portföljbolag. Av de kvalificerade 
+investeringarna utgör Tele2 en betydande del av Kinneviks substansvärde tillsammans med VillageMD och 
+Spring Health. Per den 30 september 2023 motsvarade Tele2 cirka 23 procent, VillageMD cirka 8 procent och 
+Spring Health cirka 7 procent av Kinneviks substansvärde. Kinneviks resultat och finansiella ställning är i hög 
+grad beroende av hur de kvalificerade investeringarna utvecklas.  
+ 
+Koncentrationen i portföljen och investeringar i de onoterade bolagen, vilka i regel är tillväxtbolag, utgör en 
+betydande risk för Kinnevik eftersom det kan vara svårt för Bolaget att under en begränsad tidsperiod förändra 
+portföljens sammansättning. Under de senaste åren har Kinnevik, i linje med Bolagets strategiska plan, 
+fokuserat på investeringar i tillväxtbolag och portföljen består av en betydande andel onoterade bolag. 
+Investeringar i tillväxtbolag i tidigare skeden kan, i jämförelse med investeringar i mogna noterade bolag, vara 
+förenade med ett större risktagande eftersom det finns en större osäkerhet kring den fortsatta utvecklingen 
+och, i vissa fall, den framtida förmågan att generera lönsamhet. Exempelvis har värderingarna av tillväxtaktier 
+kommit under stor press till följd av ett kraftigt försämrat marknadsklimat under 2022. Under 2023 har 
+volatiliteten i den publika marknaden minskat, men finansieringsmarknaden för privata tillväxtbolag är fortsatt 
+utmanande på grund av ökad geopolitisk osäkerhet, hög inflation samt stigande räntor. Detta har lett till ökad 
+riskaversion bland investerare, vilket också gör det svårare för tillväxtbolag att attrahera nödvändig finansiering, 
+se vidare nedan under rubriken "Risker relaterade till värdeförändringar i portföljbolag". Koncentrationen i och 
+sammansättningen av Kinneviks portfölj, så som den är beskriven här ovan, kan komma att ha en negativ 
+inverkan på Kinneviks substansvärde och resultat. Kinnevik bedömer att riskerna relaterade till koncentrationen 
+i och sammansättningen av Kinneviks portfölj utgör risker av hög betydelse. 
+ 
+1 Kategorierna kan översättas till svenska som Värdebaserad Vård, Virtuell Vård, Plattformar och Marknadsplatser, Mjukvara, 
+Konsumentinriktade finansieringslösningar, Tidiga Satsningar och Nya Teman, Övriga Portföljen och Tillväxtmarknader.
+
+--- Page 9 ---
+7 
+ 
+ 
+Risker relaterade till Kinneviks investering i Tele2 
+Tele2 är Kinneviks enda s.k. kvalificerade investering (dvs. Kinneviks större eller särskilt betydelsefulla innehav 
+i bolag) som inte faller inom någon av de åtta kategorier av investeringar som angivits ovan, och motsvarade 
+cirka 23 procent av Kinneviks substansvärde per den 30 september 2023.  
+ 
+Tele2 är verksamt på marknader där konkurrensen är hård med flera stora, etablerade aktörer och bolagets 
+långsiktiga tillväxt och lönsamhet är bland annat beroende av dess förmåga att utveckla och erbjuda produkter 
+och tjänster som är efterfrågade och konkurrenskraftiga vad gäller kvalitet och pris. Om Tele2 inte kan möta 
+kundernas efterfrågan, utveckla nya erbjudanden som leder till lönsamma verksamheter, inte får nödvändiga 
+licenser eller om befintliga licenser ändras eller återkallas skulle detta kunna ha en negativ inverkan på Kinneviks 
+substansvärde. Tele2 betalar regelbundna årliga utdelningar och dessa har historiskt sett utgjort en betydande 
+del av Kinneviks kassaflöde och har bidragit till att finansiera Bolagets verksamhet. Tele2:s finansiella ställning 
+och möjlighet att lämna utdelning är således av viss betydelse för Kinneviks kassaflöde. Kinnevik bedömer att 
+riskerna relaterade till Tele2 utgör risker av medelhög betydelse. 
+ 
+Risker relaterade till Kinneviks investeringar inom Value-Based Care och Virtual Care 
+Kinneviks kvalificerade investeringar inom Value-Based Care och Virtual Care motsvarar en stor del av Bolagets 
+substansvärde. Investeringar i bolag som är verksamma inom dessa kategorier motsvarade cirka 23 procent av 
+Bolagets substansvärde per den 30 september 2023.  
+ 
+Inom kategorin Value-Based Care finns vårdgivare inom värdebaserad vård vars ersättningsmodell är baserad 
+på och exponerad mot sina patienters hälsoutfall, som t.ex. Cityblock och VillageMD. Inom kategorin Virtual 
+Care finns vårdbolag som levererar specialiserade vårdtjänster genom virtuella kanaler och som använder 
+teknologi såsom artificiell intelligens för att förbättra resultatet för sina användare, som t.ex. Spring Health. 
+Samtliga av Kinneviks portföljbolag inom Value-Based Care och Virtual Care är verksamma i USA. Båda 
+sektorerna är till viss del fortfarande under utveckling och lönsamheten för bolagen är beroende av att de kan 
+leverera bättre vård till sina patienter till en lägre kostnad. Om bolagen inte lyckas med att både ge bättre vård 
+och skapa besparingar skulle det ha en negativ inverkan på deras lönsamhet. En avtagande eller negativ tillväxt 
+på marknaden, mindre gynnsamma regelverk, en bristande regelefterlevnad, eller svårigheter att nå lönsamhet 
+för Kinneviks portföljbolag inom Value-Based Care och Virtual Care, skulle kunna få en negativ inverkan på 
+Kinneviks substansvärde och leda till behov av kapitaltillskott. Kinnevik bedömer att riskerna relaterade till 
+investeringarna inom Value-Based Care och Virtual Care utgör risker av medelhög betydelse. 
+ 
+Risker relaterade till Kinneviks investeringar inom Software 
+Kinneviks kvalificerade investeringar inom Software motsvarade cirka 17 procent av Bolagets substansvärde per 
+den 30 september 2023. Bolagen levererar t.ex. betallösningar och plattformar, bokningstjänster och andra 
+teknikdrivna lösningar. 
+ 
+Portföljbolagen verksamma inom Software är verksamma på konkurrensutsatta marknader och är beroende av 
+deras förmåga att utveckla och erbjuda befintliga och nya programvaror och tjänster som är efterfrågade och 
+konkurrenskraftiga vad gäller kvalitet och pris. Bolagen behöver ligga i framkant vad gäller teknisk utveckling 
+och erbjuda ett unikt kunderbjudande för att vara framgångsrika, och det finns en risk att portföljbolagen 
+misslyckas med att särskilja sig på sina respektive marknader i förhållande till sina konkurrenter. De marknader 
+på vilka Kinneviks portföljbolag inom kategorin Software verkar på är i regel snabbrörliga, och nya eller 
+befintliga aktörer som erbjuder nya tekniska lösningar kan få en negativ inverkan på portföljbolagens 
+verksamhet, och i sin tur Kinneviks substansvärde. Kinnevik bedömer att riskerna relaterade till investeringar 
+inom Software utgör risker av medelhög betydelse.
+
+--- Page 10 ---
+8 
+ 
+Risker relaterade till Kinneviks investeringar inom Platforms & Marketplaces 
+En del av Kinneviks kvalificerade investeringar är innehav i bolag inom Platforms & Marketplaces som t.ex. 
+förmedlar logistiktjänster och tjänster eller varor inom matvaruhandeln, resor och bemanning (t.ex. Instabee, 
+Oda, Omio och Jobandtalent). Investeringarna i bolag som är verksamma inom denna kategori motsvarade 
+cirka 9 procent av Bolagets substansvärde per den 30 september 2023. 
+ 
+Bolag inom Platforms & Marketplaces är verksamma på mycket konkurrensutsatta marknader, där bolagen 
+konkurrerar med såväl lokala som globala aktörer. I tillägg till att det råder betydande prispress på dessa 
+marknader har på senare tid konsumenters medvetenhet kring klimatförändringar och klimatpåverkan ökat 
+väsentligt vilket resulterat i att produkter och tjänsters klimatpåverkan och företags aktiva klimatarbete 
+kommit att bli en central konkurrensfråga för bolag som erbjuder tjänster inom denna kategori.  Den ökade 
+medvetenheten hos konsumenter leder till en ökad kravbild och risker för en försvagad marknadsposition för 
+bolag som inte upplevs göra tillräckligt för att beakta klimat- och hållbarhetsaspekter. En sådan försvagad 
+marknadsposition kan påverka bolagens verksamhet och lönsamhet negativt, vilket i sin tur får negativ inverkan 
+på värdet på Kinneviks innehav  
+ 
+Vidare finns det en risk att marknaderna för Platforms & Marketplaces inte kommer att fortsätta växa i samma 
+utsträckning i framtiden som de har gjort de senaste åren. En avtagande eller negativ tillväxt på marknaderna 
+där Kinneviks portföljbolag inom Platforms & Marketplaces är verksamma, eller ytterligare konkurrens och 
+prispress på sådana marknader, skulle kunna ha en negativ inverkan på Kinneviks substansvärde. Dessa risker 
+har accentuerats till följd av rådande ekonomiska konjunkturläge med inflationstryck och stigande räntor samt 
+förändrade konsumtionsbeteenden och visst avstannande i de trender som drevs på av COVID-19 pandemin. 
+En svagare svensk e-handelsmarknad har exempelvis påverkat Instabees finansiella resultat och värdering 
+negativt. Kinnevik bedömer att riskerna relaterade till investeringarna inom Platforms & Marketplaces utgör 
+risker av medelhög betydelse. 
+ 
+Risker relaterade till Kinneviks investeringar inom kategorin Climate Tech 
+En del av Kinneviks kvalificerade investeringar är innehav i bolag inom kategorin Climate Tech som på olika sätt 
+bidrar till omställningen till en mer hållbar framtid genom t.ex. produktion av grönt stål (H2 Green Steel) och 
+gröna kemikalier (Solugen). Investeringarna i bolag som är verksamma inom denna kategori motsvarade cirka 
+5 procent av Bolagets substansvärde per den 30 september 2023.  
+ 
+Flera av portföljbolagen inom Climate Tech är verksamma inom tillverkning av olika typer av industriella 
+produkter, så som H2 Green Steel och Solugen. Det finns flera risker förenade med den här typen av 
+investeringar, både i form av teknologiska risker då de teknologier som bolagen använder sig av är oprövade i 
+större skala, och i form av regulatoriska risker då förändrad lagstiftning kan komma att påverka efterfrågan av 
+mer hållbara industriella produkter. Industriell produktion kräver även stora kapitalinvesteringar för att bygga 
+fabriker och säkra upp leverantörskedjor. Det finns en risk att förseningar i etableringen av tillverkningen 
+kommer generera ytterligare kapitalbehov i väntan på egna intäkter och att etableringen misslyckas, vilket 
+skulle påverka Kinneviks substansvärde negativt. Vidare finns en risk att de tekniker som Kinneviks portföljbolag 
+inom Climate Tech använder genererar andra typer av externaliteter, t.ex. oväntade miljöeffekter. Dessa 
+faktorer kan i sin tur påverka intresset för de olika teknikerna, vilket potentiellt kan minska efterfrågan på 
+bolagens produkter och därmed deras tillväxtpotential. Kinnevik bedömer att riskerna relaterade till 
+investeringarna inom Climate Tech utgör risker av medelhög betydelse.
+
+--- Page 11 ---
+9 
+ 
+Risker relaterade till Kinneviks verksamhet och anställda 
+Risker relaterade till Kinneviks förmåga att rekrytera och behålla högkvalificerade personer på 
+nyckelpositioner  
+Som ett investeringsbolag är framtida strategiska investeringsbeslut av mycket stor betydelse för utvecklingen 
+av Kinneviks portfölj. Kinneviks strategi är att vara en aktiv ägare av sina portföljbolag. Kinneviks 
+investeringsverksamhet och förvaltningen av portföljen är därför beroende av Kinneviks möjligheter att 
+rekrytera och behålla erfarna och skickliga personer på nyckelpositioner. Konkurrensen om högkvalificerade 
+personer är hård och om Kinnevik inte kan rekrytera och behålla sådana personer skulle detta kunna ha en 
+negativ inverkan på Kinneviks verksamhet och resultat. Kinnevik bedömer att riskerna relaterade till Bolagets 
+förmåga att rekrytera och behålla högkvalificerade personer på nyckelpositioner utgör risker av medelhög 
+betydelse. 
+ 
+Risker relaterade till Kinneviks verksamhet 
+Kinneviks verksamhet är exponerad för risken för förlust till följd av brister som uppkommer i interna rutiner och 
+system för till exempel regelefterlevnad, bolagsstyrning, investeringar (innefattande värdering och 
+genomförande), finansiell rapportering, riskhantering, intern kontroll och internrevision, samt hanteringen av 
+konfidentiell information och informationssäkerhet. Sådana interna rutiner och system finns beskrivna i 
+riktlinjer och policys som fastställts av Kinneviks styrelse. Bristande efterlevnad och tillämpning av interna 
+riktlinjer och policys skulle kunna påverka investerares och andra intressenters uppfattning av Kinnevik och 
+Kinneviks varumärke, vilket i sin tur kan ha en negativ inverkan på Kinneviks tillgångar och resultat.  
+ 
+I majoriteten av Kinneviks portföljbolag är Kinnevik inte kontrollägare, utan Kinnevik har en ägarandel som 
+huvudsakligen understiger 15 procent i portföljbolagen som utgör Bolagets kvalificerade investeringar. 
+Portföljbolagen kan därför fatta beslut och genomföra åtgärder som kan vara negativa för Kinneviks intressen 
+utan att Kinnevik har haft möjlighet att stoppa eller påverka dessa beslut eller åtgärder. Att portföljbolagen kan 
+genomföra åtgärder som inte ligger i linje med Kinneviks intressen skulle kunna inverka negativt på Kinneviks 
+substansvärde. Kinnevik bedömer att riskerna relaterade till Kinneviks verksamhet utgör risker av låg betydelse. 
+ 
+Risker relaterade till finansiell riskhantering  
+Risker relaterade till värdeförändringar i portföljbolag 
+Kinnevik har investeringar i både onoterade och noterade portföljbolag där värdet på innehavet kan fluktuera 
+betydligt på grund av en rad olika omständigheter. Sammansättningen av Kinneviks portfölj, och balansen 
+mellan investeringar i onoterade och noterade portföljbolag förändras över tid. Likt har beskrivits ovan under 
+rubriken "Risker relaterade till koncentrationen och sammansättningen i Kinneviks portfölj" har Kinneviks 
+portfölj under de senaste åren utvecklats mot en större andel onoterade bolag, vilket ligger i linje med Kinneviks 
+strategiska prioritet att driva tillväxt och värde i Bolagets onoterade portfölj. 
+ 
+Värdet på de onoterade portföljbolagen kan öka eller minska på grund av ett antal olika faktorer varav 
+förändringar i den publika aktiemarknaden är en. Inom ramen för sina värderingar av de onoterade 
+portföljbolagen gör Kinnevik en bedömning av bland annat relativvärderingar av jämförbara noterade bolag, 
+respektive portföljbolags operationella och finansiella resultat samt värderingar i transaktioner som skett i 
+respektive portföljbolags aktie. Förändringar i dessa faktorer påverkar det totala värdet på Kinneviks innehav 
+och kan få en negativ inverkan på Kinneviks substansvärde. En större andel onoterade portföljbolag kan 
+innebära ett ökat risktagande och exponering mot kraftigare värdeförändringar, då ett flertal av de onoterade 
+innehaven inte ännu är fullt ut etablerade och operationella och finansiella resultat därför är mindre stabila än 
+för mogna noterade bolag.  
+ 
+Efterdyningarna av pandemin och Rysslands invasion av Ukraina som lett till inflationstryck och stigande räntor 
+har inneburit en fortsatt stor press på värderingarna av tillväxtaktier och nuvarande marknadsklimat skiljer sig 
+väsentligt jämfört med det som rådde för 18 till 24 månader sedan. Därtill kan även andra internationella 
+konflikter och krig komma att påverka det makroekonomiska klimatet framgent. Kinnevik tillämpar IFRS 13 och 
+International Private Equity and Venture Capital Valuation Guidelines vid uppskattningen av det verkliga värdet
+
+--- Page 12 ---
+10 
+ 
+av den onoterade portföljen. Verkligt värde definieras i IFRS 13 som det pris som vid värderingstidpunkten skulle 
+erhållas vid försäljning av en tillgång eller betalas vid en överlåtelse av en skuld genom en ordnad transaktion 
+mellan marknadsaktörer. Därmed reflekteras de lägre värderingsnivåer som råder i marknaden i Kinneviks 
+värderingar. Som en följd av detta har Kinnevik genomfört flera nedskrivningar av värderingar av vissa bolag. 
+Sedan 31 december 2021 fram till 30 september 2023 har det uppskattade värdet av de onoterade innehaven 
+minskat med 24 procent, motsvarande 9,7 Mdkr, justerat för försäljningar och investeringar. Det försämrade 
+marknadsklimatet med minskad tillgänglighet av kapital kan påverka framför allt de mindre motståndskraftiga 
+bolagen i Kinneviks portfölj negativt. Det finns risk för ett fortsatt negativt marknadsklimat under en betydande 
+tid framöver som på olika sätt kan komma att påverka portföljbolagens verksamheter negativt, och i sin tur leda 
+till ytterligare nedskrivningar av värdet på Kinneviks portfölj. Kinnevik bedömer att riskerna relaterade till 
+värdeförändringar utgör risker av hög betydelse. 
+ 
+Risker relaterade till Kinneviks likviditet 
+Kinneviks investeringar är koncentrerade till ett begränsat antal noterade och onoterade bolag. Likt beskrivits 
+ovan under rubriken "Risker relaterade till Kinneviks investering i Tele2" utgör utdelningar från Tele2 en del av 
+finansieringen av Kinneviks verksamhet och framtida investeringar. På samma sätt är möjligheten att kunna 
+genomföra avyttringar av investeringar till attraktiva villkor en viktig förutsättning för Kinneviks finansiering. 
+Per den 30 september 2023 uppgick Koncernens tillgängliga likvida medel, inklusive kortfristiga placeringar och 
+tillgängliga outnyttjade kreditlöften, till 17 129 Mkr. 
+ 
+Portföljbolagens möjligheter att betala utdelning till Kinnevik kan variera från tid till annan. Portföljbolagen är 
+dessutom exponerade mot olika risker i deras respektive verksamheter, varav de risker som bedöms väsentliga 
+för Kinnevik framgår ovan under rubriken "Risker relaterade till Kinneviks portföljbolag". Om lönsamheten i 
+Kinneviks portföljbolag minskar väsentligt skulle detta kunna ha en negativ inverkan på portföljbolagens 
+möjlighet att betala utdelning till Kinnevik. Vid uteblivna utdelningar kan Kinnevik finansiera sin verksamhet 
+och bibehålla sin målsatta finansiella ställning genom försäljning av tillgångar och/eller skuldfinansiering. 
+Kinnevik kan möta svårigheter vid avyttringar av sina investeringar, då det finns en risk att Bolaget inte lyckas 
+sälja sitt innehav eller, i de fall då Kinnevik förmår avyttra hela eller en del av sitt ägande i ett portföljbolag, inte 
+kan erhålla en summa som åtminstone motsvarar det redovisade värdet och, i vissa fall, det totala belopp 
+Kinnevik har investerat i bolaget. Detta skulle kunna ha en negativ inverkan på Kinneviks kassaflöde, finansiella 
+position och möjlighet att bedriva verksamhet. Kinnevik bedömer att riskerna relaterade till Kinneviks likviditet 
+utgör risker av hög betydelse. 
+ 
+Risker relaterade till Kinneviks finansiering  
+Finansieringsrisk är risken att Kinnevik inte erhåller finansiering, eller att finansiering endast kan erhållas till en 
+betydande kostnad. Per den 30 september 2023 hade Kinnevik en nettokassa, inklusive lån till portföljbolag, om 
+8 187 Mkr respektive 7 642 Mkr exklusive lån till portföljbolag. Kinneviks totala kreditramar (inklusive 
+obligationsemission) uppgick till 8 630 Mkr, varav 5 000 Mkr härrörde från outnyttjade syndikerade 
+kreditfaciliteter och 3 500 Mkr från obligationsemissioner med en löptid om två till fem år. Kinnevik är således i 
+mindre utsträckning beroende av skuldfinansiering för att finansiera Bolagets verksamhet.  
+ 
+Det finns en risk att Kinnevik inte kan erhålla nödvändig skuldfinansiering, eller att skuldfinansiering endast kan 
+erhållas till en betydande kostnad, bland annat om Kinneviks och dess portföljbolags lönsamhet minskar 
+väsentligt eller om det uppstår turbulens och volatilitet på kapitalmarknaden. Om denna risk skulle förverkligas 
+i framtiden skulle det kunna få en negativ inverkan på Kinneviks likviditet och finansiella ställning. Kinnevik 
+bedömer att riskerna relaterade till Bolagets finansiering utgör risker av medellåg betydelse.  
+ 
+Risker relaterade till valutakurser 
+Omräkningsexponering uppkommer till följd av omräkning av balansposter i utländsk valuta till svenska kronor. 
+Kinneviks balansräkning är i huvudsak exponerad mot valutakursrisker genom ägandet av aktier i antingen EUR 
+eller USD. Kinnevik är även indirekt exponerat för omräkningsrisk eftersom en majoritet av portföljbolagen är 
+verksamma 
+internationellt, 
+vilket 
+gör 
+att 
+portföljbolagens 
+aktiekurser 
+påverkas 
+indirekt 
+av 
+valutakursförändringar. Den 30 september 2023 motsvarade aktieinnehav i USD och EUR cirka 47 procent 
+respektive 19 procent av Kinneviks totala tillgångar (exklusive kassa), motsvarande ett värde om 20,6 Mdkr
+
+--- Page 13 ---
+11 
+ 
+respektive 8,3 Mdkr. Kinneviks kassa är i allt väsentligt placerad i svenska kronor.  
+ 
+Transaktionsexponering uppkommer när kassaflöden är i utländsk valuta. Kinneviks skuldfinansiering och kassa 
+är i huvudsak i svenska kronor och kommande utdelningar som erhålls från portföljbolagen förväntas i huvudsak 
+att vara i svenska kronor. Bortsett från investeringar och avyttringar har Kinnevik inte några väsentliga 
+kassaflöden i annan valuta än svenska kronor. Valutakursfluktuationer kan därför komma att negativt påverka 
+Kinneviks resultat, finansiella ställning samt kassaflöde. Kinnevik bedömer att riskerna relaterade till 
+valutakurser utgör risker av medellåg betydelse. 
+ 
+RISKER RELATERADE TILL OBLIGATIONER UTGIVNA UNDER MTN-PROGRAMMET 
+Kreditrisk 
+Investerare i Obligationer utgivna av Kinnevik har en kreditexponering mot Kinnevik. Detta betyder att 
+investerarens möjlighet att erhålla betalning enligt Obligationerna är beroende av Kinneviks möjlighet att infria 
+sina betalningsåtaganden, vilket i sin tur i stor utsträckning är beroende av utvecklingen av Kinneviks 
+verksamhet, dess finansiella ställning samt de risker Bolaget är exponerad mot och som beskrivits tidigare i 
+detta avsnitt. Investeringar i Obligationerna omfattas inte av den statliga insättningsgarantin. 
+ 
+En ökad kreditrisk kan medföra att marknaden prissätter Obligationerna med en högre riskpremie, vilket skulle 
+kunna påverka värdet på Obligationerna negativt. En annan aspekt av kreditrisken är att en försämrad finansiell 
+ställning kan medföra att Kinneviks kreditvärdighet minskar och att Bolagets möjligheter till skuldfinansiering 
+försämras, vilket kan påverka Bolagets möjlighet att uppfylla sina åtaganden under Lånevillkoren. Kinnevik 
+bedömer att riskerna relaterade till kreditrisk utgör risker av medelhög betydelse. 
+Risker relaterade till Obligationernas räntekonstruktion 
+Risker relaterade till marknadsförändringar 
+Riskerna relaterade till Obligationerna varierar beroende på lånekonstruktion och löptid för Obligationerna. Det 
+finns en risk att förändringar i ränteläget kan påverka värdet på Obligationerna, vilket kan resultera i att 
+innehavare av Obligationer förlorar en betydande del av sin investering. 
+ 
+Ränta på Obligationer med fast ränta beräknas efter en på förhand fastställd räntesats. En sänkning av 
+marknadsräntan innebär normalt att marknadsvärdet på en Obligation med fast ränta ökar och en höjning av 
+marknadsräntorna innebär normalt att marknadsvärdet på en Obligation med fast ränta minskar. Generellt 
+gäller att Obligationer med längre löptid innebär en högre risk i detta avseende. 
+ 
+Ränta på Obligationer med rörlig ränta beräknas efter en räntesats som motsvarar räntebasen med tillägg av 
+räntebasmarginalen. Räntebasen justeras inför varje ränteperiod medan räntebasmarginalen är fast under hela 
+löptiden. En ändrad förväntan på marknaden om vilken nivå räntebasen kommer att fastställas till riskerar 
+därför att höja eller sänka marknadsvärdet på Obligationen, samt nivån på ränteutbetalningarna på 
+Obligationer utgivna under MTN-programmet. 
+ 
+Obligationer kan även ges ut utan ränta till över- eller underkurs eller till nominellt belopp. För sådana 
+Obligationer gäller att ingen ränta betalas ut under löptiden och att investeraren endast erhåller nominellt 
+belopp i slutet av löptiden. Priset på en Obligation utan ränta är det diskonterade värdet av det nominella 
+beloppet som erhålls på återbetalningsdagen och marknadsräntan är en komponent som avgör vilken 
+diskonteringsfaktor som ska användas. Marknadsräntan kommer därför normalt vara styrande för värdet på en 
+Obligation utan ränta och höjda marknadsräntor kommer normalt att påverka marknadsvärdet för 
+Obligationen negativt. Generellt gäller att ju längre återstående löptid på en Obligation utan ränta, desto högre 
+kursvolatilitet i jämförelse med andra räntebärande värdepapper med jämförbara löptider. Kinnevik bedömer 
+att riskerna relaterade till marknadsförändringar utgör risker av medelhög betydelse.
+
+--- Page 14 ---
+12 
+ 
+Kinnevik får ställa säkerhet för annan skuld 
+I Allmänna Villkor förekommer en så kallad negativklausul. Negativklausulen innebär att Kinnevik åtar sig att 
+inte ställa säkerhet eller låta annan ställa säkerhet för Marknadslån utgivna av Kinnevik, men det är tillåtet att 
+ställa säkerhet för annan skuld i form av banklån eller andra lån. Borgenärer som har säkerställda fordringar på 
+Kinnevik har rätt till betalning ur säkerheterna innan Fordringshavarna. Fordringshavarna har ingen säkerhet i 
+Kinneviks tillgångar och skulle vara oprioriterade i händelse av Kinneviks konkurs. Kinnevik bedömer att 
+riskerna relaterade till Kinneviks ställande av säkerhet för annan skuld utgör risker av medellåg betydelse. 
+MTN är strukturellt efterställda borgenärer till Kinneviks portföljbolag 
+Kinneviks portföljbolag kan ha betydelse för Bolagets möjlighet att erlägga betalning under MTN. För att 
+Kinnevik ska kunna uppfylla betalningsförpliktelser under MTN skulle det från tid till annan kunna krävas att 
+Kinneviks portföljbolag har möjlighet att ge lån eller lämna utdelning till Kinnevik. Portföljbolagen kommer inte 
+gå i borgen för betalningsförpliktelser under MTN och kommer ha skulder till andra borgenärer. Om 
+portföljbolagen blir föremål för konkurs kommer dessa borgenärer att ha rätt till full betalning av sina fordringar 
+innan Kinnevik som direkt eller indirekt aktieägare har rätt till utbetalning av eventuella resterande medel. 
+Kinnevik bedömer att riskerna relaterade till att MTN är strukturellt efterställda portföljbolagens borgenärer 
+utgör risker av medelhög betydelse. 
+ 
+Risker relaterade till hållbarhetslänkade obligationer 
+Kinnevik kan, i enlighet med de Allmänna Villkoren, välja att utge Lån i form av hållbarbetslänkade obligationer 
+i enlighet med de kriterier som framgår av Bolagets Sustainability Linked Financing Framework (enligt dess 
+lydelse på Lånedatumet för ett specifikt Lån). Hållbarhetsindikatorer och Hållbarhetsmål i Bolagets 
+Sustainability Linked Financing Framework avser specifika indikatorer och mål som Kinnevik har fastställt att 
+tillämpas 
+i 
+samband 
+med 
+att 
+hållbarhetslänkade 
+obligationer 
+emitteras. 
+Fastställandet 
+av 
+Hållbarhetsindikatorer och Hållbarhetsmålen innefattar avvägningar där olika hänsyn kan komma att ställas 
+mot varandra, exempelvis kan Kinnevik i det enskilda fallet ha ekonomiska intressen avseende utformningen 
+och fastställandet av Hållbarhetsindikatorer och Hållbarhetsmålen, vilket kan riskera att påverka 
+beslutsprocessen. Även om Kinneviks Sustainability Linked Financing Framework har verifierats av CICERO 
+Shades of Green och IISD i enlighet med ICMAs Sustainability-Linked Bond Principles skulle till exempel 
+Kinnevik kunna ha ett intresse av att sätta låga Hållbarhetsmål (t.ex. mindre än 7 procent minskning av 
+växthusgasutsläpp från Kinneviks portfölj från år till år) för att öka sannolikheten att Hållbarhetsmålen uppnås 
+och på så sätt inte drabbas av de kostnadspåslag som i sådant fall skulle inträffa. 
+ 
+Taxonomiförordningen, annan kommande normgivning, marknadspraxis samt Bolagets Sustainability Linked 
+Financing Framework kan komma att utvecklas efter Lånedatumet för ett specifikt Lån, vilket kan medföra 
+förändrade villkor för efterkommande Lån eller förändrade krav för Bolaget. Förändringar i Bolagets 
+Sustainability Linked Financing Framework som sker efter Lånedatumet för ett specifikt Lån får inte inverkan 
+på villkoren för Fordringshavare i det specifika Lånet. Fordringshavare har ingen rätt att säga upp Lån, till 
+återbetalning eller återköp av MTN på grund av bristande efterlevnad av Bolagets Sustainability Linked 
+Financing Framework eller om Hållbarhetslänkade Lån skulle upphöra att klassificeras som hållbara av 
+investerare. Det medför bland annat en risk för att investeraren skulle kunna bryta mot interna regelverk och 
+investeringsmandat samt en risk att Hållbarhetslänkade Lån enligt dessa kriterier inte passar alla investerares 
+krav, önskemål eller specifika investeringsmandat. 
+ 
+Då den räntehöjning eller uppkomsten av ett tilläggsbelopp som gäller för Hållbarhetslänkade Lån förutsätter 
+att (i) aktuellt Hållbarhetsmål inte uppfylls och (ii) att den Externa Granskaren, i enlighet med Allmänna Villkor, 
+inte fastställer att aktuellt Hållbarhetsmål som de beskrivs i relevant Sustainability Linked Financing Framework 
+uppnåtts finns det en risk att sådan räntehöjning eller ökat fordringsbelopp inte inträffar. Skulle Kinnevik 
+exempelvis inte uppfylla Hållbarhetsmål #2 (att minst 10 procent av nytt kapital ska investeras i bolag som har 
+grundats eller leds av kvinnor) i de hållbarhetslänkade obligationerna som utgivits under nuvarande 
+Sustainability Linked Financing Framework kommer inlösenpriset att öka med 0,075 procentenheter för det år 
+då målet inte uppnåddes. Om Kinnevik skulle missa att uppfylla samma Hållbarhetsmål, eller ett annat 
+Hållbarhetsmål året därpå, kommer inlösenpriset att öka med ytterligare 0,075 procentenheter. Om 
+räntesänkning enligt de Slutliga Villkoren för ett Hållbarhetslänkat Lån ska tillämpas finns det en risk att räntan
+
+--- Page 15 ---
+13 
+ 
+sänks om aktuellt Hållbarhetsmål uppnåtts. 
+ 
+Det finns även en risk att den Externa Granskaren som utses att fastställa huruvida Kinnevik har uppnått sina 
+Hållbarhetsmål missbedömer om Hållbarhetsmålen uppnåtts eller inte, och även investerare kan missbedöma 
+Kinneviks förmåga att uppnå Hållbarhetsmålen. Den större delen av Kinneviks hållbarhetspåverkan ligger på 
+portföljnivå genom Bolagets aktiva ägande. Detta innebär att det dels kan vara svårare för investerare att 
+granska och verifiera Bolagets faktiska prestation i relation till de uppsatta Hållbarhetsmålen, dels vara svårt för 
+Kinnevik att implementera ambitiösa hållbarhetsstrategier som efterföljs i alla portföljbolag. I och med att 
+Kinnevik inte är kontrollägare i majoriteten av sina portföljbolag utvidgas denna risk ytterligare. Denna risk kan 
+i sin tur påverka marknadens förtroende för Kinnevik och leda till en lägre efterfrågan på dess 
+hållbarhetslänkade obligationer. Detta riskerar i förlängningen att minska avkastningen för investerare och kan 
+även påverka obligationens marknadspris negativt. 
+ 
+Taxonomiförordningen avseende harmoniseringen av klassificeringssystem med regler kring bedömningen av 
+gröna och hållbara investeringar började tillämpas fullt ut den 1 januari 2023. Med anledning av att 
+Taxonomiförordningen har tillämpats under en kort tid finns det en osäkerhet i vilken utsträckning 
+Taxonomiförordningen kommer att påverka utformningen och tillämpningen av Kinneviks Sustainability 
+Linked Financing Framework samt klassificeringen av Hållbarhetslänkade Lån. Det finns därmed en risk att 
+Taxonomiförordningen eller annan normgivning i framtiden inte längre kommer att klassificera 
+Hållbarhetslänkade Lån på samma sätt som idag.  
+ 
+Kinnevik bedömer att riskerna relaterade till hållbarhetslänkade obligationer utgör risker av medellåg 
+betydelse. 
+Benchmarkförordningen och referensräntor 
+Processen för hur STIBOR, EURIBOR och andra referensräntor bestäms har varit föremål för ett antal 
+lagstiftningsåtgärder varav vissa redan implementerats och andra kommer att implementeras. Det största 
+initiativet på området är den s.k. benchmarkförordningen (Europaparlamentets och Rådets förordning (EU) 
+2016/1011 av den 8 juni 2016 om index som används som referensvärden för finansiella instrument och 
+finansiella avtal eller för att mäta investeringsfonders resultat, och om ändring av direktiven 2008/48/EG och 
+2014/17/EU och förordning (EU) nr 596/2014) ("Benchmarkförordningen") som trädde ikraft den 1 januari 2018 
+och som reglerar tillhandahållandet av referensvärden, rapportering av dataunderlag för referensvärden och 
+användningen av referensvärden inom EU. Benchmarkförordningen har inverkan på hur vissa referensräntor 
+bestäms och utvecklas. Detta kan i sin tur exempelvis leda till ökad volatilitet gällande vissa referensräntor. 
+Vidare kan de ökade administrativa kraven, och de därtill kopplade regulatoriska riskerna, leda till att vissa 
+aktörer inte längre kommer vilja medverka vid bestämning av referensräntor, eller att vissa referensräntor helt 
+upphör att publiceras. Om så sker för den specifika referensränta som tillämpas för en viss Obligation skulle det 
+kunna få negativa effekter för en innehavare av en Obligation. De Allmänna Villkoren innehåller vissa 
+bestämmelser om fastställande eller byte av räntebas i det fall en referensränta inte kan fastställas vid en given 
+tidpunkt eller om en Triggerhändelse eller ett Offentliggörande inträffar. Det finns risk för att sådana ändringar 
+av räntebas enligt de Allmänna Villkoren kan vara till nackdel för innehavare av en Obligation eller kan leda till 
+tidskonsumerande diskussioner eller tvister. Om ovanstående inträffar kan det få en negativ inverkan på en 
+investering i en Obligation. Kinnevik bedömer att riskerna relaterade till Benchmarkförordningen utgör risker 
+av medelhög betydelse.
+
+--- Page 16 ---
+14 
+ 
+KINNEVIKS SUSTAINABILITY LINKED FINANCING FRAMEWORK  
+Allmänt 
+Kinneviks ambition är att vara Europas ledande börsnoterade tillväxtinvesterare och Bolagets Sustainability 
+Linked Financing Framework syftar till att säkerställa att hållbarhet fortsatt ska vara en integrerad del av 
+Bolagets värdeskapande process genom att aktivt arbeta med portföljbolagen för att utveckla dem till 
+långsiktigt framgångsrika och hållbara verksamheter som levererar betydande avkastning. Kinneviks 
+Sustainability Linked Financing Framework innehåller bland annat information om hur Kinnevik arbetar med 
+hållbarhet som en integrerad del av Bolagets värdeskapande process samt Kinneviks centrala 
+Hållbarhetsindikatorer och Hållbarhetsmål (i Kinneviks Sustainability Linked Financing Framework används 
+termen "KPI" respektive "SPT").  
+ 
+Kinnevik arbetar med hållbarhet på två nivåer. Den första nivån avser det egna Bolaget och verksamheten. Den 
+andra nivån riktar sig mot portföljen där Kinnevik stödjer sina portföljbolag i deras hållbarhetsarbete. 
+Majoriteten av Kinneviks potentiella påverkan inom hållbarhet finns på portföljnivå. Genom Kinneviks aktiva 
+ägande är hållbarhet en integrerad del av Bolagets affärsmodell och investeringsprocess.  
+ 
+Kinnevik har en strukturerad process för att hitta och utvärdera potentiella nya investeringar. Denna process 
+involverar Kinneviks styrelse, ledningsgrupp, Executive Investment Committee ("EIC"), investeringsteam och 
+hållbarhetsteam. EIC leds av Kinneviks VD och består av ledningsgruppen, hållbarhetschefen samt Kinneviks 
+investeringsdirektörer. När Kinnevik utvärderar potentiella investeringar använder sig Kinnevik av en noggrann 
+process och använder ett holistiskt tillvägagångssätt, där bolag utvärderas i flera steg baserat på finansiella, 
+kommersiella och miljö-, sociala- och bolagsstyrningsfaktorer (Eng. Environmental, Social and Government) 
+("ESG").  
+ 
+Sustainability Linked Financing Framework 
+Att etablera ett hållbarhetsrelaterat finansieringsramverk är ett sätt för Kinnevik att integrera Bolagets 
+engagemang och ledarambition inom hållbarhet i Bolagets finansieringslösningar. Kinneviks Sustainability 
+Linked Financing Framework är förenligt med Sustainability-Linked Bond Principles som publicerades av 
+International Capital Market Association i juni 2020 samt Sustainability Linked Loan Principles som publicerades 
+av Loan Market Association, Asia Pacific Loan Market Association och Loan Syndications and Trading 
+Association i juli 2021. För att säkerställa att Kinneviks Sustainability Linked Financing Framework uppfyller de 
+principer som omnämnts kommer Kinnevik att söka oberoende och extern verifiering av Bolagets faktiska 
+prestation kring Hållbarhetsindikatorerna i förhållande till Hållbarhetsmålen på årlig basis, samt i förhållande 
+till aktuellt måldatum, där verifieringen kommer att genomföras av en extern granskare med relevant expertis. 
+Kinnevik har även erhållit en Second Party Opinion från CICERO Shades of Green och International Institute for 
+Sustainable Development avseende Bolagets Sustainability Linked Financing Framework.2 Den bekräftar bland 
+annat att Sustainability Linked Financing Framework uppfyller ovan nämnda principer samt fastslår att 
+Kinneviks Hållbarhetsmål är meningsfulla och relevanta mot bakgrund av Kinneviks bredare hållbarhets- och 
+affärsstrategi.  
+ 
+Kinnevik kommer att beskriva hur Bolaget har presterat i förhållande till de Hållbarhetsmål som framgår av 
+Sustainability Linked Financing Framework i den hållbarhetsrapport som presenteras årligen och/eller i en 
+separat Sustainability Linked Progress-rapport. Hållbarhetsrapporterna och Sustainability Linked Progress-
+rapporterna kommer att finnas tillgängliga på Kinneviks hemsida, www.kinnevik.com/sustainability.  
+Hållbarhetsindikatorer (KPI) och Hållbarhetsmål (SPT) 
+Miljöansvar och minskad klimatpåverkan 
+Hållbarhetsindikator (KPI) #1: Reducera intensiteten av växthusgasutsläpp i Kinneviks portfölj från år till år 
+(majoriteten av Kinneviks scope 3) 
+ 
+Hållbarhetsmål (SPT) #1: 7 procent minskning av växthusgasutsläpp från Kinneviks portfölj från år till år, vilket 
+resulterar i en total minskning med 50 procent till 2030 jämfört med 2020 (majoriteten av Kinneviks scope 3) 
+ 
+ 
+2 Kinneviks Second Party Opinion från CICERO Shades of Green finns tillgänglig på Kinneviks hemsida, 
+www.kinnevik.com/investors/funding.
+
+--- Page 17 ---
+15 
+ 
+Hur Kinnevik mäter Hållbarhetsmål #1: Hållbarhetsmål #1 avser portföljbolag som mäter och rapporterar sina 
+utsläpp av växthusgaser och som har gjort det minst två år i rad. Eftersom många av Kinneviks portföljbolag 
+uppvisar en betydande tillväxttakt kommer utsläppen att mätas i förhållande till utvecklingen av relevanta 
+ekonomiska och fysiska mått som valts ut för respektive portföljbolag. För att bibehålla den 
+investeringsflexibilitet som Kinneviks verksamhet kräver har minskningsmålet fastställts på årsbasis. Således är 
+det den årliga förändringen i utsläppsintensitet för portföljbolagen som omfattas. Detta ger Kinnevik möjlighet 
+att inkludera och exkludera bolag i takt med att Kinneviks portfölj av bolag utvecklas och innebär att Kinnevik 
+inte kan dra nytta av en högre minskningstakt ett visst år. Hållbarhetsindikator #1 och Hållbarhetsmål #1 gäller 
+inte för Kinneviks portföljbolag inom Emerging Markets.3 
+ 
+Social jämlikhet och ansvarsfullt företagande 
+Hållbarhetsindikator (KPI) #2: Allokering av nytt kapital till bolag som grundats eller leds av kvinnor 
+ 
+Hållbarhetsmål (SPT) #2: På rullande tvåårsbasis ska minst 10 procent av nytt kapital investeras i bolag som har 
+grundats eller leds av kvinnor  
+ 
+Hur Kinnevik mäter Hållbarhetsmål #2: Kinneviks externt kommunicerade mål att 10 procent av det kapital som 
+investeras i nya bolag ska investeras i bolag som leds eller grundas av kvinnor, innehåller en mekanism som 
+innebär att om Kinnevik inte når målet ett visst år, kommer ett belopp motsvarande 10 procent att överföras till 
+nästa år. Systemet återspeglar Kinneviks åtagande att överbrygga finansieringsgapet för venture- och 
+tillväxtbolag som har grundats eller leds av kvinnor, samtidigt som Bolaget tar hänsyn till sin 
+investeringsprocess och investeringstakt. På så sätt säkerställer Kinnevik att en avvikelse med att uppnå målet 
+under ett år måste kompenseras under kommande år. I Sustainability Linked Financing Framework införlivas 
+mekanismen genom ett krav på att minst 10 procent av det kapital som investeras i nya bolag ska investeras i 
+bolag som grundats eller leds av kvinnor på en rullande tvåårsbasis. 
+ 
+Ett bolag anses vara grundat av en kvinna om någon av följande förutsättningar är uppfyllda vid tidpunkten för 
+investeringen: 
+- 
+minst 50 procent av grundarna som är aktiva inom bolaget är kvinnor, eller 
+- 
+minst 1/3 av grundarna som är aktiva inom bolaget är kvinnor och innehar positioner på bolagets högsta 
+ledningsnivå, eller 
+- 
+en kvinnlig medgrundare innehar även rollen som VD eller styrelseordförande. 
+ 
+"Aktiv inom bolaget" definieras som att kvinnan har en pågående anställning i bolagets operativa verksamhet 
+eller är styrelseledamot. 
+ 
+Ett bolag anses vara lett av en kvinna om någon av följande förutsättningar är uppfyllda vid tidpunkten för 
+investeringen:  
+- 
+minst 50 procent av de ledande befattningshavarna i bolaget är kvinnor, eller 
+- 
+en kvinna är VD och minst 30 procent av de ledande befattningshavarna är kvinnor. 
+ 
+Sunda styrningsstrukturer och ekonomisk tillväxt 
+Hållbarhetsindikator (KPI) #3: Genomsnittlig årlig ESG-poäng för hela portföljen 
+ 
+Hållbarhetsmål (SPT) #3: 5 procent förbättring av det årliga ESG-poängsnittet för hela portföljen från år till år  
+ 
+Hur Kinnevik mäter Hållbarhetsmål #3: Kinnevik genomför årligen en utvärdering av alla dess portföljbolag, 
+både publika och privata, baserat på Kinnevikstandarderna.4 Efter genomförd utvärdering tilldelas 
+portföljbolagen en ESG-poäng baserat på deras uppfyllande av varje standard. ESG-poängen är en tydlig 
+ 
+3 Bolagen inom Emerging Markets är inte längre centrala för Kinneviks strategi och representerar en liten del av Kinneviks portföljvärde 
+(Emerging Markets utgör mindre än en procent av Kinneviks substansvärde per den 30 september 2023). 
+4 För att mäta prestation, fastställa årliga mål och utveckla vedertagna metoder för Kinneviks portföljbolag har Kinnevik utvecklat ett 
+strukturerat ramverk, de s.k. Kinnevikstandarderna. Dessa har utvecklats baserat på dialoger med intressenter och ett antal olika 
+riktmärken och metoder inom branschen. De omfattar 84 mätvärden inom miljö-, sociala- och bolagsstyrningsfaktorer. Standarderna 
+presenteras i två versioner: en för mindre bolag och en mer utmanande för större bolag. De större bolagen förväntas följa standarderna 
+för både små och stora bolag. Kinneviks hållbarhetsteam är ansvarigt för att utveckla standarderna och för att genomföra en årlig 
+utvärdering av portföljbolagen i enlighet med dessa standarder.
+
+--- Page 18 ---
+16 
+ 
+indikation på hur portföljbolagen presterar och utvecklas över tid när det gäller alla tre ESG-dimensionerna. 
+ESG-poängen tillåter investeringsteamet att systematiskt identifiera förbättringsområden och innebär en 
+möjlighet för investeringsteamet att rikta sina insatser samt stöd mot kritiska delar inom portföljbolagen. Med 
+hänsyn till Kinneviks affärsmodell och dynamiska bolagsportfölj avser målet en årlig förbättringstakt snarare än 
+ett minimalt ESG-resultat. Kinnevik anser att mest värde tillförs genom att Kinnevik inspirerar samtliga 
+portföljbolag att förbättra sitt ESG-relaterade arbete, oavsett utgångsläget för varje bolag som har genomgått 
+Kinneviks noggranna investeringsprocess. Hållbarhetsindikator #3 och Hållbarhetsmål #3 gäller inte för 
+Kinneviks portföljbolag inom Emerging Markets. För ytterligare information om Sustainability Linked Financing 
+Framework, se Kinneviks hemsida www.kinnevik.com/investors/funding.
+
+--- Page 19 ---
+17 
+ 
+ALLMÄNNA VILLKOR FÖR LÅN UPPTAGNA UNDER KINNEVIK AB (PUBL) MTN-PROGRAM 
+Följande allmänna villkor ("Allmänna Villkor") ska gälla för lån som Kinnevik AB (publ) (org. nr 556047-9742) 
+("Bolaget") emitterar på kapitalmarknaden under avtal som ingåtts den 9 februari 2017, såsom ändrat från tid 
+till annan, mellan Bolaget och Skandinaviska Enskilda Banken AB (publ) ("Ledarbanken"), Danske Bank A/S, 
+Danmark, Sverige Filial, DNB Bank ASA, filial Sverige, Nordea Bank Abp, Svenska Handelsbanken AB (publ) och 
+Swedbank AB (publ) om MTN-program ("MTN-program") genom att utge obligationer med varierande 
+löptider, dock minst ett år, s.k. Medium Term Notes. 
+1. 
+DEFINITIONER  
+1.1 
+Utöver ovan gjorda definitioner ska följande benämningar ha den innebörd som anges nedan.  
+"Administrerande Institut" är, enligt Slutliga Villkor, (i) om Lån utgivits genom två eller flera 
+Utgivande Institut, det Utgivande Institut som utsetts av Bolaget att ansvara för vissa 
+administrativa uppgifter beträffande Lånet, och (ii) om Lån utgivits genom endast ett Utgivande 
+Institut, det Utgivande Institutet;  
+"Avstämningsdag" är den femte Bankdagen före (i) förfallodag för ränta eller kapitalbelopp enligt 
+Lånevillkoren, (ii) annan dag då betalning ska ske till Fordringshavare, (iii) dagen för 
+Fordringshavarmöte, (iv) dagen för avsändande av meddelande, eller (v) annan relevant dag, eller 
+annan Bankdag före den relevanta dagen som generellt kan komma att tillämpas på den svenska 
+obligationsmarknaden;  
+"Bankdag" är dag som inte är söndag eller annan allmän helgdag i Sverige eller som beträffande 
+betalning av skuldebrev inte är likställd med allmän helgdag i Sverige. Lördagar, midsommarafton, 
+julafton och nyårsafton ska för denna definition anses vara likställda med allmän helgdag;  
+"Beräkningsmetod" är den eller de beräkningsmetoder som, i förekommande fall och i förhållande 
+till ett Hållbarhetslänkat Lån, anges i Slutliga Villkor; 
+"Dagberäkningsmetod" är vid beräkningen av ett belopp för viss beräkningsperiod, den 
+beräkningsgrund som anges i Slutliga Villkor, och ska beräknas enligt följande; 
+(a) 
+"30/360" ska beräknas på ett år med 360 dagar bestående av tolv månader med vardera 30 
+dagar och vid bruten månad det faktiska antalet dagar som löpt i månaden; eller 
+(b) 
+"Faktisk/360" ska beräknas på det faktiska antalet dagar i den relevanta perioden dividerat 
+med 360; 
+"Dotterbolag" avser i förhållande till ett bolag ett dotterföretag till sådant bolag direkt eller indirekt 
+såsom definierat i Aktiebolagslagen (2005:551).  
+"Emissionsinstitut" är Skandinaviska Enskilda Banken AB (publ), Danske Bank A/S, Danmark, 
+Sverige Filial, DNB Bank ASA, filial Sverige, Nordea Bank Abp, Svenska Handelsbanken AB (publ) 
+och Swedbank AB (publ), samt varje annat emissionsinstitut som av Euroclear Sweden erhållit 
+särskilt tillstånd att hantera och registrera emissioner i VPC-systemet och som ansluter sig till detta 
+MTN-program i enlighet med punkt 14.5, dock endast så länge sådant institut inte avträtt som 
+emissionsinstitut;  
+"EURIBOR" är: 
+(a) 
+den räntesats som omkring kl. 11.00 på aktuell dag anges på informationssystemet 
+Refinitivs sida EURIBOR01 (eller genom sådant annat system eller på sådan annan sida 
+som ersätter nämnda system respektive sida) för EUR under en period jämförbar med den 
+relevanta Ränteperioden; eller 
+(b) 
+om ingen sådan räntesats anges för den relevanta Ränteperioden enligt punkt (a) ovan, 
+medelvärdet (avrundat uppåt till fyra decimaler) av den räntesats som Europeiska
+
+--- Page 20 ---
+18 
+ 
+Referensbanker anger till Administrerande Institut på dennes begäran för depositioner av 
+EUR 10.000.000 för den relevanta Ränteperioden; eller 
+(c) 
+om ingen räntesats anges enligt punkt (a) ovan, och endast en eller ingen räntesats ges 
+under punkt (b) ovan, den räntesats som enligt Administrerande Instituts skäliga 
+uppskattning bäst motsvarar räntesatsen för depositioner i EUR för den relevanta 
+Ränteperioden; 
+"Euro" och "EUR" är den valuta som används av de deltagande medlemsstaterna i enlighet med 
+den Europeiska Unionens regelverk för den Ekonomiska och Monetära Unionen (EMU);  
+"Euroclear Sweden" är Euroclear Sweden AB (org. nr 556112-8074); 
+"Europeiska Referensbanker" är fyra större affärsbanker som vid aktuell tidpunkt kvoterar 
+EURIBOR och som utses av Administrerande Institut. 
+"Extern Granskare" är, i relation till Hållbarhetslänkat Lån, en välrenommerad och erkänd 
+oberoende extern granskare med uppgift att fastställa om Hållbarhetsmål uppnåtts och som utses 
+av Bolaget och har den expertis som krävs för att utföra en granskning; 
+"Fordringshavare" är den som är antecknad på VP-konto som direktregistrerad ägare eller 
+förvaltare av MTN; 
+"Fordringshavarmöte" är ett möte med Fordringshavarna i enlighet med avsnitt 13 
+(Fordringshavarmöte); 
+"Huvudägarna" är: 
+(a) 
+någon av Cristina Stenbeck (född 27 september 1977) eller hennes barn, syskon eller 
+syskonbarn eller make/maka till någon av dessa personer;  
+(b) 
+någon trust, stiftelse eller liknande juridisk enhet där en eller flera av personerna under (a) 
+ovan är en förmånstagare eller styrelseledamot; eller 
+(c) 
+något annat bolag (börsnoterat eller inte), handelsbolag, kommanditbolag eller annan 
+juridisk enhet som, direkt eller indirekt, kontrolleras av en eller flera av personerna under 
+(a) och (b) ovan där kontroll, direkt eller indirekt, ska anses föreligga om en eller flera av 
+personerna under (a) och (b) ovan ensam eller tillsammans förfogar över 25 procent eller 
+mer av rösterna i styrelsen eller motsvarande ledningsorgan eller åtnjuter 25 procent eller 
+mer av de ekonomiska rättigheterna från ett sådant bolag, handelsbolag, 
+kommanditbolag eller enhet; 
+"Hållbarbetsindikator" är den eller de hållbarhetsindikatorer som tillämpas i förhållande till ett 
+Hållbarhetslänkat Lån och som anges i Slutliga Villkor; 
+"Hållbarhetslänkat Lån" är ett Lån vars villkor är kopplade till tillämpliga hållbarhetsindikatorer 
+(vilka närmare beskrivs i Bolagets regelverk för hållbarhetslänkade obligationer) och som anges i 
+Slutliga Villkor; 
+"Hållbarhetsmål" är det eller de hållbarhetsmål som anges i Slutliga Villkor och som tillämpas i 
+förhållande till ett Hållbarhetslänkat Lån och vars uppfyllande beräknas på basis av relevant 
+Hållbarhetsindikator och med tillämpning av relevant Beräkningsmetod; 
+"Justerat Lånebelopp" är det utestående Lånebeloppet avseende visst Lån med avdrag för MTN 
+som innehas av Koncernföretag, oavsett om Koncernföretag är direktregistrerad som ägare av 
+sådan MTN eller ej; 
+"Koncernen" avser Bolaget och dess Dotterbolag från tid till annan som konsolideras i Bolagets 
+delårsrapport eller årsredovisning;
+
+--- Page 21 ---
+19 
+ 
+"Koncernföretag" är varje juridisk person som från tid till annan ingår i Koncernen; 
+"Kontoförande Institut" är bank eller annan som har medgivits rätt att vara kontoförande institut 
+enligt lag (1998:1479) om värdepapperscentraler och  kontoföring av finansiella instrument och hos 
+vilken Fordringshavare öppnat VP-konto avseende MTN;  
+"Kontrolldatum" är det eller de datum som anges i Slutliga Villkor då Bolaget ska ha uppfyllt 
+Hållbarhetsmål; 
+"Likviddag" är, enligt Slutliga Villkor, den dag då emissionslikviden för MTN ska betalas; 
+"Lån" är varje lån av viss serie, omfattande en eller flera MTN, som Bolaget upptar under detta 
+MTN-program;  
+"Lånebelopp" är, enligt Slutliga Villkor, det belopp avseende visst Lån som utgörs av samtliga MTN 
+under relevant Lån, men minskat med eventuellt återbetalt belopp; 
+"Lånevillkor" är, för visst Lån, dessa Allmänna Villkor samt de Slutliga Villkoren för sådant Lån;  
+"Marknadslån" är lån mot utgivande av certifikat, obligationer eller andra värdepapper (inklusive 
+lån under MTN- eller annat marknadslåneprogram), som säljs, förmedlas eller placeras i 
+organiserad form och vilka är eller kan bli föremål för handel på Reglerad Marknad;  
+"MTN" är en ensidig skuldförbindelse som registrerats enligt lag (1998:1479) om 
+värdepapperscentraler och kontoföring av finansiella instrument och utgör del av Lån som utgivits 
+av Bolaget under detta MTN-program; 
+"Rapporteringsdatum" är vilket anges i Slutliga Villkor, det eller de datum per vilket Bolaget senast 
+ska ha rapporterat om Hållbarhetsmål har uppnåtts eller ej enligt fastställelse av den Externe 
+Granskaren; 
+"Referensbanker" är de Emissionsinstitut som är utsedda under detta MTN-program eller sådana 
+ersättande banker som vid aktuell tidpunkt uppger räntesats för STIBOR och som utses av 
+Administrerande Institut; 
+"Reglerad Marknad" är en reglerad marknad såsom definieras i Direktiv 2004/39/EG om marknader 
+för finansiella instrument; 
+"Räntebas" är med avseende på Lån med Rörlig Ränta, räntebasen STIBOR eller EURIBOR som 
+anges i de Slutliga Villkoren eller någon referensränta som ersätter STIBOR eller EURIBOR i 
+enlighet med avsnitt 7 (Byte av Räntebas); 
+"Räntehöjning" är den räntehöjning (i förekommande fall) som tillämpas i förhållande till ett 
+Hållbarhetslänkat Lån och som anges i Slutliga Villkor; 
+"Räntesänkning" är den räntesänkning (i förekommande fall) som tillämpas i förhållande till ett 
+Hållbarhetslänkat Lån och som anges i Slutliga Villkor; 
+"Slutliga Villkor" är de slutliga villkor vilka upprättas för ett visst Lån under detta MTN-program i 
+enlighet med mall för slutliga villkor (med de ändringar och tillägg som från tid till annan kan 
+komma att göras); 
+"Startdag För Ränteberäkning" är, enligt Slutliga Villkor, den dag från vilken ränta (i 
+förekommande fall) ska börja löpa;  
+"STIBOR" är: 
+(a) 
+den räntesats som administrerats, beräknats och distribuerats av Swedish Financial 
+Benchmark Facility AB (eller ersättande administratör eller beräkningsombud) för aktuell
+
+--- Page 22 ---
+20 
+ 
+dag och som publiceras på informationssystemet Refinitivs sida "STIBOR=" (eller genom 
+sådant annat system eller på sådan annan sida som ersätter nämnda system respektive 
+sida) för SEK under en period jämförbar med den relevanta Ränteperioden; eller  
+(b) 
+om ingen sådan räntesats anges för den relevanta Ränteperioden enligt punkt (a) ovan, 
+medelvärdet (avrundat uppåt till fyra decimaler) av de räntesatser som Referensbankerna 
+(eller sådana ersättande banker som utses av Administrerande Institut) anger till 
+Administrerande Institut på dennes begäran för depositioner av SEK 100.000.000 för den 
+relevanta Ränteperioden; eller  
+(c) 
+om ingen räntesats anges enligt punkt (a) ovan och endast en eller ingen räntesats anges 
+under punkt (b) ovan, den räntesats som enligt Administrerande Instituts skäliga 
+uppskattning bäst motsvarar räntesatsen för depositioner i SEK på interbankmarknaden i 
+Stockholm för den relevanta Ränteperioden; 
+"Svenska Kronor" och "SEK" är den officiella valutan i Sverige;  
+"Tilläggsbelopp" är det tilläggsbelopp (i förekommande fall) som tillämpas i förhållande till ett 
+Hållbarhetslänkat Lån och som anges i Slutliga Villkor; 
+"Utgivande Institut" är, enligt Slutliga Villkor, det eller de Emissionsinstitut under detta MTN-
+program varigenom ett visst Lån har utgivits; 
+"Valör" är, enligt Slutliga Villkor, nominellt belopp för varje MTN; 
+"VP-konto" är det värdepapperskonto hos Euroclear Sweden enligt lag (1998:1479) om 
+värdepapperscentraler och kontoföring av finansiella instrument i vilket (i) en ägare av ett 
+värdepapper är direktregistrerad som ägare av värdepapper eller (ii) en ägares innehav av 
+värdepapper är förvaltarregistrerat i en förvaltares namn;  
+"Väsentligt Koncernföretag" är Bolaget och varje Koncernföretag vars balansomslutning eller 
+rörelseresultat före skatter och dispositioner utgör mer än tio (10) procent av Koncernens 
+konsoliderade balansomslutning respektive rörelseresultat före skatter och dispositioner enligt den 
+senaste reviderade årsredovisningen; 
+"Återbetalningsdag" är, enligt Slutliga Villkor, dag då MTN ska återbetalas; samt 
+"Återköpsdag" är den dag som specificerats i enlighet med punkterna 10.2 och 10.3. 
+1.2 
+Vid beräkningen av huruvida en gräns beskriven i Svenska Kronor har blivit uppnådd eller 
+överskriden ska ett belopp i annan valuta beräknas utifrån den växlingskurs som gällde Bankdagen 
+närmast före den relevanta tidpunkten och som publiceras på Reuters5 sida "SEKFIX=" (eller genom 
+sådant annat system eller på sådan annan sida som ersätter nämnda system respektive sida) eller, 
+om sådan kurs inte publiceras, enligt den kurs för Svenska Kronor mot den aktuella valutan på 
+nämnda dag som publiceras av Riksbanken på dess hemsida (www.riksbank.se). 
+1.3 
+Ytterligare 
+definitioner 
+såsom 
+Räntekonstruktion, 
+Räntesats, 
+Räntebasmarginal, 
+Räntebestämningsdag, Ränteförfallodagar, Ränteperiod och Valuta återfinns (i förekommande 
+fall) i Slutliga Villkor.  
+ 
+ 
+ 
+5 Numera Refinitiv.
+
+--- Page 23 ---
+21 
+ 
+ 
+2. 
+UPPTAGANDE AV LÅN 
+2.1 
+Under detta MTN-program får Bolaget ge ut MTN i Svenska Kronor eller Euro med en löptid på 
+lägst ett år. Under ett Lån kan MTN ges ut i ytterligare trancher utan godkännande från 
+Fordringshavare. 
+2.2 
+Genom att teckna sig för MTN godkänner varje initial Fordringshavare att dess MTN ska ha de 
+rättigheter och vara villkorade av de villkor som följer av Lånevillkoren. Genom att förvärva MTN 
+bekräftar varje ny Fordringshavare sådant godkännande. 
+2.3 
+Bolaget åtar sig att göra betalningar avseende utgivna MTN och även i övrigt följa Lånevillkoren för 
+de Lån som tas upp under detta MTN-program.  
+2.4 
+Önskar Bolaget ge ut MTN under detta MTN-program ska Bolaget ingå särskilt avtal för detta 
+ändamål med ett eller flera Emissionsinstitut vilka ska vara Utgivande Institut för sådant Lån.  
+3. 
+REGISTRERING AV MTN  
+3.1 
+MTN utges i dematerialiserad form, varför inga fysiska värdepapper kommer att utfärdas. MTN ska 
+för Fordringshavares räkning registreras på VP-konto. Begäran om viss registreringsåtgärd 
+avseende MTN ska riktas till Kontoförande Institut.  
+3.2 
+Den som på grund av uppdrag, pantsättning, bestämmelserna i föräldrabalken, villkor i testamente 
+eller gåvobrev eller annars förvärvat rätt att ta emot betalning under en MTN ska låta registrera sin 
+rätt för att erhålla betalning.  
+3.3 
+Administrerande Institut har rätt att erhålla information från Euroclear Sweden om innehållet i dess 
+avstämningsregister för MTN i syfte att kunna fullgöra sina uppgifter i enlighet med avsnitt 12 
+(Uppsägning av Lån) och avsnitt 13 (Fordringshavarmöte) nedan. Administrerande Institut ska inte 
+vara ansvarigt för innehållet i sådant utdrag eller på annat sätt vara ansvarigt för att fastställa vem 
+som är Fordringshavare i MTN. 
+4. 
+RÄTT ATT AGERA FÖR FORDRINGSHAVARE 
+4.1 
+Om annan än Fordringshavare önskar utöva Fordringshavares rättigheter under Lånevillkoren eller 
+rösta på Fordringshavarmöte, ska sådan person kunna uppvisa fullmakt eller annan 
+behörighetshandling utfärdad av Fordringshavaren eller en kedja av sådana fullmakter och/eller 
+behörighetshandlingar från Fordringshavaren.  
+4.2 
+Fordringshavare, eller annan person som utövar Fordringshavares rättigheter enligt punkt 4.1 ovan, 
+kan befullmäktiga en eller flera personer att representera Fordringshavaren avseende vissa eller 
+samtliga MTN som innehas av Fordringshavaren. Envar sådan befullmäktigad person får agera 
+självständigt och äger rätt att delegera sin rätt att företräda Fordringshavaren.  
+5. 
+BETALNINGAR 
+5.1 
+Betalning avseende MTN utgivna i Svenska Kronor ska ske i Svenska Kronor och avseende MTN 
+utgivna i Euro ska ske i Euro. 
+5.2 
+Betalningar avseende Lån ska göras till den som är registrerad som Fordringshavare på 
+Avstämningsdagen för respektive förfallodag eller till sådan annan person som är registrerad hos 
+Euroclear Sweden som berättigad att erhålla sådan betalning.  
+5.3 
+Har Fordringshavaren genom Kontoförande Institut låtit registrera att kapitalbelopp respektive 
+ränta ska insättas på visst bankkonto, sker insättning genom Euroclear Swedens försorg på
+
+--- Page 24 ---
+22 
+ 
+respektive förfallodag. I annat fall översänder Euroclear Sweden beloppet på respektive förfallodag 
+till Fordringshavaren på dennes hos Euroclear Sweden på Avstämningsdagen registrerade adress6. 
+5.4 
+Skulle Euroclear Sweden på grund av dröjsmål från Bolagets sida eller på grund av annat hinder inte 
+kunna utbetala belopp enligt vad nyss sagts, ska Bolaget tillse att beloppet utbetalas genom 
+Euroclear Swedens försorg så snart hindret upphört till den som på Avstämningsdagen var 
+Fordringshavare7.  
+5.5 
+Om Bolaget ej kan fullgöra betalningsförpliktelse genom Euroclear Sweden på grund av hinder för 
+Euroclear Sweden ska Bolaget ha rätt att skjuta upp betalningsförpliktelsen tills dess att hindret har 
+upphört. I sådant fall ska ränta utgå enligt punkt 8.2.  
+5.6 
+Visar det sig att den som tillställts belopp i enlighet med detta avsnitt 5 (Betalningar) saknade rätt 
+att mottaga detta, ska Bolaget respektive Euroclear Sweden likväl anses ha fullgjort sina 
+ifrågavarande skyldigheter. Detta gäller dock ej om Bolaget respektive Euroclear Sweden hade 
+kännedom om att beloppet kom i orätta händer eller inte varit normalt aktsam. 
+6. 
+RÄNTA 
+6.1 
+Ränta på visst Lån beräknas och utgår (i förekommande fall) i enlighet med Lånevillkoren. 
+6.2 
+I Slutliga Villkor ska relevant Räntekonstruktion anges enligt något av följande alternativ eller 
+kombination därav:  
+(a) 
+Fast Ränta  
+Om Lån är specificerat som Lån med Fast Ränta ska Lånet löpa med ränta enligt 
+Räntesatsen från (men exklusive) Startdag För Ränteberäkning till och med (och inklusive) 
+Återbetalningsdagen.  
+Ränta som upplupit under en Ränteperiod erläggs i efterskott på respektive 
+Ränteförfallodag och beräknas enligt den Dagberäkningsmetod som anges i Slutliga 
+Villkor. 
+(b) 
+Rörlig Ränta (FRN) 
+Om Lånet är specificerat som Lån med Rörlig Ränta ska Lånet löpa med ränta från (men 
+exklusive) Startdag För Ränteberäkning till (och inklusive) Återbetalningsdagen. 
+Räntesatsen för respektive Ränteperiod fastställs av Administrerande Institut på 
+respektive Räntebestämningsdag och utgörs av Räntebasen med tillägg av 
+Räntebasmarginalen för samma period, justerat med hänsyn till tillämpning av avsnitt 7 
+(Byte av Räntebas). 
+Kan räntesats inte bestämmas på Räntebestämningsdagen på grund av sådant hinder som 
+avses i punkt 17.1 ska Lånet fortsätta att löpa med den räntesats som gällde för den 
+närmast förutvarande Ränteperioden. Så snart hindret upphört ska Administrerande 
+Institut beräkna ny räntesats att gälla från den andra Bankdagen efter dagen för 
+beräknandet till utgången av den då löpande Ränteperioden.  
+Ränta som upplupit under en Ränteperiod erläggs i efterskott på respektive 
+Ränteförfallodag och beräknas enligt den Dagberäkningsmetod som anges i Slutliga 
+Villkor eller enligt sådan annan beräkningsgrund som tillämpas för aktuell Räntebas. 
+(c) 
+Nollkupongslån 
+ 
+6 Notera att Euroclear inte längre kan betala till Fordringshavares registrerade adress. 
+7 Notera att Euroclear inte längre betalar ut till den som var Fordringshavare på avstämningsdagen i efterhand.
+
+--- Page 25 ---
+23 
+ 
+Om Lånet är specificerat som Nollkupongslån ska Lånet löpa utan ränta.  
+6.3 
+I tillägg till vad som i övrigt gäller enligt denna punkt 6, ska följande gälla för Hållbarhetslänkat Lån. 
+(a) 
+För Hållbarhetslänkat Lån där Räntehöjning är specificerat enligt Slutliga Villkor, ska, från 
+och med den Ränteperiod som börjar löpa närmast efter ett Rapporteringsdatum till den 
+Ränteperiod som börjar löpa närmast efter nästa Rapporteringsdatum (inklusive 
+eventuella Ränteperioder däremellan), den i Slutliga Villkor angivna Räntesatsen (för Lån 
+med Fast Ränta) eller Räntebasmarginal (för Lån med Rörlig Ränta) höjas med den 
+Räntehöjning som anges i Slutliga Villkor, om inte (i) Hållbarhetsmål uppnåtts senast på 
+relevant Kontrolldatum och (ii) den Externa Granskaren har fastställt att Hållbarhetsmål 
+uppnåtts i Bolagets årsrapport eller annan finansiell rapport utgiven av Bolaget senast på 
+relevant Rapporteringsdatum.  
+(b) 
+För Hållbarhetslänkat Lån där Räntesänkning är specificerat enligt Slutliga Villkor, ska, 
+från och med den Ränteperiod som börjar löpa närmast efter ett Rapporteringsdatum till 
+den Ränteperiod som börjar löpa närmast efter nästa Rapporteringsdatum (inklusive 
+eventuella Ränteperioder däremellan), den i Slutliga Villkor angivna Räntesatsen (för Lån 
+med Fast Ränta) eller Räntebasmarginal (för Lån med Rörlig Ränta) sänkas med den 
+Räntesänkning som anges i Slutliga Villkor, om (i) Hållbarhetsmål uppnåtts senast på 
+relevant Kontrolldatum och (ii) den Externa Granskaren har fastställt att Hållbarhetsmål 
+uppnåtts i Bolagets årsrapport eller annan finansiell rapport utgiven av Bolaget senast på 
+relevant Rapporteringsdatum.  
+(c) 
+För Hållbarhetslänkat Lån där Tilläggsbelopp är specificerat enligt Slutliga Villkor, ska det 
+i Slutliga Villkor angivna Tilläggsbeloppet erläggas på den tidpunkt för betalning av 
+Tilläggsbeloppet som anges i Slutliga Villkor, om inte (i) Hållbarhetsmålet på 
+Kontrolldatumet uppnåtts och (ii) den Externa Granskaren har fastställt att 
+Hållbarhetsmålet uppnåtts i Bolagets årsrapport eller annan finansiell rapport utgiven av 
+Bolaget senast på Rapporteringsdatumet. 
+6.4 
+Bolaget ska så snart det är praktiskt möjligt meddela Administrerande Institut för det relevanta 
+Lånet samt relevanta Fordringshavare i enlighet med punkt 16 (Meddelanden) om något villkor i 
+punkt 6.3 uppfyllts. 
+6.5 
+Ränta (i förekommande fall) erläggs på aktuell Ränteförfallodag  
+6.6 
+Infaller Ränteförfallodag för Lån med Fast Ränta på dag som inte är Bankdag utbetalas ränta först 
+följande Bankdag. Ränta beräknas och utgår dock endast till och med Ränteförfallodagen.  
+6.7 
+Infaller Ränteförfallodag för Lån med Rörlig Ränta på dag som inte är Bankdag ska som 
+Ränteförfallodag istället anses närmast påföljande Bankdag förutsatt att sådan Bankdag inte 
+infaller i en ny kalendermånad, i vilket fall Ränteförfallodagen ska anses vara föregående Bankdag.  
+7. 
+BYTE AV RÄNTEBAS 
+7.1 
+Om en Triggerhändelse som anges i 7.2 nedan har inträffat ska Bolaget i samråd med Ledarbanken 
+initiera åtgärder för att, så snart det rimligen är möjligt, bestämma Ersättande Räntebas, 
+Spreadjustering samt initiera åtgärder för att bestämma nödvändiga administrativa, tekniska och 
+operativa ändringar av Lånevillkoren för att tillämpa, beräkna och slutligt fastställa den tillämpliga 
+Räntebasen. Det föreligger ingen skyldighet för Ledarbanken att medverka till sådant samråd eller 
+bestämmande enligt ovan. Om Ledarbanken inte medverkar i ett sådant samråd eller 
+bestämmande ska Bolaget, på Bolagets bekostnad, snarast utse en Oberoende Rådgivare för att 
+initiera åtgärder för att, så snart det rimligen är möjligt, bestämma det nämnda. Förutsatt att 
+Ersättande Räntebas, Spreadjustering och övriga ändringar har slutligt fastställts senast innan den 
+relevanta Räntebestämningsdagen ska ändringarna tillämpas från och med nästkommande 
+Ränteperiod, dock alltid med beaktande av eventuella tekniska begränsningar hos Euroclear 
+Sweden och beräkningsmetoder som är tillämpliga i förhållande till sådan Ersättande Räntebas.
+
+--- Page 26 ---
+24 
+ 
+7.2 
+En triggerhändelse är en eller flera av följande händelser ("Triggerhändelse") som innebär: 
+(a) att Räntebasen (för den relevanta Ränteperioden för aktuellt Lån) har upphört att existera 
+eller upphört att tillhandahållas i minst fem (5) på varandra följande Bankdagar till följd 
+av att Räntebasen (för den relevanta Ränteperioden för aktuellt Lån) upphör att beräknas 
+eller administreras; 
+ 
+(b) ett offentligt uttalande eller publikt publicerad information från (i) tillsynsmyndigheten 
+för Administratören av Räntebasen eller (ii) Administratören av Räntebasen med 
+information om att Administratören av Räntebasen inte längre tillhandahåller aktuell 
+Räntebas (för den relevanta Ränteperioden för aktuellt Lån) permanent eller på obestämd 
+tid och att det vid tidpunkten för uttalandet eller publiceringen ingen efterträdande 
+administratör har utsetts eller förväntas utses att fortsätta tillhandahålla Räntebasen; 
+ 
+(c) ett offentligt uttalande eller publikt publicerad information i vardera fall från 
+tillsynsmyndigheten för Administratören av Räntebasen att Räntebasen (för den 
+relevanta Ränteperioden för aktuellt Lån) inte längre är representativ för den 
+underliggande marknaden som Räntebasen är avsedd att representera och Räntebasens 
+representativitet kommer inte att kunna återställas, enligt tillsynsmyndigheten för 
+Administratören av Räntebasen; 
+ 
+(d) ett offentligt uttalande eller publikt publicerad information i vardera fall från 
+tillsynsmyndigheten för Administratören av Räntebasen med konsekvensen att det är 
+olagligt för Bolaget eller det Administrerande Institutet att beräkna betalning till 
+Fordringshavare genom att använda aktuell Räntebas (för den relevanta Ränteperioden 
+för aktuellt Lån) eller att det av annan orsak blivit förbjudet att använda aktuell Räntebas 
+(för den relevanta Ränteperioden för aktuellt Lån); 
+ 
+(e) ett offentligt uttalande eller publikt publicerad information från i vardera fall 
+konkursförvaltaren för Administratören av Räntebasen eller från förvaltaren enligt 
+krishanteringsregelverket, eller vad avser EURIBOR, från motsvarande enhet med 
+insolvens- eller resolutionsbefogenhet över Administratören av Räntebasen, med 
+information enligt (b) ovan; eller 
+ 
+(f) ett Offentliggörande har gjorts varpå den offentliggjorda Triggerhändelsen som anges i 
+(b) till (e) ovan kommer att inträffa inom sex (6) månader. 
+ 
+7.3 
+Om ett Offentliggörande har gjorts får Bolaget (utan att någon skyldighet föreligger), om det är 
+möjligt att vid sådan tidpunkt bestämma Ersättande Räntebas, Spreadjustering och övriga 
+ändringar, i samråd med Ledarbanken eller genom att utse en Oberoende Rådgivare, initiera 
+åtgärder som framkommer av 7.1 ovan för att slutligt fastställa Ersättande Räntebas, 
+Spreadjustering och övriga ändringar, för att övergå till Ersättande Räntebas vid en tidigare 
+tidpunkt. 
+7.4 
+Om en Triggerhändelse som anges i någon av paragraferna (a) till (e) i definitionen av 
+Triggerhändelse har inträffat men ingen Ersättande Räntebas och Spreadjustering har slutligen 
+fastställts senast innan efterföljande Räntebestämningsdag eller om sådan Ersättande Räntebas 
+och Spreadjustering har slutligen fastställts men inte kan tillämpas i samband med efterföljande 
+Räntebestämningsdag på grund av tekniska begränsningar hos Euroclear Sweden, ska räntan för 
+nästkommande Ränteperiod vara: 
+(a) om tidigare Räntebas är tillgänglig så ska den bestämmas enligt villkoren som skulle gälla 
+för Räntebasen som om ingen Triggerhändelse hade inträffat; eller 
+ 
+(b) om tidigare Räntebas inte är tillgänglig eller inte längre kan användas i enlighet med 
+tillämplig lag eller reglering, den ränta som fastställts för senast föregående Ränteperiod. 
+ 
+Denna bestämmelse är tillämplig på ytterligare efterföljande Ränteperioder förutsatt att alla
+
+--- Page 27 ---
+25 
+ 
+relevanta åtgärder har vidtagits avseende tillämpningen av och de justeringar som framkommer av 
+detta avsnitt 7 inför varje sådan efterföljande Räntebestämningsdag, men utan framgång. 
+7.5 
+Innan Ersättande Räntebas, Spreadjustering och övriga ändringar blir effektiva ska Bolaget 
+meddela Fordringshavare, Administrerande Institut samt Euroclear Sweden i enlighet med avsnitt 
+16 (Meddelanden) omedelbart efter att Bolaget i samråd med Ledarbanken eller den Oberoende 
+Rådgivaren slutligt fastställt Ersättande Räntebas, Spreadjustering och nödvändiga ändringar och 
+av informationen ska även framgå när ändringarna blir tillämpliga. Om MTN är upptagna till handel 
+på Reglerad Marknad ska Bolaget även informera börsen om ändringarna. 
+7.6 
+Ledarbanken, Oberoende Rådgivare och Administrerande Institut som utför åtgärder i enlighet 
+med detta avsnitt 7 ansvarar inte för någon skada eller förlust som orsakas av beslut, åtgärder som 
+vidtas eller utelämnas av denne i samband med bestämmande och slutligt fastställande av 
+Ersättande Räntebas, Spreadjustering eller därtill efterföljande ändringar av Lånevillkoren, såvida 
+inte direkt orsakad av dess grova vårdslöshet eller uppsåtliga agerande. Ledarbanken, den 
+Oberoende Rådgivaren och det Administrerande Institutet ansvarar aldrig för indirekt skada eller 
+följdförluster när denne utför åtgärder enligt detta avsnitt. 
+7.7 
+I detta avsnitt 7 har följande definierade termer den betydelse som anges nedan: 
+"Administratör av Räntebas" är Swedish Financial Benchmark Facility AB (SFBF) i förhållande till 
+STIBOR och European Money Markets Institute (EMMI) i förhållande till EURIBOR eller någon aktör 
+som ersätter som administratör av Räntebasen. 
+"Ersättande Räntebas" är:  
+(i) 
+den skärm- eller referensränta, och den metodologi för beräkning av löptid samt 
+beräkningsmetoder med hänsyn till skuldinstrument med liknande räntevillkor som MTN, 
+som formellt rekommenderas av Relevant Nomineringsorgan som efterträdare eller 
+ersättare till Räntebasen; eller 
+(ii) 
+om ingen sådan ränta kunnat utses enligt (i), sådan annan ränta som Bolaget i samråd med 
+Ledarbanken eller den Oberoende Rådgivaren bestämmer är mest jämförbar med 
+Räntebasen. 
+För undvikande av tvivel, om Ersättande Räntebas skulle upphöra att finnas ska denna definition 
+tillämpas mutatis mutandis på sådan ny Ersättande Räntebas.  
+"Oberoende Rådgivare" är ett oberoende finansinstitut eller väl ansedd rådgivare på 
+skuldkapitalmarknaderna där Räntebasen vanligen används. 
+"Offentliggörande" är ett offentligt uttalande eller publikt publicerad information enligt vad som 
+anges i 7.2(b) till 7.2(e) om att händelser eller omständigheter som anges däri kommer att inträffa.  
+"Relevant Nomineringsorgan " är, med förbehåll för tillämplig lagreglering, i första hand relevant 
+tillsynsmyndighet och i andra hand tillämplig centralbank, eller arbetsgrupp eller kommitté på 
+uppdrag av någon av dessa eller, i tredje hand, Finansiella stabilitetsrådet eller någon del därav. 
+"Spreadjustering" är en justeringsmarginal eller en formel eller metod för beräkning av en 
+justeringsmarginal som ska tillämpas på Ersättande Räntebas och som: 
+(i) 
+är formellt rekommenderad av Relevant Nomineringsorgan i förhållande till den ersatta 
+Räntebasen; eller 
+(ii) 
+om (i) inte är tillämplig, Bolaget i samråd med Ledarbanken eller den Oberoende 
+Rådgivaren anser skälig att använda i syfte att i möjligaste mån eliminera eventuella 
+värdeöverföringar mellan parterna till följd av ett ersättande av Räntebasen och som 
+vanligen tillämpas vid liknande transaktioner på skuldkapitalmarknaden
+
+--- Page 28 ---
+26 
+ 
+8. 
+DRÖJSMÅLSRÄNTA 
+8.1 
+Vid betalningsdröjsmål utgår dröjsmålsränta på det förfallna beloppet från förfallodagen till och 
+med den dag då betalning erläggs efter en räntesats som motsvarar genomsnittet av en veckas 
+STIBOR för MTN utgivna i Svenska Kronor respektive EURIBOR för MTN utgivna i Euro under den 
+tid dröjsmålet varar, med tillägg av två procentenheter. STIBOR respektive EURIBOR ska därvid 
+avläsas den första Bankdagen i varje kalendervecka under vilket dröjsmålet varar. Dröjsmålsränta 
+enligt denna punkt 8.1 för Lån som löper med ränta ska dock aldrig utgå efter lägre räntesats än 
+som motsvarar den som gällde för aktuellt Lån på förfallodagen i fråga med tillägg av två 
+procentenheter. Dröjsmålsränta ska inte kapitaliseras.  
+8.2 
+Beror dröjsmålet på hinder för Emissionsinstituten eller Euroclear Sweden utgår dröjsmålsränta 
+efter en räntesats motsvarande (i) för Lån som löper med ränta, den räntesats som gällde för 
+aktuellt Lån på förfallodagen ifråga eller (ii) för Lån som löper utan ränta, genomsnittet av en veckas 
+STIBOR respektive EURIBOR under den tid dröjsmålet varar (varvid STIBOR respektive EURIBOR 
+ska avläsas den första Bankdagen i varje kalendervecka under den tid dröjsmålet varar).  
+9. 
+ÅTERBETALNING OCH ÅTERKÖP 
+9.1 
+Lån förfaller till betalning med dess Lånebelopp, såsom tillämpligt enligt relevanta Slutliga Villkor, 
+på 
+Återbetalningsdagen 
+tillsammans 
+med 
+upplupen 
+ränta 
+(om 
+någon). 
+Infaller 
+Återbetalningsdagen på dag som inte är Bankdag återbetalas Lånet först följande Bankdag. 
+9.2 
+Slutliga Villkor kan innehålla bestämmelse som medför att Bolaget har rätt eller skyldighet att helt 
+eller delvis återbetala Lån tillsammans med upplupen ränta (om någon) före Återbetalningsdagen.  
+9.3 
+Bolaget får efter överenskommelse med Fordringshavare återköpa MTN vid varje tidpunkt under 
+förutsättning att det är förenligt med gällande rätt. MTN som ägs av Bolaget får enligt Bolagets 
+eget val behållas, överlåtas eller lösas in. 
+10. 
+ÅTERKÖP VID ÄGARFÖRÄNDRING 
+10.1 
+Envar Fordringshavare har rätt att begära återköp av alla, eller vissa, MTN som innehas av denne, 
+om en händelse, eller serie av händelser inträffar som leder till att en fysisk eller juridisk person, 
+själv eller tillsammans med sådan närstående som avses i lag (2006:451) om offentliga 
+uppköpserbjudanden på aktiemarknaden, och som inte är eller inkluderar Huvudägarna, direkt eller 
+indirekt, vid någon tidpunkt förvärvar mer än det högre av: 
+(i) 
+30 procent av totala antalet röster i Bolaget; och 
+(ii) 
+den procent motsvarande det totala antalet röster som innehas av en eller flera 
+av Huvudägarna. 
+10.2 
+Det åligger Bolaget att så snart Bolaget fått kännedom om en ägarförändring enligt punkt 10.1 
+meddela Fordringshavarna om detta i enlighet med avsnitt 16 (Meddelanden). Meddelandet ska 
+innehålla instruktioner avseende hur en Fordringshavare som vill få MTN återköpta ska agera samt 
+specificera sista dagen för påkallande av återköp i enlighet med punkt 10.5 och Återköpsdagen. 
+10.3 
+Återköpsdagen ska infalla tidigast 40 och senast 60 Bankdagar efter att meddelande om 
+ägarförändringen avsänts till Fordringshavare i enlighet med punkt 10.2, dock att om 
+Återköpsdagen inte är en Bankdag ska som Återköpsdag anses närmast påföljande Bankdag.  
+10.4 
+Om rätt till återköp föreligger ska Bolaget, om Fordringshavare så begär, återköpa relevanta MTN 
+på Återköpsdagen till det belopp per MTN som skulle återbetalats på den slutliga 
+Återbetalningsdagen, tillsammans med upplupen ränta (om någon). För MTN som är 
+nollkupongslån ska istället ett belopp per MTN beräknat i enlighet med punkt 12.5 erläggas. 
+10.5 
+Meddelande från Fordringshavare avseende påkallande av återköp av MTN ska tillställas Bolaget 
+senast 20 Bankdagar efter meddelandet lämnats i enlighet med punkt 10.2 ovan.
+
+--- Page 29 ---
+27 
+ 
+11. 
+SÄRSKILDA ÅTAGANDEN 
+Så länge någon MTN utestår åtar sig Bolaget följande. 
+11.1 
+Status 
+Bolaget ska tillse att dess betalningsförpliktelser enligt Lån i förmånsrättsligt hänseende jämställs 
+med Bolagets övriga icke efterställda och icke säkerställda betalningsförpliktelser, förutom sådana 
+förpliktelser som enligt gällande rätt har bättre förmånsrätt. 
+11.2 
+Bolagets verksamhet 
+Bolaget ska inte väsentligt förändra karaktären av Koncernens verksamhet på ett sätt som 
+väsentligt negativt påverkar Bolagets förmåga att fullgöra sina förpliktelser gentemot 
+Fordringshavarna. 
+11.3 
+Säkerställande av andra Marknadslån 
+Bolaget ska: 
+(a) 
+inte självt ställa säkerhet eller låta annan ställa säkerhet, vare sig i form av 
+ansvarsförbindelse eller på annat sätt, för annat Marknadslån som upptagits eller kan 
+komma att upptas av Bolaget;  
+(b) 
+inte självt ställa säkerhet i annan form än genom ansvarsförbindelse, vilken i sin tur inte får 
+säkerställas, för annat Marknadslån som upptagits eller kan komma att upptas av annan 
+än Bolaget; samt  
+(c) 
+tillse att Koncernföretag vid eget upptagande av Marknadslån efterlever bestämmelserna 
+enligt punkterna (a) och (b) ovan, varvid på vederbörande Koncernföretag ska tillämpas 
+det som gäller för Bolaget (med beaktande av att Koncernföretaget får motta sådan 
+ansvarsförbindelse som Bolaget äger lämna enligt bestämmelse i punkt (b) ovan). 
+11.4 
+Upptagande till handel på Reglerad Marknad 
+För Lån som enligt Slutliga Villkor ska upptas till handel på Reglerad Marknad åtar sig Bolaget, självt 
+eller genom Administrerande Instituts försorg, att ansöka om detta vid Nasdaq Stockholm eller 
+annan Reglerad Marknad och att vidta de åtgärder som erfordras för att bibehålla upptagandet till 
+handel så länge det relevanta Lånet är utestående, dock längst så länge detta är möjligt enligt 
+tillämpliga regler. 
+11.5 
+Tillhandahållande av Lånevillkor 
+Bolaget åtar sig att hålla den aktuella versionen av dessa Allmänna Villkor samt de Slutliga Villkoren 
+för samtliga utestående Lån som är upptagna till handel på Reglerad Marknad tillgängliga på 
+Bolagets hemsida.  
+12. 
+UPPSÄGNING AV LÅN  
+12.1 
+Administrerande Institut ska (i) om så begärs skriftligen av Fordringshavare som vid tidpunkten för 
+begäran representerar minst en tiondel av Lånebelopp under relevant Lån (sådan begäran kan 
+endast göras av Fordringshavare som är registrerande i det av Euroclear Sweden förda 
+avstämningsregistret den Bankdag som infaller närmast efter den dag då begäran inkom till 
+Administrerade Institut och måste, om den görs av flera Fordringshavare som var för sig 
+representerar mindre än en tiondel av Lånebeloppet under relevant Lån, göras gemensamt) eller 
+(ii) om så beslutas av Fordringshavarna under ett Lån på Fordringshavarmöte, skriftligen förklara 
+relevant Lån tillsammans med ränta (om någon) förfallet till betalning omedelbart eller vid den 
+tidpunkt Administrerande Institut eller Fordringshavarmötet (såsom tillämpligt) beslutar, om:
+
+--- Page 30 ---
+28 
+ 
+(a) 
+Bolaget inte i rätt tid erlägger förfallet kapital- eller räntebelopp avseende något Lån under 
+detta MTN-program, såvida inte dröjsmålet: 
+(i) 
+är en följd av tekniskt eller administrativt fel; och  
+(ii) 
+inte varar längre än fem (5) Bankdagar;  
+(b) 
+Bolaget i något annat avseende än som anges i punkt (a) ovan eller i punkten 
+Hållbarhetslänkat Lån i Slutliga Villkor, inte fullgör sina förpliktelser enligt Lånevillkoren 
+avseende relevant Lån, under förutsättning att: 
+(i) 
+rättelse är möjlig; och 
+(ii) 
+Bolaget skriftligen uppmanats av Administrerande Institut att vidta rättelse och 
+rättelse inte skett inom femton (15) Bankdagar; 
+(c) 
+(i) 
+Väsentligt Koncernföretag inte i rätt tid eller inom tillämplig uppskovsperiod 
+erlägger betalning avseende annat lån och lånet ifråga på grund därav sagts upp, 
+eller kunnat sägas upp, till betalning i förtid eller, om uppsägningsbestämmelse 
+saknas eller den uteblivna betalningen skulle utgöra slutbetalning, om 
+betalningsdröjsmålet varar tio (10) Bankdagar; 
+(ii) 
+annat lån till Väsentligt Koncernföretag förklaras uppsagt till betalning i förtid till 
+följd av en uppsägningsgrund (oavsett karaktär); eller 
+(iii) 
+Väsentligt Koncernföretag inte inom tio (10) Bankdagar efter den dag då 
+Väsentligt Koncernföretag mottagit berättigat krav infriar borgen eller garanti 
+som Väsentligt Koncernföretag ställt för annans förpliktelse, 
+under förutsättning att summan av utestående skuld under de lån eller åtaganden som 
+berörs under punkten (c)(i)-(iii), gemensamt uppgår till minst SEK 100.000.000 (eller 
+motvärdet därav i annan valuta); 
+(d) 
+tillgångar till ett värde uppgående till minst SEK 100.000.000 som ägs av Väsentligt 
+Koncernföretag utmäts eller blir föremål för liknande utländskt förfarande och sådan 
+utmätning eller liknande utländskt förfarande inte undanröjs inom trettioen (31) dagar från 
+dagen för utmätningsbeslutet eller beslutet om sådant liknande utländskt förfarande; 
+(e) 
+Väsentligt Koncernföretag ställer in sina betalningar; 
+(f) 
+Väsentligt Koncernföretag ansöker om eller medger ansökan om företagsrekonstruktion 
+enligt lag (1996:764) om företagsrekonstruktion eller liknande förfarande; 
+(g) 
+Väsentligt Koncernföretag försätts i konkurs; 
+(h) 
+beslut fattas om att Bolaget eller att Väsentligt Koncernföretag ska träda i likvidation 
+såvida inte, beträffande annat Väsentligt Koncernföretag än Bolaget, likvidationen är 
+frivillig och inte föranleds av sådant Väsentligt Koncernföretags obestånd; eller 
+(i) 
+Bolagets styrelse upprättar fusionsplan enligt vilken Bolaget är överlåtande bolag eller där 
+Väsentligt Koncernföretag är överlåtande bolag i förhållande till ett bolag utanför 
+Koncernen om, för det fall ett Väsentligt Koncernföretag är överlåtande bolag, det 
+påverkar Bolagets förmåga att fullgöra sina förpliktelser gentemot Fordringshavarna. 
+Begreppen "lån" och "förpliktelse" i punkten (c) ovan omfattar även kredit i räkning samt belopp 
+som inte erhållits som lån men som ska erläggas på grund av skuldebrev uppenbarligen avsett för 
+allmän omsättning.
+
+--- Page 31 ---
+29 
+ 
+12.2 
+Administrerande Institut får inte förklara relevant Lån tillsammans med ränta (om någon) förfallet 
+till betalning enligt punkt 12.1 genom hänvisning till en uppsägningsgrund om det har beslutats på 
+ett Fordringshavarmöte att sådan uppsägningsgrund (tillfälligt eller permanent) inte ska medföra 
+uppsägning enligt punkt 12.1. 
+12.3 
+Det åligger Bolaget att omedelbart underrätta Emissionsinstituten och Fordringshavarna enlighet 
+med avsnitt 16 (Meddelanden) i fall en uppsägningsgrund som anges i punkt 12.1 skulle inträffa. I 
+brist på sådan underrättelse ska varken Administrerande Institut eller Emissionsinstitut, oavsett 
+faktisk vetskap, anses känna till en uppsägningsgrund. Varken Administrerande Institut eller 
+Emissionsinstituten är själva skyldiga att bevaka om förutsättningar för uppsägning enligt punkt 
+12.1 föreligger. 
+12.4 
+Bolagets skyldigheter att lämna information enligt föregående punkt 12.3 och denna punkt gäller i 
+den mån som kan ske utan att Bolaget överträder regler utfärdade av eller intagna i kontakt med 
+reglerad marknad eller annan marknadsplats där Bolagets aktier eller skuldförbindelser är noterade 
+eller annars strider mot tillämplig lag eller myndighetsföreskrift.  
+12.5 
+Vid återbetalning av Lån efter uppsägning enligt punkt 12.1 ska: 
+(a) 
+Lån som löper med ränta återbetalas till ett belopp per MTN tillsammans med upplupen 
+ränta fram till uppsägningsdagen för Lånet som skulle återbetalats på den slutliga 
+Återbetalningsdagen; och 
+(b) 
+Lån som löper utan ränta återbetalas till ett belopp per MTN som bestäms enligt följande 
+formel per dagen för uppsägningen av Lånet: 
+Valör
+(1 + r)t  
+r =  
+den säljränta som Administrerande Institut anger för lån, utgivet av svenska staten, med 
+en återstående löptid som motsvarar den som gäller för aktuellt Lån. Vid avsaknad av 
+säljränta ska istället köpränta användas, vilken ska reduceras med marknadsmässig 
+skillnad mellan köp- och säljränta, uttryckt i procentenheter. Vid beräkningen ska 
+stängningsnoteringen användas.  
+t =  
+återstående löptid för aktuellt Lån, beräknat enligt Dagberäkningsmetoden Faktisk/360 
+för MTN utgivna i Svenska Kronor eller Euro.  
+13. 
+FORDRINGSHAVARMÖTE 
+13.1 
+Administrerande Institut får och ska på begäran från annat Utgivande Institut, Bolaget eller 
+Fordringshavare som vid tidpunkten för begäran representerar minst en tiondel av Justerat 
+Lånebelopp under ett visst Lån sammankalla ett Fordringshavarmöte för Fordringshavarna under 
+relevant Lån. Sådan begäran kan endast göras av Fordringshavare som är registrerade i det av 
+Euroclear Sweden förda avstämningsregistret för MTN den Bankdag som infaller närmast efter den 
+dag då begäran inkom till Administrerade Institut och måste, om den görs av flera Fordringshavare 
+som var för sig representerar mindre än en tiondel av Justerat Lånebelopp, göras gemensamt. 
+13.2 
+Administrerande Institut ska sammankalla ett Fordringshavarmöte genom att sända meddelande 
+om detta till varje Fordringshavare och Bolaget inom fem (5) Bankdagar från att det har mottagit 
+en begäran från annat Utgivande Institut, Bolaget eller Fordringshavare enligt punkt 13.1 (eller 
+sådan senare dag som krävs av tekniska eller administrativa skäl). Administrerande Institut ska utan 
+dröjsmål skriftligen för kännedom underrätta Utgivande Institut om nyss nämnt meddelande.  
+13.3 
+Administrerande Institut får avstå från att sammankalla ett Fordringshavarmöte om (i) det 
+föreslagna beslutet måste godkännas av någon person i tillägg till Fordringshavarna och denne har 
+meddelat Administrerande Institut att sådant godkännande inte kommer att lämnas, eller (ii) det 
+föreslagna beslutet inte är förenligt med gällande rätt.
+
+--- Page 32 ---
+30 
+ 
+13.4 
+Kallelsen enligt punkt 13.2 ska innehålla (i) tid för mötet, (ii) plats för mötet, (iii) dagordning för 
+mötet (inkluderande varje begäran om beslut från Fordringshavarna), samt (iv) fullmaktsformulär. 
+Endast ärenden som har inkluderats i kallelsen får beslutas om på Fordringshavarmötet. Ärenden 
+upptagna på dagordningen ska vara numrerade. Det huvudsakliga innehållet i varje ärende ska 
+anges. Om det krävs att Fordringshavare meddelar sin avsikt att närvara på Fordringshavarmötet 
+ska sådant krav anges i kallelsen. 
+13.5 
+Fordringshavarmötet ska inte hållas tidigare än femton (15) Bankdagar och inte senare än trettio 
+(30) Bankdagar från kallelsen. Fordringshavarmöte för flera lån under MTN-programmet kan hållas 
+vid samma tillfälle. 
+13.6 
+Utan att avvika från bestämmelserna i dessa Allmänna Villkor får Administrerande Institut 
+föreskriva sådana ytterligare bestämmelser kring kallelse till och genomförande av 
+Fordringshavarmötet som detta finner lämpligt. Sådana bestämmelser kan bland annat innefatta 
+möjlighet för Fordringshavare att rösta utan att personligen närvara vid mötet, att röstning kan ske 
+genom elektroniskt röstningsförfarande eller genom skriftligt röstningsförfarande. 
+13.7 
+Endast personer som är, eller har blivit befullmäktigad i enlighet med avsnitt 4 (Rätt att agera för 
+Fordringshavare) 
+av 
+någon 
+som 
+är, 
+Fordringshavare 
+på 
+Avstämningsdagen 
+för 
+Fordringshavarmötet får utöva rösträtt på sådant Fordringshavarmöte, förutsatt att relevanta MTN 
+omfattas av Justerat Lånebelopp. Administrerande Institut äger rätt att närvara och ska tillse att 
+det vid Fordringshavarmötet finns en utskrift av det av Euroclear Sweden förda 
+avstämningsregistret från Avstämningsdagen för Fordringshavarmötet. 
+13.8 
+Vid Fordringshavarmöte äger Fordringshavare och Administrerande Institut, samt deras respektive 
+ombud och biträden, rätt att närvara samt styrelseledamöter, verkställande direktör och andra 
+befattningshavare inom Bolaget samt Bolagets revisorer och juridiska rådgivare rätt att närvara. På 
+Fordringshavarmötet kan beslutas att ytterligare personer får närvara. Ombud ska förete 
+behörigen utfärdad fullmakt som ska godkännas av Fordringshavarmötets ordförande. 
+Fordringshavarmöte ska inledas med att ordförande, protokollförare och justeringsmän utses. 
+Ordföranden ska upprätta en förteckning över närvarande röstberättigade Fordringshavare med 
+uppgift om den andel av Justerat Lånebelopp varje Fordringshavare företräder ("Röstlängd"). 
+Därefter ska Röstlängden godkännas av Fordringshavarmötet. Fordringshavare som avgivit sin röst 
+via elektroniskt röstningsförfarande, röstsedel eller motsvarande, ska vid tillämpning av dessa 
+bestämmelser anses såsom närvarande vid Fordringshavarmötet. Endast de som på femte 
+Bankdagen före dagen för Fordringshavarmöte var Fordringshavare, respektive ombud för sådan 
+Fordringshavare och som omfattas av Justerat Lånebelopp, är röstberättigade och ska tas upp i 
+Röstlängden. Bolaget ska få tillgång till relevanta röstberäkningar och underlaget för dessa. 
+Protokollet ska snarast färdigställas och hållas tillgängligt för Fordringshavare, Bolaget och 
+Administrerande Institut. 
+13.9 
+Beslut i följande ärenden kräver samtycke av Fordringshavare representerande minst 80 procent av 
+den del av Justerat Lånebelopp för vilket Fordringshavare röstar under det relevanta Lånet vid 
+Fordringshavarmötet: 
+(a) 
+ändring av Återbetalningsdagen, nedsättning av Lånebelopp eller Valör, ändring av villkor 
+relaterande till ränta eller belopp som ska återbetalas (annat än enligt vad som följer av 
+Lånevillkoren, inkluderat vad som följer av tillämpningen av avsnitt 7 (Byte av Räntebas)) 
+och ändring av föreskriven Valuta för Lånet; 
+(b) 
+ändring av villkoren för Fordringshavarmöte enligt detta avsnitt 13 (Fordringshavarmöte);  
+(c) 
+gäldenärsbyte; eller 
+(d) 
+obligatoriskt utbyte av MTN mot andra värdepapper.
+
+--- Page 33 ---
+31 
+ 
+13.10 
+Ärenden som inte omfattas av punkt 13.9 kräver samtycke av Fordringshavare representerande 
+mer än 50 procent av den del av Justerat Lånebelopp för vilket Fordringshavare röstar under det 
+relevanta Lånet vid Fordringshavarmötet. Detta inkluderar, men är inte begränsat till, ändringar 
+och avståenden av rättigheter i förhållande till Lånevillkoren som inte fordrar en högre majoritet 
+(annat än ändringar enligt avsnitt 14 (Ändringar av villkor, m.m.)) samt förtida uppsägning av Lån. 
+13.11 
+Ett Fordringshavarmöte är beslutsfört om Fordringshavare representerande minst 50 procent av 
+det Justerade Lånebeloppet under det relevanta Lånet avseende ett ärende i punkt 13.9 och, 
+avseende övriga ärenden, 20 procent av det Justerade Lånebeloppet under det relevanta Lånet 
+närvarar vid mötet personligen eller via telefon (eller närvarar genom en befullmäktigad 
+representant enligt bestämmelser i punkt 13.6). 
+13.12 
+Om Fordringshavarmötet nått beslutsförhet för vissa men inte alla ärenden som ska beslutas vid 
+Fordringsmötet ska beslut fattas i de ärenden för vilka beslutsförhet föreligger och övriga ärenden 
+ska hänskjutas till nytt Fordringshavarmöte. Om Fordringshavarmöte inte är beslutsfört ska 
+Administrerande Institut kalla till nytt Fordringshavarmöte (i enlighet med punkt 13.2) förutsatt att 
+det relevanta förslaget inte har dragits tillbaka av den eller de som initierade Fordringshavarmötet. 
+Kravet på beslutsförhet i punkt 13.11 ska inte gälla för sådant nytt Fordringshavarmöte.  
+13.13 
+Ett beslut vid Fordringshavarmöte som utsträcker förpliktelser eller begränsar rättigheter som 
+tillkommer Bolaget eller Utgivande Institut under Lånevillkoren kräver även godkännande av 
+vederbörande part. 
+13.14 
+En Fordringshavare som innehar mer än en MTN behöver inte rösta för samtliga, eller rösta på 
+samma sätt för samtliga, MTN som innehas av denne. 
+13.15 
+Bolaget får inte, direkt eller indirekt, betala eller medverka till att det erläggs ersättning till någon 
+Fordringshavare för att denne ska lämna samtycke enligt Lånevillkoren om inte sådan ersättning 
+erbjuds alla Fordringshavare som lämnar samtycke vid relevant Fordringshavarmöte. 
+13.16 
+Ett beslut som fattats vid ett Fordringshavarmöte är bindande för samtliga Fordringshavare under 
+det relevanta Lånet oavsett om de närvarat vid Fordringshavarmötet. Fordringshavare, oavsett om 
+denne har varit närvarande vid och oberoende av om och hur denne har röstat på mötet ska inte 
+vara ansvarig för skada som beslutet vållar andra Fordringshavare.  
+13.17 
+På Administrerande Instituts begäran ska Bolaget utan dröjsmål tillhandahålla det 
+Administrerande Institutet ett intyg som anger sammanlagt belopp för samtliga MTN som ägs av 
+Koncernföretag på sådan Bankdag som anges i punkt 13.1 samt relevant Avstämningsdag före ett 
+Fordringshavarmöte, oavsett om Koncernföretag är direktregistrerat som ägare av MTN. 
+Administrerande Institut ska inte vara ansvarigt för innehållet i sådant intyg eller annars vara 
+ansvarigt för att fastställa om en MTN ägs av Koncernföretag. 
+13.18 
+Ett beslut på Fordringshavarmöte av en villkorsändring kan omfatta sakinnehållet av ändringen och 
+behöver inte innehålla en specifik utformning av ändringen. 
+13.19 
+Ett beslut om en villkorsändring ska innehålla ett beslut om när ändringen träder i kraft. En ändring 
+träder dock inte i kraft förrän den registrerats hos Euroclear Sweden (i förekommande fall) och 
+publicerats i enlighet med avsnitt 16 (Meddelanden). 
+13.20 
+Information om beslut taget vid Fordringshavarmöte ska utan dröjsmål meddelas 
+Fordringshavarna under relevant Lån genom pressmeddelande, på Bolagets hemsida och i enlighet 
+med avsnitt 16 (Meddelanden). Administrerande Institut ska på Fordringshavares och Utgivande 
+Instituts begäran tillhandahålla protokoll från relevant Fordringshavarmöte. Underlåtenhet att 
+meddela Fordringshavarna enligt ovan ska inte påverka beslutets giltighet.
+
+--- Page 34 ---
+32 
+ 
+14. 
+ÄNDRING AV VILLKOR M.M.  
+14.1 
+Bolaget och Emissionsinstituten får överenskomma om justeringar av klara och uppenbara fel i 
+dessa Allmänna Villkor. 
+14.2 
+Bolaget och Administrerande Institut får överenskomma om justering av klara och uppenbara fel i 
+Slutliga Villkor för visst Lån. 
+14.3 
+Bolaget och Ledarbanken eller den Oberoende Rådgivaren får, utan Fordringshavares medgivande, 
+överenskomma om justeringar i Lånevillkoren och genomföra sådana ändringar i Lånevillkoren i 
+enlighet med vad som framkommer av avsnitt 7 (Byte av Räntebas), vilka blir bindande för de som 
+omfattas av Lånevillkoren. 
+14.4 
+Ändring eller eftergift av Lånevillkor i andra fall än enligt punkterna 14.1 till 14.3 ska ske genom 
+beslut på Fordringshavarmöte enligt avsnitt 13 (Fordringshavarmöte).  
+14.5 
+Anlitande av Emissionsinstitut ska ske genom överenskommelse mellan Bolaget, aktuellt institut 
+och Emissionsinstituten. Emissionsinstitut kan frånträda som sådant, dock att Administrerande 
+Institut med avseende på visst Lån inte får avträda med mindre än att ett nytt Administrerade 
+Institut utses i dess ställe. 
+14.6 
+Ändring eller eftergift av Lånevillkor i enlighet med detta avsnitt 14 (Ändring av villkor m.m.) ska av 
+Bolaget snarast meddelas till Fordringshavarna i enlighet med avsnitt 16 (Meddelanden) och 
+publiceras i enlighet med punkt 11.5.  
+15. 
+PRESKRIPTION   
+15.1 
+Fordran på kapitalbelopp preskriberas tio år efter Återbetalningsdagen. Fordran på ränta 
+preskriberas tre år efter respektive Ränteförfallodag. Om fordran preskriberas tillkommer de medel 
+som avsatts för betalning av sådan fordran Bolaget.  
+15.2 
+Om preskriptionsavbrott sker löper ny preskriptionstid om tio år i fråga om kapitalbelopp och tre år 
+beträffande räntebelopp, i båda fallen räknat från dag som framgår av bestämmelser om verkan av 
+preskriptionsavbrott i preskriptionslagen (1981:130). 
+16. 
+MEDDELANDEN 
+16.1 
+Meddelanden ska tillställas Fordringshavare för aktuellt Lån på den adress som är registrerad hos 
+Euroclear Sweden på Avstämningsdagen före avsändandet. Ett meddelande till Fordringshavarna 
+ska också offentliggöras genom pressmeddelande och publiceras på Bolagets hemsida.  
+16.2 
+Meddelande ska tillställas Bolaget och Emissionsinstitut på den adress som är registrerad hos 
+Bolagsverket på Avstämningsdagen före avsändandet.  
+16.3 
+Ett meddelande till Bolaget eller Fordringshavare enligt Lånevillkoren som sänds med normal post 
+till angiven adress ska anses ha kommit mottagaren tillhanda tredje Bankdagen efter avsändande 
+och meddelande som sänds med bud ska anses ha kommit mottagaren tillhanda när det avlämnats 
+på angiven adress.  
+16.4 
+För det fall ett meddelande inte sänts på korrekt sätt till viss Fordringshavare ska detta inte påverka 
+verkan av meddelande till övriga Fordringshavare.  
+17. 
+BEGRÄNSNING AV ANSVAR M.M. 
+17.1 
+I fråga om de på Emissionsinstituten ankommande åtgärderna gäller att ansvarighet inte kan göras 
+gällande för skada som beror av svenskt eller utländskt lagbud, svensk eller utländsk 
+myndighetsåtgärd, krigshändelse, strejk, blockad, bojkott, lockout eller annan liknande 
+omständighet. Förbehållet i fråga om strejk, blockad, bojkott och lockout gäller även om 
+vederbörande Emissionsinstitut själv är föremål för eller vidtar sådan konfliktåtgärd.
+
+--- Page 35 ---
+33 
+ 
+17.2 
+Skada som uppkommer i andra fall ska inte ersättas av Emissionsinstitut om vederbörande 
+Emissionsinstitut varit normalt aktsamt. Inte i något fall utgår ersättning för indirekt skada.  
+17.3 
+Föreligger hinder för Emissionsinstitut på grund av sådan omständighet som angivits i punkt 17.1 
+att vidta åtgärd, får åtgärden uppskjutas tills hindret har upphört.  
+17.4 
+Vad ovan sagts gäller i den mån inte annat följer av lag (1998:1479) om värdepapperscentraler och 
+kontoföring av finansiella instrument. 
+18. 
+TILLÄMPLIG LAG OCH JURISDIKTION  
+18.1 
+Svensk rätt ska tillämpas på Lånevillkoren och samtliga icke kontraktuella förpliktelser som 
+uppkommer i samband med tillämpning av Lånevillkoren.  
+18.2 
+Tvist ska avgöras av svensk domstol. Stockholms tingsrätt ska vara första instans. 
+ 
+Härmed bekräftas att ovanstående Allmänna Villkor är för oss bindande 
+Stockholm den 27 oktober 2022 
+Kinnevik AB (publ)
+
+--- Page 36 ---
+34 
+ 
+MALL FÖR SLUTLIGA VILLKOR_____________________________________________________  
+ 
+SLUTLIGA VILLKOR 
+för emission av [beskrivning av obligationerna] under Kinnevik AB (publ) 
+("Bolaget") 
+svenska MTN-program 
+ 
+För Lånet ska gälla Allmänna Villkor av den [27 oktober 2022]/[2 november 2021] för ovan nämnda MTN-
+program, jämte nedan angivna Slutliga Villkor. De Allmänna Villkoren återges i Bolagets grundprospekt daterat 
+den 27 oktober 2023 ("Grundprospektet") jämte från tid till annan publicerade tilläggsprospekt som upprättats 
+för MTN-programmet i enlighet med förordning (EU) 2017/1129 ("Prospektförordningen"). Definitioner som 
+används nedan framgår antingen av Allmänna Villkor, dessa Slutliga Villkor eller på annat sätt i 
+Grundprospektet. Dessa Slutliga Villkor har utarbetats i enlighet med Prospektförordningen.  
+ 
+Fullständig information om Bolaget och erbjudandet kan endast fås genom Grundprospektet, dess 
+tilläggsprospekt och dessa Slutliga Villkor i kombination, varför investerare som överväger att investera i MTN 
+bör läsa dessa Slutliga Villkor tillsammans med Grundprospektet och dess tilläggsprospekt. Grundprospektet, 
+tilläggsprospekt samt de Slutliga Villkoren finns att tillgå på www.kinnevik.com.  
+ 
+[Dessa Slutliga Villkor ersätter Slutliga Villkor daterade den [datum], varvid Lånebeloppet höjts med [SEK/EUR] 
+[belopp i siffror] från [SEK/EUR] [belopp i siffror] till [SEK/EUR] [belopp i siffror].] 
+ 
+ALLMÄNT 
+1.  
+Lånenummer: 
+[●] 
+ 
+(i)  
+Tranchbenämning 
+[●] 
+2. 
+Lånebelopp: 
+ 
+ 
+(i)  
+för Lånet: 
+[SEK/EUR] [●] 
+ 
+(ii)  
+för denna tranch: 
+[SEK/EUR] [●] 
+ 
+[(iii)  följande tranch(er):] 
+[SEK/EUR] [●] 
+3. 
+Pris: 
+[●] % av Lånebelopp [plus upplupen ränta från och med 
+[infoga datum], om tillämpligt] 
+4. 
+Valuta: 
+[SEK/EUR] 
+5. 
+Valör: 
+[SEK/EUR] [●] 
+ 
+[(i)  
+Lägsta teckningsbelopp vid 
+teckningstillfället:] 
+[●] 
+ 
+[(ii)  Teckningsperiod:] 
+[●] 
+6. 
+Startdag För Ränteberäkning: 
+[●]  
+7. 
+Likviddag: 
+[●]  
+8. 
+Återbetalningsdag: 
+[●] 
+9. 
+Räntekonstruktion: 
+[Fast Ränta] 
+[Rörlig Ränta (FRN)] 
+[Nollkupongslån] 
+10. 
+Belopp på vilket ränta ska beräknas: 
+[Valör/[●]] 
+BERÄKNINGSGRUNDER FÖR AVKASTNING 
+11. 
+Fast Ränta: 
+[Tillämpligt/Ej tillämpligt] 
+(Om ej tillämpligt, radera resterande underrubriker av 
+denna paragraf)
+
+--- Page 37 ---
+35 
+ 
+ 
+(i)  Räntesats: 
+[●] % årlig ränta beräknat på [Valör/[●]] 
+ 
+(ii)  Ränteperiod: 
+Tiden från den [●] till och med den [●] (den första 
+Ränteperioden) och därefter varje tidsperiod om ca [●] 
+månader med slutdag på en Ränteförfallodag 
+ 
+(iii) Ränteförfallodag(ar): 
+[Årligen/Halvårsvis/Kvartalsvis] den [●], första gången 
+den [●] och sista gången den [●] 
+(Ovan förändras i händelse av förkortad eller förlängd 
+Ränteperiod) 
+ 
+(iv) Dagberäkningsmetod: 
+ 
+30/360 
+ 
+ 
+(v)   Riskfaktorer: 
+I enlighet med riskfaktorn med rubrik "Risker relaterade 
+till marknadsförändringar" i Grundprospektet. 
+12. 
+Rörlig Ränta (FRN): 
+[Tillämpligt/Ej tillämpligt] 
+(Om ej tillämpligt, radera resterande underrubriker av 
+denna paragraf) 
+ 
+(i) 
+ Räntebas: 
+[●]-månader [STIBOR/EURIBOR] 
+[Den [första/sista] kupongens Räntebas ska interpoleras 
+linjärt mellan [●]-månader [STIBOR/EURIBOR] och [●]-
+månader [STIBOR/EURIBOR].]  
+ 
+(ii)  Räntebasmarginal: 
+[+/-][●] % årlig ränta beräknat på [Valör/[●]] 
+ 
+(iii) Räntebestämningsdag: 
+[Två] Bankdagar före varje Ränteperiod, första gången 
+den [●] 
+ 
+(iv)  Ränteperiod 
+Tiden från den [●] till och med den [●] (den första 
+Ränteperioden) och därefter varje tidsperiod om ca [●] 
+månader med slutdag på en Ränteförfallodag 
+ 
+(v)  Ränteförfallodagar: 
+Sista dagen i varje Ränteperiod, [den [●], den [●], den [●] 
+och den [●],] första gången den [●] och sista gången den 
+[●] 
+ 
+(vi) Dagberäkningsmetod: 
+Faktisk/360 
+ 
+(vii)  Riskfaktorer: 
+I enlighet med riskfaktorn med rubrik "Risker relaterade 
+till marknadsförändringar" i Grundprospektet.  
+13. 
+Nollkupongslån: 
+[Tillämpligt][Ej tillämpligt] 
+(Om ej tillämpligt, radera resterande underrubriker av 
+denna paragraf) 
+ 
+(i) 
+Villkor för Nollkupongslån: 
+[●]  
+ 
+(ii) 
+Riskfaktorer: 
+I enlighet med riskfaktorn med rubrik "Risker relaterade 
+till marknadsförändringar" i Grundprospektet. 
+ 
+ÅTERBETALNING 
+14. 
+Belopp till vilket MTN ska återbetalas 
+vid den slutliga Återbetalningsdagen: 
+100 % av [Valör/[●]] 
+15. 
+MTN med frivillig förtida 
+återbetalningsmöjligheter för Bolaget 
+före Återbetalningsdagen: 
+[Tillämpligt/Ej tillämpligt] 
+(Om ej tillämpligt, radera resterande underrubriker av denna 
+paragraf) 
+ 
+(i) 
+Tidpunkter för återbetalning: 
+[●]
+
+--- Page 38 ---
+36 
+ 
+ 
+(ii) Pris per MTN vid återbetalning: 
+[●] % av [Valör/[●]] 
+ 
+(iii) Minsta nominella belopp som får 
+återbetalas per MTN: 
+[●] 
+ 
+(iv) Högsta nominella belopp som får 
+återbetalas per MTN: 
+[●] 
+ 
+(v) Frister: 
+[●] 
+16. 
+MTN med frivillig förtida 
+återbetalningsmöjligheter för 
+Fordringshavare före 
+Återbetalningsdagen (i andra fall än 
+enligt Allmänna Villkor avsnitt 10 
+(Återköp vid ägarförändring)): 
+[Tillämpligt/Ej tillämpligt] 
+(Om ej tillämpligt, radera resterande underrubriker av denna 
+paragraf) 
+ 
+(i) 
+Tidpunkter för återbetalning: 
+[●] 
+ 
+(ii) Pris per MTN vid återbetalning: 
+[●] 
+ 
+(iii) Frister: 
+[●] 
+ÖVRIGT 
+17. 
+Hållbarhetslänkat Lån: 
+[Tillämpligt/Ej tillämpligt] 
+(Om ej tillämpligt, radera resterande underrubriker av denna 
+paragraf) 
+Sustainability Linked Financing Framework daterat [●] 
+gäller för detta Lån. 
+Brott mot denna punkt 17 (Hållbarhetslänkat Lån) ska inte 
+utgöra uppsägningsgrund enligt punkt 12 (Uppsägning av 
+Lån) i Allmänna Villkor. 
+ 
+(i) 
+[Räntehöjning:] 
+[●] % årlig ränta (i tillägg till [Räntesats (om Fast 
+Ränta)]/[Räntebasmarginal (om Rörlig Ränta)] 
+ 
+(ii) [Räntesänkning:] 
+[●] % årlig ränta (i avdrag till [Räntesats (om Fast 
+Ränta)]/[Räntebasmarginal (om Rörlig Ränta)] 
+ 
+(iii) Tilläggsbelopp: 
+[[●] % av [Valör]/[[SEK/EUR] [●] per [Valör]] 
+ 
+(iv) Tidpunkt för betalning av 
+Tilläggsbelopp: 
+[[Återbetalningsdagen/[●]] 
+ 
+(v) Hållbarhetsmål: 
+[●][, i enlighet med vad som framgår av Sustainability 
+Linked Financing Framework daterat [●].] 
+(Hållbarhetsmål är vad som benämns ["Sustainability 
+Performance Target" eller "SPT"] i Sustainability Linked 
+Financing Framework.) 
+ 
+(vi) Hållbarhetsindikator/-er: 
+[●][, i enlighet med vad som framgår av Sustainability 
+Linked Financing Framework daterat [●].] 
+(Hållbarhetsindikatorer är vad som benämns [Key 
+Performance Indicator (KPI)] i Sustainability Linked 
+Financing Framework.) 
+ 
+(vii) Beräkningsmetod: 
+[●][, i enlighet med vad som framgår av Sustainability 
+Linked Financing Framework daterat [●].] 
+(Beräkningsmetod är den metod som finns beskriven i [KPI 
+calculation] i Sustainability Linked Financing Framework.)
+
+--- Page 39 ---
+37 
+ 
+ 
+(viii) Kontrolldatum: 
+[31 december i varje år] [●] 
+(Kontrolldatum är [det/de] datum som benämns [SPT 
+observation date] i Sustainability Linked Financing 
+Framework och är [det/de] datum SPT ska vara uppnått 
+enligt Sustainability Linked Financing Framework.) 
+ 
+(ix) Rapporteringsdatum: 
+[Det/De] datum som inträffar [180] dagar efter 
+Kontrolldatum/Specificera annat/andra datum.] 
+ (x) 
+Riskfaktorer: 
+I enlighet med riskfaktorn med rubrik "Hållbarhetslänkade 
+lån" i Grundprospektet. 
+18. 
+Uppskattat tillfört nettobelopp 
+[SEK]/[EUR] [•] minus transaktionskostnader och avgifter 
+19. 
+Emissionslikvidens användning 
+[Emissionslikviden utgör del i Bolagets löpande 
+skuldfinansiering]/[Specificera annan användning] 
+20. 
+Upptagande till handel på Reglerad 
+Marknad: 
+[Tillämpligt/Ej tillämpligt] 
+ 
+(i) 
+Reglerad Marknad: 
+[Nasdaq Stockholm/[●]/Ej tillämpligt] 
+ 
+(ii) Uppskattning av sammanlagda 
+kostnader i samband med 
+upptagandet till handel: 
+[●] 
+ 
+(iii) Totalt antal värdepapper som tas 
+upp till handel: 
+[●] 
+ 
+(iv) Tidigaste dagen för upptagande 
+till handel: 
+[Specificera/Ej tillämpligt] 
+21. 
+Kreditbetyg för Lån 
+[Specificera/Ej tillämpligt] 
+22. 
+Utgivande Institut: 
+[Svenska Handelsbanken AB (publ) / Swedbank AB (publ) 
+/ Nordea Bank Abp / Skandinaviska Enskilda Banken AB 
+(publ) / DNB Bank ASA, filial Sverige / Danske Bank A/S, 
+Danmark, Sverige Filial / annat emissionsinstitut som 
+anslutit sig till MTN-programmet] 
+23. 
+Administrerande Institut: 
+[Svenska Handelsbanken AB (publ) / Swedbank AB (publ) 
+/ Nordea Bank Abp / Skandinaviska Enskilda Banken AB 
+(publ) / DNB Bank ASA, filial Sverige / Danske Bank A/S, 
+Danmark, Sverige Filial / annat emissionsinstitut som 
+anslutit sig till MTN-programmet] 
+24. 
+ISIN: 
+SE[●] 
+ 
+Bolaget bekräftar att ovanstående Slutliga Villkor är gällande för Lånet tillsammans med Allmänna Villkor och 
+förbinder sig att i enlighet därmed erlägga kapitalbelopp och (i förekommande fall) ränta. Bolaget bekräftar 
+vidare att alla väsentliga händelser efter den dag för detta MTN-program gällande Grundprospekt som skulle 
+kunna påverka marknadens uppfattning om Bolaget har offentliggjorts.  
+ 
+Stockholm den [●] 
+KINNEVIK AB (publ)
+
+--- Page 40 ---
+38 
+ 
+ 
+INFORMATION OM KINNEVIK____________________________________________________ 
+Allmän information om Kinnevik och Koncernen 
+Kinnevik är ett publikt aktiebolag, vars associationsform regleras av den svenska aktiebolagslagen (2005:551). 
+Kinneviks företagsnamn är Kinnevik AB (publ) (tillika kommersiella beteckning), med organisationsnummer 
+556047–9742. Kinnevik bildades den 16 maj 1936 och registrerades hos Bolagsverket den 3 augusti 1936. 
+Styrelsen för Kinnevik har sitt säte i Stockholm, Sverige, och har postadress Box 2094, 103 13 Stockholm, 
+Sverige. Bolagets LEI-nummer är 2138006PZH76JOS6MN27. Kinnevik AB (publ) är moderbolag i Koncernen. 
+Den 30 september 2023 bestod Koncernen av 10 direkt och 0 indirekt ägda dotterbolag, som bland annat 
+tillhandahåller tjänster med koppling till Kinneviks investeringsverksamhet. Dotterbolagen har säte i bland 
+annat Sverige, Luxemburg och Storbritannien. Kinnevik anser sig inte vara beroende av något av sina 
+dotterbolag.  
+ 
+Bolagets hemsida är www.kinnevik.com. Informationen på Bolagets och övriga tredje parters hemsidor ingår 
+inte i Grundprospektet såvida denna information inte införlivats i Grundprospektet genom hänvisning (se 
+avsnittet "Handlingar införlivade genom hänvisning" nedan). Informationen på dessa hemsidor har inte 
+granskats eller godkänts av Finansinspektionen. 
+ 
+Kinneviks A- och B-aktier handlas på Nasdaq Stockholms lista för stora bolag (Large Cap) under kortnamnen 
+KINV A och KINV B. 
+ 
+Kinneviks verksamhet  
+Kinneviks ambition är att vara Europas ledande börsnoterade tillväxtinvesterare. Kinnevik stöttar digitala bolag 
+med framtida potential och för att leverera en stark avkastning och har en expanderande portfölj inom 
+healthcare, software, marketplaces och climate tech. Som en långsiktig investerare är Kinnevik övertygade om 
+att investeringar i hållbara affärsmodeller och team med mångfald kommer att ge störst avkastning för 
+aktieägarna. Kinnevik äger idag portföljbolag verksamma inom kategorierna Value-Based Care, Virtual Care, 
+Platforms & Marketplaces, Software, Consumer Finance, Early Bets & New Themes, Övriga Portföljen och 
+Emerging Markets, i Europa, inklusive Kinneviks hemmamarknad Norden, samt i USA.8 Av Kinneviks totala 
+tillgångar (exklusive kassa) den 30 september 2023 var cirka 71 procent hänförligt till onoterade portföljbolag 
+och cirka 29 procent hänförligt till noterade portföljbolag. 
+ 
+Historisk bakgrund  
+Kinnevik grundades 1936 av familjerna Stenbeck, Klingspor och von Horn och har under mer än åttio år verkat 
+under samma grupp av huvudägare. Sedan grundandet har Kinnevik investerat i olika branscher. De första stora 
+investeringarna som Kinnevik gjorde var inom järn-, pappers- och träindustrin.  
+ 
+Under tidigt 1980-tal började Kinnevik investera i telekom, media och ny teknik. I mitten av 2000-talet 
+fokuserade Kinnevik på nya investeringar inom online, jordbruk, mikrofinansiering och förnyelsebar energi. 
+Under denna period lades grunden för ett antal onlinebolag, framför allt inom e-handel. Kinneviks fokus på den 
+globala digitala konsumentmarknaden och e-handel och marknadsplatser betonades ytterligare genom 
+Kinneviks stora investeringar i bland annat Zalando, Avito, Rocket Internet och Global Fashion Group. 2015 och 
+2017 sålde Kinnevik av investeringarna i Avito och Rocket Internet, och under 2021 skiftade Kinnevik ut 
+innehavet i Zalando. Under perioden 2018-2021 fokuserade Kinnevik bland annat på nya investeringar inom 
+digitala hälsovårdstjänster och dagligvaruhandel på nätet. 
+ 
+Under 2022 avyttrade Kinnevik cirka en fjärdedel av sitt innehav i Tele2, i enlighet med strategin att bygga 
+vidare Kinneviks portfölj av yngre, digitala och nyskapande tillväxtbolag. Genom investeringar i Solugen, H2 
+Green Steel, Charm Industrial och Agreena, har Kinnevik allokerat betydande kapital inom climate tech. Härtill 
+investerade Kinnevik i Recursion, ett bioteknikföretag som kartlägger och navigerar biologi och kemi med målet 
+att förse patienter med läkemedel snabbare och till en lägre kostnad. Under sista kvartalet 2022 slutfördes även 
+ 
+8 Kategorierna benämns på svenska Värdebaserad Vård, Virtuell Vård, Plattformar och Marknadsplatser, Mjukvara, 
+Konsumentfinansiering, Tidiga Satsningar och Nya Teman, Övriga Portföljen och Tillväxtmarknader.
+
+--- Page 41 ---
+39 
+ 
+samgåendet mellan Budbee och Instabox där Kinnevik kvarstår som den största ägaren i det nya sammanslagna 
+bolaget Instabee.  
+ 
+Under det andra kvartalet 2023 förvärvade Kinnevik ytterligare aktier i Spring Health för 1,1 Mdkr och Kinneviks 
+ägarandel i Spring Health ökade därmed till 12 procent. I samma kvartal investerade Kinnevik även i biotech-
+bolaget Enveda som använder sig av AI för att utveckla nya läkemedel utifrån molekyler som återfinns i naturen. 
+I juni 2023 publicerade Kinnevik sin Climate Progress Report, i vilken det framgår att Kinnevik överträffade 
+klimatmålet för portföljen under 2022 då utsläppsintensiteten minskade med 14 procent jämfört med 
+föregående år. Under det tredje kvartalet 2023 investerade Kinnevik i clean tech-bolaget Aira, som har en vision 
+att bygga en vertikalt integrerad verksamhet för att påskynda elektrifieringen av Europas bostäder, med smarta 
+värmepumpar som ett första steg. Härtill har Kinnevik under 2023 ökat sitt eget ägande och investerat kapital i 
+bland annat H2 Green Steel, TravelPerk, Instabee, Recursion och HungryPanda. Per 30 september 2023 uppgick 
+Kinneviks totala investeringar under året till cirka 4,5 Mdkr.  
+ 
+Ambition 
+Kinneviks ambition är att vara Europas ledande börsnoterade tillväxtinvesterare. 
+ 
+Strategi  
+Kinneviks strategi är att: 
+• 
+Investera i bolag som genom teknikens kraft tillgodoser viktiga behov i människors vardag,  
+• 
+Använda Bolagets permanenta kapital till fullo genom modiga investeringar, samt vara en långsiktig 
+och pålitlig partner och rådgivare till våra bolag i olika skeden av tillväxt, 
+• 
+Fokusera på teman som står inför omfattande digital disruption samt vår generations största 
+utmaning, klimatförändringar, 
+• 
+Investera i Europa och USA, och 
+• 
+Genom Bolagets erfarenhet och expertis stötta dess portföljbolag att bygga långsiktigt framgångsrika 
+och hållbara verksamheter. 
+ 
+Finansiella mål  
+För att tydliggöra Kinneviks strategi har Kinneviks styrelse beslutat att kommunicera Bolagets finansiella mål. 
+Dessa avspeglar hur Kinnevik utvärderar sin balansräkning och de avkastningskrav som ställs på 
+portföljbolagen. 
+ 
+Attraktiv avkastning: Kinneviks mål är att generera en långsiktig totalavkastning till Bolagets aktieägare som 
+överstiger Kinneviks kapitalkostnad. Kinnevik eftersträvar en årlig totalavkastning om 12-15 procent över 
+konjunkturcykeln. 
+ 
+Låg belåning: Givet karaktären på Kinneviks investeringar är Kinneviks mål att ha låg belåning, med en 
+belåningsgrad ej överstigande 10 procent av portföljvärdet. 
+ 
+Utdelningspolicy: Kinnevik genererar avkastning främst genom värdestegring och strävar efter att dela ut 
+överskottskapital som genereras från våra investeringar till aktieägarna genom extra utdelningar. 
+ 
+Hållbarhetsarbete 
+Kinneviks hållbarhetsarbete är en central del av Bolagets aktiva ägande och en integrerad del av Bolagets 
+värdeskapande process. Detta arbete utgör en grundläggande förutsättning för Kinnevik att uppnå sin ambition 
+om att vara Europas ledande börsnoterade tillväxtinvesterare. Kinnevik avser att väsentligt minska sina utsläpp 
+av växthusgaser och bidra till global klimatneutralitet. Vidare syftar hållbarhetsarbetet till att bidra till en mer 
+diversifierad, rättvis och inkluderande värld samt säkerställa sunda bolagsstyrningsstrukturer och ambitiösa 
+hållbarhetsstrategier i portföljbolagen. Kinneviks hållbarhetsarbete är således kopplat till frågor som 
+återspeglar var Bolaget kan ha den största påverkan på människor, planeten och ekonomin. De Hållbarhetsmål 
+som valts ut till Bolagets Sustainability Linked Financing Framework relaterar således till Kinneviks portfölj, 
+eftersom det är här Kinneviks hållbarhetsarbete har störst potentiell effekt och genom att addera en 
+hållbarhetslänk till Bolagets skuldfinansering understryks Kinneviks engagemang för en integrerad 
+hållbarhetsstrategi och transparens.  
+För ytterligare information om Kinneviks hållbarhetsarbete eller Bolagets Sustainability Linked Financing 
+Framework, se avsnittet "Kinneviks Sustainability Linked Financing Framework" ovan samt Kinneviks års- och 
+hållbarhetsredovisning för 2022.
+
+--- Page 42 ---
+40 
+ 
+ 
+ 
+Större aktieägare 
+I tabellen nedan anges Bolagets fem största aktieägare sett till andel röster per de datum som anges nedan.  
+ 
+Ägare 
+Antal aktier 
+Andel kapital  
+Andel röster 
+Verifierat 
+Verdere S.À.R.L. 
+11 354 304 
+4,03 % 
+19,05 % 
+2023-09-27 
+Alces Maximus LLC 
+6 742 143 
+2,41 % 
+11,55 % 
+2023-09-30 
+CMS Sapere Aude Trust 
+3 880 202 
+1,38 % 
+6,62 % 
+2023-09-27 
+Wilhelm, Marie & Amelie 
+Klingspor 
+4 588 894 
+1,63 % 
+6,11 % 
+2023-09-27 
+Baillie Gifford & Co 
+31 419 598 
+11,15 % 
+5,36 % 
+2023-09-30 
+ 
+Verdere kan genom sin röstandel komma utöva betydande inflytande över Kinnevik i frågor som är föremål för 
+aktieägarnas beslutsfattande vid bolagsstämma, till exempel val av styrelse. Verderes inflytande över Kinnevik 
+begränsas av aktiebolagslagens bestämmelser om minoritetens rättigheter. 
+Aktieägarna Marie Klingspor, Wilhelm Klingspor och Amelie Klingspor har under 2023 träffat en 
+överenskommelse om att genom samordnat utövande av rösträtten inta en långsiktig gemensam hållning i 
+fråga om förvaltningen av Kinnevik. Såvitt styrelsen känner till föreligger inte några andra aktieägaravtal eller 
+motsvarande överenskommelser mellan aktieägare i Kinnevik med syftet att utöva gemensamt inflytande över 
+Bolaget. Inte heller känner styrelsen till några avtal eller liknande överenskommelser som kan leda till en 
+förändring av kontrollen i Kinnevik.
+
+--- Page 43 ---
+41 
+ 
+Kinneviks huvudsakliga innehav per den 30 september 20239 
+VALUE-BASED CARE 
+ 
+ 
+ 
+ 
+Aktör inom primärvård och värdebaserad vård, 
+baserad i USA. 
+ 
+Den 30 september 2023 var Kinneviks andel av 
+VillageMD 2 procent. Per samma datum var det 
+verkliga värdet av Kinneviks investering 4,04 Mdkr, 
+medan det kapital Kinnevik investerat i bolaget 
+uppgick till 986 Mkr. 
+Tillhandahåller värdebaserad vård till människor 
+med vårdbehov i storstadsområden. 
+ 
+Den 30 september 2023 var Kinneviks andel av 
+Cityblock 8 procent. Per samma datum var det 
+verkliga värdet av Kinneviks investering 3,09 Mdkr, 
+medan det kapital Kinnevik investerat i bolaget 
+uppgick till 933 Mkr. 
+ 
+VIRTUAL CARE 
+ 
+ 
+Sätter psykisk hälsovård i centrum och erbjuder 
+arbetsgivare vård för anställda och deras familjer. 
+ 
+Den 30 september 2023 var Kinneviks andel av Spring 
+Health 12 procent. Per samma datum var det verkliga 
+värdet av Kinneviks investering 3,49 Mdkr, medan 
+det kapital Kinnevik investerat i bolaget uppgick till 
+2,45 Mdkr. 
+ 
+PLATFORMS & MARKETPLACES 
+ 
+ 
+ 
+Kundfokuserad logistikplattform för sista milen-
+leveranser, specialiserad på e-handel. 
+ 
+Den 30 september 2023 var Kinneviks andel av 
+Instabee 13 procent. Per samma datum var det 
+verkliga värdet av Kinneviks investering 1,02 Mdkr, 
+medan det kapital Kinnevik investerat i bolaget 
+uppgick till 716 Mkr. 
+Digitalt 
+bemanningsföretag 
+som 
+matchar 
+arbetssökande med tillfälliga jobb. 
+ 
+Den 30 september 2023 var Kinneviks andel av 
+JobandTalent 5 procent. Per samma datum var det 
+verkliga värdet av Kinneviks investering 1,16 Mdkr, 
+medan det kapital Kinnevik investerat i bolaget 
+uppgick till 1,01 Mdkr. 
+ 
+9 Vid bedömning av portföljbolagens verkliga värde som beskrivs i detta avsnitt tillämpar Kinnevik följande principer för värdering: 
+Verkligt värde definieras i IFRS 13 som det pris som vid värderingstidpunkten skulle erhållas vid försäljning av en tillgång eller betalas vid 
+en överlåtelse av en skuld genom en ordnad transaktion mellan marknadsaktörer. Verkligt värde på finansiella instrument som handlas på 
+en aktiv marknad baseras på noterade marknadspriser på balansdagen. Marknadspriset som används är den på balansdagen sista avgivna 
+köpkursen. För bolag med två aktieslag används det mest likvida aktieslagets marknadskurs. Verkligt värde avseende andra finansiella 
+instrument fastställs med ledning av de metoder som i varje enskilt fall antas ge den bästa uppskattningen av verkligt värde. För tillgångar 
+och skulder med förfall inom ett år antas nominellt värde justerat för ränta och premier ge en god approximation av verkligt värde. 
+Kinneviks onoterade innehav värderas med utgångspunkt i IFRS 13 och International Private Equity and Venture Capital Valuation 
+Guidelines, varvid en samlad bedömning görs för att fastställa vilken värderingsmetod och vilka referenspunkter som är lämpligast för att 
+bestämma det verkliga värdet av respektive innehav.
+
+--- Page 44 ---
+42 
+ 
+SOFTWARE 
+ 
+ 
+ 
+ 
+ 
+ 
+Erbjuder betalningslösningar för anställda samtidigt 
+som företagen har kontroll över kostnaderna. 
+ 
+Den 30 september 2023 var Kinneviks andel av Pleo 
+14 procent. Per samma datum var det verkliga värdet 
+av Kinneviks investering 3,28 Mdkr, medan det 
+kapital Kinnevik investerat i bolaget uppgick till 646 
+Mkr. 
+Aktör inom bokningar av affärsresor på nätet. 
+ 
+ 
+ 
+Den 30 september 2023 var Kinneviks andel av 
+TravelPerk 16 procent. Per samma datum var det 
+verkliga värdet av Kinneviks investering 2,29 Mdkr, 
+medan det kapital Kinnevik investerat i bolaget 
+uppgick till 936 Mkr. 
+ 
+ 
+CONSUMER FINANCE 
+ 
+ 
+Finansiell rådgivare baserad i USA som erbjuder 
+investerings- och pensionslösningar. 
+ 
+ 
+Den 30 september 2023 var Kinneviks andel av 
+Betterment 13 procent. Per samma datum var det 
+verkliga värdet av Kinneviks investering 1,50 
+Mdkr, medan det kapital Kinnevik investerat i 
+bolaget uppgick till 1,13 Mdkr. 
+ 
+ 
+EARLY BETS & NEW THEMES 
+ 
+ 
+ 
+Producent av grönt stål som kan minska 
+koldioxidutsläppen med upp till 95 procent 
+jämfört med traditionell ståltillverkning. 
+ 
+Den 30 september 2023 var Kinneviks andel av 
+H2 Green Steel 3 procent. Per samma datum var 
+det verkliga värdet av Kinneviks investering 1,15 
+Mdkr, medan det kapital Kinnevik investerat i 
+bolaget uppgick till 1,15 Mdkr. 
+ 
+EMERGING MARKETS 
+ 
+ 
+ 
+E-handelsaktör 
+för 
+mode 
+och 
+livsstil 
+i 
+tillväxtmarknader. 
+ 
+Den 30 september 2023 var Kinneviks andel av 
+Global Fashion Group 35 procent. Per samma 
+datum var det verkliga värdet av Kinneviks 
+investering 303 Mkr, medan det kapital Kinnevik 
+investerat i bolaget uppgick till 6,29 Mdkr. 
+Global Fashion Groups aktier är upptagna till 
+handel på Frankfurtbörsen. 
+ 
+ÖVRIGA PORTFÖLJEN 
+ 
+Erbjuder mobil- och fasttelefoni, bredband, 
+datanät, TV och streaming. 
+ 
+Den 30 september 2023 var Kinneviks andel av 
+Tele2 20 procent. Per samma datum var det 
+verkliga värdet av Kinneviks investering 11,51 
+Mdkr. Tele2s aktier är upptagna till handel på 
+Nasdaq Stockholm.
+
+--- Page 45 ---
+43 
+ 
+STYRELSE, LEDANDE BEFATTNINGSHAVARE OCH REVISOR 
+STYRELSEN 
+Styrelsen i Kinnevik består av följande personer: 
+ 
+James Anderson, Styrelseordförande  
+Betydande uppdrag utanför Kinnevik: Partner på Lingotto, medlem i Johns Hopkins University Board of Trustees 
+och investeringskommittén, Senior Advisor till Antler Groups styrelse och ordförande för Panmure House Prize 
+Panel och medlem i investeringskommittén på University College, Oxford. 
+ 
+Susanna Campbell, Styrelseledamot  
+Betydande uppdrag utanför Kinnevik: Styrelseordförande i Network of Design och styrelseledamot i Indutrade, 
+Estrid, Northvolt och H2 Green Steel. Senior rådgivare på Norrsken VC samt Industry Advisor åt Vargas Holding. 
+ 
+Harald Mix, Styrelseledamot   
+Betydande uppdrag utanför Kinnevik: VD för Altor Equity Partners. Styrelseordförande i Vargas Holding, 
+H2 Green Steel och Aira. Styrelseledamot i Nordic Leisure Travel Group och Carnegie Investment Bank. 
+ 
+Charlotte Strömberg, Styrelseledamot 
+Betydande uppdrag utanför Kinnevik: Styrelseledamot i Clas Ohlson, Höganäs, Lindéngruppen samt vice 
+styrelseordförande för Sofina. Charlotte är även ledamot i Aktiemarknadsnämnden, medgrundare av DHS 
+Venture Partners och oberoende ledamot i Nasdaq Stockholms bolagskommitté. 
+ 
+Cecilia Qvist, Styrelseledamot 
+Betydande uppdrag utanför Kinnevik: Styrelseledamot i Polarium. 
+ 
+ 
+LEDANDE BEFATTNINGSHAVARE 
+Georgi Ganev, Verkställande direktör 
+Betydande uppdrag utanför Kinnevik: Styrelseledamot i Tele2, Global Fashion Group, och Reach for Change. 
+ 
+Samuel Sjöström, Finansdirektör 
+Betydande uppdrag utanför Kinnevik: Styrelseledamot i Playground Music Scandinavia. 
+ 
+Mattias Andersson, Chefsjurist 
+Betydande uppdrag utanför Kinnevik: -  
+ 
+Andreas Bernström, Senior Investment Director 
+Betydande uppdrag utanför Kinnevik: Styrelseordförande i Mathem och Pleo samt styrelseledamot i Vivino och 
+Instabee. 
+ 
+Torun Litzén, Informationsdirektör 
+Betydande uppdrag utanför Kinnevik: Styrelseordförande i Reach for Change. 
+ 
+Anna Stenberg, Chief People & Platform Officer 
+Betydande uppdrag utanför Kinnevik: Medlem i Reach for Changes Advisory Board samt advisor för Prins Daniels 
+Fellowship. 
+ 
+Natalie Tydeman, Senior Investment Director 
+Betydande uppdrag utanför Kinnevik: Styrelseledamot i Viaplay Group, Modern Times Group, Betterment, 
+Jobandtalent och Vay. 
+ 
+Övrig information om styrelsen och ledande befattningshavare 
+Styrelseledamoten Harald Mix är styrelseordförande i Kinneviks portföljbolag H2 Green Steel och Aira och har 
+även finansiella intressen i bolagen. Styrelseledamoten Susanna Campbell är styrelseledamot i Kinneviks 
+portföljbolag H2 Green Steel och har även finansiella intressen i bolaget. Vidare har flera styrelseledamöter 
+uppdrag för och/eller finansiella intressen i bolag som direkt eller indirekt är investerade i Kinneviks
+
+--- Page 46 ---
+44 
+ 
+portföljbolag. Därutöver har ingen styrelseledamot eller ledande befattningshavare något personligt intresse 
+som kan strida mot Kinneviks intressen. 
+ 
+Några av de ledande befattningshavarna är även styrelseledamöter i Kinneviks portföljbolag och får 
+styrelsearvoden från dessa portföljbolag. Vidare så har flera styrelseledamöter och ledande befattningshavare 
+finansiella intressen i Kinnevik som en konsekvens av att de äger aktier i Kinnevik. Kinnevik gör inte 
+bedömningen att dessa förhållanden leder till intressekonflikter mellan berörda styrelseledamöters och 
+ledande befattningshavares personliga intressen å ena sidan och Kinneviks intressen å andra sidan. 
+ 
+För ytterligare information om styrelseledamöterna och de ledande befattningshavarna, såsom utbildning, 
+arbetslivserfarenhet, aktieinnehav i Kinnevik och styrelseledamöternas oberoende, se Kinneviks hemsida 
+www.kinnevik.com/sv/bolagsstyrning/styrelsen 
+respektive 
+www.kinnevik.com/sv/team/kinneviks-team.  
+Samtliga styrelseledamöter och ledande befattningshavare kan nås via Bolagets huvudkontor på adress på 
+Skeppsbron 18, 103 13 Stockholm. 
+ 
+REVISORER 
+Det registrerade revisionsbolaget KPMG har varit Kinneviks revisor sedan årsstämman 2021. Vid årsstämman 
+2023 omvaldes KPMG till revisor för tiden intill slutet av årsstämman 2024. Den auktoriserade revisorn Mårten 
+Asplund har varit huvudansvarig revisor sedan årsstämman 2021. Mårten Asplund är medlem i FAR, 
+branschorganisationen för revisorer i Sverige. Adressen till KPMG är box 382, 101 27 Stockholm.
+
+--- Page 47 ---
+45 
+ 
+ÖVRIG INFORMATION 
+Beslut och ansvarsförsäkran 
+Den 9 februari 2017 beslutade Kinneviks styrelse att etablera MTN-programmet och den 8 februari 2018 
+beslutades att höja rambeloppet från 4 000 000 000 kr till 6 000 000 000 kr, eller motsvarande värde i EUR. 
+Revisions- och Hållbarhetsutskottet beslutade den 16 oktober 2023 att förnya programmet efter mandat från 
+styrelsen den 29 september 2023. 
+ 
+Kinnevik ansvarar för innehållet i Grundprospektet och enligt Kinneviks kännedom överensstämmer den 
+information som ges i Grundprospektet med sakförhållandena och ingen uppgift som sannolikt skulle kunna 
+påverka dess innebörd har utelämnats. I den omfattning som följer av lag ansvarar även styrelsen i Kinnevik för 
+innehållet i Grundprospektet. 
+ 
+Information om trender och väsentliga förändringar i Kinneviks finansiella ställning  
+Det har inte skett några betydande förändringar av Kinneviks eller Koncernens finansiella ställning eller resultat 
+sedan den 30 september 2023 (vilket är utgången av den senaste räkenskapsperioden för vilken finansiell 
+information har offentliggjorts) och inte heller har några andra händelser nyligen inträffat som kan ha en 
+väsentlig inverkan på Kinneviks solvens.  
+ 
+Det har inte skett några väsentliga negativa förändringar i Kinneviks framtidsutsikter sedan årsbokslutet för 
+2022 (det senaste offentliggjorda reviderade årsbokslutet). 
+ 
+Väsentliga avtal 
+Nedan följer en sammanfattning av avtal av större betydelse (som inte ingår i den löpande affärsverksamheten) 
+och som innehåller rättigheter eller skyldigheter som väsentligt kan påverka Kinneviks förmåga att uppfylla sina 
+förpliktelser gentemot innehavare av Obligationer.  
+ 
+Kinnevik har två syndikerade kreditfaciliteter på 2,5 Mdkr vardera, varav en förfaller i maj 2024 och den andra 
+förfaller i maj 2026. Kinnevik har även två checkräkningskrediter om 100 Mkr respektive 30 Mkr vilka förlängs 
+årsvis.   
+ 
+Utöver kreditfaciliteterna har Kinnevik utestående obligationer emitterade under MTN-programmet. I februari 
+2020 emitterade Kinnevik obligationer om 1,5 Mdkr som förfaller i februari 2025. Obligationerna är utgivna i två 
+trancher, varav en om 250 Mkr med fast ränta om 1,058 procent och en om 1,25 Mdkr med rörlig ränta 
+motsvarande tre månaders STIBOR + 0,80 procent. I syfte att låsa den rörliga räntan har Kinnevik ingått avtal 
+om ränteswap med samma förfallodatum som de utestående obligationerna. Som ett resultat av detta betalar 
+Kinnevik en fast ränta om 1,091 procent. Obligationerna är inte säkerställda och har inga krav på uppfyllande av 
+finansiella nyckeltal. I november 2021 emitterade Kinnevik hållbarhetslänkade obligationer om 2,0 Mdkr. De 
+hållbarhetslänkade obligationerna är utgivna i två trancher, varav en om 1,5 Mdkr förfaller i november 2026 och 
+har en ränta baserad på tre månaders STIBOR + 0,70 procent samt en om 0,5 Mdkr förfaller i november 2028 
+och har en ränta baserad på tre månaders STIBOR + 0,90 procent. De hållbarhetslänkade obligationernas 
+slutgiltiga inlösenpris beror på i vilken utsträckning Kinnevik uppnår de Hållbarhetsmål som Bolaget satt för sitt 
+hållbarhetsarbete. Om Kinnevik inte uppnår ett Hållbarhetsmål ett visst år kommer inlösenpriset att öka med 
+0,075 procentenheter per Hållbarhetsmål och år. Första kontrolldatumet för de årliga Hållbarhetsmålen var den 
+31 december 2022. Mer information finns i Kinneviks Sustainability Linked Financing Framework som återfinns 
+på Kinneviks hemsida, www.kinnevik.com/investors/funding. Kinnevik har ingått avtal om två ränteswappar 
+med samma förfallodatum som de utestående hållbarhetslänkade obligationerna. För tranchen om 1,5 Mdkr 
+betalar Kinnevik en fast årlig ränta om 1,432 procent och för tranchen om 0,5 Mdkr en fast årlig ränta om 1,763 
+procent. 
+ 
+Som en del av sin kortfristiga finansiering har Kinnevik, utöver ovan nämnda kreditfaciliteter, ett 
+företagscertifikatprogram med en ram om 5 Mdkr.
+
+--- Page 48 ---
+46 
+ 
+Rättsliga förfaranden och skiljeförfaranden 
+Bolag som ingår i koncernen i vilken Kinnevik är moderbolag och dess dotterbolag, är inblandade i tvister och 
+processer i den löpande verksamheten. Vidare har länsstyrelser framfört krav på Kinnevik gällande 
+miljöundersökningar, och i förlängningen även saneringsåtgärder, på ett antal platser där Fagersta AB 
+(Kinnevik, genom namnändring och fusion) bedrivit verksamhet. Kinneviks bedömning är att dessa rättsliga 
+förfaranden inte kommer att få någon betydande effekt på Kinneviks finansiella ställning eller lönsamhet. 
+ 
+Emissionsinstituten 
+Emissionsinstituten har inte verifierat innehållet i Grundprospektet och ansvarar inte för dess innehåll. Vissa av 
+Emissionsinstituten, inklusive ledarbanken Skandinaviska Enskilda Banken AB (publ), tillhandahåller, och kan i 
+framtiden komma att tillhandahålla, olika bank- och finansieringstjänster till Kinnevik för vilka banken får, och 
+i framtiden kan komma att få, ersättning. Det kan alltså finnas, eller komma att uppstå, intressekonflikter. 
+ 
+Kostnader  
+Kinnevik står för samtliga kostnader i samband med upptagande till handel av Obligationer utgivna under MTN-
+programmet såsom kostnader för framtagande av prospekt, upptagande till handel på Nasdaq Stockholms 
+Corporate Bonds List, lånedokumentation, avgifter till Euroclear Sweden med mera. 
+ 
+Finansinspektionens godkännande av Grundprospektet 
+Detta Grundprospekt har godkänts av Finansinspektionen, som behörig myndighet enligt i Europaparlamentets 
+och Rådets förordning (EU) 2017/1129. Finansinspektionen godkänner detta Grundprospekt enbart i så måtto 
+att det uppfyller de krav på fullständighet, begriplighet och konsekvens som anges i Europaparlamentets och 
+Rådets förordning (EU) 2017/1129. Detta godkännande bör inte betraktas som något slags stöd för Kinnevik 
+eller kvaliteten på de värdepapper som avses i detta Grundprospekt. Investerare bör göra sin egen bedömning 
+av huruvida det är lämpligt att investera i dessa värdepapper. 
+ 
+Grundprospektets giltighetstid 
+Grundprospektet är giltigt i ett år efter Finansinspektionens godkännande av Grundprospektet och MTN kan 
+ges ut under Prospektets giltighetstid. Kinnevik har inga skyldigheter att tillhandahålla tillägg till 
+Grundprospektet i fall det uppkommer eller uppmärksammas nya omständigheter av betydelse, sakfel eller 
+väsentliga felaktigheter efter Grundprospektets giltighetstid.
+
+--- Page 49 ---
+47 
+ 
+HANDLINGAR INFÖRLIVADE GENOM HÄNVISNING 
+Handlingarna nedan som tidigare har offentliggjorts av Kinnevik införlivas genom hänvisning och ska läsas som 
+en del av Grundprospektet. Investerare bör ta del av all den information som införlivas i Grundprospektet genom 
+hänvisning. De delar i nedan angivna dokument som inte införlivas genom hänvisning är antingen inte relevanta 
+för investerare i enlighet med gällande Prospektförordning eller omfattas av andra delar av Grundprospektet. 
+ 
+För att underlätta utökningar av Lån utgivna under tidigare grundprospekt införlivas Allmänna Villkor daterade 
+den 2 november 2021 som publicerats i Bolagets grundprospekt registrerat den 2 november 2021 på 
+sida 13 - 28 och utgör en del av detta Grundprospekt. Det tidigare utgivna grundprospektet samt tillhörande 
+Allmänna 
+och 
+Slutliga 
+Villkor 
+finns 
+tillgängligt 
+på 
+Kinneviks 
+hemsida, 
+www.kinnevik.com/globalassets/documents/2.-investors/funding/slf/prospekt-hallbarhetslankat-mtn-
+program-2021.pdf.  
+ 
+Årsredovisning 2021 (reviderad) 
+Årsredovisningen finns tillgänglig på Kinneviks hemsida, 
+www.kinnevik.com/globalassets/documents/2.-
+investors/reports/1.-old/2021/ar/ar_2021_s.pdf.     
+ 
+Sida 
+Resultaträkning 
+63 
+Balansräkning 
+65-66 
+Förändringar i eget kapital 
+67 
+Kassaflödesanalys 
+64 
+Noter 
+68-94 
+Redovisningsprinciper  
+68-71 
+Revisionsberättelse 
+105-108 
+ 
+ 
+Årsredovisning 2022 (reviderad) 
+Årsredovisningen finns tillgänglig på Kinneviks hemsida, 
+www.kinnevik.com/globalassets/documents/2.-
+investors/reports/2022/ar/kinneviks-ars--och-
+hallbarhetsredovisning-2022.pdf.    
+Sida 
+Resultaträkning 
+69 
+Balansräkning 
+71-72 
+Förändringar i eget kapital 
+73 
+Kassaflödesanalys 
+70 
+Noter 
+74-103 
+Redovisningsprinciper  
+74-77 
+Revisionsberättelse 
+114-117 
+ 
+Delårsrapport för perioden januari-september 2023 
+Delårsrapporten finns tillgänglig på Kinneviks hemsida, 
+https://www.kinnevik.com/globalassets/documents/2.-
+investors/reports/2023/q3/q3_2023_s.pdf.     
+ 
+Sida 
+Resultaträkning 
+19 
+Balansräkning  
+22-23 
+Förändringar i eget kapital 
+24 
+Kassaflödesanalys 
+20-21 
+Noter 
+25-37 
+Redovisningsprinciper 
+25 
+ 
+Utöver årsredovisningarna för 2021 och 2022 har ingen del av Grundprospektet eller andra handlingar reviderats 
+av Kinneviks revisor. Delårsrapporten för perioden januari-september 2023 har inte varit föremål för översiktlig
+
+--- Page 50 ---
+48 
+ 
+granskning av Kinneviks revisor. 
+ 
+Kinneviks koncernredovisning för 2021 och 2022 är upprättade i enlighet med International Financial Reporting 
+Standards (IFRS). Koncernredovisningen är vidare upprättade i enlighet med svensk lag genom tillämpning av 
+rekommendation RFR 1 Kompletterande redovisningsregler för koncerner från Rådet för finansiell rapportering. 
+Årsredovisningen för moderbolaget i Kinnevik-koncernen, Kinnevik AB (publ), är upprättad i enlighet med 
+svensk lag och med tillämpning av rekommendation RFR 2 Redovisning för juridiska personer från Rådet för 
+finansiell rapportering.  
+ 
+Den information som införlivats genom hänvisning finns tillgänglig på Kinneviks hemsida www.kinnevik.com,  
+och kan beställas från Kinnevik på adressen Box 2094, 103 13 Stockholm eller på telefonnummer 
++46 (0)8 562 000 00. 
+ 
+Tillgängliga handlingar 
+Kopior av följande handlingar kommer finnas tillgängliga för inspektion hos Kinnevik på adressen Skeppsbron 
+18, 103 13 Stockholm, under Grundprospektets giltighetstid: (i) Kinneviks bolagsordning, (ii) Kinneviks 
+registreringsbevis, (iii) Grundprospektet, inklusive de handlingar som införlivats genom hänvisning och Slutliga 
+Villkor för varje emission av Obligationer, samt (iv) i förekommande fall, tilläggsprospekt till Grundprospektet.  
+ 
+Informationen under (i)-(iv) och samtliga dokument som genom hänvisning ingår i Grundprospektet finns även 
+tillgänglig på Kinneviks hemsida www.kinnevik.com.
+
+--- Page 51 ---
+49 
+ 
+ADRESSER 
+Emittent: 
+Kinnevik AB (publ) 
+Skeppsbron 18 
+Box 2094 
+103 13 Stockholm  
+Tel:  
++46(0)8 562 000 00 
+Hemsida: www.kinnevik.com  
+ 
+Ledarbank: 
+Skandinaviska Enskilda Banken AB (publ) 
+Kungsträdgårdsgatan 8 
+106 40 Stockholm 
+Tel:  
++46(0)8 506 232 09 
+Hemsida: www.seb.se  
+ 
+För köp och försäljning: 
+Svenska Handelsbanken AB (publ) 
+Handelsbanken Capital Markets 
+ 
+106 70 Stockholm 
+Tel: 
+Credit Sales: +46(0)8-463 46 50  
+Hemsida: www.handelsbanken.se  
+ 
+Swedbank AB (publ) 
+Corporates & Institutions 
+105 34 Stockholm 
+Tel: 
+MTN-desk: +46(0)8-700 99 85 
+ 
+Stockholm: +46(0)8-700 99 98 
+ 
+Göteborg: +46(0)31-739 78 20 
+Hemsida: www.swedbank.se   
+ 
+Nordea Bank Abp 
+Nordea Markets 
+Smålandsgatan 17 
+105 71 Stockholm 
+Tel: 
++46(0)8-407 90 85 
+ 
++46(0)8-407 91 11 
+ 
++46(0)8-407 92 03 
+Hemsida: www.nordeamarkets.com/sv   
+ 
+Skandinaviska Enskilda Banken AB (publ) 
+Debt Capital Markets 
+Kungsträdgårdsgatan 8 
+106 40 Stockholm 
+Tel: 
++46(0)8 506 232 09  
+Hemsida: www.seb.se  
+ 
+DNB Bank ASA, filial Sverige 
+DNB Markets 
+Regeringsgatan 59 
+105 88 Stockholm 
+Tel: 
++46(0)8 473 48 50 
+Hemsida: www.dnb.se
+
+--- Page 52 ---
+50 
+ 
+ 
+Danske Bank A/S, Danmark, Sverige Filial 
+Norrmalmstorg 1, Stockholm 
+Box 7523 
+103 92 Stockholm 
+Tel: 
+Stockholm: +46(0)8-568 805 77 
+Köpenhamn: +45 (0)33 44 32 68 
+Hemsida: www.danskebank.se  
+ 
+Värdepapperscentral: 
+Euroclear Sweden AB  
+Box 191  
+101 23 Stockholm 
+Tel: 
++46(0)8 402 90 00 
+Hemsida: www.euroclear.com/sweden  
+ 
+Revisor:  
+KPMG AB  
+Box 382 
+101 27 Stockholm 
+ 
+Legal rådgivare till Kinnevik: 
+Advokatfirman Cederquist KB 
+Box 1670 
+111 96 Stockholm

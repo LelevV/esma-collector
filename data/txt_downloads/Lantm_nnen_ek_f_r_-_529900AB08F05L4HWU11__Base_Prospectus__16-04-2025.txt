@@ -1,0 +1,3194 @@
+--- Page 1 ---
+1 
+ 
+This Base Prospectus was approved by the Swedish Financial Supervisory Authority on 16 April 2025. This Base 
+Prospectus is valid for up to twelve months after the date of approval. The obligation to supplement this base prospectus 
+in the event of significant new factors, material mistakes or material inaccuracies does not apply when the Base 
+Prospectus is no longer valid. 
+ 
+ 
+Lantmännen ek för 
+ 
+Medium Term Note Programme 
+ 
+ 
+16 April 2025 
+ 
+ 
+ 
+ 
+Arranger: 
+Swedbank AB (publ) 
+Dealers: 
+Swedbank AB (publ), Danske Bank A/S, Danmark, Sverige 
+Filial, Nordea Bank Abp and Skandinaviska Enskilda Banken 
+AB (publ)
+
+--- Page 2 ---
+2 
+ 
+Information to investors 
+This base prospectus (the ”Base Prospectus”) relates to the programme for continuous issuance by Lantmännen ek för (the 
+“Issuer” or “Lantmännen”) of medium term notes in Swedish kronor or euro with a tenor of minimum one (1) year and a nominal 
+amount which may not be lower than EUR 100,000 (or the corresponding amount in SEK) (the “MTN”). 
+This Base Prospectus has been prepared in accordance with Regulation (EU) 2017/1129 (as amended, the “Prospectus 
+Regulation”) and the delegated act (EU) 2019/980. The Base Prospectus constitutes a base prospectus pursuant to article 8 of 
+the Prospectus Regulation. Swedish law is applicable to the Base Prospectus and any dispute arising out of or in connection with 
+the Base Prospectus shall be subject to Swedish law and exclusively to the jurisdiction of Swedish courts. The Base Prospectus 
+shall be read together with the documents which have been incorporated by reference (see “Information about the Issuer – 
+Documents incorporated by reference”) and any supplements to the Base Prospectus. Except for what is stated in the auditor’s 
+report, which has been incorporated to this Base Prospectus by reference, or is otherwise explicitly stated, no information in this 
+Base Prospectus has been reviewed or revised by the Issuer’s auditor. The numbers in this Base Prospectus has, in some cases, 
+been rounded, why certain tables may not amount to the correct sum. 
+This Base Prospectus does not constitute an offer to purchase Loans and may not be distributed in any jurisdiction where such 
+distribution would require any additional prospectus, registration or measures other than those required under Swedish law, or 
+otherwise would conflict with regulations in such jurisdiction. Persons into whose possession this Base Prospectus may come are 
+required to inform themselves about and comply with such restrictions. Any failure to comply with such restrictions may result in 
+a violation of applicable securities regulations. Subject to certain exemptions, the MTN may not be offered, sold or delivered 
+within the United States or to, or for the account or benefit of, U.S. persons. No MTN has been, and no MTN will be, registered 
+under the United States Securities Act of 1933. 
+This Base Prospectus is dated 16 April 2025. Distribution of the Base Prospectus does not entail that the information provided 
+herein is relevant for any other date than the date of this Base Prospectus or that the business of the Issuer, result or financial 
+situation has been unchanged since this date. 
+In respect of each issue of MTN, each Issuing Dealer will undertake a target market assessment in respect of such MTN and 
+determine the appropriate channels for distribution for such MTN. Any person subsequently offering, selling or recommending 
+such MTN (a “distributor”) should take into consideration the target market assessment. However, a distributor subject to 
+Directive 2014/65/EU (as amended, “MiFID II”) is responsible for undertaking its own target market assessment in respect of 
+such MTN (either by adopting or refining the target market assessment) and determining the appropriate distribution channels. 
+For the purpose of the MiFID Product Governance rules under EU Delegated Directive 2017/593 (the “MiFID Product 
+Governance Rules”), a determination will be made in relation to each issue as to whether any Issuing Dealer participating in the 
+issue of MTN is a manufacturer in respect of such MTN. Neither the Arranger nor the Dealers nor any of their respective affiliates 
+that do not participate in an issue will be a manufacturer for the purpose of the MiFID Product Governance Rules. 
+Each potential investor should consider whether the MTN is an appropriate investment given the particular circumstances of that 
+investor. In particular, every investor should (i) have sufficient knowledge and experience to be able to adequately evaluate the 
+MTN and the information set out in this Base Prospectus and any supplements hereto, (ii) have access to, and knowledge of, 
+appropriate analytical tools in order to, in the context of its own financial situation, be able to evaluate an investment in the MTN 
+and the effect of such investment on the portfolio of such investor, (iii) have sufficient financial means and liquidity to carry the 
+risks associated with an investment in the MTN, including where the nominal amount and/or interest payments may be made in 
+different currencies or where the currency of the principal amount or interest deviates from the currency of the investor, (iv) fully 
+understand the terms and conditions of a MTN and be familiar with relevant indices and financial markets, and (v) be capable of 
+evaluating (itself or with the assistance of financial advisors) possible scenarios for economical, interest rate related or other 
+factors that may affect the investment and the ability of the investor to carry the relevant risks. 
+The Base Prospectus contains certain forward-looking statements that reflect the Issuer´s current views or expectations with 
+respect to future events and financial and operational performance. The words “intend”, “estimate”, “expect”, “may”, “plan”, 
+“anticipate” or similar expressions regarding indications or forecasts of future developments or trends, which are not statements 
+based on historical facts, constitute forward-looking information. Although the Issuer believes that these statements are based on 
+reasonable assumptions and expectations, the Issuer cannot give any assurances that such statements will materialise. Because 
+these forward-looking statements involve known and unknown risks and uncertainties, the outcome could differ materially from 
+those set out in the forward-looking statement. Factors that could cause the Issuer’s actual operations, result or performance to 
+differ from the forward-looking statements include, but are not limited to, those described in “Risk factors”. The forward-looking 
+statements included in this Base Prospectus apply only to the date of the Base Prospectus. The Issuer undertakes no obligation to 
+publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, other 
+than as required by law. Any subsequent forward-looking information that can be ascribed to the Issuer or persons acting on the 
+Issuer behalf is subject to the reservations in or referred to in this section.
+
+--- Page 3 ---
+3 
+ 
+Table of contents 
+ 
+1 
+Description of the Issuer’s MTN Programme ..................................... 4 
+2 
+Risk Factors ..................................................................................... 10 
+3 
+Responsibility for the Base Prospectus ............................................ 25 
+4 
+Product description ......................................................................... 26 
+5 
+Terms and Conditions ...................................................................... 28 
+6 
+Form of Final Terms ........................................................................ 48 
+7 
+Information about the Issuer .......................................................... 52 
+8 
+Definitions ....................................................................................... 62 
+9 
+Addresses ........................................................................................ 64
+
+--- Page 4 ---
+4 
+ 
+1 
+Description of the Issuer’s MTN Programme 
+This MTN Programme constitutes a framework under which the Issuer intends to raise Loans 
+in SEK or EUR with a tenor of not less than one (1) year of a maximum outstanding nominal 
+amount at any time of SEK 5 billion or the equivalent in EUR. The Board of Directors resolved 
+to establish the MTN Programme on 27 August 2015. This Base Prospectus has been 
+established in accordance with a resolution by the Board of Directors on 15 April 2025. 
+The Terms and Conditions shall apply for all Loans raised under this MTN Programme. In 
+addition, for each Loan, supplementary Final Terms are established for each Loan. The Final 
+Terms and the Terms and Conditions together constitute the complete terms for the relevant 
+Loan. The nominal amount and the applicable method for calculating interest is regulated in 
+the Final Terms. The Final Terms will be available on the Issuer’s website, 
+www.lantmannen.com, and may also be obtained free of charge from the Issuer. 
+Offers to purchase or otherwise acquire MTN under this MTN Programme are not directed to 
+persons whose participation require any additional prospectus, registration or additional 
+measures other than those which follow from Swedish law for offer(s) made in Sweden. The 
+Base Prospectus and the Final Terms may not be distributed to, or within, any country where 
+such distribution demands further registration or additional measures other than those which 
+follow from Swedish law or is against the law or other regulations. Purchases or other 
+acquisitions of MTN issued under this Base Prospectus in contrary to the above may be deemed 
+null and void. 
+1.1 
+General 
+Each Loan is represented by MTN of denominations of not less than EUR 100,000, or a value 
+of SEK equivalent to EUR 100,000, or whole multiples thereof. 
+The Issuer may issue Loans bearing a fixed interest rate, variable interest rate or without interest 
+(Zero Coupon Loans). The determination of the Interest Rate is performed by the Calculation 
+Agent. The holders of MTN represent themselves in capacity as Noteholders towards the Issuer 
+and are consequently not represented by a certain organisation or counsel which has been 
+appointed in advance. 
+1.2 
+The Green Framework 
+The Issuer has established a framework for green financing (a so-called green bond framework) 
+as amended, updated and/or replaced from time to time) which is available on the Issuer’s 
+website www.lantmannen.com (the “Green Framework”), where any updates to the Green 
+Framework will also be made available. The Green Framework enables the Issuer to issue 
+Loans under a MTN programme as green bonds (“Green Bonds”) (as defined in the Final 
+Terms), meaning that the proceeds from any issuance may solely be used for financing of the 
+projects covered by the Green Framework. 
+The Green Framework has been developed in line with the industry standard Green Bond 
+Principles 2021, including the updated Appendix 1 of June 2022, set by the International 
+Capital Markets Association (ICMA). Furthermore, the Green Framework has undergone an 
+independent evaluation by S&P Global Ratings, which also is available on the Issuer’s website. 
+S&P Global Ratings’ review focuses on the Green Framework’s credibility, impact and 
+alignment with the recommended components of the ICMA Green Bond Principles, which are 
+described below: 
+(i) Use of Proceeds;
+
+--- Page 5 ---
+5 
+ 
+(ii) Process for Project Evaluation and Selection; 
+(iii)  Management of Proceeds; 
+(iv)  Reporting; and 
+(v) External Review. 
+In the second party opinion, S&P Global Ratings confirms that the Green Framework is aligned 
+with the ICMA Green Bond Principles 2021 and the updated Appendix 1 of June 2022. The 
+Green Framework is rated as S&P Global Ratings Medium Green, a rating allocated to 
+activities that represent significant steps towards a low-carbon, climate resilient future, but 
+require further improvement to become long-term low-carbon, climate resilient solutions. The 
+S&P Global Ratings second opinion was published on 8 March 2024 and will remain relevant 
+to all Green Bonds issued under the Green Framework from the date of the second opinion, as 
+long as the Green Framework remains unchanged. 
+The S&P Global Ratings Shades of Green methodology aims to provide transparency to 
+investors that seek to understand and act upon potential exposure to climate risks and impacts. 
+S&P Global Ratings’s opinion does not form part of this Prospectus nor is it a recommendation 
+to buy, sell or hold Green Bonds. Any future lack of verification from S&P Global Ratings or 
+another independent party does not entail an event of default under such Loan. In such cases, 
+Noteholders do not have the right to prepayment or repurchase of a Green Bond or other 
+compensation. 
+Regarding the use of proceeds, an amount equal to the net proceeds of the Green Bonds will be 
+used to finance or refinance, in whole or in part, investments undertaken by the Group or by 
+the Issuer’s share in joint ventures in accordance with the green project categories specified in 
+the Issuer’s Green Framework and as defined below (the “Green Projects”). Green Bond net 
+proceeds can be used to finance both existing and new Green Projects financed by the Group. 
+Green Bond net proceeds may not be allocated to projects for which the purpose is fossil energy 
+production, nuclear energy generation, weapons and defence, potentially environmentally 
+harmful resource extraction (such as rare earth elements or fossil fuels), gambling or tobacco. 
+Should the Issuer fail to use the net proceeds of the Green Bonds in accordance with the Green 
+Framework in relation to a certain Loan, it does not entail an event of default under such Loan. 
+In such cases, Noteholders do not have the right to prepayment or repurchase of a Green Bond 
+or other compensation. 
+The Green Projects comprise six key areas: (i) environmentally sustainable management of 
+living natural resources and land use, (ii) eco-efficient and circular economy adapted products, 
+production technologies and processes, (iii) renewable energy, (iv) pollution prevention and 
+control, (v) green and energy efficient buildings and (vi) clean transportation. Regarding (i), 
+the eligibility criteria state that the project must be related to investment and expenditure related 
+to research and development and partnerships with farmers to develop cultivation in a more 
+sustainable direction. This involves carrying out research and development in areas such as 
+plant breeding, digitalization, precision farming, climate adaptation, carbon sequestration, 
+biodiversity and biological plant protection. It also includes, for example, the procurement of 
+wheat, rye, barley, oats and other grain that are grown under the Climate & Nature program by 
+the Group’s farmers and have at least a 30 per cent lower CO2 impact than equivalent products. 
+Regarding (ii), the eligibility criteria state that the project must be related to production 
+facilities and production lines needed to produce food and feed products or crop production 
+inputs, with at least a 30 per cent lower CO2 impact than equivalent products, for example 
+fossil free fertiliser, low-carbon grain, and legume-based products such as pea-based protein. 
+It can also relate to investments in non-chemically treated seed for organic and conventional 
+cultivation. Regarding (iii) the eligibility criteria state that the project must be related to solar
+
+--- Page 6 ---
+6 
+ 
+and wind power, which includes facilities that produce electricity using solar photovoltaic (PV) 
+technology and facilities that produce electricity from wind power. The project can also involve 
+bioenergy and cover production facilities, including drying facilities, and manufacturing of 
+solid processed wood fuels based on waste products from the forestry and sawmill industries, 
+such as shavings and sawdust. Regarding (iv), the eligibility criteria state that the project must 
+be related to investments in recycling plants, where residues from the food industry are 
+processed into raw material in the plants for the production of bioethanol. Regarding (v), the 
+eligibility criteria state that the project must be related to buildings that have achieved, or are 
+designed to achieve, a certification in accordance with at least Miljöbyggnad ‘Silver’, combined 
+with a primary energy number at least 20 per cent lower than the level required by the national 
+building regulation. The project can also involve silos with fossil-free grain drying facilities 
+that are at least 20 per cent more energy efficient compared to standard drying facilities. 
+Regarding (vi), the eligibility criteria state that the project must be related to the purchase or 
+lease of light- and heavy-duty electric vehicles. 
+The evaluation and selection process for Green Projects is a key process to ensure that the 
+Green Projects comply with the eligibility criteria defined under the Green Project categories. 
+The Issuer’s overall management of environmental, social, corporate governance and financial 
+risks is a core component of the Issuer’s decision-making processes. The Issuer’s risk 
+management is stated in policies, guidelines and instructions, and their annual Enterprise Risk 
+Management process covers a broad scope of sustainability and responsibility risks. The 
+evaluation and selection process for Green Projects follows the same standard decision-making 
+process, ensuring that the Issuer selects and allocates Green Bond proceeds to eligible Green 
+Projects. As part of the selection process, the Issuer has established a Green Bond Committee 
+(the “GBC”) consisting of 7 members, including the Director Sustainable Development. The 
+GBC is solely responsible for deciding whether to acknowledge a project as an eligible Green 
+Project, and a consensus decision from the GBC is required to allocate net proceeds. 
+The Issuer uses a dedicated register (the “Green Register”) to monitor that an amount equal to 
+the Green Bond net proceeds issued are allocated to eligible Green Projects. The purpose of the 
+Green Register is to ensure that the Green Bond net proceeds only support the financing of 
+relevant Green Projects or to repay any Green Bonds outstanding. All Green Bonds are 
+managed at portfolio level, meaning that a Green Bond is not directly linked to one or more 
+predetermined Green Project(s). The Green Register forms the basis for the impact and 
+allocation reporting. Unallocated Green Bond net proceeds may temporarily be placed in the 
+liquidity reserve and managed accordingly by the Issuer. Such event does not entail an event 
+of default under such Loan. In such cases, Noteholders do not have the right to prepayment or 
+repurchase of a Green Bond or other compensation. 
+To enable the monitoring of performance and provide insight into prioritized areas, The Issuer 
+will annually and until full allocation of the Green Bonds issued, and in the event of any 
+material developments, provide investors with a Green Bond Report that describes the 
+allocation of net proceeds and the environmental impact of the Green Projects. The reports are 
+published on the Issuer’s website on an annual basis. An independent verifier, appointed by the 
+Issuer, will also on an annual basis, until full allocation, verify the internal tracking method and 
+the allocation of funds from the Green Bond net proceeds. Inadequate or non-existent reporting 
+by the Issuer as described above does not entail an event of default under such Loan. In such 
+cases, Noteholders do not have the right to prepayment or repurchase of a Green Bond or other 
+compensation. 
+The European Council and the European Parliament made a political agreement in December 
+2019 regarding the so-called taxonomy regulation (Regulation EU 2020/852) concerning a 
+harmonised classification system with rules as regards the assessment of green and sustainable 
+investments (the “Taxonomy Regulation”). The Taxonomy Regulation entered fully into force
+
+--- Page 7 ---
+7 
+ 
+on 1 January 2023 and imposes stricter rules for the assessment of sustainable financial 
+products and activities. In addition, regulation (EU) (2023/2631 of the European Parliament 
+and the Council of 22 November 2023 on European green bonds and voluntary disclosure for 
+bonds marketed as sustainable and for sustainability-linked bonds came into force in December 
+2024. The Issuer aims to ensure that the Green Framework as far as possible be compatible 
+with the Taxonomy Regulation. 
+1.3 
+Form of securities and identification 
+MTN issued under this MTN Programme are debt obligations issued in dematerialised form 
+and are connected to Euroclear Sweden’s account-based-system, which is why no physical 
+securities are issued. The International Securities Identification Number (ISIN) is specified in 
+the Final Terms of the respective Loan. MTN are freely transferable. 
+1.4 
+Admission to trading on a regulated market 
+The Issuer may submit an application for registration of certain Loans to Nasdaq Stockholm or 
+another regulated market as set out in the Final Terms. The relevant regulated market will, upon 
+receipt of the application, make its own assessment and then admit or reject that MTN are 
+registered. 
+1.5 
+Tax 
+Certain tax issues regarding Noteholders are summarised below. The summary is based upon 
+current law in force and is intended only as general information. The summary does not address 
+situations where MTN are held on an investment savings account (Sw. Investeringssparkonto) 
+or the regulation as regards the obligation to make income statements, for, e.g., payers of 
+interest. Noteholders should consult an independent tax advisor as regards Swedish and other 
+tax consequences (including the applicability and effect of tax agreements) as a result of 
+acquisitions, holdings and disposals of MTN depending on their specific circumstances. 
+1.5.1 
+Noteholders not resident in Sweden 
+Payments of any principal amount or any amount that is considered to be of interest for Swedish 
+tax purposes to the Noteholder should not be subject to Swedish income tax provided that such 
+Noteholder (i) is not resident in Sweden for Swedish tax purposes and (ii) does not have a 
+permanent establishment in Sweden with which the MTN are effectively connected. 
+However, provided that the value of or the return on the MTN relates to securities taxed as 
+shares, private individuals who have been residents of Sweden for tax purposes due to a habitual 
+abode or continuous stay in Sweden at any time during the calendar year of disposal or 
+redemption or the ten calendar years preceding the year of disposal or redemption, may be 
+liable for capital gains taxation in Sweden upon disposal or redemption of such MTN. In a 
+number of cases though, the applicability of this rule is limited by the applicable tax treaty for 
+the avoidance of double taxation. 
+Swedish withholding tax, or Swedish tax deduction, is normally not imposed on payments of 
+any principal or any amount that is considered to be interest for Swedish tax purposes except 
+in relation to certain payments of interest (and other distributions on MTN) to a private 
+individual (or the estate of a deceased individual) who is (or was) resident in Sweden for tax 
+purposes (see “Noteholders resident in Sweden” below).
+
+--- Page 8 ---
+8 
+ 
+1.5.2 
+Noteholders resident in Sweden 
+In general, for Swedish corporations and private individuals (and estates of deceased 
+individuals) with residence in Sweden for Swedish tax purposes, all capital income (for 
+example, income that is considered to be interest for Swedish tax purposes and capital gains on 
+MTN) will be taxable. Specific tax consequences may be applicable to certain categories of 
+corporations, for example investment firms or life insurance companies. Moreover, specific tax 
+consequences may be applicable if, and to the extent that, a Noteholder realises a capital loss 
+as well as in relation to exchange rate loss and exchange rate gains. 
+If amounts that are deemed as interest for Swedish tax purposes are paid by Euroclear Sweden 
+or by a legal entity domiciled in Sweden (including a Swedish branch), or a clearing institution 
+in another country within EES, to a private individual (or an estate of a deceased individual) 
+with unlimited tax liability in Sweden, Swedish preliminary taxes are normally withheld by 
+Euroclear Sweden or by the legal entity on such payments. Swedish preliminary taxes should 
+normally also be withheld on other returns on MTN (but not capital gains), if the return is paid 
+out together with such a payment of interest referred to above. 
+1.6 
+Costs 
+The Issuer is responsible for all costs associated with the admission to trading of MTN, such 
+as the costs of producing prospectus, admission to trading on a regulated market, other 
+documentation, fees to Euroclear Sweden etc. 
+1.7 
+Status 
+Loans constitute an unsecured bond with equal right to payment (pari passu) as the Issuer’s 
+other existing or future, unsubordinated, unsecured obligations without any preference among 
+themselves, except obligations which are preferred by mandatory law. 
+1.8 
+Sales, price, interest etc. 
+Sales will take place through the Dealers receiving issue and sale instructions from the Issuer. 
+In connection with the instructions, the price of the MTN is set, which may be over, under or 
+corresponding to the Nominal Amount. As the MTN under this MTN Programme can be issued 
+continuously for a long period of time, it is not possible to state a uniform sales price or 
+otherwise a fixed price for the MTN. Purchase and sales of MTN will be conducted on the 
+marketplace on which the instruments, as the case may be, are admitted. Payments for and 
+delivery of the MTN is made by the relevant Dealer through Euroclear Sweden’s system. 
+The market price of MTN is floating and may be affected by, for example, the current interest 
+rates for similar placements with corresponding tenors. 
+The returns of an MTN is a function of the price of which the MTN can be purchased, the 
+relevant applicable interest rate of the MTN and any brokerage or other costs for the purchase 
+of an MTN. 
+1.9 
+Governing law 
+MTN are issued in accordance with the laws of Sweden. Disputes concerning the Terms and 
+Conditions shall be settled by Swedish courts. The Stockholm District Court (Sw. Stockholms 
+tingsrätt) shall be the court of first instance.
+
+--- Page 9 ---
+9 
+ 
+1.10 
+Responsibility 
+Each investor shall, subject to its financial situation, determine the suitability of an investment 
+in MTN issued by the Issuer. In particular, each investor should: 
+i. 
+have sufficient knowledge and experience to make a meaningful evaluation of the Terms 
+and Conditions and the Final Terms of the respective MTN. The investor should evaluate 
+the merits and risks of investing in MTN on the basis of the information contained or 
+incorporated by reference in this Base Prospectus or any applicable supplement; 
+ii. 
+have access to, and knowledge of, appropriate analytical tools to evaluate an investment 
+in the MTN and the impact an investment in the relevant MTN may have on its overall 
+portfolio; 
+iii. 
+have sufficient financial resources and liquidity to bear all of the risks of an investment in 
+MTN, including interest and foreign exchange risks; 
+iv. 
+have thorough understanding of how any relevant index, MTN and financial operates; and 
+v. 
+be able to evaluate (either alone or with help of a financial advisor) possible scenarios for 
+economic, interest rate and other factors that may affect its investment and its ability to 
+bear the applicable risks.
+
+--- Page 10 ---
+10 
+ 
+2 
+Risk Factors 
+In this section, the risk factors and important circumstances which the Issuer considers to be 
+material relating to the Issuer’s operations and future development are illustrated. The risk 
+factors relate to the business, industry and markets of the Issuer and include operational risks, 
+legal risks, risks related to trademarks, tax risks, financial risks and risk factors relating to 
+MTN. The assessment of the materiality of each risk factor is based on the probability of its 
+occurrence and the expected negative impact. In accordance with the Prospectus Regulation, 
+the risk factors illustrated below are limited to those risks that are specific to the Issuer and/or 
+the financial instruments and which are essential for making an informed investment decision. 
+The below illustration is based on information available as of the date of this Base Prospectus. 
+The risk factors are presented in categories where the currently most material risk factors in a 
+category are presented first under that category, whilst subsequent risk factors in the same 
+category are illustrated in no particular order. The below risks and uncertainties may have a 
+material adverse effect on the Issuer’s business, financial position and/or result. 
+2.1 
+Risks related to global factors and markets 
+2.1.1 
+Climate and weather changes may lead to a poorer harvest and increasing 
+commodity prices 
+Parts of the Issuer’s business are largely affected by the weather impact of climate change. The 
+weather is the single largest factor affecting the size and quality of the harvest and thus the 
+international grain and commodity prices. Climate change with more extreme weather 
+situations, for example drought and extreme rainfall, also affects growing conditions for the 
+most important crops and commodities of the Issuer. There are also risks to ecosystem services 
+from increased rates of animal and plant diseases. Long-term temperature increases affect 
+facilities, including refrigeration and operating systems, and product quality. Some of the 
+Group’s facilities are further located in areas with elevated risk of landslides, floods and storms. 
+In the long term, the climate and weather changes may affect the availability of raw material 
+and water of good quality as well as affect the soil and the possibility to reduce the occurrence 
+of pests and vermin on crops. Therefore, there is a risk that the weather impact of climate 
+change, in Sweden and globally, may have extensive negative consequential effects on the 
+profitability in the grain value chain and for the Issuer. A decreased profitability of the Issuer 
+would have a material impact on the Issuer’s earning capacity and would, amongst other things, 
+lead to cost-saving measures and lead to a reduced ability to invest in and develop the business. 
+2.1.2 
+The Issuer is exposed to macroeconomic factors and political uncertainty 
+The demand for the Issuer’s products may in the long term be affected by macroeconomic 
+changes such as economic growth, changes to the economic sentiment and customer behaviour, 
+demographic changes and population growth. The Issuer is particularly dependent on the 
+economic situation in Sweden and Europe, where it conducts most of its business. 
+During the past years, several events such as Russia’s invasion of Ukraine and the geopolitical 
+tensions and civil unrest in the Middle East have occurred, with the full extent of their long-
+term effects on the global economy yet to be determined (see further risk factors Risks related 
+to investments in (geo)political high-risk countries and The Issuer is exposed to changes to 
+commodity and energy prices below), as well as other political uncertainties, including instable 
+relations between powerhouse nations that create escalating trade restrictions and 
+countermeasures. Political uncertainty creates extensive economic uncertainty and the 
+introduction or removal or the increase or decrease of tariffs and taxes could complicate the 
+export of the Issuer’s products. For example, the United States has threatened to introduce 
+tariffs aimed at certain European industries, which could affect both the Swedish and the joint
+
+--- Page 11 ---
+11 
+ 
+European export and investment capacities. As per 31 December 2024 the Issuer’s sales to 
+markets outside of Sweden amounted to 51 per cent. Limitations in the possibility for the Issuer 
+to export its products to other markets could increase the cost of the Issuer’s products, which 
+could lead to a decreased demand for its products and hence lead to lower profits. It is difficult 
+to foresee political changes, but should any of the risks mentioned above materialise, the Issuer 
+believes that it, depending on the scope of the materialised risk, could have a material adverse 
+effect on the Issuer’s ability to operate in relevant jurisdictions and lead to the Issuer being 
+forced to close parts of its businesses, which could affect the revenue from said sectors. A 
+worsened economic sentiment could lead to decreased purchase power among the Issuer’s 
+customers and consequently to decreased or no revenue for the Issuer. In an economic downturn 
+there is a risk that the Issuer could experience difficulties maintaining a profitable pricing. An 
+increase or decrease of the Issuer’s sales prices by +/- 1 per cent, based on the conditions as of 
+31 December 2024, would have affected the Issuer’s turnover with +/- 680 MSEK and its 
+operating profit by approximately +/- 23 MSEK annually. The Issuer’s exposure towards risks 
+associated with economic downturn is limited by the fact that its food and energy operations 
+traditionally are less sensitive for changes to the economic sentiment than other industries. 
+However, the Issuer’s assessment is that an economic downturn could have a negative effect 
+on the Issuer’s revenue-generating opportunities. 
+2.1.3 
+The Issuer is exposed to changes to commodity and energy prices 
+Grains and other commodities constitute a large proportion of the Issuer’s costs and the Group 
+is therefore exposed to fluctuations in the price of applicable commodities, as increased prices 
+for commodities increase the Issuer’s costs correspondingly. Commodity prices fluctuate 
+depending on the supply and demand for the applicable commodities on the global markets, 
+which, among other factors, is affected by weather and climate. The Issuer is especially 
+vulnerable to fluctuations in the price of wheat, rapeseed, barley oats, ethanol and electricity. 
+Further, there is a global instability to the supply and demand for commodities and input 
+commodities (Sw. insatsvaror). Pandemics, political instability, war and weather are all factors 
+which affect the price for commodities, packaging material, semiconductors and energy 
+commodities (Sw. försörjningsmedia) as electricity, gas and steam. Said factors further 
+influence logistics and transportation opportunities. Russia’s invasion of Ukraine and the 
+economic sanctions imposed by the European Union pertaining thereto continue to affect the 
+supply of certain Russian farming products, such as raw material for feed production and 
+mineral fertilizer. It has also led to high levels of inflation during recent years, which has 
+affected the price of commodities. However, the impact on the Issuer is minor since the Issuer 
+actively hedges its exposures in commodities through physical commodity and financial 
+derivatives according to specific risk directives. The Issuer’s compliance with the sanctions 
+regulations has led to stopped business relations with some suppliers with direct or indirect 
+Russian ownership. The shortage of mineral fertilizer and/or increased fertilizer costs for 
+farmers could affect crop yields in Sweden. As Ukraine is an important grain producer, Russia’s 
+invasion of Ukraine could affect the supply of grains and global grain prices. However, the 
+business in Ukraine continues to produce and distribute food and has compensated for reduced 
+domestic volumes with an increased share of exports to neighbouring countries. Further, the 
+price fluctuations could increase due to a great demand for commodities and limited 
+opportunities to increase land use for farming globally and increased uncertainty regarding 
+global crop yields due to climate change. 
+The profitability of the Issuer’s Biorefineries business that refines grains to ethanol is highly 
+dependent on the price relation between ethanol and grains. Both the price of ethanol and the 
+input product grains are independently determined by the global markets. The uncertainty as 
+regards the price ratio between grains and ethanol makes the production margin difficult to 
+predict. Increased grain prices could force the Issuer to increase the price of the end product, 
+which could lead to a decreased demand. The extent of the negative effects is mainly 
+determined by the price discrepancy between ethanol and grains, where the Issuer profits from
+
+--- Page 12 ---
+12 
+ 
+a low price for grains and a high price for ethanol. Markets normalized in 2022 following 
+restrictions linked to Covid-19 but were then heavily affected by Russia’s invasion of Ukraine. 
+The price of ethanol remained high throughout 2023 but dropped significantly in 2024 
+compared to previous years. The Issuer’s ethanol is sold in the European market where there is 
+high demand for biofuels with high climate performance. The Swedish market for ethanol with 
+high climate performance is expected to increase following the government's proposal for an 
+adjusted reduction obligation (Sw. reduktionsplikt). The recycling business with residual 
+products from the food industry further creates a circular economy and contributes to 
+profitability. 
+The Issuer consumes vast amounts of energy, mainly electricity and gas, in its business 
+operations. Through its energy-intense operations, the Issuer is exposed to risks related to 
+changes to energy prices. If the Group fails with its strategy to price-protect its electricity 
+supply, the Issuer could see increased costs which could have a direct effect on its financial 
+results. Based on the conditions on 31 December 2024, a change to the electricity price by +/- 
+10 per cent would lead to a value change of the Issuer’s price-protection by +/- 59.5 MSEK and 
+a change to the price of gas by +/- 10 per cent would lead to a value change to its gas-price-
+protection by 14.9 MSEK annually. Increased energy costs could further lead to increased 
+operating costs for the Issuer and affect its operating profit. The full extent of the negative 
+effects is mainly dependent on whether the Issuer can roll over the increased costs onto its 
+customers by increasing prices. 
+The market for the Issuer’s end products is price-sensitive and even small price increases could 
+lead to a significant loss of customers. Should the Issuer not be able to pass over its increased 
+costs to its end customers, the Issuer could see decreased profitability that could force it to 
+impose cost-saving measures. It would further harm the Issuer’s ability to invest in and develop 
+its business, which could lead to a worsened market position and the Issuer having to shut down 
+parts of its business. Increased costs of commodities and energy could further lead to a 
+worsened result, which could have a negative effect on the Issuer’s ability to fulfil its 
+obligations towards its MTN-holders. 
+2.1.4 
+The Issuer is exposed to heavy competition 
+ 
+The Issuer operates on markets with relatively stable demand and strong price competition. The 
+Issuer’s farming, machinery, energy and food businesses are conducted on different markets, 
+which makes the Issuer exposed to competition from different actors on said markets. For 
+instance, there is strong price competition within the food industry where the Issuer sees a 
+continuously strong competition from the grocery chains’ own brands, in addition to the 
+competition from other actors. The food market is further characterized by low entry barriers, 
+which could lead to competitors that are currently focused on other customer segments or 
+geographic markets could start offering products to the Issuer’s customers, which could further 
+increase competition. Should said risk materialise, the full extent of the negative consequences 
+will be determined by which of the Issuer’s products that will be exposed to said competition, 
+and the loyalty among the Issuer’s customers. All development which could lead to increased 
+competition can have a direct effect on the Issuer’s business, either by a loss of market shares 
+or through increased price pressure and decreased profitability. 
+ 
+2.1.5 
+The demand for the Issuer’s products is affected by the Issuer’s ability to adapt its 
+business operations after consumer behaviour and trends 
+The Issuer’s ability to create demand for its food products is dependent on its ability to monitor 
+and adapt to market trends. Consumer behaviour, and hence the demand for the Issuer’s 
+products, is dependent on factors such as trends within health, diet and animal welfare among 
+others. Due to the current health trend, the Issuer’s food branch, which amounted to 30 per cent
+
+--- Page 13 ---
+13 
+ 
+of the Issuer’s turnover in 2024, has increased its investments in, and its offerings of, fibre-rich 
+bread products and a breakfast assortment based on oats. Further, the Issuer invests around 400 
+MSEK annually in its own and external research projects to comply with future demand and 
+other challenges. There is a risk that current market trends which the Issuer invests in fades. 
+Further, there is a risk that it emerges trends which could have a negative effect on the demand 
+for the Issuer’s products. 
+A significant share of the Issuer’s grocery products is sold through the sale of daily consumer 
+goods (Sw. dagligvaruhandeln). Consumer behaviour is affected by how resellers present the 
+products that are being sold, for instance by store and shelf placement, the volume offered and 
+the extent of marketing activities. The Issuer’s grocery products compete with other grocery 
+products and meal solutions, including the grocery stores’ own brands. There is a risk that the 
+exposure of the Issuer’s products will decrease. 
+In past years there has been a change to the customer channels, and digitisation has become an 
+increasingly important way for companies to reach out to its customers. For instance, the e-
+commerce of groceries has increased. There is a risk that the Issuer fails to adapt after new 
+consumer behaviours and distribution channels, which could lead to difficulties for the issuer 
+to reach out to its customers. 
+Decreased demand for the Issuer’s products because of the above-mentioned factors could lead 
+to the Issuer losing market shares to competitors and hence generating lower revenue, or none 
+at all. Risks relating to trends and changes to consumer behaviour are therefore significant and 
+could lead to lower revenue, operating profit and profit margin for the Issuer if it fails to adapt. 
+The full extent of the negative consequences is mainly dependent on the Issuer’s ability to 
+predict and adapt its business after trends and consumer behaviour. 
+2.1.6 
+Risks related to investments in geopolitical high-risk countries 
+The Issuer is exposed to geopolitical risk in its business. To evaluate such risks the Issuer carries 
+out a risk assessment on a continuous basis in all countries the Issuer has business operation in. 
+The analysis is based on country ratings made by market leading external rating agencies. 
+In 2024 it was only Ukraine that has a substantial credit risk rating, defined as an official credit 
+rating at CCC+ or lower. In 2024, the Issuer’s turnover in Ukraine amounted to 229 MSEK, 
+which was only 0.3 per cent of the Issuer’s total turnover. Consequently, only a limited and 
+very small amount of the Issuer’s total production and purchases is conducted in countries with 
+higher geopolitical risk. 
+The production at the Issuer’s site in Boryspil outside of Kyiv has after the Russian invasion of 
+Ukraine been adversely affected. However, during 2024 the operations in Ukraine continued to 
+produce and distribute food and have compensated for the decline in domestic volumes with an 
+increased share of exports to neighbouring countries.  
+During the past decades the economic growth in geopolitical high-risk countries has been 
+uneven across different regions and economic sectors. The economies of the geopolitical high-
+risk countries differ from other well-developed countries when it comes to the general education 
+level, the economic growth rate, import and export control and the allocation of resources. The 
+legal systems in said countries are further not as developed as those in Western Europe, 
+especially when it comes to the protection of rights. 
+Further, there is a risk that authorities in geopolitical high-risk countries do not apply regulatory 
+demands consistently. Such inconsistent application could complicate the compliance with 
+applicable regulations, prolong certain transactions and registration matters and lead to more 
+unpredictable court proceedings compared to other jurisdictions. Said shortcomings could lead
+
+--- Page 14 ---
+14 
+ 
+to difficulties enforcing rights under agreements or applicable laws. The Issuer could therefore 
+be affected by uncertainties as regards the alteration of applicable laws or the interpretation of 
+said laws, the geopolitical development in Sweden and abroad, taxation, interest rates, foreign 
+exchange restrictions, import and delivery restrictions, currency devaluation, nationalization or 
+other expropriation of private companies and property and other geopolitical or economic 
+change. 
+Such geopolitical uncertainty could be resource-intensive and time-inefficient, which could 
+strain the Issuer’s ability to conduct its business according to its set strategy or even force the 
+Issuer to cut its business relations with the relevant country and stop its business operations 
+therein. As of today, such limitations to the Issuer’s ability to conduct business in geopolitical 
+high-risk-countries are not significant, with the exemption for Ukraine. However, such 
+significant limitations could emerge, which could have a material adverse effect on the Issuer’s 
+business operations and future prospects. If said risks were to materialise, the extent of the 
+damage incurred would mainly be dependent on which part of the Issuer’s business that would 
+be affected. All developments which could force the Issuer to limit parts of its business could 
+have a direct negative effect on the Issuer’s financial results and negative synergies on other 
+parts of its business. 
+In August 2023 the Russian operations was divested, and the Issuer has thus completely left the 
+Russian market. 
+2.2 
+Risks related to the operations 
+2.2.1 
+The Issuer is exposed to risks related to acquisitions, entry into new geographical 
+markets and disposals   
+The growth strategy of the Issuer is dependent on disposals and acquisitions and creation of co-
+operative corporations with other actors, and the Issuer completes several significant 
+acquisitions, disposals and partnerships annually. Mergers and acquisitions by the Issuer can 
+entail several risks and operational challenges for the business of the Issuer, including 
+challenges to integrate acquired businesses and staff and to retain and motivate key staff from 
+acquired companies. Integration of businesses can also disrupt the on-going operations of the 
+Issuer, distract the senior management from their daily responsibilities and inflict obligations 
+and responsibilities and lead to increased costs. Future acquisitions can also reduce the Issuer’s 
+cash reserve and increase its debt. If the Issuer fails to identify, complete or integrate attractive 
+possibilities for acquisitions on beneficial terms, it can lead to reduced growth and that potential 
+synergies do not realize according to plan. 
+The Issuer’s growth strategy also includes expansion of the operations to new geographical 
+markets. Entry into new geographical markets is associated with several risks, such as the 
+ability to comply with new regulations, to conduct an accurate market assessment and to recruit 
+and retain competent staff. There is a risk that parts of the business model of the Issuer which 
+are successful in existing markets will not be successful in new geographical areas or that the 
+markets for the Issuer’s services does not grow in line with the expectations of the Issuer. If the 
+Issuer fails to accurately assess the possibilities and risks related to geographical expansion and 
+consequently fails to establish in new markets, this could have a negative effect on the Issuer’s 
+possibilities to generate a profitable growth.  
+The Issuer can also divest businesses, companies or properties that no longer fit into the strategy 
+of the Issuer, or for other reasons. Several factors can impact if a potential disposal is successful, 
+for instance the ability of the Issuer to identify buyers and the Issuer’s ability to negotiate 
+beneficial terms in relation to the disposal for the Issuer. Further, it is possible that the Issuer 
+must enter into guarantees or incur certain obligations in connection with such a disposal, which 
+can be claimed against the Issuer. There is a risk of difficulties related to disposals of assets or
+
+--- Page 15 ---
+15 
+ 
+business in the future, or that the Issuer fails to conduct such disposals on beneficial terms, 
+which can result in unforeseeable costs an unfavourable allocation of significant internal 
+resources. 
+In 2024, the overall growth of the Issuer was positive and amounted to 4.2 per cent compared 
+to 2023, of which 10.3 per cent related to acquired and divested operations, with Scan 
+contributing 6,886 MSEK. Currency conversion effects accounted for -0.1 per cent and the 
+organic growth was -5.9 per cent. In 2023, the organic growth amounted to approximately 3.8 
+per cent and growth relating to acquisitions and disposals to approximately 1 per cent. In light 
+of the number of historical transactions which have been completed by the Issuer, the exposure 
+to risks related to acquisitions, entry into new markets and disposal, is large. If these risks were 
+to materialise, there is a risk for a significant negative effect on the growth and profitability of 
+the Issuer. In case any of the risks were to materialise, the extent of the negative effects would 
+depend on several factors, including the size of the transaction or investment, expected 
+synergies and effect on the strategic focus of the Issuer. 
+2.2.2 
+The Issuer is dependent on a well-functioning IT system and network security 
+The Issuer is dependent on being able to maintain a secure and well-functioning IT environment 
+for all parts of the business. In particular, the Issuer is dependent on well-functioning IT systems 
+during the summer season, when most of the harvesting is done and large amounts of grain 
+shall be retrieved every day, be subject to quality controls and stored correctly. There is a risk 
+that the Issuer suffers from interruptions or disturbances in its IT systems, for instance due to 
+intrusions, sabotage, viruses, errors or other internal factors such as lack of competence or faulty 
+hardware. Interruptions or disturbances in the IT systems can entail that the business, during a 
+certain period, cannot be conducted as planned, for instance as a result of interruption of the 
+production or that receipt of grains can be made more difficult, in addition to making it more 
+difficult to obtain information or completely preventing the ability to do so, which can lead to 
+reduced turnover, delays in deliveries and costs relating to investigations. The extent of the 
+damage which can be incurred is mainly dependent on the importance of the part of the business 
+which is affected and the extent and time frame of the interruption. The Issuer conducts 
+proactive and continuous work based on an elaborate risk management programme, including 
+loss prevention inspections. Insurance is available for operational risks, including through the 
+Group's own insurance company, Dirual Försäkrings AB 
+2.2.3 
+Risks related to the suppliers of the Issuer  
+Certain of the Issuer’s business areas are exposed to counterparty risks and are dependent on 
+suppliers for its business, such as suppliers of soy as an ingredient in forage, palm oil as an 
+ingredient in produce and forage respectively and grains for production of ethanol. Therefore, 
+the Issuer can be affected negatively if its suppliers suffer from economic, legal or operational 
+issues, become subject to sanctions, increase their prices, if they are not able to deliver as agreed 
+or deliver products of a lower quality. Such factors can affect the Issuer’s ability to purchase 
+products on time and to a reasonable price, or deliver products to its customers, which can lead 
+to dissatisfaction, damaged customer relations and lower sales. If the Issuer is forced to 
+purchase goods from other suppliers in order to be able to fulfil its obligations towards 
+customers, certain issues with the transfer can occur and require products to be tested and 
+quality-controlled again, which requires resource allocation in terms of both time and money, 
+which could result in increased costs for the Issuer. 
+The Issuer has a large number of suppliers all over the world, whose business the Issuer does 
+not have insight to or is able to control. There is therefore a risk that suppliers act in a manner 
+which damages the Issuer, for instance by acting in breach of the Issuer’s Suppliers’ Code of 
+Conduct (Sw. leverantörsuppförandekod), which, amongst other things, includes provisions 
+requiring the supplier to draft and comply with effective routines to prevent corruption, bribes,
+
+--- Page 16 ---
+16 
+ 
+money-laundering and unlawful restriction of competition, in all its operations. The Issuer 
+utilizes a monitoring method to measure suppliers’ compliance with the Issuer’s sourcing 
+policy. For high and medium-risk suppliers in particularly risky markets, background checks in 
+the form of due diligence are carried out. The target for completed supplier audits has also been 
+updated. In 2024, 96 per cent of high and medium-risk providers were approved. If the suppliers 
+of the Issuer breach applicable laws or do not comply with the suppliers’ code, it can lead to 
+negative publicity for the Issuer. A worsened reputation can lead to the loss of customers, 
+decrease in the value of the trademark and lower revenues, which in turn affects the Issuer’s 
+profitability and appeal as an employer. 
+2.2.4 
+Risks associated with the environment 
+Environmental impact from the Issuer’s operations occurs primarily in the cultivation, from 
+fossil fuels, production of fertilizer and from land when the soil has been processed and grains 
+grow. In later years, focus on environmental and climate issues has increased, both from media 
+and in politics. The Issuer has entered into certain non-financial goals related to its 
+environmental impact and work with targets for reduced environmental impact in its own 
+operations, purchased transports and primary production. The overall goal is to have a pace of 
+reduction in line with the Paris Agreement in the whole value chain. If the Issuer fails to achieve 
+its non-financial targets related to the environment it can lead to negative publicity. 
+The Issuer’s different businesses are subject to several environmental and other protective rules 
+in form of legislation and regulations from authorities in the different jurisdictions where the 
+Issuer has or has had production facilities. As the Issuer’s production facilities are located in 
+over 20 different countries around the world, compliance with such requirements can be 
+complex and time consuming. Such regulations cover, amongst other things, production, 
+storage, usage, post-processing, emissions, handling and transport of hazardous substances and 
+work environment. If the Issuer fails to comply with applicable environmental legislation or to 
+obtain necessary permits, the Issuer can be subject to penalty fees or other sanctions. During 
+2022, 2023 and 2024, the Issuer has not been subject to any significant penalty fees or sanctions 
+because of breaches of environmental legislation. In this respect, significant fines are penalties 
+which exceed SEK 500,000 or which, due to the nature of the non-compliance, may 
+significantly affect the Group’s finances or reputation. 
+If the Issuer fails to comply with applicable environmental rules it can lead to that the Issuer is 
+forced to shut down parts of its business, limit its strategy and be subject to significant penalty 
+fees. Increased costs can affect the Issuer’s operating profit, which in turn can affect the Issuer’s 
+possibility to finance other parts of the business, including investments and acquisitions. 
+Further, the negative publicity will have a direct effect on the market’s image of the Issuer and 
+can lead to a significantly reduced potential for revenue for the Issuer. Environmental risks are 
+therefore significant for the business of the Issuer, competition and future outlooks. In case the 
+abovementioned risks materialise, the extent of the negative effects will be dependent on the 
+extent of the costs of penalty fees, sanctions or remediation measures and to what extent such 
+costs are covered by the Issuer’s insurances and the effect any potential damage to the 
+reputation of the Issuer can have on the products of the Issuer. 
+2.2.5 
+The Issuer’s products can be a risk to health 
+There is a risk that the Issuer, primarily through its business within produce and farming, is 
+subject to infections or sabotage where persons, individually or in concert, deliberately or not, 
+contaminate the Issuer’s products so that the products pose a health risk to customers. Within 
+the agriculture sector, the Issuer can be exposed to sabotage of animal feed and salmonella 
+contaminations in rapeseed flour and can be forced to withdraw products, which can result in 
+remediation measures. The occurrence of, or outbreak of infections, such as salmonella, can 
+reduce the market’s demand for the Issuer’s products significantly and lead to lower prices.
+
+--- Page 17 ---
+17 
+ 
+Further, sabotage can lead to the Issuer being forced to withdraw products and to a decreased 
+demand for the Issuer’s products in addition to leading to large costs, including damages which 
+are not always covered by applicable insurances, lower prices and profitability, factors which 
+combined lead to a lower operating profit. The abovementioned risks could also lead to that the 
+Issuer is forced to shut down parts of its business, which could lead to reduced revenues. 
+Similarly, lack of quality in the Issuer’s products, for instance because of contamination, 
+disease or sabotage, can lead to a lower value of the Issuer’s trademark which, in addition to a 
+negative effect on sales also reduces the appeal of the Issuer as an employer.  
+2.2.6 
+Risks associated with product liability 
+The production of food products is subject to special regulations when it comes to ingredients 
+and origin. The Issuer’s production process is heavily controlled to ensure that its products are 
+reliable and not damaged with errors that could harm the consumer. There is a risk that flaws 
+pass through the Issuer’s controls or that the controls are not properly structured. Further, there 
+is a risk that conditions beyond the Issuer’s control could cause problems. For instance, the 
+Issuer could be subject to sabotage where the Issuer’s products are contaminated on purpose. 
+Who to be held liable in case of such disruptions depends on the circumstances of the individual 
+case, but the Issuer could incur costs in the form of damages. 
+The Issuer’s current and future business operations in the United States are associated with 
+specific risks related to product liability. In 2024, the Issuer’s sales in the United States 
+amounted to approximately 2 per cent of its total turnover. In the United States, product liability 
+lawsuits and tort proceedings are far more common and amount to significantly higher sums 
+than in Sweden. 
+As of today, the Issuer has not experienced significant costs related to product liability. Should 
+any of the risks mentioned above materialise there is a risk that the Issuer’s insurance coverage 
+will not be sufficient to fully cover all potential claims towards the Issuer. The cost of fully 
+reimbursing all claims not covered by the Issuer’s insurance could be significant. Should the 
+above-mentioned risk materialise, the extent of the negative consequences for the Issuer would 
+mainly depend on the amount of the claims, and to what extent its insurance company would 
+reimburse said claims. All significant costs affect the Issuer’s result negatively, which could 
+lead to decreased profitability.  
+2.2.7 
+Risks relating to the European Commission’s inspection of Biorefineries’ site in 
+Norrköping 
+The energy industry is seen as a risk sector when it comes to antitrust-behaviour and companies 
+that operate within the sector are from time to time subject to investigations by, or procedures 
+against, competition authorities. 
+In October 2014, the European Commission conducted unannounced inspections at the 
+premises of several companies in Europe active within the bioenergy industry, including 
+Lantmännen Biorefineries (formerly Lantmännen Agroetanol) in Norrköping. Since October 
+2014, the European Commission has investigated Lantmännen Biorefineries and other 
+companies for infringement of the European Union’s antitrust regulations regarding ethanol 
+trade. In December 2023, Lantmännen Biorefineries received the European Commission’s 
+decision. The European Commission has found that Lantmännen Biorefineries during a period 
+more than 10 years ago was involved in an infringement of European competition rules in the 
+ethanol trade. In light of this, the Commission has imposed a fine of 47.7 MEUR on the Issuer 
+and Lantmännen Biorefineries jointly and severally. As a result of the European Commission’s 
+investigation, Lantmännen Biorefineries has previously recognised a provision of 500 MSEK. 
+The Issuer has cooperated fully with the European Commission throughout the investigation, 
+including paying the full fine in March 2024, but contests the conclusions of the Commission’s
+
+--- Page 18 ---
+18 
+ 
+decision and will continue to fully exercise its rights of defence, including appealing the 
+decision to the European Court of Justice in 2024. If Lantmännen Biorefineries is ultimately 
+required to pay the sanction fee, it would lead to decreased resources for conducting and 
+developing its business. 
+2.2.8 
+Dependency on employees with key skills  
+Employees with key skills within farming, product development, manufacturing, the processing 
+industry, sales, marketing, IT-security, business development, finance, strategy and project 
+management are of great importance to the Issuer’s business operations and the Group’s future, 
+especially as regards the implementation of strategic targets and to effectively lead and control 
+the Issuer’s business operations on competitive markets. The Issuer is therefore dependent on 
+recruiting and retaining qualified and experienced personnel. 
+The Issuer is on the verge of a generational change with employees retiring and handing over 
+to a younger generation in the coming years, which stresses the need for the Issuer to ascertain 
+future competence. The Issuer could have difficulties in replacing key employees with certain 
+skills, should they quit, leave for competitors or retire. In a business environment characterized 
+by tough competition and quick turnarounds due to increased digitisation and e-commerce, it 
+is important to attract and keep employees with the right skills, experience and values. 
+The aforementioned changes could be especially challenging on growth markets, where the 
+competition for qualified labour is high and the pool of qualified labour is limited. Said 
+competition could further lead to higher compensation levels, which would have a negative 
+effect on the Issuer’s financial result. During the financial year 2024, the Issuer’s cost for 
+salaries and social security contributions for its employees amounted to 8,530 MSEK. An 
+increase of the Issuer’s salary costs (including social security contributions) by 1 per cent 
+would, based on the conditions as of 31 December 2024, have affected its operating profit by 
+85 MSEK annually. However, should the Issuer’s salary levels be too low, it would risk its 
+employees resigning which could have a material adverse effect on the Issuer’s competitiveness 
+and business operations. 
+There is a risk that the Issuer will not be able to recruit and retain qualified personnel, which 
+could have an adverse effect on the Issuer’s ability to develop its business operations. Shortage 
+of expertise or resources may in the long term have a negative impact on the Issuer’s 
+competitiveness, organisation and ability to reach its strategic targets. Such setbacks could lead 
+to significant future revenue loss and a negative impact on the Issuer’s operating profit and 
+future prospects. 
+2.2.9 
+Risks relating to the form of business 
+The Issuer is a cooperative association (Sw. ekonomisk förening). The Issuer’s restricted equity 
+consists of paid and issued investment capital. As of 31 December 2024, the Issuer’s equity 
+amounted to 5,119 MSEK. As of the same date, the total equity of the Group was 25,674 
+MSEK. The investment capital in a cooperative association is not as regulated as the share 
+capital in a Swedish limited liability company (Sw. aktiebolag). Should a member cease its 
+business operations or otherwise resign from the cooperative association, the member’s 
+investment capital is typically repaid over a three-year period. The individual members’ 
+investment capital is only a limited part of the Issuer’s total equity. Compared to a public limited 
+liability company, it is more difficult for a cooperative association to obtain new equity from 
+its owners since all existing and potential new owners must fulfil the business-relation 
+requirement (Sw. kravet på affärsrelation) and a cooperative associations cannot obtain new 
+equity by issuing new shares or rights.
+
+--- Page 19 ---
+19 
+ 
+Should the Issuer lose members or fail to obtain new equity, the Issuer’s ability to finance 
+investments and acquisitions could be affected, which could lead to decreased economic 
+growth. 
+2.3 
+Risks related to intellectual property rights 
+2.3.1 
+Intellectual property rights and trademark infringements 
+The Issuer is dependent on its ability to protect its intellectual property rights. Most of the 
+products of the Issuer are sold under well-established trademarks such as AXA, Kungsörnen 
+and GoGreen. There is a risk that the measures taken by the Issuer to protect its trademarks, 
+names and trade secrets in countries where the Issuer is not present are not sufficient and that 
+the Issuer thus can have difficulties to defend its registered trademarks and other intellectual 
+property rights. If the Issuer fails to protect its intellectual property from actors which try to 
+take advantage of the Issuer’s trademark or reputation in marketing its own products, it can lead 
+to costly disputes or other legal proceedings in respect of the intellectual property rights. If, for 
+instance, another party sells products of low quality under a trademark or features protected by 
+the Issuer, there is a risk for mix-up or association with the products of the Issuer, which can 
+significantly limit the competitiveness of the Issuer or damage its reputation. Costs for 
+rebuilding a damaged reputation in the market can be significant and reduce the cash flow of 
+the Issuer. A reduced cash flow can affect the possibilities of the Issuer to invest in further 
+development of the operations, which can severely damage the future outlooks of the Issuer. 
+As far as the Issuer is aware, there is no infringement in a third-party’s intellectual property 
+rights and the costs to defend the trademarks of the Issuer has historically been limited. There 
+is a risk that the Issuer, going forward, for instance as a result of the launch of products or in 
+connection with establishment in new geographic markets, potentially may infringe, or be 
+accused of infringement of, a third-party’s intellectual property rights. In case the Issuer would 
+be forced to defend itself in a legal dispute regarding intellectual property, significant legal 
+costs could be incurred, in addition to potential damages, which can force the Issuer to shut 
+down part of its operations, which in turn would have a negative effect on the operating profits 
+and future outlook of the Issuer. 
+2.3.2 
+The Issuer is exposed to risks relating to the value of goodwill and other intangible 
+assets with an undefined usage period 
+As per 31 December 2024, the Group’s value of goodwill and other intangible assets with an 
+undefined usage period amounted to 6,429 MSEK which constituted 11.7 per cent of the 
+Group’s total assets. There is a risk that circumstances which are the basis of the Issuer’s 
+valuation of its goodwill and intangible assets can change and that certain depreciation may 
+have to be made in respect to goodwill and/or intangible assets. Depreciation of goodwill and 
+other intangible assets with an undefined usage period is tested annually or as soon as there are 
+indications that a demand for deprecation is at hand, for instance due to a changed business 
+climate, a decision on disposal or shutdown of operations. The annual tests during the three 
+previous financial years have not resulted in a depreciation. 
+To the extent such a test would result in depreciation, it would affect the Issuer’s balance sheet 
+and income statement, and overall value, negatively. 
+2.4 
+Legal and political risks 
+2.4.1 
+Risks related to changed legislation 
+The market for energy, food and agriculture operations is subject to extensive regulations. 
+Given that the Issuer conducts business in a large number of countries, for instance Sweden,
+
+--- Page 20 ---
+20 
+ 
+Denmark, Finland, Norway, the Baltics, Belgium, France, the Netherlands, the United 
+Kingdom, Germany, the USA and Ukraine, the Issuer is affected by, and has to observe, 
+extensive and complex regulation on an international, national and local level, and does to a 
+certain extent operate a regulated business. For instance, the Issuer conducts a regulated 
+business at 19 sites and operations subject to registration at 70 sites pursuant to the Swedish 
+Environmental Code (Miljöbalk (1998:808)) only in Sweden. 
+As a result of regulations regarding production of ethanol, the Issuer is through its operations 
+conducted by Lantmännen Biorefineries, exposed to certain risks. One of the most important 
+regulatory questions for Lantmännen Biorefineries in Sweden is the so-called certain customs 
+provision for ethanol, which regulates which level to apply in relation to import of ethanol from 
+non-EU countries in customs. There is a risk that an abolishment of the certain customs 
+provision will lead to that ethanol produced in Sweden will be exposed to increased competition 
+and price reductions. Further, the EU’s renewable energy directive (RED III) entered into force 
+in 2023 and is now implemented in the member states. The directive can lead to a lower demand 
+of crop-based bio-fuels in the EU, which can affect the price and demand of ethanol from 
+Lantmännen Biorefineries. If Lantmännen Biorefineries, which refines grains to ethanol, is not 
+able to adapt its operations subject to changed regulatory demands pursuant to RED III and 
+other regulations in a financially effective way, there is a risk that the business and financial 
+situation of the business can be affected negatively. This can, in turn lead to that Lantmännen 
+Biorefineries cannot conduct its operations as desired. During 2024, Lantmännen Biorefineries, 
+amounted to 10 per cent of the Issuer’s total net turnover from contracts with customers. 
+Further, there is a risk that changes to laws, regulations, accounting principles and other rules, 
+in addition to changes of EU-regulations, including the interpretation thereof, can lead to more 
+limitations or stricter requirements for the operations of the Issuer. The Issuer can also be 
+obligated to pay fees, fines, penalties or other sanctions due to breaches of applicable rules. 
+Amended rules can also lead to decreased demand in respect of the products of the Issuer, that 
+the Issuer is forced to lower its prices or that the Issuer is forced to adapt its operations, which 
+can lead to measures for saving or a reduced capability to make investments. As a result of 
+changes to regulations, the Issuer can also be forced to allocate significant financial resources 
+to compliance, which can affect the Issuer’s operating profit. Considering that large amounts 
+of the Issuer’s operations are subject to extensive regulations, the Issuer and its operations are 
+exposed to the abovementioned risks. Consequently, risks relating to changes in legislation are 
+significant for the Issuer. 
+2.4.2 
+Risks relating to permits 
+Parts of the Issuer’s operations require permits, and the Issuer is therefore obligated to obtain 
+the required permits to be able to conduct its operations. In Sweden, the Issuer conducts 
+operations which require permits on 19 sites and operations which require notifications to the 
+relevant authority on approximately 70 sites in accordance with the Swedish Environmental 
+Code. The operations consist of, amongst other things, mills, workshops and facilities for 
+manufacturing of forage, ethanol and food. There is a direct impact on the environment 
+primarily through noise, emissions to air and water and intermediate storage of hazardous 
+waste. Further, the Group is under supervision of supervisory authorities such as the Swedish 
+Food Agency (Sw. Livsmedelsverket) and the Swedish Financial Supervisory Authority 
+exercises supervision over the Group’s credit market company (Sw. kreditmarknadsbolag) and 
+insurance companies. The risk that the Issuer should lose a permit due to lacking compliance 
+with regulations is not assessed to be significant. There is however a risk that the Issuer’s 
+operations which are subject to permits are affected by changes to applicable regulations or as 
+a result of new permit requirements. If the Issuer cannot obtain the permits required to conduct 
+its operations with reasonable terms, costs or at all, or if the Issuer loses permits which are 
+required for an operation or if permits are delayed due to long processing times at the relevant
+
+--- Page 21 ---
+21 
+ 
+authority, the Issuer’s possibility to conduct its operations may be limited. There is also a risk 
+that the Issuer is denied permit to increase volume or production or production facilities. These 
+factors can result in the Issuer not being able to conduct its operations as desired or being forced 
+to shut down certain parts of its business. Consequently, risks relating to permits are significant 
+to the Issuer. 
+2.5 
+Financial risks 
+2.5.1 
+The issuer is exposed to currency risks 
+The meaning of currency risks is the risk that the effect of a change in exchange rates affects 
+the result of and financial situation of the Group negatively. Large parts of the Issuer’s 
+commercial cash flow consist of foreign currencies, which exposes the Issuer to so-called 
+transaction exposure. The Issuer is primarily exposed to the currencies EUR, DKK, GBP and 
+USD. A 10 per cent +/– change in SEK against the currencies used by the subsidiaries would, 
+when re-calculating the operating income, have an approximate effect on the operative income 
+amounting to +/- 157 MSEK, based on the conditions as of 31 December 2024. There is 
+therefore a risk that changes in exchange rates can have a significant effect on the Issuer’s 
+result. 
+2.5.2 
+Risks related to liquidity and financing 
+The meaning of liquidity- and financing risks is the risk that the Issuer cannot refinance in case 
+of the default of a loan or lend money if the Group has negative cash flows, which can result 
+in an urgent liquidity risk. In a worst-case scenario, the Issuer would be forced into bankruptcy 
+or liquidation. The risk is mitigated through, for instance, effective spreading of maturity dates 
+and counterparties. 
+In July 2024, the Issuer entered into a credit agreement with six financial institutions regarding 
+a revolving credit facility of 4 billion SEK, with an initial maturity of five years. The maturity 
+is 2029 with two optional additional years. If the Issuer has a need for further financing in the 
+future, or in case of a re-negotiation of the existing financing, there is a risk that the Issuer 
+obtains amended or more burdensome terms as a result of the new negotiations or re-
+negotiations, such as increased cost of interest, which can result in limitations for the business 
+of the Issuer. Such limitations in the possibility to take up new financing is currently not a 
+significant limitation but can increase over time. 
+Under the terms of the credit agreement, the Issuer has made certain financial undertakings, so-
+called covenants, in respect of for instance net debt/EBITDA. If the Issuer would breach the 
+covenants, the lenders have the right to cancel the facilities before the original maturity date. 
+There is a risk that the Issuer, in the future, could be in breach of the covenants, which could 
+affect the Issuer’s possibility to finance its operations and force the Issuer to seek alternative 
+financing. The Issuer’s failure to find new financing on beneficial terms, or at all, would have 
+a negative effect on the Issuer’s financial possibilities in respect of its operations, such as 
+acquisitions and investments. 
+An important part of the financing of the Issuer is deposits from its members, where members 
+have deposit accounts with unlimited withdrawals. There is a risk that members, for different 
+reasons, decide to move their deposits from the Issuer to other counterparties, which could 
+result in a large outflow of cash from the Issuer. 
+2.5.3 
+The issuer is exposed to increased interest costs 
+The interest-bearing borrowing results in that the Issuer is exposed to increased interest costs, 
+which can make it more difficult for the Issuer to comply with its undertakings under the credit
+
+--- Page 22 ---
+22 
+ 
+agreement. Increased interest levels can also entail that the Issuer must allocate a larger portion 
+of its cash flow to pay interest, which leads to a decreased cash flow for other purposes, such 
+as investments, acquisitions and general corporate purposes. 
+2.6 
+Risks associated with issued MTN 
+2.6.1 
+The Benchmark Regulation 
+The process for how EURIBOR, STIBOR and other reference rates are determined has been 
+subject to the attention of the legislator. This has resulted in several legislative measures. The 
+most extensive initiative in this area is the Regulation (EU) 2016/1011 of the European 
+Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial 
+instruments and financial contracts or to measure the performance of investment funds and 
+amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (the 
+“Benchmark Regulation”) which entered into force 1 January 2018 and regulates the 
+provision of benchmarks, reporting of input data for benchmarks and the usage of benchmarks 
+within the EU. Given that the Benchmark Regulation has only been in force for a short period 
+of time, its effects cannot be fully assessed. There is a risk that the Benchmark Regulation can 
+affect how certain benchmarks are determined and developed. Further, the increased 
+administration, and the regulatory requirements in connection therewith, can result in certain 
+actors no longer wanting to participate in the determination process regarding benchmark rates, 
+or that certain benchmark rates are no longer published. 
+For MTN that are issued with floating rate, the interest rate is determined, pursuant to the Terms 
+and Conditions, on the basis of a reference rate, either STIBOR or EURIBOR. STIBOR is a 
+so-called critical benchmark in Sweden and is therefore registered on the list of critical 
+benchmarks held by the European Commission. The provisions regarding critical benchmarks 
+contain extensive requirements with respect to control, supervision, documentation and 
+transparency for the benchmark administrator. On the date of this Base Prospectus, the Swedish 
+Financial Benchmark Facility AB (“SFBF”), a wholly-owned subsidiary of Financial 
+Benchmarks Sweden, part of the Swedish Bankers Association (Sw. Svenska Bankföreningen), 
+administrates STIBOR. Since 21 April 2023, SFBF is authorised by the Swedish Financial 
+Supervisory Authority to act as administrator of STIBOR in accordance with the Regulation 
+(EU) 2016/1011 on indices used as benchmarks in financial instruments and financial contracts 
+or to measure the performance of investment funds (the “Benchmark Regulation”) and is 
+included in the register provided by the European Securities and Markets Authority (ESMA) 
+pursuant to Article 36 of the Benchmark Regulation. If STIBOR or EURIBOR at a certain point 
+in time cannot be determined, or if a Base Rate Event or Base Rate Event Announcement (as 
+defined in the Terms and Conditions) occurs, there are alternative measures to determine the 
+applicable reference rate used to calculate the interest rate. However, there is a risk that such 
+alternative measures are not as beneficial to the Noteholders. Further, there is a risk that the 
+challenges in connection with determining an alternative reference rate for the interest rate of 
+a certain MTN can result in time consuming discussions and/or disputes which may have 
+negative effects for the Issuer and/or Noteholders.  
+2.6.2 
+Risks associated with Green Bonds 
+The Issuer may, in accordance with the Final Terms for MTN, issue Green Bonds pursuant to 
+the criteria set out by the Issuer’s Green Framework, which outlines the framework for Green 
+Bonds. There is a risk that MTN, pursuant to these criteria, do not fit into the requirements, 
+preferences or specific investment mandates of an investor, and an investor is therefore 
+responsible for obtaining up-to-date information on the principles and risks for Green Bonds. 
+The Green Framework as well as market practice can develop after a certain Loan date, which 
+can result in more beneficial terms for Loans issued thereafter or more strict requirements for
+
+--- Page 23 ---
+23 
+ 
+the Issuer. Amendments to the Green Framework made after the date of a certain Loan will not 
+affect the Noteholders of the Loan, except for required amendments to the Green Framework. 
+The Taxonomy Regulation provides the basis for identifying and classifying environmentally 
+sustainable investments and may entail a stricter assessment of which financial instruments are 
+allowed to be marketed as “green” products. If the Issuer fails to comply with the Taxonomy 
+Regulation, for example with regard to information requirements or fulfilment of 
+environmental criteria, this may result in restrictions on the Issuer’s ability to advertise MTNs 
+as a green product. 
+Although the Issuer shall utilise an amount equivalent to the net proceeds of the funds 
+contributed from the Green Bonds in accordance with its Green Framework, there is a risk that 
+circumstances beyond the control of the Issuer may affect the evaluation and selection of assets 
+or the handling of the proceeds of the issue may not be carried out as intended. Furthermore, 
+there is a risk that circumstances beyond the control of the Issuer will lead to the Green Projects 
+not being implemented on time (or at all) or with the results originally expected by the Issuer. 
+These circumstances may for example, be related to the general economic situation and the 
+global credit market, credit risks in the Issuer’s positions or liquidity and funding risks (see risk 
+factors above). Such events do not entail an event of default. Thus, in such cases, Noteholders 
+do not have the right to prepayment or repurchase of Green Bonds or other compensation. 
+There is also a risk that an amount corresponding to the net proceeds of a Green Bond is not 
+used to finance one or more Green Projects due to a temporary absence of Green Projects or 
+that the maturity of a Green Bond does not fully overlap with one or more Green Projects. Such 
+circumstances do not entail an event of default. Thus, in such cases, Noteholders do not have 
+the right to prepayment or repurchase of Green Bonds or other compensation. 
+Should the Issuer fail to use the net proceeds from the Green Bonds in accordance with its 
+Green Framework in respect of a certain Loan or should a certain Loan no longer be classified 
+as a green bond due to the Taxonomy Regulation or for any other reason, it does not entail an 
+event of default under such Loan. In such cases, Noteholders do not have the right to 
+prepayment or repurchase of a Green Bond or other compensation. Consequently, there is also 
+a risk that investors are in breach of internal policies or investment mandates. 
+The Issuer assesses that the probability of the above occurring cannot be estimated. The Issuer 
+assesses that the expected negative effect on MTNs if the above occurs is low. The Issuer’s 
+overall assessment is that the above constitutes a low risk for an investment in MTNs. 
+2.6.3 
+Liquidity risks 
+The Issuer will apply for registration of MTN on Nasdaq Stockholm or another regulated 
+market in accordance with the respective Final Terms for MTN. Previously issued MTN have 
+been subject to very few transactions on the secondary market. There is a risk that the planned 
+secondary market for MTN will not develop, be maintained or be liquid (i.e. that there will not 
+be a large enough supply of MTN or large enough demand for MTN on the market). 
+Noteholders is therefore at risk of not being able to sell its MTN at the desired time or to the 
+price which would result in the return comparable to similar market positions which have an 
+existing and functioning secondary market. The lack of liquidity on the market can thus have a 
+negative effect on the market value of the MTN.  
+2.6.4 
+Noteholders’ Meeting and lack of Noteholders’ representative 
+The Calculation Agent shall, in accordance with the Terms and Conditions, amongst other 
+things, call noteholders’ meetings. Except for this meeting, the investors do not have a 
+representative that represents them in respect of the MTN. Therefore, each individual investor
+
+--- Page 24 ---
+24 
+ 
+can take measures on its own in respect of the MTN, which could affect all investors. An 
+example of such a measure is an application for bankruptcy of the Issuer. There is therefore a 
+risk that one investor can take measures in respect of the MTN which are not desired for other 
+investors and which may affect the market value of MTN negatively.  
+In addition to the above, it is noted that certain majorities of Noteholders can make all investors 
+legally bound by certain decisions, including those investors which have voted against the 
+relevant majority. This may mean that measures taken by the majority, in such cases, can affect 
+the Noteholders’ rights in respect of the MTN in a way which is not desired for certain 
+noteholders. 
+2.6.5 
+Noteholders lack security in the assets of the Issuer and the Issuer can pledge 
+assets as security and incur other debt 
+Noteholders which hold MTN lack security in the assets of the Issuer, and will, in case of the 
+Issuer’s insolvency, be a creditor without priority. The secured creditors of the Issuer will have 
+a right to payment from secured assets before creditors without priority (including creditors 
+which hold MTN). The Issuer has undertaken not to pledge assets as security for other Market 
+Loans. There are otherwise no limitations on the Issuer’s possibility to incur new debt or to 
+pledge assets as security. There is therefore a risk in case of insolvency of the Issuer for 
+creditors that hold MTN that the Issuer incurs further debt or pledges assets as security to other 
+creditors which have a right to payment with higher priority than the claim of the holder of the 
+MTN. 
+2.6.6 
+Voluntary redemption 
+The Terms and Conditions include a possibility for the Issuer to, in certain situations, redeem 
+Loans prior to the Maturity Date, resulting in that the market value of MTNs in general is not 
+expected to increase significantly over the price to which it can be redeemed. This can apply 
+also before a redemption period. In case of voluntary redemption, there is a risk that an investor 
+cannot re-invest the proceeds from the redemption at an effective interest rate which is as high 
+as the interest rate of the relevant MTN. 
+Further, there is a risk that the Issuer elects to exercise its right to voluntary redemption at a 
+time when the market value of MTNs is higher than the redemption value. This can affect the 
+possibility of an investor to re-invest the proceeds from the redemption on the same terms as 
+the redeemed MTN. Investors cannot expect a Loan to be redeemed prior to the Maturity Date 
+but must be prepared for repayment on the Maturity Date.
+
+--- Page 25 ---
+25 
+ 
+3 
+Responsibility for the Base Prospectus 
+The board of directors of the Issuer is responsible for the Base Prospectus and, to the best of the knowledge 
+of the board of directors of the Group, the information provided in this Base Prospectus is in accordance 
+with the facts and the Base Prospectus makes no omission likely to affect its import. The Dealers have not 
+verified the information provided in this Base Prospectus. 
+ 
+The Base Prospectus has been approved by the Swedish Financial Supervisory Authority as competent 
+authority under the Prospectus Regulation. The Swedish Financial Supervisory Authority only approves 
+this Base Prospectus as meeting the standards of completeness, comprehensibility and consistency imposed 
+by the Regulation (EU) 2017/1129. The Swedish Financial Supervisory Authority’s approval should not 
+be considered as an endorsement of the Company that is the subject of this Base Prospectus, nor should it 
+be considered as an endorsement of the quality of the securities that are the subject of this Base Prospectus. 
+Investors should make their own assessment as to the suitability of investing in the securities. 
+ 
+ 
+Stockholm, 16 April 2025 
+Lantmännen ek för  
+The board of directors of the Group
+
+--- Page 26 ---
+26 
+ 
+4 
+Product description 
+Below follows a description of constructions and terms which appear in the Terms and 
+Conditions and which are applicable upon issuance of MTN under this MTN Programme. The 
+construction of each Loan is set out in the Final Terms, which are applicable together with the 
+Terms and Conditions applicable to the MTN Programme from time to time. For a description 
+of the below definitions, see the Terms and Conditions on pages 28-51. 
+4.1 
+Basis for calculation of interest 
+For MTN issued under the MTN Programme, the relevant basis for calculation of interest for 
+the specific Loan will be set out in the Final Terms. Under the MTN Programme and pursuant 
+to paragraph 6.2 of the Terms and Conditions, there is a possibility to issue Loans with any of 
+the basis for calculation of interest described below. When calculating the interest period under 
+which the interest shall accrue, different day count conventions are used depending on the basis 
+for calculation of interest. 
+4.1.1 
+Day Count Conventions 
+For Loans with fixed interest rate, the Day Count Convention ”30/360” is used, meaning that 
+the calculation is based on a year of 360 days divided into 12 months of 30 days each and in 
+case of a fraction of a month using the actual number of days of the month that have passed. 
+For Loans with floating interest rate, the Day Count Convention “actual/360” is used, meaning 
+that the calculation is based on the actual number of days elapsed in the relevant Interest Period, 
+divided by 360. 
+Which of these Day Count Conventions that are to be used to calculate the Interest Period for 
+each relevant Loan will be set out in the applicable Final Terms. 
+ 
+4.1.2 
+Loans with fixed interest rate 
+If a Loan is specified as a Loan with fixed interest rate, interest accrues in accordance with the 
+Base Rate from (but excluding) the Loan Date, up to (and including) the Maturity Date. 
+For Loans with a fixed interest rate, accrued interest shall be paid in arrears on each Interest 
+Payment Date and is calculated using the Day Count Convention 30/360. 
+4.1.3 
+Loans with floating interest rate 
+If a Loan is specified as a Loan with floating interest rate, interest accrues from, but excluding, 
+the Loan Date, up to, and including, the Maturity Date. The Base Rate for each respective 
+Interest Period is calculated by the Calculation Agent on each respective Determination Date 
+and consists of the Base Rate plus the Base Rate Margin for the same period, adjusted with 
+regard to application of section 7 (Replacement of Base Rate) in the Terms and Conditions. 
+The Base Rate is the reference rate specified in the Final Terms or such other Successor Base 
+Rate, which as a result of a Base Rate Event or a Base Rate Event Announcement, succeeds the 
+original Base Rate. The original Base Rate will usually refer to STIBOR for loans in SEK and 
+EURIBOR for loans in EUR. Interpolation of reference rate means that the reference rate is 
+determined by two known variables as set out in the Final Terms. 
+If the Base Rate cannot be determined on the Determination Date as a result of obstacles 
+described in paragraph 17.1 of the Terms and Conditions, the Loan shall continue to accrue 
+interest at the base rate applicable for the immediately previous Interest Period. As soon as the
+
+--- Page 27 ---
+27 
+ 
+obstacle has ceased, the Calculation Agent shall calculate a new Base Rate to apply from the 
+second Business Day after the day of calculation up to and including the end of the then ongoing 
+Interest Period. 
+Accrued interest shall be paid in arrears on each Interest Payment Date and is calculated using 
+the Day Count Convention Actual/360 or such other basis for calculation as applies to the 
+relevant Base Rate. 
+4.1.4 
+Zero coupon 
+Zero Coupon Loans do not bear interest. 
+4.1.5 
+Benchmark rates 
+Interest payable for MTN issued under the MTN Programme may be calculated by reference 
+to certain benchmarks, STIBOR and EURIBOR, as defined in the Terms and Conditions. 
+STIBOR is provided by SFBF and EURIBOR is provided by the European Money Market 
+Institute. 
+Since 21 April 2023, SFBF is authorised by the Swedish Financial Supervisory Authority to 
+act as administrator of STIBOR in accordance with the Benchmark Regulation and is 
+included in the register provided by the European Securities and Markets Authority (ESMA) 
+pursuant to Article 36 of the Benchmark Regulation. The European Money Market Institute 
+was registered 2 July 2019 as administrator under article 36 of the Benchmark Regulation. 
+4.1.6 
+Redemption 
+An MTN is due for payment at its nominal amount on the Maturity Date, as set out in the Final 
+Terms. 
+The Issuer may however, at any time and at the price specified in the Final Terms at its option, 
+redeem all, but not less than all MTN issued under the relevant Loan, together with accrued 
+interest (if any), prior to their Maturity Date, provided it is permitted by applicable law. If the 
+Issuer, in accordance with paragraph 9.1 of the Terms and Conditions, redeems a Loan prior to 
+its Maturity Date, the Issuer shall notify the Noteholder’s in accordance with section 16 
+(Notices) no later than ten (10) Business Days but not more than forty (40) Business Days prior 
+to the date of the voluntary redemption.
+
+--- Page 28 ---
+28 
+ 
+5 
+Terms and Conditions 
+Terms and Conditions  
+The following terms and conditions (“Terms and Conditions”) shall apply to loans which 
+Lantmännen ek för (Reg. No. 769605-2856) (the “Issuer”) issues in the capital market under an 
+agreement dated 2 November 2015 between the Issuer, Swedbank AB (publ), Danske Bank A/S, 
+Danmark, Sverige Filial, Nordea Bank Abp1 and Skandinaviska Enskilda Banken AB (publ)2 in 
+respect of a MTN Programme (“MTN Programme”) by issuing notes in SEK and EUR with varying 
+maturities, however not less than one year, commonly referred to as medium term notes (“MTN”). 
+1. 
+DEFINITIONS 
+1.1 
+In addition to the definitions set forth above, as used in these Terms and Conditions, the 
+following terms shall have the meanings ascribed to them below. 
+“Account Operator” means a bank or other party duly authorised to operate as an account 
+operator (Sw: kontoförande institut) pursuant to the Central Securities Depositories and 
+Financial Instruments Accounts Act (Sw: lag (1998:1479) om värdepapperscentraler och 
+kontoföring av finansiella instrument) and through which a Noteholder has opened a 
+Securities Account in respect of its MTN; 
+“Adjusted Loan Amount” means the total outstanding Nominal Amount of MTN in respect 
+of a particular Loan less the amount of all MTN held by a Group Company, irrespective of 
+whether or not the Group Company is directly registered as owner of such MTN; 
+”Arranger” means Swedbank AB (publ) or any other Dealer replacing Swedbank AB (publ) 
+as Arranger; 
+“Base Rate” means in regard to Loans with Floating Rate, the base rate STIBOR or 
+EURIBOR as described in the Final Terms or any reference rate replacing STIBOR or 
+EURIBOR in accordance with section 7 (Replacement of Base Rate); 
+“Business Day” means a day other than a Sunday or other public holiday in Sweden or 
+which is not treated as public holiday for the purpose of payment or, with respect to the 
+payment of promissory notes, a day which is not the equivalent of a public holiday in 
+Sweden. Saturdays, Midsummer’s Eve, Christmas Eve and New Year’s Eve shall for the 
+purpose of this definition be deemed to be public holidays; 
+“Calculation Agent” means (i) if a Loan has been issued by two or more Issuing Dealers, 
+the Issuing Dealer designated by the Issuer to be responsible for certain administrative 
+tasks regarding the Loan in accordance with the Final Terms; and (ii) if a Loan has been 
+issued by only one Issuing Dealer, the Issuing Dealer; 
+“Day Count Convention” means, when calculating an amount for a certain period, the 
+basis of calculation stated in the Final Terms and which: 
+ 
+1 Nordea Bank AB have 1 October 2018 through a merge, been incorporated in Nordea Bank Abp and have through that acceded as a part to the 
+MTN programme.  
+2 Skandinaviska Enskilda Banken AB (publ) acceded as a Dealer and Svenska Handelsbanken AB (publ) resigned as a Dealer through an 
+amendment agreement dated 25 November 2020.
+
+--- Page 29 ---
+29 
+ 
+(a) 
+if the calculation method “30/360” is specified as applicable, the amount shall be 
+calculated based on a year with 360 days consisting of twelve months of 30 days 
+each and, in the event of a partial month, the actual number of days which have 
+passed in the month; and  
+(b) 
+if the calculation method “Actual/360” is specified as applicable, the amount shall be 
+calculated using the actual number of days in the relevant period divided by 360. 
+“Dealers” 
+means 
+Swedbank 
+AB 
+(publ), 
+Danske 
+Bank 
+A/S,  
+Danmark, Sverige Filial, Nordea Bank Abp and Skandinaviska Enskilda Banken AB (publ) 
+and every other dealer specially authorized by Euroclear Sweden to process and register 
+issues in the Euroclear Sweden system that accedes to this MTN Programme in 
+accordance with paragraph 13.3, however only as long as such institution has not resigned 
+as a dealer; 
+“EUR” means the single currency of the participating member states in accordance with 
+the European Union’s framework for the Economic and Monetary Union (EMU); 
+ 
+“EURIBOR” means: 
+(a) 
+the interest rate as displayed as of or around 11.00 a.m. on the relevant day on 
+page EURIBOR01 of the Refinitiv screen (or through such other system or on such 
+other page as replaces the said system or page) for EUR for a period comparable 
+to the relevant Interest Period; or 
+(b) 
+if no such interest rate is available for the relevant Interest Period as described in 
+paragraph (a), the arithmetic mean of the rates (rounded upwards to four decimal 
+places) as supplied to the Calculation Agent at its request quoted by the Reference 
+Banks for deposits of EUR ten million (10,000,000) for the relevant Interest Period; 
+or 
+(c) 
+if no interest rate as described in paragraph (a) or (b) is available, the interest rate 
+which, according to the reasonable assessment of the Calculation Agent, best 
+reflects the interest rate for deposits in EUR offered for the relevant Interest Period; 
+“Euroclear Sweden” means Euroclear Sweden AB (Reg. No. 556112-8074); 
+“European Reference Banks” means four major commercial banks which, at the current 
+time, are quoting EURIBOR and are appointed by the Calculation Agent; 
+“Final Terms” means the final terms established for a particular Loan under this MTN 
+Programme in accordance with Appendix 1 (Form of Final Terms); 
+“Green Framework” means the Issuer’s Green Framework valid at the date of issuance 
+for a Loan which can be found on the Issuer’s website; 
+“Group” means the corporate group of which the Issuer is the parent company (where the 
+terms corporate group and parent company have the meanings as defined in chapter 1, 
+paragraph 10 of the Swedish Cooperative Associations Act (Sw. lag (2018:672 om
+
+--- Page 30 ---
+30 
+ 
+ekonomiska föreningar)) (or such other legislation which replaces the aforementioned 
+legislation); 
+“Group Company” means any and all legal entities which from time to time are part of the 
+Group; 
+“Interest Commencement Date” means, according to the Final Terms, the date from 
+which interest (where applicable) begins to accrue; 
+“Issuing Dealer”, means, in accordance with the Final Terms, that or those Dealers through 
+which MTN will be or have been issued; 
+“Loan” means each Loan, comprising of one or more MTN, which the Issuer raises under 
+this MTN Programme; 
+“Loan Terms” means, for a particular Loan, these Terms and Conditions and the Final 
+Terms for such Loan; 
+“Market Loan” means loans taken up through the issuance of commercial paper, bonds or 
+other securities (including loans under MTN or other market loan programmes) which are 
+sold, brokered, or invested in an organized form and which are, or may be, admitted to 
+trading on a Regulated Market;  
+“Maturity Date” means, in accordance with the Final Terms, the date when MTN shall be 
+repaid; 
+“MTN” means a unilateral debt instrument in the Nominal Amount which has been 
+registered in accordance with the Swedish Central Securities Depositories and Financial 
+Instruments Accounts Act (Sw: lag (1998:1479) om värdepapperscentraler och kontoföring 
+av finansiella instrument) and is part of a Loan issued by the Issuer under this MTN 
+Programme; 
+“Nominal Amount” means the amount of each MTN as stated in the Final Terms (less any 
+repaid amount); 
+“Noteholder” means the person who is registered on a Securities Account as direct 
+registered owner or nominee with respect to an MTN; 
+“Noteholders’ Meeting” means a meeting of the Noteholders as described in section 13 
+(Noteholders’ Meeting); 
+“Programme Amount” is the programme amount which the Issuer and the Dealers agree 
+on from time to time; 
+“Record Date” means the fifth (5) Business Day (or another Business Day prior to the 
+relevant day which is market practice on the Swedish bond market), prior to (i) the payment 
+date for interest or principal in accordance with the Loan Terms; or (ii) another day on which 
+payment is to be made to Noteholders; (iii) the date of the Noteholders’ Meeting; (iv) 
+dispatch of notice; or (v) another relevant date; 
+“Reference Banks” means Nordea Bank Abp, Skandinaviska Enskilda Banken AB (publ), 
+Svenska Handelsbanken AB (publ) and Swedbank AB (publ);
+
+--- Page 31 ---
+31 
+ 
+“Regulated Market” means any regulated market as defined in Directive 2014/65/EU on 
+markets in financial instruments; 
+“Securities Account” means the account for dematerialised securities maintained by 
+Euroclear Sweden pursuant to the Central Securities Depositories and Financial 
+Instruments Accounts Act in which (i) an owner of any securities is directly registered or (ii) 
+an owner’s holding of securities is registered in the name of a nominee;  
+“SEK” means the official currency of Sweden; 
+“STIBOR” means: 
+(a) the interest rate administered, calculated and distributed by the Swedish Financial 
+Benchmark Facility AB (or the replacing administrator or calculation agent) for the 
+relevant day and published on the information system Refinitiv’s page ”STIBOR=” (or 
+through such other system or on such other page as replaces the said system or page) 
+for SEK for a period comparable to the relevant Interest Period; or 
+(b) if no such interest rate is available for the relevant Interest Period as described in 
+paragraph (a), the arithmetic mean of the rates (rounded upwards to four decimal 
+places) as supplied to the Calculation Agent at its request quoted by the Reference 
+Banks for deposits of SEK one hundred million (100,000,000) for the relevant Interest 
+Period; or 
+(c) if no such interest rate as described in paragraph (a) or (b) is available, the interest rate 
+which, according to the reasonable assessment of the Calculation Agent, best reflects 
+the interest rate for deposits in SEK offered in the Stockholm interbank market for the 
+relevant Interest Period. 
+1.2 
+Further definitions, such as Interest Structure, Interest Determination Date, Interest 
+Payment Date(s) and Interest Period are set forth (where applicable) in the Final Terms. 
+ 
+1.3 
+The definitions set forth in these Terms and Conditions shall also apply to the Final Terms. 
+ 
+1.4 
+Upon calculation of whether a limit specified in SEK has been reached or exceeded, an 
+amount in another currency shall be calculated based on the exchange rate applicable 
+on the Business Day immediately preceding the relevant point in time and which is 
+published on Refinitivs’ screen ”SEKFIX=” (or through another system or another screen 
+which replaces such system or screen) or, where such rate is not published, according to 
+the rate for SEK for the relevant currency on the aforementioned day which is published 
+by the Swedish Central Bank on its website (www.riksbank.se). 
+2. 
+ISSUANCE OF LOANS 
+2.1 
+Under this MTN Programme, the Issuer may issue MTN, denominated in SEK or in EUR, 
+with a maturity of at least one year. Under a Loan, MTN may be issued in multiple tranches 
+without the approval of any Noteholder provided that the conditions of such tranches are 
+identical except for Settlement Date, Aggregate Nominal Amount, Price per MTN and 
+Issuing Dealer. 
+2.2 
+By subscribing to MTN, each initial Noteholder approves that its MTN shall have the rights
+
+--- Page 32 ---
+32 
+ 
+and be subject to the conditions set forth in, and be governed by, the provisions of the Loan 
+Terms. By acquiring MTN, each new Noteholder confirms such approval. 
+2.3 
+The Issuer undertakes to make payments in respect of issued MTN and to otherwise 
+comply with the Loan Terms for the Loans issued under this MTN Programme. 
+2.4 
+If the Issuer wishes to issue MTN under this MTN Programme, the Issuer shall enter into a 
+separate agreement for this purpose with one or more Dealers which shall be the Issuing 
+Dealer for such Loan. 
+2.5 
+Final Terms shall be established in relation to each Loan which together with these Terms 
+and Conditions shall constitute the complete Loan Terms for the Loan.  
+3. 
+REGISTRATION OF MTN 
+3.1 
+MTN shall be registered in a Securities Account on behalf of each Noteholder and, 
+accordingly, no physical securities will be issued. A request concerning the registration of 
+MTN shall be made to an Account Operator. 
+3.2 
+Any person who acquires the right to receive payment under a MTN through a mandate, a 
+pledge, the regulations in the Swedish Children and Parents Code (Sw: föräldrabalken), 
+terms of a will or deed of gift or in some other way shall register their rights in order to 
+receive such payment.  
+ 
+3.3 
+The Calculation Agent shall, for the purpose of carrying out its duties in accordance with 
+section 12 (Termination of Loans) and 13 (Noteholders meeting), at all other times be 
+entitled to obtain information from the debt register (Sw: skuldbok) kept by Euroclear 
+Sweden in respect of the MTN. 
+4. 
+RIGHT TO ACT ON BEHALF OF A NOTEHOLDER 
+4.1 
+Any person other than a Noteholder wishes to exercise the Noteholder’s rights under the 
+Loan Terms or vote at a Noteholders’ Meeting shall be able to produce a power of attorney 
+or other proof of authorization from the Noteholder or a chain of such powers of attorney 
+and/or proof of authorisation from the Noteholder. 
+4.2 
+A Noteholder may authorise one or more parties to represent the Noteholder in relation to 
+certain, or all, of the MTN held by the Noteholder. Any such representative may act 
+independently. 
+5. 
+PAYMENTS 
+5.1 
+MTN become due and payable in the Nominal Amount on the Maturity Date. If the Maturity 
+Date falls on a day which is not a Business Day, the Loan will be repaid on the next following 
+Business Day. Interest according to section 6 (Interest) shall be paid on the relevant 
+Interest Payment Date. 
+5.2 
+Payment in respect of MTN denominated in SEK shall be made in SEK and payments in 
+respect of MTN denominated in EUR, shall be made in EUR to the person who is registered
+
+--- Page 33 ---
+33 
+ 
+as a Noteholder on the Record Date for the respective payment date or to such person who 
+is registered with Euroclear Sweden as being entitled to receive such payment. 
+5.3 
+If a Noteholder has registered, through the Account Operator, that principal or interest shall 
+be deposited into a certain bank account, such deposit shall be affected by Euroclear 
+Sweden on the relevant payment date.  
+5.4 
+Should Euroclear Sweden not be able to effect payments as aforesaid due to any delay by 
+the Issuer or other obstacle attributable to the Issuer, the Issuer shall ensure that such 
+payments are made to the persons who are registered as Noteholders on the relevant 
+Record Date as soon as possible after such obstacle no longer exists. In such case, interest 
+shall be payable in accordance with paragraph 8.1. 
+5.5 
+In the event the Issuer is unable to perform a payment obligation through Euroclear Sweden 
+due to an obstacle for Euroclear Sweden, the Issuer shall be entitled to postpone the 
+payment obligation until such obstacle has been ceased. In such case, interest shall be 
+payable in accordance with paragraph 8.2. 
+5.6 
+If payment is made in accordance with this section 5 to a person who is not entitled to 
+receive such amount, the Issuer and Euroclear Sweden shall nonetheless be deemed to 
+have fulfilled their payment obligations. However, the aforementioned shall not apply if the 
+Issuer or Euroclear Sweden were aware that payment was made to a person not entitled 
+to receive the payment or if the Issuer or Euroclear Sweden did not act with normal care. 
+6. 
+INTEREST 
+6.1 
+For Loans on which interest accrues, interest shall be calculated on the Nominal Amount, 
+unless otherwise stated in the Loan Terms. 
+6.2 
+Interest on a certain Loan is calculated and payable (where applicable) in accordance with 
+the Final Terms. The relevant Interest Structure shall be stated in the Final Terms according 
+to one of the following alternatives: 
+(a) 
+Fixed Rate 
+If a Loan is specified as a Loan with a Fixed Rate, the Loan shall bear interest on 
+its Nominal Amount at the Interest Rate from (but excluding) the Interest 
+Commencement Date up to (and including) the Maturity Date. 
+Interest is calculated using the Day Count Convention 30/360. 
+(b) 
+Floating Rate (FRN) 
+If a Loan is specified as a Loan with Floating Rate, the Loan shall bear interest on 
+its Nominal Amount at the Interest rate from (but excluding) the Interest 
+Commencement Date up to (and including) the Maturity Date. The Interest rate for 
+the relevant Interest Period shall be calculated by the Calculation Agent on the 
+respective Interest Determination Date and is the sum of the Base Rate and the 
+Margin for the relevant period, adjusted for the application of section 7 
+(Replacement of Base Rate).
+
+--- Page 34 ---
+34 
+ 
+If the Interest Rate cannot be determined on the Interest Determination Date 
+because of an obstacle described in paragraph 17.1, the Loan shall continue to bear 
+interest at the rate that applied to the immediately preceding Interest Period. As 
+soon as the obstacle has been ceased, the Calculation Agent shall calculate a new 
+Interest Rate which shall be effective from the second Business Day following the 
+day of the calculation until the expiration of the current Interest Period. 
+Interest is calculated using the Day Count Convention Actual/360, or by using such 
+other method of calculation as is applied for the relevant Base Rate. 
+(c) 
+Zero Coupon 
+If the Loan is specified as a Zero Coupon it bears no interest. Loans with Zero 
+Coupon may be issued at a discount, par or premium. 
+6.3 
+Accrued interest (where applicable) is paid in arrears on the relevant Interest Payment 
+Date. 
+ 
+6.4 
+If the Interest Payment Date for a Loan bearing a Fixed Rate is not a Business Day, interest 
+will be paid on the next Business Day. Interest is calculated and accrued only up to and 
+including the Interest Payment Date. 
+ 
+6.5 
+If the Interest Payment Date for a Loan with a Floating Rate is not a Business Day, the next 
+Business Day shall be the Interest Payment Date provided that such Business Day does 
+not occur in a new calendar month, in which case the Interest Payment Date shall be the 
+previous Business Day. Interest is calculated and payable up to and including the Interest 
+Payment Date. 
+7. 
+REPLACEMENT OF BASE RATE 
+7.1 
+If a Base Rate Event as described in paragraph 7.2 below has occurred, the Issuer shall, 
+in consultation with the Calculation Agent, initiate the procedure to, as soon as reasonably 
+possible, determine a Successor Base Rate, Adjustment Spread, as well as initiate the 
+procedure to determine upon necessary administrative, technical and operative 
+amendments to the Loan Terms in order to apply, calculate and finally decide the applicable 
+Base Rate. The Calculation Agent is not obligated to participate in such consultation or 
+determination as described above. Should the Calculation Agent not participate in such 
+consultation or determination, the Issuer shall, at the Issuer’s expense, as soon as possible 
+appoint an Independent Adviser to initiate the procedure to, as soon as reasonably 
+possible, determine upon the mentioned. Provided that the Successor Base Rate, the 
+Adjustment Spread and other amendments have been finally decided no later than prior to 
+the relevant Interest Determination Date in relation to the next succeeding Interest Period, 
+they shall become effective with effect from and including the commencement of the next 
+succeeding Interest Period, always subject to any technical limitations of Euroclear Sweden 
+and any calculations methods applicable to such Successor Base Rate. 
+7.2 
+A base rate event is an event where one or more of the following events occur (”Base 
+Rate Event”) which means: 
+(a) the Base Rate (for the relevant Interest Period of the relevant Loan) has ceased to
+
+--- Page 35 ---
+35 
+ 
+exist or ceased to be published for at least five (5) consecutive Business Days as a 
+result of the Base Rate (for the relevant Interest Period of the relevant Loan) ceasing 
+to be calculated or administered; 
+(b) a public statement or publication of information by (i) the supervisor of the Base Rate 
+Administrator or (ii) the Base Rate Administrator that the Base Rate Administrator 
+ceases to provide the applicable Base Rate (for the relevant Interest Period of the 
+relevant Loan) permanently or indefinitely and, at the time of the statement or 
+publication, no successor administrator has been appointed or is expected to be 
+appointed to continue to provide the Base Rate; 
+(c) a public statement or publication of information in each case by the supervisor of the 
+Base Rate Administrator that the Base Rate (for the relevant Interest Period of the 
+relevant Loan) is no longer representative of the underlying market which the Base 
+Rate is intended to represent and the representativeness of the Base Rate will not be 
+restored in the opinion of the supervisor of the Base Rate Administrator; 
+(d) a public statement or publication of information in each case by the supervisor of the 
+Base Rate Administrator with the consequence that it is unlawful for the Issuer or the 
+Calculation Agent to calculate any payments due to be made to any Noteholder using 
+the applicable Base Rate (for the relevant Interest Period of the relevant Loan) or it 
+has otherwise become prohibited to use the applicable Base Rate (for the relevant 
+Interest Period of the relevant Loan); 
+(e) a public statement or publication of information in each case by the bankruptcy trustee 
+of the Base Rate Administrator or by the trustee under the bank recovery and 
+resolution framework (Sw. krishanteringsregelverket), or in respect of EURIBOR, from 
+the equivalent entity with insolvency or resolution powers over the Base Rate 
+Administrator, containing the information referred to in (b) above; or 
+(f) 
+a Base Rate Event Announcement has been made and the announced Base Rate 
+Event as set out in (b) to (e) above will occur within six (6) months. 
+7.3 
+Upon a Base Rate Event Announcement, the Issuer may (but are not obligated to), if it is 
+possible at such time to determine the Successor Base Rate, Adjustment Spread and other 
+amendments, in consultation with the Calculation Agent or through the appointment of an 
+Independent Adviser, initiate the procedure as described in paragraph 7.1 above to finally 
+decide the Successor Base Rate, the Adjustment Spread and other amendments, in order 
+to change to the Successor Base Rate at an earlier time. 
+7.4 
+If a Base Rate Event set out in any of the paragraphs (a) to (e) of the Base Rate Event 
+definition has occurred but no Successor Base Rate and Adjustment Spread have been 
+finally decided at the latest prior to the relevant Interest Determination Date or if such 
+Successor Base Rate and Adjustment Spread have been finally decided but due to 
+technical limitations of Euroclear Sweden, cannot be applied in relation to the relevant 
+Interest Determination Date, the interest applicable to the next succeeding Interest Period 
+shall be: 
+(a) if the previous Base Rate is available, determined pursuant to the terms that would 
+apply to the determination of the Base Rate as if no Base Rate Event had occurred; or
+
+--- Page 36 ---
+36 
+ 
+(b) if the previous Base Rate is no longer available or cannot be used in accordance with 
+applicable law or regulation, equal to the interest determined for the immediately 
+preceding Interest Period. 
+The provisions set out in this section are applicable on subsequent Interest Periods, 
+provided that all relevant measures have been carried out regarding the application of and 
+the adjustments described in this section 7 prior to every such subsequent Interest 
+Determination Date, but without success. 
+7.5 
+Prior to the Successor Base Rate, Adjustment Spread and any other amendments 
+becoming effective, the Issuer shall promptly, following the final decision by the Issuer in 
+consultation with the Calculation Agent or the Independent Adviser of any Successor Base 
+Rate, Adjustment Spread and any other amendments, give notice thereof to the 
+Noteholders and Euroclear Sweden in accordance with section 16 (Notices). The notice 
+shall also include information about the effective date of the amendments. If the MTN are 
+admitted to trading on a Regulated Market, the Issuer shall also give notice of the 
+amendments to the relevant stock exchange. 
+7.6 
+The Independent Adviser and the Calculation Agent that carries out measures in 
+accordance with this section 7 shall not be liable whatsoever for any damage or loss caused 
+by any determination, action taken or omitted by it in conjunction with the determination 
+and final decision of the Successor Base Rate, Adjustment Spread and any amendments 
+thereto to the Loan Terms, unless directly caused by its gross negligence or wilful 
+misconduct. The Independent Adviser and the Calculation Agent shall never be responsible 
+for indirect or consequential loss. 
+7.7 
+In this section 7 the following definitions have the meaning described below: 
+”Adjustment Spread” means a spread or a formula or methodology for calculating a 
+spread to be applied to a Successor Base Rate and that is: 
+(i) formally recommended by any Relevant Nominating Body in relation to the 
+replacement of the Base Rate; or 
+(ii) if (i) is not applicable, the adjustment spread that the Issuer in consultation with the 
+Calculation Agent or the Independent Adviser determines is reasonable to use in order 
+to eliminate, to the extent possible, any transfer of economic value from one party to 
+another as a result of a replacement of the Base Rate and is customarily applied in 
+comparable debt capital market transactions. 
+”Base Rate Administrator” means Swedish Financial Benchmark Facility AB (SFBF) in 
+relation to STIBOR and European Money Markets Institute (EMMI) in relation to EURIBOR 
+or any person replacing it as administrator of the Base Rate.
+
+--- Page 37 ---
+37 
+ 
+”Base Rate Event Announcement” means a public statement or published information as 
+set out in paragraphs 7.2 (b) to 7.2 (e) that any event or circumstance specified therein will 
+occur. 
+”Independent Adviser” means an independent financial institution or adviser of repute in 
+the debt capital markets where the Base Rate is commonly used. 
+”Relevant Nominating Body” means, subject to applicable law, firstly any relevant 
+supervisory authority, secondly any applicable central bank, or any working group or 
+committee of any of them, or thirdly the Financial Stability Council (Sw. Finansiella 
+stabilitetsrådet) or any part thereof. 
+”Successor Base Rate” means: 
+(i) 
+a screen or benchmark rate, including the methodology for calculating term structure 
+and calculation methods in respect of debt instruments with similar interest rate terms 
+as MTN, which is formally recommended as a successor to or replacement of the Base 
+Rate by a Relevant Nominating Body; or 
+(ii) if there is no such rate as described in paragraph (i), such other rate as the Issuer in 
+consultation with the Calculation Agent or the Independent Adviser determines is most 
+comparable to the Base Rate. 
+For the avoidance of doubt, in the event that a Successor Base Rate ceases to exist, this 
+definition shall apply mutatis mutandis to such new Successor Base Rate. 
+8. 
+DEFAULT INTEREST 
+8.1 
+In the event of delay in payment, default interest shall be paid on the amount from the 
+Maturity Date up to and including the day on which payment is made, at an interest rate 
+which corresponds to the average of one week’s STIBOR for MTN denominated in SEK 
+and one week’s EURIBOR for MTN denominated in EUR, as long as the default remains, 
+with the addition of two percentage points. STIBOR and EURIBOR shall be denominated 
+on the first interest Business Day in each calendar week during the period of the delay. 
+Default interest, in accordance with this paragraph 8.1 for interest-bearing Loans shall 
+never be paid at an interest rate less than the interest rate applicable to the relevant Loan 
+at its Maturity Date, with the addition of two percentage points. Default interest is not 
+compounded with the principal amount.  
+8.2 
+If the delay is due to an obstacle for the Dealers or Euroclear Sweden, default interest 
+shall be paid, at an interest rate which correspond with (i) for interest-bearing Loans, the 
+interest rate applicable to the relevant Loan at its Maturity Date, or (ii) for Zero Coupon 
+Loans, the average of one week’s STIBOR or one week’s EURIBOR as long as the default 
+remains. STIBOR and EURIBOR shall be denominated on the first interest Business Day 
+in each calendar week during the course of the delay. 
+9. 
+VOLUNTARY REDEMPTION 
+9.1 
+Where the applicable Final Terms specify that the Issuer may redeem the relevant Loan
+
+--- Page 38 ---
+38 
+ 
+prior to the Maturity Date, the Issuer may at any time and at the price specified in the Final 
+Terms, together with accrued interest (if any), at its option, redeem all, but not less than 
+all MTN, issued under the relevant Loan, prior to its Maturity Date, provided that it is 
+compatible with applicable law. If the Issuer, in accordance with this paragraph 9.1, 
+redeems the Loan prior to its Maturity Date, the Issuer shall notify the Noteholder’s in 
+accordance with section 16 (Notices) no later than ten (10) Business Days but not more 
+than forty (40) Business Days prior to the date of the voluntary redemption.  
+10. 
+REPURCHASE 
+10.1 
+Following agreement with the Noteholders, the Issuer may repurchase MTN at any time 
+provided that this is compatible with applicable law. MTN owned by the Issuer may be 
+retained, transferred or redeemed.  
+11. 
+GENERAL UNDERTAKINGS 
+11.1 
+Status of the Loan 
+The Issuer shall ensure that its payment obligations under the Loan rank, at least, pari 
+passu with the Issuer’s other unsubordinated and unsecured payment obligation, except 
+such obligations preferred by law.  
+ 
+11.2 
+The Issuer’s operations and assets 
+As long as any MTN is outstanding, the Issuer undertakes not to significant change the 
+nature of the Group’s operation or sell or otherwise dispose any assets, if such disposal 
+has a significant adverse effect on the Issuer’s ability to perform its obligations towards 
+the Noteholders.  
+11.3 
+Programme Amount 
+The Issuer may not issue additional MTN under the MTN Programme if the total principal 
+amount of the outstanding MTN under the MTN Programme, including those MTN 
+intended to be issued, exceeds the Programme Amount on the day on which the
+
+--- Page 39 ---
+39 
+ 
+agreement regarding the issuance of MTN was entered into between the Issuer and the 
+relevant Dealer.  
+11.4 
+Negative Pledge 
+The Issuer undertakes, as long as any MTN is outstanding: 
+a) not to provide security or cause any other to provide security, whether in the form of a 
+contingent liability or otherwise, for any Market Loan that has been or may be issued 
+by the Issuer; 
+b) not to provide security for Market Loans, other than through contingent liability (which 
+in turn may not be secured) that has been or may be issued by other than the Issuer; 
+and 
+c) to ensure that Group Companies, other than the Issuer, when taking up Market Loans, 
+comply with the provisions in paragraph a) and b) above, save that such other Group 
+Companies may provide contingent liability (which in turn may not be secured) for 
+other Group Companies’ Market Loans. 
+ 
+11.5 
+Admission to trading on a Regulated Market 
+The Issuer (itself or the relevant Dealer on its behalf) undertakes to apply for admission 
+on the relevant Regulated Market for Loans which according to the Final Terms shall be 
+admitted to trading on a Regulated Market and to use its best effort to ensure that the 
+Loans remains listed as long as the relevant Loan is outstanding, however not longer than 
+as permitted under applicable laws and regulations of the relevant Regulated Market and 
+Euroclear Sweden.   
+11.6 
+Governing law etc. 
+The Issuer undertakes to comply in all material respects with prevailing rules and 
+instructions by Swedish or relevant foreign governmental authorities, central bank, or 
+other public authorities or Regulated Markets to which the MTN have been admitted to 
+trading.  
+11.7 
+Availability of Loan Terms 
+The Issuer undertakes to keep the prevailing version of these Terms and Conditions and 
+the Final Terms for all outstanding Loans which are admitted to trading on a Regulated 
+Market available on its website. 
+12. 
+ACCELERATION OF LOANS 
+12.1 
+The Calculation agent shall in writing declare the relevant Loan, including any accrued 
+interest, immediately due and payable, or payable at such date decided by the Calculation
+
+--- Page 40 ---
+40 
+ 
+agent or the Noteholders’ Meeting (as applicable), upon the occurrence of any 
+circumstances stated in paragraph 12.2 and if: 
+(i) 
+so requested by the Noteholders under a Loan at the Noteholders Meeting; or 
+(ii) so requested in writing by Noteholders who, at the time of the request, represent not 
+less than one tenth of the total outstanding Nominal Amount for the relevant Loan. 
+Noteholders shall, upon request, provide evidence that the Noteholder is a 
+Noteholder on the relevant Business Day. Such request may only be made by a 
+Noteholder that sole represents one tenth of the total outstanding Nominal Amount 
+or jointly of Noteholders who, together, represents one tenth of the total outstanding 
+Nominal Amount on the relevant Business Day. 
+12.2 
+Loans may only be declared due and payable in accordance with paragraph 12.1 if: 
+a) the Issuer fails to make timely payment of principal or interest regarding the relevant 
+Loan under this MTN programme, unless the delay (i) is a result of a technical or 
+administrative error; and (ii) does not continue for more than three (3) Business Days;   
+b) the Issuer, other than stated in paragraph (a) above or in the section Green Bond in 
+the Final Terms, fails to perform its obligations under the Loan Terms regarding 
+relevant Loan under this MTN Programme and where correction is possible and the 
+Issuer receives a written request for correction of the Calculation Agent, Issuing Dealer 
+or Noteholders and where such correction has not occur in twenty (20) Business Days; 
+c) (i) any Group Company, regarding another loan, fail to pay when due or within the 
+applicable grace period and such loan, as a consequence thereof, has been 
+accelerated, or could have been accelerated, where no notice of acceleration provision 
+exists or where the non-payment would have constituted the final payment, if the delay 
+in payment continues for ten (10) Business Days, provided that the outstanding debt 
+under the relevant loan amounts to not less than SEK two hundred and fifty million 
+(250,000,000) (or an equivalent value in another currency), or (ii) another loan to a 
+Group Company has been declared due and payable in advance as a consequence 
+of an acceleration provision (regardless of the nature), provided that the total of due 
+and payable liabilities under such accelerated loans amounts to not less than SEK two 
+hundred and fifty million (250,000,000) (or an equivalent value in another currency); 
+d) any Group Company fails, within fifteen (15) Business Days from the day such 
+company receives a legitimate claim, to make performance under any guarantee or 
+surety which such company has provided for the financial obligations of a third party, 
+provided that the total legitimate claims not satisfied within such time amount to not 
+less than SEK two hundred and fifty million (250,000,000) (or an equivalent value in 
+another currency);  
+e) assets owned by a Group Company with a value in excess of SEK twenty-five million 
+(25,000,000) (or an equivalent value in another currency) are attached and sold or 
+becomes subject of similar foreign proceedings and such attachment and sale or other 
+foreign proceedings are not accelerated within thirty (30) Business Days from the 
+enforcement decision or the decision regarding similar foreign proceedings;
+
+--- Page 41 ---
+41 
+ 
+f) any Group Company cancel its payments;  
+g) any Group Company applies for, or admits an application for, company reorganization 
+according to the Swedish Companies Reorganization Act (Sw. lag (2022:964) om 
+företagsrekonstruktion) or similar proceedings; 
+h) an event of bankruptcy of the Issuer occurs; 
+i) an event of voluntary liquidation of the Issuer, or unvoluntary liquidation of any Group 
+Company, occurs; or 
+j) a circumstance occurs which entails that the Issuer is replaced as the debtor under a 
+relevant Loan by another party and such decision has not been approved by the 
+Noteholders in accordance with paragraph 13.9. 
+The term “loan” as used in paragraph c) above also includes overdraft accounts (SW: 
+kredit i räkning) and sums which are not received as a loan, but which must be paid on 
+the basis of a debt security obviously intended for public trading.  
+12.3 
+The Calculation Agent may not declare the relevant Loan, together with any interest, due 
+for payment in accordance with this section 12 with reference to a termination provision if 
+a Noteholders’ Meeting has resolved that the relevant circumstances shall not give rise 
+(temporary or preliminary) to a termination pursuant to this section 12.  
+12.4 
+The Issuer shall be obligated to immediately notify the Issuing Dealer and the Noteholders 
+in accordance with section 16 (Notice) in the event any acceleration provision in paragraph 
+12.2 becomes applicable. In the absence of such notice, neither the Calculation Agent nor 
+the Issuing Dealer, irrespective of actual knowledge, shall be deemed to be aware of a 
+termination provision. Neither the Calculation Agent nor the Issuing Dealer are obligated 
+itself to monitor whether the provisions of acceleration exist according to paragraph 12.2. 
+12.5 
+Upon redemption of Loans following acceleration in accordance with paragraph 12.1: 
+a) interest-bearing Loans shall be redeemed at an amount per MTN which together with 
+accrued interest, would have been redeemed on the final Maturity Date; and 
+b) non-interest-bearing Loans shall be redeemed at an amount per MTN determined by 
+the following formula as per the date of acceleration of the Loan: 
+Nominal Amount 
+(1 + r)t 
+ 
+r =  
+the ask rate quoted by the Calculation Agent for Swedish government 
+bonds with an outstanding term to maturity corresponding to the 
+remaining terms of the relevant Loan. In the absent of such ask rate, 
+the bid rate shall be used instead, as reduced by a market bid/ask 
+spread, expressed in percentage points. The calculation shall be 
+based on the closing quotation.
+
+--- Page 42 ---
+42 
+ 
+t =  
+the remaining term for the relevant Loan, expressed in the Day Count 
+Convention Actual/360 for MTN denominated in SEK or EUR. 
+ 
+13. 
+NOTEHOLDERS’ MEETING 
+13.1 
+The Calculation Agent may and shall, at the request of another Issuing Dealer, the Issuer 
+or the Noteholders, that at the time of the request represent not less than a tenth of the 
+Adjusted Loan Amount under the relevant Loan (such a request can only be made by 
+Noteholders registered in the debt register maintained by Euroclear Sweden on the 
+Business Day occurring immediately after the day the request was received by the 
+Calculation Agent and must, if a request is made by a number of Noteholders, be made 
+jointly) convene a Noteholders’ Meeting for the Noteholders under the relevant Loan. 
+13.2 
+The Calculation Agent shall convene a Noteholders’ Meeting by sending notice of this to 
+each Noteholder, the Issuer, and Issuing Dealer within five (5) Business Days from the 
+date when a request was received from the Issuer, Noteholders, or the Issuing Dealer in 
+accordance with paragraph 13.1 (or such later date as necessary for technical or 
+administrative reasons). 
+13.3 
+The Calculation Agent may refrain from convening a Noteholders’ Meeting if (i) the 
+proposed decision must be approved by any party in addition to the Noteholders and this 
+party has notified the Calculation Agent that such approval will not be given, or (ii) the 
+proposed decision is not compatible with governing law.  
+13.4 
+The notice of the meeting described in paragraph 13.2 shall include (i) time for the 
+meeting, (ii) place for the meeting, (iii) the agenda of the meeting (including each request 
+of decision by the Noteholders) and (iv) a form of power of attorney. Only matters that 
+have been included in the notice may be decided on at the Noteholders’ Meeting. If 
+notification by the Noteholders is required to attend the Noteholders’ Meeting, such 
+requirements shall be included in the notice.   
+13.5 
+The Noteholders’ Meeting shall be held no earlier than fifteen (15) Business Days and no 
+later than thirty (30) Business Days after the date of the notice of the meeting. Noteholders’ 
+Meetings for several Loans under the MTN Programme may be held at the same occasion. 
+13.6 
+Without deviating from provisions of these Terms and Conditions, the Calculation Agent 
+may prescribe such further provisions relating to the convention of and holding of the 
+Noteholders’ Meeting as it considers appropriate. Such provisions may include, among 
+other things, the possibility of Noteholders voting without attending the meeting in person 
+or that electronic voting or a written voting procedure shall be used.   
+13.7 
+Only a person who is or has been provided with a power of attorney in accordance with 
+section 4 (Right to act on behalf of Noteholders) by someone who is a Noteholder on the 
+Record Date for the Noteholders’ Meeting, may exercise voting rights at such Noteholders’ 
+Meeting, provided that the relevant MTN is covered by the Adjusted Loan Amount. The 
+Calculation Agent may attend the Noteholders’ Meeting and shall ensure that an extract 
+from the debt register maintained by Euroclear Sweden on the Record Date for the
+
+--- Page 43 ---
+43 
+ 
+Noteholders’ Meeting, is available at the Noteholders’ Meeting. 
+13.8 
+The Noteholder and the Calculation Agent, and their respective representatives or 
+advisors, are entitled to participate at the Noteholders’ Meeting. The Noteholders’ Meeting 
+may decide that another person may attend. Representatives shall submit a duly issued 
+power of attorney to be approved by the chairperson of the Noteholders’ Meeting. The 
+Noteholders’ Meeting shall commence with the appointment of a chairperson, a secretary 
+to take the minutes, and persons to attest the minutes. The chairperson shall prepare a 
+list of Noteholders that are present and entitled to vote at the meeting, with information on 
+the proportion of the Adjusted Loan Amount that is held by each respective Noteholder 
+(the “Voting Register”). The Voting Register shall thereafter be approved by the 
+Noteholders’ Meeting. When applying these provisions, Noteholders who have provided 
+their vote through electronic voting, ballot paper or the equivalent shall be deemed to 
+present at the Noteholders’ Meeting. Only those who were Noteholders or representatives 
+for such Noteholders on the Business Day of the Noteholders’ Meeting, and who are 
+covered by the Adjusted Loan Amount, are entitled to vote and shall be included in the 
+Voting Register. The Issuer shall be granted access to relevant voting calculations and 
+the basis for these. The minutes shall be completed as soon as possible and made 
+available to Noteholders, the Issuer, and the Calculation Agent.   
+13.9 
+Decisions on the following matters requires the approval of Noteholders representing not 
+less than ninety (90) per cent. of the Adjusted Loan Amount of which Noteholders are 
+voting under the relevant Loan at the Noteholders’ Meeting: 
+(a) 
+a change of the Maturity Date, reduction of Nominal Amount, changes in terms 
+relating to interest or amount to be repaid (other than in accordance with the Loan 
+Terms, including what follows from the from the application of section 7 
+(Replacement of Base Rate)) or change in the specified Currency of the Loan; 
+(b) 
+a change to the terms of this section 13; 
+(c) 
+a substitution of debtor; and 
+(d) 
+a mandatory exchange of MTN for other securities.  
+13.10 Matters that are not covered by paragraph 13.9 require the approval of Noteholders 
+representing more than fifty (50) per cent. of the part of the Adjusted Loan Amount for 
+which Noteholders are voting under the relevant Loan at the Noteholders’ Meeting. This 
+includes, but is not limited to, changes to and waivers of rights related to the Loan Terms 
+that do not require a greater majority (other than changes as described in section 14 
+(Change of terms, etc.)) and termination of Loans. 
+13.11 A Noteholders’ Meeting is quorate if Noteholders representing not less than fifty (50) per 
+cent. of the Adjusted Loan Amount under the relevant Loan in respect of a matter in 
+paragraph 13.9 and otherwise twenty (20) per cent. of the Adjusted Loan Amount under 
+the relevant Loan are attending at the meeting in person or via telephone (or by a 
+representative with a power of attorney). 
+13.12 If a Noteholders’ Meeting has not met the necessary quorum requirements, the Calculation
+
+--- Page 44 ---
+44 
+ 
+Agent shall convene a new Noteholders’ Meeting (in accordance with paragraph 13.2) 
+provided that the relevant proposal has been withdrawn by the party or parties that initiated 
+the Noteholders’ Meeting. The quorum requirement in paragraph 13.11 shall not apply at 
+such new Noteholders’ Meeting. If the Noteholders’ Meeting has met the quorum 
+requirements for some but not all maters which are to be decided on the Noteholders’ 
+Meeting, decisions shall be made in those matters for which a quorum is present whereas 
+any other matters shall be referred to a new Noteholders’ Meeting.  
+13.13 A decision at a Noteholders’ Meeting that extends obligations or limits rights of the Issuer, 
+an Issuing Dealer or the Calculation Agent under the Loan Terms shall also require 
+approval of the party concerned. 
+13.14 A Noteholder that holds more than one MTN does not have to vote for all the MTN it holds 
+and does not have to vote in the same way for all the MTN it holds. 
+13.15 The Issuer may not, directly or indirectly, pay or contribute to the payment of any 
+compensation to any Noteholder in order that this Noteholder will give its approval under 
+the Loan Terms, unless such compensation is offered to all Noteholders that give their 
+approval at a relevant Noteholders’ Meeting.   
+13.16 A decision made at a Noteholders’ Meeting is binding on all Noteholders under the relevant 
+Loan, irrespective of whether they are represented at the Noteholders’ Meeting. 
+Noteholders shall not be liable for any losses that the decision causes to other 
+Noteholders.  
+13.17 The Calculation Agent’s reasonable costs and expenses occasioned by a Noteholders’ 
+Meeting, including reasonable payment to the Calculation Agent, shall be paid by the 
+Issuer.  
+13.18 At the request of the Calculation Agent, the Issuer shall without delay provide the 
+Calculation Agent a certificate stating the total Nominal Amount for MTN held by Group 
+Companies on the relevant Record Date prior to a Noteholders’ Meeting, irrespective of 
+whether such Group Company is directly registered as the owner of MTN. The Calculation 
+Agent shall not be responsible for the content of such certificate or otherwise be 
+responsible for determining whether a MTN is owned by a Group Company. 
+13.19 Noteholders under the relevant Loan shall be notified, without delay, of any and all 
+decisions made at a Noteholders’ Meeting through a press release published on the 
+Issuer’s website and in accordance with section 16 (Notices). At the request of a 
+Noteholder, the Calculation Agent shall provide the Noteholders the minutes of the 
+relevant Noteholders’ Meeting. However, failure to notify the Noteholders as stated above 
+in this section does not affect the validity of the decision. 
+14. 
+CHANGE OF TERMS ETC.  
+14.1 
+The Issuer and the Dealers may agree on adjustments to correct any clear and obvious 
+errors in these Terms and Conditions. 
+14.2 
+The Issuer and the Calculation Agent may agree on adjustments to correct any clear and
+
+--- Page 45 ---
+45 
+ 
+obvious errors in the Final Terms of certain Loans.  
+14.3 
+The Issuer and the Arranger or the Independent Adviser may, without the approval of the 
+Noteholders, agree on and execute amendments to the Loan Terms in accordance with 
+what is described in section 7 (Replacement of Base Rate) and such amendments will be 
+binding on those covered by the Loan Terms.  
+14.4 
+Engagement of a new Dealer to the MTN Programme may be made through an agreement 
+between the Issuer, the dealer in question and the other Dealers. A Dealer may resign as 
+a Dealer, but a Calculation Agent in respect of a specific Loan may not resign unless a 
+new Calculation Agent is appointed in its place.  
+14.5 
+Amendments to or concession of Loan Term in cases other than as set out in paragraphs 
+14.1 to 14.4 shall take place through a decision at a Noteholders’ Meeting as described in 
+section 13 (Noteholders’ Meeting). 
+14.6 
+A decision at a Noteholders’ Meeting of an amendment to the terms may include the 
+objective content of the amendment and need not contain a specific wording of the 
+amendment. 
+14.7 
+A decision on an amendment of the terms shall also include a decision in respect of when 
+the amendment enters into force. However, an amendment shall not enter into force until 
+it has been registered with Euroclear Sweden (where applicable) and published on the 
+Issuer’s website.  
+14.8 
+The amendment or concession of Loan Terms in accordance with this section 14 shall be 
+promptly notified by the Issuer to the Noteholders in accordance with section 16 (Notices) 
+and published on the Issuer’s website. 
+15. 
+PRESCRIPTION 
+15.1 
+Claims for the repayment of principal shall be prescribed ten (10) years after the Maturity 
+Date. Claims for the payment of interest shall be prescribed three (3) years after the 
+relevant Interest Payment Date. Upon prescription, the Issuer shall be entitled to keep the 
+funds that has been reserved for such payments.     
+15.2 
+If a period of limitation is tolled, a new limitation period of ten (10) years will commence 
+for claims in respect of principal and three (3) years for claims in respect of interest 
+amounts, in both cases calculated from the day of the tolling of the limitation period, as 
+such date is determined pursuant to the provisions of the Swedish Limitations Act (Sw: 
+preskriptionslagen (1981:130)).  
+16. 
+NOTICES 
+16.1 
+Notices shall be given to the Noteholders of the relevant Loan at the address registered 
+with Euroclear Sweden on the Record Date prior to dispatch. A notice to the Noteholders 
+shall also be published through a press release and published on the Issuer’s website. 
+16.2 
+Notices to the Issuer or Dealers shall be provided at the address registered with the
+
+--- Page 46 ---
+46 
+ 
+Swedish Companies Registration Office (Sw: Bolagsverket) on the Business Day prior to 
+dispatch.  
+16.3 
+A notice to the Issuer or Noteholders in accordance with the Loan Terms that is sent by 
+normal mail to the stated address shall be deemed to have been received by the recipient 
+on the third Business Day after dispatch and notice sent by courier shall be deemed to 
+have been received by the recipient when delivered to the specified address. 
+16.4 
+In the event a notice is not sent correctly to a certain Noteholder the effectiveness of notice 
+to other Noteholders shall be unaffected.  
+17. 
+LIMITATION OF LIABILITY, ETC. 
+17.1 
+With regards to the obligations imposed on the Dealers, the Dealers shall not be held 
+liable for any losses arising out of any Swedish or foreign legislation, actions by Swedish 
+or foreign public authorities, acts of war, strikes, blockades, boycott, lockout or any other 
+similar circumstance. The reservation in respect of strikes, blockades, boycotts and 
+lockouts applies even if the concerned Dealer itself takes such measures or is subject to 
+such measures. 
+17.2 
+Losses arising in other cases shall not be compensated by a Dealer if the relevant Dealer 
+has exercised due care. In no circumstance shall compensation be paid for indirect losses. 
+17.3 
+Should a Dealer not be able to fulfil its obligations due to any circumstance set out in 
+paragraph 17.1, such actions may be postponed until the obstacle has been ceased. 
+17.4 
+The aforesaid shall apply unless otherwise provided in the Swedish Financial Instruments 
+Accounts Act. 
+18. 
+GOVERNING LAW AND JURISDICTION 
+18.1 
+This Loan Terms and any other non-contractual obligations arising out of or in connection 
+with the Loan Terms shall be governed by Swedish law.  
+18.2 
+Disputes shall be settled by Swedish courts. Stockholm District Court (Sw: Stockholms 
+tingsrätt) shall be the court of first instance.
+
+--- Page 47 ---
+47 
+ 
+We hereby confirm that the above Terms and Conditions are binding upon us. 
+Stockholm 19 April 2024 
+ 
+LANTMÄNNEN EK FÖR
+
+--- Page 48 ---
+48 
+ 
+6 
+Form of Final Terms 
+Appendix 1 
+ 
+FORM OF FINAL TERMS 
+FINAL TERMS LOAN NO [•] 
+UNDER LANTMÄNNEN EK FÖR:S (”THE ISSUER”) 
+MTN PROGRAM 
+ 
+The Loan shall be subject to Terms and Conditions dated [14 April 2021]/[20 April 2022]/[21 April 
+2023]/[19 April 2024] and the Final Terms set out below. Definitions not defined in these Final 
+Terms shall have the meaning described in the Terms and Conditions or otherwise in the Issuer’s 
+Base Prospectus, approved and registered with the Swedish Financial Supervisory Authority on 
+16 April 2025, including any, from time to time, published supplemental prospectuses (the “Base 
+Prospectus”) prepared in accordance with Article 8.1 of the Regulation (EU) 2017/1129 of the 
+European Parliament and of the Council. This document constitutes the Final Terms for the Loans 
+and has been prepared in accordance with Article 8.5 of the Regulation (EU) 2017/1129 of the 
+European Parliament and of the Council. Full information on the Issuer and the Loan is only 
+available on the basis of the combination of these Final Terms and the Base Prospectus (as 
+supplemented). 
+The Base Prospectus and any supplemental prospectuses are available on the Issuer’s website 
+(www.lantmannen.se) and may also be requested free of charge from the Issuer’s headquarter. 
+[[These Final Terms replace the Final Terms dated [insert date], whereupon the Nominal Amount 
+has been increased from [SEK]/[EUR] [amount in numbers] to [SEK]/[EUR] [amount in numbers].] 
+GENERAL 
+1. 
+Series Number: 
+[•] 
+ 
+(i) 
+Tranche Number: 
+[•] 
+2. 
+Aggregate Nominal Amount: 
+ 
+ 
+(i) 
+Series: 
+[•] 
+ 
+(ii) 
+Tranche 1: 
+[•]  
+ 
+[(iii) 
+Tranche 2: 
+[•]] 
+3. 
+Issue Price per MTN: 
+[•] per cent. Of the Aggregate Nominal 
+Amount [plus accrued interest from [insert 
+date] (if applicable)] 
+4. 
+Currency: 
+[Swedish kronor (”SEK”)]/[Euro (”EUR”)] 
+5. 
+Specified Denomination(s): 
+[SEK]/[EUR] [•] (the amount may not be less 
+than EUR 100,000 or corresponding 
+amount in SEK)
+
+--- Page 49 ---
+49 
+ 
+6. 
+Issue Date: 
+[•] 
+ 
+(i) 
+Settlement Date: 
+[•] 
+7. 
+Interest Commencement Date: 
+[•] 
+8. 
+Maturity Date: 
+[•] 
+9. 
+Interest Structure: 
+[Fixed Rate] 
+[STIBOR/EURIBOR FRN (Floating Rate 
+Notes)] 
+[Zero Coupon] 
+10. 
+Amount with which MTN is to 
+be redeemed on the Maturity 
+Date:  
+100 per cent. of the nominal amount.  
+ 
+11.  
+Call Option:  
+[Issuer Call]/[Not Applicable] 
+(If not applicable, delete the remaining 
+paragraphs of this section) 
+ 
+(i) Provisions in relation to 
+voluntary redemption 
+[The Issuer may redeem the MTN prior to 
+the Maturity Date in accordance with 
+section 9 (Voluntary Redemption) of the 
+Terms and Conditions on [•] [and each 
+Interest Payment Date thereafter] at [•] per 
+cent of the nominal amount] 
+ 
+ 
+ 
+PROVISIONS RELATING TO INTEREST PAYABLE 
+12. 
+Fixed Rate Provisions: 
+[Applicable]/[Not Applicable]  
+(If not applicable, delete the remaining 
+paragraphs of this section) 
+ 
+(i) 
+Rate of Interest: 
+[•] per cent per annum 
+ 
+(ii) 
+Day Count Convention: 
+[(30/360)] 
+ 
+(iii) 
+Interest 
+Payment 
+Day(s): 
+[•] in each year, first time [•] and last time [•], 
+however if such a day is not a Business 
+Day, interest will not be paid until the 
+following Business Day. However, interest 
+is only calculated and payable up to and 
+including the Interest Payment Date 
+ 
+(N.B. This will need to be amended in the 
+case of long or short coupons) 
+13. 
+Floating Rate Provision (FRN): 
+[Applicable]/[Not Applicable] 
+(If not applicable, delete the remaining 
+paragraphs of this section) 
+ 
+(i) 
+Base Rate: 
+[•] month(s) [STIBOR]/[EURIBOR] 
+[The Base Rate for the first interest period 
+shall be calculated using linear interpolation
+
+--- Page 50 ---
+50 
+ 
+between [•] month(s) [STIBOR]/[EURIBOR] 
+and [•] month(s) [STIBOR/EURIBOR]] 
+ 
+(ii) 
+Margin: 
+[+/-] [•] per cent per annum, of the nominal 
+amount 
+ 
+(iii) 
+Day Count Convention: 
+[(Actual/360)] 
+ 
+(iv) 
+Interest Determination 
+Date: 
+[The second/[•]] Business Day prior to the 
+first day of each Interest Period, beginning 
+on [•] 
+ 
+(v) 
+Interest Period: 
+The time from [•] to and including [•] (the first 
+Interest Period), and thereafter each period 
+of approximately [•] months ending on an 
+Interest Payment Date. 
+ 
+(vi) 
+Interest 
+Payment 
+Date(s)  
+[•], [•], [•] and [•] in each year, first time [•] up 
+to including the Maturity Date, however if 
+such day is not a Business Day, the Interest 
+Payment Date shall be deemed to be the 
+next Business Day, provided that such 
+Business Day does not occur in a new 
+calendar month, in which case the Interest 
+Payment Date shall be deemed to be the 
+previous Business Day. The Interest will be 
+calculated and payable up to and including 
+each relevant Interest Payment Date.  
+14. 
+Zero Coupon: 
+[Applicable]/[Not Applicable] 
+(If not applicable, delete the remaining sub-
+paragraphs of this section)  
+ 
+(i) 
+Terms for Loans without 
+Interest: 
+[Not Applicable]/[Specify details] 
+OTHER INFORMATION 
+15. 
+Issuing Dealer(s): 
+[Swedbank AB (publ)]/[Danske Bank A/S 
+Danmark, Sverige Filial]/[Nordea Bank 
+Abp]/[Skandinaviska Enskilda Banken AB 
+(publ)]/[•] 
+16. 
+Calculation Agent: 
+[Swedbank AB (publ)]/[Danske Bank A/S 
+Danmark, Sverige Filial]/[Nordea Bank 
+Abp]/[Skandinaviska Enskilda Banken AB 
+(publ)]/[•] 
+17. 
+ 
+Admission to trading: 
+[An application in relation to admission to 
+trading will be submitted to [Nasdaq 
+Stockholm AB]/[specify other regulated 
+market]] 
+ 
+(i) Estimate of total expenses 
+related 
+to 
+admission 
+to 
+trading: 
+ 
+[•]
+
+--- Page 51 ---
+51 
+ 
+ 
+(ii) Total numbers of securities 
+admitted to trading: 
+ 
+[•] 
+ 
+ 
+(iii) The earliest date on which 
+the 
+securities 
+will 
+be 
+admitted to trading: 
+[•] 
+ 
+18.  
+ 
+ 
+ 
+ 
+ 
+Green Bonds: 
+ 
+ 
+ 
+ 
+[Applicable]/[Not Applicable] 
+(If applicable, specify below) 
+Green Framework applies to this Loan.  
+19. 
+Interests of natural and legal 
+persons involved in the issue: 
+ 
+[Not Applicable]/[Specify] 
+(If applicable, describe the interests of any 
+natural or legal persons involved in the issue, 
+that might be of significance to the Issue, 
+including possible conflicts of interest)  
+ 
+20. 
+ 
+Applicable specific risk 
+factors:  
+ 
+[In accordance with the risk factor with the 
+heading [[specify] in the Base Prospectus] 
+[“Risks associated with Green Bonds”] in 
+the Base Prospectus] 
+21. 
+Clearing: 
+Euroclear Sweden AB 
+22. 
+ISIN: 
+SE[•] 
+23. 
+Issue rating: 
+[Not Applicable]/[Specify] 
+24. 
+Date of approval for the issue:  
+[•] 
+25.  
+Estimated net proceeds: 
+[SEK]/[EUR] [•] less customary transaction 
+costs and fees 
+26. 
+The use of the proceeds:  
+ 
+[Specify]/[In accordance with the Green 
+Framework]  
+ 
+The Issuer hereby confirms that the above Final Terms are applicable to Loan, together with the 
+Terms and Conditions and undertakes to repay the Loan and to, where applicable, pay interest 
+in accordance herewith. [The Issuer further confirms that it has disclosed all material events that 
+has occurred after the date of the Base Prospectus, that could affect the market’s assessment of 
+the Issuer.  
+ 
+[Stockholm] [Date] 
+LANTMÄNNEN EK FÖR
+
+--- Page 52 ---
+52 
+ 
+7 
+Information about the Issuer 
+7.1 
+Description of the Issuer 
+Lantmännen ek för, with registration number 769605-2856, is a cooperative association (Sw. 
+ekonomisk förening) incorporated in Sweden on 1 January 2001 under the laws of Sweden. The 
+original Svenska Lantmännens Riksförbund was established on 30 August 1905. The Issuer’s 
+form of association is regulated by the Cooperative Associations Act (Sw. lag (2018:672) om 
+ekonomiska föreningar). The Issuer was registered with the Swedish Companies Registration 
+Office (Sw. Bolagsverket) on 26 January 2000. The registered office of the Issuer is located in 
+Stockholm with postal address Box 30192, 104 25 Stockholm and visiting address S:t 
+Göransgatan 160 A, 112 17 Stockholm. The Legal Entity Identifier (LEI) Code of the Issuer is 
+529900AB08F05L4HWU11. 
+The governance of the Group is based on, inter alia, the Issuer’s statues, the Cooperative 
+Associations Act, the Code of Governance of Cooperative and Mutual Enterprises and other 
+applicable laws and regulations.  
+The Issuer is an agricultural association owned by its members. According to the statues of the 
+Issuer, the purpose of the Issuer is to enhance the members’ economic interests by way of 
+purchasing, refining and selling products from the members’ plant cultivation as well as 
+marketing and selling input materials for the use in the members’ production (plant cultivation, 
+animal production and forestry), operating trade of construction goods, machines and 
+equipment for the use in the members’ production, carry out activities in the food sector and 
+other production areas and services to the extent that the executive board considers it 
+appropriate, owning and managing real estate and engaging in financial activities, enhancing 
+the technical and economic development of agriculture, enhancing the agriculturalists’ 
+association business and engaging in activities compatible or related hereto.  
+7.2 
+Main business  
+The Issuer is an agricultural association, operating in agriculture, machinery, bioenergy and 
+food. The Issuer is owned by approximately 17,000 Swedish farmers and the Issuer had about 
+12,000 employees as per 31 December 2024. The Issuer operates on an international market 
+with Sweden as its base of operations. During the year 2024 the Issuer had a turnover of 
+approximately SEK 68 billion. 
+The main objective of the Issuer’s business is the farmland and its potentials. With the base of 
+grains, the Issuer enhances the resources of the farmland for a viable agriculture and takes 
+responsibility from field to fork. 
+The Group consists of the parent company Lantmännen ek för and approximately 140 units in, 
+amongst others, Sweden, Denmark, Finland, Norway, the Baltics, Belgium, France, the 
+Netherlands, the United Kingdom, Germany, the USA and Ukraine. The Group is organised in 
+three sectors – the Agriculture Sector, the Energy Sector and the Food Sector. In addition, there 
+are three separate business areas, Scan, Swecon and Real Estate, as further described below.
+
+--- Page 53 ---
+53 
+ 
+ 
+  
+The turnover in 2024 was allocated to the respective sectors as follows: 36 per cent (Agriculture 
+Sector), 10 per cent (Energy Sector), 30 per cent (Food Sector), 9 per cent (Scan Business 
+Area), 14 per cent (Swecon Business Area) and 1 per cent (Real Estate Business Area).  
+In December 2023, the Issuer signed an agreement to acquire HKScan Oyj’s Swedish 
+operations, HKScan Sweden AB. The acquisition includes all operations in Sweden and the 
+brands Scan, Pärsons and Bullens. It broadens and strengthens the Issuer’s business portfolio 
+from field to fork and enhances the long-term conditions for Swedish farming. The transaction 
+was subject to approval by the relevant authorities and in March 2024 the acquisition was fully 
+approved and completed. The new name of the company is Scan Sverige and the business is a 
+new business area within the Group. 
+7.2.1 
+Agriculture Sector  
+The Agriculture Sector, which constitutes the Issuer’s core business, develops and markets 
+products and services to promote strong, competitive farming. The Sector accounts for 36 
+percent of the Group’s sales. The Agriculture Sector is based in Sweden and has a good position 
+in the Baltic Sea region through its international wholly and partly-owned companies. 
+The Sector consists of Lantmännen Agriculture Sweden, Lantmännen Machinery in Sweden, 
+Lantmännen Agriculture Finland, Lantmännen Agro in Denmark and Lantmännen Seed in the 
+Netherlands. The Sector is responsible for the Issuer’s ownership interests in the Scandagra 
+Group in the Baltic region and Scandagra Polska in Poland. 
+Lantmännen Agriculture Sweden offers a wide range of products for crop and livestock 
+production and purchases grain, oilseeds, pulses and forages which are sold on to grain traders 
+and Swedish and international industry. 
+Lantmännen Machinery imports, markets and sells agricultural machinery and spare parts and 
+provides services in Sweden. The product portfolio contains brands as Fendt, Kuhn, Väderstad 
+and Joskin. 
+As of 1 April 2023, the agricultural business in Finland operates in two separate companies 
+focusing on separate sales channels: Lantmännen Agro and Lantmännen Agro Kauppiaat. 
+Lantmännen Agro provides agri-supply for crop production and feed for livestock production 
+and horses. The company also trades in grain in the Finnish and international markets. 
+Lantmännen Agro Kauppiaat is responsible for the sale of agricultural inputs, feed, machinery, 
+spare parts and fuels. Lantmännen Agro in Denmark is primarily a buyer of Danish grain and 
+a key part of the Issuer’s internal grain value chain. Lantmännen Seed in the Netherlands 
+conducts plant breeding of triticale and potato at the processing station in Emmeloord.
+
+--- Page 54 ---
+54 
+ 
+7.2.2 
+Energy Sector 
+The Energy Sector produces bioenergy products and accounts for 10 per cent of the Group’s 
+sales. The Sector operates in a global market with the main focus in Europe, and has facilities 
+in Sweden, Finland, Denmark, France and the UK. 
+The Energy Sector manufactures and markets sustainable ethanol fuel, protein feed, carbon 
+dioxide, starch products, gluten, vodka, beta glucan, oat protein, alkylate petrol, lubricants and 
+solid processed wood fuels. In 2024, the division included Lantmännen Biorefineries, 
+Lantmännen Aspen, and Scandbio, with Scandbio being divested at the end of November 2024. 
+The Sector has wholly or partly-owned companies in Sweden, Finland, Denmark, France, 
+Germany, the UK, South Korea and the USA. 
+The Lantmännen Biorefineries facility in Norrköping is a large-scale biorefinery where 
+renewable raw materials are processed into products that can replace fossil-based products. 
+Grain and starchy residues are processed into ethanol, carbonic acid, wheat protein for food 
+(gluten) and a protein-rich feed material. The biorefinery is the Nordic region’s largest producer 
+of ethanol with a high climate performance and a carbon footprint that is over 95 per cent lower 
+than fossil fuels. Lantmännen Biorefineries facility in Lidköping produces and supplies 
+ingredients and finished goods to the food, paper and beverage industries, and is an important 
+part of the grain value chain. The construction of a new production facility in Lidköping began 
+in the autumn of 2024 for the extraction of plant-based proteins using peas and faba beans as 
+raw materials. The facility is expected to be completed in the first half of 2027 and the 
+investment of SEK 1.2 billion is the largest investment of its kind in Sweden. The Lantmännen 
+Biorefineries facility in Kimstad processes oats into beta-glucan and oat protein and also 
+produces heat-treated peeled oat kernel for further processing in the food industry. 
+Lantmännen Aspen, with its brands Aspen, Agrol, Marline and Coryton, manufactures and 
+markets fuels, lubricants and chemical products that create benefits for machinery, people and 
+the environment. The products are produced in Sweden, France and the UK and sold in about 
+30 countries in Europe, as well as in South Korea, Japan, the USA and Canada. During 2024, 
+Aspen Group was established with the aim of developing coordination and governance to 
+promote continued growth. Aspen offers environmentally friendly fuels, such as alkylate petrol 
+and HVO diesel for small engines. Agrol markets lubricants and chemical maintenance 
+products to the professional market for agriculture, forestry and construction in the Nordic 
+countries. Marline offers fuels for small engines, including alkylate petrol and is also active 
+within machine and hardware retail. Coryton produces speciality fuels for the motor industry 
+and motorsport, with its base and production in the United Kingdom. 
+7.2.3 
+Food Sector 
+The Food Sector refines grain and other raw materials from arable land and produces flour, 
+bread, breakfast products, pasta and ready meals. The Issuer’s green sprout emblem, which can 
+be found on the product packaging, is a guarantee of responsibly produced food. The Sector 
+offers “Good food” to customers in food retail, food service and the food industry, and accounts 
+for 30 per cent of the Group’s sales. 
+The Food Sector consists of Lantmännen Unibake, Lantmännen Cerealia and the Issuer’s 
+ownership interests in the partly owned companies Viking Malt and KG:s Ägg. The Food 
+Sector produces food in 51 facilities in 14 countries under brands such as Kungsörnen, AXA, 
+Start!, Bonjour, Hatting, Korvbrödsbagarn, Schulstad, Finn Crisp, Amo, Vaasan and Myllyn 
+Paras. 
+The Food Sector works to achieve resource-efficient production, more sustainable packaging 
+solutions, transport with a low climate impact, safe work environments, and responsible
+
+--- Page 55 ---
+55 
+ 
+sourcing and business relationships. Good food from Lantmännen is used to communicate 
+responsible food production from field to fork. Lantmännen Unibake and Lantmännen Cerealia 
+are affiliated with the Science Based Targets initiative, a global programme for companies to 
+reduce emissions in line with the Paris Agreement. During 2024, Cerealia's climate goals were 
+approved in the programme, and Unibake's goals were approved already in 2023. 
+Lantmännen Unibake is a producer of bakery products, with sales in more than 60 countries. 
+In 2024, a large-scale investment was made in a new bakery in Romania, and two production 
+lines were commissioned. The new bakery is a key factor in being able to grow in southeastern 
+Europe. 
+Lantmännen Cerealia develops, produces and markets grain-based products such as flour, 
+hulled grains, muesli, granola, pasta, pancakes, crispbread, pulses, food grains, whole grains 
+and vegetarian products, and ready meals. Operations are conducted in Sweden, Norway, 
+Denmark, Finland and Ukraine, with sales through food retailers, the food service sector and 
+directly to industrial bakeries and food producers. Sales are primarily in the domestic markets, 
+but also through exports of crispbread and snack products. Lantmännen Cerealia's goal is for 
+flour from Kungsörnen and oatmeal from Axa to be produced in a fossil-free value chain. Such 
+a chain was established during 2024. The work of focusing the business on core categories 
+continued in 2024 and the ready meals business under the Gooh brand was divested. 
+7.2.4 
+Business area Scan 
+The business area Scan includes the company Scan Sverige, a meat and charcuterie company 
+with meat from Swedish farms. Scan Sweden is committed to sustainable development in the 
+value chain and works closely with the farms to achieve a net zero climate footprint throughout 
+the value chain by 2050. The Business Area accounts for 9 per cent of the Group’s sales. 
+7.2.5 
+Business area Swecon 
+The business area Swecon is a dealer in machinery for the construction and civil engineering 
+industry and a partner of Volvo Construction Equipment. Swecon sells Volvo construction 
+equipment in Sweden, Germany, Estonia, Latvia and Lithuania. In September 2024, 
+Lantmännen acquired Entrack Group, which supplies wear parts and tools in Sweden, Finland, 
+Poland and Italy in particular. In May 2024, a dealer agreement for Sweden, Germany, Estonia 
+and Latvia was signed with the Ammann Group, following Volvo's announcement at the end 
+of 2023 that it would sell its Hammeln facility, which manufactured asphalt machines. 
+Ammann has a wider range of road machinery than Swecon was previously able to offer 
+customers. Swecon offers a broad range of construction machinery, equipment, spare parts, 
+training, servicing and support through its service facilities. The Business Area accounts for 14 
+per cent of the Group’s sales. Swecon focuses on digital solutions and services in the area of 
+productivity, with the aim of systematically reducing carbon dioxide emissions. 
+7.2.6 
+Business area Real Estate 
+The business area Real Estate aims to provide the Group's operations with suitable properties 
+and premises and to optimise the return on externally leased properties. Lantmännen 
+Fastigheter manages and develops 150 properties in 80 locations, mainly in Sweden but also in 
+Finland and Denmark. The business area generally accounts for about 1 per cent of the Group’s 
+sales, including 2024. 
+7.3 
+Organisation and ownership structure 
+The Issuer is a member owned association, where the members are both users and owners of 
+the Issuer. In accordance with the articles of association of the Issuer, the members shall
+
+--- Page 56 ---
+56 
+ 
+conduct farming or food production. The Issuer operates as a cooperative and is owned by 
+approximately 17,000 Swedish farmers. The owners have an equity stake in the Issuer and 
+jointly own the industrial operations. The members are entitled to the Issuer’s surplus. 
+The Issuer is the parent of the Group. As per 31 December 2024 the Issuer had approximately 
+140 wholly and partly owned subsidiaries in Sweden and abroad. In addition, the Group is a 
+shareholder in several international companies. As the Issuer’s operations are partially 
+conducted through its subsidiaries, the Issuer is dependent on its subsidiaries to generate profit 
+and cashflow as well as to meet its obligations under the MTN Programme. 
+The Issuer has group functions with the objective to operate its respective business and support 
+the Group’s leadership and the divisions in matters which are of mutual interest to the Group. 
+The group functions are Economy and Finance, Owner Relations, Research and Development, 
+Communication and Human Resources, Sustainable Development, Legal and Compliance, 
+Marketing and Brand, IT, and Mergers & Acquisitions and Business Development. 
+7.4 
+Information on trends and material changes in the Issuer’s 
+financial situation 
+There have been no recent events specific to the Issuer that could have a material impact on the 
+solvency of the Issuer. Furthermore, there have been no material negative changes in the 
+prospects of the Group since the publication of the Group’s audited annual report for 2024, nor 
+have there been any significant changes in the Group’s financial performance or financial 
+position since the end of the last financial period and up to the date of this Prospectus. 
+7.5 
+Board of Directors 
+According to the articles of association, the Issuer’s Board of Directors consists of a minimum 
+of 7 and a maximum of 11 members elected by the general meeting. The Board of Directors 
+also consists of three employee representatives. The board members elected by the general 
+meeting are elected for two years at a time. All of the board members can be contacted via the 
+Issuer’s head office on the address S:t Göransgatan 160 A, 104 25 Stockholm, Sweden. 
+Per Lindahl (born 1964) – Chairman 
+Other assignments: Board member of Viking Malt Oy and team SE. Member of the Royal 
+Swedish Academy of Agriculture and Forestry (KLSA). 
+ 
+Jan-Erik Hansson (born 1963) – Vice Chairman 
+Other assignments: -  
+ 
+Gunilla Aschan (born 1960) – Board member 
+Other assignments: Board member of Fyrklövern ekonomi och juridik AB. 
+ 
+Patrick Aulin (born 1972) – Board member 
+Other assignments: Board member of LRF Växtodling. 
+ 
+Jenny Bengtsson (born 1984) – Board member 
+Other assignments: Chairman of Lantmännen Research Foundation.  
+ 
+Jacob Bennet (born 1966) – Board member 
+Other assignments: Chairman of Svenska Betodlarna ek. för. and Sveriges Jordägarförbund 
+Jordbrukskommittén. Board member of World Association of Beet and Cane Growers and 
+Viking Malt Oy.
+
+--- Page 57 ---
+57 
+ 
+Johan Bygge (born 1956) – Board member 
+Other assignments: Chairman of Scandi Standard AB, Guard Therapeutics International AB, 
+Arevo AB and AB Regin. Vice chairman of AP3. Board member of Getinge AB, Riksbankens 
+Jubileumsfond, and Capman Oyj. 
+ 
+Charlotte Elander (born 1973) – Board member 
+Other assignments: Board member of the companies within the groups of Rubisco AB, Almi 
+Företagspartner Östergötland and Lantmännen Research Foundation. 
+ 
+Marie Grönborg (born 1970) – Board member 
+Other assignments: Board member of SSAB, Bioextrax AB,  Eolus Vind AB and Aduro Clean 
+Technolgies Inc. 
+ 
+Per Wijkander (born 1977) – Board member 
+Other assignments: Board member of Jämställdhetsakademin. 
+ 
+Tommy Brunsärn (born 1959) – Board member as employee representative 
+Other assignments: - 
+ 
+Pär-Johan Lööf (born 1966) – Board member as employee representative 
+Other assignments: Board member of Naturbutiken på Öland AB and the non-profit association 
+Odling i Balans and the Swedish Farmers’ Foundation for Agricultural Research. 
+ 
+Tomas Welander (born 1961) – Board member as employee representative 
+Other assignments: - 
+ 
+7.6 
+Group Management 
+Information about the members of the Issuer’s group management team is listed below. The 
+members of the group management team can be contacted via the Issuer’s head office at S:t 
+Göransgatan 160 A, 104 25 Stockholm, Sweden. 
+ 
+Magnus Kagevik (born 1967) – Group President & CEO 
+Other assignments: Board member of Viking Malt Oy, team agrar and team SE. 
+ 
+Per Arfvidsson (born 1962) – Executive Vice President & CTO Lantmännen Group 
+Other assignments: Chairman of Sweden Food Arena and Agronod. 
+Lars Appelqvist (born 1974) – Executive Vice President Scan Sverige 
+Other assignments: Chairman of KCF, The Swedish Food Federation, Sweden Food and 
+Consivo AB. 
+Lars-Gunnar Edh (born 1969) – Executive Vice President Lantmännen Energy Sector 
+Other assignments: Vice chairman of Drivkraft Sverige AB. Board member of  SimSuFoodS 
+AB and Scandi Standard AB. 
+Joachim Haas (born 1964) – Managing Director Real Estate Business area 
+Other assignments: - 
+Thomas Isaksson (born 1970) – Executive Vice President Lantmännen Cerealia Business 
+Area 
+Other assignments: -
+
+--- Page 58 ---
+58 
+ 
+Niklas Lindberg (born 1974) – Executive Vice President Swecon Business area 
+Other assignments: Chairman of X-Innovations AB. Board member of Hyttbäcken Invest AB. 
+Carsten Lyngsø Thomsen (born 1967) – Executive Vice President Lantmännen Unibake 
+Business area 
+Other assignments: - 
+Elisabeth Ringdahl (born 1965) – Executive Vice President Lantmännen Agriculture 
+Sector 
+Other assignments: Chairman of Rezekne JSC. Board member of Scandagra Polska Sp.z o.o. 
+Michael Sigsfors (born 1974) – Executive Senior Vice President & CFO Lantmännen 
+Group 
+Other assignments: - 
+Emma Stockhaus (born 1971) – Senior Vice President & Head of HR 
+Other assignments: - 
+ 
+Henrik Sundell (born 1964) – Senior Vice President General Counsel 
+Other assignments: - 
+ 
+Frida Tydèn (born 1985) – Senior Vice President & Head of Communications & 
+Marketing 
+Other assignments: - 
+ 
+7.7 
+Other information on the Board of Directors and Group 
+Management  
+None of the members of the board of directors or of the group management team have, to the 
+Issuer’s knowledge, any existing or potential conflicts of interest with respect to his/her 
+obligations towards the Issuer and his/her private interests and/or other obligations. Some of 
+the board members and executive directors are active farmers and members of the Issuer. 
+7.8 
+Auditor 
+Lantmännen is audited by authorised and appointed auditors, who are elected for one year at a 
+time. The authorised auditor has been Ernst & Young AB (“EY”) since 2006 and EY was re-
+elected as the Issuer’s auditing firm at the general meeting held on 7 May 2024 for the period 
+until the end of the general meeting 2025 with Andreas Troberg, authorised auditor and member 
+of FAR, as auditor-in-charge. Kristina Glantz Nilsson, Jimmy Grinsvall and Ann-Sofi Ignell 
+are appointed auditors. Andreas Troberg can be contacted at address c/o Ernst & Young AB, 
+Box 7850, 103 99 Stockholm. 
+7.9 
+Advisors 
+Advokatfirman Vinge KB is the Issuer’s legal advisor in connection with the establishment of 
+the Base Prospectus. In its capacity as Dealers, Swedbank, Danske Bank, Nordea and 
+Skandinaviska Enskilda Banken provide, amongst other things, financial advice. Vinge and the 
+Dealers may provide additional advice and other financing services than in respect of the MTN 
+Programme. As compensation for the advisor’s work in connection with the establishment of 
+the Base Prospectus the advisors will, subject to certain reservations, be reimbursed by the 
+Issuer for the costs incurred by them.
+
+--- Page 59 ---
+59 
+ 
+7.10 
+Material agreements 
+No material agreements or contracts not entered into in the ordinary course of the Issuer’s 
+business and which may entail that a right is conferred, or an obligation is imposed a company 
+within the Group that may have a material impact on the Issuer’s ability to meet its obligations 
+and commitments towards the Noteholders have been concluded. 
+7.11 
+Disputes, arbitration and other legal proceedings 
+In October 2014, the European Commission conducted unannounced inspections at the 
+premises of several companies in Europe active in the bioenergy industry, including 
+Lantmännen Biorefineries (formerly Lantmännen Agroetanol) in Norrköping. Since October 
+2014, the European Commission has investigated Lantmännen Biorefineries and other 
+companies for infringement of the European Union’s antitrust regulations regarding ethanol 
+trade. In December 2023, Lantmännen Biorefineries received the European Commission’s 
+decision. The European Commission found that Lantmännen Biorefineries during a period 
+more than 10 years ago was involved in an infringement of European competition rules in the 
+ethanol trade. In light of this, the Commission imposed a fine of 47,7 MEUR on the Issuer and 
+Lantmännen Biorefineries jointly and severally. The fine has been paid in the first quarter of 
+2024, but Lantmännen disputes the conclusions of the European Commission's decision and 
+has appealed the decision to the Court of Justice of the European Union.  
+Except for the above, the Issuer is not part of any governmental, legal or arbitration proceedings 
+(including any such proceedings which are pending or threatened which the Issuer is aware of 
+could arise) during the previous twelve months which may have, or have had in the recent past, 
+significant effects on the Issuer’s financial position or profitability. 
+7.12 
+Preliminary date for listing, market and costs related to listing 
+The Issuer will file the application for registration of specific MTN with Nasdaq Stockholm or 
+another regulated market pursuant to the Final Terms. 
+7.13 
+Documents available for inspection 
+Copies of the Issuer’s articles of association and certificate of registration are available in paper 
+form under office hours throughout the period of validity of the Base Prospectus at the Issuer’s 
+head office located at S:t Göransgatan 160 A, 104 25 Stockholm. Furthermore, copies of all 
+documents incorporated into this Base Prospectus by reference are available in paper form 
+under office hours throughout the period of validity of this Base Prospectus at the Issuer’s head 
+office located at S:t Göransgatan 160 A, 104 25 Stockholm, Sweden as well as electronically 
+at www.lantmannen.com. 
+7.14 
+Credit rating 
+The Issuer has been assigned a long-term issuer rating of Baa2 with stable outlook by the credit 
+rating institute Moody’s.  Moody's is established in the EU and is registered under Regulation 
+(EU) No 1060/2009.  The below table shows the credit ratings provided by Moody’s, where 
+Aaa is the highest rating, and C the lowest. 
+- 
+Aaa 
+- 
+Aa (1-3) 
+- 
+A (1-3) 
+- 
+Baa (1-3) 
+- 
+Ba (1-3)
+
+--- Page 60 ---
+60 
+ 
+- 
+B (1-3) 
+- 
+Caa (1-3) 
+- 
+Ca 
+- 
+C  
+ 
+7.15 
+Documents incorporated by reference 
+The following documents are incorporated in the Base Prospectus by reference. The documents 
+have previously been published. 
+Information 
+Source 
+The Group’s audited income statement 
+and balance sheet (s. 73, 79), cash flow 
+analysis (s. 81), changes in equity (s. 82), 
+notes (s. 89-132), information on 
+accounting principles (s. 89) and auditor’s 
+report (s. 134-137). 
+Annual report for 2023 
+https://www.lantmannen.com/siteassets/documents/01-om-
+lantmannen/finansiell-information/annual-report-with-sustainability-report-
+2023.pdf 
+The Group’s audited income statement 
+and balance sheet (s. 71, 76-77), cash 
+flow analysis (s. 78-79), changes in 
+equity (s. 80), notes (s. 86-128), 
+information on accounting principles (s. 
+86) and auditor’s report (s. 130-133). 
+Annual report for 2024 
+https://www.lantmannen.com/siteassets/documents/01-om-
+lantmannen/finansiell-information/annual-report-with-sustainability-report-
+2024.pdf 
+ 
+The Issuer’s Terms and Conditions dated 
+21 April 2023 (pp. 26-49). 
+ The Issuer’s base prospectus dated 21 April 2023 
+https://www.lantmannen.se/siteassets/documents/01-om-lantmannen/finansiell-
+information/lantmannen-mtn-prospectus-2023.pdf  
+The Issuer’s Terms and Conditions dated 
+20 April 2022 (pp. 26-44). 
+The Issuer’s base prospectus dated 21 April 2022 
+https://www.lantmannen.se/siteassets/documents/01-om-lantmannen/finansiell-
+information/lantmannen-mtn-prospekt-2022.pdf 
+The Issuer’s Terms and Conditions dated  
+14 April 2021 (pp. 25-42) 
+The Issuer’s base prospectus dated 14 April 2021 
+https://www.lantmannen.se/siteassets/documents/01-om-lantmannen/press-och-
+nyheter/publikationer/finansiering/vinge-7924934-v1-lantmannen_-
+_mtn_2021_-_prospekt.pdf 
+ 
+The parts of the documents listed above that have not been incorporated by reference are not 
+deemed relevant for investors in MTN. In addition to the information incorporated in the Base 
+Prospectus by reference, information on the Issuer’s website or any other specified website is 
+not part of the Base Prospectus and has not been examined or approved by the competent 
+authority.
+
+--- Page 61 ---
+61 
+ 
+7.16 
+Incorporation of future financial information 
+The Issuer is not required to publish supplements pursuant to Article 23(1) of Regulation (EU) 
+2017/1129 for new annual or interim financial information published during the period of 
+validity of the Base Prospectus. By reference, each income statement, balance sheet, statement 
+of changes in equity, cash flow statement, notes, information on accounting policies and 
+auditor's report (as applicable) in the Issuer's interim reports for the periods 1 January - 30 April 
+2025 and 1 January - 31 August 2025 and year-end report for the financial year 2025 and annual 
+report for the financial year 2025 will be incorporated by reference into this Base Prospectus. 
+The reports will be made available in electronic form on the Issuer’s website 
+https://www.lantmannen.com/about-lantmannen/financial-information/financial-reports/ 
+during the Base Prospectus’ validity period. The new financial information will be published 
+on the dates set out in the Issuer's financial calendar available on the Issuer's website 
+https://www.lantmannen.com/about-lantmannen/financial-information/ or such other date as 
+announced by press release. Only the annual report for 2025 must be audited by the Issuer's 
+auditor, and other new financial information may therefore not be subject to audit or review by 
+the auditor. 
+7.17 
+Audit of the annual historical information 
+The consolidated financial statements of the Issuer for the financial years 2023 and 2024 have 
+been prepared in accordance with the International Financial Reporting Standards (IFRS) as 
+adopted by the European Union and in accordance with the Swedish Annual Reports Act (Sw. 
+Årsredovisningslag (1995:1554)). IFRS also includes International Accounting Standards 
+(IAS) and interpretations to the standards named IFRIC and SIC. In addition to the Annual 
+Reports Act and IFRS, the Issuer applies the Supplementary Accounting Rules for Groups (Sw. 
+Rådet för finansiell rapporterings rekommendation RFR 1, Kompletterande redovisningsregler 
+för koncerner). The Issuer’s financial statements for 2023 and 2024 are prepared in accordance 
+with the Annual Reports Act and the Supplementary Accounting Rules for Legal Persons (Sw. 
+Rådet för finansiell rapporterings rekommendation RFR 2, Redovisning för juridiska personer. 
+The financial information set out in the consolidated financial statements for 2023 and 2024 
+has been reviewed by the Issuer’s auditor-in-charge, Andreas Troberg, as well as of the 
+appointed auditors, Kristina Glantz Nilsson, Jimmy Grinsvall and Ann-Sofi Ignell.  
+The audit of the financial statements has been conducted in accordance with generally accepted 
+auditing standards in Sweden and the audit reports have been issued without qualification. 
+Except for what is stated in the auditor’s report, which has been incorporated in this Base 
+Prospectus by reference, or what is otherwise expressively stated, no information in this Base 
+Prospectus has been reviewed by the Issuer’s auditor.
+
+--- Page 62 ---
+62 
+ 
+8 
+Definitions 
+ 
+Base Prospectus 
+means this base prospectus, including all documents 
+incorporated hereto by reference. 
+Calculation Agent 
+means (i) if a Loan has been issued by two or more Issuing 
+Dealers, the Issuing Dealer designated by the Issuer to be 
+responsible for certain administrative tasks relating to the Loan 
+in accordance with the Final Terms; and (ii) if a Loan has been 
+issued by only one Issuing Dealer, the Issuing Dealer; 
+Danske Bank 
+means Danske Bank A/S, Danmark, Sverige Filial, a Swedish 
+branch with reg. no. 516401-9811. 
+Dealers 
+means Swedbank, Danske Bank, Nordea och Skandinaviska 
+Enskilda Banken and each other dealer which accedes to this 
+MTN Programme in accordance with paragraph 14.4 of the 
+Terms and Conditions, subject to that dealer not having resigned 
+as dealer. 
+Cooperative Associations Act 
+means the Swedish Cooperative Associations Act (Sw. lag 
+(2018:672) om ekonomiska föreningar). 
+EUR 
+is the currency used by the participating member states in 
+accordance with the European Union’s regulatory framework 
+for the Economic and Monetary Union (EMU).  
+Euroclear Sweden 
+means Euroclear Sweden AB, a private limited liability 
+company with reg. no. 556112-8074. 
+Final Terms 
+means the final terms which are entered into for a certain Loan 
+in accordance with the appendix to the Terms and Conditions 
+(Form of Final Terms). 
+Green Bond 
+means an MTN which constitutes a Green Bond pursuant to the 
+Final Terms. 
+Green Framework 
+means the framework for green financing (a so-called green 
+bond framework) which enables the Issuer to issue Loans under 
+a MTN programme as green bonds. 
+Green Projects 
+means the project categories an amount equal to the net 
+proceeds of the Green Bonds will finance or refinance. 
+Group 
+means Lantmännen ek för together with its subsidiaries. 
+ISIN 
+means the international number for identification of securities 
+retrieved from Euroclear Sweden. 
+Issuer 
+means Lantmännen ek för, a cooperative association with reg. 
+no. 769605-2856. 
+Issuing Dealer 
+means, in accordance with the Final Terms, that or those 
+Dealers through which MTN will be or have been issued. 
+Loan 
+means each Loan, comprising of one or more MTN, which the 
+Issuer raises under this MTN Programme. 
+Maturity date 
+means the day when the Adjusted Loan Amount in respect of a 
+Loan is to be repaid and as set out in the Final Terms. 
+Member 
+a legal or natural person which is a direct member of the Issuer 
+and its associated local associations. 
+MSEK 
+means million Swedish kronor.  
+MTN 
+means a unilateral debt instrument in the Nominal Amount 
+which has been registered in accordance with the Swedish 
+Central Securities Depositories and Financial Instruments 
+Accounts Act (Sw. lag (1998:1479) om värdepapperscentraler 
+och kontoföring av finansiella instrument) and is part of a Loan 
+issued by the Issuer under this MTN Programme. 
+MTN Programme 
+means the programme for MTN which Swedbank, Nordea, 
+Danske Bank and Skandinavsika Enskilda Banken (as Dealers) 
+and the Issuer has agreed on or about the date hereof.
+
+--- Page 63 ---
+63 
+ 
+Nasdaq Stockholm 
+means Nasdaq Stockholm AB, a limited liability company with 
+reg. no. 556420-8394. 
+Nordea 
+means Nordea Bank Abp, a public limited liability bank 
+company registered in Finland with reg. no. 2858394-9. 
+SEK 
+means the official currency of Sweden. 
+Skandinaviska Enskilda Banken 
+means Skandinaviska Enskilda Banken AB (publ), a public 
+limited liability bank company with reg. no. 502032-9081. 
+Swedbank 
+means Swedbank AB (publ), a public limited liability bank 
+company with reg. no. 502017-7753. 
+Terms and Conditions 
+means the terms and conditions established in respect of Loans 
+issued by the Issuer on the Swedish capital market under a 
+programme through issuing notes with a maturity of at least one 
+year.
+
+--- Page 64 ---
+64 
+ 
+9 
+Addresses 
+ 
+Issuer 
+Lantmännen ek för 
+S:t Göransgatan 160 A, 
+Box 30192,  
+SE-104 25 Stockholm, Sweden 
+www.lantmannen.com 
+e-post: info@lantmannen.com 
+tel. +46 (0)10 556 00 00 
+ 
+Arranger and Dealer 
+Swedbank AB (publ) 
+Large Corporates & Institutions 
+SE-105 34 Stockholm, Sweden 
+www.swedbank.se   
+ 
+Dealer 
+Danske Bank A/S, Danmark, Sverige Filial  
+Norrmalmstorg 1 
+SE-103 92 Stockholm, Sweden 
+http://www.danskebank.se 
+ 
+Dealer 
+Nordea Bank Abp 
+Satamaradankatu 5  
+FI-00020 Nordea, Finland 
+www.nordea.se 
+ 
+Dealer 
+Skandinaviska Enskilda Banken AB (publ) 
+Corporate & Investment Banking 
+Kungsträdgårdsgatan 8 
+SE-106 40 Stockholm, Sweden 
+www.seb.se 
+ 
+Central Securities 
+Depository 
+Euroclear Sweden AB  
+Klarabergsviadukten 63 
+Box 191, 
+SE-101 23 Stockholm, Sweden 
++46 (0)8-402 90 00 
+www.euroclear.eu   
+ 
+Financial advisor 
+Swedbank AB (publ) 
+Large Corporates & Institutions 
+SE-105 34 Stockholm, Sweden 
+www.swedbank.se  
+ 
+Legal advisor to the Issuer 
+Advokatfirman Vinge KB 
+Smålandsgatan 20 
+Box 1703  
+SE-111 87 Stockholm, Sweden 
++46 (0)10-614 30 00 
+www.vinge.se

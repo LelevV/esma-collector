@@ -1,0 +1,4814 @@
+--- Page 1 ---
+Confidential 
+ 
+1 
+ 
+2 
+ 
+3 
+NORDEA KREDIT REALKREDITAKTIESELSKAB 
+4 
+(incorporated as a limited company in Denmark with business registration (CVR) number 15134275) 
+5 
+ 
+6 
+BASE PROSPECTUS FOR ISSUANCE OF MORTGAGE BONDS (ROs) AND 
+7 
+COVERED MORTGAGE BONDS (SDROs)  
+8 
+ 
+9 
+Nordea Kredit Realkreditaktieselskab (“Nordea Kredit” or the “Issuer”) has been licensed as a mortgage 
+10 
+institution by the Danish Financial Supervisory Authority (“the Danish FSA”) pursuant to the Danish 
+11 
+Financial Business Act, including a licence to issue mortgage bonds and covered mortgage bonds. Nordea 
+12 
+Kredit may issue new mortgage bonds or covered mortgage bonds under this base prospectus (the “Base 
+13 
+Prospectus”) by way of tap issuance, auctions, pre-issuance or block issuance. 
+14 
+Nordea Kredit has given its consent to Nordea Bank Abp (the “Bank”) to use the Base Prospectus as a 
+15 
+financial intermediary for subsequent resale or final placement of mortgage bonds and covered mortgage 
+16 
+bonds under the Base Prospectus. 
+17 
+Admission to trading on a regulated market as defined in Directive 2014/65/EU of the European Parliament 
+18 
+and of the Council ("MiFIDII") in Denmark for bonds issued under this Base Prospectus may be applied for. 
+19 
+References in this Base Prospectus to the Bonds being "listed" (and all similar references) mean that such 
+20 
+Bonds have been admitted to trading and possibly been listed on a regulated market pursuant to MiFID II.  
+21 
+Application may be made for mortgage bonds and covered mortgage bonds issued under the Base Prospectus 
+22 
+under ISIN codes opened after the date of the Base Prospectus to be admitted to trading and official listing on 
+23 
+Nasdaq Copenhagen A/S. All mortgage bonds and covered mortgage bonds issued are registered with 
+24 
+Euronext Securities and are therefore not issued in physical form. Delivery and clearing etc are executed via 
+25 
+Euronext Securities’ systems. 
+26 
+The Base Prospectus has been prepared by Nordea Kredit with a view to having the securities admitted to 
+27 
+trading on a regulated market in Denmark and to enable a public offer in Denmark. The Base Prospectus has 
+28 
+been prepared as a prospectus in compliance with the Prospectus Regulation (as defined below) and the 
+29 
+relevant implementing legislation in Denmark for the purpose of providing information about the securities 
+30 
+issued. The Base Prospectus is a base prospectus for the purposes of Article 8 of the Prospectus Regulation.  
+31 
+The Bonds (as defined below) issued under the Base prospectus have not been and will not be registered 
+32 
+under the U.S. Securities Act of 1933, as amended, and may not be offered or sold within the United 
+33 
+States or to, or for the account or benefit of, U.S. persons. Furthermore, the Bonds may not be offered 
+34 
+or sold in any other country or jurisdiction, except under circumstances that will result in compliance 
+35 
+with applicable laws and regulations. Furthermore, this Base Prospectus or other offering material may 
+36 
+not be distributed to or published in any country or jurisdiction, except under circumstances that will 
+37 
+result in compliance with applicable laws and regulations. 
+38
+
+--- Page 2 ---
+2 
+Confidential 
+“Mortgage bonds issued by Nordea Kredit in general currently have ratings (“long-term covered bond 
+1 
+rating”) of AAA from Standard & Poor’s Global Ratings Europe Limited (“S&P”). Covered mortgage 
+2 
+bonds issued out of Nordea Kredit’s capital centre 2 have been assigned the same ratings. S&P is 
+3 
+established in the European Union and registered in accordance with Regulation (EC) no 1060/2009 as 
+4 
+of the date of the Base Prospectus. A list of approved credit rating agencies is available on ESMA’s 
+5 
+website ( https://www.esma.europa.eu/supervision/credit-rating-agencies/risk), which was last updated 
+6 
+on 21 October 2022. A rating is not a recommendation to buy, sell or own securities and may be 
+7 
+suspended, downgraded or withdrawn by the relevant credit rating agency at any time. Further 
+8 
+information on Nordea Kredit’s ratings is available in section 12.4 “Credit ratings”.  
+9 
+ 
+10 
+Investing in Bonds (as defined below) issued under this Base Prospectus involves certain risks. 
+11 
+Prospective buyers of Bonds should make sure that they understand the terms and conditions of the 
+12 
+Bonds as well as the extent of their exposure to risk and that they assess the suitability of the securities 
+13 
+as an investment in light of their own circumstances and financial situation. 
+14 
+ 
+15 
+ 
+16 
+ 
+17 
+THIS BASE PROSPECTUS IS DATED 20 FEBRUARY 2023 
+18 
+ 
+ 
+19
+
+--- Page 3 ---
+3 
+Confidential 
+1 
+Introduction .......................................................................................................................................... 4 
+1 
+2 
+Risk factors ........................................................................................................................................... 5 
+2 
+2.1 
+Risks associated with the Issuer .......................................................................................................... 6 
+3 
+2.2 
+Risks related to the Bonds ................................................................................................................... 9 
+4 
+3 
+Responsibility statement .................................................................................................................... 12 
+5 
+3.1 
+Nordea Kredit’s responsibility .......................................................................................................... 12 
+6 
+3.2 
+Persons responsible ............................................................................................................................ 12 
+7 
+3.3 
+Declaration ......................................................................................................................................... 12 
+8 
+4 
+Legislation ........................................................................................................................................... 13 
+9 
+4.1 
+Supervision ......................................................................................................................................... 13 
+10 
+4.2 
+SIFI ...................................................................................................................................................... 13 
+11 
+4.3 
+Lending ............................................................................................................................................... 13 
+12 
+4.4 
+The Balance principle ........................................................................................................................ 14 
+13 
+4.5 
+Supervisory diamond ......................................................................................................................... 16 
+14 
+4.6 
+Recovery and resolution .................................................................................................................... 17 
+15 
+4.7 
+Debt buffer .......................................................................................................................................... 18 
+16 
+4.8 
+Nordea Kredit’s Capital centre 2 and the institution’s general reserves ...................................... 18 
+17 
+4.9 
+Bankruptcy and restructuring .......................................................................................................... 18 
+18 
+4.10 
+Covered bond directive ...................................................................................................................... 20 
+19 
+5 
+Terms of the bonds ............................................................................................................................. 21 
+20 
+6  
+Clean water and sanitation ................................................................................................................ 22 
+21 
+7 
+Affordable and clean energy ............................................................................................................. 22 
+22 
+6 
+Template for Final Terms ................................................................................................................. 28 
+23 
+7 
+Information incorporated into the Base Prospectus by reference ................................................. 33 
+24 
+8 
+Reasons for sale of the Bonds and use of proceeds .......................................................................... 35 
+25 
+9 
+About the Nordea Group and Nordea Kredit Realkreditaktieselskab .......................................... 35 
+26 
+9.1 
+General ................................................................................................................................................ 35 
+27 
+10 
+Board of Directors, Executive Management and other governing bodies ..................................... 46 
+28 
+10.1 
+Board of Directors .............................................................................................................................. 46 
+29 
+10.2 
+Executive Management...................................................................................................................... 47 
+30 
+10.3 
+Board practices ................................................................................................................................... 48 
+31 
+11 
+Taxation .............................................................................................................................................. 49 
+32 
+11.1 
+Denmark ............................................................................................................................................. 49 
+33 
+11.2 
+Foreign Account Tax Compliance Act ............................................................................................. 50 
+34 
+12 
+Subscription, sale, registration and settlement ................................................................................ 50 
+35 
+12.1 
+Terms and conditions of the offer ..................................................................................................... 50 
+36 
+12.2 
+Admission to trading and dealing arrangements ............................................................................ 52 
+37 
+12.3 
+Registration and settlement ............................................................................................................... 52 
+38 
+12.4 
+Credit ratings ..................................................................................................................................... 52 
+39 
+12.5 
+Financial intermediaries .................................................................................................................... 53 
+40 
+13 
+Selling and dealing restrictions ......................................................................................................... 53 
+41 
+14 
+General information .......................................................................................................................... 55 
+42 
+ 
+ 
+43
+
+--- Page 4 ---
+4 
+Confidential 
+1 
+Introduction 
+1 
+The Base Prospectus constitutes a base prospectus for the purposes of the Prospectus Regulation (as defined 
+2 
+below) and has been prepared for the purpose of providing all information about the Issuer and the securities 
+3 
+under the Base Prospectus which given the nature of the Issuer and the securities concerned is deemed 
+4 
+necessary for investors to be able to make an informed assessment of the Issuer’s assets and liabilities, 
+5 
+financial position, results performance and prospects as well as the rights attaching to the securities offered. 
+6 
+Under the Base Prospectus securities governed by the Danish Mortgage-Credit Loans and Mortgage-Credit 
+7 
+Bonds etc Act may be issued. The securities comprise mortgage bonds issued in pursuance of section 18 of 
+8 
+the Danish Mortgage-Credit Loans and Mortgage-Credit Bonds etc Act (“ROs”) as well as covered mortgage 
+9 
+bonds issued in pursuance of section 33 a of the Danish Mortgage-Credit Loans and Mortgage-Credit Bonds 
+10 
+etc Act (“SDROs”).  
+11 
+Any reference in the Base Prospectus to “Bonds” covers all types of securities issued under the Base 
+12 
+Prospectus, that is, ROs and SDROs. An investor holding Bonds is designated “Bondholder”. Any reference 
+13 
+in the Base Prospectus to “mortgage bonds” or “covered mortgage bonds” not in upper case is used to 
+14 
+describe the respective type of security in general, that is, the description applies to securities issued under the 
+15 
+Base Prospectus and such securities in general.  
+16 
+Any reference in the Base Prospectus to “Final Terms” means the final terms that read in conjunction with 
+17 
+the Base Prospectus and the information incorporated by reference are applicable to an ISIN code of 
+18 
+securities issued under the Base Prospectus.  
+19 
+The Base Prospectus is a base prospectus for the purposes of Article 8 of the Prospectus Regulation.  
+20 
+The Prospectus Regulation is defined as Regulation (EU) 2017/1129 of the European Parliament and of the 
+21 
+Council of 14 June 2017. 
+22 
+A financial intermediary may only use the Base Prospectus to make an offer of Bonds subject to prior 
+23 
+consent by Nordea Kredit. Where consent has been given such financial intermediary is obliged to 
+24 
+inform investors of the terms and conditions of the offer at the time the offer is made. Financial 
+25 
+intermediaries using the Base Prospectus are further obliged to state at their websites that they use the 
+26 
+Base Prospectus in accordance with a consent from Nordea Kredit and the conditions attached thereto. 
+27 
+Any offer made by any third party without the consent of Nordea Kredit is unauthorised and Nordea 
+28 
+Kredit does not accept any responsibility or liability in relation to such offer or for the actions of the 
+29 
+persons making any such unauthorised offer. 
+30 
+No persons have been authorised to give any information or to make any representation other than 
+31 
+those contained in this Base Prospectus in connection with the issuance or sale of Bonds and, if given or 
+32 
+made, such information or representation must not be relied upon as having been authorised by the 
+33 
+Issuer.  
+34 
+The distribution of the Base Prospectus or a sale made in this connection must under no circumstances 
+35 
+create any indication that there has not been any changes in the situation of the Issuer since the date of 
+36 
+the Base Prospectus or the date on which the Base Prospectus was last amended (by supplements, if 
+37 
+any), or that there has been no adverse change in the financial position of the Issuer since the date of 
+38 
+the Base Prospectus or the date on which the Base Prospectus was last amended (by supplements, if 
+39 
+any), or that any other information provided in connection with the Base Prospectus is correct at any 
+40 
+time subsequent to the date on which the information is provided.  
+41 
+The distribution of the Base Prospectus and the offer or sale of the Bonds in certain jurisdictions may 
+42 
+be restricted by law. The Issuer presumes that persons who come into possession of this Base 
+43 
+Prospectus will obtain information on and observe all such restrictions. The Bonds issued under the 
+44 
+Base Prospectus are not and will not be registered pursuant to the US Securities Act or with any 
+45 
+securities regulatory authority of any federal state or other jurisdiction of the United States and the 
+46 
+Bonds may be subject to US tax law requirements. Subject to certain exceptions, the Bonds must not be 
+47
+
+--- Page 5 ---
+5 
+Confidential 
+offered, sold or distributed within the United States or to, or for the account or benefit of, “US persons” 
+1 
+(as defined in Regulation S of the US Securities Act). For a description of certain restrictions on the 
+2 
+offer or sale of the securities concerned and the distribution of the Base Prospectus, see section 12 
+3 
+“Subscription, sale, registration and settlement” and section 13 “Selling and dealing restrictions”.  
+4 
+The Bonds will be offered and sold outside the United States to non-US persons (“non-US persons”) 
+5 
+pursuant to Regulation S of the US Securities Act. However, the Bonds may be sold in the United States 
+6 
+to qualified institutional buyers (“QIBs”) in accordance with Rule 144A. Prospective buyers are hereby 
+7 
+notified that sellers of the Bonds are relying on the exemptions from the provisions of section 5 of the 
+8 
+US Securities Act provided by Rule 144A. For a description of these and certain other restrictions on 
+9 
+the offer, sale and transfer of the securities concerned and on the distribution of the Base Prospectus, 
+10 
+see section 12 “Subscription, sale, registration and settlement” and section 13 “Selling and dealing 
+11 
+restrictions”.  
+12 
+Benchmarks Regulation - Interest and/or other amounts payable on floating-rate Bonds may be 
+13 
+calculated by reference to certain reference rates or indices. Any such reference rate or index may 
+14 
+constitute a benchmark for the purposes of Regulation (EU) No. 2016/1011 (the "Benchmarks 
+15 
+Regulation"). If any such reference rate or index does constitute such a benchmark, the relevant Final 
+16 
+Terms will indicate whether or not the benchmark is provided by an administrator included in the 
+17 
+register of administrators and benchmarks established and maintained by the European Securities and 
+18 
+Markets Authority ("ESMA") pursuant to Article 36 (Register of administrators and benchmarks) of 
+19 
+the Benchmarks Regulation. Transitional provisions in the Benchmarks Regulation may have the 
+20 
+result that the administrator of a particular benchmark is not required to appear in the register of 
+21 
+administrators and benchmarks at the date of the relevant Final Terms. The registration status of any 
+22 
+administrator under the Benchmarks Regulation is a matter of public record and, save where required 
+23 
+by applicable law, the Issuer does not intend to update the relevant Final Terms to reflect any change 
+24 
+in the registration status of the administrator. 
+25 
+The relevant Final Terms for the Bonds will include a section titled "MiFID II product governance", 
+26 
+which describes the target market and distribution channels assessed to be appropriate for the relevant 
+27 
+Bonds. Any person subsequently offering, selling or recommending the Bonds (a "Distributor") should 
+28 
+take into consideration the manufacturers' target market assessment; however, a Distributor subject to 
+29 
+MiFID II is responsible for undertaking its own target market assessment in respect of the Bonds (by 
+30 
+either adopting or refining the target market assessment) and determining appropriate distribution 
+31 
+channels. 
+32 
+Neither this Base Prospectus nor any Final Terms constitute an offer or an invitation to subscribe for or 
+33 
+purchase any Bonds and should not be considered as a recommendation by Nordea Kredit that any recipient 
+34 
+of this Base Prospectus or any Final Terms should subscribe for or purchase any Bonds. Each recipient of this 
+35 
+Base Prospectus or any Final Terms shall be taken to have made its own investigation and appraisal of the 
+36 
+condition (financial or otherwise) of Nordea Kredit. 
+37 
+This Base Prospectus dated 20 February 2023 replaces the “Base Prospectus for issuance of mortgage bonds 
+38 
+(ROs) and covered mortgage bonds (SDROs)” dated 22 February 2022 issued by Nordea Kredit. 
+39 
+This prospectus will be valid for 12 months from the date of approval, unless the public is informed 
+40 
+otherwise. 
+41 
+2 
+Risk factors 
+42 
+In this section Nordea Kredit outlines the risk factors which we consider specific and material to either 
+43 
+Nordea Kredit as a mortgage credit institution or the issued mortgage bonds and covered mortgage bonds, the 
+44 
+“Bonds”.  
+45 
+The materiality of a risk factor is a function of its impact should the risk factor “occur” and the probability 
+46 
+that it actually occurs.  
+47
+
+--- Page 6 ---
+6 
+Confidential 
+Prospective investors should carefully consider these risk factors in connection with more extensive 
+1 
+descriptions  in this Base Prospectus prior to making any investment decision with respect to the Bonds.  
+2 
+The risk factors are split into the below categories: 
+3 
+ 
+Risks associated with the Issuer  
+4 
+ 
+Risks associated with the Bonds   
+5 
+For each category we have ranked the individual risk factors according to their materiality as described above 
+6 
+and we have estimated the probability that the risk factor actually occurs.  
+7 
+2.1 
+Risks associated with the Issuer 
+8 
+2.1.1 
+Credit risk 
+9 
+Credit risk is defined as the potential for loss due to the inability of Nordea Kredit’s customers to repay their 
+10 
+loans. If the customer is unable to repay the loan, Nordea Kredit’s credit risk depends on the value of the 
+11 
+property received as collateral and any coverage by the first loss guarantee issued by Nordea Bank. Nordea 
+12 
+Kredit’s credit risk is therefore affected by the general price trends in the property market which in turn are 
+13 
+affected by Danish as well as international economic and political events and economic trends. 
+14 
+Nordea Kredit considers credit risk the most significant risk factor and by the end of 2022 credit risk 
+15 
+represents  94% of the total risk exposure amount (REA) of DKK 72.8bn.  
+16 
+The first loss guarantees amount to DKK 118.7bn at the end of 2022 compared to DKK 119.2bn the year 
+17 
+before. The share of loans covered by the first loss guarantees was 98.6% by the end of 2022.  
+18 
+Nordea Kredit’s credit portfolio ie. customer credit quality, customer segments, geography, loan and property 
+19 
+type is well diversified as illustrated in section 9.1.  
+20 
+The ongoing and expected losses on debtors are expected to be absorbed by Nordea Kredit´s reserves, without 
+21 
+jeopardizing the overall financial status of Nordea Kredit and Nordea Kredit´s rating. 
+22 
+Nordea Kredit considers the probability/risk of massive losses on debtors as low. A negative economic 
+23 
+development causing massive losses on debtors will, however have a material impact on Nordea Kredits 
+24 
+financial status. 
+25 
+2.1.2 
+Dependence on the Bank 
+26 
+Nordea Kredit is highly dependent on the Bank and the rest of the Nordea Group. Certain staff functions, 
+27 
+contact to customers as well as IT systems and solutions are operated jointly by Nordea Group and Nordea 
+28 
+Kredit.  
+29 
+Nordea Kredit fulfils an important strategic role/function for the Bank, by being able to offer customers long-
+30 
+term financing of real estate in Denmark, which is why the interdependence between the Bank and NK is 
+31 
+significant. To ensure that these common processes work smoothly and with clearly defined responsibilities, 
+32 
+this cooperation is governed by Intra Group Agreements (IGAs) and business continuity plans.  
+33 
+Nordea Kredit´s loan products are offered to customers by the Bank, using the business platform of the Bank. 
+34 
+Nordea Kredit delivers the predominant share of long term loans, and therefore fulfils an important strategic 
+35 
+purpose in the the overall business set-up in the Banks’s operations in Denmark.  
+36 
+The Nordea Group also provides other services to Nordea Kredit and perform certain activities on behalf of 
+37 
+Nordea Kredit, and these are likewise governed by IGAs and covered by business continuity plans.  
+38 
+If the Bank or the Nordea Group can no longer perform these services or deliver e.g. IT systems and 
+39 
+solutions, there is a risk of a temporary break in the ordinary conduct of business or that Nordea Kredit’s 
+40
+
+--- Page 7 ---
+7 
+Confidential 
+business cannot be carried on in a fully sound and prudent manner. This could adversely affect Nordea 
+1 
+Kredit’s earnings capacity and thus its ability to pay its Bondholders.  
+2 
+Nordea Kredit currently finds - considering this strategic importance of Nordea Kredit's business area, strong 
+3 
+governance between Nordea Kredit and the Bank, ongoing supervision of intergroup relations and ongoing 
+4 
+supervision performed by relevant FSAs - that the probability of serious risk issues occurring from the 
+5 
+dependency is low. The potential impact will however, depend on which and the number of services that are 
+6 
+affected. 
+7 
+2.1.3 
+Liquidity risk 
+8 
+The primary liquidity risk related to Nordea Kredit is the risk of being unable to sell the required volume of 
+9 
+bonds in connection with financing or refinancing of loans. A failure to adequately address this liquidity risk 
+10 
+may prevent Nordea Kredit from meeting its payment obligations and from continuing its operations.  
+11 
+Nordea Kredit’s adheres to the specific balance principle, why a liquidity risk will primarily affect 
+12 
+disbursement of new loans and refinancing of loans where the maturity of the loan is longer than the maturity 
+13 
+of the issued bond. Nordea Kredit’s activities are limited to conducting mortgage credit operations, with the 
+14 
+funding structure being based solely on the issuance of covered bonds and covered mortgage bonds, hence 
+15 
+there are no other sources of liquidity for financing the granting of loans.  
+16 
+Adjustable- and floating rate bonds have a built-in soft bullet structure according to legislation - cf 
+17 
+“mortgage-credit loans and mortgage-credit bonds etc. act” section 6 - which in special circumstances will 
+18 
+mitigate the liquidity risk by extending the maturity of the bonds. In the sections on legislation and on terms 
+19 
+and conditions of the Base Prospectus, the specific legal provisions on the regulation of refinancing risk are 
+20 
+described in more detail.  
+21 
+The market for Danish mortgage bonds is efficient involving a diversified range of Danish and international 
+22 
+investors. Considering the application of the balance principle and the soft bullet structure on refinancing,  
+23 
+Nordea Kredit currently assesses this risk to be low. 
+24 
+2.1.4 
+Operational risk 
+25 
+Operational risk is defined as the risk of losses – primarily for Nordea Kredit - due to inappropriate or 
+26 
+inadequate internal procedures, human or system errors as well as external events.  
+27 
+If such operational risks materialise and imply that Nordea Kredit suffers a loss (e.g.  a loss stemming from a 
+28 
+human error in the issuance of new loans, IT malfunctions, or breaches of regulative requirements) the 
+29 
+performance and financial position of Nordea Kredit may be adversely affected. 
+30 
+By the end of 2022 operational risk represents 6% of the total risk exposure amount (REA) of DKK 72.8bn.  
+31 
+Nordea Kredit has prepared internal rules and guidelines to minimise the risk of human errors and to ensure 
+32 
+well-operating processes and thus reduce the probability and consequences of operational risks materialising 
+33 
+as well as limit potential conflicts of interests why this risk is considered to be low – however, it is not 
+34 
+possible to estimate the potential impact with a satisfactory degree of accuracy. 
+35 
+2.1.5 
+Market risk  
+36 
+Market risk is the risk of losses as an effect of changes in the market value of Nordea Kredit’s assets and 
+37 
+liabilities as a result of volatility in interest rates and currency rates. The interest rate risk arises from both 
+38 
+cash flow mismatches related to issued bonds and placement of capital, liquidity and pass-through funds. 
+39 
+Currency risk emerges from the retained administrations fees in EUR which are exchanged to DKK. Nordea 
+40 
+Kredit’s earnings may be affected as a result of changes in the DKK/EUR exchange rate.  
+41 
+ 
+42 
+Nordea Kredit operates in adherence to the specific balance principle. As a consequence hereof payments 
+43 
+related to loans and bonds do not generate any interest rate or currency risk. The primary market risks for 
+44 
+Nordea Kredit relate to its placements of capital and liquidity, which has the purpose of supporting Nordea 
+45
+
+--- Page 8 ---
+8 
+Confidential 
+Kredit’s business model. Fluctuations in the interest rate and currency markets may affect the market value 
+1 
+and liquidity of Nordea Kredit’s assets and may result in  losses and carry a negative impact on the profits 
+2 
+from the company’s primary activities, hereby affecting Nordea Kredit’s ability to fulfil its obligations to the 
+3 
+bond holders. Due to the limitations of the specific balance principle Nordea Kredit assesses the likelihood of 
+4 
+market risk related losses that may affect Nordea Kredit’s ability to fulfil its payment obligations as low. 
+5 
+The primary interest rate risk in Nordea Kredit stems from two sources under the applied specific balance 
+6 
+principle. First, interest rate risk arises from cash flow mismatches related to issued bonds, and is calculated 
+7 
+in adherence to scenarios laid out in the Danish FSA’s executive order on bond issuance, the balance 
+8 
+principle and risk management (the executive order on the balance principle), this interest rate risk amounts to 
+9 
+EUR 0.2m at the end of 2022. Secondly, interest rate risk in Nordea Kredit arises from EV risk related to 
+10 
+placement of capital and liquidity which at the end of 2022 was EUR 2.3m. 
+11 
+Nordea Kredit also has currency risk on the received administration fees in EUR, this risk is also regulated 
+12 
+under the specific balance principle, and is by Nordea Kredit considered negligible. 
+13 
+2.1.6 
+Refinancing risk 
+14 
+The Danish market for mortgage bonds is effective and well functioning why the refinancing risk is generally 
+15 
+considered to be low. 
+16 
+Special legislation applies to the refinancing of mortgage loans requiring Nordea Kredit to refinance 
+17 
+mortgage loans where the terms to maturity of the underlying Bonds are shorter than the terms to maturity of 
+18 
+the mortgage loans associated with the Bonds. 
+19 
+Under qualifying circumstances – cf “Mortgage-Credit Loans and Mortgage-Credit Bonds etc.Act” section 6 
+20 
+- Bondholders must accept maturity extension of Bonds instead of redemption. 
+21 
+In the sections on legislation and on terms and conditions of the Base Prospectus, the specific legal provisions 
+22 
+on the regulation of refinancing risk are described in more detail.  
+23 
+Currently Nordea Kredit finds that the refinancing risk is to be considered low – however,  in case of inability  
+24 
+to sell the amount of Bonds required for refinancing Nordea Kredit´s ability to meet its payment obligations 
+25 
+may be threatend. It is not possible to estimate the potential impact of this with a satisfactory degree of 
+26 
+accuracy 
+27 
+2.1.7 
+Risks related to the use of risk models 
+28 
+Nordea Kredit applies internal ratings-based risk models to calculate the risk exposure amount (“REA”) and 
+29 
+the credit risk. The models are in accordance with current national and international guidelines for such 
+30 
+models and approved by relevant authorities. 
+31 
+There is no guarantee that the models fully reflect the actual credit risk of Nordea Kredit and insufficient 
+32 
+models may cause incorrect capitalisation of credit risk and ultimately a risk of unexpected credit losses that 
+33 
+may affect the capability to fulfil the obligations under the Bonds. 
+34 
+The risk models are subject to change as a result of a number of factors, including amendments to national 
+35 
+and international legislation as well as changes to supervisory practices. Such changes may lead to higher 
+36 
+capital adequacy requirements for Nordea Kredit which could affect the capability to fulfil obligations under 
+37 
+the Bonds. 
+38 
+Nordea Kredit currently assesses the probability of internal models being insufficient as small. It is however 
+39 
+not possible to estimate the impact of insufficient models with a satisfactory degree of accuracy. 
+40
+
+--- Page 9 ---
+9 
+Confidential 
+2.1.8 
+Risks related to the implementation of new legislation 
+1 
+Nordea Kredit’s activities are subject to regulation and supervision. Amendments to Danish legislation and 
+2 
+changes to practice by the Danish FSA as well as changes to EU regulation that could adversely affect 
+3 
+Nordea Kredit’s business.  
+4 
+Nordea Kredit continually follows relevant legislative developments, in order to identify and adequately 
+5 
+implement new regulation, which applies to the business of Nordea Kredit. Further, Nordea Kredit has 
+6 
+processes to ensure, that new regulations are implemented in compliance with the legislation. 
+7 
+Since mortgage loans play a significant role in the overall Danish economy the framework regulating the 
+8 
+mortgage credit industry has been and will be subject to change – e.g. requirements for home buyers’ equity, 
+9 
+LTV restrictions etc.  
+10 
+Further, as a fully owned subsidiary of Nordea Bank Abp, Nordea Kredit could be impacted indirectly by 
+11 
+legislative initiatives that regulates the Nordea Group as a whole. 
+12 
+If future legislation imposes further capital demands, increased costs, additional administrative costs, lending 
+13 
+restrictions etc, this might have an effect on the overall financial status of Nordea Kredit.  
+14 
+The risk of new legislation which affects Nordea Kredit and the Bank more severely than the mortgage credit 
+15 
+industry in general is expected to be low. 
+16 
+2.2 
+Risks related to the Bonds 
+17 
+2.2.1 
+Ratings do not necessarily reflect all risks and may be downgraded 
+18 
+Nordea Kredit´s issued mortgage bonds and covered mortgage bonds are all rated by the credit rating agency 
+19 
+S&P – Standard & Poor’s Europe.  
+20 
+The ratings of the Bonds may be downgraded if for instance the financial position of Nordea Kredit is 
+21 
+developing negatively, the rating of the Kingdom of Denmark is downgraded or at the discretion of S&P. 
+22 
+Currently Nordea Kredit considers the risk of downgrading to be low – however, if any rating assigned to the 
+23 
+Bonds is downgraded, suspended or withdrawn, the market value of the Bonds may decline significantly. 
+24 
+2.2.2 
+Loss of SDRO status 
+25 
+If the underlying loans no longer match the value of the SDROs issued to fund the loans or comply with the 
+26 
+lending limits applicable when the loan was granted, Nordea Kredit is under an obligation to provide 
+27 
+supplementary collateral in the form of certain asset types according to the Danish Mortgage-Credit Loans 
+28 
+and Mortgage-Credit Bonds etc Act.  
+29 
+If Nordea Kredit fails to provide such supplementary collateral, all the Bonds issued in the relevant capital 
+30 
+centre will lose their covered mortgage bond status, which will affect the value of the Bonds. 
+31 
+Nordea Kredit currently considers itself adequately capitalised to meet relevant capital requirements why this 
+32 
+risk is considered to be low.  
+33 
+2.2.3 
+Non-compliance with the balance principle 
+34 
+As described below in section 4.4 “The Balance principle” of the Base Prospectus, Nordea Kredit must under 
+35 
+Danish mortgage legislation manage its capital centres in a manner that ensures an appropriate balance 
+36 
+between the payment obligations on the outstanding liabilities and incoming payments on the assets 
+37 
+(including loans) of the capital centre in terms of currency, interest rate, option and maturity structure. This is 
+38 
+known as the balance principle.  
+39 
+To comply with these requirements, Nordea Kredit may for example enter into derivatives contracts in 
+40 
+accordance with the provisions of the Danish executive order on bond issuance, the balance principle and risk 
+41
+
+--- Page 10 ---
+10 
+Confidential 
+management. Non-compliance with the balance principle may cause Nordea Kredit to lose its licence to issue 
+1 
+Bonds, which may influence the price of the Bonds in a manner that is unfavourable to Bondholders. 
+2 
+Nordea Kredit follows the ongoing compliance with the balance principle closely and has not experienced 
+3 
+significant challenges with this, why this risk is considered to be low. 
+4 
+2.2.4 
+Early redemption of Bonds 
+5 
+Borrowers may prepay their mortgage loans either by (i) buying bonds at market price and using these to 
+6 
+prepay their loans, or (ii) in certain cases by prepaying the mortgage loan at a predetermined price, in which 
+7 
+case the market value will generally not rise significantly above this redemption price. Borrowers will often 
+8 
+utilise the prepayment options if they can obtain more attractive financing in this way. Therefore, 
+9 
+Bondholders are exposed to prepayment risk and may have to reinvest at a lower interest rate. 
+10 
+Furthermore, in case of negative coupon interest, the Issuer may make use of unscheduled prepayments, by 
+11 
+drawing bonds for redemption, to offset the negative coupon interest payable by Bondholders, which will 
+12 
+reduce the nominal principal held by Bondholders. In case of unscheduled redemptions due to negative 
+13 
+coupon interest, the volume of bonds drawn for redemption will be based on either par or the market price. In 
+14 
+case of unscheduled redemptions at par, the nominal amount drawn for redemption may deviate from the 
+15 
+amount that could have been obtained by selling the bonds drawn for redemption in the market. In case of 
+16 
+unscheduled redemptions at market price, the proceeds from the redemption may deviate from the nominal 
+17 
+amount drawn for redemption and thus from the proceeds if the Bonds had been redeemed according to 
+18 
+schedule/at maturity. 
+19 
+Nordea Kredit moreover reserves the right to redeem the Bonds in full or in part prior to the maturity date, 
+20 
+alternatively to offer the Bondholders to exchange the Bonds for new bonds in full or in part if the terms of 
+21 
+the loans financed by the Bonds are changed as a result of legislative changes, orders by the authorities and/or 
+22 
+market conditions. Bonds may be drawn for redemption by Nordea Kredit immediately or at a later date at the 
+23 
+predetermined redemption price of the relevant ISIN code. 
+24 
+In periods with high early redemption of bonds it can be difficult for investors to reinvest these redemption 
+25 
+proceeds at a corresponding interest rate and it will thereby affect investors´ expected cashflow from the 
+26 
+investment. 
+27 
+The risk of early redemption is a feature which is known by the market and investors and to a large degree is 
+28 
+part of the pricing of the bonds in question.  
+29 
+2.2.5 
+Risks related to the market – interest rate volatility 
+30 
+Investors in the Bonds are subject to the risk that changes in market interest rates may adversely affect the 
+31 
+value of the Bonds. Furthermore, there is a risk of a negative coupon on floating-rate bonds without an 
+32 
+interest rate floor. 
+33 
+As for floating-rate bonds the interest rate is based on a reference rate that may be disrupted or changed if the 
+34 
+relevant reference rate is changed materially, ceases to exist or an agreement with public authorities to 
+35 
+introduce an alternative reference rate is implemented etc. Such a change may involve risk for the 
+36 
+Bondholders since a replacing reference rate would likely involve other characteristics than the original one. 
+37 
+Nordea Kredit estimates that this risk will affect other mortgage credit bonds in the same way as Bonds 
+38 
+issued by Nordea Kredit – thus the specific risk for Nordea Kredit is considered low. 
+39 
+2.2.6 
+Liquidity in the secondary market  
+40 
+Nordea Kredit cannot assure Bondholders a liquid market following the issuance of bonds.  
+41 
+If the secondary market is affected by limited liquidity the Bondholders may be unable to sell their Bonds 
+42 
+with ease or can only sell their Bonds at prices that will provide them with a poorer return compared to 
+43 
+returns on otherwise similar investments in the secondary market. Nordea Kredit considers the risk as 
+44 
+low/medium. 
+45
+
+--- Page 11 ---
+11 
+Confidential 
+2.2.7 
+Risks related to Green Covered Bonds  
+1 
+Nordea Kredit’s issuance of green bonds takes place observing the criteria of the Nordea Green Funding 
+2 
+Framework following the Green Bond Principles developed by International Capital Market Association 
+3 
+(ICMA).  
+4 
+However, the Nordea Green Funding Framework is not fully aligned with the Taxonomy Regulation 
+5 
+(Regulation (EU) 2020/852 of the European Parliament and of the Council). For example the Nordea Green 
+6 
+Funding Framework include organic farming – which is not covered by the EU Taxonomy. 
+7 
+The Nordea Green Funding Framework is reviewed annually and definitions and classifications may change 
+8 
+over time.  
+9 
+Furthermore, legislation, regulation and market standards continues to evolve and will change over time. 
+10 
+Consequently, there is a risk that the criteria are not in compliance with the investor's or the market's criteria 
+11 
+for green bonds, which may have a negative impact on the reputation or value of bonds. 
+12 
+Nordea Kredit assesses the current risk related to Green Bonds primarily as a reputational risk if the 
+13 
+underlying assets in the green portfolio cease to meet the requirements of the Nordea Green Funding 
+14 
+Framework, however, Nordea Kredit currently considers the risk to be small. 
+15 
+2.2.8 
+Risks pertaining to bankruptcy rules  
+16 
+Investors are incited to assess the ranking of creditors related to an estate in bankruptcy under which the 
+17 
+holders of Covered Mortgage Bonds and Mortgage Bonds together with certain derivatives counterparties 
+18 
+have a primary preferential right to all assets in the capital centre from which the Bonds have been issued.  
+19 
+Any residual claims from the holders of Covered Mortgage Bonds and Mortgage Bonds rank before 
+20 
+unsecured claims against the assets of the Issuer’s estate in bankruptcy. Payments to holders of Covered 
+21 
+Mortgage Bonds and Mortgage Bonds will only stay un-changed if the Issuer has the means to do so. 
+22 
+ 
+ 
+23
+
+--- Page 12 ---
+12 
+Confidential 
+3 
+Responsibility statement 
+1 
+3.1 
+Nordea Kredit’s responsibility 
+2 
+The Base Prospectus has been prepared by Nordea Kredit Realkreditaktieselskab, Grønjordsvej 10, 2300 
+3 
+Copenhagen S, Denmark, who is responsible for the Base Prospectus in accordance with applicable Danish 
+4 
+legislation.  
+5 
+ 
+6 
+3.2 
+Persons responsible 
+7 
+Board of Directors:  
+8 
+ 
+9 
+Mads Skovlund Pedersen  
+ 
+ 
+Anne Rømer 
+10 
+(Chairman)  
+ 
+ 
+ 
+(Vice Chairman)  
+11 
+ 
+12 
+Anders Frank-Læssøe 
+ 
+ 
+Anita Ina Nielsen  
+13 
+(Member of the Board of Directors) 
+ 
+(Member of the Board of Directors) 
+14 
+ 
+15 
+Thomas Vedel Kristensen  
+ 
+ 
+Helene Bløcher 
+16 
+(Member of the Board of Directors) 
+ 
+(Member of the Board of Directors) 
+17 
+ 
+18 
+Marte Kopperstad   
+ 
+ 
+Anders Holkmann Olsen 
+19 
+(Member of the Board of Directors) 
+ 
+(Member of the Board of Directors) 
+20 
+ 
+21 
+who have authorised two members of the Executive Management to jointly sign the Base Prospectus. 
+22 
+ 
+23 
+Executive Management:  
+24 
+ 
+25 
+Morten Boni 
+ 
+ 
+ 
+Claus H. Greve  
+ 
+26 
+(Chief Executive Officer) 
+ 
+ 
+(Deputy Chief Executive Officer)  
+ 
+27 
+ 
+ 
+28 
+ 
+29 
+3.3 
+Declaration 
+30 
+The persons responsible for the information of the Base Prospectus hereby declare that they have made every 
+31 
+effort to ensure that, to the best of their knowledge, the information contained in the Base Prospectus is in 
+32 
+accordance with the facts and that the information makes no omission likely to affect the import of such 
+33 
+information. 
+34 
+Copenhagen, 20 February 2023 
+35 
+According to authorisation granted by the Board of Directors of Nordea Kredit 
+36 
+ 
+37 
+Morten Boni 
+(Chief Executive Officer) 
+Claus H. Greve 
+(Deputy Chief Executive Officer) 
+Nordea Kredit declares that the Base Prospectus has been approved by the Danish FSA in its capacity as 
+38 
+competent authority in compliance with Regulation (EU) 2017/1129. The Danish FSA only approves the 
+39 
+Base Prospectus as meeting the standards of completeness, comprehensibility and consistency as imposed by 
+40 
+Regulation (EU) 2017/1129. However, such approval should not be considered as an endorsement of Nordea 
+41 
+Kredit. 
+42 
+ 
+43 
+ 
+44
+
+--- Page 13 ---
+13 
+Confidential 
+4 
+Legislation 
+1 
+A description of selected elements of the legislative framework is set out below.  
+2 
+Nordea Kredit is a Danish mortgage institution – see also the description of Nordea Kredit in section 9 
+3 
+“About the Nordea Group and Nordea Kredit Realkreditaktieselskab” of the Base Prospectus. Mortgage 
+4 
+institutions are credit institutions regulated pursuant to the Danish Financial Business Act.  
+5 
+The Danish Financial Business Act includes, among other things, provisions on licences for mortgage 
+6 
+institutions, statutory areas of activities, good practice, ownership, management, the organisation of the 
+7 
+undertaking, investment of funds, solvency, liquidity and annual reports. 
+8 
+The activities of mortgage institutions are furthermore regulated by the Danish Mortgage-Credit Loans and 
+9 
+Mortgage-Credit Bonds etc Act. This act stipulates provisions on, among other things, collateral for mortgage 
+10 
+loans, terms to maturity and repayment profiles, lending limits, supervision as well as provisions on the 
+11 
+issuance of covered mortgage bonds (SDROs), covered bonds (SDOs) and mortgage bonds (ROs). 
+12 
+In addition, the activities of Nordea Kredit are regulated by the Capital Requirements Regulation (the 
+13 
+“CRR”), which, among other things, sets requirements for own funds and liquidity.  
+14 
+4.1 
+Supervision 
+15 
+Nordea Kredit is subject to  supervision by the Danish FSA, in order to ensure compliance with the applicable 
+16 
+legislation. The Danish FSA supervises Nordea Kredit’s activities on an ongoing basis, including by on-site 
+17 
+inspections at Nordea Kredit and verification of the valuation of mortgaged properties and by means of 
+18 
+regular reports from Nordea Kredit as specified in executive orders issued by the DFSA pertaining to 
+19 
+mortgage institutions. 
+20 
+4.2 
+SIFI 
+21 
+The Danish FSA designates systemically important financial institutions (“SIFIs”) not later than the 30 June 
+22 
+of every year.  
+23 
+Nordea Kredit has been designated as a SIFI since 3 January 2017. Nordea Kredit is expected to be 
+24 
+designated as a SIFI also going forward.  
+25 
+The designation as a SIFI means  that the institution is  subject to a higher capital requirements (“O-SII 
+26 
+buffer requirement”) reflecting the individual institution’s systemic importance, so-called “systemicness”. 
+27 
+The O-SII buffer requirement must be fulfilled with common equity tier 1 capital (CET1) and is expressed as 
+28 
+a percentage of the total REA. The O-SII buffer requirement for Nordea Kredit is 1.5%.  
+29 
+4.3 
+Lending 
+30 
+A mortgage loan is granted against a registered mortgage on property according to the provisions of the 
+31 
+Danish Mortgage-Credit Loans and Mortgage-Credit Bonds etc Act. Loans without a mortgage on property 
+32 
+may be granted to public authorities or against suretyship from certain public authorities.  
+33 
+The lending limit for the individual property is determined based on the property’s designated use and thus its 
+34 
+classification in the property categories set out, see the Danish executive order on classification of property 
+35 
+categories and repayment of loans in case of change to another property category. 
+36 
+Lending limits for mortgage loans funded by mortgage bonds (RO) and covered mortgage bonds (SDRO): 
+37 
+ 
+38 
+ 
+39 
+RO 
+SDRO 
+Owner-occupied year-round residences 
+80% 
+80% 
+Private cooperative housing 
+80% 
+80% 
+Private housing for letting, including facilities for persons requiring extra care 
+80% 
+80%
+
+--- Page 14 ---
+14 
+Confidential 
+Non-profit rental housing 
+80% 
+80% 
+Youth housing 
+80% 
+80% 
+Housing for the elderly etc 
+80% 
+80% 
+Properties for social, cultural and educational purposes 
+80% 
+80% 
+Holiday homes not let for commercial purposes.  
+75% 
+75% 
+Agricultural and forestry properties, market gardens etc.* 
+70% 
+60% 
+Holiday homes let for commercial purposes* 
+60% 
+60% 
+Office and retail properties* 
+60% 
+60% 
+Industrial and craftsman’s properties* 
+60% 
+60% 
+Properties for energy supply activities* 
+60% 
+60% 
+Properties fitted out for the purpose of routing data traffic in electronic communications networks* 
+60% 
+60% 
+Other properties, including unbuilt plots 
+40% 
+40% 
+ 
+1 
+* The lending limit for loans financed by covered mortgage bonds (SDRO) can be increased to 70%, if the issuer puts up 
+2 
+supplementary capital, equal to at least 10% of the part of the loan exciding 60% of the value of the property.  
+3 
+Mortgage loans based on covered mortgage bonds and mortgage bonds have a maximum term to maturity of 
+4 
+30 years – however, a maximum of 40 years for loans secured on non-profit rental housing, youth housing 
+5 
+and private cooperative housing where loans are granted on the basis of a pledge of support under the Danish 
+6 
+Non-Profit Rental Housing etc Act. 
+7 
+Loans for owner-occupied year-round residences and holiday homes cannot be granted, notwithstanding the 
+8 
+rank of the loan, so that the loans are amortised more slowly than a 30-year loan repaid by a fixed amount 
+9 
+covering both principal and interest for each term of the loan (annuity loans). This requirement may, within 
+10 
+the term of the loan, be derogated from for a period of up to ten years, taking into account the expected 
+11 
+impairment in the value of the mortgage and the lending limits applying to the mortgage.  
+12 
+The restrictions regarding term to maturity and amortisation do not apply to loans financed by covered 
+13 
+mortgage bonds, provided that the lending limit does not exceed 75% and provided that the loans are financed 
+14 
+by covered mortgage bonds against mortgages on the following property categories: 
+15 
+ 
+owner-occupied year-round residences;  
+16 
+ 
+private cooperative housing;  
+17 
+ 
+private housing for letting, including facilities for persons requiring extra care;  
+18 
+ 
+non-profit rental housing;  
+19 
+ 
+youth housing;  
+20 
+ 
+housing for the elderly etc;  
+21 
+ 
+properties for social, cultural and educational purposes.  
+22 
+ 
+23 
+4.4 
+The Balance principle 
+24 
+A fundamental element of Danish mortgage legislation is the requirement for the application of a balance 
+25 
+principle, which ensures a close relationship between the mortgage loans granted and the underlying 
+26 
+financing. The balance principle sets limits for the liquidity, interest rate and currency risks that mortgage 
+27 
+institutions are allowed to assume, and it is a crucial factor behind the high ratings assigned to Danish 
+28 
+mortgage bonds and covered mortgage bonds.  
+29
+
+--- Page 15 ---
+15 
+Confidential 
+The requirement for mortgage institutions’ compliance with a balance principle is set out in the Danish 
+1 
+Mortgage-Credit Loans and Mortgage-Credit Bonds etc Act as well as in the Danish FSA’s executive order 
+2 
+on bond issuance, the balance principle and risk management (the executive order on the balance principle).   
+3 
+The executive order on the balance principle sets restrictions on the difference between (i) incoming 
+4 
+payments from borrowers with loans secured on property, loans to public authorities without collateral or 
+5 
+against public guarantees, other investments in assets eligible as collateral, derivative financial instruments 
+6 
+for hedging payment differences and investments and (ii) outgoing payments to the holders of the mortgage 
+7 
+bonds issued, covered mortgage bonds, other securities with preferential status issued by mortgage 
+8 
+institutions and derivative financial instruments for hedging payment differences. These restrictions are 
+9 
+regulated by limits for the interest rate, currency, liquidity and option risks which issuers of such bonds are 
+10 
+allowed to assume in accordance with the executive order on the balance principle. 
+ 
+11 
+Issuers of mortgage bonds and covered mortgage bonds can choose for each register, series with a series 
+12 
+reserve fund, group of series with a joint series reserve fund or capital centre whether to comply with the 
+13 
+general or the specific balance principle. The institution’s general reserves are considered an independent 
+14 
+series and an independent capital centre, as applicable, in the executive order on the balance principle. Nordea 
+15 
+Kredit has chosen to comply with the limits under the specific balance principle for both the institution’s 
+16 
+general reserves (mortgage bonds) and for capital centre 2 (covered mortgage bonds). 
+ 
+17 
+4.4.1 
+Executive order on the balance principle – general regulations on the general and the 
+18 
+specific balance principle  
+19 
+The executive order on the balance principle contains a number of general regulations applicable to both the 
+20 
+general and the specific balance principle.  
+ 
+21 
+Exposures resulting from financial instruments for hedging purposes with credit institutions as counterparties 
+22 
+must be held within the 15% limit of the issuer’s outstanding nominal volume of covered mortgage bonds in 
+23 
+accordance with Article 129(1)(c) or the 10% limit in accordance with Article 129(1), final paragraph, of the 
+24 
+CRR as well as the Danish executive order on the application of the 10% limit in Article 129 of the CRR for 
+25 
+all credit institution claims. Any breach must be offset by the provision of supplementary collateral in the 
+26 
+form of safe and liquid assets. Certain funds are, however, exempted from the restriction of 15% or 10%, 
+27 
+including mortgage payments and redemption amounts from borrowers.  
+ 
+28 
+Only financial instruments with credit institutions qualifying for credit quality step 2 or higher can form part 
+29 
+of the cover basis. This requirement must be fulfilled on an ongoing basis. If the hedge is made against 
+30 
+another part of the entity itself, there are a number of supplementary requirements.  
+ 
+31 
+Only limited interest rate, currency, liquidity and option risks may be assumed in a series, a series with a 
+32 
+series reserve fund, a group of series with a joint series reserve fund or a capital centre. The executive order 
+33 
+on the balance principle specifies the framework for this through the regulations for the general and the 
+34 
+specific balance principle. 
+ 
+35 
+An overview of the regulations of the executive order on the balance principle for the general and the specific 
+36 
+balance principle is set out below.  
+ 
+37 
+4.4.2 
+The general balance principle  
+ 
+38 
+Risks must be calculated on the basis of the differences between all future incoming payments on loans, 
+39 
+investments of capital and derivative financial instruments for hedging payment differences and outgoing 
+40 
+payments on mortgage bonds or covered mortgage bonds issued and derivative financial instruments for 
+41 
+hedging payment differences.  
+42 
+4.4.3 
+The specific balance principle  
+ 
+43 
+Issuers choosing to comply with the requirements under the specific balance principle may not grant index-
+44 
+linked loans based on (i) the issuance of nominal bonds and other nominal securities or vice versa or (ii) 
+45 
+mortgage bonds or covered mortgage bonds and other securities linked to an index other than the index 
+46
+
+--- Page 16 ---
+16 
+Confidential 
+applicable to the loan. However, these requirements may be derogated from if differences between cash flows 
+1 
+are fully hedged by means of derivative financial instruments.  
+ 
+2 
+Callable loans may not be granted based on the issuance of non-callable mortgage bonds or non-callable 
+3 
+covered mortgage bonds. This requirement cannot be derogated from through the use of derivative financial 
+4 
+instruments.  
+ 
+5 
+The issuance of mortgage bonds and covered mortgage bonds may be made as an advance issue of fixed-price 
+6 
+agreements concluded or as a block issue based on estimated lending activities. Funds from a block issue not 
+7 
+immediately utilised for new lending may not exceed the budgeted gross volume of loans for the subsequent 
+8 
+90-day period. These funds must be used as soon as possible for new mortgage loans, and new block issues 
+9 
+may not be made until existing block issues have been fully used or any surplus bonds have been cancelled. 
+10 
+Such surplus funds must be placed in safe and liquid securities or as deposits with credit institutions 
+11 
+qualifying for credit quality step 2 or higher with a period of notice of up to 12 months and be kept separate 
+12 
+from other funds.   
+13 
+Repayment of loans by bonds other than the underlying mortgage bonds or covered mortgage bonds may not 
+14 
+exceed 15% of the nominal value of the institution’s/issuer’s mortgage bonds or covered mortgage bonds 
+15 
+issued in the register, the series with a series reserve fund, the group of series with a joint series reserve fund 
+16 
+or the capital centre. The mortgage bonds or covered mortgage bonds used to repay the loans must have cash 
+17 
+flows that as closely as possible match those of the loans repaid.  
+18 
+Options and comparable derivative instruments with asymmetric returns included in the calculation of future 
+19 
+payment differences within the balance principle must have a maximum term of four years from the time 
+20 
+when the agreement was made with the borrower.  
+21 
+It must be possible to calculate the differences between all future incoming and outgoing payments in 
+22 
+connection with mortgage loans (interest and principal payments from borrowers and payments including 
+23 
+interest to bondholders and on derivative financial instruments for hedging payment differences) on a daily 
+24 
+cumulative discounted basis for all future incoming and outgoing payments of the capital centre etc. Seen in 
+25 
+proportion to the issuer’s own funds, a future liquidity shortfall arising from outgoing payments exceeding 
+26 
+incoming payments may not exceed:  
+ 
+27 
+ 
+25% in years 1-3; 
+28 
+ 
+50% in years 4-10;  
+29 
+ 
+100% as from year 11.  
+ 
+30 
+This will not comprise liquidity shortfalls offset by cash investments, provided that such investments are 
+31 
+made in safe and liquid securities or as deposits with credit institutions qualifying for credit quality step 2 or 
+32 
+higher with a period of notice of up to 12 months.   
+33 
+The interest rate risk arising due to payment differences in connection with lending activities may not exceed 
+34 
+an amount corresponding to 1% of own funds. The interest rate risk is calculated as the sum of interest rate 
+35 
+risks for each currency in which there are payment differences, as the largest decline in the present value of 
+36 
+payment differences based on six different assumptions for the direction of interest rates. Interest rate risks 
+37 
+cannot be offset between different currencies. 
+ 
+38 
+The interest rate risk on all assets and liabilities as well as off-balance sheet items other than the loans and the 
+39 
+mortgage bonds or covered mortgage bonds financing these may not exceed 8% of own funds.  
+ 
+40 
+The currency risk on all assets, liabilities and off-balance sheet items may not exceed 0.1% of own funds.  
+41 
+4.5 
+Supervisory diamond 
+42 
+The Danish FSA has set a number of indicators to measure if there is excessive risk taking in the mortgage 
+43 
+institutions. Together the indicators constitute the supervisory diamond for mortgage institutions. The five 
+44 
+indicators are  
+45
+
+--- Page 17 ---
+17 
+Confidential 
+ 
+Lending growth: Lending growth to the defined individual customer segments must be less than 
+1 
+15% per year. The customer segments are divided into four categories: (i) owner occupied 
+2 
+dwellings and holiday homes, (ii) residential rental properties, (iii) agricultural properties and 
+3 
+(iv) other commercial properties.  
+4 
+ 
+Borrower’s interest rate risk concerning owner-occupied dwellings, holiday homes and private 
+5 
+rental housing: The percentage of loans where the loan to value (LTV) ratio exceeds 75% of the 
+6 
+lending limit and where the interest rate is only fixed for up to two years must be less than 25%.  
+7 
+ 
+Interest-only period on loans to private individuals: The percentage of loans with interest-only 
+8 
+periods in the LTV band above 75% of the lending limit may not exceed 10% of the total loan 
+9 
+volume.  
+10 
+ 
+Loans with short-term funding: The percentage of loans refinanced must be less than 12.5% of 
+11 
+the total loan portfolio quarterly and must be less than 25% of the loan portfolio annually. 
+12 
+ 
+Large exposures: The sum of the 20 largest exposures less CRR-deductions must be lower than 
+13 
+the common equity tier 1 capital.   
+14 
+These indicators are monitored on an ongoing basis and reported regularly to the Danish FSA.  
+15 
+4.6 
+Recovery and resolution 
+16 
+The regulations on recovery and resolution of the BRRD (The European Parliament’s and the Council’s 
+17 
+Recovery and Resolution Directive) have been implemented in Danish legislation in the Danish Act on 
+18 
+Restructuring and Resolution of Certain Financial Businesses as well as by amendments to the Danish 
+19 
+Financial Business Act. The purpose of the regulations is to safeguard the financial stability by quick and 
+20 
+effective intervention in the event that an institution is failing or likely to fail.  
+21 
+In pursuance of the implementation of the BRRD, viable institutions are handled by the Danish FSA, whereas 
+22 
+the tasks and powers concerning resolution are handled by Finansiel Stabilitet, the Danish entity designated 
+23 
+as the competent resolution authority.  
+24 
+Mortgage institutions are required to prepare and maintain a recovery plan which must be submitted to the 
+25 
+Danish FSA. Resolution plans, on the other hand, must be prepared, adopted and maintained by the Danish 
+26 
+FSA. The resolution plan will be adopted by the Danish FSA following a recommendation from Finansiel 
+27 
+Stabilitet.  
+28 
+Finansiel Stabilitet has four resolution tools in connection with the resolution of a failing mortgage 
+29 
+institution: 
+30 
+ 
+full or partial sale of business; 
+31 
+ 
+establishment of a so-called bridge institution (subsidiary) which can temporarily take over all 
+32 
+or some activities; 
+33 
+ 
+establishment of an asset management vehicle to which assets, rights or liabilities can be 
+34 
+transferred; 
+35 
+ 
+writing down or converting the entity’s obligations (bail-in) for the purpose of absorbing losses 
+36 
+and recapitalising the entity. However, Danish mortgage institutions are exempted from the 
+37 
+write down/conversion – bail-in – of instruments other than capital instruments.  
+38 
+During the period from 2015 to 2024, Nordea Kredit must make payments to a resolution fund that can 
+39 
+contribute to the resolution of a failing institution. The contribution of mortgage institutions to the resolution 
+40 
+fund is smaller than the contribution of banks. 
+41 
+If a mortgage credit institution is declared bankrupt, holders of Covered Bonds and Covered Mortgage Bonds 
+42 
+holds a statutory preferential claim on assets in the capital centre less cost as a result of the bankruptcy 
+43 
+proceedings, etc. – including liquidator’s fees, salaries, etc. Secondly, the funds will be used to cover debt 
+44 
+raised by the mortgage credit institution for the purpose of providing supplementary collateral and claims for 
+45 
+interest on such debt accrued from the date of the bankruptcy order. Any excess funds will be included in the 
+46 
+assets available for distribution. 
+47
+
+--- Page 18 ---
+18 
+Confidential 
+The BRRD provides resolution authorities (Finansiel Stabilitet) with powers to implement other resolution 
+1 
+measures with respect to distressed institutions, which i.a. may include (without limitation): 
+2 
+ 
+the modifications to the terms of debt instruments – e.g. altering the amount of interest payable 
+3 
+and temporary suspension on payments 
+4 
+ 
+replacement or substitution of the institution as obligor in respect of debt instruments  
+5 
+ 
+discontinuing the listing and admission to trading of financial instruments. 
+6 
+4.7 
+Debt buffer 
+7 
+In connection with the implementation of the BRRD, Danish mortgage institutions must meet a debt buffer 
+8 
+requirement of 2% calculated on the basis of the total unweighted lending of the individual institution 
+9 
+according to Danish law.  
+10 
+ 
+11 
+The Financial Business Act was in May 2018 amended regarding debt buffer requirement for mortgage 
+12 
+institutes.  As a SIFI mortgage institute belonging to an international group with a mother company outside 
+13 
+Denmark  the current debt buffer requirement of 2% will apply to Nordea Kredit with no additional 
+14 
+requirement, if an 8% MREL is fulfilled on group level. The requirement is valid from 1 January 2022. 
+15 
+4.8 
+Nordea Kredit’s Capital centre 2 and the institution’s general reserves 
+16 
+The origination of mortgage loans and the issuance of mortgage bonds and other securities to finance these 
+17 
+loans can be effected in series. Mortgage bonds and other securities cannot be issued in the same series. 
+18 
+Covered mortgage bonds must be issued in separate series with a series reserve fund. A series or a group of 
+19 
+series with a joint series reserve fund and joint liability constitutes a capital centre. The value of the assets 
+20 
+backing the covered mortgage bonds issued must as a minimum match the value of the covered mortgage 
+21 
+bonds issued, and the collateral provided for the individual loan must always comply with the applicable 
+22 
+lending limit.  
+23 
+In the event that the value of the assets no longer matches the value of the covered mortgage bonds issued, the 
+24 
+institution must provide supplementary collateral to comply with the requirement. A similar rule does not 
+25 
+apply to mortgage bonds.  
+26 
+ROs issued under this Base Prospectus are issued out of the institution’s general reserves – Nordea Kredit 
+27 
+does currently not issue new ROs. 
+28 
+SDROs issued under this Base Prospectus are issued out of Nordea Kredit’s capital centre 2.  
+29 
+If Nordea Kredit opens additional capital centres in the future, such capital centres will be included in the 
+30 
+Base Prospectus subject to publication of a supplementary prospectus. 
+31 
+4.9 
+Bankruptcy and restructuring 
+32 
+The Danish Mortgage-Credit Loans and Mortgage-Credit Bonds etc Act confers a primary preferential right 
+33 
+on the holders of covered mortgage bonds, mortgage bonds and certain counterparties relating to derivative 
+34 
+financial instruments in the event of a bankruptcy of the mortgage institution. 
+35 
+If a bankruptcy order is issued or restructuring proceedings are initiated with respect to the mortgage 
+36 
+institution, funds cannot be transferred between series with a series reserve fund and the institution’s general 
+37 
+reserves. 
+38 
+If a mortgage institution is declared bankrupt, the funds of the capital centre, less costs for the processing of 
+39 
+the bankruptcy estate etc, including costs for the trustee, staff etc, will be used to satisfy claims from holders 
+40 
+of mortgage bonds, covered mortgage bonds, covered bonds and other securities in the relevant series or 
+41 
+group of series with a series reserve fund as well as claims for interest accrued on the said claims from the 
+42 
+time of the bankruptcy order. Subsequently, claims comprised by section 25(2) of the Danish Mortgage-
+43 
+Credit Loans and Mortgage-Credit Bonds etc Act will be satisfied. After payment of the claims and debt 
+44
+
+--- Page 19 ---
+19 
+Confidential 
+listed in section 27 of the Danish Mortgage-Credit Loans and Mortgage-Credit Bonds etc Act, any remaining 
+1 
+funds will be included in the assets of the bankruptcy estate. 
+2 
+The funds of the institution’s general reserves, less costs for the processing of the bankruptcy estate etc, 
+3 
+including costs for the trustee, staff etc, will be used to satisfy claims from holders of mortgage bonds and 
+4 
+other securities not issued in series with a series reserve fund as well as claims for interest accrued on the said 
+5 
+claims from the time of the bankruptcy order. However, the above funds cannot exceed the mortgages 
+6 
+underlying the mortgage bonds and other securities plus an amount corresponding to 8% of the risk-weighted 
+7 
+value of the mortgages. After payment of the claims and debt listed in section 27 of the Danish Mortgage-
+8 
+Credit Loans and Mortgage-Credit Bonds etc Act, any remaining funds will be included in the assets of the 
+9 
+bankruptcy estate. 
+10 
+The bondholders thus have a primary preferential right to the assets of the series reserve fund. In accordance 
+11 
+with the legislation, payments of interest and principal to the bondholders continue as long as sufficient funds 
+12 
+are available and are not pending the final settlement of the bankruptcy estate. 
+13 
+In the event that the capital centre does not have sufficient assets to compensate the holders of mortgage 
+14 
+bonds or covered mortgage bonds, the bondholders may raise the outstanding claim according to the 
+15 
+provisions of section 96 of the Danish Bankruptcy Act against the assets available for distribution of the 
+16 
+institution’s general reserves.  
+17 
+The issue of a bankruptcy order against a mortgage institution may not be submitted as cause for acceleration 
+18 
+of payments by holders of mortgage bonds, covered mortgage bonds and other securities or lenders pursuant 
+19 
+to section 15(1) of the Danish Mortgage-Credit Loans and Mortgage-Credit Bonds etc Act, and it does not 
+20 
+deprive the borrowers of the mortgage institution of the right to prepay, in full or in part, mortgage loans or 
+21 
+loans granted on the basis of the issuance of covered mortgage bonds or covered bonds in accordance with 
+22 
+the terms of repayment pertaining to the relevant loans. 
+23 
+If the mortgage institution does not provide supplementary collateral when required, this may not be 
+24 
+submitted as cause for acceleration of payments by holders of covered mortgage bonds or lenders pursuant to 
+25 
+section 15(1) of the Danish Mortgage-Credit Loans and Mortgage-Credit Bonds etc Act. 
+26 
+A bankruptcy estate may not disburse payments to satisfy claims submitted by holders of mortgage bonds, 
+27 
+covered mortgage bonds, covered bonds and other securities at an earlier time than the time when the 
+28 
+institution was allowed to discharge itself by making the ordinary payments. The bankruptcy estate may not 
+29 
+terminate loan agreements to a greater extent than the mortgage institution was entitled to, and the bankruptcy 
+30 
+estate may only change administration and reserve fees etc if this change is based on changes in market 
+31 
+conditions and a need for additional funds for the administration of the estate has been ascertained. 
+32 
+The trustee can issue refinancing bonds to replace bonds matured in the relevant series. 
+33 
+If a mortgage institution is declared bankrupt, counterparties to the financial instruments used to hedge risks 
+34 
+in a series or a group of series of mortgage bonds, covered mortgage bonds or covered bonds, according to 
+35 
+section 26(4) of the Danish Mortgage-Credit Loans and Mortgage-Credit Bonds etc Act, rank pari passu, 
+36 
+under bankruptcy legislation, with the holders of mortgage bonds, covered mortgage bonds or covered bonds 
+37 
+in the relevant series or group of series. 
+38 
+Supplementary collateral is non-voidable pursuant to sections 70 or 72 of the Danish Bankruptcy Act unless it 
+39 
+did not appear as ordinary. 
+40 
+If restructuring proceedings are initiated, the mortgage institution must, as far as possible, continue to fulfil its 
+41 
+payment obligations in accordance with claims from holders of mortgage bonds, covered mortgage bonds, 
+42 
+covered bonds and other securities on the due date for payment, unless the restructuring administrator decrees 
+43 
+otherwise. With the consent of the restructuring administrator, mortgage institutions may enter into 
+44 
+agreements on financial instruments, raise loans to finance payments to investors and provide collateral for 
+45
+
+--- Page 20 ---
+20 
+Confidential 
+such loans in the form of assets except for mortgages provided as collateral for bonds belonging to the series 
+1 
+with a series reserve fund for which the payment is effected. The restructuring administrator can issue 
+2 
+refinancing bonds to replace bonds matured in the relevant series. 
+3 
+4.10 
+Covered bond directive 
+4 
+Directive (EU) 2019/2162 on the issuance of covered bonds (the “Covered Bond Directive”) has been 
+5 
+approved and was published in the Official Journal on 18 December 2019. The directive is a framework 
+6 
+directive which has been implemented in Danish law – see below.  
+7 
+The Covered Bond Directive specifies the core elements for covered bonds within the EU under the common 
+8 
+definition “European Covered Bond”. 
+9 
+Covered Bonds which comply with the rules laid down in the Covered Bond Directive will be eligible as 
+10 
+“European Covered Bonds”. Covered Bonds which comply with the rules laid down in the Covered Bond 
+11 
+Directive and the rules laid down in the CRR, including the requirement on overcollateralization, will be 
+12 
+eligible as “European Covered Bonds (Premium)”. 
+13 
+The Covered Bond Directive lays down requirements for the types of assets which can be used to collateralise 
+14 
+covered bonds as well as the main characteristics of covered bonds. 
+15 
+Furthermore, covered bonds which comply with the existing requirements of the CRR and new stricter 
+16 
+requirements, such as minimum overcollateral, will continue to benefit from lower risk weights, hence lower 
+17 
+capital requirements in relation to other covered bonds. 
+18 
+The Covered Bond Directive includes rules on grandfathering of covered bonds issued before the new rules 
+19 
+comes into effect. Covered bonds issued after the new rules comes into force must meet the rules laid down in 
+20 
+the Covered Bond Directive. 
+21 
+On the 8 June 2021 the Danish Parliament passed the act 2021/1166 amending the Danish Mortgage-Credit 
+22 
+Loans and Mortgage-Credit Bonds etc Act, the Danish Financial Business Act and the Danish Ship Finance 
+23 
+Institute Act, implementing the Covered Bond Directive into Danish law and setting the level of minimum 
+24 
+overcollateral in accordance with CRR. The act took effect on the 8 July 2021 and will apply from the 8 July 
+25 
+2022. 
+ 
+26
+
+--- Page 21 ---
+21 
+Confidential 
+5 
+Terms of the bonds 
+1 
+The following terms and conditions (“Final Terms”) apply to Bonds issued by Nordea Kredit under this base 
+2 
+prospectus (the “Base Prospectus”) in ISIN codes opened after the date of the Base Prospectus.  
+3 
+The terms of covered mortgage bonds and mortgage bonds issued in ISIN codes opened prior to the date of 
+4 
+the Base Prospectus are set out in the relevant base prospectus applicable at the time when the relevant ISIN 
+5 
+code was opened. See also section 7 “Information incorporated into the Base Prospectus by reference”.  
+6 
+Final Terms of the Bonds will be issued, which together with the terms and conditions set out below lay down 
+7 
+the terms applicable to the Bonds. Final Terms of the Bonds will be published on Nordea Kredit’s website 
+8 
+www.nordeakredit.dk. 
+9 
+1. Definitions 
+10 
+The following terms have the following meaning: 
+11 
+The “Bank” - Nordea Bank Abp 
+12 
+“DKK” - Danish kroner, which is the official currency in Denmark at the time of approval of the Base 
+13 
+Prospectus 
+14 
+“EUR” - Euro, the single European currency of the member states participating in the third phase of EMU 
+15 
+“Bonds” - ROs and SDROs issued under the Base Prospectus 
+16 
+“Nordea Kredit” - Nordea Kredit Realkreditaktieselskab 
+17 
+“ROs” - Mortgage bonds issued under the Base Prospectus 
+18 
+“SDROs” - Covered mortgage bonds issued under the Base Prospectus 
+19 
+“Business Day” - Refers to either a Danish Business Day meaning a day on which both Danish payment 
+20 
+system and Danish banks located in Denmark are open for business, or TARGET2 Business Day - meaning a 
+21 
+day on which TARGET2 (Trans-European Automated Real-time Gross settlement Express Transfer) payment 
+22 
+systems are open for payments in EUR. The business day convention will be stated in the final terms of the 
+23 
+bonds.  
+24 
+2. Information concerning the Bonds to be offered/admitted to trading 
+25 
+The Bonds are subject to Danish law, and any actions relating to the covered mortgage bonds offered must be 
+26 
+brought before the City Court of Copenhagen. 
+27 
+Bonds are issued in several ISIN codes. ISIN codes of Bonds issued under the Base Prospectus will be stated 
+28 
+in the Final Terms. 
+29 
+The issuance of Bonds is regulated by the Danish Mortgage-Credit Loans and Mortgage-Credit Bonds etc Act 
+30 
+as well as the Danish Financial Business Act and by executive orders issued in pursuance of these acts. For a 
+31 
+more detailed review of the legislation applicable to mortgage institutions and the issuance of Bonds, see 
+32 
+section 4 “Legislation” of the Base Prospectus. 
+33 
+The Bonds are issued in book-entry form as bearer securities and are registered with:  
+34 
+Euronext Securities 
+35 
+Nicolai Eigtveds Gade 8 
+36 
+1402 Copenhagen K, Denmark 
+37 
+The central securities depository where Bonds are registered will be stated in the Final Terms. 
+38 
+The Final Terms will state whether the Bonds will be admitted to listing on the regulated market of Nasdaq 
+39 
+Copenhagen A/S and, if applicable, the first expected listing date.  
+40 
+The Final Terms will state where information about the outstanding volume is available. 
+41 
+The Bonds will be denominated in DKK, EUR or another currency. The currency used for the Bonds will be 
+42 
+stated in the Final Terms.  
+43
+
+--- Page 22 ---
+22 
+Confidential 
+SDROs are issued out of capital centre 2. All payments from the borrowers relating to mortgage loans in 
+1 
+capital centre 2 are received by capital centre 2, and all payments to Bondholders are also made out of capital 
+2 
+centre 2. Capital centre 2 is subject to the provisions of the Danish executive order on series accounts of 
+3 
+mortgage institutions. 
+4 
+For mortgage loans financed by SDROs issued out of capital centre 2, the borrowers are not subject to joint 
+5 
+and several liability. The borrowers are liable for their mortgage loans towards Nordea Kredit with the 
+6 
+property mortgaged and personally in accordance with the provisions of the Danish Mortgage-Credit Loans 
+7 
+and Mortgage-Credit Bonds etc Act.  
+8 
+In the event of Nordea Kredit’s bankruptcy the Bondholders of SDROs have a special preferential position in 
+9 
+capital centre 2. In the event of bankruptcy Nordea Kredit will as far as possible continue the normal 
+10 
+payments to the Bondholders prior to the final settlement of the bankruptcy estate in accordance with the 
+11 
+provisions of the Danish Mortgage-Credit Loans and Mortgage-Credit Bonds etc Act. For a more detailed 
+12 
+description see section 4 “Legislation” of the Base Prospectus. 
+13 
+ROs are issued out of the institution’s general reserves. All payments from the borrowers relating to mortgage 
+14 
+loans are received by the institution’s general reserves, and all payments to the Bondholders are also made 
+15 
+out of the institution’s general reserves. The institution’s general reserves are subject to the provisions of the 
+16 
+Danish executive order on series accounts of mortgage institutions.  
+17 
+For mortgage loans financed by ROs issued out of the institution’s general reserves, the borrowers are not 
+18 
+subject to joint and several liability. The borrowers are liable for their mortgage loans towards Nordea Kredit 
+19 
+with the property mortgaged and personally in accordance with the provisions of the Danish Mortgage-Credit 
+20 
+Loans and Mortgage-Credit Bonds etc Act.  
+21 
+In the event of Nordea Kredit’s bankruptcy the Bondholders of ROs have a special preferential position in the 
+22 
+institution’s general reserves. In the event of bankruptcy Nordea Kredit will as far as possible continue the 
+23 
+normal payments to the Bondholders prior to the final settlement of the bankruptcy estate in accordance with 
+24 
+the provisions of the Danish Mortgage-Credit Loans and Mortgage-Credit Bonds etc Act. For a more detailed 
+25 
+description see section 4 “Legislation” of the Base Prospectus.  
+26 
+Bonds categorised as Green Bonds by Nordea Kredit are subject to the definitions and classifications as 
+27 
+described in the Nordea Green Funding Framework. 
+28 
+The Nordea Green Funding Framework (https://www.nordea.com/en/doc/nordea-green-funding-framework-
+29 
+2022final.pdf) defines and delineates a number of asset categories (green assets) including green buildings 
+30 
+(commercial and residential), renewable energy etc., which qualify for financing by the issuance of Green 
+31 
+Bonds. The Nordea Green Funding Framework follows the Green Bond Principles developed by the 
+32 
+International Capital Market Association (ICMA).  
+33 
+The Green Bond Principles of ICMA do not have specific requirements on how to determine if a asset is 
+34 
+green, hence this is fully determined by the Nordea Green Funding Framework.  
+35 
+The Nordea Green Funding Framework is not fully aligned with the EU Taxonomy, for instance farming is 
+36 
+not included in the Taxonomy at the time of the publication of this prospectuses. Organic farms – registered 
+37 
+by the Danish Agricultural Agency are eligible according to the Nordea Green Funding Framework. Nordea 
+38 
+Kredit currently cannot calculate the share of the issuance of green bonds that is compliant with the EU 
+39 
+Taxonomy.  
+40 
+Nordea Kredit primarily aims at supporting the UN Sustainable Development Goals: 
+41 
+6  
+Clean water and sanitation 
+42 
+7 
+Affordable and clean energy 
+43 
+13  
+Climate action 
+44
+
+--- Page 23 ---
+23 
+Confidential 
+15  
+Life on land 
+1 
+The proceeds from issuance of green bonds will fully be allocated to funding assets that are green according 
+2 
+to the Nordea Green Funding Framework 
+3 
+Nordea Bank Abp has obtained a second party opinion of the Green Funding Framework from ISS ESG. 
+4 
+(https://www.nordea.com/en/doc/iss-esg-second-party-opinion.pdf). The second party opinion primarily  
+5 
+No assurance is or can be given by Nordea Kredit that any green bond or green asset will meet investor 
+6 
+expectations or requirements regarding such “green” or similar labels – and further, no assurance is or can be 
+7 
+given by Nordea Kredit that adverse environmental and/or other impacts will not occur through the 
+8 
+implementation of the projects or uses related to any green bond or asset.  
+9 
+3. Rights  
+10 
+The Bonds carry interest as described in further detail below as well as in the Final Terms. 
+11 
+The Bonds are non-callable by the Bondholders throughout the life of the Bonds.  
+12 
+Bondholders can exercise their rights relating to Bonds issued under the Base Prospectus by application to 
+13 
+Nordea Kredit. 
+14 
+4. Exemption from liability 
+15 
+Nordea Kredit is liable to pay damages according to Danish law, due to errors or negligence. 
+16 
+However,  in areas subject to stricter liability, Nordea Kredit is not liable for any loss caused by: 
+17 
+ 
+breakdown of/lack of access to IT systems or damage to the data of these systems which can be 
+18 
+attributed to the events below, regardless of whether Nordea Kredit itself or an external vendor is 
+19 
+responsible for operating the systems; 
+20 
+ 
+failures in Nordea Kredit’s power supply or telecommunications, statutory intervention or 
+21 
+administrative acts, natural disasters, war, insurrection, civil unrest, sabotage, terrorism or vandalism 
+22 
+(including computer viruses and hacking); 
+23 
+ 
+strikes, lockouts, boycotts or blockades, whether or not the dispute is directed against or initiated by 
+24 
+Nordea Kredit or its organisation and regardless of the reason for the dispute – this also applies if the 
+25 
+dispute only affects parts of Nordea Kredit; 
+26 
+ 
+other circumstances beyond the control of Nordea Kredit. 
+27 
+Nordea Kredit’s exemption from liability does not apply if: 
+28 
+ 
+Nordea Kredit should have anticipated the circumstances causing the loss when the agreement was 
+29 
+concluded or should have avoided or overcome the cause of the loss; 
+30 
+ 
+Nordea Kredit is liable for the circumstances causing the loss pursuant to Danish law. 
+31 
+5. Interest 
+32 
+The Bonds may be issued with a fixed or a variable coupon rate.The coupon rate (the nominal interest rate) of 
+33 
+Bonds with fixed rates will be stated in the Final Terms. If the coupon rate of the Bonds is variable, the 
+34 
+nominal interest rate of the Bonds with will consist of a reference rate plus an interest rate premium or 
+35 
+discount as further described below. The relevant reference rate and the initial interest rate premium or 
+36 
+discount will be stated in the Final Terms – the final premium or discount is set and fixed by auction results. 
+37 
+The Final Terms of Bonds subject to the provisions on regulation of refinancing risk will state whether the 
+38 
+Bonds are subject to these provisions. In the event of maturity extension, the nominal interest rate will be 
+39 
+fixed as specified in condition 7 below.  
+40 
+The variable rate is adjusted at a fixed interval. This will be stated in the Final Terms of the Bonds.   
+41
+
+--- Page 24 ---
+24 
+Confidential 
+Interest and/or other amounts payable on variable rate Bonds may be calculated by reference to certain 
+1 
+reference rates or indices. Any such reference rate or index may constitute a benchmark for the purposes of 
+2 
+Regulation (EU) No. 2016/1011 (the "Benchmarks Regulation"). If any such reference rate or index does 
+3 
+constitute such a benchmark, the relevant Final Terms will indicate whether or not the benchmark is provided 
+4 
+by an administrator included in the register of administrators and benchmarks established and maintained by 
+5 
+the European Securities and Markets Authority ("ESMA") pursuant to Article 36 (Register of administrators 
+6 
+and benchmarks) of the Benchmarks Regulation. Transitional provisions in the Benchmarks Regulation may 
+7 
+have the result that the administrator of a particular benchmark is not required to appear in the register of 
+8 
+administrators and benchmarks at the date of the relevant Final Terms. The registration status of any 
+9 
+administrator under the Benchmarks Regulation is a matter of public record and, save where required by 
+10 
+applicable law, the Issuer does not intend to update the relevant Final Terms to reflect any change in the 
+11 
+registration status of the administrator. 
+12 
+Nordea Kredit is entitled to set another similar reference rate if:  
+13 
+ 
+the current reference rate is no longer set, either temporarily or permanently, or; 
+14 
+ 
+the current reference rate is temporarily unsuitable as a reference rate as a result of significant 
+15 
+changes or other similar circumstances.  
+16 
+In the above situations Nordea Kredit is entitled:  
+17 
+ 
+to replace the current reference rate with a predetermined reference rate (if Nordea Kredit has 
+18 
+decided in advance on a similar reference rate as an alternative), or;  
+19 
+ 
+where such a predetermined reference rate is not available or suitable, to replace the current 
+20 
+reference rate with a non-predetermined reference rate (which in the opinion of Nordea Kredit is a 
+21 
+similar reference rate), or;  
+22 
+ 
+where there are no such reference rates (neither predetermined nor non-predetermined), to replace 
+23 
+the current reference rate with a rate set by Nordea Kredit based on the market conditions prevailing 
+24 
+at the time.  
+25 
+All calculations of this variable rate will be performed by Nordea Kredit in collaboration with the Bank.  
+26 
+Details on where to find historical information about the reference rate will be stated in the Final Terms if 
+27 
+such information is available.  
+28 
+Nordea Kredit’s payment of interest and principal to the Bondholders is effected by way of transfer to the 
+29 
+accounts etc specified towards Euronext Securities.  
+30 
+The start date for calculation of interest (the opening date) will be stated in the Final Terms.  
+31 
+Payment of interest and Bonds drawn for redemption takes place with maturity on the first business day of a 
+32 
+given month after the end of a payment period.  
+33 
+If payment are delayed due to third party transactional causes (e.g. payment systems), the payment will be 
+34 
+considered as timely payment. 
+35 
+Nordea Kredit can set another due date.  
+36 
+The due date for payment of interest on the Bonds will be stated in the Final Terms.  
+37 
+Nordea Kredit may set one or more interest rate caps and/or interest rate floors for part of or the entire term to 
+38 
+maturity of the Bonds in the Final Terms of variable-rate Bonds.  
+39 
+Claims for payment of interest are time-barred three years after the due date of payment, and claims for 
+40 
+payment of principal are time-barred ten years after the due date of payment, see the Danish Limitation Act. 
+41 
+Interest due does not earn interest from the due date. Amounts not claimed before the expiry of the period of 
+42 
+limitation go to Nordea Kredit. 
+43
+
+--- Page 25 ---
+25 
+Confidential 
+6. Negative interest 
+1 
+The following applies to fixed rate Bonds with negative coupons and to Bonds with variable rates which 
+2 
+become negative. Nordea Kredit has a claim against the investors corresponding to the negative interest 
+3 
+amount. This claim falls due for payment on the payment date of the relevant payment period. The investors’ 
+4 
+payment to Nordea Kredit as a result of negative interest can at Nordea Kredit’s initiative be effected in one 
+5 
+or several of the following ways at the end of an interest payment period: (1) by claiming the negative interest 
+6 
+amount from the investors by offsetting this against amounts relating to bonds drawn for redemption allotted 
+7 
+to the investors, or (2) by making an unscheduled redemption of a portion of the Bondholders´ nominal 
+8 
+holdings with Euronext Securities corresponding to the negative interest, settled at par by offsetting this 
+9 
+against the redemption proceeds allotted to the Bondholders, or (3) by using a combination of (1) and (2). A 
+10 
+choice of one of the above three options is made by Nordea Kredit for each individual interest payment date 
+11 
+with a negative interest rate and may thus vary between interest payment dates. The choice of method will be 
+12 
+announced through the systems of Euronext Securities. 
+13 
+7. Maturity date and settlement 
+14 
+The term to maturity and the maturity date of the Bonds will be set by Nordea Kredit and will be stated in the 
+15 
+Final Terms. 
+16 
+The Bonds are issued to finance lending secured by mortgages on property or lending to public authorities. 
+17 
+The proceeds may also be used for joint funding in collaboration with other consolidated companies in 
+18 
+accordance with sections 16b-16g of the Danish Financial Business Act.  
+19 
+The Bonds are amortised as the mortgage loans financed by the Bonds issued are repaid, except as specified 
+20 
+below. 
+21 
+Nordea Kredit calculates the amount to be drawn for redemption for each interest payment date. Amortisation 
+22 
+is effected by redemption of the Bonds at par or at another agreed redemption price at the drawing of Bonds. 
+23 
+For fixed rate Bonds with negative coupons and Bonds with variable rates – see condition 6 above – the 
+24 
+negative interest amount may be charged via the redemption of Bonds. The redemption price at the drawing 
+25 
+of Bonds will be stated in the Final Terms. Amortisations are distributed between the Bondholders according 
+26 
+to a mathematical principle in such a manner that all Bondholders have the same percentage of their holdings 
+27 
+amortised.  
+28 
+For Bonds subject to section 6 of the Danish Mortgage-Credit Loans and Mortgage-Credit Bonds etc Act as 
+29 
+amended (the provisions on regulation of refinancing risk), the maturity may be extended either in case of a 
+30 
+rise in interest rates or in case of a failed auction (insufficient number of buyers).   
+31 
+The following applies to maturity extension in case of a rise in interest rates: 
+32 
+If the maturity of a mortgage loan exceeds the maturity of the underlying Bonds and the Bonds have a fixed 
+33 
+rate and a maturity of up to and including 12 months at the refinancing of the loan, Nordea Kredit may only 
+34 
+initiate a sale of Bonds which, at refinancing, are to replace the maturing Bonds if Nordea Kredit has a 
+35 
+justified expectation that the sale can be carried out without the yield exceeding the yield fixed in connection 
+36 
+with the latest refinancing by 5% points. However, this does not apply if Nordea Kredit carries out a sale of a 
+37 
+small volume of Bonds to ascertain whether the yield will exceed the yield fixed in connection with the latest 
+38 
+refinancing by 5% points. If a sale cannot be initiated, see the first sentence, and if the maturing Bonds fall 
+39 
+due, the maturity of these Bonds will be extended by 12 months. At maturity of the Bonds after the 12-month 
+40 
+extension, new Bonds must be issued to replace these. At this issuance the first and second sentences do not 
+41 
+apply. 
+42 
+If the maturity of a mortgage loan exceeds the maturity of the underlying Bonds and the Bonds have a fixed 
+43 
+rate and a maturity from 12 and up to and including 24 months at the refinancing of the loan, Nordea Kredit 
+44 
+may only initiate a sale of Bonds which, at refinancing, are to replace the maturing Bonds if Nordea Kredit 
+45
+
+--- Page 26 ---
+26 
+Confidential 
+has a justified expectation that the sale can be carried out without the yield exceeding the yield on a 
+1 
+comparable bond with the same remaining maturity from 11 and up to and including 14 months earlier by 5% 
+2 
+points. However, this does not apply if Nordea Kredit carries out a sale of a small volume of Bonds to 
+3 
+ascertain whether the yield will exceed the yield on a comparable bond with the same remaining maturity 
+4 
+from 11 and up to and including 14 months earlier by 5% points. If a sale cannot be initiated, see the first 
+5 
+sentence, and if the maturing Bonds fall due, the maturity of these Bonds is extended by 12 months. At 
+6 
+maturity of the Bonds after the 12-month extension, new Bonds must be issued to replace these. At this 
+7 
+issuance the first and second sentences do not apply.  
+8 
+If the maturity of a mortgage loan exceeds the maturity of the underlying Bonds and the underlying Bonds 
+9 
+have a variable rate and a remaining maturity of up to and including 24 months the first time they are used for 
+10 
+financing a mortgage loan, the interest rate at the interest rate fixing cannot exceed the latest interest rate 
+11 
+fixed by more than 5% points. This interest rate must remain unchanged for 12 months or until the next 
+12 
+refinancing if this is carried out within 12 months unless a lower interest rate is fixed within the 12 months or 
+13 
+before the next refinancing. Nordea Kredit may only initiate a sale of Bonds which, at refinancing, are to 
+14 
+replace the maturing Bonds if Nordea Kredit has a justified expectation that the sale can be carried out 
+15 
+without the interest rate exceeding the latest interest rate fixed by 5% points. However, this does not apply if 
+16 
+Nordea Kredit carries out a sale of a small volume of Bonds to ascertain whether the interest rate will exceed 
+17 
+the latest interest rate fixed by 5% points. If a sale cannot be initiated, see the first sentence, and the maturing 
+18 
+Bonds fall due, the maturity of these Bonds is extended by 12 months. At maturity of the Bonds after the 12-
+19 
+month extension, new Bonds must be issued to replace these. At this issuance the first and second sentences 
+20 
+do not apply.  
+21 
+The following applies to maturity extension in case of a failed auction (insufficient number of buyers):  
+22 
+Nordea Kredit can decide to extend the maturity of Bonds under an ISIN code, in full or in part, by 12 months 
+23 
+at a time from their ordinary maturity date if there are an insufficient number of buyers for new Bonds issued 
+24 
+to refinance maturing Bonds under the relevant ISIN code. In the event of such maturity extension the 
+25 
+nominal interest rate of the Bond will be changed so that the yield equals the yield at the latest refinancing 
+26 
+plus 5% points. In the event of further extension of the maturity as a result of a failed auction (insufficient 
+27 
+number of buyers), this nominal interest rate will continue to apply. 
+28 
+If the auction with the sale of Bonds to refinance Bonds extended in this manner fails, further extension can 
+29 
+take place where the nominal interest rate from the original extension is applied. The term to maturity of the 
+30 
+Bonds will be extended by 12 months at a time until refinancing can be completed with a sufficient number of 
+31 
+buyers for all the new Bonds required.    
+32 
+A decision on extension can be made until one business day before the ordinary maturity date of the Bonds 
+33 
+and must be published by means of a company announcement. Immediately after the auction Nordea Kredit 
+34 
+will publish the yield on the basis of the sale completed at the auction. Here it will be announced whether the 
+35 
+term to maturity of the Bonds is extended because an interest rate trigger has been released. If an interest rate 
+36 
+trigger is not released at the relevant auction, the yield fixed will provide the basis for the fixing of the Bond’s 
+37 
+interest rate trigger at the following auction.  
+38 
+In the event that Nordea Kredit fails to sell the full amount at the auction, extension will be effected 
+39 
+corresponding to the Bonds that have not been sold. The extension will be effected on a pro rata basis, and in 
+40 
+this case the corresponding share of the Bondholders’ holding of the Bonds that would otherwise reach 
+41 
+maturity will be extended. 
+42 
+In the event of Nordea Kredit’s bankruptcy, restructuring or similar proceedings, the restructuring 
+43 
+administrator or the trustee can extend the maturity of the relevant Bonds by one year at a time where new 
+44 
+refinancing Bonds may not be issued or where there are an insufficient number of buyers for all the new 
+45 
+Bonds required. The restructuring administrator or the trustee will fix the interest rate on the extended Bonds 
+46
+
+--- Page 27 ---
+27 
+Confidential 
+at an adjustable reference rate plus up to 5% points. This reference rate must be a leading 1-year reference 
+1 
+rate in the same currency as the extended Bonds. 
+2 
+For mortgage loans financed by callable Bonds, the borrowers have the right to prepay at par or at another 
+3 
+agreed redemption price at all interest payment dates, whereas prepayment of mortgage loans financed by 
+4 
+non-callable Bonds can be effected by purchase of the relevant Bonds at market price or in the year of 
+5 
+maturity at par.  
+6 
+The Final Terms will state whether the Bonds are callable or non-callable. 
+7 
+Where borrowers make full or partial prepayment of the underlying mortgage loans, Nordea Kredit is entitled 
+8 
+to amortise Bonds through the purchase and cancellation of Bonds instead of having the Bonds drawn for 
+9 
+redemption. 
+10 
+Where borrowers make full or partial prepayment of the underlying mortgage loans by delivery of SDROs or 
+11 
+ROs issued on the basis of the underlying mortgage loans, Nordea Kredit is entitled to amortise the Bonds 
+12 
+through cancellation of the Bonds. 
+13 
+Nordea Kredit reserves the right to offer borrowers in capital centre 2 the option to repay their mortgage loans 
+14 
+without SDROs equivalent to the volume issued in connection with the mortgage loan simultaneously being 
+15 
+drawn for redemption or cancelled. 
+16 
+Nordea Kredit reserves the right to offer borrowers in the institution’s general reserves the option to repay 
+17 
+their mortgage loans without ROs equivalent to the volume issued in connection with the mortgage loan 
+18 
+simultaneously being drawn for redemption or cancelled. 
+19 
+8. Yield 
+20 
+The yield depends on the purchase price, the maturity date and the cash flows of the Bonds, which may 
+21 
+change after the opening of an ISIN code. 
+22 
+The yield on Bonds can be determined by discounting the cash flows of the individual Bond or ISIN code to 
+23 
+the settlement date using a rate of interest which ensures that the value of the cash flows discounted is equal 
+24 
+to the amount invested. This discount rate constitutes the yield. All cash flows are discounted using this rate 
+25 
+of interest to the settlement date.  
+26 
+Cash flows of the Bonds are affected by tap issuance under the ISIN codes and by the prepayment and 
+27 
+remortgaging activity of the borrowers. Neither future new issuance nor prepayments can be calculated 
+28 
+accurately. Instead these must be calculated by approximation. 
+29 
+9. Investor representation 
+30 
+There is no investor representation for ROs neither for SDROs.  
+31 
+10. Opening of new ISIN codes 
+32 
+The Executive Management of Nordea Kredit may decide to open new ISIN codes and is authorised by the 
+33 
+Board of Directors of Nordea Kredit to sign base prospectuses and supplements to such base prospectuses. 
+34 
+The Final Terms will state the opening date of new ISIN codes. 
+35 
+11. Restrictions on transferability 
+36 
+The Bonds are sold in the market via the Bank and are freely transferable both during and after the opening 
+37 
+period, except as stipulated by the selling restrictions applicable in the United States or to US persons as well 
+38 
+as the other restrictions in section 13 “Selling and dealing restrictions” of the Base Prospectus.
+39 
+ 
+ 
+40
+
+--- Page 28 ---
+28 
+Confidential 
+6 
+Template for Final Terms 
+1 
+FINAL TERMS OF THE BONDS  
+2 
+ISSUED BY NORDEA KREDIT REALKREDITAKTIESELSKAB (“Nordea Kredit”) 
+3 
+These final terms (the “Final Terms”) apply to bonds issued by Nordea Kredit under Nordea Kredit’s base 
+4 
+prospectus dated 20 February 2023 and any prospectus supplements to this base prospectus (collectively the 
+5 
+“Base Prospectus”) in ISIN codes opened after the date of the Base Prospectus. The Final Terms solely 
+6 
+relate to the ISIN codes set out in the tables below (the “Bonds”). 
+7 
+Nordea Kredit hereby declares that: 
+8 
+ 
+The Final Terms have been prepared in accordance with the Prospectus Regulation and must be read in 
+9 
+conjunction with the Base Prospectus. 
+10 
+ 
+The Base Prospectus has been published electronically at Nordea Kredit’s website www.nordeakredit.dk, 
+11 
+on the Danish FSA’s website www.finanstilsynet.dk as well as at the website of Nasdaq Copenhagen A/S 
+12 
+www.nasdaqomxnordic.com.  
+13 
+ 
+For the full information prespective investors must read the Base Prospectus as well as the Final Terms. 
+14 
+ 
+The summary for this specific issue is attached as an appendix to these Final Terms.  
+15 
+MiFID II PRODUCT GOVERNANCE 
+16 
+[THE TARGET MARKET OF THE BONDS IS RETAIL CLIENTS, PROFESSIONAL CLIENTS 
+17 
+AND ELIGIBLE COUNTERPARTIES – Solely for the purposes of each manufacturer's product 
+18 
+approval process, the target market assessment in respect of the Bonds has led to the conclusion that: 
+19 
+(i) the target market for the Bonds solely consists of eligible counterparties, professional clients and 
+20 
+retail clients as defined in Directive 2014/65/EU ("MiFID II"); and (ii) all channels for distribution are 
+21 
+appropriate. Any person subsequently offering, selling or recommending the Bonds (a "Distributor") 
+22 
+should take into consideration the manufacturer's target market assessment; However, a Distributor 
+23 
+subject to MiFID II is responsible for undertaking its own target market assessment in respect of the 
+24 
+Bonds (by either adopting or refining the manufacturer's target market assessment) and determining 
+25 
+appropriate distribution channels subject to the Distributor's suitability and appropriateness test 
+26 
+under MiFID II, if relevant.] 
+27 
+[THE TARGET MARKET OF THE BONDS IS PROFESSIONAL CLIENTS AND ELIGIBLE 
+28 
+COUNTERPARTIES ONLY– Solely for the purposes of each manufacturer's product approval 
+29 
+process, the target market assessment in respect of the Bonds has led to the conclusion that: (i) the 
+30 
+target market for the Bonds is eligible counterparties and professional clients only, each as defined in 
+31 
+Directive 2014/65/EU ("MiFID II"); and (ii) all channels for distribution of the Bonds to eligible 
+32 
+counterparties and professional clients are appropriate. Any person subsequently offering, selling or 
+33 
+recommending the Bonds (a "Distributor") should take into consideration the manufacturers' 
+34 
+assessment of the type of clients; However, a Distributor subject to MiFID II is responsible for 
+35 
+undertaking its own target market assessment in respect of the Bonds (by either adopting or refining 
+36 
+the manufacturer's target market assessment) and determining appropriate distribution channels.] 
+37 
+Bonds subject to provisions on 
+regulation of refinancing risk: 
+The Bonds may be subject to the provisions on regulation of refinancing 
+risk. If that is the case, this will be indicated in Table 2 below. More detailed 
+terms may furthermore be specified in a note to the table.
+
+--- Page 29 ---
+29 
+Confidential 
+ 
+Information about where the past 
+performance of the money market 
+rate underlying the reference rate 
+can be found: 
+[Information can be found [●].] [Not applicable as the Bonds have a fixed 
+rate.] 
+Bonds subject to provisions set by 
+Nordea Green Funding 
+Framework 
+In Table 1 these Bonds will be marked with a “G” in the Bond type column. 
+Yield: 
+[●] [The method for calculation of the yield is described on page [●] of the 
+Base Prospectus.]
+Negative interest:  
+[If the interest rate of a Bond can become negative, this is set out in Tables 5 
+and 6 below.] 
+ 
+1 
+Accrued interest:  
+[●][Investors pay accrued interest for the period from the latest interest 
+payment date until the date of acquisition.] [Investors pay accrued interest 
+for the period from the latest interest payment date until the date of 
+acquisition, see, however, condition 6 on negative interest in section 6 
+“Terms of the Bonds” of the Base Prospectus.]
+Market-making agreements: 
+[Nordea Kredit has not entered into any agreement with any entity 
+concerning market making in the Bonds.] [Nordea Kredit has entered into an 
+agreement with the following entity [entities] on market making in the 
+Bonds on the following terms: [Name and address of entities and a 
+description of the terms of the market-making agreement.]
+ 
+2 
+Information about prices and 
+outstanding volume of Bonds: 
+Prices and the outstanding volume of Bonds will be announced at a current 
+basis [on the website of Nasdaq Copenhagen A/S: 
+www.nasdaqomxnordic.com] [and/or] [specify another place where 
+information will be available].
+Conflicts of interest: 
+[Nordea Kredit is not aware of any conflicts of interest which are material to 
+Nordea Kredit in connection with the offer of the Bonds.] [Description of 
+any conflicts of interest which in connection with the offer of the Bonds are 
+material to Nordea Kredit, including a specification of the persons involved 
+and the nature of such interest.
+ 
+3 
+[The Bonds have variable rates and are callable.] [The Bonds have fixed rates and are callable.] [The Bonds 
+4 
+have  variable rates and are non-callable.] [The Bonds have fixed rates and are non-callable.]  
+5 
+Tables: 
+6 
+ 
+7 
+Table 1 
+8 
+[The following Table 1 is inserted for variable-rate callable or non-callable Bonds] 
+9
+
+--- Page 30 ---
+30 
+Confidential 
+Bond 
+type 
+ISIN 
+code 
+Currency 
+Opening date/Date 
+from which interest 
+becomes payable 
+Closing 
+date 
+Maturity 
+date 
+Callability 
+ 
+1 
+[The following Table 1 is inserted for fixed-rate callable or non-callable Bonds] 
+2 
+Bond 
+type 
+ISIN 
+code 
+Coupon 
+rate 
+Currency 
+Opening date/Date from 
+which interest becomes 
+payable 
+Closing 
+date 
+Maturity 
+date 
+ 
+3 
+Table 2 
+4 
+[The following Table 2 is inserted for fixed-rate non callable and for variable-rate Bonds] 
+5 
+Bond 
+type 
+ISIN 
+code 
+Number of 
+annual 
+payment dates
+Payment 
+periods 
+Day count 
+convention 
+Payment 
+days 
+Auction 
+trigger  
+Interest 
+rate 
+trigger
+ 
+6 
+Table 3 
+7 
+[The following Table 3 is inserted for all bond types] 
+8 
+Bond 
+type 
+ISIN 
+code 
+Amortisation profile of 
+underlying loans 
+With interest-only 
+option  
+Redemption price 
+for bonds drawn for 
+redemption 
+ 
+9 
+Table 4 
+10 
+[The following Table 4 is inserted for all bond types] 
+11 
+Bond 
+type 
+ISIN 
+code 
+Rating 
+Deno-
+mination 
+Settle-
+ment 
+(value 
+date) 
+Place of 
+listing 
+Place of 
+registra-
+tion 
+Day of 
+listing 
+ 
+12 
+ [The following Tables 5 and 6 are inserted for variable-rate callable or non-callable Bonds] 
+13 
+ 
+14 
+Table 5 
+15 
+ISIN 
+code
+Interest rate reset 
+frequency
+Fixing period 
+Negative 
+interest
+Reference rate 
+Initial interest 
+rate
+ 
+16
+
+--- Page 31 ---
+31 
+Confidential 
+Table 6 
+1 
+Bond 
+type 
+ISIN 
+code 
+Fixing 
+method 
+Day count 
+convention 
+Interest rate 
+premium/discount 
+Interest rate 
+cap 
+Interest rate 
+floor 
+ 
+2 
+ 
+3 
+These Final Terms were approved by Nordea Kredit on [●]. 
+4 
+Signed on behalf of Nordea Kredit Realkreditaktieselskab: 
+5 
+ 
+6 
+ 
+ 
+ 
+________________________________________ 
+Name: 
+Position:  
+Date:
+ 
+ 
+ 
+________________________________________ 
+Name: 
+Position: 
+Date:
+7
+
+--- Page 32 ---
+32 
+Confidential 
+APPENDIX TO THE FINAL TERMS – SUMMARY OF THIS SPECIFIC ISSUE 
+1 
+ 
+2 
+[Summary of the Base Prospectus, including information on 
+3 
+the Final Terms of the specific Bonds inserted.] 
+4 
+ 
+5 
+ 
+ 
+6
+
+--- Page 33 ---
+33 
+Confidential 
+7 
+Information incorporated into the 
+1 
+Base Prospectus by reference 
+2 
+The Base Prospectus should be read and understood in conjunction with the parts of the documents below that 
+3 
+are incorporated into the Base Prospectus by reference:  
+4 
+(i) Nordea Kredit’s audited annual financial statements for the financial years ended 31 December 2021 and 
+5 
+31 December 2022, in both cases with included audit reports, which are included in the page references in the 
+6 
+tables below and  
+7 
+(ii) the terms of the Bonds set out on:  
+8 
+Pages 20-26 of the base prospectus dated 22 February 2022, pages 21-26 of the base prospectus dated 23 
+9 
+February 2021, pages 22-27 of the base prospectus dated 24 February 2020, pages 33-37 of the base 
+10 
+prospectus dated 21 December 2017 for the offer of mortgage bonds and covered mortgage bonds, pages 19-
+11 
+22 of the base prospectus dated 16 February 2015 for the offer of covered mortgage bonds issued out of 
+12 
+Nordea Kredit Realkreditaktieselskab’s capital centre 2, pages 18-20 of the base prospectus dated 14 
+13 
+February 2014 for the offer of mortgage bonds issued by Nordea Kredit Realkreditaktieselskab, pages 30-54 
+14 
+of the base prospectus dated 14 April 2011 for the offer of covered mortgage bonds issued out of Nordea 
+15 
+Kredit Realkreditaktieselskab’s capital centre 2, pages 30-54 of the base prospectus dated 14 April 2011 for 
+16 
+the offer of mortgage bonds issued by Nordea Kredit Realkreditaktieselskab, pages 26-28 of the base 
+17 
+prospectus dated 8 October 2007 for the offer of covered mortgage bonds issued out of Nordea Kredit 
+18 
+Realkreditaktieselskab’s capital centre 2, Appendix 2 of the base prospectus dated 20 March 2006 for the 
+19 
+offer of mortgage bonds issued by Nordea Kredit Realkreditaktieselskab and Appendix 2 of the base 
+20 
+prospectus dated 27 June 2005 for the offer of mortgage bonds issued by Nordea Kredit 
+21 
+Realkreditaktieselskab, which have been published and registered separately with the Danish FSA.  
+22 
+Information in the above documents is incorporated into the Base Prospectus, but any declaration or 
+23 
+statement included in the documents incorporated will be deemed to have been revised or replaced if a 
+24 
+declaration or statement in the Base Prospectus revises or replaces any such declaration or statement 
+25 
+previously made (expressly, implicitly or otherwise). Any declaration or statement which has been revised or 
+26 
+replaced no longer forms part of the Base Prospectus. 
+27 
+The table below shows the relevant page references to the audited annual financial statements for the 
+28 
+financial years ended 31 December 2021 and 31 December 2022, in both cases with attached audit reports, 
+29 
+which are incorporated by reference. The published financial statements of Nordea Kredit are available on 
+30 
+www.nordeakredit.dk under Investor information (select “Investor information” on the right, then “Financial 
+31 
+reports and calendar” on the left, then select “Financial reports” in the middle and select the relevant report). 
+32 
+Audited annual financial statements of Nordea Kredit for the financial year 2022 
+33 
+Nordea Kredit Realkreditaktieselskab – Annual Report 2022 
+34 
+Statement by the Board of Directors and the Executive Management  ............................................ page 47 
+35 
+Income statement  ............................................................................................................................. page 13 
+36 
+Statement of comprehensive income  ............................................................................................... page 13 
+37 
+Balance sheet  ................................................................................................................................... page 14 
+38 
+Notes to the financial statements  ..................................................................................................... pages 18-45 
+39 
+Independent auditors’ report ............................................................................................................ page 48 
+40 
+Link to Annual Report 2022:  
+41 
+https://www.nordea.com/en/doc/nordeakredit-31-12-2022-dk.zip 
+42 
+ 
+43
+
+--- Page 34 ---
+34 
+Confidential 
+ 
+1 
+Audited annual financial statements of Nordea Kredit for the financial year 2021 
+2 
+Nordea Kredit Realkreditaktieselskab – Annual Report 2021 
+3 
+Statement by the Board of Directors and the Executive Management  ............................................ page 48 
+4 
+Income statement  ............................................................................................................................. page 13 
+5 
+Statement of comprehensive income  ............................................................................................... page 13 
+6 
+Balance sheet  ................................................................................................................................... page 14 
+7 
+Notes to the financial statements  ..................................................................................................... pages 18-46 
+8 
+Independent auditors’ report ............................................................................................................ page 49 
+9 
+Link to Annual Report 2021:  
+10 
+https://www.nordea.com/en/doc/annual-report-nordea-kredit-realkreditaktieselskab-2021.pdf 
+11 
+ 
+ 
+12
+
+--- Page 35 ---
+35 
+Confidential 
+8 
+Reasons for sale of the Bonds and 
+1 
+use of proceeds 
+2 
+The net proceeds from the Bonds issued will be used to finance mortgage loans secured by mortgages on 
+3 
+property or loans to public authorities granted by Nordea Kredit. If, in respect of any particular issue, there is 
+4 
+another or a particular identified use of proceeds, such as for example in relation to any Green Mortgage Bonds 
+5 
+or Covered Mortgage Bonds, this will be stated in the applicable Final Terms. 
+6 
+Any surplus funds from Bonds issued under the Base Prospectus will be invested in safe and liquid securities 
+7 
+in compliance with the provisions of Danish legislation and internal policies, see section 4 “Legislation” of 
+8 
+the Base Prospectus. 
+9 
+9 
+About the Nordea Group and 
+10 
+Nordea Kredit 
+11 
+Realkreditaktieselskab 
+12 
+9.1 
+General 
+13 
+The Issuer is part of the Nordea Group, which is a large financial group in the Nordic region (Denmark,Finland, 
+14 
+Norway and Sweden) measured by total income. The Nordea Group offers a comprehensive range of banking 
+15 
+and financial products and services to household and corporate customers, including financial institutions. The 
+16 
+Nordea Group's products and services comprise a broad range of household banking services, including 
+17 
+mortgages and consumer loans, credit and debit cards, and a wide selection of savings, life insurance and 
+18 
+pension products. In addition, the Nordea Group offers a wide range of corporate banking services, including 
+19 
+business loans, cash management, payment and account services, risk management products and advisory 
+20 
+services, debt and equity-related products for liquidity and capital raising purposes, as well as corporate finance, 
+21 
+institutional asset management services and corporate life and pension products. As of 31 December 2021, the 
+22 
+Nordea Group had approximately 10 million household customers and around 0.6 million corporate customers. 
+23 
+The Nordea Group's parent company, Nordea Bank Abp, is a public limited liability company formed in 
+24 
+accordance with Finnish law with headquarters in Helsinki. The Bank's shares are listed and traded at the stock  
+25 
+exchanges in Stockholm (in SEK), Copenhagen (in DKK) and Helsinki (in EUR). 
+26 
+Nordea Kredit is a wholly owned subsidiary of Nordea Bank Abp.  
+27 
+To the best of our knowledge no significant change in the financial position of Nordea Bank Abp has 
+28 
+occurred since the recent published annual report. Further, Nordea Kredit has no knowledge of any agreement 
+29 
+which may result in others gaining control of the Issuer. 
+30 
+The following chart sets forth the main legal structure of the Nordea Group as of 1 November 2022: 
+31 
+ 
+32 
+ 
+33
+
+--- Page 36 ---
+36 
+Confidential 
+1 
+Nordea Kredit Realkreditaktieselskab, incorporated as a limited company in Denmark, (Danish business 
+2 
+registration (CVR) number 15134275) and LEI code 52990080NNXXLC14OC65) (Nordea Kredit) is a 
+3 
+Danish mortgage institution domiciled in Copenhagen, Copenhagen Municipality. The company’s registered 
+4 
+address is Grønjordsvej 10, 2300 Copenhagen S, Denmark, telephone +45 33 33 36 36.  
+5 
+ 
+6 
+Nordea Kredit’s latest interim and annual reports (www.nordea.com/en/investors/danish-subsidiary-reports), 
+7 
+company announcements (www.nordea.dk/privat/produkter/boliglaan/investor-
+8 
+information.html#tab=Company-announcements) and other information are available at 
+9 
+www.nordeakredit.dk. However, information at the website is not part of the Base Prospectus 
+10 
+unless incorporated by reference. 
+11 
+ 
+12 
+Nordea Kredit has Nordea Realkredit A/S, Nordea Realkreditaktieselskab and Unikredit 
+13 
+Realkreditaktieselskab as commercial names. 
+14 
+ 
+15 
+The share capital of Nordea Kredit consists of 17,172,500 shares in the denomination of DKK 100 
+16 
+corresponding to a nominal value of DKK 1,717,250,000. The share capital is not divided into classes. The 
+17 
+share capital is fully paid up. 
+18 
+ 
+19 
+The object of Nordea Kredit is to carry on all types of mortgage credit activity and any other activities 
+20 
+considered ancillary to the company’s mortgage credit activity within the framework of the mortgage credit 
+21 
+legislation applicable from time to time. This follows from Article 2 of the Articles of Association and from 
+22 
+article 2 of the Founding Agreement.     
+23
+
+--- Page 37 ---
+37 
+Confidential 
+ 
+1 
+Nordea Kredit carries on business pursuant to Danish legislation, particularly the Danish Financial Business 
+2 
+Act and the Danish Mortgage-Credit Loans and Mortgage-Credit Bonds etc Act and is subject to the 
+3 
+supervision of the Danish FSA. Nordea Kredit has received approval from the Danish FSA to issue mortgage 
+4 
+bonds (ROs) and covered mortgage bonds (SDROs). 
+5 
+ 
+6 
+As a result of the Bank’s decision to establish its own mortgage credit institution Nordea Kredit was founded 
+7 
+on 9 January 1991, registered with the Danish Business Authority on 26 March 1991 and approved as a 
+8 
+mortgage credit institution on 19 August 1993 under the name of Unikredit Realkreditaktieselskab by 
+9 
+Finanstilsynet (the Danish FSA). 
+10 
+ 
+11 
+Nordea Kredit has since then supplied mortgage credit products to the Bank’s customers. Nordea Kredit’s 
+12 
+business volume has developed in line with the demand for mortgage products funded by bonds (RO’s and 
+13 
+SDRO’s) issued by Nordea Kredit. Nordea Kredit have delivered both growth and positive financial results 
+14 
+and now constitutes a significant part of the Bank’s Danish branch.  
+15 
+ 
+16 
+9.1.1 
+Activities  
+17 
+Nordea Kredit solely grants loans for properties in Denmark except for the Faeroe Islands and Greenland. 
+18 
+Loans are granted for all property categories (see also information about property categories under the 
+19 
+description of Danish mortgage legislation in section 4 “Legislation” of the Base Prospectus). Except as set 
+20 
+out above, there are no lending restrictions with respect to specific geographical areas or in relation to the 
+21 
+total volume of loans to one or several segments. 
+22 
+Loans are granted to customers of Nordea Danmark, filial af Nordea Bank Abp (the “Branch”), and Nordea 
+23 
+Kredit thus solely processes loan applications passed on by the Branch. Loans taken out with Nordea Kredit 
+24 
+form part of the borrowers’ consolidated commitments with the Nordea Group.  
+25 
+Nordea Kredit’s business model is an integral part of the Nordea Group’s strong customer focus and its 
+26 
+commitment to building close customer relationships. 
+27 
+Nordea Kredit adheres to the specific balance principle and exclusively match-funds its lending by the 
+28 
+issuance of bonds.   
+29 
+Segments and products and developments 
+30 
+By the end of 2022 mortgage credit loans secured by owner occ. dwellings and holiday homes represent more 
+31 
+than 70% of Nordea Kredit’s lending portfolio, whereas commercial and agricultural properties represent 
+32 
+21% and 8% respectively. 
+33 
+Total lending by fair value have, over the years, increased – however, in 2022 total lending amounted to DKK 
+34 
+386bn in 2021 to DKK 432bn in 2021. The recent change can be attributed the slowdown in the housing 
+35 
+market and rapid and significant increase in interest rates.  
+36 
+At the same time Loan to value (LTV) rates have changed as a result of increasing property prices while 
+37 
+lending at fair value has decreased.  
+38
+
+--- Page 38 ---
+38 
+Confidential 
+ 
+1 
+Mortgage loans by regions and type of property:  
+2 
+ 
+3 
+ 
+4 
+ 
+5 
+ 
+6 
+Mortgage loans by type: 
+7 
+Loan type
+2022
+2021
+Fixed-rate  
+43% 
+48% 
+ARMs
+33%
+31%
+Floating rate
+24%
+21%
+ 
+8 
+Interest-only loans accounted for 53% compared to 51% by the end of 2021. The increasing share of interest-
+9 
+only loans was primarially driven by the 30-year interest-only “Frihed30” loans among household customers. 
+10 
+Frihed30 loans are limited to a maximum loan to value (LTV) ratio of 60% and targeted the experienced 
+11 
+homeowners.  
+12 
+As for new lending in 2022 fixed-rate loans was the preferred choice of household customers whereas 
+13 
+corporate customers preferred floating-rate loans.  
+14 
+Mortage loans by loan to value (LTV) and property category
+(%)
+2022
+2021
+2022
+2021
+2022
+2021
+2022
+2021
+0-40
+29%
+21%
+49%
+42%
+40%
+35%
+34%
+26%
+40-60
+47%
+42%
+38%
+34%
+45%
+43%
+45%
+40%
+60-80
+21%
+33%
+13%
+22%
+13%
+19%
+19%
+30%
+>80
+3%
+4%
+1%
+2%
+2%
+3%
+2%
+4%
+Total fair value, DKKbn
+268
+                
+303
+                
+85
+                 
+91
+                  
+34
+                  
+38
+                  
+386
+           
+432
+              
+Weighted avg. LTV
+49%
+54%
+40%
+45%
+44%
+47%
+46%
+52%
+Owner occupied dwellings 
+and holiday homes
+   Agricultural properties 
+   Commercial properties
+Total
+
+--- Page 39 ---
+39 
+Confidential 
+Competition in the market 
+1 
+The Danish mortgage market is characterized by strong competition which i.a. involves products and 
+2 
+services. Nordea Kredit has increased its market share in recent years – the market share within retail has 
+3 
+decreased from 16.9% in 2021 to 16.8% in 2022.  
+4 
+Nordea Kredit's access to the market takes place via the Bank, which by virtue of its size and market position 
+5 
+represents a significant part of the Danish banking market. Consequently, Nordea Kredit finds that Nordea 
+6 
+Kredit thus enjoys the advantages of a large customer base and the bank's general competitive position on the 
+7 
+Danish market. 
+8 
+Organisational structure  
+9 
+Nordea Kredit is a wholly owned subsidiary of Nordea Bank Abp. Nordea Kredit has not adopted special 
+10 
+mitigating actions to prevent the Bank from being able to abuse its control over Nordea Kredit. However, the 
+11 
+close collaboration with other Nordea Group entities is governed by Intra Group Agreements (IGAs) and 
+12 
+business continuity plans.  
+13 
+Collaboration with other Nordea Group entities 
+14 
+The business activities and operations of Nordea Kredit are also closely integrated with and tied to the Bank. 
+15 
+The business model of Nordea Kredit is highly dependent on the Bank as key processes related to lending and 
+16 
+funding are conducted or partly conducted by the Bank. The close collaboration with the Bank is considered 
+17 
+an operational risk to Nordea Kredit. This risk is largely mitigated by outsourcing and governance agreements 
+18 
+between the entities.  
+19 
+The outsourced or partly outsourced processes include customer contact, credit risk assessments, ongoing 
+20 
+scoring and rating, refinancing and pre-issuance etc.    
+21 
+Nordea Kredit’s mortgage loans are provided via the Branch, Nordea Kredit makes use of IT systems and 
+22 
+solutions developed and operated by the Bank and a number of significant activities have been outsourced to 
+23 
+the Bank. 
+24 
+Bond issuance and sales as well as investment of own funds are performed in close collaboration with entities 
+25 
+of the Bank. In addition, the Bank and Nordea Kredit have a number of joint staff functions and some 
+26 
+functions are performed at Nordea Group level. 
+27 
+To ensure that these processes work smoothly and with clearly defined responsibilities, this cooperation is 
+28 
+governed by Intra Group Agreements (IGAs) and business continuity plans.  
+29 
+9.1.2 
+Loan loss guarantee by the Bank 
+30 
+At the origination of loans the Bank provides a loan loss guarantee of minimum 25% of the cash value of a 
+31 
+loan in favour of Nordea Kredit. However, for loans granted for non-profit rental housing, youth housing and 
+32 
+housing for the elderly, the guarantee provided constitutes 10%. If Nordea Kredit has more than one loan to 
+33 
+the same property, the guarantees cover the top portion of the combined commitment. The guarantee expires 
+34 
+when the loan is terminated or matures. Loans where the guarantee has expired after the former time-limited 
+35 
+guarantee scheme are not covered by the guarantee. 
+36 
+The guarantee is renewed when and if the existing loan is remortgaged into a new mortgage loan with Nordea 
+37 
+Kredit. The guarantee contributes to reducing the credit risk on the individual commitment and by the end of 
+38 
+2022 the guarantee covered 98% of all loans at Nordea Kredit. 
+39 
+Nordea Kredit will be able to utilise guarantees provided by the Bank as supplementary collateral, provided, 
+40 
+however, that the value of Nordea Kredit’s total exposure with credit institutions under Article 129(1) of the 
+41
+
+--- Page 40 ---
+40 
+Confidential 
+CRR does not exceed 15% of the nominal value of Nordea Kredit’s mortgage bonds and covered mortgage 
+1 
+bonds outstanding. 
+2 
+9.1.3 
+Legal and arbitration proceedings 
+3 
+In March 2022, the Danish FSA conducted a credit inspection on lending for  private rental housing and 
+4 
+interest-only  loans for private customers. Nordea Kredit received two orders in continuation of the 
+5 
+investigation. The first one – if the Bank becomes aware that the customer’s use of the property has changed 
+6 
+from the originally informed purpose the Bank  must notify Nordea Kredit without delay. 
+7 
+The issue is now closed since Nordea Kredit has initiated appropriate measures to resolve the issue.  
+8 
+The second order, means that Nordea Kredit must take appropriate measures to remedy the deficiencies found 
+9 
+in the handling of the outsourced credit process – The Danish FSA has closed the order in February 2023. 
+10 
+The Danish FSA also carried out an AML investigation in Nordea Kredit in June 2022 and the investigation 
+11 
+resulted in four orders to Nordea Kredit. The first injunction orders Nordea Kredit to revise its written 
+12 
+business procedures, so that the business procedures contain descriptions of the specific activities that 
+13 
+employees must carry out in connection with the investigation of and notification of suspicious transactions 
+14 
+or activities, which must be notified to the Money Laundering Secretariat (Hvidvasksekretariatet). The second 
+15 
+order orders Nordea Kredit to assess and, where relevant, update information on the origin of the funds for 
+16 
+“monoliners”, so that the ongoing customer due diligence procedures are sufficient. 
+17 
+The last two orders orders Nordea Kredit to investigate suspicious transactions without undue delay to ensure 
+18 
+an immediate notification to the Money Laundering Secretariat in the event of suspicion or when the 
+19 
+company has reasonable grounds to suspect that a transaction, funds or an activity has or has had connection 
+20 
+to AML or the financing of terrorism. Further, Nordea Kredit must register and store the results of those of 
+21 
+investigation carried out by the company and Nordea Kredit must carry out sufficient internal checks on the 
+22 
+investigation of unusual transactions to ensure that the investigations are carried out in a timely manner and 
+23 
+that the result is recorded to a sufficient extent. 
+24 
+Before 22 March 2023, Nordea Kredit must submit a report to the Danish Financial Supervisory Authority on 
+25 
+how the four injunctions have been carried out. 
+26 
+Nordea Kredit finds that no closed orders have had material impact on Nordea Kredit’s business during the 
+27 
+previous 12 months. Except for the above mentioned injunctions Nordea Kredit is not aware of any pending 
+28 
+or potential governmental, legal or arbitration proceedings during a period covering at least the previous 12 
+29 
+months before the publication of the Base Prospectus which may have, or have had in the recent past, 
+30 
+significant effects on Nordea Kredit’s financial position or profitability. 
+31 
+9.1.4 
+Management of certain risks relating to mortgage institutions 
+32 
+The Danish Executive Order on Management and Control of Banks etc lays down rules and procedures for 
+33 
+calculating, managing and controlling etc risks and sets out requirements for the internal organisation of 
+34 
+mortgage institutions.  
+35 
+Nordea Kredit takes care on an ongoing basis to arrange its activities in such a manner as to limit risks. This 
+36 
+is for example done by applying business procedures and internal controls. As part of Nordea’s overall risk 
+37 
+management, the Board of Directors of Nordea Kredit has in a number of key areas established risk policies 
+38 
+with risk limits, for example relating to credit and market risks, to be followed in day-to-day operations.  
+39 
+The Nordea Group issues group directives which within their specific areas of application regulate how the 
+40 
+Group, including subsidiaries, is to carry on business. These directives moreover form part of Nordea 
+41 
+Kredit’s risk management. 
+42
+
+--- Page 41 ---
+41 
+Confidential 
+Nordea Kredit has chosen to apply the specific balance principle. Nordea Kredit’s interest rate, currency, 
+1 
+liquidity and option risks are thereby highly limited as it is ensured that lending and financing through 
+2 
+mortgage bond and covered mortgage bond issuance are closely balanced as described in detail in section 4.4 
+3 
+“The The Balance principle” of the Base Prospectus. 
+4 
+Focus on market risks 
+5 
+The Board of Directors of Nordea Kredit has established market risk instructions, defining the limits of the 
+6 
+interest rate and currency risks that Nordea Kredit is allowed to assume through its activity and investment of 
+7 
+capital. The limits defined are well within the framework of the Danish executive order on bond issuance, the 
+8 
+balance principle and risk management and are established on the basis of the Nordea Group’s overall risk 
+9 
+management that limits the risk-taking of subsidiaries.  
+10 
+As a consequence of the market risk instructions, capital is regularly invested in repo/reverse repo 
+11 
+transactions with the Bank on the basis of covered mortgage bonds to minimise Nordea Kredit’s market risks. 
+12 
+Nordea Kredit minimises its liquidity, market and currency risks related to the investment of capital.  
+13 
+Nordea Kredit has entered into an agreement with the Bank on the basis of the market risk instructions. The 
+14 
+agreement with the Bank ensures that Nordea Kredit’s capital is invested in the most appropriate manner in 
+15 
+relation to the market. The agreement includes more specific requirements for the investment of capital.  
+16 
+In the event of a liquidity shortfall, for example if outgoing payments to the Bondholders exceed incoming 
+17 
+payments from the borrowers, for example due to an increase in arrears on payments from the borrowers, 
+18 
+Nordea Kredit has an internal liquidity buffer. Nordea Kredit’s internal liquidity buffer consists solely of 
+19 
+unencumbered liquid assets.  
+20 
+Apart from any liquidity shortfall, the liquidity reserve must also cover the requirement for providing 
+21 
+supplementary collateral if the value of the assets provided as collateral no longer at least matches the value 
+22 
+of the Bonds issued or if the assets do not comply with the lending limits applicable at the time when the loan 
+23 
+was granted. Under applicable legislation, the cost of extra collateral may not be imposed on the individual 
+24 
+loan and its debtor(s) and must consequently be borne by Nordea Kredit. 
+25 
+The need for extra collateral is determined on the basis of the initial valuation of the individual property and 
+26 
+property market prices combined with samples of a broad selection of properties. The risk that extra collateral 
+27 
+will be needed cannot be reduced to zero due to the market mechanisms, and the need is consequently 
+28 
+monitored on a current basis and reported to the Board of Directors on a quarterly basis. 
+29 
+9.1.5 
+Financial information  
+30 
+Financial information for Nordea Kredit is set out below – and details are incorporated by reference cf section 
+31 
+7: 
+32 
+Income, profit and business volumes, key items (DKKm)   
+2022
+2021
+Net interest and fee income   
+2,840 
+ 2,694 
+Value adjustments   
+-17 
+ 1 
+Staff and administrative expenses   
+-1,424 
+ -1,367 
+Impairment losses on loans and receivables   
+-27 
+ 82 
+Profit before tax   
+1,377 
+ 1,419 
+Net profit for the period   
+1,075 
+ 1,107 
+Receivables from credit institutions and central banks   
+39,264 
+ 48,523 
+Loans and receivables at fair value   
+385,887 
+ 432,280
+
+--- Page 42 ---
+42 
+Confidential 
+Debt to credit institutions and central banks   
+9,503 
+ 14,260 
+Bonds in issue at fair value   
+389,737 
+ 441,234 
+Total equity   
+22,280 
+ 22,311 
+Total assets   
+425,506 
+ 481,015 
+   
+    
+    
+Ratios and key figures (%)   
+2022
+2021
+Return on equity   
+4.8 
+4.9 
+Cost/income ratio   
+50.4 
+50.5 
+Total capital ratio   
+30.5 
+26.6 
+Tier 1 capital ratio   
+28.4 
+24.7 
+Tier 1 capital, DKKm   
+20,628 
+ 20,526 
+Risk exposure amount, DKKm   
+72,751 
+ 83,099 
+Average number of employees (full-time equivalents)   
+116 
+118 
+  
+  
+  
+Cash flow statements for Nordea Kredit are set out below.   
+  
+  
+Cash flow statement (DKKm)   
+  
+  
+Operating activities   
+2022
+2021
+Profit for the period before tax   
+1,377 
+1,419 
+Adjustment for items not included in cash flow:   
+    
+    
+Impairment losses on loans and receivables   
+9 
+-160 
+Depreciation, amortisation and impairment charges of tangible and
+   intangible assets
+0
+0
+Depreciation and impairment losses of assets held temporarily   
+0 
+-1 
+Depreciation, amortisation and impairment losses of other assets 
+-3 
+-4 
+Revaluation of investment in associated undertaking   
+1 
+2 
+Prepaid expenses/deferred income (net)   
+-5 
+-2 
+   
+1,379 
+1,254 
+Working capital   
+     
+     
+Loans and receivables at fair value adjusted for losses   
+   and impairment charges
+46,384
+-14,567
+Loans and receivables at amortised cost   
+0 
+0 
+Other assets   
+-131 
+178 
+Debt to credit institutions and central banks   
+-4,757 
+9,262 
+Bonds in issue   
+-51,497 
+6,179 
+Other liabilities   
+782 
+20 
+Tax, net   
+-308 
+-325 
+Cash flow from operating activities   
+-8,148 
+2,001 
+Investing activities   
+    
+    
+Bonds   
+- 
+- 
+Shares   
+- 
+-
+
+--- Page 43 ---
+43 
+Confidential 
+Investment in associated undertaking   
+-2 
+-3 
+Tangible and intangible assets adjusted for depreciation  
+   and amortisation
+-
+-
+Assets held temporarily   
+-2 
+6 
+Cash flow from investing activities   
+-4 
+3 
+Financing activities   
+   
+   
+Proceeds from subordinated capital   
+- 
+-2,200 
+Dividend   
+-1,107 
+-1,279 
+Cash flow from financing activities   
+-1,107 
+-3,479 
+   
+   
+   
+Increase/(decrease) in cash and cash equivalents   
+-9,259 
+-1,475 
+   
+   
+   
+Cash and cash equivalents at beginning of period   
+48,523 
+49,998 
+Cash and cash equivalents at end of period   
+39,264 
+48,523 
+ 
+1 
+The cash flow statement has been prepared for this Base Prospectus and is not audited. Nordea Kredit 
+2 
+declares that the above cash flow statement gives a true and fair view and is in accordance with the applicable 
+3 
+rules and standards for Danish mortgage institutions, including the Danish Financial Business Act and the 
+4 
+Danish Executive Order on Financial Reports for Credit Institutions and Investment Firms etc. 
+5 
+9.1.6 
+Historical financial information 
+6 
+The financial statements of Nordea Kredit have been prepared in accordance with the Danish Financial 
+7 
+Business Act, the Danish Executive Order on Financial Reports for Credit Institutions and Investment Firms 
+8 
+etc and Nasdaq Copenhagen A/S’s rules for issuers of bonds. 
+9 
+Nordea Kredit has no plans to change accounting standards and/or accounting policies in this financial year. 
+10 
+9.1.7 
+Auditing of historical annual financial information 
+11 
+The historical annual financial information for Nordea Kredit has been audited by independent auditors. 
+12 
+Auditors’ reports are included in the published annual reports for 2021 and 2022 for Nordea Kredit. 
+13 
+The Base Prospectus does not contain audited information other than the information contained in the annual 
+14 
+reports for Nordea Kredit to which this Base Prospectus refers. As Nordea Kredit publishes an audited annual 
+15 
+report every year, the latest audited financial information will never be more than 14 months old. Nordea 
+16 
+Kredit prepares and publishes interim reports for the period 1 January to 30 June. Interim reports are not 
+17 
+audited and are publicly available on Nordea Kredit’s website www.nordeakredit.dk under Investor 
+18 
+information (select “Investor information” on the right, then “Financial reports and calendar” on the left, then 
+19 
+select “Financial reports” in the middle and select the relevant report). 
+20 
+9.1.8 
+Latest financial information 
+21 
+Nordea Kredit publishes annual reports and interim reports for the period 1 January to 30 June on a current 
+22 
+basis. The most recent audited financial information appears from the annual report for 2022 published on 20 
+23 
+February 2023. 
+24 
+Nordea Kredit hereby declares that as of the date of this Base Prospectus there has been no significant change 
+25 
+in the financial position, the borrowing and funding structure of Nordea Kredit since the publication of the 
+26 
+annual report for 2022. 
+27
+
+--- Page 44 ---
+44 
+Confidential 
+No recent events or events during 2022 have had a significant impact on the assessment of Nordea Kredit’s 
+1 
+capital adequacy. Specifically, the reactivation of the countercyclical capital buffer in Denmark has not had 
+2 
+an impact as Nordea Kredit’s binding capital requirement continues to be the leverage ratio requirement. 
+3 
+ 
+4 
+9.1.9 
+Financing  
+5 
+Nordea Kredit finances its lending activities exclusively through the issuance of mortgage bonds (ROs) and 
+6 
+covered mortgage bonds (SDROs). For the past more than 10 years the company has solely issued covered 
+7 
+mortgage bonds. Mortgage bonds are issued out of the institution’s general reserves and covered mortgage 
+8 
+bonds are issued out of capital centre 2. 
+9 
+Operating activities are financed through earnings generated on an ongoing basis. 
+10 
+9.1.10 
+Trend information and material contracts 
+11 
+Since 31 December 2022, the latest date covered by  audited financial statements of the Issuer, there has been 
+12 
+no material adverse change in the prospects of the Issuer.  
+13 
+Though the negative effect on volume and margin through 2022 is expected to continue in 2023.  
+14 
+The credit quality is high, and management judgement has been made in 2022 to cover the deteriorated 
+15 
+macroeconomic outlook. Despite this the uncertainty on loan losses remains higher than normal. 
+16 
+Otherwise, there are no known trends, uncertainties, demands, commitments or events that are expected to 
+17 
+have a significant impact on the prospects of the Issuer for the current financial year.  
+18 
+Nordea Kredit has not entered into any contracts other than contracts in the ordinary course of business, 
+19 
+which could result in any company of the Nordea Group being under an obligation or entitlement which is 
+20 
+material to Nordea Kredit’s ability to meet its obligations towards the Bondholders. 
+21 
+9.1.11 
+Auditors 
+22 
+PricewaterhouseCoopers Statsautoriseret Revisionspartnerselskab, Strandvejen 44, 2900 Hellerup, Denmark, 
+23 
+Danish business registration (CVR) number 33771231 has audited the annual financial statements of Nordea 
+24 
+Kredit: 
+25 
+ 
+For the fiscal year 2022, represented by Christian Fredensborg Jakobsen (mne16539), state-
+26 
+authorised public accountant, and Peter Nissen (mne33260), state-authorised public accountant 
+27 
+ 
+For the fiscal year 2021, represented by Christian Fredensborg Jakobsen (mne16539), state-
+28 
+authorised public accountant, and Benny Voss (mne15009), state-authorised public accountant.   
+29 
+Nordea Kredit’s external auditors are members of FSR – Danish Auditors (formerly the Institute of State 
+30 
+Authorised Public Accountants in Denmark). 
+31 
+9.1.12 
+Additional information 
+32 
+Nordea Bank Abp has, at the time of the publication of this Base Prospectus, obtained a second party opinion 
+33 
+of Nordea’s Green Funding Framework from ISS ESG: 
+34 
+ISS Corporate Solutions, Inc. 
+35 
+702 King Farm Blvd, suite 400 
+36 
+Rockville, MD 20850 – USA 
+37 
+ISS ESG has specialised in sustainability and was selected since the company has assessed other similar 
+38 
+issuers in the Nordic.  
+39
+
+--- Page 45 ---
+45 
+Confidential 
+ISS ESG has no material interest in Nordea Kredit.  
+1 
+The Base Prospectus includes no other statements or reports made by external experts. 
+2 
+9.1.13 
+Documents on display 
+3 
+Nordea Kredit declares that the following documents are available for inspection in hard copy by contacting 
+4 
+Nordea Kredit, Grønjordsvej 10, 2300 København S, Att Legal and NK Board or electronically at 
+5 
+https://www.nordea.dk/privat/produkter/boliglaan/investor-information.html: 
+6 
+- 
+Nordea Kredit’s Articles of Association  
+7 
+- 
+Founding Agreement (hard copy only) 
+8 
+- 
+Company announcements: https://www.nordea.dk/privat/produkter/boliglaan/investor-
+9 
+information.html#tab=Company-announcements 
+10 
+ 
+ 
+11
+
+--- Page 46 ---
+46 
+Confidential 
+10 
+Board of Directors, Executive 
+1 
+Management and other governing 
+2 
+bodies 
+3 
+The business address of the members of the Board of Directors and the Executive Management is Nordea 
+4 
+Kredit Realkreditaktieselskab, Grønjordsvej 10, 2300 Copenhagen S, Denmark.  
+5 
+10.1 
+Board of Directors 
+6 
+The Board of Directors of Nordea Kredit has the following members: 
+7 
+ 
+8 
+Mads Skovlund Pedersen (Chairman of the Board of Directors) 
+9 
+Internal assignments: 
+10 
+Head of Personal Banking Nordea Denmark  
+11 
+Country Senior Executive DK Nordea Danmark 
+12 
+Vice Chairman of the Board of Directors of danbolig A/S 
+13 
+Board Member of FR I AF 16. September 2015 A/S (FR1) 
+14 
+External assignments: 
+15 
+Vice Chairman of the Board of Directors of Finanssektorens Arbejdsgiverforening 
+16 
+Board member of Karl Pedersen og Hustrus Industrifond 
+17 
+Anne Rømer (Vice Chairman of the Board of Directors) 
+18 
+Internal assignments: 
+19 
+None 
+20 
+External assignments: 
+21 
+Vice President of Finance & Treasury, DSB 
+22 
+Chairman of of the Board of Directors of: 
+23 
+- Selskabet af 28.08.2017 67DD A/S 
+24 
+- Selskabet af 23.05.2017 46DD A/S 
+25 
+- Selskabet af 04.09.2020 EB A/S 
+26 
+- Selskabet af 04.01.2021 EB A/S 
+27 
+- Selskabet af 03.01.2021 EB A/S 
+28 
+ 
+29 
+Anders Frank-Læssøe (member of the Board of Directors) 
+30 
+Internal assignments: 
+31 
+Group Treasurer, Group Treasury Nordea Bank Abp 
+32 
+External assignments: 
+33 
+None 
+34 
+Anita Ina Nielsen (member of the Board of Directors) 
+35 
+Internal assignments: 
+36 
+Country AML Responsible Nordea Denmark 
+37 
+External assignments: 
+38 
+None 
+39 
+Thomas Vedel Kristensen (member of the Board of Directors) 
+40
+
+--- Page 47 ---
+47 
+Confidential 
+Internal assignments:  
+1 
+Strategic Advisor within Technology Nordea Abp 
+2 
+External assignments: 
+3 
+None 
+4 
+ 
+5 
+Helene Bløcher (member of the Board of Directors) 
+6 
+Internal assignments: 
+7 
+Head of Business Banking Nordea Denmark 
+8 
+External assignments: 
+9 
+None 
+10 
+Marte Kopperstad (member of the Board of Directors) 
+11 
+Internal assignments: 
+12 
+Head of Products and Business Development Nordea Abp 
+13 
+Member of the Board of Directors of Nordea Hypotek AB (publ), Sweden 
+14 
+Vice Chairman of the Board of Directors of Nordea Mortgage Bank Plc, Finland  
+15 
+Chairman of the Board of Directors of Nordea Eiendomskreditt AS, Norway 
+16 
+External assignments: 
+17 
+Member of the Board of Directors of BITS AS, Norway  
+18 
+The business address of the members of the Board of Directors is Nordea Danmark, filial af Nordea Bank 
+19 
+Abp, Finland, Grønjordsvej 10, 2300 Copenhagen S, Denmark. 
+20 
+Anders Holkmann Olsen (member of the Board of Directors) 
+21 
+Internal assignments: 
+22 
+Branch Manager for Denmark & Group General Counsel, Nordea Danmark 
+23 
+External assigments: 
+24 
+Board member of Karl Pedersen og Hustrus Industrifond 
+25 
+Chairman of Fionia Asset Company A/S 
+26 
+Chairman of Ejendomsselskabet Vestre Stationsvej 7, Odense A/S 
+27 
+There are no potential conflicts of interest between the obligations of the Board of Directors towards Nordea 
+28 
+Kredit and their private interests or other obligations. 
+29 
+10.2 
+Executive Management 
+30 
+The Executive Management of Nordea Kredit has the following members:  
+31 
+ 
+32 
+Morten Boni (Chief Executive Officer) 
+33 
+Internal assignments: 
+34 
+None 
+35 
+External assignments: 
+36 
+Member of the Board of Directors of the Association of Danish Mortgage Banks 
+37 
+Claus H. Greve (Deputy Chief Executive Officer)  
+38 
+Internal assignments:  
+39 
+None  
+40 
+ 
+41
+
+--- Page 48 ---
+48 
+Confidential 
+External assignments:  
+1 
+Member of the Board of Directors of the Association of Danish Mortgage Banks 
+2 
+There are no potential conflicts of interest between the obligations of the executive Management towards 
+3 
+Nordea Kredit and their private interests or other obligations. 
+4 
+10.3 
+Board practices  
+5 
+Nordea Kredit has an independent audit committee. The audit committee assists the Board of Directors of 
+6 
+Nordea Kredit in fulfilling its oversight responsibilities by monitoring the financial reporting process, the 
+7 
+statutory audit of the annual financial statements, the internal control system, the effectiveness of internal 
+8 
+audit and risk management and by verifying the independence etc of the auditors. The audit committee 
+9 
+reviews the planning and budget of the internal audit function prior to the presentation to the Board of 
+10 
+Directors.  
+11 
+The members of the audit committee are:  
+12 
+Anne Rømer (Chair) and 
+13 
+ 
+14 
+Mads Skovlund Pedersen. 
+15 
+ 
+16 
+When Nordea Kredit was designated as a SIFI, a risk committee was established. The risk committee assists 
+17 
+the Board of Directors with respect to Nordea Kredit’s risk profile and strategy. The risk committee also 
+18 
+provides assistance in relation to assessing whether the Board of Directors’ risk strategy has been correctly 
+19 
+implemented in the organisation, whether the financial products are in accordance with the business model 
+20 
+and whether the incentives of the remuneration structure take account of risks, capital, liquidity as well as the 
+21 
+probability of profit and the time horizon for this.  
+22 
+The members of the risk committee are:  
+23 
+Anders Frank-Læssøe (Chairman) and  
+24 
+Helene Bløcher. 
+25 
+Nordea Kredit has also established a nomination committee and a remuneration committee consisting of all 
+26 
+members of the Board of Directors. 
+27 
+There are no formal requirements in Denmark with respect to the application of corporate governance for 
+28 
+issuers of mortgage bonds and covered mortgage bonds whose shares have not been admitted to trading on a 
+29 
+regulated market. 
+ 
+30
+
+--- Page 49 ---
+49 
+Confidential 
+11 
+Taxation 
+1 
+Investors are warned that the tax legislation of the investor’s Member State and of the issuer’s country of 
+2 
+incorporation may have an impact on the income received from the securities.  
+3 
+Investors are accordingly incited to seek separate and individual advice on tax issues related to the investment 
+4 
+in the bonds.  
+5 
+11.1 
+Denmark  
+6 
+The following is a summary description of the taxation of the Bonds in Denmark according to Danish 
+7 
+legislation applicable as of the date of the Base Prospectus. Any changes in law and/or practice may be made 
+8 
+with retroactive effect. The following description does not purport to be a comprehensive description of all 
+9 
+the tax considerations that may be relevant to a decision to acquire, hold or sell the Bonds and does not 
+10 
+purport to deal with the tax consequences applicable to all categories of investors, some of which (such as 
+11 
+professional securities dealers) may be subject to special rules. Prospective investors are under all 
+12 
+circumstances recommended to contact their own tax advisers to clarify the individual consequences of their 
+13 
+purchase, holding and sale of the Bonds. The Issuer makes no representations or warranties to the 
+14 
+Bondholders regarding the tax consequences of the purchase, holding or sale of the Bonds.  
+15 
+11.1.1 
+Withholding tax  
+16 
+Under existing Danish tax legislation, no general withholding tax will apply to payments of interest or 
+17 
+principal or other amounts due on the Bonds other than, in certain cases, to payments in respect of controlled 
+18 
+debt in relation to the Issuer as referred to in the Danish Corporation Tax Act. This will not have any impact 
+19 
+on Bondholders who are not in a relationship where they control, or are controlled by, the Issuer. In the event 
+20 
+that statutory withholding tax to Denmark is introduced, the payments will be made after deduction of this 
+21 
+and Nordea Kredit will not be obliged to compensate investors for any losses incurred as a result. 
+22 
+11.1.2 
+Persons resident for tax purposes in Denmark  
+23 
+Natural or legal persons, including persons who are engaged in financial trade and other enterprises resident 
+24 
+for tax purposes in Denmark or receiving interest on the Bonds through their permanent establishment in 
+25 
+Denmark, are liable to pay tax on such interest. Capital gains are taxable to natural persons and corporate 
+26 
+entities in accordance with the Danish act on taxation of gains and losses on claims, debt and financial 
+27 
+contracts (the “Danish gains on securities and foreign currency act”). Gains and losses on Bonds held by 
+28 
+corporate entities are generally included in their taxable income in accordance with the mark-to-market 
+29 
+principle (the “mark-to-market principle”), that is, on an unrealised basis. Gains and losses on Bonds held 
+30 
+by natural persons are generally included in their taxable income on a realised basis, and if the annual gains 
+31 
+or losses do not exceed DKK 2,000, the gains or losses will be exempt from taxation. Pension funds and other 
+32 
+entities subject to the Danish Pension Returns Tax Act will, irrespective of realisation, be taxed on the basis 
+33 
+of the annual increase or decrease in the value of the Bonds according to the mark-to-market principle as laid 
+34 
+down in the act.  
+35 
+11.1.3 
+Tax on negative interest 
+36 
+Interest income in the form of negative interest is taxable for the debtor pursuant to the Danish central 
+37 
+government tax act, whereas interest expenses in the form of negative interest is tax deductible for the 
+38 
+creditor. A debtor’s interest income in the form of negative interest as well as a creditor’s interest expenses in 
+39 
+the form of negative interest is included in the capital income of private individuals. Persons applying the 
+40 
+Danish business taxation scheme must include interest from their business activities in their personal income. 
+41 
+This also applies to negative interest from their business activities. 
+42 
+For the purpose of tax base determination, a creditor’s accrued interest expenses in the form of negative 
+43 
+interest are tax deductible. Correspondingly, interest income in the form of negative interest received by a 
+44 
+debtor is included as return on capital in the tax base.  
+45
+
+--- Page 50 ---
+50 
+Confidential 
+11.1.4 
+Persons not resident for tax purposes in Denmark  
+1 
+Under existing Danish tax legislation, payments of interest and principal to natural or legal persons that are 
+2 
+not resident for tax purposes in Denmark are not subject to taxation in Denmark other than, in certain cases, 
+3 
+payments in respect of controlled debt in relation to the Issuer as referred to under “Withholding tax” above. 
+4 
+No Danish withholding tax will be payable with respect to such payments, and no capital gain realised upon 
+5 
+the sale, exchange or cancellation of the Bonds will be subject to taxation in Denmark other than, in certain 
+6 
+cases, payments in respect of controlled debt in relation to the Issuer as referred to under “Withholding tax” 
+7 
+above. This tax treatment applies solely to Bondholders who are not subject to full tax liability in Denmark or 
+8 
+included in a Danish joint taxation scheme and who do not carry on business in Denmark through a 
+9 
+permanent establishment.  
+10 
+11.2 
+Foreign Account Tax Compliance Act  
+11 
+An agreement between the government of the United States of America and the government of the Kingdom 
+12 
+of Denmark to improve international tax compliance and to implement the US Foreign Account Tax 
+13 
+Compliance Act (“FATCA”) was entered into on 15 November 2012 (the Danish executive order on 
+14 
+agreement of 15 November 2012 between the government of the United States of America and the 
+15 
+government of the Kingdom of Denmark to improve international tax compliance and to implement FATCA). 
+16 
+FATCA require investors with relevant US interests to deliver extended identification information, Rules may 
+17 
+also be introduced in Denmark involving a duty to withhold tax on interest and principal in accounts held by 
+18 
+investors with such US interests or if investors fail to submit extended identification information. 
+19 
+Investors should therefore note that if rules involving an obligation to withhold tax are implemented in 
+20 
+Denmark, payments will be made after such a deduction. In accordance with this Base Prospectus or the Final 
+21 
+Terms neither Nordea Kredit nor any other person is in that case obliged to compensate investors for any such 
+22 
+tax amount withheld or for any losses incurred as a result.  
+23 
+Prospective investors should consult their own tax advisers on how these rules may apply to the Issuer 
+24 
+and to payments they may receive in connection with the Bonds. 
+25 
+12 
+Subscription, sale, registration and 
+26 
+settlement 
+27 
+12.1 
+Terms and conditions of the offer 
+28 
+Offer statistics, expected timetable and action required to apply for the offer 
+29 
+During the opening period of the Bonds, the Bonds may be sold in the market through tap issues, refinancing 
+30 
+auctions or OTC selling. There is no right of cancellation when purchasing the Bonds. The conditions for the 
+31 
+issuance of the Bonds will be stated in the Final Terms of the Bonds. 
+32 
+The final issuance requirement for the Bonds is not known until the closing of an ISIN code as this depends 
+33 
+on borrower demand for loans financed by the relevant ISIN code. The outstanding volume is reported on a 
+34 
+current basis on www.nasdaqomxnordic.com. For auctions the terms and the volume offered are announced 
+35 
+before the auction. 
+36 
+Investors can purchase the Bonds by application for example to banks or stockbrokers. There are no 
+37 
+requirements for special forms to be used. It is solely necessary to agree on a custody account in which the 
+38 
+Bonds can be held and an income account into which proceeds from the Bonds drawn for redemption and 
+39 
+interest can be paid. 
+40 
+The opening period of the offer will be stated in the Final Terms. 
+41 
+There is no method for reducing subscriptions or repaying surplus amounts. 
+42 
+ 
+43
+
+--- Page 51 ---
+51 
+Confidential 
+For Bonds denominated in DKK the minimum purchase is DKK 0.01. For Bonds denominated in EUR the 
+1 
+minimum purchase is EUR 0.01. The denomination will be stated in the Final Terms. 
+2 
+Bonds usually trade subject to a settlement period of two business days, but this rule may be derogated from 
+3 
+provided that both parties to the transaction are in agreement. Delivery and clearing are effected via Euronext 
+4 
+Securities.  
+5 
+Transactions in mortgage bonds and covered mortgage bonds admitted to trading on a regulated market are 
+6 
+published in accordance with rules laid down pursuant to the Danish Capital Markets Act, and the current 
+7 
+rules applying for the relevant market. With respect to Nasdaq Copenhagen A/S these are the exchange’s 
+8 
+rules for issuers of bonds.  
+9 
+During the opening period the outstanding volume can be increased through tap issues, auctions, pre-issues or 
+10 
+block issues. In this period loans may also be prepaid and principal payments are made on an ongoing basis 
+11 
+on the mortgage loans granted, except on bullet loans or interest-only loans. Accordingly, the outstanding 
+12 
+volume may increase or decrease during the opening period of the individual Bonds. When the opening 
+13 
+period ends, issuance in an ISIN code ceases and the outstanding volume can no longer increase. 
+14 
+For Bonds admitted to trading on Nasdaq Copenhagen A/S, Nordea Kredit publishes information on an 
+15 
+ongoing basis at the Nasdaq Copenhagen A/S website www.nasdaqomxnordic.com in accordance with rules 
+16 
+for issuers of mortgage bonds and covered mortgage bonds for Nasdaq Copenhagen A/S: 
+17 
+ 
+cash flows (quarterly); 
+18 
+ 
+borrower pool composition (monthly); 
+19 
+ 
+prepayments (weekly); 
+20 
+ 
+bonds drawn for redemption (quarterly). 
+21 
+The relevant information is also published as company announcements at Nordea Kredit’s website 
+22 
+www.nordeakredit.dk under Investor information (select “Investor information” on the right).  
+23 
+There are no special rights of pre-emption attached to the Bonds. 
+24 
+Plan of distribution and allotment 
+25 
+No investors have any preferential right to purchase the Bonds. 
+26 
+The ordinary issuance will be sold in the bond market upon signed agreement – usually with two-day 
+27 
+settlement. 
+28 
+Auctions are held via Nasdaq Copenhagen A/S’s systems and/or Bloomberg’s systems. 
+29 
+Auctions are organised in collaboration with the Bank, which also acts as a securities dealer. For auctions 
+30 
+over the Nasdaq Copenhagen A/S systems, members will be notified of their allotment immediately after the 
+31 
+auction. Investors trading via the Bank will be informed by telephone.  
+32 
+Daily tap auctions as well as future refinancing auctions may be held via Bloomberg at which auctions 
+33 
+primary dealers can bid. 
+34 
+Pricing 
+35 
+The Bonds are offered at market prices, and the price will consequently fluctuate over the term to maturity of 
+36 
+the Bonds. Prices of Bonds listed on Nasdaq Copenhagen A/S are available on www.nasdaqomxnordic.com. 
+37 
+Apart from transaction costs (brokerage fee etc) applicable from time to time, which are added to the market 
+38 
+price, no other expenses are charged to investors when buying Bonds. Moreover, custody fees may be 
+39 
+charged to buyers of the Bonds. 
+40
+
+--- Page 52 ---
+52 
+Confidential 
+Placing and underwriting 
+1 
+The Bonds are issued by Nordea Kredit. Issues are made on behalf of Nordea Kredit by the Bank, 
+2 
+Grønjordsvej 10, 2300 Copenhagen S, Denmark, via Euronext Securities. 
+3 
+Nordea Kredit has not entered into any agreements with paying agents. The Bonds are registered with 
+4 
+Euronext Securities (see addresses in section 12.3 “Registration and settlement” of the Base Prospectus). This 
+5 
+will be stated in the Final Terms. Euronext Securities calculates the amounts of bonds drawn for redemption 
+6 
+and interest amounts for the individual financial institutions based on their investor custody accounts with 
+7 
+Euronext Securities. Euronext Securities makes an allocation of the lines provided for these financial 
+8 
+institutions via Danmarks Nationalbank, the Danish central bank. Subsequently the individual institutions 
+9 
+effect payments of coupon interest and the amount of Bonds drawn for redemption to investors’ accounts.  
+10 
+No entities have made a commitment to underwriting the issue and no agreements have been made on the 
+11 
+placing of the issue.  
+12 
+Nordea Kredit may decide to issue Bonds in other countries and to apply for admission to trading and official 
+13 
+listing on regulated markets other than Nasdaq Copenhagen A/S. Further, Nordea Kredit may decide to 
+14 
+register the Bonds with other central securities depositories. This will be stated in a supplementary 
+15 
+prospectus. 
+16 
+12.2 
+Admission to trading and dealing arrangements 
+17 
+Nordea Kredit may apply for admission of the Bonds to trading and listing on Nasdaq Copenhagen A/S.  
+18 
+No entities have made a firm commitment to acting as intermediaries in secondary trading. The Bonds may 
+19 
+be traded through Danish securities dealers and may be covered by a voluntary market-maker arrangement 
+20 
+between the dealers on Nasdaq Copenhagen A/S. The largest banks and mortgage institutions in Denmark can 
+21 
+be expected to participate in such a market-maker arrangement. 
+22 
+A market-making arrangement may be made under which the parties to such an arrangement are under an 
+23 
+obligation to quote bid and offer prices in a number of Bonds issued under the Base Prospectus. This will be 
+24 
+stated in the Final Terms of the specific Bonds. 
+25 
+Nordea Kredit has entered into primary dealer agreements with a number of banks. The purpose of the 
+26 
+primary dealer agreements is to support market efficiency for Bonds issued by Nordea Kredit.  
+27 
+12.3 
+Registration and settlement 
+28 
+The Bonds will be issued in dematerialised form through Euronext Securities, Nicolai Eigtveds Gade 8, 1402 
+29 
+Copenhagen K, Denmark, Danish business registration (CVR) number 21599336. Legal title to the Bonds 
+30 
+will exclusively be evidenced by the book entries in the books of Euronext Securities. The Bonds will not be 
+31 
+exchangeable for physical bonds. Registration and settlement of transactions in respect of the Bonds will take 
+32 
+place in accordance with the rules and procedures of Euronext Securities applicable from time to time. 
+33 
+Settlement of the Bonds can be effected on Euronext Securities’ platform for settlement or on the TARGET2-
+34 
+Securities (“T2S”) platform if the conditions required for T2S settlement as stated in the settlement rules of 
+35 
+Euronext Securities are fulfilled. 
+36 
+12.4 
+Credit ratings 
+37 
+At the date of the Base Prospectus, covered bonds (RO) and covered mortgage bonds (SDRO) issued by 
+38 
+Nordea Kredit are assigned an “AAA” rating with a stable outlook by S&P. Current ratings are listed at 
+39 
+https://www.nordea.com/en/investors/debt-and-rating/current-rating. 
+40 
+Going forward, bonds issued under the Base Prospectus are expected to be rated by the credit rating agency 
+41 
+S&P and expect to be assigned the rating of AAA. The credit rating provides information, transparency and 
+42
+
+--- Page 53 ---
+53 
+Confidential 
+certainty about the stability and the limited risks characterising Nordea Kredit’s business model and is of 
+1 
+relevance for the Investors. 
+2 
+For this purpose, Nordea Kredit has submitted certain information and regular reporting routines have been 
+3 
+agreed with the credit rating agency.  
+4 
+The credit rating agency S&P is established in the EU and are registered in accordance with Regulation (EC) 
+5 
+no 1060/2009 on credit rating agencies. In accordance with with S&P's ratings definitions available as at 
+6 
+S&P’s website, bonds rated 'AAA' are judged to be of the highest quality and indicate that the relevant 
+7 
+issuer's capacity to meet its financial commitments on the obligation is very strong. 
+8 
+A rating, once assigned, may subsequently be revised and Nordea Kredit may decide not to have a rating 
+9 
+assigned to the Bonds. Nordea Kredit may furthermore decide to have the Bonds rated by another authorised 
+10 
+credit rating agency. In the event that this should change, information to this effect will be provided in a 
+11 
+supplement to the Base Prospectus and stated in the Final Terms of the specific Bonds. 
+12 
+12.5 
+Financial intermediaries 
+13 
+Financial intermediaries may solely use  the Base Prospectus for subsequent resale or final placement of the 
+14 
+Bonds issued under the Base Prospectus  where such financial intermediary has obtained consent from 
+15 
+Nordea Kredit. Except in the circumstances described below, Nordea Kredit has not authorised the making of 
+16 
+any offer by any offeror and Nordea Kredit has not consented to the use of this Base Prospectus by any other 
+17 
+person in connection with any offer of the Bonds in any jurisdiction. Any offer made by any third party, such 
+18 
+as a financial intermediary, without the consent of Nordea Kredit is unauthorised and Nordea Kredit does not 
+19 
+accept any responsibility or liability in relation to such offer or for the actions of the persons making any such 
+20 
+unauthorised offer. 
+21 
+Nordea Kredit accepts responsibility for the contents of the Base Prospectus, also for subsequent resale or 
+22 
+final placement of the Bonds solely by financial intermediaries which have been given consent by Nordea 
+23 
+Kredit with respect to the use of the Base Prospectus. Subsequent resale or final placement of the Bonds by 
+24 
+such financial intermediaries can be made as long as the Base Prospectus is valid. 
+25 
+Only the Bank (Nordea Bank Abp) has been given consent to use the Base Prospectus for offers and/or 
+26 
+subsequent resale or final placement of the Bonds in Denmark.  
+27 
+The consent mentioned above will remain in force as long as the Base Prospectus is valid. Likewise, the 
+28 
+offering period for offers and/or subsequent resale or final placement is limited to the period of validity of the 
+29 
+Base Prospectus.  
+30 
+If a financial intermediary uses the Base Prospectus to make an offer of the Bonds, the financial intermediary 
+31 
+must provide information on the terms and conditions of the offer at the time the offer is made.  
+32 
+Information about financial intermediaries unknown at the time of the approval of the Base Prospectus or the 
+33 
+filing of the Final Terms of the specific Bonds will be announced in a prospectus supplement in a company 
+34 
+announcement. This prospectus supplement will also be made available on Nordea Kredit’s website 
+35 
+www.nordeakredit.dk. Additional financial intermediaries which may be given consent by Nordea Kredit to 
+36 
+use the Base Prospectus for subsequent resale or final placement of the Bonds are likewise subject to the 
+37 
+selling and dealing restrictions in section 13 “Selling and dealing restrictions” of the Base Prospectus. 
+38 
+ 
+39 
+13 
+Selling and dealing restrictions 
+40 
+General 
+41 
+In connection with the Base Prospectus, no representation is made that any action has been or will be taken 
+42 
+by Nordea Kredit in relation to any jurisdiction which would permit a public offering of the Bonds or the 
+43 
+possession or distribution of the Base Prospectus or any other offering material in any country or jurisdiction 
+44
+
+--- Page 54 ---
+54 
+Confidential 
+where action for that purpose is required. Nordea Kredit presumes that persons into whose possession this 
+1 
+Base Prospectus may come comply with existing legislation and rules in any country or jurisdiction in which 
+2 
+or from which they purchase, offer, sell or deliver Bonds or hold or distribute the Base Prospectus, in all 
+3 
+cases at their own expense. 
+4 
+Each financial intermediary arranging an offering of Bonds must represent and warrant that to the best of its 
+5 
+knowledge and belief it has in all material respects observed existing legislation in any jurisdiction in which 
+6 
+or from which it purchases, offers, sells or delivers Bonds or holds or distributes the Base Prospectus, in all 
+7 
+cases at its own expense.  
+8 
+ 
+9 
+United States 
+10 
+Terms used in this section have the meanings indicated in Regulation S of the US Securities Act. 
+11 
+The Bonds have not been and will not be registered under the US Securities Act and may not be offered or 
+12 
+sold within the US or to, or for the account or benefit of, US persons (as defined in Regulation S) except in 
+13 
+certain transactions exempt from the registration requirements of the US Securities Act. Nordea Kredit 
+14 
+declares that it has not offered or sold and will not offer or sell any Bonds in the US or to, or for the account 
+15 
+or benefit of, any US persons, except in accordance with Rule 903 of Regulation S of the US Securities Act. 
+16 
+Accordingly, neither Nordea Kredit nor the Bank and its subsidiaries nor persons acting on behalf of it or its 
+17 
+subsidiaries have participated or will participate in any offering or similar activity aimed at US persons 
+18 
+(designated as “directed selling efforts” in the US Securities Act). 
+19 
+Generally, the Bonds will be sold only 
+20 
+ 
+if the Bonds are sold by Nordea Kredit; 
+21 
+ 
+if each financial intermediary has represented that, except as permitted by its agreement with Nordea 
+22 
+Kredit, it will not offer or sell Bonds (i) as part of its distribution at any time or (ii) otherwise not until 40 
+23 
+days after the date of initiation of the offering or the issue date, whichever is later (the “40-Day Period”), 
+24 
+within the US or to, or for the account or benefit of, US persons, and the financial intermediary will have 
+25 
+sent to all other financial intermediaries, distributors, dealers or persons to which it sells Bonds during 
+26 
+the 40-Day Period a confirmation or other notice setting forth the offering and selling restrictions 
+27 
+applicable to the Bonds within the US or to, or for the account or benefit of, US persons. 
+28 
+The Bonds will be offered and sold outside the US in accordance with Regulation S. In addition, within the 
+29 
+40-Day Period it may constitute a violation of the registration requirements of the US Securities Act to offer 
+30 
+or sell the Bonds in the US by any financial intermediary (whether or not participating in any offering). 
+31 
+Denmark 
+32 
+Each financial intermediary arranging an offering of Bonds must represent and warrant that it has not offered 
+33 
+or sold and will not offer, sell or deliver any Bonds directly or indirectly in Denmark by way of a public 
+34 
+offering, unless in compliance with the Danish Capital Markets Act as amended and executive orders issued 
+35 
+thereunder and in compliance with the Danish executive order on investor protection to the extent applicable. 
+36 
+United Kingdom 
+37 
+Each financial intermediary arranging an offering of Bonds must represent and warrant that: 
+38 
+(i) it has only communicated or caused to be communicated and will only communicate or cause to be 
+39 
+communicated any invitation or inducement to engage in investment activity (within the meaning of 
+40 
+section 21 of the Financial Services and Markets Act 2000 (the “FSMA”)) received by it in 
+41 
+connection with the issue or sale of any Bonds in circumstances in which section 21(1) of the FSMA 
+42 
+does not apply to Nordea Kredit; and  
+43
+
+--- Page 55 ---
+55 
+Confidential 
+(ii) it has complied and will comply with all applicable provisions of the FSMA with respect to anything 
+1 
+done by it in relation to any Bonds in, from or otherwise involving the United Kingdom. 
+2 
+ 
+3 
+14 
+General information 
+4 
+(1) Nordea Kredit has obtained all necessary consents, approvals and authorisations in the Kingdom of 
+5 
+Denmark in connection with the preparation and approval of the Base Prospectus. For the purpose of 
+6 
+the preparation of the Base Prospectus, the Board of Directors of Nordea Kredit authorised two 
+7 
+members of the Executive Management jointly on 19 February 2019 to sign, among other things, 
+8 
+prospectuses (including the Base Prospectus), any changes to prospectuses and any other document  
+9 
+(2) requiring signature with a view to having a prospectus approved by the relevant authority. 
+10 
+(3) Nordea Kredit was not involved in any legal or arbitration proceedings (including any present or 
+11 
+future proceedings of which the Issuer is aware) during the 12 months preceding the date of the Base 
+12 
+Prospectus which may have, or have had in the recent past, significant effects on the financial 
+13 
+position or results of Nordea Kredit. 
+14 
+(4) There has been no material adverse change in the prospects of Nordea Kredit since 31 December 
+15 
+2022 and no significant change in the financial  position of Nordea Kredit since 31 December 2022. 
+16 
+No significant investments have been made since 31 December 2022. 
+17 
+(5) Nordea Kredit has not entered into agreements which oblige Nordea Kredit to make significant 
+18 
+investments in the future. 
+19 
+(6) Nordea Kredit is not aware of any trends, uncertainties, requirements, obligations or events which 
+20 
+may reasonably be expected to have any significant impact on the prospects for Nordea Kredit for 
+21 
+the current financial year. No events have occurred since the date of the most recent financial 
+22 
+statements which have a material impact on the assessment of the Issuer’s capital position. The Base 
+23 
+Prospectus does not contain any separate earnings forecast. 
+24 
+(7) Current profit forecasts and estimates for Nordea Kredit are not deemed to have any material effect 
+25 
+on the assessment of the Bonds offered and are therefore not included in the Base Prospectus.  
+26 
+(8) Where information in the Base Prospectus has been sourced from a third party, such information has 
+27 
+been accurately reproduced, and as far as the Issuer is aware and is able to ascertain from 
+28 
+information published by such third parties, no facts have been omitted which would render the 
+29 
+reproduced information inaccurate or misleading. The source of third-party information is identified 
+30 
+where used. 
+31 
+(9) Copies (and any English translations) of the following documents will be available for inspection at 
+32 
+the offices of the Issuer in Denmark during usual business hours on any business day: 
+33 
+i) 
+Nordea Kredit’s Memorandum of Association and Articles of Association;  
+34 
+ii) 
+the audited annual financial statements of Nordea Kredit for the last two financial years 
+35 
+and the unaudited financial statements for the period 1 January to 30 June most recently 
+36 
+published; and  
+37 
+iii) 
+the Base Prospectus. 
+38 
+The audited annual financial statements of Nordea Kredit as well as the unaudited interim financial 
+39 
+statements are also available online on www.nordeakredit.dk under Investor information 
+40 
+immediately after their approval by the Board of Directors (select “Investor information” on the 
+41
+
+--- Page 56 ---
+56 
+Confidential 
+right, then “Financial reports and calendar” on the left, then select “Financial reports” in the middle 
+1 
+and select the relevant report). Information in the above documents, save for the information in 
+2 
+section 7 “Information incorporated into the Base Prospectus by reference”, is for information 
+3 
+purposes only and does not form part of the Base Prospectus. The Base Prospectus is available on 
+4 
+the website of Nasdaq Copenhagen (http://www.nasdaqomx.com). 
+5 
+(10) Nordea Kredit is not aware of any agreements that may lead to a third party obtaining a controlling 
+6 
+interest in Nordea Kredit. 
+7

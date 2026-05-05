@@ -1,0 +1,3703 @@
+--- Page 1 ---
+Page 1 of 62 
+ 
+Basisprospekt for Særligt Dækkede Realkreditobligationer og   
+Realkreditobligationer udstedt af Realkredit Danmark A/S 
+Dateret 1. juli 2021  
+ 
+Realkredit Danmark A/S (“Realkredit Danmark” eller “Udsteder”) vil under dette basisprospekt (”Basisprospek-
+tet”), i overensstemmelse med Europa-Parlamentets og Rådets Forordning 2017/1129 af 14. juni 2017 (”Pro-
+spektforordningen”) med tilhørende delegerede forordninger, løbende udstede særligt dækkede realkreditobliga-
+tioner og realkreditobligationer (”Obligationer”).  
+ 
+Obligationerne udstedes til finansiering af realkreditlån. Disse Obligationer kan være med fast eller variabel 
+rente og kan finansiere stående lån, amortiserbare lån eller en blanding af disse. Låntagerne har visse muligheder 
+for at førtidsindfri realkreditlån, hvorefter Realkredit Danmark kan vælge, at de bagvedliggende obligationer 
+også indfries.  
+ 
+Obligationerne udstedes i elektronisk form og afvikles gennem VP SECURITIES A/S, Euronext VPS eller en 
+anden værdipapircentral som anført i det endelige vilkårsdokument (”Endelige Vilkår”). 
+ 
+Information om Obligationernes valuta, stykstørrelse, antal og forrentning og anden information, der er gæl-
+dende for Obligationer udstedt under Basisprospektet vil fremgå af de Endelige Vilkår. 
+ 
+Basisprospektet er udarbejdet af Udsteder med henblik på, at Obligationerne optages til handel på et reguleret 
+marked som defineret i Europa-Parlamentets og Rådets Direktiv 2014/65/EU (”MIFID II”) samt at der kan fore-
+tages et offentligt udbud i Danmark eller andre lande i EU eller EØS, som anført i de Endelige Vilkår. Henvis-
+ninger i Basisprospektet til ”notering” af Obligationerne og lignende referencer betyder, at sådanne Obligationer 
+er optaget på den officielle liste og optaget til handel på et reguleret marked i henhold til MIFID II.  
+ 
+Dette Basisprospekt er godkendt som et basisprospekt af Finanstilsynet som kompetent myndighed i henhold til 
+Prospektforordningen. Basisprospektet udgør et basisprospekt i henhold til artikel 8 i Prospektforordningen og er 
+udarbejdet i overensstemmelse med Prospektforordningen og delegerede forordninger udstedt i henhold dertil, 
+herunder artikel 25 i Kommissionens Delegerede Forordning (EU) 2019/980 med det formål at give oplysninger 
+om de udstedte Obligationer. 
+ 
+Med mindre andet meddeles offentligheden, er Basisprospektet gyldigt i 12 måneder fra Basisprospektets god-
+kendelsesdato for Obligationer, der skal optages til handel på et reguleret marked i det Europæiske Økonomiske 
+Samarbejdsområde (”EØS”) og/eller udbydes til offentligheden i EØS, undtagen i de tilfælde hvor en undtagelse 
+gælder under artikel 1(4) og/eller artikel 3(2) i Prospektforordningen. Forpligtelsen til at udarbejde et tillæg til 
+Basisprospektet i tilfælde af væsentlig nye omstændigheder, fejl eller unøjagtigheder gælder ikke, når Basispro-
+spektet ikke længere er gyldigt.   
+ 
+Obligationerne er ikke og vil ikke blive registreret i henhold til U.S. Securities Act of 1933 (”U.S. Securities 
+Act”) og kan være omfattet af amerikanske skatteretlige krav. Obligationerne kan ikke udbydes, sælges eller ud-
+leveres inden for USA eller til ”U.S. persons” (som defineret i Regulation S i U.S. Securities Act). Obligatio-
+nerne kan tilbydes og sælges uden for USA til ikke-amerikanske personer i henhold til Regulation S i U.S. Secu-
+rities Act.  
+ 
+Realkredit Danmark har på datoen for Basisprospektet en udstederrating på A+ fra Scope Ratings og på A fra 
+Fitch Ratings. Obligationerne er ratet af S&P Global, Fitch Ratings og Scope Ratings som følger: 
+ 
+Kapitalcenter 
+S&P Ratings 
+Fitch Ratings 
+Scope Ratings 
+Kapitalcenter S 
+AAA 
+AAA 
+AAA 
+Kapitalcenter T 
+AAA 
+AAA 
+AAA 
+Generelt kapitalcenter 
+AAA 
+Ikke ratet 
+Ikke ratet 
+ 
+S&P Global, Fitch Ratings og Scope Ratings er etableret i den Europæiske Union og er registreret i henhold til 
+Forordning (EF) nr. 1060/2009 på datoen for Basisprospektet. På ESMA’s hjemmeside er offentliggjort en liste 
+over godkendte kreditvurderingsbureauer. En rating er ikke en anbefaling om at købe, sælge eller eje værdipapi-
+rer og kan af det relevante kreditvurderingsbureau suspenderes, nedsættes eller trækkes tilbage til enhver tid.
+
+--- Page 2 ---
+Page 2 of 62 
+ 
+En investering i Obligationer indebærer risici. Potentielle købere af Obligationer bør sikre sig, at de for-
+står vilkårene for Obligationerne og omfanget af deres eksponering for risici, og at de overvejer egnethe-
+den af Obligationerne som investering i lyset af deres egne forhold og finansielle situation. For oplysning 
+om disse risici henvises til kapitel 3 Risikofaktorer.
+
+--- Page 3 ---
+Page 3 of 62 
+ 
+Indholdsfortegnelse 
+ 
+1. 
+Indledning .........................................................................................................................................5 
+2. 
+Ansvarserklæring..............................................................................................................................7 
+3. 
+Risikofaktorer ...................................................................................................................................8 
+3.1 
+Risikofaktorer specifikke for udsteder .................................................................................... 8 
+3.1.1 
+Kreditrisiko .......................................................................................................................8 
+3.1.2 
+Likviditets-, funding- og kapitalrisiko ..............................................................................9 
+3.1.3 
+Operationel risiko .............................................................................................................9 
+3.1.4 
+Markedsrisiko .................................................................................................................10 
+3.1.5 
+Modelrisiko ....................................................................................................................10 
+3.1.6 
+Financial crime og Regulatory compliance risiko ..........................................................10 
+3.1.7 
+IT risiko ..........................................................................................................................10 
+3.1.8 
+Clearing risiko ................................................................................................................11 
+3.1.9 
+Strategisk risiko ..............................................................................................................11 
+3.2 
+Risici specifikke for Obligationerne ...................................................................................... 11 
+3.2.1 
+Markedsrisiko .................................................................................................................11 
+3.2.2 
+Legal Risk.......................................................................................................................13 
+3.2.3 
+Likviditets-, funding og kapitalrisiko .............................................................................13 
+3.2.4 
+Risici ved investering i Grønne Obligationer .................................................................13 
+4. 
+Lovgivning .....................................................................................................................................16 
+4.1 
+Regler om udlån .................................................................................................................... 17 
+4.2 
+Regler om løbetid og afdragsprofil på realkreditlån .............................................................. 18 
+4.3 
+Tilladte aktiver som sikkerhed for udstedelse af Obligationer .............................................. 19 
+4.4 
+Kapitalcenter ......................................................................................................................... 19 
+4.5 
+Balanceprincip ....................................................................................................................... 20 
+4.5.1 
+Det overordnede balanceprincip .....................................................................................20 
+4.5.2 
+Det specifikke balanceprincip ........................................................................................21 
+4.6 
+Regler om placering af egenbeholdning ................................................................................ 22 
+4.7 
+Regler om kapitaldækning ..................................................................................................... 22 
+4.8 
+Likviditetsregler .................................................................................................................... 23 
+4.9 
+Regler om supplerende sikkerhedsstillelse ............................................................................ 23 
+4.10 
+Regler om forlængelse af Obligationer ................................................................................. 24 
+4.11 
+Regler om ret til at optage lån ............................................................................................... 25 
+4.12 
+Regler om genopretning og afvikling af kreditinstitutter ...................................................... 25 
+4.13 
+Restancer ............................................................................................................................... 26 
+4.14 
+Konkurs ................................................................................................................................. 26 
+4.15 Covered Bond Direktiv ............................................................................................................. 27 
+5. 
+Andre regler ....................................................................................................................................28 
+5.1 
+Udelukkelse af Asset-backed securities i sikkerhedsgrundlaget ........................................... 28 
+5.2 
+Realkredit Danmark A/S’ konti i pengeinstitutter ................................................................. 28 
+6. 
+Registreringsdokument ...................................................................................................................29 
+7. 
+Værdipapirnote ...............................................................................................................................36 
+8. 
+Garantier .........................................................................................................................................50 
+9. 
+Tilsagn ............................................................................................................................................51 
+Bilag 1: Liste over dokumenter, der ved henvisning indgår i Basisprospektet ......................................52 
+Bilag 2: Skabelon til endelige vilkår ......................................................................................................54
+
+--- Page 4 ---
+Page 4 of 62 
+ 
+Bilag 3: Definitioner ...............................................................................................................................61 
+Bilag 4: Lovhenvisninger .......................................................................................................................62
+
+--- Page 5 ---
+Page 5 of 62 
+ 
+1. Indledning 
+ 
+Basisprospektet er et basisprospekt i henhold til Prospektforordningen og delegerede forordninger ud-
+stedt i henhold dertil med det formål at give de oplysninger om Udstederen og de af Basisprospektet 
+omfattede Obligationer, som i henhold til Udsteders karakter og de omfattede Obligationer anses for 
+fornødne for, at investorerne kan danne sig et velbegrundet skøn over Udsteders aktiver og passiver, 
+finansielle stilling, resultater og fremtidsudsigter samt over de rettigheder, der knytter sig til de ud-
+budte værdipapirer. 
+ 
+Realkredit Danmark A/S vil i henhold til dette Basisprospekt udstede Realkreditobligationer (”RO”) 
+og Særligt Dækkede Realkreditobligationer (”SDRO”) iht. Lov om realkreditlån og realkreditobligati-
+oner m.v. 
+ 
+Obligationerne må alene videresælges under omstændigheder, hvor der ikke opstår pligt til at offent-
+liggøre et prospekt. Alle personer, der kommer i besiddelse af Basisprospektet og/eller de Endelige 
+vilkår for de udbudte Obligationer, forpligter sig til at overholde alle relevante love og andre regler, 
+der gælder i det land, hvor de køber eller sælger Obligationerne for egen regning. 
+ 
+Enhver person, der foretager eller agter at foretage et udbud af Obligationerne i en anden medlemsstat 
+i EU eller EØS end Danmark må kun gøre dette i tilfælde, hvor der ikke opstår en forpligtelse for Re-
+alkredit Danmark A/S til at offentliggøre et prospekt i henhold til Prospektforordningen eller udar-
+bejde et tillæg til et prospekt udarbejdet i henhold til Prospektforordningen, i hvert tilfælde i forhold til 
+et sådant udbud. Realkredit Danmark A/S har ikke givet samtykke eller på anden måde godkendt fore-
+tagelse af udbud af Obligationer under omstændigheder, hvor en forpligtelse opstår for Realkredit 
+Danmark A/S til at offentliggøre eller supplere et prospekt for et sådant udbud. 
+ 
+I forbindelse med et udbud af Obligationer til offentligheden, der ikke er undtaget fra Prospekt-
+forordningens krav om offentliggørelse af et prospekt, gælder, at såfremt en finansiel formidler 
+anvender Basisprospektet til at lave et udbud af Obligationer, er den finansielle formidler for-
+pligtet til at oplyse investorerne om vilkårene og betingelserne for udbuddet på det tidspunkt, 
+hvor udbuddet finder sted. Finansielle formidlere, som anvender Basisprospektet, er endvidere 
+forpligtede til på deres hjemmeside at erklære, at de anvender Basisprospektet i overensstem-
+melse med tilsagnet og de betingelser, der er knyttet dertil. 
+ 
+Ingen personer er blevet autoriseret til at give oplysninger eller fremsætte erklæringer andre 
+end dem, der er indeholdt i dette Basisprospekt, i forbindelse med udstedelse eller salg af Obli-
+gationer, og hvis sådanne oplysninger eller erklæringer er afgivet eller foretaget, kan sådanne 
+oplysninger eller erklæringer ikke påberåbes som værende godkendt af Udsteder. 
+ 
+Distribution af Basisprospektet eller et salg i forbindelse hermed skal under ingen omstændighe-
+der skabe nogen indikation af, at der ikke har været nogen ændring i Udstederens forhold siden 
+datoen for Basisprospektet eller den dato, hvor Basisprospektet senest er ændret (evt. ved til-
+læg), eller at nogen anden oplysning i forbindelse med Basisprospektet er korrekt på noget andet 
+tidspunkt efter det tidspunkt, hvor oplysningen gives.  
+ 
+Distribution af Basisprospektet og udbud eller salg af Obligationer kan i visse jurisdiktioner 
+være begrænset ved lov. Udsteder forudsætter, at personer, som kommer i besiddelse af dette 
+Basisprospekt, gør sig bekendt med og overholder alle sådanne begrænsninger.  
+ 
+Obligationerne under Basisprospektet er ikke blevet og vil ikke blive registreret i henhold til 
+U.S. Securities Act eller hos nogen værdipapirtilsynsmyndighed i nogen stat i eller anden juris-
+diktion under USA, og Obligationerne kan være underlagt amerikanske skatteretlige krav. Obli-
+
+--- Page 6 ---
+Page 6 of 62 
+ 
+gationerne kan ikke udbydes, sælges eller udleveres inden for USA eller til U.S. persons (som de-
+fineret i Regulation S i U.S. Securities Act). Værdipapirerne kan tilbydes og sælges uden for 
+USA til ikke-amerikanske personer i henhold til Regulation S i U.S. Securities Act.  
+ 
+Basisprospektet, herunder de Endelige vilkår for de udbudte Obligationer, er ikke en anbefaling 
+om at tegne eller erhverve Obligationer udstedt under Basisprospektet. Det er op til hver enkelt 
+modtager af Basisprospektet og/eller de Endelige Vilkår for de udbudte Obligationer at foretage 
+sin egen vurdering af Obligationerne og Udsteder på grundlag af indholdet i Basisprospektet, 
+alle dokumenter der er integreret heri ved henvisning, de Endelige vilkår for hvert enkelt udbud 
+af Obligationer under Basisprospektet samt eventuelle tillæg til Basisprospektet. Potentielle in-
+vestorer opfordres til at læse kapitel 3 Risikofaktorer omhyggeligt.
+
+--- Page 7 ---
+Page 7 of 62 
+ 
+2. Ansvarserklæring 
+ 
+København, 1. juli 2021 
+ 
+ 
+ 
+ 
+Carsten Nøddebo Rasmussen 
+ 
+Klaus Kristiansen 
+Administrerende direktør  
+ 
+Direktør 
+ 
+ 
+Medlem af direktionen 
+ 
+ 
+Realkredit Danmark A/S, Lersø Parkalle 100, 2100 København Ø, er ansvarlig for oplysningerne i 
+dette basisprospekt i henhold til gældende dansk lovgivning. 
+Følgende personer er på vegne af Realkredit Danmark A/S ansvarlige for oplysningerne i basispro-
+spektet: 
+ 
+Bestyrelsen:  
+• 
+Bankdirektør, Carsten Rasch Egeriis, formand 
+• 
+Global Head of  Markets & Transaction Banking, Claus Harder 
+• 
+Chief Strategy Officer Head of Strategy Execution & Business Controls Technology & Ser-
+vices, Line Munkholm Haukrogh 
+• 
+Direktør, Jesper Koefoed 
+• 
+Chefkonsulent, cand. Polyt. Majken Hammer Sløk, medarbejdervalgt 
+• 
+Cheføkonom, Christian Hilligsøe Heinig (medarbejdervalgt)  
+ 
+- der i henhold til bemyndigelse af 9. marts 2020 har bemyndiget:  
+ 
+Direktionen: 
+• 
+Administrerende direktør, Carsten Nøddebo Rasmussen 
+• 
+Direktør, Klaus Kristiansen  
+ 
+Realkredit Danmark A/S 
+Lersø Parkalle 100  
+2100 København Ø 
+ 
+til at underskrive Basisprospektet. 
+ 
+For oplysninger om bestyrelsen, direktionen samt revisionen henvises til seneste årsrapport for Re-
+alkredit Danmark A/S samt rd.dk og danskebank.com. 
+ 
+Realkredit Danmark A/S erklærer at: 
+a) Prospektet er blevet godkendt af Finanstilsynet i egenskab af kompetent myndighed i henhold 
+til forordning (EU) 2017/1129 
+b) Finanstilsynet kun godkender, at dette prospekt opfylder standarderne for fuldstændighed, for-
+ståelighed og ensartethed i henhold til forordning (EU) 2017/1129 
+c) Godkendelsen ikke kan betragtes som en godkendelse af den udsteder (Realkredit Danmark 
+A/S), der er omfattet af dette prospekt 
+d) Investorerne skal foretage deres egen vurdering af, hvorvidt disse værdipapirer er en for dem 
+egnet investering. 
+ 
+De ansvarlige for oplysningerne i basisprospektet, jf. ovenfor, erklærer at oplysningerne i basispro-
+spektet efter deres bedste vidende er i overensstemmelse med fakta, og at der ikke er udeladt oplys-
+ninger, som kan påvirke dets indhold.
+
+--- Page 8 ---
+Page 8 of 62 
+ 
+3. Risikofaktorer 
+ 
+Nedenstående risikofaktorer er begrænset til de risici, der efter Realkredit Danmarks opfattelser er de 
+mest væsentlige og specifikke for Realkredit Danmark eller de udstedte værdipapirer. De beskrevne 
+risici er ikke udtømmende, og investor opfordres til selv at vurdere risici med henblik på at træffe en 
+informeret investeringsbeslutning. 
+ 
+De faktorer, som efter Realkredit Danmark A/S’ opfattelse kan være væsentlige for vurderingen af de 
+risici, der er forbundet med Udsteder henholdsvis Obligationerne, beskrives nedenfor. 
+ 
+Potentielle investorer bør også læse de detaljerede oplysninger, som fremgår andetsteds i Basispro-
+spektet (herunder dokumenter, som er indarbejdet ved henvisning) og foretage deres egen vurdering, 
+herunder konsultere egne rådgivere, inden de beslutter sig for at investere. 
+3.1 Risikofaktorer specifikke for udsteder 
+Generelt 
+Realkredit Danmark A/S’ virksomhed indebærer en række forskellige risici, hvoraf de væsentligste er 
+beskrevet nærmere nedenfor. Det kan have væsentlig negativ indflydelse på Realkredit Danmark A/S’ 
+finansielle stilling, virksomhed, resultat og omdømme, hvis disse risici materialiserer sig.  
+ 
+De væsentligste risici forbundet med Udsteder er kreditrisiko, likviditets-, funding og kapitalrisiko 
+samt operationel risiko. 
+3.1.1 Kreditrisiko 
+Den væsentligste risiko for Realkredit Danmark A/S er kreditrisiko, defineret som risikoen for tab, 
+som følge af låntagers eller en modparts manglende overholdelse af betalingsforpligtelser over for Re-
+alkredit Danmark A/S. Realkredit Danmark A/S’ kreditrisiko er primært knyttet til Realkredit Dan-
+mark A/S’ udlånsvirksomhed og i øvrigt til handels- og investeringsaktiviteter.  
+ 
+Realkredit Danmark A/S’ kreditrisiko stammer i særlig grad fra udlånsporteføljen, uudnyttede kredit-
+rammer, garantier, investeringer samt handel med værdipapirer, finansielle derivater og valuta.  
+ 
+Som følge af, at udlånsporteføljen primært er sikret ved pant i fast ejendom i Danmark, er Realkredit 
+Danmark A/S’ kreditrisiko særligt afhængig af udviklingen på det danske ejendomsmarked.  
+ 
+Hvis en låntager ikke er i stand til at tilbagebetale lånet, vil Realkredit Danmark A/S’ sikkerhed af-
+hænge af værdien af den pantsatte ejendom. Da udviklingen på det danske ejendomsmarked ikke kan 
+forudsiges, kan Realkredit Danmark A/S være nødsaget til at realisere pantsatte ejendomme på et tids-
+punkt, hvor markedsværdien af sådanne ejendomme er mindre end restgælden på de underliggende 
+lån, hvilket vil medføre tab for Realkredit Danmark A/S.  
+ 
+Betydelige fald i priserne på det danske ejendomsmarked kan derfor medføre, at værdien af aktiverne i 
+Realkredit Danmark A/S reduceres betydeligt, hvilket igen kan få en negativ påvirkning på Realkredit 
+Danmark A/S’ finansielle stilling og resultat.  
+ 
+Realkredit Danmark A/S’ mulighed for at opfylde sine forpligtelser i henhold til Obligationer udstedt 
+på baggrund af Basisprospekt påvirkes endvidere af ændringer i låntagers betalingsevne, som blandt 
+andet påvirkes af ændringer i det generelle renteniveau, ændringer i bidragssatser, ændringer i de sam-
+fundsøkonomiske forhold (både nationalt og internationalt) og ændringer af gældende skattelovgiv-
+ning samt inflation.
+
+--- Page 9 ---
+Page 9 of 62 
+ 
+En negativ udvikling i Realkredit Danmark A/S’ låntageres eller modparters kreditkvalitet kan påvirke 
+værdien af Realkredit Danmark A/S’ aktiver og kræve øgede hensættelser til tab samt andre hensættel-
+ser.  
+ 
+Øget kreditrisiko kan påvirke Realkredit Danmark A/S’ mulighed for at opfylde sine betalingsforplig-
+telser i henhold til Obligationer udstedt på baggrund af Basisprospektet. 
+3.1.2 Likviditets-, funding- og kapitalrisiko 
+Realkredit Danmark A/S definerer likviditets-, funding- og kapitalrisiko som risikoen for markant hø-
+jere fundingomkostninger og/eller manglende adgang til likviditet, som kan medføre, at Realkredit 
+Danmark A/S ikke kan videreføre sin virksomhed i det nuværende omfang og/eller opfylde sine beta-
+lingsforpligtelser rettidigt.  
+ 
+På nuværende tidspunkt finansieres Realkredit Danmark A/S’ udlån primært ved matchfundet udste-
+delse af obligationer underlagt det specifikke balanceprincip i overensstemmelse med bestemmelserne 
+i Bekendtgørelse om obligationsudstedelse, balanceprincip og risikostyring. Det specifikke balance-
+princip medfører, at Realkredit Danmark A/S i den daglige låneudbetaling udsteder obligationer med 
+vilkår svarende til låntagers vilkår. Terminsydelserne (eksklusiv bidragsbetaling) matcher således 
+ydelserne, som Realkredit Danmark A/S betaler til investor. Realkredit Danmark A/S’ likviditets-, 
+funding- og kapitalrisiko er dermed primært knyttet til den situation, at der ikke kan sælges den nød-
+vendige mængde Obligationer i forbindelse med refinansieringer. Denne risiko blev dog begrænset 
+ved indførelsen af den lovmæssige mulighed for at forlænge løbetiden på Obligationer. Reglerne om 
+refinansiering og forlængelse af løbetiden på Obligationerne er nærmere beskrevet under kapitel 4.10 i 
+Basisprospektet.  
+ 
+Realkredit Danmark A/S kan få behov for supplerende låntagning til brug for at stille den af rating bu-
+reauerne krævede overdækning samt supplerende sikkerhed for at opretholde obligationernes status 
+som særligt dækkede realkreditobligationer. Manglende adgang til supplerende kapital i form af rente-
+bærende passiver, eksempelvis Obligationer udstedt i henhold til § 15 i Lov om realkreditlån og real-
+kreditobligationer mv., usikret seniorgæld eller andre kreditlines indebærer en direkte likviditetsrisiko. 
+ 
+I henhold til Lov om finansiel virksomhed er Realkredit Danmark A/S forpligtet til at opretholde et mi-
+nimumsniveau af lovpligtig kapital. Realkredit Danmark A/S’ manglende evne til at opfylde kapital-
+kravene kan bl.a. resultere i tilsynssanktioner fra Finanstilsynet og i sidste ende i inddragelse af Real-
+kredit Danmark A/S’ tilladelse til at drive virksomhed som realkreditinstitut. 
+ 
+Øget likviditets-, funding og kapitalrisiko kan påvirke Realkredit Danmark A/S’ evne til at opfylde 
+sine betalingsforpligtelser i henhold til Obligationerne. 
+3.1.3 Operationel risiko 
+Operationel risiko opstår som følge af menneskelige fejl, systemfejl, it-nedbrud, utilstrækkelige eller 
+mangelfulde interne procedurer eller eksterne begivenheder. For finansielle institutter som Realkredit 
+Danmark omfatter operationel risiko også risiko i forbindelse med omdømme og strategi såvel som 
+conduct risiko og juridisk risiko.  
+ 
+Der er mange forskelligartede forekomster af operationelle risikohændelser, bla. bedrageri eller anden 
+ulovlig eller uetisk adfærd, manglende overholdelse af politikker og retningslinjer og kontroller i insti-
+tuttet til forebyggelse, påvisning og rapportering af manglende opfyldelse af gældende love eller reg-
+ler, krav rejst som følge af mangelfulde produkter, mangelfuld dokumentation, utilstrækkelig datakva-
+litet, fejl ved gennemførelse af transaktioner, systemfejl samt manglende evne til at fastholde og til-
+trække nøglemedarbejdere.
+
+--- Page 10 ---
+Page 10 of 62 
+ 
+Realkredit Danmarks forretningsaktiviteter er i stigende grad afhængige af højt avancerede it-syste-
+mer. It-systemer er generelt sårbare over for en række trusler, herunder cyber-kriminalitet, hacking og 
+lignende problemer som vil have konsekvenser i form af nedlukning af enkelte eller samtlige it-syste-
+mer, hvilket kan medføre manglende mulighed for udstedelse af obligationer og manglende mulighed 
+for at servicere betalinger på Obligationerne rettidigt.  
+ 
+Realkredit Danmark A/S’ bestyrelse har fastlagt politikker og retningslinjer for operationelle risici 
+med det formål at reducere Realkredit Danmark A/S’ risici mest muligt. 
+ 
+Såfremt operationel risiko materialiseres, kan det påvirke Realkredit Danmark A/S’ mulighed for at 
+opfylde sine betalingsforpligtelser i henhold til Obligationer udstedt på baggrund af Basisprospektet.  
+3.1.4 Markedsrisiko 
+Markedsrisiko er risikoen for tab som følge af ændringer i markedsværdien af Realkredit Danmark 
+A/S’ aktiver og passiver på baggrund af udsving i bl.a. renter, valutakurser og aktiekurser. De væsent-
+ligste risici knytter sig til Realkredit Danmarks fondsbeholdning hvis formål er at understøtte Realkre-
+dit Danmarks realkreditforretning. Udsving på rente, valuta- og aktiemarkederne kan påvirke markeds-
+værdien af og likviditeten i Realkredit Danmarks aktiver og kan medføre tab og have en negativ virk-
+ning på indtægterne fra Realkredit Danmark A/S’ primære aktiviteter, og dermed påvirke Realkredit 
+Danmark A/S evne til at opfylde sine betalingsforpligtelser i henhold til Obligationer udstedt på bag-
+grund af Basisprospektet. 
+3.1.5 Modelrisiko 
+Realkredit Danmark A/S anvender interne rating-baserede risikomodeller til at beregne risikovægtede 
+aktiver og kreditrisikoen. Modellerne er godkendt af Finanstilsynet og er i overensstemmelse med de 
+nuværende nationale og internationale retningslinjer for sådanne modeller. Der er ikke sikkerhed for, 
+at modellerne er tilstrækkelige til at afdække den reelle kreditrisiko. Disse modeller kan blive ændret 
+som følge af en række faktorer, herunder ændringer i national og international lovgivning og ændrin-
+ger i tilsynspraksis. Ændringer i modellerne kan medføre et øget solvensbehov for Realkredit Dan-
+mark A/S og dermed reducere den nuværende solvensmæssige overdækning, hvilket i så fald kan på-
+virke Realkredit Danmark A/S’ evne til at opfylde sine betalingsforpligtelser samt forpligtelser til at 
+stille supplerende sikkerhed i henhold til Obligationerne.  
+3.1.6 Financial crime og Regulatory compliance risiko  
+Hvidvaskrisikoen er risikoen for, at Realkredit Danmark A/S’ produkter misbruges til hvidvaskformål 
+eller terrorfinansiering. Derudover dækker risikokategorien over risikoen for overtrædelse af vedtagne 
+økonomiske sanktioner. Øvrige Financial crime risici indbefatter risiko for skatteunddragelse og risiko 
+for besvigelser. Regulatory compliance-risiko er risikoen for, at Realkredit Danmark A/S’ kunder ikke 
+får den rådgivning og beskyttelse, som de har krav på efter f.eks. markedsføringsloven, god-skik-reg-
+ler om kundekommunikation og rådgivning, kreditaftaleloven, persondatabeskyttelsesregler m.m. Det 
+gælder både før, under og i forbindelse med afviklingen af kundernes realkreditlån i Realkredit Dan-
+mark A/S.  
+ 
+Hvis Realkredit Danmark A/S bliver idømt en betydelig bøde og/eller myndighedssanktioner, kan det 
+påvirke Realkredit Danmark A/S’ finansielle position, rating, image og konkurrenceevne, og dermed 
+Realkredit Danmark A/S’ evne til at opfylde sine betalingsforpligtelser samt forpligtelser til at stille 
+supplerende sikkerhed i henhold til Obligationerne.  
+3.1.7 IT risiko 
+Realkredit Danmark A/S er i høj grad afhængig af avancerede IT-systemer. Selvom Realkredit Dan-
+mark har udarbejdet nødprocedurer, to-center system o.lign., er IT-systemer generelt sårbare over for 
+nedbrud, fejl, cyberkriminalitet og lignende.
+
+--- Page 11 ---
+Page 11 of 62 
+ 
+IT-systemerne er vidt forgrenede, hvilket komplicerer systemudvikling og –test ligesom overvågning 
+kompliceres. 
+ 
+Nedbrud og/eller fejl i IT-systemer hos Realkredit Danmark A/S eller hos tredjepart kan medføre for-
+sinkelse i betalinger fra Realkredit Danmark A/S til Obligationsejer.  
+3.1.8 Clearing risiko 
+Samtlige betalinger til investorerne i henhold til Obligationerne sker via den værdipapircentral, hvor 
+Obligationerne er registreret, jf. de Endelige Vilkår og i overensstemmelse med de regler, der gælder 
+for den pågældende værdipapircentral.  
+ 
+For de Obligationer, der er udstedt i VP, sker betalingerne til den centralbank-konto som er tilknyttet 
+hvert relevant depot i VP, hvor der er registreret Obligationer. Betalingen sker således til de kontofø-
+rende institutter, der deltager i VP, og sker ved overførsel mellem to centralbank-konti baseret på in-
+strukser genereret af VP og sendt til betalingssystemet.  
+ 
+Når Realkredit Danmark har foretaget rettidig betaling til det relevante kontoførende instituts central-
+bank-konto i henhold til obligationsvilkårene, er denne betaling sket med frigørende virkning for Real-
+kredit Danmark. Såfremt Realkredit Danmark betaling til det kontoførende institut ikke videreformid-
+les til investorerne – uanset årsagen hertil – er Realkredit Danmark ikke juridisk forpligtet til at fore-
+tage betaling igen. Hvis det relevante kontoførende institut således ikke videreformidler Realkredit 
+Danmark betaling til investorerne – uanset årsagen hertil – kan det resultere i, at investorerne ikke 
+modtager betaling. 
+3.1.9 Strategisk risiko 
+Der er stærk konkurrence på realkreditområdet i Danmark. Realkredit Danmarks evne til at fastholde 
+og tiltrække nye kunder afhænger af mange faktorer, bla. evnen til at fastholde omdømme, sammen-
+sætning af produktpalette, produktinnovation, priser, distributionskanal, ydelser og rådgivning.  
+ 
+Realkredit Danmark har egne direkte kunder, men en stor del af Realkredit Danmarks realkreditlån 
+formidles og serviceres af Danske Bank. Ændringer i konkurrencesituationen på både realkredit- og 
+bankmarkedet kan således have en negativ indvirkning på Realkredit Danmark A/S’ position på real-
+kreditmarkedet, hvilket kan have en negativ indvirkning på Realkredit Danmark A/S’ økonomiske stil-
+ling og derfor også på evnen til at betale rente og afdrag på Obligationerne.  
+ 
+3.2 Risici specifikke for Obligationerne 
+En væsentlig risiko ved obligationerne er udsteders manglende eller forsinkede betaling af rente og 
+afdrag samt hovedstol som følge af tab påført instituttet. 
+3.2.1 Markedsrisiko 
+Det sekundære marked generelt  
+Størrelsen af en udstedelse kan ikke forudsiges da den afhænger af låntagernes efterspørgsel efter den 
+låntype som den enkelte Obligation finansierer.  
+ 
+Der er ikke nogen garanti for, at der vil vedblive med at være eller udvikle sig et likvidt marked for 
+Obligationerne. Investorerne kan få vanskeligt ved at sælge deres Obligationer eller opnå salgskurser, 
+der vil kunne give et afkast, som svarer til afkastet på lignende investeringer i det sekundære marked, 
+hvis der ikke udvikler sig et likvidt marked for Obligationerne.  
+ 
+Renterisiko 
+Investering i Obligationerne indebærer en risiko for, at efterfølgende ændringer i markedsrenten har en 
+negativ virkning på deres kursværdi.
+
+--- Page 12 ---
+Page 12 of 62 
+ 
+ 
+Obligationsejere af Obligationer med negativ kupon risikerer at få nedskrevet deres obligationsbehold-
+ning med rentebeløbet, når kuponrenten er negativ. Nedskrivningen beregnes i nogle tilfælde på bag-
+grund af kurs 100, og Obligationsejer risikerer derfor kurstab/-gevinst i denne forbindelse. 
+ 
+Særligt længere løbende fastforrentede Obligationer risikerer at falde betydeligt i kursværdi, hvis mar-
+kedsrenten overstiger den rente, som betales i henhold til de fastforrentede Obligationer og investo-
+rerne kan ikke forvente, at kursen ved faldende markedsrenter vil overstige indfrielseskursen i betrag-
+teligt omfang. Ydermere påvirkes den effektive rente på Obligationerne af en række faktorer, der ikke 
+kan forudses på tidspunktet for investering i Obligationerne. 
+ 
+Ratings afspejler ikke nødvendigvis alle risici 
+Realkredit Danmark A/S har p.t. en udstederrating fra Fitch Ratings og Scope Rating. Obligationer ud-
+stedt fra Realkredit Danmark A/S’ kapitalcentre S og T er p.t. ratet af henholdsvis Fitch Ratings, S&P 
+Global Ratings og Scope Ratings. Obligationer udstedt fra Realkredit Danmarks generelle kapitalcen-
+ter, instituttet i øvrigt, er p.t. ratet af S&P Global Ratings. En rating er resultatet af det enkelte kredit-
+vurderingsbureaus modeller og vurdering, og vil ikke nødvendigvis afspejle alle risici forbundet med 
+strukturen, markedet, eller yderligere faktorer, som kan påvirke værdien af Obligationerne eller Real-
+kredit Danmark A/S’ kreditværdighed. 
+ 
+En rating er ikke en anbefaling om at købe, sælge eller fastholde positioner i værdipapirer, og et kre-
+ditvurderingsbureau kan til enhver tid ændre, suspendere eller trække den tildelte rating tilbage, ek-
+sempelvis hvis kreditvurderingsbureauet vurderer, at Obligationernes kreditkvalitet eller eventuelt Re-
+alkredit Danmark A/S’ kreditkvalitet er blevet forringet. 
+ 
+Kreditvurderingsbureauerne kan også til enhver tid ændre de metoder, som de anvender til at rate Re-
+alkredit Danmark A/S og Obligationerne, hvilket kan medføre en ændring i tidligere tildelte ratings.  
+ 
+Desuden er der ingen garanti for, at en rating af Obligationerne og/eller Realkredit Danmark A/S vil 
+blive opretholdt efter datoen for Basisprospektet.  
+ 
+Endelig kan Realkredit Danmark A/S’ ratings falde som følge af en nedjustering af Den Danske Stats 
+rating, uden at det har en direkte sammenhæng med Realkredit Danmark A/S’ forhold. 
+ 
+Realkredit Danmark kan til enhver tid vælge at opsige samarbejdet med de relevante kreditvurderings-
+bureauer eller vælge andre kreditvurderingsbureauer.  
+ 
+Hvis en rating, der er tildelt Obligationerne og/eller Realkredit Danmark A/S, nedjusteres, suspenderes 
+eller trækkes tilbage, og/eller Realkredit Danmark A/S opsiger samarbejdet med et eller flere rating 
+bureauer, kan Obligationernes markedsværdi falde. 
+ 
+Førtidig indfrielse 
+Låntagere har mulighed for førtidig indfrielse af deres realkreditlån enten ved (i) at købe Obligatio-
+nerne til markedspris og bruge disse til indfrielse eller (ii) i visse tilfælde at indfri realkreditlånet til en 
+forud aftalt indfrielseskurs, hvorved markedsværdien som udgangspunkt næppe vil stige betragteligt 
+over denne indfrielseskurs. Denne indfrielsesadgang for låntager vil ofte blive udnyttet, hvis låntager 
+dermed kan opnå en mere attraktiv finansiering. Investorer risikerer derfor at få deres Obligationer 
+indløst på et tidspunkt, hvor geninvestering muligvis sker til en lavere rente.  
+ 
+Negativ rente  
+Såfremt kuponrenten er negativ, har Realkredit Danmark et krav mod Obligationsejer som forfalder til 
+betaling på betalingsdagen for den relevante terminsperiode. Obligationsejers betaling til Realkredit 
+Danmark, som følge af en negativ kuponrente, vil blive opkrævet af Realkredit Danmark i forbindelse 
+med udtrækningen (se afsnit 4.8. a) i Værdipapirnoten).
+
+--- Page 13 ---
+Page 13 of 62 
+ 
+Realkredit Danmark forbeholder sig i den forbindelse ret til at foretage modregning i ordinære/ekstra-
+ordinære udtrækninger ligesom ekstra udtrækning af Obligationer (= renteudtrækning) kan finde sted. 
+3.2.2 Legal Risk 
+Realkredit Danmark A/S er underlagt omfattende lovgivning og tilsyn, og ændringer heri kan have en 
+negativ indvirkning på Realkredit Danmark A/S’ muligheder for at opretholde det nuværende forret-
+ningsomfang og som følge deraf kan Realkredit Danmark A/S’ økonomiske stilling og driftsresultat 
+påvirkes negativt. Selv om Realkredit Danmark A/S løbende overvåger udviklingen i reguleringen af 
+finansielle virksomheder, er fremtidige ændringer uforudsigelige og uden for Realkredit Danmark 
+A/S’ kontrol. 
+ 
+Det er eksempelvis hensigten, at Obligationerne kan opnå godkendelse i Eurosystemet. En sådan god-
+kendelse vil afhænge af, om den Europæiske Centralbank anerkender, at kriterierne for godkendelse i 
+Eurosystemet er blevet opfyldt. Da kriterierne for godkendelse i Eurosystemet kan ændres over tid, 
+kan Obligationernes status ændre sig i løbetiden. En manglende godkendelse af Realkredit Danmarks 
+Obligationer i Eurosystemet vil kunne få negativ effekt på kursdannelsen på obligationerne. 
+3.2.3 Likviditets-, funding og kapitalrisiko 
+I makroøkomisk stressede tider kan Realkredit Danmark A/S bliver udfordret på henholdsvis likviditet, 
+funding og kapital. Trods kontinuerlig overvågning af Realkredit Danmark A/S’ positioner og buffere 
+til regulatoriske krav, er der risiko for, at de regulatoriske krav brydes. 
+ 
+Manglende overholdelse af balanceprincippet 
+Realkredit Danmark A/S skal i henhold til dansk realkreditlovgivning administrere kapitalcentrene på 
+en sådan måde, at det tilsikres, at der er en fornuftig balance mellem betalingsforpligtelserne på ude-
+stående passiver og aktiverne i kapitalcentrene, hvad angår valuta-, rente-, options- og løbetidsstruktur. 
+Dette er det såkaldte balanceprincip. 
+ 
+Manglende overholdelse af balanceprincippet kan resultere i, at Realkredit Danmark A/S mister sin 
+tilladelse til at udstede Obligationer, hvilket kan medføre en påvirkning af kurserne på Obligationerne, 
+som er ugunstig for investorer. 
+ 
+Tab af SDRO-status 
+Hvis Realkredit Danmark A/S forsømmer at stille supplerende sikkerhed for SDRO svarende til lov-
+mæssige krav, mister SDRO deres status som SDRO, hvilket kan påvirke værdien af Obligationerne 
+samt risikovægten af Obligationerne i finansielle virksomheders kapitalberegninger. 
+ 
+Risiko for løbetidsforlængelse 
+Hvis der er manglende aftagere af Obligationer i tilfælde, hvor der skal gennemføres refinansiering, 
+eller hvor den effektive rente i forbindelse med en refinansiering bliver højere end den forlængelses-
+rente, som Realkredit Danmark A/S fastsætter i henhold til § 6 i Lov om realkreditlån og realkreditob-
+ligationer mv., kan Realkredit Danmark A/S vælge at forlænge løbetiden på Obligationerne i stedet for 
+at gennemføre den forudsatte refinansiering. Reglerne for refinansiering og forlængelse af løbetiden på 
+Obligationerne er nærmere beskrevet under kapitel 4.10 om ”Regler om forlængelse af Obligationer” i 
+Basisprospektet. Såfremt Realkredit Danmark A/S er nødsaget til at forlænge Obligationernes løbetid 
+vil Obligationsejer få udskudt sin tilbagebetaling af hovedstolen med et år til en i loven fastsat rente, 
+der kan afvige fra markedsrenten. 
+ 
+3.2.4 Risici ved investering i Grønne Obligationer 
+Grundlag for udstedelse af Grønne Obligationer 
+Udsteder har offentliggjort Danske Bank Koncernens ”Green Bond Framework”, som er tilgængelig 
+på udsteders websted ( www.rd.dk/Investor).
+
+--- Page 14 ---
+Page 14 of 62 
+ 
+Obligationer som betegnes ”Grønne Obligationer” er Obligationer, hvor det af de Endelige Vilkår 
+fremgår at de er udstedt i henhold til Danske Bank Koncernens ”Green Bond Framework” i hvilket det 
+fremgår, at grundlaget for de Grønne Obligationer er realkreditlån ydet mod sikkerhed i grønne ejen-
+domme som opfylder kriterierne i Danske Bank Koncernens ”Green Bond Framework”.  
+ 
+Forordning (EU) 2020/852 af 18. juni 2020 om fastlæggelse af en ramme til fremme af bæredygtige 
+investeringer (den såkaldte taksonomiforordning med tilhørende delegerede retsakter), er på datoen for 
+dette Basisprospekt endnu ikke trådt i kraft, men vil, når den træder i kraft, kunne medføre ændringer i 
+definitionerne af, hvad der kan betegnes som grønne ejendomme. 
+ 
+Danske Bank Koncernen kan træffe beslutning om at tilrette ”Green Bond Framework”, når Forord-
+ningen træder i kraft.  
+ 
+Forordningen er endnu ikke trådt i kraft, hvorfor der i øjeblikket ikke er markedskonsensus om, hvad 
+der udgør "grønt" eller "bæredygtigt" eller et tilsvarende mærke eller, hvilke præcise egenskaber, der 
+kræves for at et bestemt lån eller en bestemt ejendom kan defineres som "grønt" eller "bæredygtigt" 
+eller lignende mærke, og der kan heller ikke gives sikkerhed for, at en sådan klar definition eller kon-
+sensus vil udvikle sig over tid.  
+ 
+Investors egne kriterier for grønne investeringer   
+For så vidt angår Obligationer, der er udstedt i henhold til ”Green Bond Framework” er der en risiko 
+for, at grundlaget for de Grønne Obligationer vil være i overensstemmelse med investors egne investe-
+ringskriterier for grønne investeringer 
+ 
+Om grundlaget for Grønne Obligationer vil være i overensstemmelse med eventuelle nuværende eller 
+fremtidige investorforventninger eller krav med hensyn til investeringskriterier eller retningslinjer, 
+som en investor eller dennes investeringer skal opfylde, uanset om det er i henhold til gældende eller 
+fremtidige love eller bestemmelser eller i henhold til egne love eller andre gældende regler eller krav 
+til portefølje, er Investors egen risiko.  
+ 
+Tilsvarende gælder om risikoen for at  grundlaget for Grønne Obligationer er i overensstemmelse med 
+investors krav til direkte eller indirekte miljøpåvirkninger, bæredygtighed eller sociale virkninger af 
+projekter eller anvendelse af provenu, der er forbundet med de lån, der er finansieret med Grønne Ob-
+ligationer.  
+ 
+Om grundlaget for Grønne Obligationer vil opfylde investors forventninger med hensyn til "grønne", 
+"bæredygtige" eller andre tilsvarende grønne betegnelser, eller at eventuelle negative miljømæssige, 
+sociale og/eller andre effekter ikke vil kunne opstå under gennemførelsen af projekter finansieret med 
+Grønne Lån, er ligeledes Investors egen risiko.  
+ 
+Tilkendegivelser eller certificering 
+Udsteder kan ikke indestå, i nogen sammenhæng, for egnetheden eller pålideligheden af tilkendegivel-
+ser eller certificering fra nogen tredjepart (uanset om den er blevet formidlet af udsteder eller ej) som 
+er gjort tilgængelig i forbindelse med udstedelse af Grønne Obligationer og Grønne Lån. 
+ 
+For at undgå tvivl er en tilkendegivelse eller certificering ikke, og den skal heller ikke anses for at 
+være, indarbejdet i og/eller udgøre en del af Basisprospektet.  
+ 
+En tilkendegivelse eller certificering er ikke, og bør heller ikke anses for at være, en anbefaling fra 
+Udsteder om at købe, sælge eller eje Grønne Obligationer.  
+ 
+Potentielle investorer skal selv vurdere relevansen af en tilkendegivelse eller certificering og/eller de 
+oplysninger, der er indeholdt heri, og/eller formidleren af en sådan tilkendegivelse eller certificering 
+med henblik på enhver investering i Grønne Obligationer.
+
+--- Page 15 ---
+Page 15 of 62 
+ 
+På nuværende tidspunkt er formidlerne af sådanne tilkendegivelser og certificeringer ikke underlagt 
+nogen specifik overvågning, lovgivning eller anden form for tilsyn. 
+ 
+Tilbagekaldelse af en tilkendegivelse eller certificering som beskrevet ovenfor eller afgivelse af en til-
+kendegivelse eller certificering, der godtgør, at Udsteder ikke helt eller delvist overholder de forhold 
+på hvilke, den afgivne tilkendegivelse eller certificering hviler, kan have en væsentlig negativ indvirk-
+ning på værdien af de Grønne Obligationer og potentielt værdien af andre Grønne Obligationer, der 
+skal finansiere grønne lån, og/eller som kan have negative konsekvenser for visse investorer med por-
+tefølje-mandater til at investere i værdipapirer, der skal anvendes til et bestemt formål.  
+ 
+Notering af Grønne Obligationer 
+I tilfælde af, at Grønne Obligationer er noteret eller optaget til handel på et dedikeret "grønt", "miljø-
+mæssigt", "bæredygtigt" eller andet  segment med tilsvarende betegnelse på et børs- eller værdipapir-
+marked (uanset om de er reguleret eller ej), må Investor selv sikre,  at denne notering eller optagelse, 
+helt eller delvist, opfylder Investors enhver nuværende eller fremtidige forventninger eller krav med 
+hensyn til investeringskriterier eller retningslinjer, som investor eller dennes investeringer skal opfylde 
+uanset om det er i henhold til gældende eller fremtidige love eller bestemmelser eller i henhold til egne 
+love eller andre gældende regler eller krav om portefølje af investeringer, navnlig med hensyn til di-
+rekte eller indirekte miljømæssige, bæredygtige eller sociale virkninger af projekter eller anvendelse af 
+provenu, som er finansieret med Grønne Obligationer eller relateret til Grønne Lån.  
+ 
+Det skal desuden bemærkes, at kriterierne for notering eller optagelse til handel kan variere fra det ene 
+børs- eller værdipapirmarked til det andet.  
+ 
+Udsteder kan ikke love, at en notering eller optagelse til handel vil blive opnået i forbindelse med 
+Grønne Obligationer eller, hvis de er opnået, at en notering eller optagelse til handel vil blive opret-
+holdt i de Grønne Obligationers løbetid. 
+ 
+Såfremt de Grønne Obligationer ikke længere kan optages til handel og notering på et børs- eller vær-
+dipapirmarked kan dette have en væsentlig negativ indvirkning på værdien af de Grønne Obligationer 
+og potentielt værdien af andre Grønne Obligationer.
+
+--- Page 16 ---
+Page 16 of 62 
+ 
+4. Lovgivning  
+ 
+Som realkreditinstitut er Realkredit Danmark A/S’ virksomhed reguleret af Lov om finansiel virksom-
+hed med tilhørende bekendtgørelser bl.a. med hensyn til regler om tilladelse, eneret, virksomhedsom-
+råde, god skik, ejerforhold, ledelse, indretning af virksomheden, videregivelse af fortrolige oplysnin-
+ger, kapital, midlernes anbringelse, likviditet, koncernregler, konsolidering, årsrapport, revision, an-
+vendelse af årets overskud, sammenlægning og omdannelse, ophør af den finansielle virksomhed, kri-
+sehåndtering, tilsyn, afgifter samt fælles funding. 
+ 
+Realkreditinstitutter er tillige reguleret af Lov om realkreditlån og realkreditobligationer m.v. med til-
+hørende bekendtgørelser.  
+ 
+Lov om realkreditlån og realkreditobligationer m.v. fastsætter bl.a. regler om realkreditinstitutters ud-
+lån mod registreret pant i fast ejendom, udlån til offentlige myndigheder uden pant, udlån garanteret af 
+offentlige myndigheder eller udlån mod øvrige ikke-efterstillede tilgodehavender hos og garantier stil-
+let af kreditinstitutter med hensyn til sikkerhed for udlånet, løbetider og afdragsprofiler, lånegrænser, 
+udbetaling mod garanti, værdiansættelse af ejendomme, udmåling af lån, supplerende sikkerhedsstil-
+lelse samt udlån uden for Danmark. 
+ 
+Lov om realkreditlån og realkreditobligationer m.v. fastsætter tillige regler om udstedelse af Realkre-
+ditobligationer (RO), særligt dækkede obligationer (SDO) og særligt dækkede realkreditobligationer 
+(SDRO) samt obligationer udstedt i medfør af lovens § 15 til opfyldelse af kravet om supplerende sik-
+kerhed for SDRO, herunder regler om eneret, obligationsudstedelse, balanceprincip og hæftelsesfor-
+hold. Loven indeholder også regler om tilsyn. 
+ 
+Realkreditinstitutter må ikke udøve anden virksomhed end realkreditvirksomhed, medmindre det er 
+tilladt inden for rammerne af følgende undtagelsestilfælde: 
+ 
+• 
+Realkreditinstitutter kan med tilladelse fra Finanstilsynet drive virksomhed som værdipapir-
+handlere  
+• 
+Realkreditinstitutter kan drive virksomhed, som er accessorisk til realkreditvirksomhed 
+• 
+Finanstilsynet kan bestemme, at den accessoriske virksomhed skal udøves af et andet selskab 
+• 
+Realkreditinstitutter må gennem dattervirksomhed drive anden finansiel virksomhed 
+ 
+Realkredit Danmark A/S’ virksomhed er også reguleret af CRR.  
+ 
+CRR fastlægger bl.a. regler for Realkredit Danmark A/S’: 
+ 
+• 
+Kapitalgrundlag 
+• 
+Store eksponeringer 
+• 
+Likviditet 
+• 
+Indberetninger til tilsynsmyndigheder af oplysninger om kapitalgrundlag, store eksponeringer, 
+likviditet samt gearing 
+• 
+Offentliggørelse af oplysninger om kapitalgrundlag, store eksponeringer, likviditet samt gea-
+ring 
+ 
+Såfremt den lovgivning, der regulerer Realkredit Danmark A/S’ virksomhed, ændres, forbeholder Re-
+alkredit Danmark A/S sig muligheden for at ændre Basisprospektet ved tillæg, således at Realkredit 
+Danmark A/S’ fremtidige udstedelser af Obligationer under dette Basisprospekt er i overensstemmelse 
+med den til enhver tid gældende nationale og internationale lovgivning og de forretningsmæssige ram-
+mer herunder.
+
+--- Page 17 ---
+Page 17 of 62 
+ 
+Realkredit Danmark A/S er underlagt tilsyn af Finanstilsynet, der er en myndighed under Erhvervsmi-
+nisteriet. Finanstilsynet foretager løbende kontrol af Realkredit Danmark A/S’ aktiviteter, herunder 
+ved inspektion, samt på grundlag af regelmæssig rapportering fra Realkredit Danmark A/S. 
+ 
+Følgende er en oversigt over indholdet af lovgivningen, som regulerer et realkreditinstituts udstedelse 
+af Obligationer samt driften af et realkreditinstitut.  
+ 
+Der er ikke taget højde for lovændringer, der træder i kraft efter datoen for dette Basisprospekt.  
+ 
+4.1 Regler om udlån 
+Realkreditinstitutter må yde lån mod registreret pant i fast ejendom, lån til offentlige myndigheder 
+uden pant, lån garanteret af offentlige myndigheder eller lån mod øvrige ikke-efterstillede tilgodeha-
+vender hos og garantier stillet af kreditinstitutter på grundlag af udstedelse af RO, SDO og SDRO. 
+ 
+Realkreditinstitutter skal ved udlån mod pant i fast ejendom finansieret ved udstedelse af RO, SDO og 
+SDRO foretage værdiansættelse og låneudmåling på baggrund af reglerne i Lov om realkreditlån og 
+realkreditobligationer mv. og Bekendtgørelse om værdiansættelse af pant og lån i fast ejendom, som 
+stilles til sikkerhed for udstedelse af SDRO og SDO, og Bekendtgørelse om realkreditinstitutters vær-
+diansættelse og låneudmåling.  
+ 
+Reglerne om værdiansættelse og låneudmåling har til formål at sikre, at lån udmåles og ydes inden for 
+de i lovgivningen fastsatte grænser.  
+ 
+Værdiansættelsen sker på grundlag af ejendommens markedsværdi. Dog kan realkreditinstitutter be-
+låne visse ejendomssegmenter til genanskaffelsesværdi, hvis lånet finansieres med RO. 
+ 
+Ved belåning med RO kan landbrugs- og skovejendomme belånes med 70 % af den pantsatte ejen-
+doms værdi og ejendomme til sociale, kulturelle og undervisningsmæssige formål med 80 % af den 
+pantsatte ejendomsværdi, hvortil kommer, at tilbehør til ejendommen i medfør af Tinglysningslovens 
+§§ 37, stk. 1 og 38, kan medtages ved værdiansættelsen af ejendommen ved belåning med RO. 
+ 
+Udlån mod pant i fast ejendom udmåles på grundlag af den pantsatte ejendomsværdi. Værdien af de 
+lån og andre aktiver, der dækker udstedte SDO og SDRO, skal til enhver tid mindst svare til værdien 
+af de udstedte Obligationer, og pantsikkerheden for det enkelte lån skal til enhver tid overholde låne-
+grænsen for den pågældende ejendomskategori.   
+ 
+Kravet om løbende overholdelse af lånegrænser gælder ikke for lån, der er finansieret med RO.
+
+--- Page 18 ---
+Page 18 of 62 
+ 
+Maksimalt tilladte belåningsprocenter for henholdsvis RO, SDO og SDRO i henhold til ejen-
+domskategori 
+ 
+ 
+RO 
+SDO/SDRO 
+SDO/SDRO 
+- hvis der stilles 
+supplerende sik-
+kerhed på mindst 
+10 % for den del 
+af lånet, der over-
+stiger 60 % af 
+ejendommens 
+værdi 
+Ejerboliger til helårsbrug 
+80 % 
+80 % 
+ 
+Private andelsboliger 
+80 % 
+80 % 
+ 
+Private beboelsesejendomme til ud-
+lejning 
+80 % 
+80 % 
+ 
+Alment boligbyggeri 
+80 % 
+80 % 
+ 
+Ungdomsboliger 
+80 % 
+80 % 
+ 
+Ældreboliger mv. 
+80 % 
+80 % 
+ 
+Fritidshuse 
+60 % 
+75 % 
+ 
+Landbrugs- og skovbrugsejendomme 
+70 % 
+60 % 
+ 
+Gartnerier mv. 
+60 % 
+60 % 
+70 % 
+Kontor- og forretningsejendomme 
+60 % 
+60 % 
+70 % 
+Industri- og håndværksejendomme 
+60 % 
+60 % 
+70 % 
+Kollektive energiforsyningsanlæg 
+60 % 
+60 % 
+70 % 
+Ejendomme til sociale, kulturelle og 
+undervisningsmæssige formål 
+80 % 
+60 % 
+70 % 
+Ubebyggede grunde 
+40 % 
+40 % 
+ 
+   
+4.2 Regler om løbetid og afdragsprofil på realkreditlån 
+Den maksimale løbetid for lån mod pant i fast ejendom ydet af realkreditinstitutterne er som udgangs-
+punkt 30 år.  
+ 
+Den maksimale løbetid på 30 år gælder ikke for følgende ejendomskategorier, hvis det ydede lån fi-
+nansieres med SDO og SDRO og ikke overstiger en lånegrænse på 75 % (70 % for lån ydet før 1. juli 
+2009):  
+ 
+• 
+Ejerboliger til helårsbrug  
+• 
+Private andelsboliger 
+• 
+Private beboelsesejendomme til udlejning 
+• 
+Alment boligbyggeri 
+• 
+Ungdomsboliger 
+• 
+Ældreboliger m.v.    
+• 
+Ejendomme til sociale, kulturelle og undervisningsmæssige formål 
+ 
+ 
+Den maksimale løbetid er dog 40 år for lån til alment boligbyggeri, ungdomsboliger og private andels-
+boliger, såfremt långivningen sker på grundlag af tilsagn om støtte efter Almenboligloven.  
+ 
+Ved fastsættelse af lånets løbetid og afdragsprofil skal der tages hensyn til pantets forventede værdi-
+forringelse og de gældende lånegrænser for pantet.
+
+--- Page 19 ---
+Page 19 of 62 
+ 
+Lån til ejerboliger til helårsbrug og fritidshuse kan som hovedregel, uanset den sikkerhedsmæssige 
+placering, ikke ydes, så de amortiseres langsommere end et 30-årigt annuitetslån, hvilket vil sige et 
+lån, der amortiseres over løbetiden med en fast ydelse. Inden for løbetiden kan mindstekravet til amor-
+tisationsforløb fraviges i en periode på op til 10 år, hvor låntager ikke betaler afdrag på lånet, men 
+alene renter. Afdragsfrihed skal tildeles under behørigt hensyn til pantets forventede værdiforringelse.  
+ 
+Mindstekravet til amortisationsforløb kan dog fraviges i en periode på mere end 10 år for lån ydet til 
+ejerboliger til helårsbrug, hvis det ydede lån finansieres med SDO og SDRO og ikke overstiger en lå-
+negrænse på 75 % (70 % for lån ydet før 1. juli 2009).  
+ 
+4.3 Tilladte aktiver som sikkerhed for udstedelse af Obligationer 
+Følgende aktivtyper kan indgå som sikkerhed for udstedelse af RO, SDO og SDRO: 
+  
+• 
+Lån sikret ved tinglyst pant i fast ejendom, herunder også mod midlertidig sikkerhed  
+• 
+Lån sikret ved tinglyst pant i fast ejendom, herunder også mod midlertidig sikkerhed, ydet af 
+andre kreditinstitutter i overensstemmelse med lovbestemmelserne om fælles funding  
+• 
+Obligationer og gældsbreve udstedt af eller garanteret af offentlige myndigheder og central-
+banker  
+ 
+Endvidere kan følgende aktivtyper indgå som sikkerhed for udstedelse af SDO og SDRO:   
+ 
+• 
+Lån sikret ved pant i fast ejendom til finansiering af udlån til almene boliger omfattet af stats-
+garanti, jf Bekendtgørelse om statsgaranti, garantiprovision og aflønningsprovision i forbin-
+delse med finansiering af almene boliger samt Bekendtgørelse om statsgaranti for visse obli-
+gationer udstedt i forbindelse med finansiering af almene boliger (eller senere regulering, der 
+måtte afløse disse) 
+• 
+Offentlige udlån 
+• 
+Obligationer, gældsbreve samt andre fordringer og garantier udstedt af kreditinstitutter dog 
+højst med en værdi svarende til nominelt 15 % af Realkredit Danmark A/S’ udstedte Obligati-
+oner 
+ 
+For lånet hæfter låntagerne både med den pantsatte ejendom og personligt. 
+ 
+4.4 Kapitalcenter 
+Udstedelse af RO, SDO og SDRO sker i serier. En serie eller en gruppe af serier med fælles serie-re-
+servefond og fælles hæftelse udgør et kapitalcenter. Værdien af de aktiver, der dækker de udstedte 
+SDRO skal mindst svare til værdien af de udstedte SDRO, og pantesikkerheden for det enkelte lån 
+skal til enhver tid overholde lånegrænsen herfor. Kravet om løbende overholdelse af lånegrænser gæl-
+der ikke for lån, der er finansieret med RO. 
+ 
+I henhold til Bekendtgørelse om statsgaranti, garantiprovision og aflønningsprovision i forbindelse 
+med finansiering af almene boliger samt Bekendtgørelse om statsgaranti for visse obligationer udstedt 
+i forbindelse med finansiering af almene boliger (eller senere regulering, der måtte afløse disse) – skal 
+realkreditinstitutter oprette et særskilt Kapitalcenter til finansiering af lån til almene boliger med stats-
+garanti.  
+ 
+Udlånet i Kapitalcenteret er begrænset til de i bekendtgørelserne angivne låneformål. 
+ 
+Såvel udlån som obligationer i kapitalcenteret er garanteret af den danske stat ved selvskyldnerkaution 
+i henhold til ovennævnte bekendtgørelser (eller senere regulering, der måtte afløse disse).
+
+--- Page 20 ---
+Page 20 of 62 
+ 
+Obligationsejerne kan ikke gøre misligholdelsesvirkning vedrørende Obligationer omfattet af statsga-
+ranti gældende, i det omfang den danske stat har overtaget forfaldne forpligtelser. 
+ 
+4.5 Balanceprincip 
+Realkreditinstitutter skal overholde et balanceprincip og et regelsæt for risikostyring i forbindelse med 
+udstedelse af RO, SDO og SDRO i henhold til Lov om realkreditlån og realkreditobligationer mv.  
+ 
+De nærmere bestemmelser er fastlagt i Bekendtgørelse om obligationsudstedelse, balanceprincip og 
+risikostyring, som er udstedt i medfør af Lov om realkreditlån og realkreditobligationer mv.  
+ 
+Bekendtgørelse om obligationsudstedelse, balanceprincip og risikostyring fastsætter grænser for, hvor 
+store forskelle der må være mellem på den ene side indbetalingerne fra låntagerne (samt penge-
+strømme fra andre tilladte aktiver eller finansielle instrumenter) og på den anden side udbetalingerne 
+til ejerne af Obligationerne (samt andre værdipapirer med privilegeret status og finansielle instrumen-
+ter).  
+ 
+Grænserne reguleres ved fastsættelse af tabsrammer for den rente-, valuta-, options- og likviditetsri-
+siko, der følger af betalingsforskellene.  
+ 
+Bekendtgørelse om obligationsudstedelse, balanceprincip og risikostyring indeholder derudover en 
+række andre bestemmelser om grænser for finansielle risici.  
+ 
+Tilsvarende bestemmelser gælder for realkreditinstituttets egenbeholdning.  
+ 
+Balanceprincippet og risikostyringen tager udgangspunkt i følgende to hovedpunkter:  
+ 
+• 
+Lovgivningens krav til placering af provenuet i godkendte aktiver ved realkreditinstitutters ud-
+stedelse af RO, SDO, SDRO samt andre værdipapirer med privilegeret status udstedt af real-
+kreditinstitutter  
+• 
+Rente-, valuta-, likviditets- og optionsrisici er kun tilladt i et begrænset omfang  
+ 
+Der er dog en række tekniske forhold i forbindelse med realkreditinstituttets udlånsvirksomhed, som 
+medfører, at en række placeringer ikke er omfattet af lovgivningens begrænsning på usikrede fordrin-
+ger på andre kreditinstitutter i forbindelse med udstedelse af RO, SDO og SDRO: 
+  
+• 
+Placering af midler i forbindelse med udbetaling af nye lån og refinansiering, omlægning eller 
+indfrielse af eksisterende lån, hvormed der vil cirkulere Obligationer, for hvilke kreditinstitut-
+tet endnu ikke har pant i fast ejendom (udbetalinger og refinansiering) eller afventer indfrielse 
+af cirkulerende Obligationer (omlægning og indfrielse) 
+• 
+Garantier, der udgør en midlertidig sikkerhedsstillelse i forbindelse med udlån mod pant i fast 
+ejendom, indtil endeligt tinglyst pantebrev foreligger  
+• 
+Egne udstedte Obligationer inden for samme kapitalcenter 
+ 
+Balanceprincippet finder anvendelse på hvert særskilt kapitalcenter og på instituttet som helhed. Real-
+kreditinstituttet kan for hvert kapitalcenter vælge at implementere balanceprincippet enten gennem det 
+overordnede balanceprincip eller gennem det specifikke balanceprincip. Begge principper er nærmere 
+beskrevet nedenfor.  
+4.5.1 Det overordnede balanceprincip 
+Under det overordnede balanceprincip skal nutidsværdien af de fremtidige indbetalinger ind i kapital-
+centret til enhver tid være større end nutidsværdien af de fremtidige udbetalinger ud af kapitalcentret. 
+Rentebetalinger ind i kapitalcentret skal endvidere være større end renteudgifter ud af kapitalcentret
+
+--- Page 21 ---
+Page 21 of 62 
+ 
+over en periode på løbende 12 måneder. Til rentebetalinger ind i kapitalcentret kan medregnes over-
+dækning samt likviditetsplaceringer, såfremt disse er placeret i sikre og likvide værdipapirer. 
+ 
+Realkreditinstitutter må kun tage begrænsede renterisici som følge af forskellene mellem de fremtidige 
+udbetalinger på udstedte Obligationer og finansielle afdækningsinstrumenter på den ene side og de 
+fremtidige indbetalinger fra udlån og finansielle afdækningsinstrumenter på den anden side.  
+ 
+Renterisikoen opgøres som det største tab i nutidsværdien baseret på klart definerede antagelser om 
+ændringer i rentestrukturen. Den opgjorte renterisiko må, afhængig af antagelserne for udviklingen i 
+rentestrukturen, ikke overstige 1 % af solvenskravet for realkreditinstitutter tillagt 2 % af yderligere 
+overdækning eller 5 % af solvenskravet for realkreditinstitutter tillagt 10 % af yderligere overdækning.  
+ 
+Uanset at realkreditinstituttet ikke kan foretage modregning af renterisici hidrørende fra forskellige 
+valutaer, kan realkreditinstituttet modregne renterisiko som følge af betalingsforskelle i euro med ren-
+terisiko som følge af betalingsforskelle i danske kroner med op til 50 % af renterisikoen i den af de to 
+valutaer med den numerisk mindste opgjorte renterisiko. I forbindelse med etablering eller lukning af 
+et kapitalcenter kan renterisikoen uanset grænserne herfor udgøre op til 20 mio. kr.  
+ 
+Renterisikoen på realkreditinstituttets fondsbeholdning må ikke overstige 8 % af realkreditinstituttets 
+basiskapital, jf. § 28 i Bekendtgørelse om obligationsudstedelse, balanceprincip og risikostyring. 
+ 
+Realkreditinstitutter må kun tage begrænsede valutarisici som følge af forskellene mellem de fremti-
+dige udbetalinger på udstedte Obligationer og finansielle afdækningsinstrumenter på den ene side og 
+de fremtidige indbetalinger fra udlån og finansielle afdækningsinstrumenter på den anden side.  
+ 
+Valutakursrisiko opgøres som tabet ved en stigning eller et fald i valutakurserne på 10 % for valutaer 
+tilhørende EU, EØS eller Schweiz og som tabet ved en stigning eller et fald i valutakurser på 50 % for 
+alle øvrige valutaer. Den opgjorte valutakursrisiko må for realkreditinstitutter ikke overstige 10 % af 
+solvenskravet tillagt 10 % af yderligere overdækning for euro samt 1 % af solvenskravet tillagt 1 % af 
+yderligere overdækning for øvrige valutaer. Valutarisikoen på realkreditinstituttets fondsbeholdning 
+må ikke overstige 10 % af realkreditinstituttets basiskapital. 
+ 
+Risici i forbindelse med afdækning af betingede (asymmetriske) fordringer på debitorer samt løbe-
+tidsmismatch mellem betingede (asymmetriske) fordringer på debitorer og afdækkende optioner i et 
+kapitalcenter må alene forekomme i begrænset omfang. Optionsrisikoen måles ved risikoparameteren 
+vega og opgøres som det største tab i nutidsværdien af betalingsforskelle som følge af to forskellige 
+antagelser for udviklingen af volatilitetsstrukturen.  
+ 
+Den opgjorte optionsrisiko må ikke overstige 0,5 % af solvenskravet for realkreditinstitutter tillagt 1 % 
+af yderligere overdækning. Uanset at realkreditinstitutter ikke kan foretage modregning af optionsrisici 
+hidrørende fra forskellige valutaer, kan realkreditinstitutter modregne optionsrisiko som følge af beta-
+lingsforskelle i euro med optionsrisiko som følge af betalingsforskelle i danske kroner med op til 50 % 
+af optionsrisikoen i den af de to valutaer med den numerisk mindste optionsrisiko. 
+4.5.2 Det specifikke balanceprincip  
+Forskellene mellem de fremtidige udbetalinger på udstedte Obligationer og finansielle afdækningsin-
+strumenter og de fremtidige indbetalinger fra udlån, finansielle afdækningsinstrumenter og placeringer 
+skal kunne opgøres på daglig akkumuleret tilbagediskonteret basis for alle fremtidige ind- og udbeta-
+linger. 
+ 
+Et fremtidigt likviditetsunderskud for instituttet som følge af, at udbetalingerne overstiger indbetalin-
+gerne må ikke i forhold til instituttets basiskapital overstige: 
+ 
+• 
+25 % i år 1-3
+
+--- Page 22 ---
+Page 22 of 62 
+ 
+• 
+50 % i år 4-10  
+• 
+100 % fra og med år 11 
+ 
+De enkelte perioder er regnet fra opgørelsestidspunktet. 
+ 
+Renterisikoen, som instituttet påtager sig som følge af de nævnte betalingsforskelle, må højst udgøre et 
+beløb svarende til 1 % af instituttets basiskapital. Betalingsforskelle omfatter ikke betalingsoverskud 
+som følge af, at debitor betaler sine ydelser eller dele heraf på et tidligere tidspunkt end instituttets be-
+talinger til ejerne af de bagvedliggende Obligationer, når kunden ikke har krav på en kompenserende 
+betaling herfor.  
+ 
+I forbindelse med etablering af et kapitalcenter kan renterisikoen uanset grænserne herfor udgøre op til 
+20 mio. kr. Renterisikoen på instituttets fondsbeholdning må ikke overstige 8 % af instituttets basiska-
+pital. 
+ 
+Valutakursrisikoen på instituttets aktiver, passiver og ikke-balanceførte poster må maksimalt udgøre 
+0,1 % af instituttets basiskapital. Valutakursrisikoen opgøres ved anvendelse af valutakursindikator 2. 
+ 
+Indekslån skal finansieres i indeksobligationer, og konverterbare lån skal finansieres i konverterbare 
+obligationer. 
+ 
+4.6 Regler om placering af egenbeholdning  
+I henhold til § 153 i Lov om finansiel virksomhed skal et realkreditinstitut mindst have anbragt midler i 
+nedenstående aktiver i et omfang, der svarer til 60 % af kravet til realkreditinstituttets basiskapital med 
+tillæg af midler i serier med tilbagebetalingspligt, der ikke medtages i basiskapitalen: 
+  
+• 
+Indskud i centralbanker i zone A 
+• 
+Obligationer og gældsbreve udstedt af eller garanteret af regeringer eller regionale myndighe-
+der i zone A 
+• 
+RO, SDO og SDRO samt andre Obligationer udstedt af et kreditinstitut i et land inden for Den 
+Europæiske Union eller et land, som Fællesskabet har indgået aftale med på det finansielle 
+område, som frembyder tilsvarende sikkerhed  
+ 
+Ifølge Lov om finansiel virksomhed vil opgørelsen af Realkredit Danmark A/S’ basiskapital blive fra-
+trukket et beløb svarende til den kapitalandel, Realkredit Danmark A/S har i kreditinstitutter, fonds-
+mæglerselskaber og investeringsforeninger, der overstiger 10 % af kapitalandelen i de nævnte virk-
+somheder. Derudover vil opgørelsen af basiskapitalen blive fratrukket et beløb svarende til 15 % af 
+kapitalandelen i en anden virksomhed eller virksomheder i samme koncern. 
+ 
+Et realkreditinstitut må ikke eje fast ejendom eller have ejerandele i ejendomsselskaber for et beløb 
+svarende til mere end 20 % af instituttets basiskapital. Ejendomme som et realkreditinstitut har erhver-
+vet for derfra at drive realkreditvirksomhed, pengeinstitutvirksomhed eller forsikringsvirksomhed er 
+dog ikke omfattet af bestemmelsen.  
+ 
+4.7 Regler om kapitaldækning  
+De lovgivningsmæssige rammer for kapitalstyring findes i CRR, som blandt andet består af tre søjler: 
+ 
+• 
+Søjle I indeholder et regelsæt for opgørelse af kapitalkravet, som udgør 8 % af risikoekspone-
+ringen for kredit-, markeds- og operationel risiko 
+• 
+Søjle II beskriver rammerne for ICAAP (Internal Capital Adequacy Assessment Process) og 
+tilsynsprocessen. I ICAAP fastlægges det individuelle solvensbehov
+
+--- Page 23 ---
+Page 23 of 62 
+ 
+• 
+Søjle III omhandler markedsdisciplin og stiller krav til de oplysninger, der skal gives om ri-
+siko- og kapitalstyring samt individuelt solvensbehov  
+ 
+Regler om individuelt solvensbehov 
+I henhold til et særligt krav i dansk lovgivning skal realkreditinstitutter hvert kvartal offentliggøre det 
+individuelle solvensbehov. Det individuelle solvensbehov er det kapitalbehov, der vurderes at være 
+tilstrækkeligt til at dække koncernens risici. Opgørelsen af det individuelle solvensbehov tager ud-
+gangspunkt i behovet under søjle I med tillæg for behov under søjle II. Under søjle II tages højde for 
+eventuel usikkerhed ved risikomodellerne, og der inddrages løbende kvalitative vurderinger af, om ka-
+pitalniveauet er tilstrækkeligt til at dække koncernens risici. 
+ 
+Regler om gearingsrisiko 
+CRR/CRD IV indeholder krav om, at kreditinstitutter skal beregne, rapportere og overvåge deres leve-
+rage ratio, der defineres som kernekapital i procent af den samlede eksponering.  
+ 
+Kapitaldækning i kapitalcentrene 
+Realkreditinstitutter skal have en ansvarlig kapital, som udgør mindst 8 % af de risikovægtede aktiver 
+(dog mindst 5 mio. euro). Kravet gælder både for realkreditinstituttet som helhed og for de enkelte ka-
+pitalcentre hos realkreditinstituttet. 
+ 
+I tilfælde af, at et kapitalcenter ikke kan leve op til kapitaldækningskravet, skal der overføres midler 
+fra ’instituttet i øvrigt’, dog ikke hvis ’instituttet i øvrigt’ som følge deraf ikke selv kan leve op til kra-
+vet om 8 % i ansvarlig kapital. Overskydende kapital kan overføres fra de enkelte kapitalcentre til ka-
+pitalcentret ’instituttet i øvrigt’.  
+ 
+4.8 Likviditetsregler 
+CRR/CRD IV-reglerne indeholder også likviditetsregler i form af Liquidity Coverage Ratio (LCR) og 
+Net Stable Funding Ratio (NSFR).  
+ 
+EU-Kommissionen offentliggjorde i oktober 2014 de endelige likviditetsregler for kreditinstitutter, der 
+implementerede LCR. Det betyder blandt andet, at særligt likvide RO, SDO og SDRO med en volu-
+men på mere end 500 mio. euro må udgøre op til 70 % af kreditinstitutters likviditetsbuffer, mens li-
+kvide RO, SDO og SDRO med en volumen på mere end 250 mio. euro må udgøre op til 40 %. De re-
+sterende 30 % skal udgøres af statsobligationer, indskudsbeviser eller kontanter. LCR indføres fra 1. 
+oktober 2015, mens NSFR tidligst forventes at blive et krav fra 2018. 
+ 
+4.9 Regler om supplerende sikkerhedsstillelse  
+Hvis værdien af de aktiver, der dækker de udstedte SDRO, ikke længere mindst svarer til værdien af 
+de udstedte SDRO eller ikke overholder lånegrænserne herfor, skal realkreditinstituttet straks stille 
+supplerende sikkerhed til opfyldelse af kravet samt give Finanstilsynet meddelelse herom. Supple-
+rende sikkerhed skal stilles i form af sikre og likvide værdipapirer. 
+ 
+Følgende aktivtyper kan indgå som supplerende sikkerhed for SDO og SDRO: 
+  
+• 
+Lån sikret ved registreret pant i fast ejendom, herunder også mod midlertidig sikkerhed  
+• 
+Obligationer og gældsbreve udstedt eller garanteret af offentlige myndigheder og centralban-
+ker  
+• 
+Obligationer, gældsbreve samt andre fordringer og garantier udstedt af kreditinstitutter, dog 
+højest med en værdi svarende til nominelt 15 % af udsteders SDRO. Denne begrænsning om-
+fatter tillige engagementer i finansielle afdækningsinstrumenter med kreditinstitutter som 
+modpart. Egne Obligationer fra samme kapitalcenter indgår ikke i grænsen på 15 %
+
+--- Page 24 ---
+Page 24 of 62 
+ 
+Begrænsningen på 15 % omfatter ifølge § 4 i Bekendtgørelse om obligationsudstedelse, balanceprin-
+cip og risikostyring ikke visse nærmere angivne placeringer. 
+ 
+Hvis realkreditinstituttet ikke stiller supplerende sikkerhed, mister alle SDRO udstedt i det pågæl-
+dende kapitalcenter betegnelsen SDRO. Obligationer, der mister betegnelsen SDRO, kan betegnes 
+RO, hvis de opfylder lovgivningens krav til RO på tidspunktet for afgivelse af tilbud på lån. Hvis Ob-
+ligationerne efterfølgende på ny opfylder kravene til SDRO, kan Finanstilsynet tillade, at Obligatio-
+nerne på ny betegnes SDRO.  Kravet om supplerende sikkerhedsstillelse gælder ikke for lån, der er 
+finansieret med RO. 
+ 
+4.10 Regler om forlængelse af Obligationer  
+I medfør af Lov om realkreditlån og realkreditobligationer m.v. samt den med hjemmel heri udstedte 
+Bekendtgørelse om refinansiering af rentetilpasningslån, gælder der i visse særlige situationer regler 
+om lovbestemt refinansiering for Obligationer, der bruges til finansiering af realkreditlån, hvor løbeti-
+den på disse Obligationer er kortere end det til Obligationerne svarende realkreditlån. 
+ 
+I henhold til § 6 i Lov om realkreditlån og realkreditobligationer mv. skal realkreditinstitutter fastsætte 
+retningslinjer for, hvad realkreditinstitutterne skal gøre i den helt særlige situation, hvor en refinansie-
+ring enten ikke kan gennemføres på markedsvilkår som følge af manglende aftagere til Obligationerne, 
+eller hvor den effektive rente i forbindelse med en refinansiering bliver højere end den forlængelses-
+rente, som Realkredit Danmark A/S fastsætter i henhold til § 6 i Lov om realkreditlån og realkreditob-
+ligationer mv. for Obligationer, som kan forlænges.  
+ 
+For Obligationer som er variabelt forrentede og er omfattet af § 6 i Lov om realkreditlån og realkredit-
+obligationer mv. gælder, at renten ved rentefastsættelsen ikke kan blive mere end 5 procentpoint hø-
+jere end den senest fastsatte rente. I givet fald skal denne rente forblive uændret i 12 måneder eller 
+frem til næste refinansiering, medmindre der fastsættes en lavere rente inden for de 12 måneder eller 
+inden næste refinansiering. 
+ 
+I henhold til § 6 i Lov om realkreditlån og realkreditobligationer mv. kan Realkredit Danmark A/S 
+træffe beslutning om, at Obligationerne i en ISIN-kode helt eller delvist forlænges med 12 måneder fra 
+Obligationernes ordinære udløbsdato. 
+ 
+Realkredit Danmark A/S kan træffe beslutning om forlængelse, hvis Realkredit Danmark A/S i forbin-
+delse med en refinansiering ikke har en berettiget forventning om, at salget kan gennemføres, uden at 
+den effektive rente bliver 5 % højere end den effektive rente på en tilsvarende obligation med samme 
+restløbetid fra 11 til og med 14 måneder tidligere. Kravet om berettiget forventning gælder dog ikke, 
+hvis Realkredit Danmark A/S gennemfører et salg af en mindre mængde obligationer med henblik på 
+at afklare, om den effektive rente bliver 5 % højere end den effektive rente på en tilsvarende obligation 
+med samme restløbetid fra 11 til og med 14 måneder tidligere. 
+ 
+Såfremt der ikke er aftagere til alle de nødvendige nye Obligationer ved en refinansiering, kan løbetiden 
+forlænges på de pågældende Obligationer med 12 måneder ad gangen, indtil der kan gennemføres refi-
+nansiering, hvor der er aftagere til alle de nødvendige nye Obligationer. 
+ 
+Ved refinansiering af lån hvor løbetiden på de bagvedliggende Obligationer er mere end 12 måneder, 
+kan Realkredit Danmark A/S forud for en eventuel forlængelse forsøge at refinansiere lånene med Ob-
+ligationer med en kortere løbetid.  
+ 
+Forlængelsesrenten på Obligationer, som kan forlænges, fastsættes af Realkredit Danmark A/S i hen-
+hold til § 6 i Lov om realkreditlån og realkreditobligationer mv. og offentliggøres på Realkredit Dan-
+mark A/S’ hjemmeside på www.rd.dk/Investor og ved selskabsmeddelelse og vil træde i kraft første
+
+--- Page 25 ---
+Page 25 of 62 
+ 
+gang Obligationerne forlænges. Ved yderligere forlængelser af løbetiden finder denne rente fortsat an-
+vendelse. 
+ 
+4.11 Regler om ret til at optage lån 
+Realkreditinstitutter, der har fået tilladelse til at udstede SDO eller SDRO, kan i henhold til § 15 i Lov 
+om realkreditlån og realkreditobligationer mv. optage lån til brug for at opfylde krav om at stille sup-
+plerende sikkerhed eller øge overdækningen i et kapitalcenter.  
+ 
+Lån optaget til brug herfor vil blive optaget i henhold til et selvstændigt prospekt og er ikke omfattet af 
+nærværende Basisprospekt. Det skal fremgå af låneaftalen, hvilket kapitalcenter lånemidlerne kan hen-
+føres til. Lånemidlerne skal placeres i sikre og likvide aktiver.   
+ 
+Aktiverne skal fra det tidspunkt, hvor lånet optages, placeres på en særskilt konto i et særskilt depot 
+eller på anden måde mærkes som hidrørende fra det pågældende lån. Når aktiverne anvendes som sup-
+plerende sikkerhed, skal de indgå i det pågældende kapitalcenter. 
+ 
+4.12 Regler om genopretning og afvikling af kreditinstitutter 
+Europa-Parlamentets og Rådets direktiv 2014/59/EU af 15/05/2014 (BRRD) indeholder et regelsæt for 
+genopretning og afvikling af kreditinstitutter og investeringsselskaber. Formålet med BRRD er at 
+sikre, at et nødlidende instituts kritiske funktioner kan videreføres, og at undgå afsmittende effekter på 
+det finansielle system samt at undgå, at det offentlige skal bidrage til afvikling af et nødlidende insti-
+tut.  
+ 
+Reguleringen af institutter i going concern sker i henhold til Lov om finansiel virksomhed, og Finans-
+tilsynet er den kompetente myndighed. Hvis et institut tages under afvikling, følges reglerne i Afvik-
+lingsloven, og Finansiel Stabilitet bliver den kompetente "myndighed". 
+ 
+Følgende er hovedpunkterne: 
+ 
+• 
+Alle realkreditinstitutter skal udarbejde og vedligeholde en plan for, hvordan en hastig forværring 
+af instituttets finansielle situation imødegås ("genopretningsplan"). Planen skal opdateres mini-
+mum hvert år.  
+• 
+Finansiel Stabilitet og Finanstilsynet skal udarbejde en plan for alle danske institutter for, hvordan 
+de skal afvikles, hvis de bliver nødlidende ("afviklingsplan"). De enkelte institutter skal levere re-
+levante oplysninger til brug herfor.  
+• 
+Alle institutter skal i 2015-2024 foretage indbetalinger til en afviklingsformue, der kan bidrage 
+ved afvikling af et nødlidende institut. 
+• 
+Alle realkreditinstitutter skal have en gældsbuffer beregnet på baggrund af instituttets samlede 
+uvægtede udlån. Gældsbuffer kan opfyldes med overskydende kapital.  
+• 
+I tilfælde af væsentligt forværrede forhold for et institut, kan Finanstilsynet kræve, at instituttet 
+iværksætter relevante tiltag ("early intervention"). 
+• 
+I tilfælde af, at et institut tages under afvikling, skal Finansiel Stabilitet nedskrive eller konvertere 
+relevante kapitalinstrumenter i instituttet til egentlige kernekapitalinstrumenter, når betingelserne 
+for afvikling er opfyldt. Herefter kan Finansiel Stabilitet anvende følgende afviklingsværktøjer: 
+• 
+salg af alle eller visse af aktierne eller instituttets aktiver eller forpligtelser til en tredjemand  
+• 
+overdragelse til et midlertidigt statsejet selskab  
+• 
+overdragelse til et porteføljeadministrationsselskab, og/eller  
+• 
+nedskrivning/konvertering ("bail-in") af forpligtelser, hvilket realkreditinstitutter dog eksplicit 
+er undtaget fra. 
+• 
+Konkursordenen ændres, således at indskud fra private og SMV'er, der ikke er dækket iht. Garan-
+tifondsloven, og Garantifondens (regres)krav, bliver foranstillet ift. almindelige usikrede krav.
+
+--- Page 26 ---
+Page 26 of 62 
+ 
+ 
+4.13 Restancer 
+Såfremt betalingerne på et realkreditlån ikke falder rettidigt, har instituttet mulighed for at gennemføre 
+en tvangsauktion for at rejse midler til betaling. I perioden hvor låntager ikke betaler ydelser på sit re-
+alkreditlån, betaler instituttet Obligationsejeren, så længe der er midler i kapitalcentret. 
+ 
+4.14 Konkurs 
+Bliver et realkreditinstitut insolvent, kan Finanstilsynet indgive konkursbegæring. Efter afsigelse af 
+konkursdekret kan der ikke ske overførsel af midler mellem kapitalcentre og instituttet i øvrigt. Det 
+beløb indehavere af RO og SDRO samt andre værdipapirer har fortrinsret til, udgøres af et kapitalcen-
+ters til enhver tid værende aktiver opgjort efter fordeling af indtægter og udgifter. 
+ 
+Erklæres instituttet konkurs, anvendes midler i kapitalcentre opgjort efter fradrag af udgifter til kon-
+kursboets behandling og lignende, herunder udgifter til kurator, personale m.v., til betaling af krav fra 
+indehavere af RO og SDRO samt andre værdipapirer. Herefter dækkes den gæld, som realkreditinsti-
+tuttet har optaget til brug for at stille supplerende sikkerhed, jf. § 27 i Lov om realkreditlån og realkre-
+ditobligationer m.v. i det pågældende kapitalcenter samt krav på de fra konkursdekretets afsigelse på-
+løbne renter på de nævnte fordringer. Overskydende midler indgår herefter i konkursmassen, jf. Kon-
+kurslovens § 32. 
+ 
+Finansielle instrumenter må alene medregnes som aktiver eller passiver i et kapitalcenter, hvis de an-
+vendes til at afdække risici mellem aktiver vedrørende på den ene side kapitalcentret og på den anden 
+side de udstedte Obligationer, og hvis det i aftalen om det finansielle instrument er bestemt, at realkre-
+ditinstituttets betalingsstandsning, konkurs eller manglende overholdelse af pligten til at stille supple-
+rende sikkerhed ikke er misligholdelsesgrund. Erklæres et realkreditinstitut konkurs, sidestilles mod-
+parter på de finansielle instrumenter indgået til afdækning af risici i et kapitalcenter med Obligations-
+ejerne. 
+ 
+Konkursboet kan ikke erlægge en ydelse til opfyldelse af krav fra indehavere af Obligationer og andre 
+værdipapirer på et tidligere tidspunkt, end realkreditinstituttet var berettiget til at frigøre sig ved erlæg-
+gelse af ydelsen. Kurator skal i videst muligt omfang ved udførelsen af sit hverv fortsætte eller genop-
+tage honoreringen af realkreditinstituttets forpligtelser i form af renter og afdrag over for indehavere af 
+Obligationer og andre værdipapirer i de enkelte kapitalcentre. I det omfang der ikke er tilstrækkelige 
+midler, betales renter over for indehavere af RO, SDO og SDRO samt andre værdipapirer, før udtræk-
+ninger foretages. 
+ 
+Kurator kan udstede refinansieringsobligationer til erstatning af udløbne Obligationer i en Obligations-
+serie. Såfremt rekonstruktør eller kurator ikke må udstede refinansieringsobligationer, eller hvis der 
+ikke er tilstrækkelig med aftagere til alle de nødvendige nye Obligationer, forlænges løbetiden på de 
+pågældende Obligationer med 1 år ad gangen. Rekonstruktøren eller kurator fastsætter renten på de 
+forlængede Obligationer til en variabel referencerente tillagt op til 5 procentpoint. 
+ 
+Hvis Obligationer forlænges som følge af, at det i forbindelse med refinansiering konstateres, at der 
+ikke er tilstrækkelig med aftagere til alle de nødvendige nye Obligationer, skal løbetiden for lån opta-
+get som ekstra sikkerhed i medfør af § 15, der ordinært forfalder i forlængelsen, og som er knyttet til 
+de Obligationer, der forlænges, forlænges svarende til løbetiden på de pågældende forlængede Obliga-
+tioner.
+
+--- Page 27 ---
+Page 27 of 62 
+ 
+4.15 Covered Bond Direktiv 
+27. november 2019 blev der vedtaget et nyt Covered Bond Direktiv (EU 2019/2162) samt en ny Co-
+vered Bond Forordning (EU 2019/2160), som fremover skal skabe rammerne for EU-harmoniserede 
+”European Covered Bonds”. Direktivet skal være implementeret i de nationale lovgivninger senest 8. 
+juli 2021, og reglerne finder herefter anvendelse senest 8. juli 2022. 
+ 
+Den kommende EU-regulering viderefører i vid udstrækning den danske regulering af Særligt Dæk-
+kede Obligationer, Særligt Dækkede Realkreditobligationer og Realkreditobligationer.  
+ 
+Direktivet specificerer kerneelementerne for Covered bonds og bliver fundamentet for reguleringen af 
+Covered Bonds i anden EU-regulering. Direktivet fastlægger, hvilke typer aktiver der kan ligge til sik-
+kerhed for Covered Bonds, og de grundlæggende egenskaber ved Covered Bonds. Det omfatter bl.a., 
+at investorer i tilfælde af konkurs skal kunne rette deres krav både mod de aktiver, som ligger til sik-
+kerhed for lånet, og udsteder ("dual recourse"). Andre elementer er bl.a. brugen af derivater, løbetids-
+forlængelse af covered bonds, krav om overdækning, likviditetsbuffer, krav til gennemsigtighed og 
+særligt offentligt tilsyn med udstedere af Covered bonds. 
+ 
+Obligationer udstedt før den nye EU-regulering finder anvendelse, er omfattet af overgangsbestem-
+melser, således at de kan bevare deres status som Covered Bonds under den nye regulering. Det er 
+alene Obligationer udstedt efter reguleringen finder anvendelse, der er omfattet af de nye regler. 
+ 
+Det er stadig usikkert, om og i givet fald i hvilket omfang den nye regulering vil påvirke Realkredit 
+Danmarks udstedelse af Obligationer, herunder udstedelsesomfanget i de enkelte fondskoder.
+
+--- Page 28 ---
+Page 28 of 62 
+ 
+5. Andre regler  
+ 
+Herunder beskrives regler, som udsteder skal overholde af hensyn til øvrige interessenter. 
+ 
+5.1 Udelukkelse af Asset-backed securities i sikkerhedsgrundlaget 
+Ifølge European Central Bank’s (”ECB”) regler må sikkerhedspuljen for RO, SDO og SDRO ikke in-
+deholde asset-backed securities (”ABS’er”), med undtagelse af ABS’er, som:  
+• 
+opfylder kravene i CRR vedrørende ABS’er i sikkerhedspuljen  
+• 
+hidrører fra et medlem af den samme koncern som udstederen af RO, SDO og SDRO eller en 
+enhed, der er tilknyttet den samme organisation, institution eller myndighed som udstederen af 
+Obligationerne, og  
+• 
+anvendes som et teknisk værktøj til at overføre pant i fast ejendom eller garanterede lån med 
+pant i fast ejendom fra den enhed, som de hidrører fra, til sikkerhed for de relevante Obligatio-
+ner.  
+ 
+I forbindelse med retsgrundlaget for Eurosystemets pengepolitik anses RO, SDO og SDRO ikke for 
+ABS’er.  
+ 
+Realkredit Danmark A/S vil til enhver tid sikre, at ABS’er, som ikke opfylder ECB’s krav, ikke an-
+vendes som sikkerhed for Obligationerne. 
+ 
+5.2 Realkredit Danmark A/S’ konti i pengeinstitutter 
+Kreditvurderingsbureauet Standard & Poor’s stiller krav om en såkaldt modpartsrating, hvorved 
+forstås, at konti skal føres af pengeinstitutter med en rating på mindst BBB/A-2 hos Standard & 
+Poor’s, forudsat at dag-til-dag indestående på kontiene i det enkelte pengeinstitut ikke overstiger 5 % 
+af kapitalcentrets balance. Hvis det kontoførende pengeinstituts rating hos Standard & Poor’s 
+nedgraderes til mindre end BBB/A-2 eller ophører, vil Realkredit Danmark A/S inden for 30 dage 
+tage, hvad der må anses for forretningsmæssigt rimelige skridt til at udskifte det kontoførende 
+pengeinstitut med et pengeinstitut, der opfylder ratingkriterierne (udskiftning).  
+ 
+Såfremt dag-til-dag indestående på kontiene i det enkelte pengeinstitut overstiger 5 %, skal det 
+kontoførende pengeinstitut have en rating hos Standard & Poor’s på mindst A/A-1. Hvis 
+pengeinstituttets rating hos Standard & Poor’s nedgraderes til mindre end A/A-1 eller ophører, skal 
+Realkredit Danmark A/S inden for 60 dage tage, hvad der må anses for forretningsmæssigt rimelige 
+skridt til at udskifte det kontoførende pengeinstitut med et pengeinstitut, der opfylder ratingkriterierne 
+(udskiftning). I tilfælde af udskiftning vil alle fremtidige indbetalinger blive overført til de nye konti. 
+Hvis nye betalingsinstrukser til Obligationsejerne er nødvendige, underretter Realkredit Danmark A/S 
+Obligationsejerne herom. 
+ 
+Uanset disse bestemmelser har Realkredit Danmark A/S mulighed for at have indestående på konti i 
+pengeinstitutter, der ikke har en rating hos Standard & Poor’s, inden for en beløbsramme på DKK 100 
+mio. for hvert enkelt pengeinstitut og DKK 250 mio. i alt.
+
+--- Page 29 ---
+Page 29 of 62 
+ 
+6. Registreringsdokument  
+ 
+For nummereringen henvises til bilag 6 i Kommissionens delegerede forordning (EU) 2019/980. 
+ 
+1. 
+Ansvarlige personer, tredjepartsoplysninger, ekspertrapport og godken-
+delse fra de kompetente myndigheder 
+ 
+1.1 
+Der henvises til Ansvarserklæringen i kapitel 2. 
+ 
+1.2 
+Der henvises til Ansvarserklæringen i kapitel 2.  
+ 
+1.3  
+Basisprospektet indeholder ikke udtalelser eller rapporter fra eksterne eksperter.  
+ 
+1.4  
+Basisprospektet indeholder ikke oplysninger fra tredjemand. 
+ 
+1.5 
+Der henvises til Ansvarserklæringen i kapitel 2.  
+ 
+2. 
+Revisorer 
+ 
+2.1 
+Realkredit Danmark A/S’ revisorer er: 
+• 
+Statsautoriseret revisor Erik Holst Jørgensen, MNE nr. 9943 
+• 
+Statsautoriseret revisor Jens Ringbæk, MNE nr. 27735 - begge 
+ 
+Deloitte Statsautoriseret Revisionspartnerselskab 
+Weidekampsgade 6 
+2300 København S 
+ 
+Realkredit Danmark A/S’ valgte revisor er medlem af FSR. 
+ 
+Realkredit Danmark A/S benytter samme revisor som Danske Bank A/S, jf. Lov om fi-
+nansiel virksomhed m.v. med tilhørende bekendtgørelser. 
+ 
+Realkredit Danmark A/S er endvidere underlagt intern revision af Audit Department, 
+som er en del af Danske Bank A/S. Audit Departments forretningsadresse er: 
+ 
+Audit Department 
+Dalbergstrøget 17 
+DK-2630 Høje Taastrup 
+ 
+Revisionschefen er Dorthe Tolborg. 
+ 
+2.2 
+På Realkredit Danmark A/S’ seneste generalforsamling den 3. marts 2021 blev Delo-
+itte Statsautoriseret Revisionspartnerselskab igen valgt for en 1-årig periode som Real-
+kredit Danmark A/S’ revisor. 
+ 
+3. 
+ 
+Risikofaktorer 
+ 
+ 
+For oplysninger om risikofaktorer, der kan påvirke Realkredit Danmark A/S evne til at 
+opfylde sine forpligtelser i forbindelse med obligationerne, henvises til kapitel 3 Risi-
+kofaktorer i dette basisprospekt.
+
+--- Page 30 ---
+Page 30 of 62 
+ 
+ 
+4. 
+Oplysninger om Realkredit Danmark A/S 
+ 
+4.1 
+Realkredit Danmark A/S’ historie og udvikling 
+ 
+4.1.1 
+Realkredit Danmark A/S har binavnene Den Danske Kreditforening A/S, Kredit Dan-
+mark A/S, Sanaartornermi Taarsigassasisarfik (Grønlands Kreditforening A/S), Mort-
+gage Credit Association Denmark, Mortgage Credit Denmark, Dänisches Bodenkredit-
+institut, Grundejernes Hypotekforening, Husmandshypothekforeningen for Danmark, 
+Jydsk Grundejer-Kreditforening, Ny jydske Kjøbstad-Creditforening, Ny Jysk Grund-
+ejer Kreditforening, Provinshypotekforeningen for Danmark, Østifternes Kreditfor-
+ening, Østifternes Land-Hypothekforening, Kreditforeningen Danmark, BG Kredit 
+A/S, Danske Kredit Realkreditaktieselskab, Mæglerservice Danmark A/S, RealDan-
+mark Holding A/S, E-Boligdanmark A/S, KD Ejendomsservice A/S, Ejendomsservice 
+Danmark A/S, RD A/S og Boligkredit Danmark A/S. 
+ 
+4.1.2 
+Realkredit Danmark A/S’ registrerede hjemsted er Københavns Kommune. 
+Realkredit Danmark A/S’ CVR-nummer er 13 39 91 74. 
+Realkredit Danmark A/S LEI-kode er 549300NLOMBOWE943Y30 
+ 
+4.1.3 
+Selskabet påbegyndte realkreditvirksomhed i 1851 under navnet Østifternes Kreditfor-
+ening. I 1972 fusionerede Østifternes Kreditforening med en række andre kredit- og 
+hypotekforeninger og dannede Kreditforeningen Danmark.  
+ 
+Den 1. januar 1993 blev Kreditforeningen Danmark omdannet til et aktieselskab under 
+navnet Realkredit Danmark A/S. I den forbindelse blev Kreditforeningen Danmarks 
+aktiver og gæld overdraget til det af Foreningen fuldt ud ejede holdingselskab KD Hol-
+ding A/S og derfra videreoverdraget til det af holdingselskabet helejede datterselskab 
+Realkredit Danmark A/S. KD Holding A/S ændrede senere navn til RealDanmark Hol-
+ding A/S.  
+ 
+I 1998 etablerede Realkredit Danmark A/S datterselskabet BG Kredit A/S i fællesskab 
+med BG Bank A/S. Samme år fusionerede Realkredit Danmark A/S’ eneaktionær Re-
+alDanmark Holding A/S og BG Bank A/S (BG Holding A/S) og dannede i den forbin-
+delse det fortsættende holdingselskab Kapital Holding A/S. Kapital Holding A/S æn-
+drede efterfølgende navn til RealDanmark A/S. 
+ 
+I 2001 fusionerede Realkredit Danmark A/S med Danske Kredit A/S og BG Kredit 
+A/S som følge af fusionen mellem Danske Bank A/S og RealDanmark A/S. Realkredit 
+Danmark A/S er det fortsættende realkreditinstitut i Danske Bank-koncernen. 
+ 
+4.1.4 
+Realkredit Danmark A/S har domicil i København. Realkredit Danmark A/S er et ak-
+tieselskab, som er et 100 % ejet datterselskab af Danske Bank A/S. Realkredit Dan-
+mark A/S er undergivet dansk lovgivning og er registreret i Danmark. Realkredit Dan-
+mark A/S’ adresse og telefonnummer for det registrerede kontor er: 
+ 
+Realkredit Danmark A/S 
+Lersø Parkallé 100 
+DK - 2100 København Ø 
+Hjemmeside: www.rd.dk 
+E-mail: rd@rd.dk 
+Telefon: +45 70 12 53 00
+
+--- Page 31 ---
+Page 31 of 62 
+ 
+Udsteders hjemmeside www.rd.dk indeholder blandt andet udsteders seneste delårs- og 
+årsrapporter samt selskabsmeddelelser. Oplysninger på hjemmesiden udgør ikke en del 
+af Basisprospektet, medmindre oplysningerne er integreret ved henvisning.  
+ 
+4.1.5 
+På datoen for dette Basisprospekt er der ikke indtruffet begivenheder, som er væsent-
+lige ved bedømmelsen af Realkredit Danmark A/S’ solvens siden den af Realkredit 
+Danmark A/S offentliggjorte delårsrapport for 1. kvartal 2021.   
+ 
+For aktuel status på Realkredit Danmarks forventninger til det kommende års resultat 
+og/eller Realkredit Danmarks finansielle stilling henvises til seneste års- eller delårs-
+rapport samt eventuelle selskabsmeddelelser vedrørende ændrede forventninger.  
+ 
+4.1.6 
+ 
+Kreditvurderingsbureauerne S & P Global (S&P), Fitch Ratings (Fitch) og Scope Ra-
+tings (Scope) er etableret i Fællesskabet og registreret i henhold til Forordning 
+1060/2009 om kreditvurderingsbureauerne artikel 4.1. 
+ 
+På datoen for dette Basisprospekt er Realkredit Danmark A/S og Obligationer udstedt 
+under dette Basisprospekt tildelt følgende ratings: 
+ 
+Rating 
+S&P 
+Fitch 
+Scope 
+Kapitalcenter S 
+AAA 
+AAA 
+AAA 
+Kapitalcenter T 
+AAA 
+AAA 
+AAA 
+Kapitalcenter Instituttet i 
+Øvrigt 
+AAA 
+Ikke rated 
+Ikke rated 
+Udstederrating lang 
+Ikke rated 
+A 
+A+ 
+Udstederrating kort 
+Ikke rated 
+F1 
+S-1+ 
+ 
+Udsteder ratingen fra Fitch er med ”stable outlook”.  
+ 
+Realkredit Danmark A/S gør opmærksom på, at ratingen kan ændres, og at Realkredit 
+Danmark A/S også kan vælge at opsige samarbejdet om ratings med et eller flere kre-
+ditvurderingsbureauer eller vælge andre kreditvurderingsbureauer.  
+ 
+Ratingen af Udsteder og obligationerne bidrager til at belyse de risici som, der karakte-
+riserer Udsteders forretningsmodel.   
+ 
+4.1.7 
+ 
+ 
+Der er ingen væsentlige ændringer i Realkredit Danmark A/S lånebehov og finansie-
+ringsstruktur siden den af Realkredit Danmark A/S offentliggjorte delårsrapport for 1. 
+kvartal 2021. 
+ 
+For aktuel status på Realkredit Danmarks forventninger til det kommende års resultat 
+og/eller Realkredit Danmarks finansielle stilling henvises til seneste års- eller delårs-
+rapport samt eventuelle selskabsmeddelelser vedrørende ændrede forventninger.  
+ 
+4.1.8 
+Udsteder forventer fortsat at finansiere sine udlånsaktiviteter gennem udstedelse af ob-
+ligationer. 
+ 
+5. 
+Forretningsoversigt 
+ 
+5.1 
+Hovedvirksomhed 
+ 
+5.1.1 
+Realkredit Danmark A/S’ formål er at drive virksomhed som realkreditinstitut, omfat-
+tende enhver virksomhed, som er tilladt efter den til enhver tid gældende lovgivning 
+for realkreditinstitutter.
+
+--- Page 32 ---
+Page 32 of 62 
+ 
+ 
+a) Realkredit Danmark A/S er en del af Danske Bank-koncernen. Det er Realkre-
+dit Danmark A/S’ opgave at sikre, at Realkredit Danmark A/S, Danske Bank 
+A/S og Realkredit Danmark A/S’ datterselskab home a/s kan tilbyde kunderne 
+konkurrencedygtige realkreditprodukter og serviceydelser.  
+b) Realkredit Danmark A/S har ikke lanceret væsentlige nye produkter eller nye 
+former for virksomhed.  
+c) Realkredit Danmark A/S’ væsentligste marked er Danmark. Derudover yder 
+Realkredit Danmark A/S lån mod pant i fast ejendom i Sverige og Norge og i 
+særlige tilfælde på Færøerne og Grønland. Realkredit Danmark A/S’ væsent-
+ligste markeder i Danmark består primært i udlån til ejerboliger og fritidshuse 
+(privatkunder) og udlån til kunder med ejendomme inden for byerhverv, land-
+brug og boligudlejning (erhvervskunder). 
+ 
+5.2 
+Realkredit Danmark A/S forholder sig ikke i Basisprospektet til konkurrencesituatio-
+nen.  
+ 
+6. 
+Organisationsstruktur 
+ 
+6.1 
+Realkredit Danmark A/S er et 100 % ejet datterselskab af Danske Bank A/S. 
+Realkredit Danmark A/S ejer 100 % af datterselskabet home a/s. 
+ 
+6.2 
+ 
+Realkredit Danmark A/S’ produkter og serviceydelser sælges primært gennem Danske 
+Bank-koncernens distributionskanaler. Realkredit Danmark A/S har eget salgskontor 
+til storkunder. 
+ 
+Realkredit Danmark A/S benytter IT-systemer, der udvikles, vedligeholdes og admini-
+streres af Danske Bank A/S. 
+ 
+Realkredit Danmark A/S benytter sig i betydeligt omfang af Danske Bank A/S’ funkti-
+oner, herunder forretningsudvikling, økonomi-, kredit- og back office-funktioner.  
+ 
+7.  
+Trendoplysninger 
+ 
+7.1 
+ 
+Der er på datoen for dette Basisprospekt ikke sket en væsentlig forværring af udsteders 
+fremtidsudsigter eller i udsteders finansielle stilling siden den af Realkredit Danmark 
+A/S offentliggjorte delårsrapport for 1. kvartal 2021. 
+ 
+For aktuel status på Realkredit Danmarks forventninger til det kommende års resultat 
+og/eller Realkredit Danmarks finansielle stilling henvises til seneste års- eller delårs-
+rapport samt eventuelle selskabsmeddelelser vedrørende ændrede forventninger.  
+ 
+7.2 
+ 
+Realkredit Danmark A/S er på datoen for dette Basisprospekt ikke bekendt med ten-
+denser, usikkerhed, krav, forpligtelser eller begivenheder, der med rimelighed kan for-
+ventes at få en væsentlig indflydelse på Realkredit Danmark A/S’ fremtidsudsigter for 
+det igangværende regnskabsår siden den af Realkredit Danmark A/S offentliggjorte de-
+lårsrapport for 1. kvartal 2021. 
+For aktuel status på Realkredit Danmarks forventninger til det kommende års resultat 
+og/eller Realkredit Danmarks finansielle stilling henvises til seneste års- eller delårs-
+rapport samt eventuelle selskabsmeddelelser vedrørende ændrede forventninger.
+
+--- Page 33 ---
+Page 33 of 62 
+ 
+ 
+8. 
+Resultatforventninger eller –prognoser 
+ 
+8.1 
+Realkredit Danmark har i seneste delårsrapport oplyst resultatforventning for 2021 
+men da resultatforventninger eller -prognoser for Realkredit Danmark A/S som ud-
+gangspunkt ikke anses for væsentlige for kursdannelsen på Obligationerne er de derfor 
+ikke medtaget i Basisprospektet.  
+ 
+8.2 
+Der er ikke medtaget resultatforventninger eller prognoser i Basisprospektet. 
+ 
+8.3 
+Der er ikke medtaget resultatforventninger eller prognoser i Basisprospektet. 
+ 
+9. 
+ 
+Bestyrelse, direktion og tilsynsorgan 
+9.1 
+ 
+Medlemmer af bestyrelse og direktion fremgår af kapitel 2.  
+ 
+For yderligere oplysninger om Udsteders bestyrelse og direktionens væsentligste akti-
+viteter, som ikke udføres hos Realkredit Danmark A/S, i det omfang aktiviteterne har 
+betydning for Realkredit Danmark A/S, henvises til seneste årsrapport for Realkredit 
+Danmark A/S samt www.rd.dk og www.danskebank.com, jf. bilag 1.  
+ 
+Forretningsadresse for bestyrelse og direktion i Realkredit Danmark A/S fremgår af 
+punkt 4.1.4. 
+ 
+Realkredit Danmark A/S har et revisionsudvalg i henhold til Bekendtgørelse om revisi-
+onsudvalg i virksomheder samt koncerner, der er underlagt tilsyn af Finanstilsynet. 
+Revisionsudvalget overvåger væsentlige forhold for selskaberne i Realkredit Danmark-
+koncernen. Én gang årligt rapporterer den interne revision i Audit Department til Revi-
+sionsudvalget om effektiviteten i de etablerede rapporteringsprocesser vedrørende 
+regnskabsaflæggelsen og risikostyring i Realkredit Danmark A/S. 
+ 
+Medlemmerne i Revisionsudvalget er: 
+Jesper Koefoed, formand 
+Claus Harder 
+ 
+9.2 
+ 
+Bestyrelse, direktion og tilsynsorganer – interessekonflikter 
+ 
+Realkredit Danmark A/S er ikke bekendt med, at der foreligger interesser og/eller inte-
+ressekonflikter af betydning for udstedelse af Obligationer under dette Basisprospekt. 
+Eventuelle interesser og/eller interessekonflikter, der er væsentlige for Realkredit Dan-
+mark A/S i forbindelse med udstedelsen af Obligationer, vil fremgå af de Endelige Vil-
+kår.  
+ 
+10. 
+Større aktionærer 
+ 
+10.1 
+ 
+Realkredit Danmark A/S er et 100 % ejet datterselskab af Danske Bank A/S. Der er 
+udarbejdet interne procedurer og retningslinjer i Danske Bank-koncernen for at sikre, 
+at Danske Bank A/S’ kontrol med Realkredit Danmark A/S ikke misbruges. 
+ 
+10.2 
+ 
+Realkredit Danmark A/S har på datoen for Basisprospektet ikke kendskab til aftaler, 
+som senere kan medføre, at andre end Danske Bank A/S overtager kontrollen med Re-
+alkredit Danmark A/S.
+
+--- Page 34 ---
+Page 34 of 62 
+ 
+11. 
+Oplysninger om Realkredit Danmark A/S’ aktiver og passiver, finansielle 
+stilling og resultater 
+ 
+11.1 
+ 
+Historiske regnskabsoplysninger 
+ 
+11.1.1 
+ 
+ 
+Reviderede regnskabsoplysninger, herunder status, balance, en resultatopgørelse, en 
+pengestrømsanalyse og anvendte regnskabsprincipper samt noter for de seneste to 
+regnskabsår fremgår af de seneste to årsrapporter. Årsrapporterne er revideret af Real-
+kredit Danmark A/S’ revisor. Årsrapporterne er tilgængelige på Realkredit Danmarks 
+website: rd.dk/om os/regnskaber/arkiv. 
+ 
+11.1.2 
+Regnskabsafslutningsdato er ikke ændret. 
+ 
+11.1.3 
+Realkredit Danmarks koncernregnskab er aflagt i overensstemmelse med International 
+Financial Reporting Standards (IFRS) udstedt af International Accounting Standards 
+Board (IASB) med tilhørende fortolkningsbidrag udstedt af International Financial Re-
+porting Interpretations Committee (IFRIC), som godkendt af EU. Koncernregnskabet 
+opfylder tillige Finanstilsynets bekendtgørelse nr. 1306 af 16. december 2008 om an-
+vendelse af internationale regnskabsstandarder for virksomheder omfattet af lov om fi-
+nansiel virksomhed.  
+ 
+11.1.4 
+Der er ikke ændret i regnskabsrammerne i seneste reviderede årsrapport. 
+ 
+11.1.5 
+Realkredit Danmarks koncernregnskab er aflagt i overensstemmelse med International 
+Financial Reporting Standards (IFRS) udstedt af International Accounting Standards 
+Board (IASB) med tilhørende fortolkningsbidrag udstedt af International Financial Re-
+porting Interpretations Committee (IFRIC), som godkendt af EU. Koncernregnskabet 
+opfylder tillige Finanstilsynets bekendtgørelse nr. 1306 af 16. december 2008 om an-
+vendelse af internationale regnskabsstandarder for virksomheder omfattet af lov om fi-
+nansiel virksomhed.  
+ 
+11.1.6 
+Både Realkredit Danmark A/S’ ikke-konsoliderede og konsoliderede regnskab indgår i 
+det senest reviderede årsregnskab.  
+ 
+11.1.7 
+Det senest reviderede årsregnskab vedrører regnskabsåret 2020. 
+ 
+11.2 
+Midlertidige oplysninger og andre regnskabsoplysninger 
+ 
+11.2.1 
+Det senest reviderede årsregnskab vedrører regnskabsåret 2020. Siden offentliggørel-
+sen heraf har Udsteder udarbejdet delårsrapport for 1. kvartal 2021. Delårsrapporten er 
+ikke revideret.  
+ 
+11.3 
+Revision af historiske årsregnskabsoplysninger 
+ 
+11.3.1 
+ 
+De historiske regnskabsoplysninger er revideret af Realkredit Danmark A/S’ revisor.  
+ 
+11.3.2 
+ 
+Basisprospektet indeholder ikke øvrige reviderede oplysninger ud over årsregnskabs-
+oplysninger. 
+ 
+11.3.3 
+ 
+Det senest reviderede årsregnskab vedrører regnskabsåret 2020. Siden offentliggørel-
+sen heraf har Udsteder udarbejdet delårsrapport for 1. kvartal 2021. Delårsrapporten er 
+ikke revideret.
+
+--- Page 35 ---
+Page 35 of 62 
+ 
+11.4 
+Rets- og voldgiftssager 
+ 
+11.4.1 
+Der er ikke anlagt rets- eller voldgiftssager mod Realkredit Danmark A/S på datoen for 
+Basisprospektet. Realkredit Danmark A/S har ikke oplysninger om eventuelle sager, 
+som muligvis vil blive anlagt mod Realkredit Danmark A/S, som kan få, eller som i 
+den nære fortid har haft væsentlig indflydelse på Realkredit Danmark A/S’ og/eller Re-
+alkredit Danmark A/S’ finansielle stilling eller resultater. 
+ 
+11.5 
+Væsentlige ændringer i Realkredit Danmark A/S’ finansielle stilling 
+ 
+11.5.1 
+Der er på datoen for dette Basisprospekt ingen væsentlige ændringer i Realkredit Dan-
+mark A/S’ finansielle stilling siden den af Realkredit Danmark A/S offentliggjorte de-
+lårsrapport for 1. kvartal 2021. 
+ 
+For aktuel status på Realkredit Danmarks forventninger til det kommende års resultat 
+og/eller Realkredit Danmarks finansielle stilling henvises til seneste års- eller delårs-
+rapport samt eventuelle selskabsmeddelelser vedrørende ændrede forventninger.  
+ 
+12. 
+Yderligere oplysninger 
+ 
+12.1 
+ 
+Aktiekapital 
+For oplysninger om den samlede udstedte aktiekapital henvises til senest offentlig-
+gjorte årsrapport, jf. bilag 1.  
+ 
+12.2. 
+Stiftelsesoverenskomst og selskabsvedtægter 
+Realkredit Danmark A/S er registreret hos Erhvervsstyrelsen med CVR-nummer 13 39 
+91 74. 
+ 
+Realkredit Danmark A/S’ formål er at drive virksomhed som realkreditinstitut, omfat-
+tende enhver virksomhed, som er tilladt efter den til enhver tid gældende lovgivning 
+for realkreditinstitutter, jf. § 2 i Vedtægter for Realkredit Danmark A/S. 
+  
+13. 
+Væsentlige kontrakter 
+ 
+13.1 
+Realkredit Danmark A/S har ikke på datoen for dette Basisprospekt indgået væsentlige 
+kontrakter uden for Realkredit Danmark A/S’ normale virksomhed, som kan medføre, 
+at Realkredit Danmark A/S påtager sig forpligtelser eller erhverver rettigheder, der på-
+virker Realkredit Danmark A/S’ evne til at overholde sine forpligtelser over for Obli-
+gationsejerne, for så vidt angår Obligationerne. 
+ 
+14. 
+Tilgængelige dokumenter 
+  
+14.1  
+Realkredit Danmark A/S’ erklærer, at følgende dokumenter er tilgængelige på 
+www.rd.dk: 
+• 
+Vedtægter for Realkredit Danmark A/S  
+• 
+Realkredit Danmark A/S’ årsrapporter og regnskabsoplysninger, som helt eller 
+delvist indgår i Basisprospektet. home a/s’ regnskab er konsolideret i Realkre-
+dit Danmark A/S’ regnskab. 
+• 
+Selskabsmeddelelser 
+• 
+Links til rating rapporter fra rating bureauer
+
+--- Page 36 ---
+Page 36 of 62 
+ 
+7. Værdipapirnote 
+ 
+For nummereringen henvises til bilag 14 i Kommissionens delegerede forordning (EU) 2019/980. 
+ 
+1. 
+Ansvarlige 
+ 
+1.1 
+Der henvises til Ansvarserklæringen i kapitel 2. 
+ 
+1.2 
+Der henvises til Ansvarserklæringen i kapitel 2.  
+ 
+1.3 
+Basisprospektet indeholder ikke udtalelser eller rapporter fra eksterne eksperter.  
+ 
+1.4 
+Basisprospektet indeholder ikke oplysninger fra tredjemand. 
+ 
+1.5 
+Der henvises til Ansvarserklæringen i kapitel 2. 
+ 
+2. 
+Risikofaktorer 
+ 
+2.1 
+Der henvises til beskrivelsen af risikofaktorer i kapitel 3 Risikofaktorer.  
+ 
+3. 
+Væsentlige oplysninger 
+ 
+3.1 
+ 
+ 
+Realkredit Danmark A/S er ikke bekendt med, at der foreligger interesser og/eller inte-
+ressekonflikter af betydning for udstedelse af Obligationer under dette Basisprospekt. 
+Eventuelle interesser og/eller interessekonflikter, der er væsentlige for Realkredit Dan-
+mark A/S i forbindelse med udstedelsen af Obligationer, vil fremgå af de Endelige Vil-
+kår.  
+ 
+3.2 
+ 
+Obligationerne er udstedt i overensstemmelse med Lov om realkreditlån og realkredit-
+obligationer mv. og § 26 i Bekendtgørelse om obligationsudstedelse, balanceprincip og 
+risikostyring. 
+ 
+Midler fra udstedelse og salg af Obligationer under dette Basisprospekt anvendes til fi-
+nansiering af udlån mod pant i fast ejendom m.v. ydet af Realkredit Danmark A/S. 
+ 
+Ifølge § 26 i Bekendtgørelse om obligationsudstedelse, balanceprincip og risikostyring 
+kan udstedelse af Obligationerne foretages som forhåndsemission af indgåede fastkurs-
+aftaler eller som blokemission på baggrund af en skønnet udlånsaktivitet.  
+ 
+Overskydende midler fra en emission og salg af Obligationer kan i overensstemmelse 
+med realkreditlovgivningen anbringes i sikre og likvide værdipapirer eller pengemar-
+kedsinstrumenter, jf. Bekendtgørelse om obligationsudstedelse, balanceprincip og risi-
+kostyring § 21, stk. 6. Overskydende midler holdes adskilt fra øvrige midler. 
+ 
+Overskydende midler fra en blokemission må, bortset fra i en overgangsperiode, ikke 
+overstige det budgetterede bruttoudlån for de følgende seks måneder i hvert enkelt Ka-
+pitalcenter. Dette gælder ikke blokemissioner, der ud fra et planlagt opkøb foretages 
+med henblik på omlægning af eksisterende funding. Sådanne blokemissioner må ikke 
+have en løbetid på mere end seks måneder, hvorefter der skal ske annullering af eventu-
+elle overskydende Obligationer.
+
+--- Page 37 ---
+Page 37 of 62 
+ 
+ 
+4. 
+Oplysninger om de værdipapirer, der optages til handel 
+ 
+4.1 
+ 
+Realkredit Danmark A/S udsteder Obligationerne i henhold til Lov om realkreditlån og 
+realkreditobligationer mv. med tilhørende bekendtgørelser. 
+ 
+Realkredit Danmark A/S udsteder RO og SDRO under dette Basisprospekt. 
+ 
+. ISIN-koden fremgår af de Endelige Vilkår. 
+ 
+4.2 
+ 
+Udstedelsen af Obligationerne er reguleret i Lov om realkreditlån og realkreditobligati-
+oner mv. For en nærmere gennemgang af lovgivningen om Obligationerne og realkre-
+ditinstitutter henvises til kapitel 4 Lovgivning.  
+ 
+Obligationerne er underlagt dansk ret, og eventuelle søgsmål vedrørende Obligatio-
+nerne er underlagt dansk lovvalg og værneting.  
+ 
+4.3 
+ 
+Obligationerne er udstedt elektronisk i book-entry form som ihændehaverpapirer. Der 
+udstedes ikke fysiske værdipapirer. 
+ 
+Obligationerne registreres i enten: 
+• 
+VP Securities A/S, Weidekampsgade 14, DK - 2300 København S eller 
+• 
+Euronext VPS, Fred. Olsens gate 1,  NO - 0152 Oslo 
+ 
+Realkredit Danmark A/S kan vælge at lade Obligationerne registrere i en anden værdi-
+papircentral. Registreringssted for den enkelte ISIN-kode fremgår af de Endelige Vil-
+kår. 
+ 
+4.4 
+Realkredit Danmark A/S udsteder løbende Obligationer til finansiering af Realkredit 
+Danmark A/S’ udlånsvirksomhed. 
+ 
+4.5 
+Den anvendte valuta ved udstedelse af Obligationerne fremgår af de Endelige Vilkår. 
+ 
+4.6 
+ 
+I tilfælde af Realkredit Danmark A/S’ eventuelle konkurs vil Obligationsejernes krav 
+have en fortrinsstilling (med forbehold for visse omkostninger ved boets behandling 
+m.v.) til aktiver i det kapitalcenter, hvor Obligationerne er udstedt. Eventuelle restkrav 
+fra Obligationsejerne rangerer før usikrede krav til øvrige aktiver i Realkredit Danmark 
+A/S’ konkursbo.  
+ 
+For en nærmere beskrivelse af den konkursretlige fortrinsstilling m.v. henvises til kapi-
+tel 4 Lovgivning. 
+ 
+4.7 
+Realkredit Danmark A/S udsteder Obligationer i flere kapitalcentre. Det fremgår af de 
+Endelige Vilkår, hvilket kapitalcenter den enkelte ISIN-kode er udstedt under. 
+ 
+Obligationsejers eventuelle krav i henhold til Obligationerne kan alene rettes mod det 
+kapitalcenter, hvorunder den enkelte ISIN-kode er udstedt. 
+  
+Realkredit Danmark A/S træffer beslutning om åbning af øvrige serier i Realkredit 
+Danmark A/S i de respektive kapitalcentre. Realkredit Danmark A/S træffer ligeledes 
+beslutning om overførsel af midler til de respektive kapitalcentre.
+
+--- Page 38 ---
+Page 38 of 62 
+ 
+Reservefonden skal have en størrelse, der opfylder kravene i den til enhver tid gæl-
+dende realkreditlovgivning. I det omfang et kapitalcenter opfylder lovgivningens kapi-
+taldækningskrav, kan eventuelle overskydende midler overføres fra det pågældende ka-
+pitalcenter til Realkredit Danmark A/S’ formue i instituttet i øvrigt. 
+ 
+Låntagerne i den enkelte serie hæfter ikke solidarisk over for Realkredit Danmark A/S 
+og har ved indfrielse af lån ikke krav på at få udbetalt en del af Realkredit Danmark 
+A/S’ formue.  
+ 
+ 
+Obligationerne mortificeres efter lovgivningens almindelige regler. Realkredit Dan-
+mark A/S er erstatningsansvarlig, hvis Realkredit Danmark A/S på grund af fejl eller 
+forsømmelser opfylder aftalens forpligtelser for sent eller mangelfuldt.  
+ 
+Selv på de områder, hvor der gælder et strengere ansvar, er Realkredit Danmark A/S 
+ikke ansvarlig for tab, som skyldes: 
+• 
+Nedbrud i/manglende adgang til IT-systemer eller beskadigelse af data i disse 
+systemer, der kan henføres til nedennævnte begivenheder, uanset om det er Re-
+alkredit Danmark A/S selv eller en ekstern leverandør, der står for driften af sy-
+stemerne  
+• 
+Svigt i Realkredit Danmark A/S’ strømforsyning eller telekommunikation, lov-
+indgreb eller forvaltningsakter, naturkatastrofer, krig, oprør, borgerlige urolig-
+heder, sabotage, terror eller hærværk (herunder computervirus og – hacking) 
+• 
+Strejke, lock-out, boykot eller blokade, uanset om konflikten er rettet mod eller 
+iværksat af Realkredit Danmark A/S selv eller vores organisation og uanset 
+konfliktens årsag. Det gælder også, når konflikten kun rammer dele af Realkre-
+dit Danmark A/S 
+• 
+Andre omstændigheder, som er uden for Realkredit Danmark A/S’ kontrol  
+ 
+Realkredit Danmark A/S’ ansvarsfrihed gælder ikke, hvis:  
+• 
+Realkredit Danmark A/S burde have forudset det forhold, som er årsag til tabet, 
+da aftalen blev indgået eller burde have undgået eller overvundet årsagen til ta-
+bet 
+• 
+Lovgivningen under alle omstændigheder gør Realkredit Danmark A/S ansvar-
+lig for det forhold, som er årsagen til tabet 
+ 
+4.8 
+Rente 
+ 
+a) Nominel rente 
+Obligationerne kan udstedes med en fast eller en variabel nominel rente.  
+ 
+Den nominelle rente (pålydende rente, kuponrente) på Obligationer med en fast påly-
+dende rente fremgår af de Endelige Vilkår. For Obligationer med variabel rente fremgår 
+den valgte referencerente, et eventuelt tillæg, et eventuelt rentegulv samt vilkår for ren-
+tefastsættelsen af de Endelige Vilkår.  
+ 
+For Obligationer, som kan forlænges i henhold til § 6 i Lov om realkreditlån og real-
+kreditobligationer mv. gælder følgende: 
+ 
+I henhold til § 6 i Lov om realkreditlån og realkreditobligationer mv. kan Realkredit 
+Danmark A/S træffe beslutning om, at Obligationer i en ISIN-kode helt eller delvist 
+forlænges med 12 måneder fra Obligationernes ordinære udløbsdato.
+
+--- Page 39 ---
+Page 39 of 62 
+ 
+Forlængelsesrenten på Obligationer, som kan forlænges, fastsættes af Realkredit Dan-
+mark A/S i henhold til § 6 i Lov om realkreditlån og realkreditobligationer mv. og of-
+fentliggøres på Realkredit Danmark A/S’ hjemmeside på www.rd.dk/Investor og ved 
+selskabsmeddelelse, og vil træde i kraft første gang Obligationerne forlænges. Ved 
+yderligere forlængelser af løbetiden finder den fastsatte rente fortsat anvendelse. 
+ 
+ 
+ 
+Negativ kupon 
+ 
+Såfremt kuponrenten er negativ, har Realkredit Danmark et krav mod Obligationsejer 
+som forfalder til betaling på betalingsdagen for den relevante terminsperiode. 
+ 
+Kravet mod Obligationsejer vil blive opkrævet via udtrækningen på én af følgende må-
+der: 
+1) ”Afdragsmodellen” 
+Obligationsejers betaling til Realkredit Danmark, som følge af en negativ ku-
+ponrente, vil blive opkrævet af Realkredit Danmark i form af en ekstra udtræk-
+ning (renteudtrækning). Renteudtrækningens størrelse beregnes på baggrund af 
+pari (100) eller markedskurs. Renteudtrækningen afregnes til Obligationsejer 
+uden provenu.   
+  
+Renteudtrækningen påvirker som hovedregel ikke ordinære/ekstraordinære ud-
+trækninger vedrørende afdrag, opsigelser mm. Realkredit Danmark forbeholder 
+sig dog ret til ligeledes at foretage modregning i ordinære/ekstraordinære ud-
+trækninger.  
+ 
+2) ”Likviditetsmodellen” 
+Obligationsejers betaling til Realkredit Danmark, som følge af en negativ ku-
+ponrente, vil blive opkrævet af Realkredit Danmark i form af et reduceret ud-
+trækningsprovenu, svarende til den nominelle værdi af rentebetalingen. Såfremt 
+udtrækningen ikke er tilstrækkelig til at dække Realkredit Danmarks krav, vil 
+der blive foretaget en yderligere trækning (renteudtrækning). Renteudtræknin-
+gen kan beregnes på baggrund af markedskurs eller pari (100). Renteudtræk-
+ningen afregnes til Obligationsejer uden provenu. 
+ 
+Renteudtrækningens størrelse opgøres umiddelbart inden terminen.  
+ 
+Renteudtrækning på basis af markedskurs vil ske til den af Realkredit Danmark fast-
+satte markedskurs.  
+ 
+Opkrævningsmetoden afspejler den nuværende tekniske løsning i VP Securities. Hvis 
+VP Securities ændrer den tekniske løsning, vil Realkredit Danmark ændre opkræv-
+ningsmetoden på basis af disse ændringer. I så tilfælde, vil Realkredit Danmark opda-
+tere Basisprospektet via et Tillæg eller udarbejde et nyt Basisprospekt. 
+ 
+Det vil fremgå af de Endelige vilkår, efter hvilken metode opkrævningen af negativ ku-
+pon vil foregå for den specifikke ISIN. 
+ 
+ 
+b) Bestemmelser for rentebetaling 
+Obligationer kan have 12, 4, 2, 1 eller et andet antal årlige terminer.  
+ 
+Renten betales forholdsmæssigt hver termin efter en nærmere defineret rentekonven-
+tion, som fremgår af de Endelige Vilkår. Rentebetalingen dækker den forudgående ter-
+minsperiode og beregnes efter de til enhver tid gældende rentekonventioner.
+
+--- Page 40 ---
+Page 40 of 62 
+ 
+Realkredit Danmark A/S anvender nedenstående to rentekonventioner: 
+ 
+ 
+Faktisk/faktisk (fast rentebrøk) 
+Renten betales hver termin forholdsmæssigt efter antal årlige terminer, dvs. kuponbeta-
+lingen hver termin svarer til renten divideret med antal årlige terminer.  
+ 
+Faktisk/360 
+Renten betales hver termin efter det faktiske antal dage i terminsperioden i forhold til 
+360 dage, dvs. kuponbetalingen hver termin svarer til renten ganget med det faktiske 
+antal dage i terminsperioden divideret med 360. 
+ 
+Realkredit Danmark A/S kan indføre yderligere rentekonventioner uden at der vil ske 
+ændring til Basisprospektet. 
+ 
+Antallet af årlige terminer, og den anvendte rentekonvention fremgår af de Endelige 
+vilkår. 
+ 
+Rentetilskrivninger og -periodiseringer kan ændres som følge af ændringer i markedet. 
+ 
+Realkredit Danmark A/S’ betaling af rente og indfrielsesbeløb til Obligationsejerne 
+sker ved overførsel på forfaldsdagen til konti hos pengeinstitutter, betalingsagenter, 
+værdipapirhandlere m.v., som gennem det kontoførende pengeinstitut er anvist over for 
+en værdipapircentral og/eller clearingbank.  
+ 
+Obligationsejerne har ikke krav på rente eller andre beløb som følge af udskudt betaling 
+eller valideringsreglerne i det kontoførende pengeinstitut. 
+ 
+Hvis forfaldsdagen er en dag, som ikke er en bankdag, udskydes betalingen til nærme-
+ste følgende bankdag. 
+ 
+ 
+c) Forrentningens påbegyndelse 
+Dato for forrentningens påbegyndelse fremgår af de Endelige Vilkår. 
+ 
+ 
+ 
+d) Forfaldsdage 
+Forfaldsdage på udbetaling af renter fremgår af de Endelige Vilkår. 
+ 
+e) Forældelsesfrist 
+Krav på betaling af renter, gebyrer og lignende forældes i henhold til Forældelsesloven. 
+Forfaldne obligations- og rentebeløb forrentes ikke fra forfaldsdagen og tilfalder Real-
+kredit Danmark A/S, hvis de ikke hæves inden forældelsesfristens udløb.  
+ 
+ 
+Hvis renten er variabel: 
+ 
+a) Grundlagets art 
+Hvis renten er variabel, fastsættes kuponrenten for den enkelte ISIN-kode med ud-
+gangspunkt i en valgt referencerente og et eventuelt rentetillæg med et fast interval.  
+ 
+De variable Obligationers kuponrente kan fastsættes kvartårligt, halvårligt, helårligt el-
+ler med et andet interval. Antallet af årlige rentefastsættelser fremgår af de Endelige 
+Vilkår. 
+ 
+Ved åbningen af en variabelt forrentet Obligation kan Realkredit Danmark A/S fast-
+sætte en initial kuponrente. Den initiale kuponrente og den periode, hvori den vil gælde 
+vil fremgå af de Endelige Vilkår.
+
+--- Page 41 ---
+Page 41 of 62 
+ 
+ 
+Renter og/eller andre beløb som skal betales i forbindelse med variabelt forrentede obli-
+gationer kan beregnes med henvisning til en referencerente. En referencerente kan være 
+et benchmark i henhold til forordning (EU) 2016/1011 (Benchmarkforordningen). 
+ 
+Såfremt en referencerente er et benchmark i henhold til Benchmarkforordningen vil det 
+af de Endelige vilkår fremgå, hvorvidt referencerenten på datoen for de endelige vilkår 
+leveres af en Administrator, som er inkluderet i ESMAs register over Administratorer 
+og benchmark i henhold til artikel 36 i Benchmarkforordningen. 
+ 
+Overgangsbestemmelser i Benchmarkforordningen kan betyde at Administratoren af et 
+specifikt benchmark ikke fremgår af ESMAs register på datoen for de Endelige vilkår. 
+ 
+Registreringsstatus for en Administrator under Benchmarkforordningen er offentligt til-
+gængelig i ESMA’s register for administratorer og benchmarks. 
+ 
+Medmindre det er krævet ved lov vil Realkredit Danmark ikke opdatere Basisprospekt 
+eller Final Terms ved ændringer i en Administrators registreringsstatus. 
+ 
+ 
+ 
+ 
+b) Beregningsgrundlaget 
+Den relevante referencerente samt definition af fixingdatoer vil fremgå af de Endelige 
+Vilkår. 
+ 
+Rentetillægget fastsættes for hver enkelt ISIN-kode og vil fremgå af de Endelige Vil-
+kår. 
+ 
+ 
+c) Beregningsmetode 
+Kuponrenten fastsættes som referencerentesatsen på fixingdatoen eventuelt multiplice-
+ret med en multiplikator og derefter tillagt et for hver ISIN-kode fastsat rentetillæg. Re-
+ferencerente, eventuel multiplikator, rentetillæg og specifik beregningsmetode vil 
+fremgå af de Endelige Vilkår. 
+ 
+Den variable rente kan ikke være negativ for Obligationer udstedt før 1. maj 2016. Så-
+fremt en rentefastsættelse medfører, at den beregnede kuponrente er negativ, fastsættes 
+den variable rente for disse Obligationer for den pågældende periode til nul. 
+ 
+For Obligationer udstedt efter 1. maj 2016 fremgår det af de Endelige Vilkår, hvorvidt 
+kuponrenten kan være negativ, eller om de har et rentegulv på 0,00%.  
+ 
+Hvis kuponen i en periode er negativ har Realkredit Danmark A/S et krav mod Obliga-
+tionsejerne svarende til den absolutte værdi af Rentekuponen. 
+ 
+ 
+d) Oplysninger om kursudvikling 
+Oplysninger om beregningsagent, og hvor udviklingen i pengemarkedsrentesatsen 
+eventuelt forefindes oplyses i de Endelige vilkår. 
+ 
+ 
+e) Markeds- eller afviklingsforstyrrelser 
+Løbetidsforlængelse 
+For Obligationer, som er variabelt forrentede og er omfattet af § 6 i Lov om realkredit-
+lån og realkreditobligationer mv., gælder ifølge denne lov:
+
+--- Page 42 ---
+Page 42 of 62 
+ 
+ 
+Renten ved rentefastsættelsen kan ikke blive mere end 5 procentpoint højere end den 
+senest fastsatte rente og skal i givet fald forblive uændret i 12 måneder eller frem til 
+næste refinansiering, medmindre der fastsættes en lavere rente inden for de 12 måneder 
+eller inden næste refinansiering. 
+ 
+ 
+f) Justeringsregler, der kan påvirke grundlaget 
+Ændring af referencerenten   
+I tilfælde af ”ophør af referencerente” (som defineret nedenfor) for referencerenten eller 
+for en erstatningsrente, som er fastsat efter et ophør af referencerenten (den “relevante 
+referencerente”), fastsætter Realkredit Danmark A/S en erstatningsrente.  
+ 
+Erstatningsrenten skal baseres på anbefalinger (herunder vedrørende rentespænd 
+(spread) og justeringer) fra følgende enheder:  
+(i) 
+En relevant arbejdsgruppe nedsat af eller med deltagelse af centralbanken for 
+valutaen for den relevante referencerente og/eller tilsynsmyndigheden for Ad-
+ministratoren af den relevante referencerente, og /eller Den Europæiske Værdi-
+papir- og Markedstilsynsmyndighed (ESMA) og/eller Den Europæiske Kom-
+mission, eller  
+(ii) 
+Administratoren af den relevante referencerente, eller  
+(iii) 
+Den kompetente enhed, som i henhold til forordning (EU) 2016/1011 er an-
+svarlig for at føre tilsyn med Administratoren af den relevante referencerente, 
+eller  
+(iv) 
+Den nationale kompetente myndighed udpeget af hver medlemsstat i henhold 
+til forordning (EU) 2016/1011, eller  
+(v) 
+Centralbanken for valutaen for den relevante referencerente.  
+ 
+Hvis der ikke udarbejdes anbefalinger i overensstemmelse med ovenstående, eller hvis 
+anbefalingerne ikke er entydige, eller hvis anbefalingerne er modstridende eller på an-
+den måde ikke giver tilstrækkelig vejledning, vil Realkredit Danmark A/S tage relevant 
+markedspraksis og anbefalinger fra relevante sammenslutninger, foreninger og lignende 
+i betragtning, når Realkredit Danmark A/S fastsætter erstatningsrenten.   
+ 
+Erstatningsrenten vil gælde fra det tidspunkt, hvor den relevante referencerente ophører 
+eller bliver utilgængelig.  
+ 
+Hvis der ikke er et ophør af referencerente, men den relevante referencerente bliver 
+midlertidigt utilgængelig, fastsættes erstatningsrenten for den midlertidige periode, 
+hvor den relevante referencerente bliver midlertidigt utilgængelig (den “Midlertidige 
+Periode”), i overensstemmelse med de ovennævnte principper. Hvis den Midlertidige 
+Periode ikke overstiger fem (5) kalenderdage, anvender Realkredit Danmark A/S den 
+senest offentliggjorte relevante referencerente i den Midlertidige Periode.  
+ 
+Hvis definitionen af, metoden eller formlen for eller andre dele af beregningen af den 
+relevante referencerente ændres, så gælder den ændrede relevante referencerente, med 
+mindre andet er angivet eller aftalt.  
+  
+ 
+”Ophør af referencerente” betyder:  
+ 
+(a) en offentlig erklæring eller offentliggørelse af information fra eller på vegne af 
+Administratoren af den relevante referencerente om, at Administratoren er ophørt 
+eller vil ophøre med at levere den relevante referencerente permanent eller på ube-
+stemt tid, hvis der på tidspunktet for erklæringen eller offentliggørelsen ikke findes 
+en efterfølger som Administrator, der vil fortsætte med at levere den relevante re-
+ferencerente; eller
+
+--- Page 43 ---
+Page 43 of 62 
+ 
+ 
+(b) en offentlig erklæring eller offentliggørelse af information fra den regulatoriske til-
+synsmyndighed for Administratoren af den relevante referencerente, centralbanken 
+for valutaen for den relevante referencerente, en afviklingsmyndighed med kompe-
+tence for så vidt angår Administratoren for den relevante referencerente eller en 
+domstol eller en lignende enhed  med kompetence til at tage stilling til Administra-
+toren for den relevante referencerentes  insolvens eller opløsning, hvoraf det frem-
+går, at Administratoren for den relevante referencerente er ophørt med eller vil op-
+høre med at levere den relevante referencerente permanent eller på ubestemt tid, 
+hvis der på tidspunktet for erklæringen eller offentliggørelsen ikke findes en efter-
+følger som Administrator, der vil fortsætte med at levere den relevante reference-
+rente. 
+ 
+ 
+g) Ansvar for beregning 
+Realkredit Danmark A/S foretager beregningen af Obligationens variable rente. 
+ 
+ 
+h) Derivatkomponent 
+Der er ikke indbygget derivatkomponenter i rentebetalingen. 
+ 
+4.9.a 
+Udløb 
+Obligationernes udløbsdato fremgår af de Endelige Vilkår. 
+ 
+Forlængelse af løbetid ved manglende aftagere ved refinansiering  
+For en ISIN-kode, hvor det af de Endelige Vilkår fremgår, at Obligationerne kan for-
+længes ved manglende aftagere ved en refinansiering gælder følgende: 
+ 
+Realkredit Danmark kan træffe beslutning om, at Obligationer i en ISIN-kode helt eller 
+delvist forlænges med 12 måneder ad gangen fra deres ordinære udløbsdato  
+ 
+Såfremt der ikke er aftagere til alle de nødvendige nye Obligationer ved en refinansie-
+ring, kan løbetiden forlænges på de pågældende Obligationer med 12 måneder ad gan-
+gen, indtil der kan gennemføres refinansiering, hvor der er aftagere til alle de nødven-
+dige nye Obligationer.  
+ 
+Beslutning om forlængelse kan træffes indtil en bankdag før Obligationernes ordinære 
+udløb og meddeles ved en selskabsmeddelelse. 
+ 
+Ved refinansiering af lån, hvor løbetiden på de bagvedliggende Obligationer er mere 
+end 12 måneder, kan Realkredit Danmark forud for en eventuel forlængelse forsøge at 
+refinansiere lånene med Obligationer med en kortere løbetid.  
+ 
+Forlængelse af løbetid ved rentestigning  
+For en ISIN-kode, hvor det af de Endelige Vilkår fremgår, at Obligationerne kan for-
+længes ved rentestigning gælder følgende: 
+ 
+I henhold til § 6 i Lov om realkreditlån og realkreditobligationer mv. kan Realkredit 
+Danmark A/S træffe beslutning om, at Obligationer i en ISIN-kode helt eller delvist 
+forlænges med 12 måneder fra Obligationernes ordinære udløbsdato. 
+ 
+Realkredit Danmark A/S kan træffe beslutning om forlængelse, hvis Realkredit Dan-
+mark A/S i forbindelse med en refinansiering ikke har en berettiget forventning om, at 
+salget kan gennemføres, uden at den effektive rente bliver 5 % højere end den effektive 
+rente på en tilsvarende obligation med samme restløbetid fra 11 til og med 14 måneder 
+tidligere. Kravet om berettiget forventning gælder dog ikke, hvis Realkredit Danmark 
+gennemfører et salg af en mindre mængde obligationer med henblik på at afklare, om
+
+--- Page 44 ---
+Page 44 of 62 
+ 
+den effektive rente bliver 5 % højere end den effektive rente på en tilsvarende obliga-
+tion med samme restløbetid fra 11 til og med 14 måneder tidligere. 
+ 
+Beslutning om forlængelse kan træffes indtil en bankdag før Obligationernes ordinære 
+udløb og meddeles ved en selskabsmeddelelse. 
+ 
+4.9.b 
+Afvikling og indfrielse 
+Obligationernes afvikling og indfrielsesmetode fremgår af de Endelige Vilkår. 
+ 
+Obligationerne kan enten afvikles som: 
+• 
+Stående lån 
+• 
+Annuitet med mulighed for en afdragsfri periode 
+• 
+Annuitet 
+• 
+Serielån 
+• 
+Hybrid (en kombination af afviklingsformer) 
+ 
+Obligationerne udstedes i serier enten som konverterbare eller inkonverterbare Obliga-
+tioner. 
+ 
+Hvis en Obligationsserie i de Endelige Vilkår er udstedt som konverterbare Obligatio-
+ner, indgår beløb, som Realkredit Danmark A/S har modtaget fra låntagernes førtidige 
+indfrielser, i amortisationen, medmindre Realkredit Danmark A/S har anvendt de oven-
+for anførte muligheder for opkøb og indfrielse uden samtidig udtrækning. 
+ 
+Amortisationen finder sted i henhold til en af Realkredit Danmark A/S foretaget ud-
+trækning og sker ved indløsning til parikurs i henhold til betalingsterminen for den en-
+kelte ISIN-kode. Ved udtrækningen bestemmes den nominelle mængde af de udstedte 
+Obligationer, der skal indløses.  
+ 
+Udtrækningsbeløbene offentliggøres i en selskabsmeddelelse og oplyses på www.rd.dk. 
+ 
+Ved indfrielser til markedskurs foretager Realkredit Danmark A/S annullering efter op-
+køb, for så vidt angår den del af Obligationernes amortisation, der overskrider den til 
+enhver tid af Realkredit Danmark A/S beregnede ordinære amortisation. 
+ 
+Realkredit Danmark A/S forbeholder sig ret til, at indfri lån ved opkøb af andre Obliga-
+tioner end dem, der blev udstedt i anledning af lånet, uden at der sker en samtidig ud-
+trækning eller annullering af Obligationer svarende til dem, der blev udstedt i anledning 
+af lånet. 
+ 
+For inkonverterbare Obligationer, indfries de bagvedliggende lån normalt til markeds-
+kurs.  
+ 
+Indfrielsesbeløb, der overskrider den til enhver tid af Realkredit Danmark A/S bereg-
+nede ordinære amortisation, indgår ikke i den amortisation, der finder sted ved udtræk-
+ning.  
+ 
+Ved Obligationens udløb kan de bagvedliggende lån opsiges til pari. Førtidige indfriel-
+ser til pari vil indgå i udtrækningen som beskrevet ovenfor. 
+ 
+De udstedte obligationer indløses til parikurs ved obligationens udløb med mindre Ob-
+ligationerne forlænges i henhold til §6 i Lov om realkreditlån og realkreditobligationer 
+mv.
+
+--- Page 45 ---
+Page 45 of 62 
+ 
+Betalingsterminer 
+Betalingsterminerne for renter og udtrukne Obligationer er den første bankdag efter ud-
+løbet af enten et kvartal, et halvår eller et helt kalenderår, afhængig af det årlige antal 
+terminer på den enkelte ISIN-kode. Antallet af årlige betalingsterminer fremgår af de 
+Endelige Vilkår. Rentebetalingen dækker den forudgående terminsperiode og foretages 
+efter de til enhver tid gældende rentekonventioner for den enkelte ISIN-kode, som 
+fremgår af de Endelige Vilkår. Realkredit Danmark A/S kan ved åbningen af nye ISIN-
+koder ændre tidspunktet for og/eller antallet af årlige betalingsterminer. 
+ 
+4.10 
+Den effektive rentesats kan ikke angives i de Endelige Vilkår, da Obligationerne udste-
+des løbende og den effektive rente afhænger af både pris og handelsdato. 
+ 
+Den effektive rente beregnes ved at tilbagediskontere ydelserne på den enkelte Obliga-
+tion med en diskonteringsrente, der sikrer, at værdien af de tilbagediskonterede ydelser 
+er lig det faktisk investerede beløb. Ydelserne bliver tilbagediskonteret til afviklingsda-
+gen. Diskonteringsrenten er den effektive rente. 
+ 
+4.11 
+Der er ikke mulighed for repræsentation af Obligationsejerne. 
+ 
+4.12 
+ 
+Realkredit Danmark A/S’ bestyrelse har bemyndigelse til at åbne nye Obligationer og 
+nye serier. Ansvaret er delegeret til Realkredit Danmark A/S’ direktion i henhold til 
+Forretningsordenen for bestyrelse og direktion i Realkredit Danmark A/S § 8, stk. 4.  
+ 
+4.13 
+ 
+Datoen for åbning samt åbningsperioden for Obligationerne fremgår af de Endelige 
+Vilkår. 
+ 
+4.14 
+ 
+Obligationerne er omsættelige massegældsbreve og er optaget til handel på et reguleret 
+marked. Der er ikke nogen indskrænkninger i Obligationernes omsættelighed. 
+ 
+4.15 
+For beskatning af investorer, der er fuldt skattepligtige til Danmark, gælder følgende på 
+datoen for dette Basisprospekt:  
+ 
+Personers renteindtægter samt eventuelle kursgevinster på Obligationer beskattes, mens 
+kurstab er fradragsberettigede. Gevinst og tab på Obligationerne er omfattet af bagatel-
+grænsen på 2.000 kr. i kursgevinstlovens § 14. Beskatning eller fradrag sker i det år, ge-
+vinst eller tab realiseres, medmindre lagerprincippet er valgt af investoren, og påvirker 
+kapitalindkomsten. Renteindtægter beskattes på forfaldstidspunktet. 
+ 
+Selskabers renteindtægter samt eventuelle kursgevinster på Obligationer beskattes, 
+mens kurstab er fradragsberettigede. Beskatning eller fradrag sker løbende på et ureali-
+seret grundlag i overensstemmelse med et lagerprincip. Renteindtægter beskattes i det 
+år, de påløber.  
+ 
+Forfaldne renter samt besiddelse, indfrielse og overdragelse af Obligationer indberettes 
+til de danske skattemyndigheder i henhold til gældende regler herom.  
+ 
+Der tilbageholdes ikke kildeskat i Danmark efter gældende lovgivning, bortset fra i 
+visse tilfælde af kontrolleret gæld i forhold til Realkredit Danmark A/S. Dette vil ikke 
+være relevant for investorer, der ikke har en relation til Realkredit Danmark A/S, hvor-
+ved de kontrollerer eller er kontrolleret af Realkredit Danmark A/S, og ikke er under 
+fælles kontrol med Realkredit Danmark A/S.
+
+--- Page 46 ---
+Page 46 of 62 
+ 
+Realkredit Danmark A/S kan ikke holdes ansvarlig for ændringer i Obligationernes 
+skattemæssige behandling eller i investorernes skattemæssige forhold – herunder en-
+hver form for tilbageholdelse af skat eller opkrævning af kildeskat pålagt af myndighe-
+der.  
+ 
+Alle investorer, herunder de, der ikke er skattemæssigt hjemmehørende i Danmark, op-
+fordres til at søge særskilt og individuel rådgivning vedrørende deres skattemæssige 
+forhold.  
+ 
+FATCA (Foreign Account Tax Compliance Act)  
+USA har indført lovgivning, Foreign Account Tax Compliance Act (”FATCA”), som 
+bl.a. indebærer, at finansielle institutter verden over skal give oplysninger til de ameri-
+kanske myndigheder om kunder, der er skattepligtige til USA. Gør et finansielt institut 
+ikke det, pålægger FATCA-reglerne amerikanske betalingsagenter at trække en 
+kildeskat på 30 % af alle betalinger til det ikke-deltagende finansielle institut. 
+ 
+Eftersom den danske regering støtter FATCAs underliggende politiske målsætning og 
+ønsker at sørge for, at FATCA gennemføres i Danmark, er der den 15. november 2012 
+indgået ”Aftale mellem Danmark og Amerikas Forenede Stater til forbedring af efter-
+rettelighed vedrørende international beskatning af konti i udlandet” (”Bekendtgørelse af 
+aftale af 15. november 2012 mellem Danmark og Amerikas Forenede Stater til forbed-
+ring af efterrettelighed vedrørende international beskatning og til gennemførelse af lov-
+givning om efterrettelighed vedrørende beskatning af konti i udlandet”). Som følge af 
+aftalen kan danske finansielle institutter opfylde deres indberetningsforpligtelse til 
+SKAT, som så indsamler og videregiver de efterspurgte oplysninger om relevante ame-
+rikanske interesser til USA. Hjemlen hertil er indført i skattekontrollovens § 8 Å og Be-
+kendtgørelse nr. 769 af 25. juni 2014 om identifikation og indberetning af finansielle 
+konti med tilknytning til USA.  
+ 
+Investorer bør derfor notere sig, at FATCA-regelsættet medfører, at investor er forplig-
+tet til rettidigt at afgive udvidede og dokumenterede identifikationsoplysninger, som 
+nærmere angivet i FATCA-regelsættet, ligesom der kan blive indført regler i Danmark, 
+som indebærer pligt til indeholdelse af skat vedrørende konti med relevante amerikan-
+ske interesser, eller hvis investor undlader rettidigt at afgive udvidede og dokumente-
+rede identifikationsoplysninger, ligesom Realkredit Danmark A/S eller en anden rele-
+vant person kan blive pålagt at lukke en investors konto som nærmere angivet i 
+FATCA-regelsættet, hvis en investor undlader rettidigt at afgive udvidede og dokumen-
+terede identifikationsoplysninger som nærmere angivet i FATCA-regelsættet. I ingen af 
+de nævnte tilfælde er Realkredit Danmark A/S eller nogen anden person forpligtet i 
+henhold til dette Basisprospekt eller de Endelige Vilkår for de konkrete Obligationer til 
+at kompensere investorer for et således indeholdt skattebeløb eller tab som følge af luk-
+ningen af en konto. Investorer kan derfor i sådanne tilfælde komme til at modtage la-
+vere rente eller afdrag på hovedstolen end forventet. 
+ 
+4.16 
+Kontaktoplysninger på Udsteder: 
+ 
+Realkredit Danmark A/S 
+Lersø Parkallé 100 
+DK - 2100 København Ø 
+ 
+Tlf:  
++45 70125300 
+Email: rd@rd.dk 
+CVR: 1339 9174 
+LEI: 549300NLOMBOWE943Y30
+
+--- Page 47 ---
+Page 47 of 62 
+ 
+5. 
+Vilkår og betingelser for udbuddet 
+ 
+5.1 
+Udbudsstatistik, forventet tidsplan og nødvendige foranstaltninger ved benyttelse af ud-
+buddet 
+ 
+5.1.1 
+Der foretages løbende nyemission i Obligationernes åbningsperiode. Dette kan ske via 
+tap-emissioner på daglig basis, via blok-emissioner eller via auktion. Ved tapsalg af 
+Obligationer annonceres den udbudte mængde ikke på forhånd.  
+ 
+For en ISIN-kode, hvor det af de Endelige Vilkår fremgår, at Obligationerne kan for-
+længes i henhold til § 6 i af Lov om realkreditlån og realkreditobligationer mv., offent-
+liggør Realkredit Danmark A/S forud for indledning af salg af de nye Obligationer til 
+refinansiering af lån en plan for salget. Planen vil angive, hvilke låntyper, salget af Ob-
+ligationerne skal refinansiere, den mængde, der forventes solgt, hvordan og inden for 
+hvilken periode salget forventes gennemført, og hvornår det konstateres, om der ved 
+salget har været aftagere til alle de nødvendige nye Obligationer. Planen kan revideres 
+efterfølgende. De endelige vilkår for auktionerne offentliggøres via selskabsmeddelelse 
+forud for auktionerne. 
+ 
+5.1.2 
+Obligationsserierne er åbne for nyudstedelser i en på forhånd fastlagt åbningsperiode. 
+Realkredit Danmark A/S kan løbende i åbningsperioden udstede Obligationer, men 
+også vælge at lade udbuddet ophøre i dele af åbningsperioden.  
+ 
+Åbningsperioden for de enkelte ISIN-koder vil fremgå af de Endelige Vilkår. 
+ 
+Den endelige størrelse af udbuddet kendes først, når Obligationsserien er lukket for ud-
+stedelse. 
+ 
+5.1.3 
+Den cirkulerede mængde af Obligationer udstedt under Basisprospektet varierer i takt 
+med Realkredit Danmark A/S’ udlån samt de ordinære og ekstraordinære indfrielser af 
+de bagvedliggende lån.  
+ 
+Der findes ingen metode til at mindske tegninger eller til tilbagebetaling af oversky-
+dende beløb.  
+ 
+5.1.4 
+Det mindste beløb, der kan investeres, er lig stykstørrelsen på den enkelte ISIN-kode. 
+Stykstørrelsen på Obligationerne fremgår af de Endelige Vilkår. 
+ 
+Det største beløb, der kan investeres, er lig den cirkulerende mængde på den enkelte 
+ISIN-kode. 
+ 
+Der er ikke fortrydelsesret ved køb af Obligationerne. 
+ 
+5.1.5 
+Levering og clearing af Obligationerne sker via VP Securities A/S eller Euronext VPS 
+eller anden værdipapircentral, hvori Obligationerne er registreret.  
+ 
+Levering og clearing foretages i henhold til clearingcentralernes til enhver tid gældende 
+vilkår.  
+ 
+Som udgangspunkt handles Obligationerne med to bankdages valør, men dette kan dog 
+fraviges for eksempel i forbindelse med auktioner.
+
+--- Page 48 ---
+Page 48 of 62 
+ 
+5.1.6 
+Handler med Obligationer, der er optaget til handel på et reguleret marked, offentliggø-
+res i henhold til reglerne fastsat i medfør af Kapitalmarkedsloven og anden relevant 
+lovgivning.  
+ 
+5.1.7 
+Der er ingen tegningsrettigheder knyttet til Obligationerne. 
+ 
+5.2 
+Fordelingsplan og tildeling 
+ 
+5.2.1 
+Ingen investorer har fortrinsret til køb af Obligationerne i forbindelse med den daglige 
+udstedelse og ved blokemission.  
+ 
+På auktioner, der afholdes via NASDAQ Copenhagen A/S’ systemer i forbindelse med 
+refinansiering af lån, kan kun medlemmer af NASDAQ Copenhagen A/S deltage. An-
+dre investorer kan deltage ved afgivelse af bud gennem et medlem af NASDAQ Copen-
+hagen A/S. 
+ 
+5.2.2 
+Ved almindelig udstedelse, herunder tap-udstedelse, og ved blokemission sælges Obli-
+gationerne løbende i Obligationsmarkedet. Aftalen indgås ved handelen, og Obligatio-
+nerne afregnes normalt med to dages valør.  
+ 
+Deltagerne i en auktion får besked om kurs og det tildelte beløb umiddelbart efter aukti-
+onen.  
+ 
+Handel med Obligationer kan finde sted, før Obligationerne er udstedt.  
+ 
+Realkredit Danmark A/S har ingen indflydelse på Obligationshandler mellem tredjepar-
+ter.  
+ 
+5.3 
+Kursfastsættelse 
+ 
+5.3.1 
+Udbudskurs på Obligationerne fastsættes på markedsvilkår på baggrund af bud/udbud. 
+Kursen vil derfor ændre sig løbende i Obligationernes løbetid.  
+ 
+Købere af Obligationerne pålægges ud over markedsprisen samt eventuelt vedhæng-
+ende renter forventeligt ikke andre udgifter ved købet end sædvanlige handelsomkost-
+ninger (kurtage, kursskæring m.v.).  
+ 
+5.4 
+Placering og garanti 
+ 
+5.4.1 
+Realkredit Danmark A/S er udsteder af Obligationerne og sælger normalt Obligatio-
+nerne direkte i Obligationsmarkedet. Såfremt Realkredit Danmark A/S indgår aftale om 
+placering af en obligation vil det fremgå af de endelige vilkår. 
+ 
+5.4.2 
+ 
+Realkredit Danmark A/S har ikke indgået aftale med nogen betalingsformidlere eller 
+depositarer. 
+ 
+5.4.3 
+Der er ikke stillet nogen garanti i forbindelse med udstedelsen og placering af Obligati-
+onerne.  
+ 
+5.4.4 
+Der er ikke stillet nogen garanti i forbindelse med udstedelsen og placering af Obligati-
+onerne.
+
+--- Page 49 ---
+Page 49 of 62 
+ 
+6. 
+Aftaler om optagelse til handel og omsætning 
+ 
+6.1 
+Udstedelser under dette Basisprospekt er eller forventes optaget til handel og notering 
+på NASDAQ Copenhagen A/S www.nasdaqomxnordic.com eller andet reguleret mar-
+ked.  
+ 
+Noteringsdato og -sted fremgår af de Endelige Vilkår. 
+ 
+6.2 
+Det regulerede marked, hvori Obligationerne optages til handel, fremgår af de Endelige 
+Vilkår. 
+ 
+6.3 
+Realkredit Danmark A/S kan indgå aftaler om prisstillelse (”Primary Dealer” aftaler) på 
+Obligationer under dette Basisprospekt. Aftalerne kan – evt. med et varsel – til enhver 
+tid opsiges af aftalens parter. Aftalerne kan angå alle eller kun visse Obligationer. Real-
+kredit Danmark A/S forpligter sig ikke til at opretholde prisstilleraftaler eller indgå nye 
+aftaler.  
+ 
+6.4 
+Obligationerne tap-udstedes til markedskurs i Obligationernes løbetid i takt med at der 
+udbetales lån. Da den samlede emission foregår over tid kan der ikke defineres én emis-
+sionskurs. 
+ 
+7.  
+Yderligere oplysninger 
+ 
+7.1 
+Realkredit Danmark A/S har ikke anvendt rådgivere ved udarbejdelsen af dette Basis-
+prospekt.  
+  
+7.2 
+ 
+Realkredit Danmark A/S’ revisorer har udelukkende revideret årsrapporterne, hvortil 
+Basisprospektet henviser. Selve Basisprospektet er ikke revideret af Realkredit Dan-
+mark A/S’ revisorer. 
+ 
+7.3 
+ 
+Kreditvurderingsbureauerne S & P Global (S&P), Fitch Ratings (Fitch) og Scope Ra-
+tings (Scope) er etableret i Fællesskabet og registreret i henhold til Forordning 
+1060/2009 om kreditvurderingsbureauerne artikel 4.1. 
+ 
+På datoen for dette Basisprospekt er Realkredit Danmark A/S og Obligationer udstedt 
+under dette Basisprospekt tildelt følgende ratings: 
+ 
+Rating 
+S&P 
+Fitch 
+Scope 
+Kapitalcenter S 
+AAA 
+AAA 
+AAA 
+Kapitalcenter T 
+AAA 
+AAA 
+AAA 
+Kapitalcenter Instituttet i 
+Øvrigt 
+AAA 
+Ikke rated 
+Ikke rated 
+Udstederrating lang 
+Ikke rated 
+A 
+A+ 
+Udstederrating kort 
+Ikke rated 
+F1 
+S-1+ 
+ 
+Udsteder ratingen fra Fitch er med ”stable outlook”.  
+ 
+Realkredit Danmark A/S gør opmærksom på, at ratingen kan ændres, og at Realkredit 
+Danmark A/S også kan vælge at opsige samarbejdet om ratings med et eller flere kre-
+ditvurderingsbureauer eller vælge andre kreditvurderingsbureauer.  
+ 
+Ratingen af Udsteder og obligationerne bidrager til at belyse de risici som, der karakte-
+riserer Udsteders forretningsmodel.
+
+--- Page 50 ---
+Page 50 of 62 
+ 
+8. Garantier 
+ 
+ 
+Nummerering i henhold til bilag 21 i Kommissionens delegerede forordning (EU) 2019/980. 
+ 
+AFSNIT 1 
+GARANTIENS ART 
+ 
+ 
+Såvel udlån som obligationer i Kapitalcenter A er garanteret af den danske stat 
+ved selvskyldnerkaution i henhold til Bekendtgørelse om statsgaranti, garantipro-
+vision og aflønningsprovision i forbindelse med finansiering af almene boliger 
+samt Bekendtgørelse om statsgaranti for visse obligationer udstedt i forbindelse 
+med finansiering af almene boliger (eller senere regulering, der måtte afløse 
+disse).  
+ 
+AFSNIT 2 
+ 
+GARANTIENS OMFANG 
+ 
+ 
+I henhold til ovennævnte regulering, skal realkreditinstitutter oprette et særskilt 
+Kapitalcenter til finansiering af lån til almene boliger med statsgaranti. Realkredit 
+Danmark udsteder SDRO garanteret af den danske stat ved selvskyldnerkaution i 
+Kapitalcenter A.  
+ 
+AFSNIT 3 
+OPLYSNINGER OM GARANTEN 
+ 
+ 
+Den danske stat er garant. 
+ 
+AFSNIT 4 
+TILGÆNGELIGE DOKUMENTER 
+ 
+ 
+Garantien er reguleret i Bekendtgørelse om statsgaranti, garantiprovision og afløn-
+ningsprovision i forbindelse med finansiering af almene boliger samt Bekendtgø-
+relse om statsgaranti for visse obligationer udstedt i forbindelse med finansiering 
+af almene boliger (eller senere regulering, der måtte afløse disse).
+
+--- Page 51 ---
+Page 51 of 62 
+ 
+9. Tilsagn 
+ 
+ 
+ Nummerering i henhold til bilag 22 i Kommissionens delegerede forordning (EU) 2019/980. 
+ 
+AFSNIT 1 
+OPLYSNINGER SOM SKAL ANFØRES VEDRØRENDE TILSAGN FRA UD-
+STEDEREN ELLER DEN PERSON, SOM ER ANSVARLIG FOR PROSPEK-
+TETS UDARBEJDELSE 
+ 
+1.1 
+Realkredit Danmark A/S erklærer at være indforstået med prospektets anvendelse, 
+og Realkredit Danmark A/S påtager sig ansvaret for prospektets indhold, også ved 
+videresalg eller endelig placering af værdipapirer via finansielle formidlere, som 
+har fået tilsagn af Realkredit Danmark A/S med hensyn til prospektets anvendelse. 
+ 
+1.2 
+Det tilsagn givet af Realkredit Danmark A/S med hensyn til Basisprospektets an-
+vendelse, der er nævnt i punkt 9.1, gælder i maksimalt 12 måneder fra datoen for 
+Basisprospektets godkendelse, men med forbehold for, at Basisprospektet kan til-
+bagekaldes, annulleres eller erstattes forinden. 
+ 
+1.3 
+Den udbudsperiode, hvori eventuelt videresalg eller endelig placering af Obligati-
+onerne kan finde sted, fremgår af de Endelige Vilkår.  
+ 
+1.4 
+Finansielle formidlere, som har fået tilsagn af Realkredit Danmark A/S som nævnt 
+i punkt 8.1, må alene anvende dette Basisprospekt til videresalg og endelig place-
+ring af Obligationerne i [Danmark].  
+ 
+1.5 
+Eventuelle betingelser, der er knyttet til tilsagn af Realkredit Danmark A/S som 
+nævnt i punkt 8.1 og som er relevante for prospektets anvendelse, fremgår af de 
+Endelige Vilkår for den konkrete udstedelse. 
+ 
+1.6 
+Såfremt en finansiel formidler anvender dette Basisprospekt til at lave et ud-
+bud af Obligationer, oplyser den finansielle formidler investorerne om vilkå-
+rene og betingelserne for udbuddet på det tidspunkt, hvor udbuddet finder 
+sted. 
+ 
+AFSNIT 2 A 
+YDERLIGERE OPLYSNINGER SOM SKAL ANFØRES, HVIS DER GIVES 
+TILSAGN TIL EN ELLER FLERE SPECIFIKKE FINANSIELLE FORMID-
+LERE 
+ 
+2A.1 
+På tidspunktet for Basisprospektets godkendelse er der ikke meddelt tilladelse til 
+nogen finansiel formidler. 
+ 
+2A.2 
+Oplysninger om finansielle formidlere, som var ukendte på tidspunktet for god-
+kendelse af Basisprospektet eller indgivelsen af de Endelige Vilkår, oplyses på 
+Realkredit Danmark A/S netsted: www.rd.dk/Investor. 
+ 
+AFSNIT 2 B 
+YDERLIGERE OPLYSNINGER, SOM SKAL ANFØRES, HVIS DER GIVES 
+TILSAGN TIL ALLE FINANSIELLE FORMIDLERE 
+ 
+2B.1 
+Finansielle formidlere, som anvender Basisprospektet, er forpligtet til på de-
+res netsted at erklære, at de anvender Basisprospektet i overensstemmelse 
+med tilsagnet og de betingelser, der er knyttet dertil.
+
+--- Page 52 ---
+Page 52 of 62 
+ 
+Bilag 1: Liste over dokumenter, der ved henvisning indgår i Basis-
+prospektet 
+ 
+Dokumenter, der henvises 
+til i Basisprospektet 
+ 
+Type af dokument 
+Dato for offentliggørelse 
+ 
+Senest offentliggjorte hi-
+storiske Regnskabsoplys-
+ninger 
+ 
+Årsrapporten 2020 
+ 
+Årsrapporten 2019 
+ 
+ 
+5. februar 2021 
+5. februar 2020 
+ 
+ 
+Senest offentliggjorte  
+Regnskabsoplysninger 
+ 
+ 
+Årsrapporten 2020 
+Delårsrapporten for 1. kvartal 
+2020 
+ 
+ 
+4. februar 2021 
+28. april 2021 
+ 
+Dokumenter, der henvises 
+til i Basisprospektet 
+ 
+Tilgængelig på Realkredit Dan-
+marks website 
+Link 
+Årsrapporten 2019  
+Årsrapporten 2020 
+Delårsrapporten for 1. 
+kvartal 2020 
+ 
+Rd.dk/om os/regnskaber/arkiv 
+Arkiv (rd.dk) 
+ 
+ 
+Hvor i basisprospektet er  
+henvisningen? 
+ 
+Dokument 
+Hvor i dokumentet forefindes 
+henvisningen? 
+Kapitel 2 
+ 
+ 
+ 
+Ansvarserklæring side 7 
+Årsrapport 2020 for  
+Realkredit Danmark A/S 
+Revisionspåtegning, side 68-70 
+Ledelseshverv, side 71-72 
+ 
+Registreringsdokumentet 
+ 
+ 
+ 
+Side 31, pkt. 4.1.5 
+ 
+Delårsrapporten for 1. kvartal 
+2021 
+ 
+Årsrapporten 2020 for Realkredit 
+Danmark A/S 
+ 
+Hele rapporten 
+ 
+ 
+Hele rapporten 
+Side 31, pkt. 4.1.7 
+Delårsrapporten for 1. kvartal 
+2021 
+ 
+Årsrapporten 2020 for Realkredit 
+Danmark A/S 
+ 
+Hele rapporten 
+ 
+ 
+Hele rapporten 
+Side 32, pkt. 7.1 
+Delårsrapporten for 1. kvartal 
+2021 
+ 
+Hele rapporten 
+ 
+Side 32, pkt. 7.2 
+Delårsrapporten for 1. kvartal 
+2021 
+Hele rapporten
+
+--- Page 53 ---
+Page 53 of 62 
+ 
+Hvor i basisprospektet er  
+henvisningen? 
+ 
+Dokument 
+Hvor i dokumentet forefindes 
+henvisningen? 
+ 
+Side 33, pkt. 9.1 
+ 
+Årsrapporten 2020 for Realkredit 
+Danmark A/S 
+ 
+Ledelseshverv side 71-72 
+Side 34, pkt. 11.1.1 
+Årsrapporten 2020 for Realkredit 
+Danmark A/S 
+ 
+Årsrapport for 2020 i sin helhed: 
+Regnskabsberetning, side 3-5 
+Påtegninger, side 67-70 
+Årsregnskab, side 20-28 
+Øvrige oplysninger, side 29-66 
+ 
+Side 34, pkt. 11.1.1 
+Årsrapporten 2019 for Realkredit 
+Danmark A/S 
+ 
+Årsrapport for 2019 i sin helhed: 
+Regnskabsberetning, side 3-5 
+Påtegninger, side 69-72 
+Årsregnskab, side 22-28 
+Øvrige oplysninger, side 29-68 
+ 
+Side 34, pkt. 11.1.4 
+Årsrapport 2020 for  
+Realkredit Danmark A/S 
+ 
+Hele rapporten 
+ 
+Side 34, pkt. 11.1.7 
+Årsrapport 2020 for  
+Realkredit Danmark A/S 
+ 
+Hele rapporten 
+ 
+Side 34, pkt. 11.2.1 
+Årsrapport 2020 for  
+Realkredit Danmark A/S 
+ 
+Delårsrapporten for 1. kvartal 
+2021 
+ 
+Hele rapporten 
+ 
+ 
+Hele rapporten 
+ 
+Side 34, pkt. 11.3.1 
+Årsrapporten 2020 for Realkredit 
+Danmark A/S 
+ 
+Revisionspåtegning side 68-70 
+ 
+Årsrapporten 2018 for Realkredit 
+Danmark A/S 
+ 
+Revisionspåtegning side 67-69 
+ 
+Side 34, pkt. 11.3.3 
+Årsrapport 2020 for  
+Realkredit Danmark A/S 
+ 
+Delårsrapporten for 1. kvartal 
+2021 
+ 
+Hele rapporten 
+ 
+ 
+Hele rapporten 
+ 
+Side 35, pkt. 11.5.1 
+Delårsrapporten for 1. kvartal 
+2021 
+ 
+Årsrapporten 2020 for Realkredit 
+Danmark A/S 
+ 
+Hele rapporten 
+ 
+ 
+Hele rapporten 
+Side 35, pkt. 12.1 
+Årsrapporten 2020 for Realkredit 
+Danmark A/S 
+ 
+Kapitalforhold side 24-27
+
+--- Page 54 ---
+Page 54 of 62 
+ 
+Bilag 2: Skabelon til endelige vilkår 
+ 
+ 
+Endelige vilkår Serie [xxYY] 
+[Konverterbare fastforrentede annuitetsobligationer][Inkonverterbaer stående obligationer med 
+fast rente][Inkonverterbare og variabelt forrentede obligationer][*] 
+ 
+ 
+Disse endelige vilkår (”Endelige Vilkår”) gælder for [SDRO]/[RO] udstedt af Realkredit Danmark A/S. 
+ 
+Obligationerne er udstedt i henhold til Basisprospekt for Særligt Dækkede Realkreditobligationer og Re-
+alkreditobligationer udstedt af Realkredit Danmark A/S dateret [●] og eventuelle tillæg hertil (tilsammen 
+”Basisprospektet”). 
+ 
+De Endelige Vilkår vedrører kun den eller de konkrete udstedelse(r) af [SDRO]/[RO] (”Obligationerne”), 
+der er beskrevet i de Endelige Vilkår.   
+ 
+[MiFID II-produktstyring] 
+ 
+[MÅLGRUPPEN ER DETAILKUNDER, PROFESSIONELLE INVESTORER OG ECP'er – Ene og 
+alene hvad angår den enkelte producents procedure for produktgodkendelse, har vurderingen af Obligati-
+onernes målgruppe, udelukkende hvad angår kriteriet vedrørende kundetype, ført til den konklusion, at: 
+(i) typen af kunder, som Obligationerne er målrettet mod, er godkendte modparter, professionelle kunder 
+og detailkunder som defineret i direktiv 2014/65/EU "MiFID II", og (ii) samtlige distributionskanaler er 
+hensigtsmæssige. Enhver person, som efterfølgende tilbyder, sælger eller anbefaler Obligationerne (en 
+"Distributør"), skal tage producentens vurdering af kundetype i betragtning. En distributør, der er under-
+lagt MiFID II, er imidlertid ansvarlig for at foretage sin egen vurdering af Obligationernes målgruppe 
+(ved enten at antage eller forbedre producentens vurdering af kundetypen) samt fastsætte hensigtsmæs-
+sige distributionskanaler.] 
+ 
+[MÅLGRUPPEN ER UDELUKKENDE PROFESSIONELLE INVESTORER OG ECP'er – Ene og 
+alene hvad angår den enkelte producents procedure for produktgodkendelse, har vurderingen af Obligati-
+onernes målgruppe, udelukkende hvad angår kriteriet vedrørende kundetype, ført til den konklusion, at: 
+(i) typen af kunder, som Obligationerne er målrettet mod, er udelukkende godkendte modparter og pro-
+fessionelle kunder som defineret i direktiv 2014/65/EU "MiFID 69 II", og (ii) samtlige distributionskana-
+ler for Obligationerne til godkendte modparter og professionelle kunder er hensigtsmæssige. Enhver per-
+son, som efterfølgende tilbyder, sælger eller anbefaler Obligationerne (en "Distributør"), skal tage produ-
+centens vurdering af kundetype i betragtning. En distributør, der er underlagt MiFID II, er imidlertid an-
+svarlig for at foretage sin egen vurdering af Obligationernes målgruppe (ved enten at antage eller for-
+bedre producentens vurdering af kundetypen) samt fastsætte hensigtsmæssige distributionskanaler.] 
+[*] 
+ 
+Erklæring 
+Realkredit Danmark A/S erklærer hermed:  
+a) at de Endelige Vilkår er udarbejdet i henhold til Prospektforordnin-
+gen (Europa-Parlamentets og Rådets Forordning 2017/1129 af 14. 
+juni 2017)og skal læses i sammenhæng med Basisprospektet og 
+eventuelle tillæg hertil for at få alle de relevante oplysninger om 
+Obligationerne 
+b) at Basisprospektet og eventuelle tillæg hertil er offentliggjort elek-
+tronisk på Realkredit Danmark A/S’ hjemmeside www.rd.dk/Inve-
+stor
+
+--- Page 55 ---
+Page 55 of 62 
+ 
+c) at man for at få de fulde oplysninger både skal læse Basisprospek-
+tet, eventuelle tillæg til Basisprospektet og de Endelige Vilkår 
+d) [at resuméet for den konkrete udstedelse er knyttet som bilag A til 
+de Endelige Vilkår.][Referencen til resuméet fjernes i det tilfælde 
+det ikke er relevant for den konkrete udstedelse]    
+ 
+ 
+ 
+ 
+ 
+Disse Endelige Vilkår underskrives hermed på vegne af Realkredit Danmark A/S’ ledelse i hen-
+hold til særlig bemyndigelse fra Realkredit Danmark A/S’ bestyrelse: 
+ 
+ 
+[København] [*], mm åååå 
+ 
+ 
+ 
+Carsten Nøddebo Rasmussen 
+ 
+Klaus Kristiansen 
+Administrerende direktør  
+ 
+Direktør 
+ 
+ 
+Medlem af direktionen
+
+--- Page 56 ---
+Page 56 of 62 
+ 
+ 
+Kapitalcenter 
+Kapitalcenter [T] [S] [A][I Øvrigt] [andet kapitalcenter] 
+[*] 
+ 
+Obligationstype 
+[Særligt Dækkede Realkreditobligationer (SDRO)] [Real-
+kreditobligationer (RO)] 
+ 
+[Obligationerne i serie [*] anvendes til finansiering af lån 
+med sikkerhed i ejendomme, der er defineret som grønne 
+aktiver i henhold til Danske Bank Group Green Bond 
+Framework.  
+  
+Danske Bank Group Green Bond Framework kan ses på: 
+www.rd.dk/Investor.] 
+[*] 
+ 
+Valuta 
+[DKK] [EUR] [SEK] [NOK] [anden valuta] 
+[*] 
+ 
+Rente 
+Renten er [fast][variabel][*].  
+ 
+[Kuponrenten fastsættes som [CIBOR] [STIBOR] 
+[CITA] [NIBOR] [EURIBOR] [anden referencerente] 
+rentesatsen, jf. definitionen nedenfor, [multipliceret med 
+[365/360] [anden brøk]] og derefter tillagt et for hver 
+ISIN-kode fastsat rentetillæg.] 
+ 
+[Herefter afrundes kuponrenten til [to][*] decimaler.] 
+[*] 
+ 
+[Definition af referencerentesat-
+sen] 
+[3m]/[6m] [CIBOR]/[CITA]/[EURIBOR]/[STIBOR]/ 
+[NIBOR] [●] leveres af [benchmark administratorens ju-
+ridiske navn (”Administratoren”)/European Money Mar-
+kets Institute (”EMMI”).]  
+ 
+[På datoen for disse Endelige vilkår fremgår [Administra-
+toren/EMMI] [ikke] af ESMA´s register for administrato-
+rer og benchmarks, der er oprettet og vedligeholdt af Den 
+Europæiske Værdipapirtilsynsmyndighed i henhold til ar-
+tikel 36 i Forordning (EU) 2016/2011 (”Benchmarkfor-
+ordningen”).]  
+ 
+[Så vidt Udsteder er bekendt gælder overgangsbestem-
+melserne i artikel 51 i Benchmarkforordningen, og der 
+kræves ikke for øjeblikket, at [Administratoren/EMMI] 
+har opnået tilladelse eller registrering].  
+ 
+[*] 
+ 
+Betalingstermin 
+[Betalingsterminerne for renter og forfaldne Obligationer 
+er den første [danske] [Target2] [*] bankdag efter udløbet 
+af en terminsperiode.] [Beskrivelse af andre betalingster-
+miner]
+
+--- Page 57 ---
+Page 57 of 62 
+ 
+[*] 
+ 
+[Opkrævning af negativ kupon] 
+ 
+[Opkrævningsmetode:] [Afdragsmodellen] [Likviditetsmo-
+dellen] [anden model]  
+[- som beskrevet i Basisprospektet, Kapitel 7 Værdipapirno-
+ten.] 
+ 
+[Kurs:] [markedskurs] [pari] [anden kurs]  
+ 
+[*] 
+ 
+Amortisation 
+[Obligationerne amortiseres i samme omfang som de lån, 
+de finansierer.]  
+[Investor modtager rente af hovedstolen på hver beta-
+lingsdag i Obligationens løbetid. Ved udløb indløses Ob-
+ligationerne til pari med mindre de forlænges i henhold 
+til § 6 i Lov om realkreditlån og realkreditobligationer 
+mv.]  
+[Obligationerne amortiseres i samme omfang som de lån, 
+de finansierer. Ved udløb indløses Obligationerne til pari 
+med mindre de forlænges i henhold til § 6 i Lov om real-
+kreditlån og realkreditobligationer mv.] 
+ 
+[*] 
+ 
+Stykstørrelse 
+[0,01] [1] [*] 
+ 
+Registreringssted 
+[VP Securities A/S 
+Weidekampsgade 14 
+2300 København S]  
+[Euronext VPS  
+Fred. Olsons gate 1 
+NO – 0152 Oslo] 
+ 
+ [*]  
+ 
+Noteringssted 
+[NASDAQ Copenhagen A/S 
+Postbox 1040 
+1007 København K] 
+ 
+[*] 
+ 
+Aftaler om placering af Obligatio-
+nerne 
+[Realkredit Danmark A/S har ikke indgået aftale med 
+værdipapirhandlere om placering af Obligationerne.] 
+ 
+[Obligationerne er på vegne af Realkredit Danmark A/S 
+placeret i markedet af de finansielle formidlere.] 
+ 
+[*] 
+ 
+Finansielle formidlere 
+[Realkredit Danmark A/S [har/har ikke] givet samtykke 
+til, at finansielle formidlere kan benytte Basisprospektet i 
+forbindelse med udbuddet og placeringen af Obligatio-
+nerne]
+
+--- Page 58 ---
+Page 58 of 62 
+ 
+[*] 
+ 
+Øvrige vilkår  
+[Beskrivelse af eventuelle øvrige vilkår] 
+ 
+ [*]
+
+--- Page 59 ---
+Page 59 of 62 
+ 
+[Obligationer med variabel rente: 
+Tabel 1 
+Obligationer med variabel rente 
+ISIN-kode 
+Referen-
+cerente 
+Rentetillæg 
+p.a. 
+Initial rente 
+p.a. 
+Antal ter-
+miner pr. 
+år 
+Rentegulv 
+Forlænges 
+ved fejlet 
+refinansie-
+ring 
+Forlænges 
+ved rente-
+stigning 
+Konven-
+tion 
+Udløb 
+Amortisa-
+tion 
+[*] 
+ 
+DK00046xxxxx 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DK00092xxxxx 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tabel 2 
+Obligationer med variabel rente 
+ISIN-kode 
+Termins-pe-
+riode 
+Antal årlige 
+rente-fastsæt-
+telser 
+Rentefast 
+sættelsesdag* 
+Første rente-
+fastsættelse 
+gældende fra 
+Startdato for 
+første rentepe-
+riode 
+Åbningsdato 
+Lukningsdato 
+Noteringsdato 
+[*] 
+ 
+DK00046xxxxx 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DK00092xxxxx 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+] 
+[Obligationer med fast rente: 
+Tabel 1 
+Obligationer med fast rente 
+ISIN-kode 
+Årlig kupon 
+[Forlænges ved 
+fejlet refinansie-
+ring] 
+[Forlænges ved 
+rentestigning] 
+Konvention 
+Udløb 
+Amortisation 
+[*] 
+ 
+DK00046xxxxx 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DK00092xxxxx
+
+--- Page 60 ---
+Page 60 of 62 
+ 
+ 
+Tabel 2 
+Obligationer med fast rente 
+ISIN-kode 
+[Udløb] 
+Antal terminer 
+pr. år 
+Terminsperiode 
+Startdato for 
+første renteperi-
+ode 
+Åbningsdato 
+Lukningsdato 
+Noteringsdato 
+[*] 
+ 
+DK00046xxxxx 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DK00092xxxxx 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+]
+
+--- Page 61 ---
+Page 61 of 62 
+ 
+Bilag 3: Definitioner 
+ 
+I dette Basisprospekt skal følgende ord og udtryk have den betydning, som er anført nedenfor: 
+ 
+• 
+”Basisprospekt” er dette basisprospekt godkendt den 1. juli 2021 
+ 
+• 
+ ”RO” er Realkreditobligationer 
+ 
+• 
+”SDRO” er Særligt Dækkede Realkreditobligationer 
+ 
+• 
+"Obligationer" betyder enhver type værdipapirer, der er udstedt under Basisprospektet, dvs. 
+SDRO og RO 
+ 
+• 
+”Endelige vilkår” er de endelige vilkår, hvorunder de konkrete Obligationer udstedes 
+ 
+• 
+”Obligationsejer” er de investorer, der har ejerskab til Obligationer 
+ 
+• 
+”Seneste årsrapport” er Årsrapport 2020 for Realkredit Danmark A/S 
+ 
+• 
+”Seneste årsrapporter” er Årsrapporten 2019 for Realkredit Danmark A/S og Årsrapporten 
+2020 for Realkredit Danmark A/S
+
+--- Page 62 ---
+Page 62 of 62 
+ 
+Bilag 4: Lovhenvisninger 
+ 
+Liste over lovgivning, der indgår i Basisprospektet: 
+ 
+• 
+”Afviklingsloven” er lov nr. 24 om restrukturering og afvikling af visse finansielle virksomhe-
+der af den 4. januar 2019 
+• 
+”Almenboligloven” er lovbekendtgørelse nr. 1203 om almene boliger af den 3. august 2020 
+• 
+”Bekendtgørelse om obligationsudstedelse, balanceprincip og risikostyring” er bekendtgørelse 
+nr. 1425 om obligationsudstedelse, balanceprincip og risikostyring af 16. december 2014 
+• 
+”Bekendtgørelse om realkreditinstitutters værdiansættelse og låneudmåling” er bekendtgørelse 
+nr. 416 om realkreditinstitutters værdiansættelse og låneudmåling af den 27. april 2017 
+• 
+”Bekendtgørelse om refinansiering af rentetilpasningslån” er bekendtgørelse nr. 1038 om refi-
+nansiering af rentetilpasningslån af den 2. september 2015 
+• 
+”Bekendtgørelse om værdiansættelse af pant og lån i fast ejendom, som stilles til sikkerhed for 
+udstedelse af SDRO og SDO” er bekendtgørelse nr. 417 om værdiansættelse af pant og lån i 
+fast ejendom, som stilles til sikkerhed for udstedelse af SDRO og SDO, af den 27. april 2017 
+• 
+”Forældelsesloven” er lov nr. 1238 om forældelse af fordringer af den 9. november 2015 
+• 
+”Garantifondsloven” er lov nr. 1185 om en garantifond for indskydere og investorer af den 19. 
+september 2018 
+• 
+”Kapitalkravsdirektivet (CRD IV)” er Europa-Parlamentets og Rådets direktiv 2013/36/EU af 
+26. juni 2013 om adgang til at udøve virksomhed som kreditinstitut og om tilsyn med kreditin-
+stitutter og investeringsselskaber, om ændring af direktiv 2002/87/EF og om ophævelse af di-
+rektiv 2006/48/EF og 2006/49/EF 
+• 
+”Kapitalkravsforordningen (CRR)” er Europa-Parlamentets og Rådets forordning (EU) nr. 
+575/2013 af 26. juni 2013 om tilsynsmæssige krav til kreditinstitutter og investeringsselskaber 
+og om ændring af forordning (EU) nr. 648/2012 
+• 
+”Konkursloven” er konkurslov nr. 11 af den 6. januar 2014 
+• 
+”Kursgevinstloven” er lov nr. 1283 om skattemæssig behandling af gevinst og tab på fordrin-
+ger, gæld og finansielle kontrakter af den 25. oktober 2016 
+• 
+”Lov om finansiel virksomhed” er lov nr. 1447 om finansiel virksomhed af den 11. september 
+2020 
+• 
+”Lov om realkreditlån og realkreditobligationer mv.” er lov nr. 1188 om realkreditlån og RO 
+mv. af den 19. september 2018 
+• 
+”Kapitalmarkedsloven” er lovbekendtgørelse nr.1767 om kapitalmarkeder af 27. november 
+2020
