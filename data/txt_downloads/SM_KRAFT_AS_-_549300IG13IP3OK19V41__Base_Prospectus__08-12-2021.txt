@@ -1,0 +1,3685 @@
+--- Page 1 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Småkraft AS 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Joint Lead Managers: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Oslo, 8 December 2021
+
+--- Page 2 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+2
+Important information 
+ 
+The Base Prospectus is based on sources such as annual reports and publicly available information and forward-
+looking information based on current expectations, estimates and projections about global economic conditions, as 
+well as the economic conditions of the regions and industries that are major markets for Småkraft AS’ (the Company) 
+and Guarantors’ (including subsidiaries and affiliates) lines of business. 
+ 
+A prospective investor should consider carefully the factors set forth in Chapter 1 Risk factors, and elsewhere in the 
+Prospectus, and should consult his or her own expert advisers as to the suitability of an investment in the bonds. 
+ 
+IMPORTANT – EEA AND UK RETAIL INVESTORS - If the Final Terms in respect of any bonds includes a legend 
+titled "Prohibition of Sales to EEA Retail Investors" and/or "Prohibition of Sales to UK Retail Investors", the bonds 
+are not intended to be offered, sold or otherwise made available to and should not be offered, sold or otherwise 
+made available to any retail investor in the European Economic Area (‘EEA’) and/or in the United Kingdom (the 
+“UK”). Consequently no key information document required by Regulation (EU) No. 1286/2014 (as amended) (the 
+PRIIPs Regulation) (and for UK, as it forms part of domestic law by virtue of the EUWA (the UK PRIIPs Regulation)) 
+for offering or selling the bonds or otherwise making them available to retail investors in the EEA and/or the UK has 
+been prepared and therefore offering or selling the bonds or otherwise making them available to any retail investor 
+in the EEA and/or the UK may be unlawful under the PRIIPs Regulation and/ or the UK PRIIPS Regulation. 
+ 
+MiFID II product governance and/or UK MiFIR product governance – The Final Terms in respect of any bonds 
+will include a legend titled “MiFID II product governance” and/or “UK MiFIR product governance” which will outline 
+the target market assessment in respect of the bonds and which channels for distribution of the bonds are 
+appropriate. Any person subsequently offering, selling or recommending the bonds (a “distributor”) should take into 
+consideration the target market assessment; however, a distributor subject to MiFID II is responsible for undertaking 
+its own target market assessment in respect of the bonds (by either adopting or refining the target market 
+assessment) and determining appropriate distribution channels. 
+ 
+This Base Prospectus is subject to the general business terms of the Joint Lead Managers, available at their 
+websites (www.dnb.no, www.nordea.no and www.seb.no).  
+ 
+The Joint Lead Managers and/or any of their affiliated companies and/or officers, directors and employees may be 
+a market maker or hold a position in any instrument or related instrument discussed in this Base Prospectus and 
+may perform or seek to perform financial advisory or banking services related to such instruments. The Joint Lead 
+Managers' corporate finance department may act as manager or co-manager for this Company and/or Guarantors 
+in private and/or public placement and/or resale not publicly available or commonly known.   
+ 
+Copies of this Base Prospectus are not being mailed or otherwise distributed or sent in or into or made available in 
+the United States. Persons receiving this document (including custodians, nominees and trustees) must not 
+distribute or send such documents or any related documents in or into the United States. 
+ 
+Other than in compliance with applicable United States securities laws, no solicitations are being made or will be 
+made, directly or indirectly, in the United States. Securities will not be registered under the United States Securities 
+Act of 1933 and may not be offered or sold in the United States without registration or an applicable exemption from 
+registration requirements. 
+ 
+The distribution of the Base Prospectus may be limited by law also in other jurisdictions, for example in non-EEA 
+countries. Approval of the Base Prospectus by Finanstilsynet (the Norwegian FSA) implies that the Base Prospectus 
+may be used in any EEA country. No other measures have been taken to obtain authorisation to distribute the Base 
+Prospectus in any jurisdiction where such action is required. 
+ 
+The Base Prospectus dated 8 December 2021 together with a Final Terms and any supplements to these 
+documents constitute the Prospectus. 
+ 
+The content of this Base Prospectus does not constitute legal, financial or tax advice and potential investors should 
+seek legal, financial and/or tax advice. 
+ 
+Unless otherwise stated, this Base Prospectus is subject to Norwegian law. In the event of any dispute regarding 
+the Base Prospectus, Norwegian law will apply.
+
+--- Page 3 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+3
+TABLE OF CONTENTS:  
+ 
+1 RISK FACTORS .................................................................................................................4 
+2 DEFINITIONS ...................................................................................................................8 
+3 PERSONS RESPONSIBLE .................................................................................................. 10 
+4 STATUTORY AUDITORS ................................................................................................... 11 
+5 INFORMATION ABOUT THE ISSUER AND THE GUARANTORS ................................................ 12 
+6 BUSINESS OVERVIEW ..................................................................................................... 14 
+7 ORGANISATIONAL STRUCTURE ........................................................................................ 18 
+8 TREND INFORMATION ..................................................................................................... 19 
+9 ADMINISTRATIVE, MANAGEMENT AND SUPERVISORY BODIES ............................................. 20 
+10 MAJOR SHAREHOLDERS ................................................................................................ 24 
+11 FINANCIAL INFORMATION CONCERNING THE COMPANY'S ASSETS AND LIABILITIES, 
+FINANCIAL POSITION AND PROFITS AND LOSSES ...................................................... 25 
+12 DOCUMENTS AVAILABLE ................................................................................................ 28 
+13 FINANCIAL INSTRUMENTS THAT CAN BE ISSUED UNDER THE BASE PROSPECTUS ................ 29 
+14 THIRD PARTY INFORMATION AND STATEMENT BY EXPERTS AND DECLARATIONS OF 
+ANY INTEREST ....................................................................................................... 38 
+CROSS REFERENCE LIST .................................................................................................... 39 
+JOINT LEAD MANAGERS' DISCLAIMER ................................................................................. 41 
+ANNEX 1 ASSOCIATED COMPANIES AND SUBSIDIARIES OF THE ISSUER ................................. 42 
+ANNEX 2 HYDRO POWER PLANTS AND PLANT OWNING COMPANIES OWNED BY SMÅKRAFT 
+GREEN BOND 2 AS ................................................................................................. 43 
+ANNEX 3 TEMPLATE FOR FINAL TERMS FOR FIXED AND FLOATING RATE BONDS ...................... 44
+
+--- Page 4 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+4
+1 Risk factors   
+Investing in bonds issued by Småkraft AS and guaranteed by the Guarantors involves inherent risks.   
+ 
+As the Company is the parent company of the Småkraft Group, the risk factors for the Småkraft Group are 
+deemed to be equivalent for the purpose of this Base Prospectus. 
+ 
+For the purpose of this Registration Document, the risk factors for the Company and the Guarantors are deemed 
+to be equivalent. 
+ 
+The risks and uncertainties described in the Prospectus are risks of which the Company is aware and that the 
+Company considers to be material to its business. If any of these risks were to occur, the Company’s and/or the 
+Guarantors’ business, financial position, operating results or cash flows could be materially adversely affected, 
+and the Company and/or Guarantors could be unable to pay interest, principal or other amounts on or in 
+connection with the bonds.  Prospective investors should carefully consider, among other things, the risk factors 
+set out in this Base Prospectus, before making an investment decision.  
+ 
+An investment in the bonds is suitable only for investors who understand the risk factors associated with this type 
+of investment and who can afford a loss of all or part of their investment. 
+ 
+ 
+Risks related to the business 
+Technological changes in the Energy Market and Oversupply of Electricity 
+The Energy Market faces rapid changes in technology and sees significant growth in Renewable Energy. 
+Technological changes may introduce new more efficient sources of energy, disrupting the energy market. This 
+may lead to future surplus of energy in the electricity market. This may have a negative impact on the value of the 
+Småkraft Group’s Commodities and as such a material reduction in the valuation of the Småkraft Group’s 
+business, financial conditions, and results. 
+ 
+Electricity price level 
+The Småkraft Group’s business is exposed to fluctuations in the electricity prices. The electricity prices fluctuate 
+rapidly and are in its nature volatile. This may in turn have a material adverse effect on the Småkraft Group’s 
+financial condition, business, prospects and results of operations. 
+ 
+Elcert price level 
+The Småkraft Group’s business is exposed to fluctuations in the el- cert prices. Over the last year, the spot-prices 
+have fluctuated between 2 SEK/MWh and 27 SEK/Mwh. 
+ 
+It is impossible to predict future price movements, and there is a particular risk when committing to long- term 
+contracts or acquisitions based on assumed future elcert prices. The Småkraft Group can give no assurance that 
+future elcert prices will be sufficient to generate an economic return and decline in such prices could result in 
+reduced cash flows from the Småkraft Group’s operations and reduced valuation of the Småkraft Group’s 
+business. This may in turn have a material adverse effect on the Småkraft Group’s financial condition, business, 
+prospects and results of operations. 
+ 
+Counterparty risks 
+In its business, the Småkraft Group has contractual arrangements with suppliers, customers and other 
+counterparts that expose the Småkraft Group to counterparty and contractual risks. There is no assurance that 
+the Småkraft Group will not face financial losses as a result of default by one or more of these customers or other 
+counterparties. 
+ 
+Hydrology and Meteorology 
+Hydrology and Meteorology impacts production. Small scale hydro power depends on the actual water running in 
+the river, as small scale hydro power plants normally have limited reservoir capacity. Low winter temperatures or 
+dry summers could thus have an adverse impact on the Issuer's ability to service its financial obligations. 
+ 
+Refinancing 
+The Småkraft Group assumes that it will be able to refinance its bank debt ahead of maturity in 2024, its bond 
+issue of 50 million EUR raised in 2018 ahead of maturity in 2023 and its bond issue of 50 million EUR raised in 
+2021 ahead of maturity in 2026. However, there is no assurance that the Småkraft Group will obtain such 
+refinancing. 
+ 
+ 
+Grid risk 
+The grid owner can impose periodic stop in operation of individual powerplants to maintain the grid and related 
+infrastructure. Such grid stops may have adverse effect on the Småkraft Group´s cash flow.
+
+--- Page 5 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+5
+Liquidity 
+It is the Småkraft Group´s policy to make sure that it has sufficient funds to meet its financial obligations. 
+However, the Småkraft Group can give no assurance that it has sufficient liquidity to meet the financial obligations 
+as they fall due. 
+ 
+Operational production risk 
+The Småkraft Group´s powerplants are mainly based on run of river with limited, if any, reservoir. Powerplants 
+may shut down for several technical and operational reasons, with consequential losses in production. The 
+Småkraft Group has insurance covering production losses, however this may not cover all financial losses from 
+such loss of production. This may have adverse effects on the Småkraft Group’s revenue and cash flow. 
+ 
+Landowner agreements 
+The Småkraft Group is party to numerous landowner agreements with several landowners throughout Norway, 
+and the Småkraft Group's counterparty in these landowner agreements change when the ownership to the 
+applicable property change. The Småkraft Group risks that some landowners, f.ex. following transfer of the 
+applicable property, may dispute 
+the agreements or the present interpretation of the agreements, which may lead to legal costs/enforcement costs 
+or which may otherwise have adverse effect on the Småkraft Group's revenue and/or operational costs. 
+ 
+Energy Policies 
+As the Småkraft Group operates within the energy sector, the Småkraft Group’s activities may be affected by 
+changes in relevant rules and regulations, such as the rules regulating the Norwegian Energy Sector, the 
+electricity market, the transmission of electricity, other related infrastructure, the additional tax regime that hydro 
+power production in Norway is subject to etc. Changes in such regulations may have material adverse effects on 
+the Småkraft Group’s financial condition and results. 
+ 
+Acquisition risk 
+The Småkraft Group has signed acquisitions and plan to sign further such acquisitions in the future. Such 
+acquisitions lead to new powerplants in the Småkraft Group. New powerplants may not produce as assumed, 
+because of different hydrology than expected, different technical condition on the powerplant than expected or 
+different legal conditions than expected. While the Småkraft Group performs external and internal due diligences 
+on hydrology, technical condition and legal matters, there is no assurance that the Småkraft Group will not face 
+financial losses as a result of acquisitions. 
+ 
+Financing risk 
+As the Småkraft Group has signed acquisitions and plan to sign further such acquisitions in the future, the 
+Småkraft Group has an obligation to pay the acquisition price upon closing of the relevant agreement. While the 
+Småkraft Group has a financial policy that the purchase price is settled by new equity and new debt, there is no 
+assurance that the Småkraft Group in the future not will come in a position where planned financing is not in place 
+at closing and that the obligation will have a material, adverse effect on liquidity, cash flow and the Småkraft 
+Group’s general financial condition. 
+ 
+Substantial indebtedness 
+Following the issuance of Bonds, the Småkraft Group will have substantial indebtedness which could affect its 
+ability to obtain additional financing, cause vulnerability to general adverse economic and industry conditions, 
+cause a competitive disadvantage, limit its ability to refinance indebtedness and adjust to changing market 
+conditions and therefore have negative consequences for the Bond investors. 
+ 
+Interest rate risk 
+The Småkraft Group has several loans with fully or partly floating interests. Changed interest rates will have an 
+effect on the Småkraft Group’s financial condition, cash flows and financial results. 
+ 
+Natural disaster risk 
+Natural disasters such as floodings, storms and hurricanes, landslides, avalanches, etc., may affect the Småkraft 
+Group´s installations significantly. While general public Natural Disaster Compensations normally will be relevant, 
+there is no assurance that such compensations will cover all future natural disasters outside the normal 
+insurance. 
+ 
+Currency risk 
+The Småkraft Group has electricity revenue and PPA/ EPA revenue in EUR, el- cert revenue in NOK and several 
+cost items in NOK. The Småkraft Group has a policy to balance the EUR- revenue with EUR- loans. There is no 
+assurance that EUR- loans balance the EUR- revenue perfectly. Adverse currency fluctuations may adversely 
+affect the Småkraft Group’s general financial condition. 
+ 
+Technical risk 
+The Småkraft Group has some valuable installations such as dams, penstocks, electromechanical equipment, 
+etc. Such installations will be affected by wear and tear over time. Even with good and proactive maintenance,
+
+--- Page 6 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+6
+installations may at some point face malfunctions, errors or breakdowns. While insurances in general cover for 
+such errors, the insurance may in some instances not fully cover all losses in production and/ or the full adverse 
+financial effect of the error. Such financial effects will have an impact on the Småkraft Group’s financial 
+conditions. 
+ 
+Safety 
+The Småkraft Group’s powerplants are subject to large electrical, mechanical and hydrological power. This power 
+represents a risk, if it is not handled properly. The Småkraft Group has implemented mitigating safeguards such 
+as physical barriers, safety procedures, etc. However, it is impossible to eliminate all risks. 
+ 
+ 
+Risk related to the bonds 
+Limited public market 
+The liquidity of any market for the Bonds will depend on the number of holders of those Bonds, investor interest at 
+large and relative to the Company and its business segment in particular and the interest in securities dealers in 
+making a market in those securities and other factors. The Bonds may trade at prices that may be lower than the 
+principal amount or purchase price. If an active market does not develop or is not maintained, the price and 
+liquidity of the Bonds may be adversely affected. 
+ 
+The market price of the Bonds may be volatile 
+The market price of the Bonds could be subject to significant fluctuations in response to actual or anticipated 
+variations in the Company's operating result and those of its competitors, adverse business developments, 
+changes to the regulatory environment in which the Småkraft Group operates, changes in financial estimates by 
+securities analysts and the actual or expected sale of a large number of Bonds, as well as other factors. 
+Consequently, it may prove challenging to dispose of the Bonds. The Bonds may not be a suitable investment for 
+all investors. 
+ 
+The price of the Bonds are subject to risk of interest rate and currency fluctuation 
+The price of a single Bond will fluctuate in accordance with the interest rate and credit markets in general, the 
+market view of the credit risk of this particular Bond issue, and the liquidity of these bonds in the market. Further, 
+the Bonds are denominated in EUR and any investor outside of the EU wishing to invest in the Bonds, or to sell 
+Bonds, will be subject to an exchange rate risk which may cause additional costs to the investor. 
+ 
+The Company's ability to services its indebtedness depends on many factors beyond its control 
+The Company's ability to make payments on, or to refinance its obligations under, the Bonds will depend upon the 
+Småkraft Group's financial and operating performance which, in turn, will be subject to prevailing economic and 
+competitive conditions and to financial and business factors, many of which may be beyond its control. 
+ 
+Liquidity risk 
+The Småkraft Group's policy on overall liquidity is to ensure that there are sufficient funds in place to meet its 
+financial obligations, however there can be no assurance that there will in the future be sufficient liquidity to meet 
+the financial obligations as they fall due. 
+ 
+Refinancing 
+The Småkraft Group's has in its forecasts assumed that the Bonds will be refinanced in 2023 and 2026. However, 
+there can be no assurance that such refinancing will be obtained. 
+ 
+Value and enforcement of security 
+The value of the collateral securing the Bonds may not be sufficient to satisfy the Company’s obligations under 
+the Bonds. There can be no assurance that the bond trustee will be able to monetise any of the security, without 
+delays or that the proceeds obtained will be sufficient to pay all of the secured obligations. Furthermore, there can 
+be no assurance that the bond trustee will be able to enforce or realize any or all of the security. 
+ 
+Change of control – the Company's ability to redeem the Bonds with cash may be limited 
+Upon the occurrence of a change of control event, each individual bondholder shall have a right of prepayment of 
+the Bonds plus accrued and unpaid interest to the date of redemption. However, it is possible that the Company 
+will not have sufficient funds at the time of the change of control event to make the required redemption of Bonds. 
+The Company's failure to redeem tendered Bonds would constitute an event of default under the bond terms 
+relating to the Bonds (the "Bond Terms"). 
+ 
+Mandatory prepayment events may lead to a prepayment of the Bonds in circumstances where an investor may 
+not be able to reinvest the prepayment proceeds at an equivalent rate of interest: The Bond Terms may contain 
+terms and conditions whereby the Bonds are subject to mandatory prepayment by the Company on the 
+occurrence of certain specified events. Following any early redemption after the occurrence of a mandatory
+
+--- Page 7 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+7
+prepayment event, it may not be possible for bondholders to reinvest such proceeds at an effective interest rate 
+as high as the interest rate on the Bonds and may only be able to do so at a significantly lower rate. 
+ 
+Modifications, waivers and or authorizations without the consent of the bondholders  
+The Bond Terms will contain provisions for calling meetings of bondholders to consider matters affecting their 
+interests generally. These provisions permit defined majorities to bind all bondholders, including bondholders who 
+did not attend and vote at the relevant meeting and bondholders who voted in a manner contrary to the majority. 
+The bond trustee may agree, without the consent of the bondholders, to certain modifications to the Bond Terms 
+and other finance documents. 
+ 
+Restricting conditions in the Bond Terms 
+The terms and conditions of the Bond Terms will impose certain operating and financial restrictions, which may 
+prevent the Småkraft Group from capitalizing on business opportunities and taking some actions. 
+ 
+Transfer restrictions 
+The Bonds are being offered and sold pursuant to an exemption from registration under United States and 
+applicable state securities laws. Therefore, the Bonds may be transferred or resold in the United States only in a 
+transaction registered under.
+
+--- Page 8 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+8
+2 Definitions 
+ 
+Additional Plant Owning Companies 
+Means any Plant Owning Companies acquired for the purpose of acquiring 
+and owning New Hydro Power Plants. 
+ 
+Annual Report 2020 
+Småkraft AS’ financial statements for the year ended 31 December 2020. 
+ 
+Annual Report 2019 
+Småkraft AS’ financial statements for the year ended 31 December 2019. 
+ 
+Articles of Association 
+The articles of association of Småkraft AS or the Guarantors, as amended 
+and currently in effect.  
+ 
+Base Prospectus 
+ This document dated 8 December 2021. 
+ 
+ 
+ The Base Prospectus has been approved by the Norwegian FSA, as 
+competent authority under Regulation (EU) 2017/1129. The Norwegian 
+FSA only approves this Base Prospectus as meeting the standards of 
+completeness, comprehensibility and consistency imposed by Regulation 
+(EU) 2017/1129. Such approval should not be considered as an 
+endorsement of the Issuer that is the subject of this Base Prospectus.  
+ 
+Board or Board of Directors 
+The board of directors in the Issuer or the Guarantors. 
+ 
+Bond Terms 
+Means the bond terms agreed between the Issuer and Nordic Trustee AS 
+for each issuance of bonds, including all attachments which form an 
+integrated part of the bond terms, in each case as amended and/or 
+supplemented from time to time. 
+ 
+CICERO 
+Center for International Climate and Environmental Research - Oslo 
+ 
+Companies Registry 
+The Norwegian Registry of Business Enterprises (Foretaksregisteret) 
+ 
+Company/Issuer 
+Småkraft AS  
+ 
+Final Terms 
+Document to be prepared for each new issue of bonds under the 
+Prospectus. The template for Final Terms is included in the Base 
+Prospectus as Annex 3. 
+ 
+The template for Final Terms has been approved by the Norwegian FSA, 
+as competent authority under Regulation (EU) 2017/1129. The Norwegian 
+FSA only approves this template for Final Terms as meeting the 
+standards of completeness, comprehensibility and consistency imposed 
+by Regulation (EU) 2017/1129. Such approval should not be considered 
+as an endorsement of the quality of the securities that are the subject of 
+this template for Final Terms. Investors should make their own 
+assessment as to the suitability of investing in the securities. 
+ 
+Group 
+For the purpose of listing “Småkraft AS 1.875% senior secured 
+EUR 100,000 green bonds 2021/2026” with ISIN code NO0010968449, 
+the Group means the Issuer, Småkraft Green Bond 2 AS and each of 
+Småkraft Green Bond 2 AS’ subsidiaries from time to time 
+ 
+Group Company 
+Any person that is a member of the Group. 
+ 
+Guarantors 
+For the purpose of listing “Småkraft AS 1.875% senior secured EUR 
+100,000 green bonds 2021/2026” with ISIN code NO0010968449, the 
+Guarantors means Småkraft Green Bond 2 AS with registration number 
+825 750 932 and Salvasskardelva Kraftverk AS with registration number 
+820 804 112 and Sagåna Kraft AS with registration number 924 868 678.  
+ 
+Salvasskardaleva Kraftverk AS  
+Annual Report 2019 
+Salvasskardaleva Kraftverk AS’ financial statements for the year ended 
+31 December 2019.
+
+--- Page 9 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+9
+Salvasskardaleva Kraftverk AS  
+Annual Report 2020 
+Salvasskardaleva Kraftverk AS’ financial statements for the year ended 
+31 December 2020. 
+ 
+Salvasskardaleva Kraftverk AS  
+Articles of Association 
+The articles of association of Salvasskardaleva Kraftverk AS, as amended 
+and currently in effect. 
+ 
+Salvasskardaleva Kraftverk AS 
+ Interim Report 1st half 2021 
+Salvasskardaleva Kraftverk AS AS financial statements for the first half of 
+2021. 
+ 
+Småkraft Green Bond 2 AS  
+Annual Report 2020 
+Småkraft Green Bond 2 AS’ financial statements for the year ended 
+31 December 2020. 
+ 
+Småkraft Green Bond 2 AS  
+Articles of Association 
+The articles of association of Småkraft Green Bond 2 AS, as amended 
+and currently in effect. 
+ 
+Småkraft Green Bond 2 AS 
+ Interim Report 1st half 2021 
+Småkraft Green Bond 2 AS financial statements for the first half of 2021. 
+ 
+Sagåna Kraft AS  
+Annual Report 2020 
+Sagåna Kraft AS’ financial statements for the year ended 31 December 
+2020. 
+ 
+Sagåna Kraft AS  
+Articles of Association 
+The articles of association of Sagåna Kraft AS, as amended and currently 
+in effect. 
+ 
+Sagåna Kraft AS 
+ Interim Report 1st half 2021 
+Sagåna Kraft AS financial statements for the first half of 2021. 
+ 
+Hydro Power Plants 
+Means the hydroelectric power plants (small scale hydro power as run-of- 
+ 
+the-river hydro power plants, i.e. also including plants larger than 2 GWh, 
+if they are based on run-of-the-river with or without reservoirs) owned by 
+the Group from time to time. 
+ 
+Independent Auditor Report 2020 
+Report from the Issuer’s independent auditor regarding the financial 
+statements for 2020 
+ 
+IFRS 
+International Financial Reporting Standards 
+ 
+Interim Report 1st half 2021 
+Småkraft AS’ financial statements for the first half of 2021 
+ 
+ISIN 
+International Securities Identification Number 
+ 
+Joint Lead Managers 
+DNB Bank ASA, Nordea Bank Abp, Norwegian branch and Skandinaviska 
+Enskilda Banken AB (publ) 
+ 
+NOK 
+Norwegian kroner 
+ 
+NVE 
+The Norwegian Water Resources and Energy Directorate 
+ 
+Plant Owning Companies 
+Means: 
+(a) the Group Companies being owners of the Hydro Power Plants (each a 
+"Plant Owning Company") as set out in Annex 2 (Power Plant Companies 
+and Hydro Power Plants) hereto; and 
+ 
+(b) each Additional Plant Owning Company. 
+ 
+Småkraft Group 
+Means the Issuer and the consolidated subsidiaries 
+ 
+VPS or VPS System 
+The Norwegian Central Securities Depository, Verdipapirsentralen ASA
+
+--- Page 10 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+10
+3 Persons responsible  
+3.1 Persons responsible for the information 
+Persons responsible for the information given in the Base Prospectus are as follows: 
+Småkraft AS, P.O. Box 2389, Solheimsviken, N-5824 Bergen, Norway 
+ 
+3.2 Declaration by persons responsible 
+Småkraft AS declares that to the best of its knowledge, the information contained in the Base Prospectus is in 
+accordance with the facts and that the Base Prospectus makes no omission likely to affect its import.    
+ 
+ 
+Bergen, 8 December 2021
+
+--- Page 11 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+11
+4 Statutory Auditors   
+The statutory auditors for the Issuer and the Guarantors for the period covered by the historical financial 
+information are given in the table below. 
+ 
+The auditors are member of the Norwegian Institute of Public Accountants (“Den norske Revisorforening”). 
+ 
+Company 
+Year 
+Auditor 
+Auditor’s address 
+Småkraft AS 
+2019 and 2020 
+Pricewaterhouse-
+Coopers AS 
+Dronning Eufemias gt 71, N-0194 
+Oslo, Norway 
+Småkraft Green Bond 2 AS 
+2020 
+Pricewaterhouse-
+Coopers AS 
+Dronning Eufemias gt 71, N-0194 
+Oslo, Norway 
+Salvasskardaleva Kraftverk AS 
+2019 and 2020 
+Pricewaterhouse-
+Coopers AS 
+Dronning Eufemias gt 71, N-0194 
+Oslo, Norway 
+Sagåna Kraft AS 
+2020 
+Pricewaterhouse-
+Coopers AS 
+Dronning Eufemias gt 71, N-0194 
+Oslo, Norway
+
+--- Page 12 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+12
+5 Information about the Issuer and the Guarantors 
+5.1 Legal and commercial name, domicile and legal form 
+ 
+Both the Issuer and the Guarantors are private limited liability companies domiciled in Norway.   
+ 
+Legal name 
+Commercial name 
+Småkraft AS 
+Småkraft 
+Småkraft Green Bond 2 AS 
+Småkraft Green Bond 2 
+Salvasskardelva Kraftverk AS 
+Salvasskardelva Kraftverk 
+Sagåna Kraft AS 
+Sagåna Kraft 
+ 
+5.2 Place of registration, registration number and LEI code 
+ 
+Both the Issuer and the Guarantors are registered in the The Norwegian Companies Registry. 
+ 
+Legal name 
+Registration number 
+LEI code 
+Småkraft AS  
+984 616 155 
+549300IG13IP3OK19V41 
+Småkraft Green Bond 2 AS 
+825 750 932 
+636700W7X0VUHCWDLE71 
+Salvasskardelva Kraftverk AS 
+820 804 112 
+6367000LZVU58IUP1G07 
+Sagåna Kraft AS 
+924 868 678 
+636700RFA304OGC1BN32 
+ 
+5.3 Country of incorporation, date of incorporation and legislation 
+ 
+Both the Issuer and the Guarantors are incorporated in Norway under the laws of Norway, including the Private 
+Limited Liability Companies Act. 
+ 
+Legal name 
+Date of incorporation 
+Småkraft AS 
+24 April 2002 
+Småkraft Green Bond 2 AS 
+14 August 2020 
+Salvasskardelva Kraftverk AS 
+13 April 2018 
+Sagåna Kraft AS 
+05 March 2020 
+ 
+5.4 Address, telephone and website 
+ 
+Legal name 
+Address 
+Småkraft AS  
+Solheimsgaten 15, N-5058 Bergen, Norway 
+Småkraft Green Bond 2 AS 
+Solheimsgaten 15, N-5058 Bergen, Norway 
+Salvasskardelva Kraftverk AS 
+Solheimsgaten 15, N-5058 Bergen, Norway 
+Sagåna Kraft AS 
+Solheimsgaten 15, N-5058 Bergen, Norway 
+ 
+Both the Issuer and the Guarantors have telephone +47 55 60 74 00 and website https://smaakraft.no.  
+ 
+The information on the website does not form part of the Base Prospectus unless that information is incorporated 
+by reference into the Base Prospectus. 
+ 
+ 
+5.5 Objects and purposes  
+The Company's business is commercial exploitation of small powerplants, and everything associated with this 
+business, such as rehabilitation, buying, engineering, building, financing, operating and maintaining powerplants, 
+as well as buying and selling power production and the right to be certified as renewable energy. The company will 
+also have the right to enter into agreements on power purchases and rights to certify existing power plants as 
+renewable energy producer, according to the Issuer Articles of Association § 3. 
+ 
+The Småkraft Green Bond 2 AS’ business is procuction of renewable energy, and everything associated with this 
+business, such as owning, leasing, operating, maintaining and rehabilitation powerplants for renewable energy
+
+--- Page 13 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+13
+production, as well as buying and selling power production and certificates associated with this production. The 
+business could be operated alone, in cooperation with other companies or persons or by owing other companies, 
+according to the Småkraft Green Bond 2 AS Articles of Association § 3. 
+ 
+The Salvasskradelva Kraftverk AS' business is building and operating of Salvasskardelva powerplant and 
+everything associated with this business, according to the Salvasskradelva Kraftverk AS Articles of Association §3. 
+ 
+The Sagåna Kraft AS' business is activities in connection with the design, building and operating of Sagåna small 
+powerplant and everything associated with this business, according to the Sagåna Kraftverk AS Articles of 
+Association §2. 
+ 
+5.6 Changes in borrowing and funding structure since the last 
+financial year 
+There have been no significant changes in Småkraft AS or Småkraft Group’s borrowing and funding structure since 
+the last financial year. Subsequent to yearend, the following refinancing have taken place: 
+• 
+In june 2021 Småkraft AS refinanced a bank debt facity with the leading Nordic banks Nordea, DNB and 
+SEB. The EUR 160m bank debt facility amortizes over 40 year and has a three-year duration with option 
+to expand with an additional two years.  
+• 
+Småkraft also refinanced a bank debt facility in the 100% owned subsidiary Holmen Kraft AS. The EUR 
+20m bank debt facility amortizes over 30 years and has a five-year duration.  
+• 
+During 2021 Småkraft AS has acquired in total 20 powerplant owning companies. In some of the acquired 
+companies existing bank debt facility is continued. 
+ 
+5.7 Expected financing of activities 
+Småkraft or companies partly of fully owned by Småkraft continuously sign contracts acquiring new powerplants. 
+Småkraft has a financial policy to finance new acquisitions with 50-70% equity.  Existing owners of Småkraft are 
+committed to grow the firm and finance new acquisitions. Dutch pension asset manager APG (majority owner) has 
+committed an additional EUR 250m Equity to sustain growth. 
+ 
+Småkraft has build access to various types of debt-funding locally, nationally and internationally. Today the Småkraft 
+Group has a strong and robust financial position, and the management is continuously working on financing 
+activites. Småkraft will continue to diversify debt financing sources across different debt classes and banks. 
+Småkraft assumes that it will be able to refinance it’s main bank debt facility ahead of maturity in 2024. When 
+acquiring new companies, the plan is to issue new debt or take over existing bank debt in acquired companies. The 
+plan is also to enter into new long-term bilateral loan agreements or issue new green bonds.
+
+--- Page 14 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+14
+6 Business overview    
+ 
+6.1 Main categories of products sold and/or services performed  
+Småkraft AS is a renewable energy producer. The Småkraft Group is the largest Norwegian operator of small-
+scale hydropower plants with 145 power plants and a production capacity exceeding 1.5 Twh. The Småkraft 
+Group is also Europe’s largest owner and operator of small-scale power plants (the Company’s estimate) The 
+power plants are located in Norway and Sweden. 
+ 
+Small-scale hydropower plants use the natural topography to produce sustainable and renewable electricity from 
+river streams that naturally flows through its power stations. The electricity produced is then transported out on 
+the electricity grid and consumed. Småkraft's model for the development of small-scale power plants in 
+cooperation with landowners is based on the fact that Norway has private ownership of water rights. Småkraft 
+enters into water right lease agreements with the landowners owning the water rights, agreements which entitle 
+the Company to utilize the water in the rivers typically for a period varying from 40 to 100 years. The agreements 
+are normally entered into when the power plant is put into commercial operation. 
+ 
+Below is an overview of the geographical distribution of the hydropower plants controlled by the Småkraft Group:  
+ 
+1) A small hydropower plant is defined by NVE as a plant from 1 MW to 10MW capacity 2) Assuming 4,000 KWh p.a
+
+--- Page 15 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+15
+The Norwegian power market is divided into 5 pricing zones as defined by Statnett, where pricing is dependent on 
+each regions supply/demand and transferring capacity. Småkraft’s operations are highly diversified across these 
+5 pricing regions. There is a negative correlation between hydrological conditions (being the characteristics of 
+surfase water runoff including the direction of flow, flow rate and volume of water) and the electricity regional spot 
+price, implying that more than half of the price variations in Norway are determined by the hydrological conditions.  
+ 
+ 
+6.1.1 Småkraft AS 
+The Company is dedicated to a sustainable business model providing and developing the green energy supply. 
+Småkraft achieves high scores in sustainability benchmarks. All of Småkraft’s operations are related to run-of-
+river hydropower plants, where electricity is generated by the flow of the river. Such hydropower plants do not 
+burn any fossil fuels or pollute the air. Since hydropower plants do not use fuel, Småkraft’s power generation only 
+produces insignificant amounts of carbon dioxide. 
+ 
+The information below sets forth further details regarding Småkraft’s green energy production. 
+ 
+ 
+1)ESG- Framework is public 
+ 
+The Company’s green business model (as described in the chart below) has been awarded the highest validation 
+by the independent climate and environment research institute Cicero, which is an organization that identifies and 
+grades green bond investments.
+
+--- Page 16 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+16
+ 
+ 
+The Cicero green bond investment rating scale (Shades of Green) is shown below and shows the awarded dark 
+green validation for Småkraft AS. 
+ 
+ 
+Småkraft has achieved the highest score in the annual Global ESG Benchmark(GRESB) sustainability 
+assessment within its peer group. Småkraft received the highest rating, with 94 of 100 possible points, and has 
+achieved the highest score among participating hydropower companies in the assessment.  
+6.1.2 Småkraft Green Bond 2 AS 
+Småkraft Green Bond 2 AS is the owner of 24 Hydro Power plants where 22 of them are owned directly and two 
+are owned through Salvasskardelva Kraftverk AS and Sagåna Kraft AS. See Annex2. The powerplants are 
+diversified across all Norwegian pricing areas. The total production capacity of the Hydro Power plants is 273 
+Gwh. 
+6.1.3 Salvasskardelva Kraftverk AS 
+Salvasskardelva Kraftverk AS is the owner of the powerplant Salvasskardelva. The powerplant is in the 
+municipality Bardu in Troms and Finnmark county. The powerplant started production in January 2021. The 
+average production of the powerplant is 21,6 Gwh.  
+6.1.4 Sagåna Kraft AS 
+Sagåna Kraft AS is the owner of the powerplant Sagåna. The powerplant is in the municipality Hjelmeland in 
+Rogaland county. The powerplant is a newbuild powerplant, and started production in November 2021. The 
+expected yearly production of the powerplant is 10,9 Gwh.
+
+--- Page 17 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+17
+6.2 Significant new products or activities  
+Current project pipeline is shown in the figure below, together with information about ownership and financing for 
+the acquired powerplants to be delivered in desember 2021 and 2022.  
+ 
+The Company has secured close to 1,9TWh production capacity. Furthermore, there are new market 
+opportunities both for organic growth and acquisitions in the years to come. 
+ 
+ 
+ 
+6.3 Principal markets in which the issuer competes 
+6.3.1 Markets 
+Småkraft AS is the largest operator of small hydro power plants in Europe (based on Company estimates), and 
+the geographical distribution of these plants is shown in section 6.1. 
+ 
+The produced electricity is sent onto the electricity grid, the grid enables electricity to be transported from 
+producers to consumers. The grid also connects Norway's power system to other countries' grid systems. 
+Electricity produced by Småkraft and its Guantor is sold in the spot market on Nordpool. The market for the 
+Guarantors is the same for Småkraft AS and for the Guarantors. 
+6.3.2 Market development 
+The green shift and megatrends imply positive market conditions for green energy sources such as hydropower. 
+Key market developments indicating this growing trend are shown below:
+
+--- Page 18 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+18
+7 Organisational structure 
+7.1 Description of Issuer 
+Småkraft AS is a limited liability company, incorporated and domiciled in Norway. 
+ 
+Småkraft AS is the parent company of the Group and the Småkraft Group, in addition to being the main entity 
+within the groups for sale of electric energy, electricity-certificates and guarantees of origin. All energy and 
+currency derivatives are entered into by the Company on behalf of itself and the groups. 
+ 
+The Group consists of the Issuer, Småkraft Green Bond 2 AS and each of Småkraft Green Bond 2 AS’ 
+subsidiaries from time to time.  
+ 
+The Småkraft Group consists of the Issuer and the consolidated subsidiaries. See Annex 1 for a list of associated 
+companies and subsidiaries of the Issuer. 
+ 
+Figure 7.1 Organizational structure Småkraft Group as of the date of the Prospectus 
+ 
+ 
+7.2 Dependence upon other entities  
+The Company receives interest from loans provided to its associates and joint ventures, as well as income from  
+investments in its subsidiaries. Therefore, the Company is dependent on the results of the operations of the 
+Company's associates and joint ventures. 
+ 
+The Guarantors receives funding from the Company. Therefore, the Guarantors is dependent on the results of the 
+operations of their parent company.
+
+--- Page 19 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+19
+8 Trend information 
+8.1 Prospects and financial performance 
+There has been no material adverse change in the prospects of the Issuer or the Guarantors since the date of its 
+last published audited financial statements.  
+ 
+There has been no significant change in the financial performance of the Småkraft Group since the end of the last 
+financial period for which financial information has been published to the date of the Base Prospectus. 
+ 
+ 
+8.2 Known trends, uncertainties, demands, commitments or events 
+ 
+The power sector is complex, and the market is to a large extent politically controlled. The global shift to 
+renewable energy and the 2030 emission target of 40% indicate that Europe will increase the dependence on 
+power imports from the Nordic countries. The transmission capacity between the Nordics and the UK and the 
+Continental Europe is expected to increase towards 2025.  
+ 
+The correlation between Norwegian power prices and the production costs of coal and gas is strong as the cost of 
+CO2 has significantly increased, reducing the relative pricing of green energy. Fueled by strong CO2- prices, new 
+interconnectors and weak hydrology, the average monthly spot prices in the Nordics have seen a significant 
+increase in 2021.  
+ 
+The Småkraft Group’s operations may be exposed to significant changes and extraordinary events outside the 
+Småkraft Groups Control. Changes in the general tax regime or specific tax regimes within hydropower or 
+renewable energy may have significant adverse effects on Småkrafts business. Hydropower is subject to detailed 
+regulatory requirements within fields such as health, safety, environment, property, energy and grid- legislation. 
+Changes in these and other regulations may have significant effect on Småkraft business.  
+  
+The Småkraft Group’s operations may also be exposed to significant changes and extraordinary events outside 
+the Småkraft Groups Control. Technological changes within renewable energy may have significant negative 
+effect on Småkraft’s business.
+
+--- Page 20 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+20
+9 Administrative, management and supervisory bodies 
+9.1 Information about persons 
+9.1.1 Småkraft AS 
+Board 
+The table below set out the names of the members of the Board of the Company. 
+ 
+Name  
+Position  
+Tor Syverud 
+Chairman 
+Annette Malm Justad 
+Board memer 
+Joakim Johnsen 
+Board member 
+Oldrik Verloop 
+Board member 
+Christian Heidfeld 
+Board member 
+ 
+The business adress of the members of the Board of the Company is Solheimsgaten 15, N-5058 Bergen, Norway. 
+ 
+Tor Syverud 
+▪ PhD in mechanical engineering from the Norwegian University of Science and Technology 
+▪ 3 years as Head of Hydropower at Aquila Capital 
+▪ 10 years as CEO/Head of energy division at Tinfos 
+▪ 5 years as Head of Hydro 
+ 
+Annette Malm Justad 
+▪ Master in Technology Management and Master in Chemical Engineering. 
+▪ More than 25 years of operational experience from Yara and Norsk Hydro, including shipping, and as 
+CEO of listed EMS ASA. Today, chair and board member of several liisted and private companies 
+ 
+Joakim Johnsen 
+▪ MBA and BSc from the University of Manchester Institute of Science and Technology. 
+▪ 18 years of experience within hydropower and other renewables. 
+▪ Head of Merchant Desk within Aquila Capital 
+ 
+Oldrik Verloop 
+▪ LL.M. in Dutch Civil Law, Leiden University and MBA from St. Gallen University 
+▪ 8 years at Aquila Capital, Co-Head of hydropower and with asset management roles 
+▪ Advisor and board member to international private companies 
+ 
+Christian Heidfeld 
+▪ MSc in Management and Technology from Technische Universität München 
+▪ 3 years of experience within hydropower 
+▪ Head of Asset Management, Hydropower, Aquila Capital 
+▪ 2 years as consultant from EY 
+ 
+ 
+Management 
+The table below set out the names of the members of the Management of the Company. 
+ 
+Name  
+Position  
+Terje Vedeler 
+Chief executive officer 
+Erik Røysem Sterud 
+Chief financial officer 
+Jørgen Hundven 
+Chief operating officer 
+Karina Birkelund 
+Chief commercial officer 
+ 
+The business adress of the members of the management of the Company is Solheimsgaten 15, N-5058 Bergen, 
+Norway. 
+ 
+Terje Vedeler 
+▪ MSc. in Hydropower Engineering from Norwegian University of Science and Technology 
+▪ 30 years of experience in leading positions in companies as Framo, FMC, Aker Solutions and Frydenbø 
+Industrier.
+
+--- Page 21 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+21
+▪ 2 years as CEO at Småkraft 
+ 
+Erik Røysem Sterud 
+▪ Certified Public Accountant, Master of Accounting and Auditing, Norwegian School of Economics and 
+Dipl. Kaufm. Business and Administration from the University of Passau 
+▪ 5 years as CFO at Småkraft and Norsk Grønnkraft 
+▪ 6 years at PwC within auditing, accounting, tax and law 
+ 
+Jørgen Hundven 
+▪ MSc. in Electrical Engineering from Norwegian University of Science and Technology 
+▪ 20 years of experience from multination companies such as Simens, Equinor, Bergen Group and Aker 
+Solutions 
+▪ 1 year as COO at Småkraft 
+ 
+Karina Birkelund 
+▪ MSc. Business Norwegian School of Economics, MBA within strategy and finance Norwegian School of 
+Economics 
+▪ 12 years of banking experience from DnB 
+▪ 1 year as business developer in BKK 
+▪ 1 year as CCO at Småkraft 
+ 
+9.1.2 Småkraft Green Bond 2 AS 
+Board 
+The table below set out the names of the members of the Board of Småkraft Green Bond 2 AS.  
+ 
+Name  
+Position  
+Erik Røysem Sterud 
+Chairman 
+ 
+The business adress of the members of the Board of Småkraft Green Bond 2 AS is Solheimsgaten 15, N-5058 
+Bergen, Norway. 
+ 
+Erik Røysem Sterud 
+See description in clause 9.1.1. 
+ 
+ 
+ 
+Management 
+The table below set out the names of the members of the Management of Småkraft Green Bond 2 AS. 
+ 
+Name  
+Position  
+Lars Jacob Haugom 
+Managing Director 
+ 
+The business adress of the members of the management of Småkraft Green Bond 2 AS is Solheimsgaten 15, N-
+5058 Bergen, Norway. 
+ 
+Lars Jacob Haugom 
+• 
+MSc. in Petroleum Engineering from Norwegian University of Science and Technology 
+• 
+17 years experience in leading positions in companies as Smith Bits, Altus Intervention and Nowe 
+AS 
+• 
+4 years as Director of Business Development and Leader M&A’s at Småkraft AS. 
+9.1.3 Salvasskardelva Kraftverk AS 
+Board 
+The table below set out the names of the members of the Board of Salvasskardelva Kraftverk AS.  
+ 
+Name  
+Position  
+Terje Vedeler 
+Chairman 
+Dag Eilif Tønjum 
+Board member 
+Erik Røysem Sterud 
+Board member
+
+--- Page 22 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+22
+The business adress of the members of the Board of Salvasskardelva Kraftverk AS is Solheimsgaten 15, N-5058 
+Bergen, Norway. 
+ 
+Terje Vedeler 
+See description in clause 9.1.1. 
+ 
+Dag Eilif Tønjum 
+▪ Master of Business Administration from the Aarhus School of Business 
+▪ 33 years of experience from finance function in various companies. Last 17 years in Småkraft AS 
+ 
+Erik Røysem Sterud 
+See description in clause 9.1.1. 
+ 
+ 
+Management 
+The table below set out the names of the members of the Management of Salvasskardelva Kraftverk AS. 
+ 
+Name  
+Position  
+Tina Haaland Rasmussen 
+Managing Director 
+ 
+The business adress of the members of the management of Salvasskardelva Kraftverk AS is Sandakerveien 138, 
+N-0484 Oslo, Norway. 
+ 
+Tina Haaland Rasmussen 
+• 
+BBA Norwegian Business School, MBA Iowa State University 
+• 
+6 years of Procurement consulting experience from Interpro AS 
+• 
+6 years as Procurement leader at Mesta Entreprenør AS 
+• 
+12 years as Controller at Småkraft AS 
+9.1.4 Sagåna Kraft AS 
+ 
+Board 
+The table below set out the names of the members of the Board of Salvasskardelva Kraftverk AS.  
+ 
+Name  
+Position  
+Dag Eilif Tønjum 
+Chairman 
+ 
+The business adress of the members of the Board of Sagåna Kraft AS is Solheimsgaten 15, N-5058 Bergen, 
+Norway. 
+ 
+ 
+Dag Eilif Tønjum 
+See description in clause 9.1.3 
+ 
+Management 
+The table below set out the names of the members of the Management of Salvasskardelva Kraftverk AS. 
+ 
+Name  
+Position  
+Lars Jacob Haugom 
+Managing Director 
+ 
+The business adress of the members of the management of Sagåna Kraft AS is Solheimsgaten 15, N-5058 
+Bergen, Norway. 
+ 
+Lars Jacob Haugom 
+See description in clause 9.1.2
+
+--- Page 23 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+23
+9.2 Administrative, management and supervisory bodies conflicts of 
+interest  
+ 
+There are no potential conflicts of interest between any duties to the Issuer or the Guarantors of the persons referred 
+to in item 9.1 and their private interests and/or other duties.
+
+--- Page 24 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+24
+10 Major shareholders 
+10.1 Ownership  
+The Issuer 
+The share capital of Småkraft AS is NOK 213,790,800 divided into 4,275,816 shares at a nominal value of NOK 50 
+each.  
+ 
+The Company is owned by APG (60,37 %), Aquila Capital (23,12 %) and German Insurance (16,5 %). The Company 
+has only one class of shares. 
+ 
+There are no specific measures in place (beyond ordinary legal requirements as set out by the Norwegian Limited 
+Liability Act – Norwegian: Aksjeloven) to ensure that the control the shareholders have through their ownership is 
+not abused.  
+ 
+Småkraft Green Bond 2 AS 
+The share capital of Småkraft Green Bond 2 AS is NOK 1.100.000 divided into 1 000 shares at a nominal value of 
+1 100 each.  
+ 
+The company is wholly owned by Småkraft AS. Småkraft Green Bond 2 AS has only one class of shares. 
+ 
+ 
+Salvasskradelva Kraftverk AS 
+The share capital of Salvasskradelva Kraftverk AS is NOK 100 000 divided into 1000 shares at a nominal value of 
+NOK 100 each.  
+ 
+The company is wholly owned by Småkraft Green Bond 2 AS. Salvasskradelva Kraftverk AS has only one class of 
+shares. 
+ 
+Sagåna Kraft AS 
+The share capital of Saåna Kraft AS is NOK 30 000 divided into 600 shares at a nominal value of NOK 50 each.  
+ 
+The company is wholly owned by Småkraft Green Bond 2 AS. Salvasskradelva Kraftverk AS has only one class of 
+shares. 
+ 
+ 
+10.2 Change of control of the company 
+There are no arrangements, known to the Company, the operation of which may at a subsequent date result in a 
+change in control of the Company.
+
+--- Page 25 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+25
+11 Financial information concerning the Company's assets 
+and liabilities, financial position and profits and losses 
+11.1 Historical Financial Information 
+ 
+Småkraft AS 
+Småkraft AS’ consolidated and non-consolidated financial statements have been prepared in accordance with 
+International Financial Reporting Standards (IFRS) and interpretations from International Financial Reporting 
+Interpretations Committee (IFRIC) as adopted by the EU and further requirements in Norwegian Accounting Law 
+(Regnskapsloven).   
+ 
+The Småkraft Group's accounting policies are shown in Annual Report 2020, pages 13-19, note 2. The 
+Company's accounting policies are shown in Annual Report 2020, pages 59-63, note 2.  
+ 
+According to the Regulation (EU) 2017/1129 of the European Parliament and of the Council, the historical 
+financial information and financial statements are incorporated by reference to the Annual Report 2019, Annual 
+Report 2020 and Interim Report 1st half 2021, see Cross Reference List for complete web addresses. 
+ 
+ 
+Interim Report 
+Annual Report 
+ 
+1st half 2021 
+2020 
+2019 
+ 
+ 
+ 
+ 
+Småkraft AS Consolidated 
+ 
+ 
+ 
+Consolidated Income Statement 
+7 
+13 
+7 
+ 
+Consolidated Statement of Financial Position  
+ 
+8-9 
+ 
+14-15 
+ 
+8-9 
+ 
+Consolidated statement of cash flow 
+ 
+11 
+ 
+17 
+ 
+11 
+ 
+Notes to the consolidated financial statements 
+ 
+14-22 
+ 
+19-52 
+ 
+13-44 
+ 
+ 
+ 
+ 
+Småkraft AS 
+ 
+ 
+ 
+Statement of profit and loss 
+--- 
+54 
+52 
+Statement of financial position  
+--- 
+55-56 
+53-54 
+ 
+Statement of cashflow 
+ 
+--- 
+ 
+58 
+ 
+56 
+ 
+Notes to the accounts 
+ 
+--- 
+ 
+59-85 
+ 
+58-85 
+ 
+ 
+Småkraft Green Bond 2 AS 
+Småkraft Green Bond 2 AS’ financial statements have been prepared in accordance with Norwegian GAAP.   
+ 
+The Småkraft Green Bond 2 AS’ accounting policies are shown in Småkraft Green Bond 2 AS Annual Report 
+2020, page 4.  
+ 
+According to the Regulation (EU) 2017/1129 of the European Parliament and of the Council, the historical 
+financial information and financial statements are incorporated by reference to the Småkraft Green Bond 2 AS 
+Annual Report 2020 and Småkraft Green Bond 2 AS Interin Report 1st half 2021, see Cross Reference List for 
+complete web addresses. 
+ 
+ 
+Småkraft Green Bond 2 AS 
+Interim Report 
+Annual Report 
+ 
+1st half 2021 
+2020 
+ 
+ 
+ 
+Småkraft Green Bond 2 AS 
+1 
+1 
+Statement of profit and loss 
+ 
+ 
+ 
+Statement of financial position  
+2-3 
+2-3 
+ 
+Statement of cashflow 
+4 
+10 
+ 
+Notes to the accounts 
+5-8 
+4-6 
+ 
+ 
+ 
+Salvasskardelva Kraftverk AS 
+Salvasskardelva Kraftverk AS’ financial statements have been prepared in accordance with Norwegian GAAP.
+
+--- Page 26 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+26
+ 
+The Salvasskardelva Kraftverk AS’ accounting policies are shown in Salvasskardelva Kraftverk AS Annual Report 
+2020, page 4.  
+ 
+According to the Regulation (EU) 2017/1129 of the European Parliament and of the Council, the historical 
+financial information and financial statements are incorporated by reference to the Salvasskardelva Kraftverk AS 
+Annual Report 2019, Salvasskardelva Kraftverk AS Annual Report 2020 and Salvasskardelva Kraftverk AS 
+Interim Report 1st half 2021, see Cross Reference List for complete web addresses. 
+ 
+ 
+Salvasskardelva Kraftverk AS 
+Interim Report 
+Annual Report 
+ 
+1st half 2021 
+2020 
+2019 
+ 
+ 
+ 
+ 
+Salvasskardelva Kraftverk AS 
+1 
+1 
+1 
+Statement of profit and loss 
+ 
+ 
+ 
+ 
+Statement of financial position  
+2-3 
+2-3 
+2-3 
+ 
+Statement of cashflow 
+4 
+                   12 
+12 
+ 
+Notes to the accounts 
+5-8 
+4-8 
+4-7 
+ 
+Sagåna Kraft AS 
+Sagåna Kraft AS’ financial statements have been prepared in accordance with Norwegian GAAP.   
+ 
+The Sagåna Kraft AS’ accounting policies are shown in Salvasskardelva Kraftverk AS Annual Report 2020, page 
+4.  
+ 
+According to the Regulation (EU) 2017/1129 of the European Parliament and of the Council, the historical 
+financial information and financial statements are incorporated by reference to the Sagåna Kraft AS Annual 
+Report 2020 and Sagåna Kraft AS Interim Report 1st half 2021 see Cross Reference List for complete web 
+addresses. 
+ 
+ 
+Sagåna Kraft AS Interim 
+Report 
+Annual Report 
+ 
+1st half 2021 
+2020 
+ 
+ 
+ 
+Sagåna Kraft AS 
+1 
+1 
+Statement of profit and loss 
+ 
+ 
+ 
+Statement of financial position  
+2-3 
+2-3 
+ 
+Statement of cashflow 
+4 
+11 
+ 
+Notes to the accounts 
+5-8 
+4-7 
+ 
+ 
+ 
+ 
+11.2 Auditing of historical annual financial information 
+ 
+11.2.1 Statement of audited historical financial information 
+ 
+Småkraft AS 
+The audit has been conducted in accordance with laws, regulations, and auditing standards and practises 
+generally accepted in Norway, including International Standards on Auditing (ISAs). 
+ 
+A statement of audited historical financial information is given in the Independent Auditor Report 2020 and the 
+Annual Report 2019, pages 88-92. 
+ 
+The financial information for first half of 2021 has not been audited. 
+ 
+Småkraft Green Bond 2 AS 
+The audit has been conducted in accordance with laws, regulations, and auditing standards and practises 
+generally accepted in Norway, including International Standards on Auditing (ISAs).
+
+--- Page 27 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+27
+A statement of audited historical financial information is given in the Annual Report 2020, pages 7-8 and pages  
+11-12. 
+ 
+The financial information for first half of 2021 has not been audited. 
+ 
+ 
+Salvasskardelva Kraftverk AS 
+The audit has been conducted in accordance with llaws, regulations, and auditing standards and practises 
+generally accepted in Norway, including International Standards on Auditing (ISAs). 
+ 
+A statement of audited historical financial information is given in the Annual Report 2020, pages 9-10 and 13-14 
+and Annual Report 2019, pages 9-10 and 13-14.     
+ 
+The financial information for first half of 2021 has not been audited. 
+ 
+Sagåna Kraft AS 
+The audit has been conducted in accordance with llaws, regulations, and auditing standards and practises 
+generally accepted in Norway, including International Standards on Auditing (ISAs). 
+ 
+A statement of audited historical financial information is given in the Annual Report 2020, pages 8-9 and 12-13. 
+ 
+The financial information for first half of 2021 has not been audited. 
+ 
+ 
+ 
+11.2.2 Other audited information 
+No other information in this Base Prospectus has been audited. 
+ 
+ 
+ 
+11.3 Age of latest financial information 
+ 
+11.3.1 Last year of audited financial information 
+ 
+The last year of audited financial information is 2020 for both the Issuer and the Guarantors. 
+ 
+ 
+ 
+11.4 Legal and arbitration proceedings 
+ 
+There are no governmental, legal or arbitration proceedings (including any such proceedings which are pending 
+or threatened of which the issuer is aware), during a period covering at least the previous 12 months which may 
+have, or have had in the recent past, significant effects on the Issuer, the Guarantors and/or Småkraft Group's 
+financial position or profitability. 
+ 
+ 
+ 
+ 
+11.5 Significant change in the Company’s financial position 
+ 
+There has not occurred any significant change in the financial position of the Company or the Guarantors since 
+the end of the last financial period for which audited financial information has been published.
+
+--- Page 28 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+28
+12 Documents available  
+ 
+The following documents (or copies thereof) may be inspected for the life of the Base Prospectus at the 
+headquarters of the Company, Solheimsgaten 15, N-5058 Bergen, Norway, or at https://www.smaakraft.no: 
+ 
+(a) the up to date memorandum and articles of association of the Company; 
+ 
+(b) all reports, letters, and other documents, valuations and statements prepared by any expert at the Company's 
+request, any part of which is included or referred to in the Base Prospectus;
+
+--- Page 29 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+29
+13 Financial instruments that can be issued under the Base 
+Prospectus 
+ 
+The Base Prospectus, as approved in accordance with the EU Prospectus Regulation 2017/1129, allows for offer 
+to subscribe and listing of Bonds.  
+ 
+This chapter describes the form, type, definitions, general terms and conditions, return and redemption 
+mechanisms, rating and template for Final Terms associated with the Bonds. 
+ 
+Risk factors related to the Bonds are described in Chapter 1 Risk Factors. 
+ 
+13.1 Securities Form 
+A Bond is a financial instrument as defined in the Norwegian Securities Trading Act (Verdipapirhandelloven)  
+§ 2-2.  
+ 
+The Bonds are electronically registered in book-entry form with the Securities Depository.  
+13.2 Security Type 
+Borrowing limit – tap issue 
+The Loan may be either open or closed for increase of the Borrowing Amount during the tenor. A tap issue can 
+take place until five banking days before the Maturity Date. If the issue is open, the First Tranche and Borrowing 
+Limit will be specified in the Applicable Final Terms. 
+ 
+Return 
+Fixed Rate (FIX) 
+A Bond issue with a fixed Interest Rate will bear interest at a fixed rate as specified in the applicable Final Terms.  
+ 
+The Interest Rate will be payable annually or semi-annually on the Interest Payment Dates as specified in the 
+applicable Final Terms. 
+ 
+Floating Rate (FRN) 
+A Bond issue with a floating Interest Rate will bear interest equal to a Reference Rate plus a fixed Margin for a 
+specified period (3 or 6 months). Interest Rate or Reference Rate may be deemed to be zero. The period lengths 
+are equal throughout the term of the Loan, but each Interest Payment Date is adjusted in accordance with the 
+Business Day Convention. The Interest Rate for each forthcoming period is determined two Business Days prior 
+to each Interest Payment Date based on the then current value of the Reference Rate plus the Margin. 
+ 
+The Interest Rate will be payable quarterly or semi-annually on the the Interest Payment Dates as specified in the 
+applicable Final Terms. 
+ 
+The relevant Reference Rate, the Margin, the Interest Payment Dates and the then current Interest Rate will be 
+specified in the applicable Final Terms. 
+ 
+Redemption 
+The Loan will mature in full at the Maturity Date at a price equal to 100 per cent. of the nominal amount.  
+ 
+The Issuer may have the option to prematurely redeem the Loan in full at terms specified in the applicable Final 
+Terms. 
+ 
+The Bondholders may have the right to require that the Issuer purchases all or some of the Bonds held by that 
+Bondholder at terms specified in the applicable Final terms. 
+ 
+Security 
+The Bonds may be either secured or unsecured. Details will be specified in the applicable Final Terms. 
+ 
+Negative pledge 
+The Bonds may have negative pledge clause. Details will be specified in the applicable Final Terms.
+
+--- Page 30 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+30
+ 
+13.3 Definitions 
+This section includes a summary of the definitions set out in any Bond Terms as well as certain other definitions 
+relevant for this Prospectus. If these definitions at any point in time no longer represents the correct 
+understanding of the definitions set out in the Bond Terms, the Bond Terms shall prevail. 
+ 
+Additional Bonds: 
+Means the debt instruments issued under a Tap Issue, including any Temporary Bonds. 
+ 
+ 
+APG: 
+Means Stichting Depositary APG Infrastructure Pool 2012 and Stichting Depositary 
+APG Infrastructure Pool 201711, foundations (Dutch "Stichting"), incorporated under the laws 
+of the Netherlands, acting in its capacity as legal titleholder of APG Infrastructure Pool 2012 
+or APG Infrastructure Pool 2017 II (as appropriate), and having its registered office at Oude 
+Lindestraat 70, 6411 EJ, Heerlen, the Netherlands, registered with the trade register of the 
+Dutch Chambers of Commerce under number 54499151. 
+ 
+ 
+Attachment: 
+Means any schedule, appendix or other attachment to the Bond Terms. 
+ 
+ 
+Base Prospectus: 
+This document. Describes the Issuer and predefined features of Bonds that can be listed under 
+the Base prospectus, as specified in the Prospectus Regulation (EU) 2017/1129. Valid for 12 
+months after it has been published. In this period, a prospectus may be constituted by the 
+Base Prospectus, any supplement(s) to the Base Prospectus and a Final Terms for each new 
+issue. 
+ 
+ 
+Bond Issue/Bonds/ 
+Notes/the Loan: 
+Means (i) the debt instruments issued by the Issuer pursuant to the Bond Terms, including any 
+Additional Bonds, and (ii) any overdue and unpaid principal which has been issued under a 
+separate ISIN in accordance with the regulations of the CSD from time to time. 
+ 
+ 
+Bond Terms: 
+The terms and conditions, including all Attachments which form an integrated part of the Bond 
+Terms, in each case as amended and/or supplemented from time to time. 
+ 
+ 
+Bondholder: 
+A person who is registered in the CSD as directly registered owner or nominee holder of a 
+Bond, subject however to the Bondholders’ rights in the Bond Terms. 
+ 
+ 
+Bondholders’ 
+decisions: 
+The Bondholders’ Meeting represents the supreme authority of the Bondholders community in 
+all matters relating to the Bonds and has the power to make all decisions altering the terms and 
+conditions of the Bonds, including, but not limited to, any reduction of principal or interest and 
+any conversion of the Bonds into other capital classes. 
+ 
+At the Bondholders’ meeting each Bondholder may cast one vote for each voting bond owned 
+at close of business on the day prior to the date of the Bondholders’ meeting in the records 
+registered in the Securities Depository.  
+ 
+In order to form a quorum, at least half (1/2) of the voting bonds must be represented at the 
+Bondholders' meeting. See also the clause for repeated Bondholders’ meeting in the Bond 
+Terms.  
+ 
+Resolutions shall be passed by simple majority of the votes at the Bondholders' Meeting, 
+however, a majority of at least 2/3 of the voting bonds represented at the Bondholders’ Meeting 
+is required for any waiver or amendment of any terms of the Bond Terms. 
+ 
+(For more details, see also the clause for Bondholders’ decisions in the Bond Terms) 
+ 
+ 
+Bondholders rights: 
+Bondholders' rights are specified in the Bond Terms.  
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with the CSD, the 
+Bondholders are bound by the Bond Terms. 
+ 
+ 
+Bond Trustee: 
+Nordic Trustee AS, Postboks 1470 Vika, 0116 Oslo, or its successor(s) Website: 
+https://nordictrustee.com 
+ 
+The Bond Trustee has power and authority to act on behalf of, and/or represent, the 
+Bondholders in all matters, including but not limited to taking any legal or other action, 
+including enforcement of the Bond Terms, and the commencement of bankruptcy or other 
+insolvency proceedings against the Issuer, or others.
+
+--- Page 31 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+31
+ 
+The Bond Trustee shall represent the Bondholders in accordance with the finance documents. 
+The Bond Trustee is not obligated to assess or monitor the financial condition of the Issuer or 
+any other obligor unless to the extent expressly set out in the Bond Terms, or to take any steps 
+to ascertain whether any event of default has occurred. The Bond Trustee is entitled to take 
+such steps that it, in its sole discretion, considers necessary or advisable to protect the rights 
+of the Bondholders in all matters pursuant to the terms of the finance documents. 
+ 
+ 
+Borrowing Limit – Tap 
+Issue and Borrowing 
+Amount/First Tranche 
+Borrowing Limit is the maximum issue amount for an open Bond issue.  
+ 
+Borrowing Amount/First Tranche is the borrowing amount for a closed Bond Issue, eventually 
+the borrowing amount for the first tranche of an open Bond Issue. 
+ 
+Borrowing Limit – Tap Issue and Borrowing Amount/First Tranche will be specified in the Final 
+Terms. 
+ 
+ 
+Business Day: 
+Means a day on which both the relevant CSD settlement system is open, and 
+the relevant currency of the Bonds settlement system is open. 
+ 
+ 
+Business Day 
+Conventon: 
+If the last day of any Interest Period originally falls on a day that is not a Business Day, the 
+Interest Payment Date will be as follow: 
+ 
+If Fixed Rate, the Interest Payment Date shall be postponed to the next day which is a 
+Business Day (Following Business Day convention). 
+ 
+If FRN, the Interest Period will be extended to include the first following Business Day unless 
+that day falls in the next calendar month, in which case the Interest Period will be shortened to 
+the first preceding Business Day (Modified Following Business Day convention). 
+ 
+ 
+Calculation Agent: 
+The Bond Trustee, if not otherwise stated in the applicable Final Terms. 
+ 
+ 
+Call Option: 
+The Final Terms may specify that the Issuer is entitled to redeem (all or some of) the 
+Outstanding Bonds prior to the Maturity Date. 
+ 
+In such case the Call Date(s), the Call Price(s) and the Call Notice Period will be specified in 
+the Final Terms. 
+ 
+ 
+Change of Control 
+Event: 
+Means if APG (together in its relevant funds) ceases directly or indirectly to: 
+(a) hold beneficially at least 1/3 of the issued share capital of the Issuer; or 
+(b) have the power to cast, or control the casting of, at least 1/3 of the maximum number of 
+votes that might be cast at a general meeting of the Issuer. 
+ 
+ 
+Currency: 
+The currency in which the bond issue is denominated. 
+ 
+Currency will be specified in the Final Terms. 
+ 
+ 
+Day Count Convention: The convention for calculation of payment of interest; 
+a) If Fixed Rate, the interest shall be calculated on the basis of a 360-day year comprised of 
+twelve months of 30 days each and, in case of an incomplete month, the actual number 
+of days elapsed (30/360-days basis), unless: 
+(i) the last day in the relevant Interest Period is the 31st calendar day but the first day of 
+that Interest Period is a day other than the 30th or the 31st day of a month, in which 
+case the month that includes that last day shall not be shortened to a 30–day month; 
+or 
+(ii) the last day of the relevant Interest Period is the last calendar day in February, in 
+which case February shall not be lengthened to a 30-day month. 
+(b) If FRN, the interest shall be calculated on the basis of the actual number of days in the 
+Interest Period in respect of which payment is being made divided by 360 (actual/360-
+days basis). 
+ 
+ 
+Decisive Influence: 
+Means a person having, as a result of an agreement or through the ownership of shares or 
+interests in another person (directly or indirectly): 
+(a) a majority of the voting rights in that other person; or 
+(b) a right to elect or remove a majority of the members of the board of directors of that other 
+person.
+
+--- Page 32 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+32
+Denomination – Each 
+Bond: 
+The nominal amount of each Bond. 
+ 
+Denomination of each bond will be specified in the Final Terms. 
+ 
+ 
+Disbursement Date / 
+Issue Date 
+Date of bond issue.  
+ 
+On the Issue Date the bonds will be delivered to the Bondholder’s VPS-account against 
+payment or to the Bondholder’s custodian bank if the Bondholder does not have his/her own 
+VPS-account. 
+ 
+The Issue Date will be specified in the Final Terms. 
+ 
+ 
+Early redemption 
+option due to a tax 
+event: 
+The Final Terms may specify that the Issuer is entitled to redeem all (but not only some) of the 
+Outstanding Bonds prior to the Maturity Date due to a tax event. 
+ 
+In such case the terms of the early redemption option will be specified in the Final Terms. 
+ 
+ 
+Event of Default 
+Means any of the events or circumstances specified in the Bond Terms (Events of Default). 
+ 
+ 
+Exchange: 
+Means: 
+(a) Oslo Børs (the Oslo Stock Exchange); or 
+(b) any regulated market as such term is understood in accordance with the Markets in 
+Financial Instruments Directive 2014/65/EU (MiFID II) and Regulation (EU) No. 600/2014 on 
+markets in financial instruments (MiFIR).  
+ 
+ 
+Final Terms: 
+Document describing securities as specified in Prospectus Regulation (EU) 2017/1129, 
+prepared as part of the Prospectus. Final Terms will be prepared for each new security as 
+specified in Prospectus Regulation (EU) 2017/1129, issued by the Issuer. 
+ 
+ 
+Guarantee: 
+Means unconditional Norwegian law guarantee and indemnity (Norwegian: 
+"selvskyldnerkausjon") issued by each of the Guarantors in respect of the Secured Obligations. 
+ 
+ 
+Interest Determination 
+Date(s): 
+In the case of NIBOR: Second Oslo business day prior to the start of each Interest Period. 
+ 
+Interest Determination Date(s) for other Reference Rates, see Final Terms. 
+ 
+ 
+Interest Payment 
+Date(s): 
+The Interest Rate is paid in arrears on the last day of each Interest Period.  
+ 
+Any adjustment will be made according to the Business Day Convention. 
+ 
+The Interest Payment Date(s) will be specified in the Final Terms. 
+ 
+ 
+Interest Period: 
+The first Interest Period runs from and including the Issue Date to but excluding the first 
+Interest Payment Date. The subsequent Interest Periods run from and including an Interest 
+Payment Date to but excluding the next Interest Payment Date. The last Interest Payment 
+Date corresponds to the Maturity Date. 
+ 
+ 
+Interest Rate: 
+Rate of interest applicable to the Bonds; 
+ 
+(i) 
+If Fixed Rate, the Bonds shall bear interest at the percentage rate per annum (based 
+on the Day Count Convention)  
+ 
+(ii) If FRN, the Bonds shall bear interest at a rate per annum equal to the Reference Rate 
+plus a Margin (based on the Day Count Convention). Interest Rate or Reference Rate 
+may be deemed to be zero. 
+ 
+The Interest Rate is specified in Final Terms. 
+ 
+ 
+Interest Rate 
+Adjustment Date: 
+Date(s) for adjusting of the interest rate for bond issue with floating interest rate. 
+ 
+The Interest Rate Adjustment Date will coincide with the Interest Payment Date. 
+ 
+ 
+ISIN: 
+International Securities Identification Number for the Bond Issue. ISIN is specified in Final 
+Terms. 
+ 
+ 
+Issuer: 
+Småkraft AS is the Issuer under the Base Prospectus.
+
+--- Page 33 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+33
+ 
+ 
+Issuer’s Bonds: 
+Means any Bonds which are owned by the Issuer or any affiliate of the Issuer. 
+ 
+ 
+Issue Price: 
+The price in percentage of the Denomination, to be paid by the Bondholders at the Issue Date. 
+ 
+Issue price will be specified in Final Terms.  
+ 
+ 
+Joint Lead Manager: 
+The bond issue’s joint lead manager(s), as specified in the Final Terms. 
+ 
+ 
+LEI-code: 
+Legal Entity Identifier (LEI), is a 20-character reference code to uniquely identify legally distinct 
+entities that engage in financial transactions. 
+ 
+LEI-code is specified in Final Terms. 
+ 
+ 
+Listing: 
+Listing of a bond issue on an Exchange is due to the Base Prospectus, any supplement(s) to 
+the Base Prospectus and a Final Terms. 
+ 
+An application for listing will be sent after the Disbursement Date and as soon as possible after 
+the Prospectus has been approved by the Norwegian FSA. 
+ 
+Bonds listed on an Exchange are freely negotiable. See also Market Making. 
+ 
+ 
+Market Making: 
+For Bonds listed on an Exchange, a market-maker agreement between the Issuer and a 
+Bookrunner may be entered into.  
+ 
+This will be specified in the Final Terms. 
+ 
+ 
+Margin: 
+The margin, specified in percentage points, to be added to the Reference rate. 
+ 
+Margin will be specified in the Final terms.  
+ 
+ 
+Maturity Date: 
+The date the bond issue is due for payment, if not already redeemed pursuant to Call Option, 
+Put Option or a Early redemption option due to a tax event. The Maturity Date coincides with 
+the last Interest Payment Date and is adjusted in accordance with the Business Day 
+Convention.  
+ 
+The Maturity Date is specified in the Final Terms. 
+ 
+ 
+Outstanding Bonds: 
+Means any Bonds not redeemed or otherwise discharged. 
+ 
+The Issuer will issue on the Issue date the first tranche of the bond issue as specified in Final 
+Terms. During the term of the bond issue, new tranches may be issued up to the Borrowing 
+Limit, as specified in Final Terms. 
+ 
+ 
+Paying Agent: 
+The entity designated by the Issuer to manage (maintain the Issuer Account for) the bond 
+issue in the Securities Depository. 
+ 
+The Paying Agent is specified in the Final Terms. 
+ 
+ 
+Principal amount: 
+Outstanding amounts under the Loan from time to time. 
+ 
+ 
+Prospectus: 
+The Prospectus consists of the Base Prospectus, any supplement(s) to the Base Prospectus 
+and the relevant Final Terms prepared in connection with application for listing on an 
+Exchange.  
+ 
+ 
+Put Option: 
+The Final Terms may specify that upon the occurrence of a Put Option Event, each 
+Bondholder will have the right to require that the Issuer purchases all or some of the Bonds 
+held by that Bondholder. 
+ 
+In such case the exercise procedures, the repayment date and redemption price will be 
+specified in the Final Terms. 
+ 
+ 
+Put Option Event: 
+ Means a Change of Control Event. 
+ 
+ 
+Redemption: 
+The Outstanding Bonds will mature in full on the Maturity Date and shall be redeemed by the 
+Issuer on the Maturity Date at a price equal to 100 per cent. of the Nominal Amount, if not
+
+--- Page 34 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+34
+already redeemed pursuant to Call Option, Put Option or Early redemption option due to a tax 
+event.  
+ 
+ 
+Redemption Price: 
+The price determined as a percentage of the Denomination to which the bond issue is to be 
+redeemed at the Maturity Date.  
+ 
+Redemption Price is 100 per cent of Denomination – Each Bond. 
+ 
+ 
+Reference Rate:  
+For FRN, the Reference Rate shall be NIBOR or any other rate as specified in the Final Terms, 
+which appears on the Relevant Screen Page as at the specified time on the Interest 
+Determination Date in question. 
+ 
+The Reference Rate, the Relevant Screen Page, the specified time, information about the past 
+and future performance and volatility of the Reference Rate and any fallback provisions will be 
+specified in Final Terms.  
+ 
+ 
+Relevant Screen Page: For FRN, an internet address or an electronic information platform belonging to a renowed 
+provider of Reference Rates. 
+ 
+The Relevant Screen Page will be specified in the Final Terms. 
+ 
+ 
+Securities Depository 
+/CSD: 
+The securities depository in which the bonds are registered, in accordance with the Norwegian 
+Act of 2019 no. 6 regarding Securities depository. 
+ 
+Unless otherwise specified in the Final Terms, the following Securities Depository will be used: 
+Norwegian Central Securities Depository (“Verdipapirsentralen” or ”VPS”), P.O. Box 4, 0051 
+Oslo. 
+ 
+ 
+Tap Issues: 
+The Issuer may, provided that the conditions set out in the Bond Terms are met, at one or 
+more occasions up until, but excluding, the Maturity Date or any earlier date when the Bonds 
+have been redeemed in full, issue Additional Bonds until the aggregate nominal amount of the 
+Bonds outstanding equals in aggregate the maximum issue amount (less the aggregate 
+nominal amount of any previously redeemed Bonds) 
+ 
+If N/A is specified in the Borrowing Limit in the Final Terms, the Issuer may not make Tap 
+issues under the Bond Terms. 
+ 
+ 
+Temporary Bonds: 
+If the Bonds are listed on an Exchange and there is a requirement for a new prospectus in 
+order for the Additional Bonds to be listed together with the Bonds, the Additional Bonds may 
+be issued under a separate ISIN (such Bonds referred to as the “Temporary Bonds”). Upon the 
+approval of the prospectus, the Issuer shall (i) notify the Bond Trustee, the Exchange and the 
+Paying Agent and (ii) ensure that the Temporary Bonds are converted into the ISIN for the 
+Bonds. 
+ 
+ 
+Yield: 
+Dependent on the Market Price for bond issue with floating rate. Yield for the first interest 
+period can be determined when the interest is known, normally two Business Days before the 
+Issue Date. 
+  
+For bond issue with fixed rate, yield is dependent on the market price and number of Interest 
+Payment Date. 
+ 
+The yield is calculated in accordance with «Anbefaling til Konvensjoner for det norske 
+sertifikat- og obligasjonsmarkedet» prepared by Norske Finansanalytikeres Forening in 
+January 2020: 
+https://www.finansanalytiker.no/wp-content/uploads/2020/02/Rentekonvensjon-pr-januar-2020-
+v2.pdf  
+ 
+Yield is specified in Final Terms. 
+ 
+13.4 General terms and conditions 
+These general terms and condtions summarize and describe the general terms and conditions set out in any 
+Bond Terms. If these general terms and conditions at any point in time no longer represents the correct 
+understanding of the general terms and conditions set out in the Bond Terms, the Bond Terms shall prevail.
+
+--- Page 35 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+35
+13.4.1 Use of proceeds 
+(a) The Issuer will use the net proceeds from the Initial Bond Issue for: 
+(i) repayment in full of the Existing Debt; and 
+(ii) for general corporate purposes of the Group (including Distributions). 
+(b) The Issuer will use the net proceeds from the issuance of any Additional Bonds for the acquisition of New 
+Hydro Power Plants (being an Eligible Project (as defined in the Green Bonds Framework)). 
+ 
+Other use of proceeds will be specified in the Final Terms. 
+13.4.2 Publication 
+The Base Prospectus, any supplement(s) to the Base Prospectus and the Final Terms will be published on 
+Issuer’s website https://smaakraft.no, or on the Issuer's visit address, Solheimsgaten 15, N-5058 Bergen, Norway, 
+or their successor (s). 
+ 
+The Prospectus will be published by a stock exchange announcement. 
+ 
+13.4.3 Redemption 
+Matured interest and matured principal will be credited each Bondholder directly from the Securities Registry. 
+Claims for interest and principal shall be limited in time pursuant the Norwegian Act relating to the Limitation 
+Period Claims of 18 May 1979 no 18, p.t. 3 years for interest rates and 10 years for principal. 
+ 
+13.4.4 Fees, Expenses and Tax legislation 
+The tax legislation of the investor’s Member State and of the Issuer’s country of incorporation may have an impact 
+on the income received from the securities. 
+ 
+The Issuer shall pay any stamp duty and other public fees in connection with the loan. Any public fees or taxes on 
+sales of Bonds in the secondary market shall be paid by the Bondholders, unless otherwise decided by law or 
+regulation. The Issuer is responsible for withholding any withholding tax imposed by Norwegian law. 
+ 
+13.4.5 Security Depository and secondary trading 
+The Bonds are electronically registered in book-entry form with the Securities Depository, see also the definition 
+of "Securities Depository". Securities Depository is specified in the Final Terms. 
+ 
+Secondary trading will be made over an Exchange for Bonds listed on a marketplace. See also definition of 
+“Market Making”. 
+ 
+Prospectus fee for the Base Prospectus including templates for Final Terms is NOK 123,000. In addition, there is 
+a listing fee for listing of the Bonds in accordance with the current price list of the Exchange. The listing fees will 
+be specified in the Final Terms.  
+ 
+13.4.6 Status of the Bonds and Security 
+The Bonds will constitute senior debt obligations of the Issuer. The Bonds will rank pari passu between 
+themselves and will rank at least pari passu with all other obligations of the Issuer (save for such claims which are 
+preferred by bankruptcy, insolvency, liquidation or other similar laws of general application). 
+ 
+Please see Bond Terms for definitions. The kind of security will be specified in th Final Terms.  
+13.4.7 Bond Terms 
+The Bond Terms has been entered into between the Issuer and the Bond Trustee. The Bond Terms regulates the 
+Bondholders’ rights and obligations in relations with the bond issue. The Bond Trustee enters into the Bond 
+Terms on behalf of the Bondholders and is granted authority to act on behalf of the Bondholders to the extent 
+provided for in the Bond Terms. 
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with the CSD, the Bondholders are bound by 
+the Bond Terms and any other Finance Document, without any further action required to be taken or formalities to 
+be complied with by the Bond Trustee, the Bondholders, the Issuer or any other party.
+
+--- Page 36 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+36
+The Bond Terms will be attached to the Final Terms for each Bond issue and is also available through the Joint 
+Bookrunner(s), Issuer and the Bond Trustee. 
+ 
+13.4.8 Legislation 
+The Bond Terms is governed by and construed in accordance with Norwegian law. The Issuer and the 
+Guarantors are subject to Norwegian legislation, the most relevant law for the Småkraft Group's operations is the 
+Private Limited Liability Companies Act, the Norwegian Securities Trading Act and the Norwegian Stock 
+Exchange Regulations. 
+ 
+13.4.9 Approvals 
+The Bonds will be issued in accordance with the Issuer’s Board of Directors approval. 
+ 
+The date of the Issuer’s Board of Directors approval will be specified in the Final Terms 
+ 
+The Base Prospectus has been submitted to the Norwegian Financial Supervisory Authority (Finanstilsynet) 
+before listing of the Bonds takes place. 
+ 
+Final Terms will be submitted to Finanstilsynet for information purposes in connection with an application for 
+listing of a Bond Issue. 
+ 
+The Base prospectus will not be the basis for offers for subscription in bonds that are not subject to a prospectus 
+obligation. 
+ 
+13.4.10 Restrictions on the free transferability of the securities 
+Any restrictions on the free transferability of the securities will be specified in the Final Terms. 
+ 
+13.5 Return and redemption 
+Bonds may have return and redemption mechanisms as explained below. The relevant Final Terms refer to these 
+mechanisms and provide relevant parameter values for the specific bond issue. 
+13.5.1 Bonds with floating rate 
+13.5.1.a Return (interest) 
+The Interest Rate is specified in Interest Rate ii). Payment of the Interest Rate is calculated on basis of the Day 
+Count Convention (b). 
+ 
+Interest Rate or Reference Rate may be deemed to be zero.  
+ 
+The period lengths are equal throughout the term of the Loan, but each Interest Payment Date is adjusted in 
+accordance with the Business Day Convention. The Interest Rate for each forthcoming period are determined two 
+Business Days prior to each Interest Payment Date based on the then current value of the Reference Rate plus 
+the Margin. 
+ 
+The Interest Rate is paid in arrears on each Interest Payment Date. The first Interest Period runs from and 
+including the Issue Date to but excluding the first Interest Payment Date. The subsequent Interest Periods run 
+from and including an Interest Payment Date to but excluding the next Interest Payment Date. The last Interest 
+Payment Date corresponds to the Maturity Date. 
+ 
+The relevant Reference Rate, the Margin, the Interest Payment Dates and the then current Interest Rate will be 
+specified in the applicable Final Terms. 
+ 
+Interest calculation method for secondary trading is given by act/360, modified following. 
+ 
+13.5.1.b Redemption 
+Redemption is made in accordance with Redemption.
+
+--- Page 37 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+37
+13.5.2 Bonds with fixed rate 
+13.5.2.a Return (interest) 
+The interest rate is specified in Interest Rate (i). Payment of the the Interest Rate is calculated on basis of the Day 
+Count Convention (a).  
+ 
+The Interest Rate is paid in arrears on each Interest Payment Date. The first Interest Period runs from and 
+including the Issue Date to but excluding the first Interest Payment Date. The subsequent Interest Periods run 
+from and including an Interest Payment Date to but excluding the next Interest Payment Date. The last Interest 
+Payment Date corresponds to the Maturity Date. 
+ 
+The Interest Rate and the Interest Payment Dates will be specified in the applicable Final Terms. 
+ 
+Interest calculation method for secondary trading is given by act/365 for bond issue with fixed rate.  
+ 
+13.5.2.b Redemption 
+Redemption is made in accordance with Redemption. 
+ 
+13.6 Rating 
+The Issuer has not been rated. 
+ 
+The Bonds have not been rated. 
+ 
+ 
+13.7 Final Terms 
+Template for Final Terms for fixed and floating bond issue, see Appendix 2.
+
+--- Page 38 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+38
+14 Third party information and statement by experts and 
+declarations of any interest 
+14.1 Third party information 
+Part of the information given in this Base Prospectus has been sourced from a third party. It is hereby confirmed 
+that the information has been accurately reproduced and that as far as Småkraft AS is aware and is able to 
+ascertain from information published by that third party, no facts have been omitted which would render the 
+reproduced information inaccurate or misleading. The following table lists such third parties:  
+ 
+Kind of information 
+Publicly 
+available 
+Name of third 
+party 
+Business 
+address 
+Qualifications 
+Material 
+interest in 
+the 
+Company 
+Cicero dark green 
+rating(cited in 6.1.1) 
+Yes 
+Cicero 
+Gaustadalleen 21, 
+0349 OSLO 
+CICERO Shades 
+of Green 
+Rating agency 
+None 
+GRESB 
+Sustainability 
+benchmark for 
+Renewable Energy 
+Generators’ 
+ranking(cited in 
+section 6.1.1) 
+No 
+Subsription 
+to ESG 
+datasets is 
+necessary 
+GRESB 
+Barbara 
+Strozzilaan 101, 
+1083 HN 
+Amsterdam, The 
+Netherlands 
+https://gresb.com/
+nl-en/ 
+ 
+Rating agency 
+None 
+ 
+ 
+If not otherwise indicated, Småkraft AS is the source of any other information in this Base Prospectus.
+
+--- Page 39 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+39
+Cross reference list 
+Reference in 
+Base 
+Propectus 
+Refers to 
+Details 
+11.1 Financial 
+statements 
+Annual Report 2020, available at 
+https://smaakraft.no/wp-
+content/uploads/2021/03/annual-report-
+2020-smakraft-signed.pdf 
+Småkraft AS consolidated accounting policies, 
+pages 19-25, note 2 
+ 
+Småkraft AS accounting policies, page 59-63, 
+note 2 
+ 
+Småkraft Green Bond 2 AS Annual Report 
+2020, available at https://smaakraft.no/wp-
+content/uploads/2021/11/smakraft-green-
+bond-2-as-2020.pdf 
+Småkraft Green Bond 2 AS accounting policies, 
+pages 4 
+ 
+Salvasskardelva Kraftverk AS Annual 
+Report 2020, available at 
+https://smaakraft.no/wp-
+content/uploads/2021/11/salvasskardelva-
+kraftverk-as-2020.pdf 
+Salvasskardelva Kraftverk AS accounting 
+policies, pages 4 
+ 
+Sagåna Kraft AS Annual Report 2020, 
+available at https://smaakraft.no/wp-
+content/uploads/2021/11/sagaana-kraft-as-
+2020.pdf 
+Sagåna Kraft AS accounting policies, pages 4 
+ 
+Interim Report 1st half 2021, available at 
+https://smaakraft.no/wp-
+content/uploads/2021/08/2021-08-27-
+interim-report-1st-half-2021-smakraft-as-
+1.pdf 
+Småkraft AS Consolidated 
+Consolidated Income Statement page 7 
+Consolidated Statement of Financial Position 
+pages 8-9  
+Consolidated statements of cash flow page 11 
+Notes to the consolidated financial statements 
+pages 14-22 
+ 
+Småkraft Green Bond 2 AS Interim Report 
+1st half 2021, available at 
+https://smaakraft.no/wp-
+content/uploads/2021/08/2021-08-27-
+interim-report-1st-half-2021-smakraft-as-
+1.pdf 
+Income statement page 1 
+Statement of Financial Position pages 2-3 
+Cash flow page 4 
+Notes to the financial statements 5-8 
+ 
+Salvasskardelva Kraftverk AS Interim 
+Report 1st half 2021, available at 
+https://smaakraft.no/wp-
+content/uploads/2021/11/salvasskardelva-
+kraftverk-as-interim-report.pdf 
+Income statement page 1 
+Statement of Financial Position pages 2-3 
+Cash flow page 4 
+Notes to the financial statements 5-8 
+ 
+Sagåna Kraft AS Interim Report 1st half 
+2021, available at https://smaakraft.no/wp-
+content/uploads/2021/11/sagana-kraft-as-
+interim-report-1-half-2021.pdf 
+Income statement page 1 
+Statement of Financial Position pages 2-3 
+Cash flow page 4 
+Notes to the financial statements 5-8 
+ 
+Annual Report 2020, available at 
+https://smaakraft.no/wp-
+content/uploads/2021/03/annual-report-
+2020-smakraft-signed.pdf 
+Småkraft AS Consolidated 
+Consolidated Income Statement page 13 
+Consolidated Statement of Financial Position 
+pages 14-15  
+Consolidated statement of cash flow page 17 
+Notes to the consolidated financial statements 
+pages 19-52 
+ 
+Småkraft AS 
+Statement of profit and loss page 54 
+Statement of financial position pages 55-56 
+Statement of cashflow page 58 
+Notes to the accounts pages 59-85 
+ 
+ 
+Småkraft Green Bond 2 AS Annual Report 
+2020, available at https://smaakraft.no/wp-
+content/uploads/2021/11/smakraft-green-
+bond-2-as-2020.pdf 
+Income statement page 1 
+Statement of Financial Position pages 2-3 
+Cash flow page 10 
+Notes to the financial statements 4-6 
+ 
+Salvasskardelva Kraftverk AS Annual 
+Report 2020, available at 
+https://smaakraft.no/wp-
+Income statement page 1 
+Statement of Financial Position pages 2-3 
+Cash flow page 12 
+Notes to the financial statements 4-8
+
+--- Page 40 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+40
+content/uploads/2021/11/salvasskardelva-
+kraftverk-as-2020.pdf 
+ 
+Sagåna Kraft AS Annual Report 2020, 
+available at https://smaakraft.no/wp-
+content/uploads/2021/11/sagaana-kraft-as-
+2020.pdf 
+Income statement page 1 
+Statement of Financial Position pages 2-3 
+Cash flow page 11 
+Notes to the financial statements 4-7 
+ 
+Annual Report 2019, available at 
+https://smaakraft.no/wp-
+content/uploads/2020/03/smkraft-as-annual-
+report-including-audit-opinion.pdf 
+Småkraft AS Consolidated 
+Consolidated Income Statement page 7 
+Consolidated Statement of Financial Position 
+pages 8-9  
+Consolidated statement of cash flow page 11 
+Notes to the consolidated financial statements 
+pages 13-44 
+ 
+Småkraft AS 
+Statement of profit and loss page 52 
+Statement of financial position pages 53-54 
+Statement of cashflow page 56 
+Notes to the accounts pages 58-85 
+ 
+ 
+Salvasskardelva Kraftverk AS Annual 
+Report 2019, available at 
+https://smaakraft.no/wp-
+content/uploads/2021/11/salvasskardelva-
+kraftverk-as-2019.pdf 
+Income statement page 1 
+Statement of Financial Position pages 2-3 
+Cash flow page 12 
+Notes to the financial statements 4-7 
+11.2 Auditing of 
+historical 
+annual financial 
+information 
+Independent Auditor Report 2020, available 
+at https://smaakraft.no/wp-
+content/uploads/2021/03/annual-report-
+2020-smakraft-signed.pdf 
+Auditors report 
+ 
+ 
+ 
+ 
+ 
+Småkraft Green Bond 2 AS Annual Report 
+2020, available at https://smaakraft.no/wp-
+content/uploads/2021/11/smakraft-green-
+bond-2-as-2020.pdf 
+Auditors report pages 7-8 and pages 11-12 
+ 
+Salvasskardelva Kraftverk AS Annual 
+Report 2020, available at 
+https://smaakraft.no/wp-
+content/uploads/2021/11/salvasskardelva-
+kraftverk-as-2020.pdf 
+Auditors report pages 9-10 and pages 13-14 
+ 
+Sagåna Kraft AS Annual Report 2020, 
+available at https://smaakraft.no/wp-
+content/uploads/2021/11/sagaana-kraft-as-
+2020.pdf 
+Auditors report pages 8-9 and pages 12-13 
+ 
+Annual Report 2019, available at 
+https://smaakraft.no/wp-
+content/uploads/2020/03/smkraft-as-annual-
+report-including-audit-opinion.pdf 
+Auditors report pages 88-92 
+ 
+Salvasskardelva Kraftverk AS Annual 
+Report 2019, available at 
+https://smaakraft.no/wp-
+content/uploads/2021/11/salvasskardelva-
+kraftverk-as-2019.pdf 
+Auditors report pages 9-10 and pages 13-14 
+ 
+References to the above mentioned documents are limited to information given in “Details”, e.g. that the non- 
+incorporated parts are either not relevant for the investor or covered elsewhere in the prospectus.
+
+--- Page 41 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+41
+Joint Lead Managers' disclaimer 
+ 
+DNB Bank ASA, Nordea Bank Abp, filial i Norge and Skandinaviska Endkilda Banken AB (publ), the Joint Lead 
+Managers, have assisted the Company in preparing the Base Prospectus. The Joint Lead Managers have not 
+verified the information contained herein. Accordingly, no representation, warranty or undertaking, express or 
+implied, is made and the Joint Lead Managers expressly disclaim any legal or financial liability as to the accuracy 
+or completeness of the information contained in this Base Prospectus or any other information supplied in 
+connection with the issuance or distribution of bonds by Småkraft AS.  
+ 
+This Base Prospectus is subject to the general business terms of the Joint Lead Managers, available at their 
+respective websites. Confidentiality rules and internal rules restricting the exchange of information between different 
+parts of the Joint Lead Managers may prevent employees of the Joint Lead Managers who are preparing this Base 
+Prospectus from utilizing or being aware of information available to the Joint Lead Managers and/or any of their 
+affiliated companies and which may be relevant to the recipient's decisions. 
+ 
+Each person receiving this Base Prospectus acknowledges that such person has not relied on the Joint Lead 
+Managers, nor on any person affiliated with it in connection with its investigation of the accuracy of such information 
+or its investment decision. 
+ 
+Oslo, 8 December 2021 
+ 
+ 
+DNB Bank ASA 
+(www.dnb.no) 
+Nordea Bank Abp, filial i Norge 
+(www.nordea.no) 
+ 
+Skandinaviska Enskilda Banken 
+AB (publ) 
+(www.seb.no)
+
+--- Page 42 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+42
+Annex 1 Associated companies and subsidiaries of the 
+Issuer
+
+--- Page 43 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+43
+Annex 2 Hydro Power Plants and Plant Owning Companies 
+owned by Småkraft Green Bond 2 AS
+
+--- Page 44 ---
+Småkraft AS, 8 December 2021 
+ 
+Base Prospectus 
+ 
+ 
+44
+Annex 3 Template for Final Terms for fixed and floating rate 
+Bonds
+
+--- Page 45 ---
+[Annex 3] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Final Terms 
+ 
+for 
+ 
+[Title of the bond issue] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Oslo, [Date]
+
+--- Page 46 ---
+Småkraft AS 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+2  
+Terms used herein shall be deemed to be defined as such for the purpose of the conditions set forth in the Base 
+Prospectus clauses 2 Definitions and 13.3 Definitions, these Final Terms and the attached Bond Terms and the 
+attached Guarantee agreement. 
+ 
+ 
+[In case MiFID II identified target market are professional investors and eligible counterparties, insert the 
+following:] 
+[MIFID II product governance / Professional investors and eligible counterparties (ECPs) only target 
+market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is eligible 
+counterparties and professional clients only, each as defined in Directive 2014/65/EU (as amended) (MiFID II); 
+and (ii) all channels for distribution of the Bonds to eligible counterparties and professional clients are appropriate. 
+[Consider any negative target market]. Any person subsequently offering, selling or recommending the Bonds (a 
+distributor) should take into consideration the manufacturer[’s/s’] target market assessment; however, a 
+distributor subject to MiFID II is responsible for undertaking its own target market assessment in respect of the 
+Bonds (by either adopting or refining the manufacturer[’s/s’] target market assessment) and determining 
+appropriate distribution channels.] 
+ 
+[UK MiFIR product governance / Professional investors and eligible counterparties only (ECPs) target 
+market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is only 
+eligible counterparties, as defined in the FCA Handbook Conduct of Business Sourcebook, and professional 
+clients, as defined in Regulation (EU) No 600/2014 as it forms part of domestic law by virtue of the European 
+Union (Withdrawal) Act 2018 (UK MiFIR); and (ii) all channels for distribution of the Bonds to eligible 
+counterparties and professional clients are appropriate. [Consider any negative target market]. Any person 
+subsequently offering, selling or recommending the Bonds (a distributor) should take into consideration the 
+manufacturer[’s/s’] target market assessment; however, a distributor subject to the FCA Handbook Product 
+Intervention and Product Governance Sourcebook (the UK MiFIR Product Governance Rules) is responsible for 
+undertaking its own target market assessment in respect of the Bonds (by either adopting or refining the 
+manufacturer[’s/s’] target market assessment) and determining appropriate distribution channels.] 
+ 
+[PROHIBITION OF SALES TO EEA RETAIL INVESTORS – The Bonds are not intended to be offered, sold or 
+otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in 
+the European Economic Area (EEA). For these purposes, a retail investor means a person who is one (or more) 
+of: (i) a retail client as defined in point (11) of Article 4(1) of MiFID II; (ii) a customer within the meaning of 
+Directive (EU) 2016/97 where that customer would not qualify as a professional client as defined in point (10) of 
+Article 4(1) of MiFID II; or (iii) not a qualified investor as defined in the Prospectus Regulation (as defined below). 
+Consequently no key information document required by Regulation (EU) No. 1286/2014 (as amended) (the 
+PRIIPs Regulation) for offering or selling the Bonds or otherwise making them available to retail investors in the 
+EEA has been prepared and therefore offering or selling the Bonds or otherwise making them available to any 
+retail investor in the EEA may be unlawful under the PRIIPs Regulation.]  
+ 
+[PROHIBITION OF SALES TO UK RETAIL INVESTORS – The Bonds are not intended to be offered, sold or 
+otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in 
+the United Kingdom (UK). For these purposes, a retail investor means a person who is one (or more) of: (i) a 
+retail client, as defined in point (8) of Article 2 of Regulation (EU) No. 2017/565 as it forms part of domestic law by 
+virtue of the European Union (Withdrawal) Act 2018 (EUWA); (ii) a customer within the meaning of the provisions 
+of FSMA and any rules or regulations made under the FSMA to implement Directive (EU) 2016/97, where that 
+customer would not qualify as a professional client, as defined in point (8) of Article 2(1) of Regulation (EU) No. 
+600/2014 as it forms part of domestic law by virtue of the EUWA; or (iii) not a qualified investor as defined in 
+Article 2 of Regulation (EU) 2017/1129 as it forms part of domestic law by virtue of the EUWA. Consequently no 
+key information document required by Regulation (EU) No. 1286/2014 as it forms part of domestic law by virtue of 
+the EUWA (the UK PRIIPs Regulation) for offering or selling the Bonds or otherwise making them available to 
+retail investors in the UK has been prepared and therefore offering or selling the Bonds or otherwise making them 
+available to any retail investor in the UK may be unlawful under the UK PRIIPs Regulation.] 
+ 
+ 
+[In case MiFID II identified target market are retail investors, professional investors and eligible counterparties, 
+insert 
+the 
+following:] 
+[MIFID II product governance / Retail investors, professional investors and eligible counterparties (ECPs) 
+target market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is eligible 
+counterparties, professional clients and retail clients, each as defined in Directive 2014/65/EU (as amended) 
+(MiFID II); EITHER [and (ii) all channels for distribution of the Bonds are appropriate[, including investment 
+advice, portfolio management, non-advised sales and pure execution services]] OR [(ii) all channels for 
+distribution to eligible counterparties and professional clients are appropriate; and (iii) the following channels for 
+distribution of the Bonds to retail clients are appropriate – investment advice[,/and] portfolio management[,/
+
+--- Page 47 ---
+Småkraft AS 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+3  
+and][non-advised sales][and pure execution services][, subject to the distributor’s suitability and appropriateness 
+obligations under MiFID II, as applicable]]. [Consider any negative target market]. Any person subsequently 
+offering, selling or recommending the Bonds (a distributor) should take into consideration the manufacturer[’s/s’] 
+target market assessment; however, a distributor subject to MiFID II is responsible for undertaking its own target 
+market assessment in respect of the Bonds (by either adopting or refining the manufacturer[‘s/s’] target market 
+assessment) and determining appropriate distribution channels[, subject to the distributor’s suitability and 
+appropriateness 
+obligations 
+under 
+MiFID 
+II, 
+as 
+applicable].] 
+ 
+[UK MiFIR product governance / Retail investors, professional investors and eligible counterparties target 
+market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is retail 
+clients, as defined in point (8) of Article 2 of Regulation (EU) 2017/565 as it forms part of domestic law by virtue of 
+the European Union (Withdrawal) Act 2018 (EUWA), and eligible counterparties, as defined in the FCA Handbook 
+Conduct of Business Sourcebook (COBS), and professional clients, as defined in Regulation (EU) No 600/2014 
+as it forms part of domestic law by virtue of the EUWA (UK MiFIR); EITHER [and (ii) all channels for distribution of 
+the Bonds are appropriate, including investment advice, portfolio management, non-advised sales and pure 
+execution services] OR [(ii) all channels for distribution to eligible counterparties and professional clientsare 
+appropriate; and (iii) the following channels for distribution of the Bonds to retail clients are appropriate – 
+investment advice[,/and] portfolio management[,/ and][non-advised sales][and pure execution services][, subject 
+to the distributor’s (as defined below) suitability and appropriateness obligations under COBS, as applicable]]. 
+[Consider any negative target market]. Any person subsequently offering, selling or recommending the Bonds (a 
+distributor) should take into consideration the manufacturer[’s/s’] target market assessment; however, a 
+distributor subject to FCA Handbook Product Intervention and Product Governance Sourcebook (the UK MiFIR 
+Product Governance Rules) is responsible for undertaking its own target market assessment in respect of the 
+Bonds (by either adopting or refining the manufacturer[’s/s’] target market assessment) and determining 
+appropriate distribution channels[, subject to the distributor’s suitability and appropriateness obligations under 
+COBS, as applicable].] 
+ 
+This document constitutes the Final Terms of the Bonds described herein pursuant to the Regulation (EU) 
+2017/1129 and must be read in conjunction with the Base Prospectus dated 8 December 2021 and [the 
+supplement[s] to the Base Prospectus dated [date]].  
+ 
+The Base Prospectus dated 8 December 2021 [and the supplement[s] to the Base Prospectus dated [date]] 
+[together] constitute[s] a base prospectus for the purposes of the Regulation (EU) 2017/1129 ([together,] the 
+“Base Prospectus”). 
+ 
+Final Terms include a summary of each Bond Issue. 
+ 
+These Final Terms and the Base Prospectus [and the supplement[s] to the Base Prospectus] are available on the 
+Issuer's website https://smaakraft.no, or on the Issuer's visit address, Solheimsgaten 15, N-5058 Bergen, Norway, 
+or their successor (s).
+
+--- Page 48 ---
+Småkraft AS 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+4  
+1 Summary  
+ 
+The below summary has been prepared in accordance with the disclosure requirements in Article 7in the 
+Regulation (EU) 2017/1129 as of 14 June 2017. 
+ 
+Introduction and warning 
+Disclosure requirement 
+Disclosure 
+Warning 
+This summary should be read as introduction to the Base 
+Prospectus. Any decision to invest in the securities should be 
+based on consideration of the Base Prospectus as a whole by the 
+investor. The investor could lose all or part of the invested capital.  
+Where a claim relating to the information contained in the Base 
+Prospectus is brought before a court, the plaintiff investor might, 
+under the national law, have to bear the costs of translating the 
+Base Prospectus before the legal proceedings are initiated. Civil 
+liability attaches only to those persons who have tabled the 
+summary including any translation thereof, but only where the 
+summary is misleading, inaccurate or inconsistent, when read 
+together with the other parts of the Base Prospectus, or where it 
+does not provide, when read together with the other parts of the 
+prospectus, key information in order to aid investors when 
+considering whether to invest in such securities. 
+Name and international securities 
+identification number (‘ISIN’) of the 
+securities. 
+[●]  
+Identity and contact details of the issuer, 
+including its legal entity identifier (‘LEI’). 
+Issuer: 
+Småkraft AS, Solheimsgaten 15, N-5058 Bergen, Norway 
+Telephone +47 55 60 74 00  
+Registration number 984 616 155 in the Norwegian Companies 
+Registry 
+LEI-code (legal entity identifier): 549300IG13IP3OK19V41. 
+ 
+Guarantors: 
+Småkraft Green Bond 2 AS, Solheimsgaten 15, N-5058 Bergen, 
+Norway 
+Telephone +47 55 60 74 00  
+Registration number 825 750 932 in the Norwegian Companies 
+Registry 
+LEI-code (legal entity identifier): 636700W7X0VUHCWDLE71. 
+ 
+Salvasskardelva Kraftverk AS, Solheimsgaten 15, N-5058 
+Bergen, Norway 
+Telephone +47 55 60 74 00  
+Registration number 820 804 112 in the Norwegian Companies 
+Registry 
+LEI-code (legal entity identifier): 6367000LZVU58IUP1G07. 
+ 
+Sagåna Kraft AS, Solheimsgaten 15, N-5058 Bergen, Norway 
+Telephone +47 55 60 74 00  
+Registration number 924 868 678 in the Norwegian Companies 
+Registry 
+LEI-code (legal entity identifier): 636700RFA304OGC1BN32. 
+Identity and contact details of the offeror or 
+of the person asking for admission to trading 
+on a regulated market. 
+There is no offeror, the Base Prospectus has been produced in 
+connection with listing of the securities on an Exchange. The 
+Issuer is going to ask for admission to trading on a regulated 
+market. 
+Identity and contact details of the competent 
+authority that approved the prospectus 
+Financial Supervisory Authority of Norway (Finanstilsynet), 
+Revierstredet 3, 0151 Oslo.   
+Telephone number is +47 22 93 98 00.  
+E-mail: prospekter@finanstilsynet.no. 
+Date of approval of the prospectus. 
+The Base Prospectus was approved on 8 December 2021. 
+ 
+Key information on the Issuer 
+Disclosure requirements 
+Disclosure
+
+--- Page 49 ---
+Småkraft AS 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+5  
+Who is the issuer of the securities 
+Småkraft AS 
+Domicile and legal form 
+The Company is a private limited liability company incorporated in 
+Norway and organized under the laws of Norway, including the 
+Private Limited Liability Companies Act 
+Principal activities 
+Småkraft AS is a renewable energy producer. The Småkraft 
+Group is the largest Norwegian operator of small-scale 
+hydropower plants with 145 power plants and a production 
+capacity exceeding 1.5 Twh. The Småkraft Group is also Europe’s 
+largest owner and operator of small-scale power plants. The 
+power plants are located in Norway and Sweden. 
+Major shareholders 
+ 
+The Company is owned by APG (60,37 %), Aquila Capital (23,12 %) and German Insurance (16,51 %). 
+ 
+Småkraft Green Bond 2 AS is wholly owned by Småkraft AS. 
+ 
+Salvasskardelva Kraftverk AS is wholly owned by Småkraft Green Bond 2 AS. 
+ 
+Sagåna Kraft AS is wholly owned by Småkraft Green Bond 2 AS. 
+ 
+ 
+There are no arrangements, known to the Company, the operation of which may at a subsequent date result in a 
+change in control of the Company.  
+ 
+Management 
+ 
+ 
+The management of the Company and the Guarantor can be seen below: 
+ 
+Småkraft AS 
+ 
+Name  
+Position  
+Terje Vedeler 
+Chief executive officer 
+Erik Røysem Sterud 
+Chief financial officer 
+Jørgen Vedeler 
+Chief operating officer 
+Karina Birkelund 
+Chief commercial officer 
+ 
+Småkraft Green Bond 2 AS 
+ 
+Name  
+Position  
+Lars Jacob Haugom 
+Managing Director 
+ 
+ 
+ 
+Salvasskardelva Kraftverk AS 
+Name  
+Position  
+Tina Haaland Rasmussen 
+Managing Director 
+ 
+ 
+ 
+Sagåna Kraft AS 
+Name  
+Position  
+Lars Jacob Hauom 
+Managing Director 
+ 
+ 
+ 
+ 
+Statutory auditors 
+PricewaterhouseCoopers AS 
+ 
+What is the key financial information 
+regarding the issuer 
+ 
+Key financial information 
+ 
+ 
+Småkraft AS Consolidated 
+Amounts in EUR thousan 
+Interim Report 
+Annual Report 
+ 
+1st half 2021 
+2020 
+2019 
+Operating profit 
+-14,235 
+4,017 
+17,013 
+Net financial debt (long term debt plus 
+short term debt minus cash) 
+260 672 
+270 921 
+196 224 
+Net Cash flows from operating activities 
+7,114 
+1,513 
+11,710
+
+--- Page 50 ---
+Småkraft AS 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+6  
+Net Cash flows from financing activities 
+77,966 
+26,616 
+1,797 
+Net Cash flow from investing activities 
+-53,646 
+-55,620 
+-33,151 
+ 
+Småkraft AS 
+Amounts in EUR thousand 
+Annual Report 
+ 
+2020 
+2019 
+Operating profit 
+7,303 
+12,796 
+Net financial debt (long term debt plus 
+short term debt minus cash) 
+227 512 
+175 888 
+Net Cash flows from operating activities 
+4,642 
+16,047 
+Net Cash flows from financing activities 
+27,453 
+17,508 
+Net Cash flow from investing activities 
+-59,859 
+-52,213 
+ 
+Småkraft Green Bond 2 AS 
+Amounts in NOK 
+Interim Report 
+Annual Report 
+ 
+1st half 2021 
+2020 
+Operating profit 
+2 879 482 
+-80 
+Net financial debt (long term debt plus 
+short term debt minus cash) 
+143 487 736 
+-29 953 
+Net Cash flows from operating activities 
+- 8488 238 
+-47 
+Net Cash flows from financing activities 
+7 506 366 
+30 000 
+Net Cash flow from investing activities 
+19 762 000 
+0 
+ 
+Salvasskardelva Kraftverk AS 
+Amounts in NOK 
+Interim Report 
+Annual Report 
+ 
+1st half 2021 
+2020 
+2019 
+Operating profit 
+--228 991 
+-36 984 416 
+-51 000 
+Net financial debt (long term debt plus 
+short term debt minus cash) 
+156 674 653 
+140 100 378 
+53 226 230 
+Net Cash flows from operating activities 
+-5 129 078 
+-3 961 256 
+8 022 928 
+Net Cash flows from financing activities 
+16 000 000 
+82 000 000 
+45 000 000 
+Net Cash flow from investing activities 
+-11 445 197 
+-82 912 891 
+-48 260 374 
+ 
+Sagåna Kraft AS 
+Amounts in NOK 
+Interim Report 
+Annual Report 
+ 
+1st half 2021 
+2020 
+Operating profit 
+-27 303 
+0 
+Net financial debt (long term debt plus 
+short term debt minus cash) 
+37 941 778 
+22 985 086 
+Net Cash flows from operating activities 
+1 074 665 
+1 775 625 
+Net Cash flows from financing activities 
+14 500 000 
+26 530 000 
+Net Cash flow from investing activities 
+-16 004 357 
+-24 790 711 
+ 
+ 
+There is no description of any qualifications in the audit report for the Annual Report 2020. 
+ 
+What are the key risk factors that are specific 
+to the issuer 
+-Hydrology and Meteorology 
+-Electricity price level 
+-Technical risk 
+-Energy policies 
+-Operational production risk 
+-Adverse market disruption 
+-Counterparty risks 
+-Acquisition risk 
+-Financing risk 
+-Currency risk 
+-Technological changes in the Energy Market and Oversupply of 
+Electricity
+
+--- Page 51 ---
+Småkraft AS 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+7  
+Key information on the securities 
+Disclosure requirements 
+Disclosure 
+What are the main features of the securities 
+ 
+Description of the securities, including ISIN 
+code. 
+[●] 
+Currency for the bond issue 
+[●] 
+Borrowing Limit and Borrowing Amount  
+ [● tranche] 
+[●] 
+Denomination – Each Bond 
+[●] 
+Any restrictions on the free transferability of 
+the securities. 
+[●] 
+Description of the rights attached to the 
+securities, limitations to those rights and 
+ranking of the securities. 
+[●] 
+Information about Issue and Maturity Date, 
+interest rate, instalment and representative 
+of the bondholders 
+[●] 
+Status of the bonds and security 
+[●] 
+Where will the securities be traded 
+ 
+Indication as to whether the securities 
+offered are or will be the object of an 
+application for admission to trading. 
+[●]  
+What are the key risks that are specific to the 
+securities 
+ 
+Most material key risks 
+-Limited public market 
+-The market price of the bonds may be volatile 
+-The price of the bonds are subject to risk of interest rate and 
+currency fluctuation 
+-Liquidity risk 
+-Value and enforcement of security 
+-Change of control – the Company’s ability to redeem the Bonds 
+with cash may be limited 
+ 
+ 
+Key information on the admission to trading on a regulated marked 
+Disclosure requirements 
+Disclosure 
+Under which conditions and timetable can I 
+invest in this security? 
+ [●] 
+ 
+The estimate of total expenses related to the admission to 
+trading, please see clause 13.4.5 in the Base Prospectus. 
+ 
+[/ Other: (specify)] 
+ 
+Listing fee Oslo Børs [●] 
+Registration fee Oslo Børs [●] 
+ 
+Why is the prospectus being produced 
+In connection with listing of the securities on the Oslo Børs. 
+Reasons for the admission to trading on a 
+regulated marked and use of. 
+Use of proceeds [●] 
+ 
+Estimated net amount of the proceeds [●] 
+ 
+Description of material conflicts of interest to 
+the issue including conflicting interests. 
+[●]
+
+--- Page 52 ---
+Småkraft AS 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+8  
+2 Detailed information about the security 
+ 
+Generally: 
+ 
+ISIN code: 
+[ISIN] 
+ 
+ 
+The Loan/The Bonds: 
+[Title of the bond issue] 
+ 
+ 
+Borrower/Issuer: 
+Småkraft AS registered in the Norwegian Companies Registry with 
+registration number 984 616 155. The Company’s LEI code is 
+549300IG13IP3OK19V41. 
+ 
+ 
+Group: 
+For the purpose of listing “Småkraft AS 1.875% senior secured 
+EUR 100,000 green bonds 2021/2026” with ISIN code NO0010968449, 
+the Group means the Issuer, Småkraft Green Bond 2 AS and each of 
+Småkraft Green Bond 2 AS’ subsidiaries from time to time 
+ 
+Group Company: 
+Any person that is a member of the Group. 
+ 
+Guarantors: 
+Means Småkraft Green Bond 2 AS with registration number 825 750 932 
+Salvasskardelva Kraftverk AS with registration number 820 804 112 and 
+Sagåna Kraft AS with registration number 924 868 678. The LEI codes 
+are 636700W7X0VUHCWDLE71, 6367000LZVU58IUP1G07 and 
+636700RFA304OGC1BN32. 
+ 
+Security Type: 
+[Un]secured [open] bond issue with [fixed/floating] rate 
+ 
+Borrowing Limit – Tap Issue: 
+[Currency]  
+[Amount borrowing limit]  
+ 
+ 
+Borrowing Amount [●] tranche: 
+[Currency]   
+ [Amount [●] tranche]  
+ 
+ 
+  
+Denomination – Each bond: 
+[Currency] 
+[Amount denomination] - each and ranking pari 
+passu among themselves 
+ 
+ 
+Securities Form: 
+As set out in the Base Prospectus clause 13.1. 
+ 
+ 
+Publication: 
+As specified in the Base Prospectus section 13.4.2. 
+ 
+ 
+Issue Price: 
+[As defined in the Base Prospectus section 13.3 
+ 
+[Issue price] % 
+ 
+ 
+Disbursement Date/Issue Date: 
+[As defined in the Base Prospectus section 13.3 
+ 
+[Issue date] 
+ 
+ 
+Maturity Date: 
+[As defined in the Base Prospectus section 13.3 
+ 
+[Maturity Date] 
+ 
+Guarantee: 
+As defined in the Base Prospectus section 13.3. 
+ 
+[terms of the Guarantee] 
+ 
+[The Guarantee Agreement is attached to this Final Terms.] 
+ 
+ 
+Interest Rate: 
+ 
+Interest Bearing from and Including: 
+[Issue date 
+ 
+/ Other: (specify)] 
+ 
+ 
+Interest Bearing To: 
+[As defined in the Base Prospectus section 13.3 
+ 
+[Maturity Date] 
+ 
+/ Other: (specify)]
+
+--- Page 53 ---
+Småkraft AS 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+9  
+ 
+ 
+Reference Rate: 
+[As defined in the Base Prospectus section 13.3 
+ 
+Floating rate: [NIBOR] [3 / 6 / 12] months  
+ 
+[description of Reference Rate] 
+ 
+Relevant Screen Page: [Relevant Screen Page] 
+ 
+Specified time: [specified time] 
+ 
+Information about the past and future performance and volatility of the 
+Reference Rate is available at [Relevant Screen Page / other: (specify)] 
+ 
+Fallback provisions: [Provisions] 
+ 
+/ Other: (specify)] 
+ 
+/ Fixed Rate: N/A] 
+ 
+ 
+Margin: 
+[As defined in the Base Prospectus section 13.3 
+ 
+Floating Rate: [Margin] % p.a. 
+ 
+/ Fixed Interest: N/A 
+ 
+/ Other: (specify)] 
+ 
+ 
+Interest Rate: 
+[Bond issue with floating rate (as defined in the Base Prospectus section 
+13.3): [Reference Rate + Margin] % p.a. 
+ 
+Current Interest Rate: [current interest rate] 
+ 
+/ Bond Issue with fixed rate (as defined in the Base Prospectus section 
+13.3): [Interest rate] % p.a. 
+ 
+ 
+ 
+Day Count Convention: 
+[Floating Rate: As defined in the Base Prospectus section 13.3 
+/ Fixed Rate: As defined in the Base Prospectus section 13.3 
+ 
+ 
+ 
+Day Count Fraction – Secondary 
+Market: 
+[Floating Rate: As specified in the Base Prospectus section 13.5.1.a 
+/ Fixed Rate: As specified in the Base Prospectus section 13.5.2.a  
+ 
+ 
+ 
+Interest Determination Date: 
+[Floating Rate: As defined in the Base Prospectus section 13.3.  
+ 
+Interest Rate Determination Date: [Interest Rate Determination Date(s)] 
+each year.  
+ 
+/ Fixed rate: N/A 
+ 
+/ Other: (specify)] 
+ 
+ 
+Interest Rate Adjustment Date: 
+[Floating Rate: As defined in the Base Prospectus section 13.3.  
+ 
+/ Fixed rate: N/A] 
+ 
+ 
+Interest Payment Date: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.5.1 (FRN) / section 13.5.2 (fixed rate) 
+ 
+Interest Payment Date: [Date(s)] each year.  
+ 
+The first Interest Payment Date is [Date].  
+ 
+ 
+#Days first term: 
+[Number of interest days] days
+
+--- Page 54 ---
+Småkraft AS 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+10  
+Yield: 
+As defined in the Base Prospectus section 13.3. 
+ 
+The Yield is [yield]  
+ 
+ 
+Business Day: 
+As defined in the Base Prospectus section 13.3. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Amortisation and Redemption: 
+ 
+Redemption: 
+As defined in the Base Prospectus section 13.3 and as specified in the 
+Base Prospectus section 13.4.3, 13.5.1.b and 13.5.2.b. 
+ 
+The Maturity Date is [maturity date] 
+ 
+ 
+Call Option: 
+As defined in the Base Prospectus section 13.3. 
+ 
+[terms of the call option] 
+ 
+Call Date(s): [call date(s)] 
+ 
+Call Price(s): [call price(s)] 
+ 
+Call Notice Period: [call notice period] 
+ 
+Put Option: 
+As defined in the Base Prospectus section 13.3. 
+ 
+[terms of the put option] 
+ 
+Early redemption option due to a tax 
+event: 
+As defined in the Base Prospectus section 13.3. 
+ 
+[terms of the early redemption option] 
+ 
+ 
+ 
+Obligations: 
+ 
+Issuer’s special obligations during the 
+term of the Bond Issue: 
+As specified in the Base Prospectus section 13.4.6. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Listing: 
+ 
+Listing of the Bond Issue/Marketplace: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.5. 
+ 
+Exchange for listing of the Bonds: [Exchange] 
+ 
+/ The Bonds will not be applied for listing on any Exchange. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Any restrictions on the free 
+transferability of the securities: 
+ 
+As specified in the Base prospectus section 13.4.10. 
+ 
+Restrictions on the free transferability of the securities: [specify] 
+ 
+ 
+Purpose/Use of proceeds: 
+As specified in the Base Prospectus section 13.4.1. 
+ 
+Estimated total expenses related to the offer: [specify] 
+ 
+Estimated net amount of the proceeds: [specify] 
+ 
+Use of proceeds: [specify] 
+ 
+[Other: (specify)] 
+ 
+ 
+Prospectus and Listing fees: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.5. 
+ 
+Listing fees: [specify]
+
+--- Page 55 ---
+Småkraft AS 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+11  
+/ Other: (specify)] 
+ 
+ 
+Market-making: 
+As defined in the Base Prospectus section 13.3. 
+ 
+[A market-making agreement has been entered into between the Issuer 
+and [name of market maker]] 
+ 
+/ Other: (specify)] 
+ 
+ 
+Approvals: 
+As specified in the Base Prospectus section 13.4.9. 
+ 
+Date of the Board of Directors’ approval: [date] 
+ 
+/ Other: (specify)] 
+ 
+ 
+Bond Terms: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.7.  
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with 
+the CSD, the Bondholders are bound by the Bond Terms and any other 
+Finance Document, without any further action required to be taken or 
+formalities to be complied with by the Bond Trustee, the Bondholders, 
+the Issuer or any other party. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Status and security: 
+As specified in the Base Prospectus section 13.4.5.  
+ 
+/ Other: (specify)] 
+ 
+ 
+Bondholders’ meeting/ 
+Voting rights: 
+As defined in the Base Prospectus section 13.3. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Availability of the Documentation: 
+https://smaakraft.no    
+ 
+ 
+Joint Lead Managers: 
+[name of Joint Lead Managers] 
+ 
+ 
+Bond Trustee: 
+As defined in the Base prospectus section 13.3. 
+ 
+Paying Agent: 
+As defined in the Base prospectus section 13.3. 
+ 
+The Paying Agent is [name of the Paying Agent] 
+ 
+ 
+Securities Depository / CSD: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.5 
+ 
+/ Other: (specify)] 
+ 
+ 
+Calculation Agent: 
+[As defined in the Base Prospectus section 13.3 
+ 
+/ Other: (specify)]  
+ 
+ 
+Listing fees: 
+Prospectus fee for the Base Prospectus including template for Final 
+Terms is NOK 123,000. 
+ 
+[Listing and other fees at the Exchange: (specify)  
+ 
+/ No listing: N/A]
+
+--- Page 56 ---
+Småkraft AS 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+12  
+3 Additional information 
+Advisor 
+The Issuer has mandated [name of Joint Lead Managers] as Joint Lead Managers for the issuance of the Loan. 
+The Joint Lead Managers have acted as advisor[s] to the Issuer in relation to the pricing of the Loan. 
+ 
+The Joint Lead Managers will be able to hold position in the Loan.  
+ 
+/ Other: (specify)] 
+ 
+Interests and conflicts of interest 
+[The involved persons in the Issuer or offer of the Bonds have no interest, nor conflicting interests that are 
+material to the Bond Issue. 
+ 
+/ Other: (specify)] 
+ 
+Rating 
+[There is no official rating of the Loan. 
+ 
+The Issuer is rated as follows: 
+Standard & Poor’s: [•] 
+Moody’s: [•] 
+ 
+/ Other: (specify)]  
+ 
+Listing of the Loan: 
+[As defined in the Base Prospectus section 13.3] 
+ 
+The Prospectus will be published in [country]. An application for listing at [Exchange] will be sent as soon as 
+possible after the Issue Date. Each bond is negotiable. 
+ 
+Statement from the Joint Lead Managers: 
+[name of Joint Lead managers] have assisted the Issuer in preparing the prospectus. The Joint Lead Managers 
+have not verified the information contained herein. Accordingly, no representation, warranty or undertaking, 
+express or implied, is made, and the Joint Lead Managers expressively disclaim[s] any legal or financial liability 
+as to the accuracy or completeness of the information contained in this prospectus or any other information 
+supplied in connection with bonds issued by the Issuer or their distribution. The statements made in this 
+paragraph are without prejudice to the responsibility of the Issuer. Each person receiving this prospectus 
+acknowledges that such person has not relied on the Joint Lead Managers nor on any person affiliated with them 
+in connection with its investigation of the accuracy of such information or its investment decision. 
+ 
+[place], [date] 
+ 
+ 
+[name of Joint Lead Managers] 
+[web address of Joint Lead Managers]

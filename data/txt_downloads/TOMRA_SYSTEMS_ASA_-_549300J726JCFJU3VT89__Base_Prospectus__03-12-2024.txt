@@ -1,0 +1,4183 @@
+--- Page 1 ---
+Base Prospectus 
+ 
+Tomra Systems ASA 
+ 
+ 
+ 
+ 
+ 
+Managers: 
+ 
+ 
+ 
+ 
+ 
+Asker/Oslo, 03 December 2024 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 2 ---
+Tomra Systems ASA, 03 December 2024 
+ Base Prospectus 
+2 
+ 
+ 
+ 
+ 
+ 
+Important information* 
+The Base Prospectus is based on sources such as annual reports and publicly available information and forward- 
+looking information based on current expectations, estimates and projections about global economic conditions, the 
+economic conditions of the regions and industries that are major markets for the Company's (including subsidiaries 
+and affiliates) lines of business. 
+A prospective investor should consider carefully the factors set forth in chapter 1 Risk factors, and elsewhere in the 
+Prospectus, and should consult his or her own expert advisers as to the suitability of an investment in the bonds. 
+IMPORTANT – EEA RETAIL INVESTORS - If the Final Terms in respect of any notes includes a legend titled 
+"Prohibition of Sales to EEA Retail Investors", the notes are not intended to be offered, sold or otherwise made 
+available to and should not be offered, sold or otherwise made available to any retail investor in the EEA. For these 
+purposes, a retail investor means a person who is one (or more) of: (i) a retail client as defined in point (11) of Article 
+4(1) of MiFID II; (ii) a customer within the meaning of Directive 2002/92/EC (as amended or superseded, the 
+"Insurance Mediation Directive"), where that customer would not qualify as a professional client as defined in point 
+(10) of Article 4(1) of MiFID II; or (iii) not a qualified investor as defined in the Prospectus Regulation (EU) 2017/1129. 
+Consequently no key information document required by Regulation (EU) No 1286/2014 (as amended, the "PRIIPs 
+Regulation") for offering or selling the Notes or otherwise making them available to retail investors in the EEA has 
+been prepared and therefore offering or selling the Notes or otherwise making them available to any retail investor 
+in the EEA may be unlawful under the PRIIPS Regulation. 
+ 
+MiFID II product governance / target market – The Final Terms in respect of any notes will include a legend titled 
+"MiFID II product governance" which will outline the target market assessment in respect of the notes and which 
+channels for distribution of the notes are appropriate. Any person subsequently offering, selling or recommending 
+the notes (a “distributor”) should take into consideration the target market assessment; however, a distributor subject 
+to MiFID II is responsible for undertaking its own target market assessment in respect of the Notes (by either 
+adopting or refining the target market assessment) and determining appropriate distribution channels. 
+ 
+This Base Prospectus is subject to the general business terms of the Managers, available at their respective 
+websites (www.dnb.no and www.nordea.no). 
+The Managers and/or affiliated companies and/or officers, directors and employees may be a market maker or hold 
+a position in any instrument or related instrument discussed in this Base Prospectus and may perform or seek to 
+perform financial advisory or banking services related to such instruments. The Managers’ corporate finance 
+department may act as manager or co-manager for this Company in private and/or public placement and/or resale 
+not publicly available or commonly known. 
+ 
+Copies of this Base Prospectus are not being mailed or otherwise distributed or sent in or into or made available in 
+the United States. Persons receiving this document (including custodians, nominees and trustees) must not 
+distribute or send such documents or any related documents in or into the United States. 
+Other than in compliance with applicable United States securities laws, no solicitations are being made or will be 
+made, directly or indirectly, in the United States. Securities will not be registered under the United States Securities 
+Act of 1933 and may not be offered or sold in the United States absent registration or an applicable exemption from 
+registration requirements. 
+ 
+The distribution of the Base Prospectus may be limited by law also in other jurisdictions, for example in Canada, 
+Japan and in the United Kingdom. Verification and approval of the Base Prospectus by the Norwegian FSA 
+(“Finanstilsynet”) implies that the Base Prospectus may be used in any EEA country. No other measures have been 
+taken to obtain authorisation to distribute the Base Prospectus in any jurisdiction where such action is required. 
+The Base Prospectus dated 03 December 2024 together with a Final Terms and any supplements to these 
+documents constitute the Prospectus. 
+ 
+The content of this Base Prospectus does not constitute legal, financial or tax advice and potential investors should 
+seek legal, financial and/or tax advice. 
+ 
+Unless otherwise stated, this Base Prospectus is subject to Norwegian law. In the event of any dispute regarding 
+the Base Prospectus, Norwegian law will apply. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 3 ---
+Tomra Systems ASA, 03 December 2024 
+ Base Prospectus 
+3 
+ 
+ 
+ 
+ 
+ 
+INDEX 
+Description of the Base Prospectus ............................................................................................................................................ 4 
+1 Risk factors ............................................................................................................................................................................. 5 
+2 Definitions ............................................................................................................................................................................... 8 
+3 Persons responsible, Third-Party Information, Experts’ report and Competent Authority Approval ...................................... 10 
+4 Statutory Auditors .................................................................................................................................................................. 11 
+5 Information about the Issuer .................................................................................................................................................. 12 
+6 Business overview ................................................................................................................................................................ 13 
+7 Trend information .................................................................................................................................................................. 19 
+8 Profit forecasts and estimates ............................................................................................................................................... 19 
+9 Administrative, management and supervisory bodies ............................................................................................................ 20 
+10 
+Major shareholders ......................................................................................................................................................... 24 
+11 
+Financial information concerning the Issuer's assets and liabilities, financial position and profits and losses ................ 25 
+12 
+Regulatory disclosures ................................................................................................................................................... 27 
+13 
+Material contracts ........................................................................................................................................................... 29 
+14 
+Documents on display .................................................................................................................................................... 29 
+15 
+Financial instruments that can be issued under the Base Prospectus ............................................................................ 29 
+16 
+Third party information .................................................................................................................................................... 41 
+Managers’ disclaimer ................................................................................................................................................................ 43 
+Appendix 1 Articles of Association ............................................................................................................................................ 44 
+Appendix 2 Template Final Terms for fixed and floating bond issues ....................................................................................... 45 
+ 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 4 ---
+Tomra Systems ASA, 03 December 2024 
+ Base Prospectus 
+4 
+ 
+ 
+ 
+ 
+Description of the Base Prospectus 
+Under this Base Prospectus (as supplemented and amended from time to time), the Issuer may from time to time 
+issue and list bonds (“Bonds”) denominated in any currency agreed between the Issuer and the relevant dealer. 
+The Bonds will be issued on a senior basis as secured or unsecured, with fixed or floating interest rate. The Bonds 
+may have put- and call options and they may be green. 
+The Bonds will be electronically registered in the Norwegian Central Securities Depository or any other CSD that 
+allows for bonds issued in uncertificated and dematerialised book-entry form. 
+There is no limit with regard to the maximum aggregate nominal amount of all bonds from time to time outstanding 
+under the prospectus. However, each issue of bonds will have either a given borrowing amount in the case where 
+there is only one tranche, or a given borrowing limit in the case of more than one tranche. 
+The Bonds may be issued on a continuing basis to any dealer that the Issuer decides upon. 
+The Base Prospectus has been approved by the Financial Supervisory Authority of Norway as competent authority 
+under Regulation (EU) 2017/1129, as amended (the “Prospectus Regulation”) as a base prospectus issued in 
+compliance with the Prospectus Regulation for the purpose of giving information with regard to the bonds issued 
+under the prospectus. The Base Prospectus is valid within twelve months from the date of the Base Prospectus. 
+ 
+Information on website(s) mentioned in the Base Prospectus/the Final Terms does not form part of the Base 
+Prospectus/the Final Terms unless that information is incorporated by reference into the Base Prospectus/the Final 
+Terms. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 5 ---
+Tomra Systems ASA, 03 December 2024 
+ Base Prospectus 
+5 
+ 
+ 
+ 
+ 
+1 Risk factors 
+Investing in bonds involves inherent risks. Prospective investors should carefully consider, among other things, the 
+risk factors set out in the Base Prospectus before making an investment decision. 
+The risk and uncertainties described below, are risks of which Tomra Systems ASA considers to be material to its 
+business. If any of the following risks were to occur, TOMRA’s business, financial position, operating results, or 
+cash flows could be significantly and negatively affected, and TOMRA could be unable to pay interest, principal, or 
+other amounts on or in connection with the bonds. Prospective investors should consider, among other things, the 
+risk factors set out herein before making an investment decision. An investment in the bonds is suitable only for 
+investors who understand the risk factors associated with this type of investment and who can afford a loss of all or 
+part of their investment. Against this background, an investor should thus make a careful assessment of the 
+Company and its prospects before deciding to invest, including but not limited to the cost structure for both the 
+Company and the investors, as well as the investors' current and future tax position. The risk factors for the 
+Company and the Group are deemed to be equivalent for the purpose of this Base Prospectus unless otherwise 
+stated. TOMRA may in the future enter new markets, both geographically and in terms of new products/services 
+and new customer groups. New market entries are associated with similar risks as those related to managing 
+growth, and will require investments and significant resources, including management time. In the short term, new 
+market entries may generate negative results. Unsuccessful entry into new markets could have a material adverse 
+effect on TOMRA’s business, operating results, and financial condition. 
+ 
+In each category below, the Issuer sets out the most material risks, in its assessment, considering the negative 
+impact of such risk on the Issuer and the probability of its occurrence. 
+ 
+ 
+1.1 Risk factors related to Tomra Systems ASA 
+1.1.1 Political and regulatory risk: 
+TOMRA’s activities are to a significant degree governed by legislation related to the handling of waste and recycling 
+of materials. Changes in existing legislation, for example the repeal of a national deposit law, could have a significant 
+negative impact on TOMRA’s reverse vending business and the Group’s operations and financial results. Changes 
+in planned new environmental legislation related to the business of TOMRA, such the EU’s proposed Packaging 
+and Packaging Waste Regulation, could impact the future growth prospects for the Group. TOMRA is exposed to 
+geopolitical risk, such as global trade agreements and tariffs between major nations, that may reduce the trade flow 
+between these countries and impact customers’ investment sentiment. The EU/EEA represents the largest market 
+in terms of revenues, but the Group has customers in over 100 countries who depend on imports of TOMRA 
+products from a limited number of manufacturing sites. TOMRA’s products are mainly manufactured in the EU/EEA, 
+with additional manufacturing capabilities in China. TOMRA has a global supply chain where disruptions in the flow 
+of raw materials and components may adversely affect its ability to supply products, and no assurance can be given 
+that TOMRA would be able to source alternative supplies of key production components in a short time or cost-
+effective manner. Such circumstances may lead to disruption in the Group's operating activities, loss of revenue, 
+customer claims and liability for the Group, which may in turn adversely impact the Group's business, profits, 
+financial position, and prospects. 
+1.1.2 Market and competition risk: 
+TOMRA is well positioned in the markets it operates in, however no assurances can be given with regards to the 
+future. Due to legislation, particularly in the EU, TOMRA’s addressable market is expected to grow significantly in 
+the coming years. TOMRA is therefore positioning itself and investing for growth. The Group is therefore dependent 
+on both retaining its current customer base and entering new customer contracts on commercially favorable terms 
+to service its cost base and cost of capital. However, there is a risk that the Group may suffer loss of existing 
+customers, important customer collaborations may be terminated, existing customers may refrain from renewing 
+contracts on the same or more favorable terms and the Group may not be able to attract new customers. This could 
+result in a significant loss of revenues from service contracts and from the sales of new machines. As TOMRA’s 
+addressable market grows from niche into a broader market in new geographies, new competitors may enter the 
+markets, and disruptive technology and structural changes could negatively influence TOMRA’s business 
+opportunities. The future performance of TOMRA’s operations will depend on the successful development, 
+introduction and market acceptance of existing and new products and services that address customer requirements 
+in a cost-effective manner. If TOMRA does not expand or enhance its product and/or service range or respond 
+effectively to technological change, its businesses may not grow. The introduction of new products and services, 
+market acceptance of products and services based on new or alternative technologies, or the emergence of new 
+industry standards could render TOMRA’s existing products obsolete or make it easier for other products to compete 
+with its products and services, which may adversely impact the Group's business, profits, financial position, and 
+prospects. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 6 ---
+Tomra Systems ASA, 03 December 2024 
+ Base Prospectus 
+6 
+ 
+ 
+ 
+1.1.3 IP and legal risk: 
+TOMRA relies on proprietary technology, patent rights, confidential information, trade secrets, data, know-how, 
+branding and market positioning, to conduct its business, and to attract and retain customers. Operating in several 
+jurisdictions with a broad portfolio of products exposes TOMRA to IP risk, as IP can be stolen or misused, or that 
+TOMRA could become in breach of IP owned by other companies. A third party can assert infringement claims 
+against TOMRA and its customers, which could be time consuming and expensive to defend, require the Group to 
+cease the infringing activity, enter into licensing and royalty arrangements, develop alternative non- infringing 
+solutions that may entail substantial unanticipated resources, or result in legal action which could be costly to the 
+Group. Such claims could adversely impact the Group’s business, profits, financial position, and prospects. 
+ 
+1.1.4 Compliance and reputation risk: 
+TOMRA operates in a complex and vast geographical area and is exposed to compliance risks. As a market leader 
+within the segments TOMRA operates and as an impact leader shaping new markets by advocating for the 
+implementation of circular solutions through engagements in global business coalitions and councils with 
+policymakers, TOMRA is vulnerable to adverse market perception. TOMRA must display a high level of integrity 
+and maintain the trust and confidence of its customers and other stakeholders. Any actual or allegations of 
+mismanagement, fraud, or failure to satisfy fiduciary or regulatory responsibilities could result in negative publicity 
+and adversely affect TOMRA’s reputation and damage the value of TOMRA’s brands. This could potentially disrupt 
+TOMRA’s business and ability to advocate for the implementation of circular systems in new markets. Adverse 
+regulatory action or judgment in litigation could result in expensive fees and legal costs, as well as sanctions of 
+various types for the Group, including, but not limited to, the payment of fines, damages or other amounts, the 
+invalidation of contracts, restrictions, or limitations on its operations, any of which could adversely impact the 
+Group's business, profits, financial position, and prospects. 
+1.1.5 IT infrastructure and cybersecurity risk: 
+TOMRA relies on the efficient and uninterrupted operation of information technology systems and networks to 
+operate its business. Examples of such systems include ERP systems (enterprise resource planning) used in own 
+operations and service management, or the digital platform on which the reverse vending machine park is connected 
+and through which consumers may redeem their deposits and receive digital payments. Disruptions to the Group's 
+systems or networks, including, but not limited to, computer viruses, security breaches, cyber-attacks, intentional 
+and unintentional acts, natural disasters, war, telecommunication failures, energy blackouts could adversely impact 
+the Group. TOMRA makes use of information technology systems where amongst others information about 
+customers and employees may be stored. A failure to effectively mitigate such risks could adversely impact the 
+Group's business, profits, financial position, and prospects. 
+ 
+1.1.6 Commodity risk: 
+If the demand for recycled material would decrease and/or raw material prices would decrease, the demand for 
+recycling solutions would be reduced or TOMRA could experience price pressure on its equipment offering. TOMRA 
+is dependent on generating new sales in order to maintain and grow its business, hence lower demand might impact 
+orders negatively. TOMRA do however only to a limited extent take title to raw material and are consequently not 
+significantly directly exposed to commodity price fluctuations. 
+ 
+1.1.7 Impairment loss intangibles: 
+TOMRA has booked significant intangible assets in its balance sheet. The value of these assets is dependent upon 
+the predicted cashflow the respective cash generating units are expected to generate. A lasting change in the 
+market situation for some of the units could trigger significant write-downs of the book values. 
+ 
+The occurrence of any of the above-listed factors, among others, could result in future substantial and extended 
+declines in the level of activity in the market TOMRA operates in, and constitute a risk for the Group’s business, 
+profits, financial position, and prospects. 
+ 
+1.2 
+Risk factors related to the Bonds 
+Financial risk 
+Credit risk is the risk that the Borrower fails to make the required payments under the Loan (either principal or 
+interest), which amongst others is determined by the Borrower’s financial situation. The Borrower currently has a 
+moderate gearing with good solidity. However, it is exposed to the risks described under 1.1 and past performance 
+is not indicative of future results 
+Interest rate risk - is the risk that results from the variability of the NIBOR interest rate. The coupon payments, 
+which depend on the NIBOR interest rate and the Margin, will vary in accordance with the variability of the NIBOR 
+interest rate. The interest rate risk related to this bond issue will be limited, since the coupon rate will be adjusted 
+quarterly according to the change in the reference interest rate (NIBOR 3 months) over the tenor. The primary price 
+risk for a floating rate bond issue will be related to the market view of the correct trading level for the credit spread 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 7 ---
+Tomra Systems ASA, 03 December 2024 
+ Base Prospectus 
+7 
+ 
+ 
+related to the bond issue at a certain time during the tenor, compared with the credit margin the bondissue is 
+carrying. A possible increase in the credit spread trading level relative to the coupon defined credit margin may 
+relate to general changes in the market conditions and/or Issuer specific circumstances. However, under normal 
+market circumstances the anticipated tradable credit spread will fall as the duration of the bond issue becomes 
+shorter. In general, the price of bonds will fall when the credit spread in the market increases, and conversely the 
+bond price will increase when the market spread decreases. 
+ 
+Changes or uncertainty in respect of NIBOR and/or other interest rate benchmarks may affect the value or 
+payment of interest under the listed bonds 
+The Listed bonds are linked to NIBOR. NIBOR and other benchmark rates are the subject of recent national and 
+international regulatory guidance and proposals for reform including, without limitation, the Benchmark Regulation 
+and certain other international and national reforms. 
+The regulation and reform of "benchmarks" may adversely affect the value of Notes linked to or referencing 
+such "benchmarks" 
+Interest rates and indices which are deemed to be "benchmarks", (including NIBOR) are the subject of recent 
+national and international regulatory guidance and proposals for reform. Some of these reforms are already effective 
+whilst others are still to be implemented. These reforms may cause such benchmarks to perform differently than in 
+the past, to disappear entirely, or have other consequences which cannot be predicted. Any such consequence 
+could have a material adverse effect on any Bonds linked to or referencing such a "benchmark". 
+The Benchmarks Regulation could have a material impact on any Bonds linked to or referencing a “benchmark”, in 
+particular, if the methodology or other terms of the “benchmark” are changed in order to comply with the 
+requirements of the Benchmarks Regulation. Such changes could, among other things, have the effect of reducing, 
+increasing or otherwise affecting the volatility of the published rate or level of the “benchmark”. 
+ 
+Risk relating to the bonds 
+Subordination 
+The Issuer’s payment obligations under these Bond Terms shall rank ahead of all subordinated payment obligations 
+of the Issuer and the Bond shall rank pari passu between themselves and will rank at least pari passu with all other 
+obligations of the Issuer (save for such claims which are preferred by bankruptcy, insolvency, liquidation or other 
+similar laws of general application). 
+ 
+Security 
+The bonds are unsecured. Unsecured bonds, in general, carry a higher risk than the secured bonds. As a result, 
+unsecured bonds pay a higher rate of interest than the secured bonds. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 8 ---
+Tomra Systems ASA, 03 December 2024 
+ Base Prospectus 
+8 
+ 
+ 
+ 
+ 
+2 Definitions 
+API: 
+Application Programming Interface. 
+Annual Report 2023: 
+Tomra Systems ASA’s annual report 2023. 
+Base Prospectus: 
+This document dated 03 December 2024 
+The Base Prospectus has been approved by the Norwegian FSA, as competent 
+authority under Regulation (EU) 2017/1129. The Norwegian FSA only approves 
+this Base Prospectus as meeting the standards of completeness, 
+comprehensibility and consistency imposed by Regulation (EU) 2017/1129. 
+Such approval should not be considered as an endorsement of the Issuer that 
+is the subject of this Base Prospectus. The Base Prospectus has been drawn 
+up as part of a simplified prospectus in accordance with Article 14 of Regulation 
+(EU) 2017/1129. 
+ 
+BBC: 
+BBC Technologies Ltd. 
+B.Sc: 
+Bachelor of science. 
+ 
+CEO: 
+Chief Executive Officer. 
+CFO: 
+Chief Financial Officer. 
+Company/Issuer/TOMRA/Tomra 
+Systems/Tomra Systems ASA: 
+Tomra Systems ASA, a Norwegian company organized under the laws of 
+Norway. 
+DRS: 
+Deposit return system (for beverage containers) 
+EBITA: 
+is the calculated profit (loss) for the period before (i) income tax expenses, (ii) 
+finance income and expenses and (iii) amortizations. 
+EEA: 
+European Economic Area 
+ 
+ESG: 
+Environmental, Social, and Governance. 
+ 
+EU: 
+European Union. 
+ 
+EUR: 
+Euro 
+Final Terms: 
+Document to be prepared for each new issue of bonds under the Prospectus. 
+The template for Final Terms is included in the Base Prospectus as Annex 2. 
+ 
+The template for Final Terms has been approved by the Norwegian FSA, as 
+competent authority under Regulation (EU) 2017/1129. The Norwegian FSA 
+only approves this template for Final Terms as meeting the standards of 
+completeness, comprehensibility and consistency imposed by Regulation (EU) 
+2017/1129. Such approval should not be considered as an endorsement of the 
+quality of the securities that are the subject of this template for Final Terms. 
+Investors should make their own assessment as to the suitability of investing in 
+the securities. 
+Group: 
+Issuer and its subsidiaries. 
+ 
+IFRS: 
+International Financial Reporting Standards. 
+IP 
+Intellectual property (patent). 
+ 
+KPI: 
+Key Performance Indicators. 
+Manager: 
+As specified in Final Terms. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 9 ---
+Tomra Systems ASA, 03 December 2024 
+ Base Prospectus 
+9 
+ 
+ 
+NOK: 
+Norwegian kroner. 
+ 
+R&D 
+Research and development. 
+ 
+RVM: 
+Reverse Vending Machine. 
+ 
+Quarterly Report Q3 2024: 
+Tomra Systems’ quarterly report Q3 2024. 
+UN: 
+United Nations. 
+USD: 
+United States dollar. 
+We, us, our and the Group 
+and other similar terms refer, unless the context otherwise requires, to the 
+Company and its consolidated subsidiaries.
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 10 ---
+Tomra Systems ASA, 03 December 2024 
+ Base Prospectus 
+10
+ 
+ 
+ 
+3 Persons responsible, Third-Party Information, Experts’ 
+report and Competent Authority Approval 
+3.1 Persons responsible for the information 
+Persons responsible for the information given in the Base Prospectus are as follows: 
+Tomra Systems ASA, Drengsrudhagen 2, 1385 Asker. 
+ 
+ 
+3.2 Declaration by persons responsible 
+Responsibility statement: 
+Tomra Systems ASA confirms that to the best of its knowledge, the information contained in the Base Prospectus 
+is in accordance with the facts and that the Base Prospectus makes no omission likely to affect its import. 
+Asker, 03 December 2024 
+   Tomra Systems ASA 
+ 
+ 
+Tove Andersen 
+President and CEO 
+ 
+ 
+ 
+3.3 Experts’ report 
+No statement or report attributed to a person as an expert is included in the Base Prospectus. 
+ 
+3.4 Third party Information 
+No information has been sourced from a third party in the Base Prospectus. 
+ 
+3.5 Competent Authority Approval 
+The Base Prospectus has been approved by the Norwegian FSA, as competent authority under Regulation (EU) 
+2017/1129. The Norwegian FSA only approves this Base Prospectus as meeting the standards of completeness, 
+comprehensibility and consistency imposed by Regulation (EU) 2017/1129. Such approval should not be considered 
+as an endorsement of the Issuer that is the subject of this Base Prospectus. Such approval should not be considered 
+as an endorsement of the quality of the securities that are the subject of the template for Final Terms. The Base 
+Prospectus has been drawn up as part of a simplified prospectus in accordance with Article 14 of Regulation (EU) 
+2017/1129 Investors should make their own assessment as to the suitability of investing in the securities. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 11 ---
+Tomra Systems ASA, 03 December 2024 
+ Base Prospectus 
+11
+ 
+ 
+ 
+ 
+4 Statutory Auditors 
+4.1 Names and addresses 
+PricewaterhouseCoopers AS (PwC) 
+Dronning Eufemias gate 71 
+P.O. Box 748 Sentrum 
+NO-0106 Oslo 
+Tel. +47 02316 
+ 
+State Authorised Public Accountant Eivind Nilsen has been responsible for the Auditor's report for 2023. 
+PwC is member of The Norwegian Institute of Public Accountants. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 12 ---
+Tomra Systems ASA, 03 December 2024 
+ Base Prospectus 
+12
+ 
+ 
+ 
+ 
+5 Information about the Issuer 
+5.1 Legal and commercial name 
+The legal name of the issuer is Tomra Systems ASA and its commercial name is TOMRA. 
+ 
+5.1.1 Place of registration and registration number 
+The Company is registered in the Norwegian Companies Registry with registration number 927 124 238. 
+ 
+5.2 Domicile and legal form 
+The Company is a public limited liability company incorporated in Norway and primarily organized under the laws 
+of Norway, including the Public Limited Companies Act. Pursuant to the listing agreement between the Oslo Stock 
+Exchange and the Company. In particular, the Norwegian Securities Trading Act and the Norwegian Stock 
+Exchange Regulations will apply. 
+The Company's registered address is Drengsrudhagen 2, 1385 Asker, Norway. The Company's telephone 
+number is +47 66 79 91 00. LEI-code (legal entity identifier): 549300J726JCFJU3VT89. 
+ 
+ 
+Website: https://www.tomra.com 
+ 
+Disclaimer: 
+The information on the website does not form part of the prospectus unless that information is incorporated by reference into the 
+prospectus. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 13 ---
+Tomra Systems ASA, 03 December 2024 
+ Base Prospectus 
+13
+ 
+ 
+ 
+ 
+6 Business overview 
+6.1 
+TOMRA Group 
+TOMRA develops solutions that enable circular economies and optimal resource productivity – with a 
+vision to lead the resource revolution and enable a world without waste. The company’s solutions are highly 
+relevant in a world that needs technology, innovation, and investment to reach net- zero carbon emissions 
+by mid-century. 
+ 
+TOMRA has been pioneering technology-driven solutions since 1972 that enable automated identification, 
+collection, grading, and sorting of resources – optimizing how resources are obtained, used, and reused – driving 
+resource productivity and turning waste into valuable resources. As an impact leader, TOMRA provides thought 
+leadership and pushes the boundaries on technology and solutions – creating and shaping markets. 
+ 
+TOMRA’s solutions are applied by the food and beverage industry including retailers, farmers, packhouses and 
+processors, and in the recycling industry by waste managers and recyclers, as well as by mining companies for ore 
+sorting. The company is structured into three customer-centric business divisions - Collection, Recycling and Food, 
+each of which is a recognized technology leader within their respective business areas worldwide. Simultaneously, 
+through TOMRA Horizon, TOMRA is leveraging its technology and knowledge to create new impactful solutions for 
+increased circularity, resource efficiency, and long-term value creation in new adjacent business segments. 
+Governments, businesses, and consumers around the globe are working to tackle resource scarcity and combat 
+climate change. For example, the European Union’s Environment Action Program (EAP) anchors the commitment 
+to environmental and climate action until 2030, guided by a long-term vision and building on the European Green 
+Deal of net zero emissions by 2050 and economic growth decoupled from resource use. Par of the solution is to 
+increase circularity. Less than 8% of the world’s resources are circular today and more than 30% of all consumable 
+food is lost or wasted each year. By closing the loop on how resources are obtained, used, and reused with 
+innovative solutions and technology provided by TOMRA, the productivity of resources can be increased, pollution 
+can be reduced, and waste can be avoided.  
+ 
+Altogether TOMRA has over 110,000 installations in over 100 countries worldwide and had total revenues of 14.8 
+billion NOK in 2023. The Group employed approximately 5,400 people in 2023 and is publicly listed on the Oslo 
+Stock Exchange. 
+ 
+The net proceeds from the bonds will be used primarily towards TOMRA Collection, TOMRA Recycling and 
+TOMRA Horizon. 
+ 
+6.1.1 Financial performance TOMRA Group 
+ 
+Revenues amounted to NOK 14,756 million in 2023, an increase of 21% compared to 2022. Adjusted for currency 
+effects, revenues were up 11% for TOMRA Group, up 18% in Collection, up 18% in Recycling, and down 7% in 
+Food. 
+ 
+EBITA was NOK 1,379 million in 2023, down from NOK 1,625 million in 2022 and the EBITA margin decreased to 
+9% in 2023 from 13% in 2022. Adjusted for special items, which were one-off costs related to a cyberattack and 
+restructuring program in Food, EBITA increased to NOK 1,873 million in 2023. Adjusted for special items, the 
+EBITA margin was 13% in 2023.  
+ 
+SEGMENT
+(MNOK)
+FY23
+FY22
+FY23
+FY22
+FY23
+FY22
+FY23
+FY22
+FY23
+FY22
+Revenues
+7,981
+   
+6,192
+   
+3,105
+   
+2,376
+   
+3,668
+   
+3,620
+   
+2
+          
+14,756
+ 
+12,188
+ 
+Gross contribution
+3,180
+   
+2,347
+   
+1,606
+   
+1,195
+   
+1,496
+   
+1,511
+   
+1
+          
+6,283
+   
+5,053
+   
+  - in %
+40%
+38%
+52%
+50%
+41%
+42%
+43%
+41%
+Operating expenses
+1,856
+   
+1,401
+   
+948
+      
+702
+      
+1,396
+   
+1,167
+   
+209
+      
+158
+      
+4,410
+   
+3,427
+   
+EBITA, adj.
+1,324
+   
+946
+      
+658
+      
+493
+      
+100
+      
+344
+      
+-208
+     
+-158
+     
+1,873
+   
+1,625
+   
+  - in %
+17%
+15%
+21%
+21%
+3%
+10%
+13%
+13%
+Special items
+-288
+     
+-206
+     
+-494
+     
+EBITA
+1,324
+   
+946
+      
+658
+      
+493
+      
+-188
+     
+344
+      
+-414
+     
+-158
+     
+1,379
+   
+1,625
+   
+  - in %
+17%
+15%
+21%
+21%
+-5%
+10%
+9%
+13%
+Collection
+Recycling
+Food
+Group Functions
+Group Total
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 14 ---
+Tomra Systems ASA, 03 December 2024 
+ Base Prospectus 
+14
+ 
+ 
+Net financial income was negative NOK 185 million in 2023, compared to negative NOK 49 million in 2022. The 
+increase is largely driven by higher interest rates and additional debt financing including the issuance of new green 
+bonds in the fourth quarter 2022. 
+ 
+First nine months 2024 
+ 
+Note that in the second quarter 2024, TOMRA changes its presentation currency from NOK to EUR. Figures in this 
+section and subsequent sections addressing 2024 financial figures, with comparison figures for the corresponding 
+period in 2023, are therefore stated in EUR. 
+ 
+ 
+Figures in the table have been adjusted from NOK to EUR 
+ 
+Revenues in first nine months 2024 amounted to EUR 950 million compared to EUR 934 million last year, an 
+increase of 2%. Revenues increased 14% in Collection and were down 17% in Recycling and 8% in Food. 
+ 
+EBITA, adjusted for special items, was EUR 103 million with an EBITA margin of 11% in the first 9 months 2024. 
+This is a decrease from EUR 108 million and a margin of 12% in the same period last year. Please see  Quarterly 
+Report Q3 2024 and the Annual Report 2023. 
+ 
+6.2 
+TOMRA Collection 
+TOMRA Collection develops reverse vending solutions that enable efficient collection of beverage containers so 
+they can be reused or recycled back into new beverage containers. These solutions automate the collection of 
+beverage containers for retailers and governments, typically in markets with deposit return systems (DRS), while 
+safeguarding the integrity of the system and enabling a convenient recycling experience for consumers. The 
+installed base amounts to approximately 85,000 reverse vending machines in over 60 markets, collecting over 46 
+billion empty cans and bottles every year.  
+Less than 4% of recyclable beverage containers in the world are collected today, while efficient deposit return 
+systems collect over 90% for recycling. To boost recycling rates and reduce plastic pollution, an increasing number 
+of countries are considering introducing deposit return systems. This is particularly the case in the EU where the 
+single use plastic directive requires member states to collect over 90% of plastic bottles by 2029, and where the 
+proposed packaging and packaging waste regulation requires member states to introduce DRS to achieve the 
+objective. 
+ 
+TOMRA Collection’s activities include the development, production, sale, lease, and service of automated collection 
+systems, including data structures that monitor the volume of collected materials and associated transactions. 
+Solutions are tailored to local market dynamics, and in some geographies like North America, TOMRA also offers 
+material recovery services that include the pick-up, transportation, and processing of beverage containers, as well 
+as brokerage of processed materials to recyclers. Approximately 40% of revenues a generated from sales of 
+equipment. The other 60% stems from different types of services including throughput revenues where TOMRA 
+maintains ownership of the machines in exchange for a payment based on containers processed by the machines. 
+ 
+Geographically, Europe represents both the largest existing market with approximately 66,000 installations, and the 
+largest near-term growth market due to EU’s DRS legislation. New technology, such as the R1 and R2 multi-feed 
+machines and the Rollpac backroom solution, enables customers to upgrade to more efficient machines with a 
+better user experience as old equipment gets replaced in existing markets. Expansions of DRS to include more 
+container types, such as in the Netherlands in 2023, and the introduction of DRS in new countries, such as Romania, 
+Hungary, Ireland, and Austria in 2023/24/25, is driving additional growth. Poland is also set to launch its DRS system 
+in 2025, and several other countries are in a decision process.  
+ 
+Additional markets of significance include North America (both USA and Canda) where 21 states/provinces/territories 
+have DRS dating back to the 1970’s and 80’s, and Australia where TOMRA has been operating since 2017 and where 
+the full continent will be covered by DRS in 2025. 
+  
+SEGMENT
+(MEUR)
+YTD24
+YTD23
+YTD24
+YTD23
+YTD24
+YTD23
+YTD24
+YTD23
+YTD24
+YTD23
+YTD24
+YTD23
+Revenues
+571
+      
+500
+      
+163
+      
+195
+      
+220
+      
+239
+      
+1
+          
+0
+          
+-4
+         
+950
+      
+934
+      
+Gross contribution
+231
+      
+196
+      
+82
+        
+101
+      
+93
+        
+96
+        
+-0
+         
+-1
+         
+-3
+         
+403
+      
+393
+      
+  - in %
+41%
+39%
+50%
+52%
+42%
+40%
+0%
+0%
+42%
+42%
+Operating expenses
+135
+      
+117
+      
+62
+        
+58
+        
+84
+        
+94
+        
+6
+          
+5
+          
+13
+        
+11
+        
+300
+      
+285
+      
+EBITA, adj.
+96
+        
+80
+        
+20
+        
+43
+        
+9
+          
+2
+          
+-6
+         
+-5
+         
+-16
+       
+-11
+       
+103
+      
+108
+      
+  - in %
+17%
+16%
+13%
+22%
+4%
+1%
+0%
+0%
+11%
+12%
+Special items
+-3
+         
+-
+       
+-
+       
+-11
+       
+-3
+         
+-11
+       
+EBITA
+96
+        
+80
+        
+20
+        
+43
+        
+6
+          
+2
+          
+-6
+         
+-5
+         
+-16
+       
+-22
+       
+100
+      
+98
+        
+  - in %
+17%
+16%
+13%
+22%
+3%
+1%
+0%
+0%
+11%
+10%
+Collection
+Recycling
+Food
+Group Functions
+Group Total
+Horizon
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 15 ---
+Tomra Systems ASA, 03 December 2024 
+ Base Prospectus 
+15
+ 
+ 
+6.2.1 Financial performance 
+Revenues in 2023 amounted to NOK 7,981 million, up 29% from NOK 6,192 million in 2022. Adjusted for currency, 
+revenues increased 18%, driven largely by the rollout of reverse vending equipment in the new deposit systems in 
+Romania, Hungary, and Ireland as well as the system expansion in Netherlands. Sales were also strong in existing 
+markets. 
+ 
+EBITA was NOK 1,324 million in 2023, compared to NOK 946 million in 2022. The EBITA margin increased to 
+17% in 2023 from 15% in 2022. 
+ 
+First nine months 2024 
+ 
+Revenues in the Collection division equaled EUR 571 million in first nine months 2024, up from EUR 500 million in 
+the first nine months 2023. Strong sales continued in all regions. In new markets, sales in Romania and Austria 
+were particularly strong. 
+ 
+EBITA was EUR 96 million in first nine months 2024, up from EUR 80 million in first nine months 2023, and the 
+EBITA margin increased to 18% from 17%. 
+ 
+ 
+6.3 
+TOMRA Recycling 
+TOMRA Recycling develops advanced sensor-based sorting technologies for the global recycling, waste 
+management, and mining industry to enable resource recovery and create value from waste – keeping materials in 
+a closed recycling loop. The technology automates the recovery of valuable resources by extracting and sorting 
+high-purity fractions of materials from mixed waste streams. This unlocks the potential for material recycling and 
+reduces the ecological footprint in mining when obtaining metals and minerals from ore. More than 10,000 systems 
+have been installed in over 100 countries worldwide, enabling our customers to sort and recover over 12 million 
+tons of resources each year. 
+Recycled content requirements and other legislative measures, such as extender producer responsibility schemes 
+and waste export bans, which focus on waste reduction and increased recycling of resources continue to be 
+implemented globally. As an example, only 9% of plastic packaging in Europe is made from recycled material today. 
+By 2030, up to 35% will need to be from recycled plastics, and up to 65% by 2040, as outline din the EU’s proposed 
+packaging and packaging waste regulation. In addition, market demand for high-quality recycled material in new 
+products is being fueled by commitments, such as science-based net-zero emission targets, from global brands. 
+Together, these are driving an increasing need for industries to reduce their dependency on raw materials and 
+become more circular – leading to more sorting of waste and materials.  
+Around half of TOMRA Recycling’s customers are waste management companies or contractors of local 
+governments who handle municipal solid waste and recover materials from these waste streams for recycling 
+purposes. The most common materials recovered are plastics and metals. Following the recovery of materials, 
+TOMRA also supplies sorting technology to recyclers who do a finer sorting and upgrade the material to become 
+new products, such as sorting plastics by polymer type or different metals by their type and alloys. To identify 
+different materials, a wide set of technologies are applied including near-infrared sensors, x-rays, laser-induced 
+breakdown spectroscopy, and artificial intelligence. As a pioneer and leader in this field, TOMRA Recycling focuses 
+on continued development of new sorting capabilities applicable to new materials and industries. An example is the 
+development of textile fiber sorting. 
+ 
+Over the last years, the momentum in recycling has been steadily increasing within all segments. But towards the 
+end of 2023, lower commodity prices have reduced recyclers’ investment willingness. The waste sorting business, 
+which makes up roughly half of the customer portfolio in Recycling, has remained a healthy segment driven by 
+legislation, modernization and automation, and the push for increased circularity. 
+ 
+6.3.1 Financial performance 
+Revenues in 2023 amounted to NOK 3,105 million, up 31% from NOK 2,376 million in 2022. Adjusted for currency, 
+the growth was 18%, driven by good momentum across all segments and in most geographies. 
+ 
+EBITA was NOK 658 million in 2023, compared to NOK 493 million in 2022, an increase of 33%. Adjusted for 
+currency, the increase was 22%. The EBITA margin increased 0.4 percentage points to just over 21% in 2023. 
+ 
+First nine months 2024 
+Revenues in the Recycling division equaled EUR 163 million in first nine months 2024, down from EUR 195 million 
+in the first nine months 2023. This is due to a softer market sentiment in European plastics recycling and a lower 
+backlog conversion rate driven by a higher share of large projects with longer lead times. A significant portion of the 
+order backlog is planned for delivery in the fourth quarter 2024. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 16 ---
+Tomra Systems ASA, 03 December 2024 
+ Base Prospectus 
+16
+ 
+ 
+ 
+EBITA was EUR 20 million in first nine months 2024, down from EUR 43 million in first nine months 2023, and the 
+EBITA margin was 13% compared to 22% last year. The margin is expected to recover one a full year basis as 
+projects are delivered towards the end of the year. 
+ 
+6.4 
+TOMRA Food 
+TOMRA Food develops advanced sensor-based sorting and grading technologies for the global food production 
+industry. The technology helps customers automate the sorting and grading of food, reducing the dependency on 
+scarce and costly labor, increasing food safety by removing foreign materials, and differentiate between qualities to 
+utilize the full produce. Today, one third of all food produced is wasted or lost. Not only is this a challenge for a 
+growing population increasing the demand for food, it is also a suboptimal use of input resources needed to produce 
+food.  
+Close to 15,000 TOMRA Food machines are installed at food growers, packers, and processors around the world. 
+TOMRA has a leading position built on the broadest and deepest technology base, the widest range of categories 
+and applications, and a comprehensive geographic reach. This gives the scale needed to lead the development of 
+new technologies and digital solutions, combined with the local presence to support customers where they are. 
+TOMRA primarily serves customers in the following food categories: potatoes, kiwifruit, blueberries, apples, 
+processed fruit, nuts, cherries, processed vegetables, and citrus.  
+TOMRA Food continues to innovate to deliver leading technology to customers. As an example, TOMRA has been 
+utilizing artificial intelligence since 2019 to make sorting and grading solutions even more accurate. In 2023, TOMRA 
+launched two new AI-powered solutions. TOMRA Neon pre-grades machine-harvested blueberries to identify, 
+differentiate, and remove unwanted clusters, undersize fruit, and unripe fruit. The new-generation Spectrim X series 
+integrates TOMRA’s latest LUCAi™ Deep Learning technology for enhanced sorting and grading precision of fruit, 
+reducing the dependency on manual intervention. 
+While TOMRA experienced healthy growth in the processed food market in 2023, driven largely by continued 
+investments into the potato category, it was a challenging year in fresh food categories and for TOMRA Food overall. 
+Customers in key categories have been affected by damaged harvests due to heavy rain, hails, and frost. Combined 
+with high interest rates and a challenging macroeconomic environment, the investment sentiment has been low. 
+With the market offering little opportunity to grow in the short term, TOMRA Food initiated a cost savings program 
+in October 2023 to improve profitability and restructure the organization for increased customer satisfaction and to 
+have a more futureproof platform to grow from. 
+ 
+6.4.1 Financial performance 
+Revenues in 2023 amounted to NOK 3,668 million, up 1% from NOK 3,620 million in 2022. Adjusted for currency 
+changes, revenues decreased by 7% due to a weak market in fresh food.  
+EBITA was NOK -188 million in 2023, compared to NOK 344 million in 2022. The EBITA margin decreased to -5.1% 
+in 2023 from 9.5%. The figures include restructuring costs of NOK 288 million related to the cost reduction program. 
+Adjusted for these, EBITA was NOK 100 million and the EBITA margin 3%. 
+First nine months 2024 
+Revenues in the Food division equaled EUR 220 million in first nine months 2024, down from EUR 239 million in 
+the first nine months 2023. The decline is attributed to a softer market in fresh food categories and a lower backlog 
+conversion rate. 
+ 
+EBITA was EUR 6 million in first nine months 2024, up from EUR 2 million in first nine months 2023, and the EBITA 
+was 3% compared to 1% last year. 
+ 
+6.5 
+Sustainability 
+TOMRA makes a significant contribution to a cleaner and more sustainable world through its products and services 
+and has always had a significant focus on the environment, measuring and reporting its environmental performance 
+since 1998. 
+ 
+TOMRA is fully committed to delivering on the UN Sustainable Development Goals (SDGs) with sustainable 
+development being at the core of its business model and strategy. The Board supports TOMRA’s membership of 
+the UN Global Compact, which provides a recognized framework for integrating sustainability principles into 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 17 ---
+Tomra Systems ASA, 03 December 2024 
+ Base Prospectus 
+17
+ 
+ 
+operations and strategies. 
+ 
+With increasing demand for sustainable products and solutions there are opportunities for TOMRA to deliver 
+significant positive impacts across several of the SDGs. An assessment of the activities reveals one SDG, where 
+its contribution delivers the most impact: SDG 12 - Responsible consumption and production. 
+Sustainable consumption and production – aims at “doing more and better with less.” All business areas deliver 
+positive impact on several of the SDG 12 sub-targets, including: sustainably manage natural resources; reduce food 
+waste and food loss; prevent and reduce waste through recycling and reuse; partnerships and education for 
+sustainable development and lifestyles in harmony with nature. 
+TOMRA’s ambition is to be leading the resource revolution, while becoming a fully circular business and being safe, 
+fair, and inclusive. This entails a commitment to both increase the “handprint” – by growing the company and the 
+positive sustainability impacts of the business; and to reduce the “footprint” – working hard to minimize any negative 
+impacts across the value chain. 
+To focus our sustainability agenda and direct efforts where they matter most, TOMRA has outlined five strategic 
+focus areas for sustainability action: 
+ 
+Resource Productivity: transform how we obtain, use, and reuse the planet’s resources to enable a world without 
+waste. 
+Climate Impact: reduce GHG emissions along the value chain – adopting a science-based approach to ensure 
+corporate efforts in line with achieving the global target of well below 2°C warming, pursuing 1.5°C. TOMRA has 
+committed to the Science Based Target initiative (SBTi) and had its targets validated in 2024. 
+ 
+Sustainable Product Design: optimize the environmental impact of products across their lifecycle and innovate to 
+improve product circularity. 
+ 
+Employee Value Proposition: put people first, keep each other safe and thrive on the diversity of TOMRA’s culture. 
+ 
+Supply Chain Sustainability: work with our partners to sustainably transform the supply chain – minimizing 
+environmental impact in a socially and ethically responsible way. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.6 Green Bond Framework 
+TOMRA established a Green Bond Framework (the “Framework”) in October 2022, enabling the company to 
+finance sustainable growth and the transition to a climate-neutral, resource efficient economy. TOMRA aims to 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 18 ---
+Tomra Systems ASA, 03 December 2024 
+ Base Prospectus 
+18
+ 
+ 
+increase its positive impact going forward, and Green Bonds are a key tool in supporting TOMRA’s strategy and 
+vision of enabling better use of resources and a more sustainable planet for generations to come.  
+The framework is based on the 2021 version of the Green Bond Principles published by the International Capital 
+Markets Association. The Framework is applicable for issuance of Green Bonds and the net proceeds will be 
+applied to finance or refinance, in part or in full, new and/or existing projects and assets with clear environmental 
+benefits, as defined in the Framework. There is a look back period of up-to three years for refinancing purposes.  
+The process for selection and reporting on eligible assets and projects, as well as the organization on 
+management of proceeds, are further outlined below. 
+6.7Use of Proceeds of Green Bonds 
+The net proceeds of the Green Bonds issued by TOMRA will be used to finance or re-finance in whole or in part, 
+Eligible Projects and Assets that have been evaluated and selected by TOMRA in accordance with the Green 
+Bond Framework.  
+Selected Eligible Projects and Assets fall under the category “Pollution prevention and control.” Refinancing of 
+Eligible Projects and Assets has a look-back period of no more than 3 years from the time of the bond issuance 
+(fiscal years 2020 to 2022).  
+A total of NOK 1,000 million has been allocated to Eligible Projects and Assets, which represents a 100% 
+allocation per 31.12.2023. 
+ 
+ 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 19 ---
+Tomra Systems ASA, 03 December 2024 
+ Base Prospectus 
+19
+ 
+ 
+ 
+ 
+7 Trend information 
+7.1 Prospects and financial performance 
+There has been no material adverse change in the prospects of the Issuer since the date of its last published 
+audited financial statements. 
+ 
+There has been no significant change in the financial performance of the Group since the end of the last financial 
+period for which financial information has been published to the date of the Base Prospectus. 
+ 
+8 Profit forecasts and estimates 
+No information about profit forecasts or estimates in the Base Prospectus. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 20 ---
+Tomra Systems ASA, 03 December 2024 
+ Base Prospectus 
+20
+ 
+ 
+ 
+ 
+9 Administrative, management and supervisory bodies 
+9.1 Information about persons 
+Board of directors 
+The table below set out the names of the board of directors of the Company: 
+ 
+Name 
+Position 
+Johan Hjertonsson 
+Chairman 
+Bodil Sonesson 
+Director 
+Pierre Couderc 
+Director 
+Hege Skryseth 
+Director 
+Erik Osmundsen 
+Director 
+Pauline Bergan 
+Employee-Elected Director 
+Kjell Korneliussen 
+Employee-Elected Director 
+Edward Sandaker Palm 
+Employee-Elected Director 
+ 
+The address for each member of the Board of Directors is Tomra Systems ASA, Drengsrudhagen 2, 1385 Asker, 
+Norway. 
+ 
+Johan Hjertonsson, Chairman 
+Chair of TOMRA Systems ASA since 2022. 
+ 
+Other board memberships: Alimak Group (Chairman), ASSA ABLOY AB (member), Sweco AB (member), 
+Investment AB Latour (member). 
+Johan Hjertonsson is President and CEO of Investment AB Latour since 2019. Previous experience includes CEO 
+of Fagerhult between 2009-2018, CEO of Lammhults Design Group between 2007-2009 and various management 
+positions within The Electrolux Group between 1990 and 2007. 
+ 
+A native Swede, Hjertonsson received his B.Sc in Economics and Business Administration from the University of 
+Lund in 1993. He lives in Sweden. 
+ 
+Bodil Sonesson, Director 
+Board member of TOMRA Systems ASA since 2013. 
+ 
+Other board memberships: The Swedish Chamber of Commerce in Paris. 
+Bodil Sonesson is President and CEO of AB Fagerhult. Previous experience includes a number of positions at Axis 
+Communications since 1996, most recently as VP Global Sales. Other work experience includes employment with 
+Lars Weibull AB. 
+ 
+Sonesson received her Master’s degree in International Finance from the University of Lund and Konstanz 
+University in Germany. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 21 ---
+Tomra Systems ASA, 03 December 2024 
+ Base Prospectus 
+21
+ 
+ 
+ 
+ 
+ 
+ 
+She is Swedish and lives in Sweden. 
+Pierre Couderc, Director 
+Board member of TOMRA Systems ASA since 2014. 
+Other Board memberships: CIC Bank S.O. (unlisted). 
+Pierre Couderc is Managing Director of Trouw Nutrition Iberia. 
+ 
+Prior to joining Trouw Nutrition, Couderc served as the CEO and Chairman of the Executive Committee of Groupe 
+Euralis from 2009 to 2020. Preceding this he held a number of management positions within the Danone Group 
+from 1987 to 2009, including Executive General Manager at Jose Cuervo (2008-09), General Manager Asia Pacific 
+(2005-08), General Manager Danone Mexico (2004-05), and General Manager Danone Argentina (2002- 04). 
+Couderc received a degree in Engineering from Ecole Nationale Supérieure des Mines de Paris in 1982. He is a 
+French citizen and currently lives in France. 
+ 
+Hege Skryseth, Director 
+Board member TOMRA Systems ASA since 2019. 
+ 
+Other board memberships: AutoStore Holdings Ltd. 
+Hege Skryseth is Executive Vice President of Technology, Digitization and Innovation at Equinor. She was 
+previously EVP of Kongsberg ASA and President of Kongsberg Digital, and has vast experience from top 
+management positions within international tech companies such as Microsoft Norway and Geodata (ESRI). 
+ 
+She holds an MBA from NHH Norwegian School of Economics, Bachelor from BI and College graduate NITH. 
+Skryseth is Norwegian and lives in Norway. 
+Erik Osmundsen, Director  
+Board member of TOMRA Systems ASA since 2024. 
+Other board memberships: WWF Norway (chair), Scanbio Marine Group, NORNORM, Re-Match. 
+Erik Osmundsen is a Partner at Verdane, the European specialist growth investor where he is co-heading the 
+decarbonization strategy and Idun funds. 
+Previous experience includes Group CEO of Norsk Gjenvinning, Managing Partner at Creo Advisors, Investment 
+Director at Kistefos, and Senior Engagement Manager at McKinsey & Co. 
+Erik Osmundsen holds an MBA from Harvard Business School (1997), and a Msc (“Siviløkonom”) from the BI 
+Norwegian Business School (1992).  
+ 
+Pauline Bergan, Employee- Elected Director 
+Board member of TOMRA Systems ASA since 2023. 
+Pauline Bergan joined TOMRA in 2021 at the Asker headquarters as Senior Business Development Manager for 
+Future Circular Solutions within TOMRA Collection. Currently she is serving as Acting Head of Strategy & Business 
+Development for TOMRA Collection. Prior to joining TOMRA, Bergan has worked as a management consultant at 
+Capgemini Invent and in software sales and key account management at Microsoft both in France and Norway. 
+Bergan holds a master’s degree in management from ESCP Europe in Paris. 
+ 
+Kjell Korneliussen, Employee- Elected Director 
+Board member of TOMRA Systems ASA since 2023. 
+Kjell Korneliussen joined TOMRA in 2001 as a production assembly line worker at TOMRA Production AS. Since 
+2015 he has been a part of the TOMRA Production support team based in Lier, Norway as a mechatronics engineer. 
+Prior to joining TOMRA he worked as a process operator for Dyno Nobel ASA (1986-2001). 
+He has received a diploma in the field of mechatronics at the Tinius Olsen technical school (2011-15), now known 
+as Fagskolen I Viken. 
+Edward Sandaker Palm, Employee- Elected Director 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 22 ---
+Tomra Systems ASA, 03 December 2024 
+ Base Prospectus 
+22
+ 
+ 
+Board member of TOMRA Systems ASA since 2024. 
+In 2015, after two years working as a consultant for the mechanical R&D department in the Asker headquarters, 
+Edward officially joined the TOMRA workforce and the department for Technical Production Support. Before joining 
+TOMRA Edward had his first three years of employment as a consultant mechanical engineer, working mainly within 
+the subsea and energy sector. 
+Edward holds a Bsc. in product development from the University of South-Eastern Norway and has his main 
+strengths within manufacturing technologies and efficient production setups. 
+ 
+Executive Leadership Team 
+The table below set out the names of the members of the Executive Leadership Team of the Company: 
+ 
+Name 
+Position 
+Tove Andersen 
+President and CEO 
+Eva Sagemo 
+CFO 
+Lars Kversøy Enge 
+EVP, Head of Group Strategy 
+Stefan Schrahe 
+EVP, People & Organization 
+Harald Henriksen 
+EVP, Head of TOMRA Food 
+Marius Fraurud 
+EVP, Head of TOMRA Collection 
+Volker Rehrmann 
+EVP, Head of TOMRA Recycling 
+ 
+The business address for each member of the Management is Tomra Systems ASA, Drengsrudhagen 2, 1385 
+Asker, Norway. 
+ 
+Tove Andersen, President and Chief Executive Officer 
+Tove Andersen began as President and Chief Executive Officer of TOMRA on August 16, 2021. Prior to joining 
+TOMRA she had a long career at the leading global fertilizer company Yara International, most recently serving as 
+executive vice president in charge of the European business activities. Over the course of her 24-year career at 
+Yara she held a number of senior management positions, including EVP Production (2018-21), and EVP Supply 
+Chain (2016-18), as well as diverse management roles with responsibility for marketing, business development and 
+finance. 
+Tove holds an MBA from the Norwegian School of Management in Sandvika, Norway (1997), and a Master of 
+Science degree in Physics and Mathematics from the Norwegian Institute of Technology in Trondheim, Norway 
+(1994). 
+ 
+Tove is Norwegian and lives in Norway. She serves also as a member of the board of directors of Equinor and 
+Borregaard. 
+ 
+Eva Sagemo, Chief Financial Officer 
+Eva Sagemo joined TOMRA in March 2012 as the Group Controller for TOMRA Sorting Solutions and held this 
+position until February 2018. She then served as the Group Controller for TOMRA Group, before she was appointed 
+CFO in March 2022. Prior to joining TOMRA she worked as an auditor (BDO), Consolidation & Reporting Manager 
+(Aibel) and Chief Accountant (Fugro). 
+Eva holds an Executive Master of Management with specialization in tax law, BI Norwegian Business School (2021) 
+and a bachelor’s degree in Audit, Oslo Metropolitan University (2000). Eva is Norwegian and lives in Norway. 
+ 
+Lars Kversøy Enge, Executive Vice President, Head of Group Strategy 
+Lars Enge began as EVP Group Strategy in March 2022. Prior to joining TOMRA, he held various senior roles at 
+Yara International within M&A, Finance and Strategy. Most recently, he served as CFO for Yara Europe. Lars also 
+served as VP Corporate Performance and Risk (2018-2020), CFO Yara Industrial (2016-2018), and Project Leader 
+and later Head of Group M&A (2014-2016) at Yara. Lars also has earlier experience from McKinsey & Company 
+(2009-2014). 
+Lars holds and MSc in Industrial Economics and Technology Management from the Norwegian University of 
+Science and Technology (NTNU). 
+ 
+Lars is Norwegian and lives in Norway. 
+ 
+Stefan Schrahe, Executive Vice President, People & Organization 
+Stefan Schrahe started his position as Executive Vice President of People and Organization in April 2023. Prior to 
+joining TOMRA, he worked for Aptiv as Vice President Human Resources EMEA. Before that, Stefan worked for 
+GKN plc for 19 years where he held a number of senior management positions within human resources, gaining 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 23 ---
+Tomra Systems ASA, 03 December 2024 
+ Base Prospectus 
+23
+ 
+ 
+both regional and global experience across the automotive, aerospace, agriculture and industrial mechanical 
+engineering industries. 
+ 
+Stefan holds a degree in Business Administration, majoring in Human Resources and Organizational Development 
+from AKAD University in Rendsburg, Germany. 
+ 
+He is a German native and is based out of the TOMRA offices in Koblenz, Germany and in Asker, Norway. 
+Harald Henriksen, Executive Vice President, Head of TOMRA Food  
+Harald Henriksen joined TOMRA as Senior Vice President Technology in 2004. Since, he has served as Senior 
+Vice President and Head of TOMRA North America Collection Solutions and Head of TOMRA Collection, before he 
+was appointed to his current position in June, 2023. Prior to joining TOMRA, Harald was VP Business Unit Tactical 
+Radio in Kongsberg Defence and Communication AS, VP Product Management and VP R&D in Kongsberg 
+Ericsson Communications ANS. He started his career within technical management and project management in 
+NFT-Ericsson ANS in 1990. 
+ 
+Harald holds a Bachelor of Science in Electronics from the University of Salford in Manchester, UK 
+ 
+Harald is Norwegian and is based in Asker, Norway. 
+ 
+Marius Fraurud, Executive Vice President, Head of TOMRA Collection 
+Marius joined TOMRA in 2016 as Head of Research and Development for TOMRA Collection. Since, he has served 
+as Head of Technology, Head of The Solution Hub, and Head of Business Area EMEA in the Collection division, 
+before he was appointed to his current position in October 2023. Prior to joining TOMRA, Marius had over two 
+decades of experience in technology leadership with global organizations such as Alcatel, Ericsson, Aker Solutions 
+Subsea, and the startup Axxessit. 
+ 
+Marius holds a Master of Science in Electronics from the Norwegian University of Science and Technology (NTNU), 
+as well as the rank of second lieutenant in the Norwegian Armed Forces. 
+ 
+He is Norwegian and lives in Oslo. 
+ 
+Volker Rehrmann, Executive Vice President, Head of TOMRA Recycling 
+Volker Rehrmann joined TOMRA through the acquisition of TITECH in 2004. In 1998 he founded Real Vision 
+Systems Gmbh and led the company as Managing Director until 2002 when it was acquired by TITECH. In 2013, 
+Rehrmann was appointed TOMRA Group Chief Technology Officer and Head of Business Area Sorting Solutions. 
+Rehrmann took on his current leadership role as Head of TOMRA Recycling & Circular Economy at the beginning 
+of 2019. 
+ 
+One of the pioneers within development of optical systems for waste sorting applications, Rehrmann started his 
+career as an assistant professor for computer vision at the University of Koblenz. He received his PhD in Computer 
+Science from the University of Koblenz, and has a Master’s degree in Computer Science from the University of 
+Paderborn. 
+Volker is a German native and is based in Koblenz, Germany. 
+ 
+ 
+9.2 Administrative, management and supervisory bodies conflicts 
+of interest 
+There are no potential conflicts of interest between any duties to the Company of the board of directors or the 
+Company’s management, and their private interests or other duties. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 24 ---
+Tomra Systems ASA, 03 December 2024
+Base Prospectus
+24
+ 
+ 
+ 
+ 
+ 
+10 Major shareholders 
+10.1 Ownership 
+As of 30 September 2024, the share capital of Tomra Systems ASA is amounted to NOK 148,020,078 divided into 
+296,040,156 shares at nominal value of NOK 0.50 each. 
+ 
+As of 30 September 2024, Investment AB Latour is the largest shareholder with 21.08 %. 
+ 
+The 20 largest shareholders as of 30 September 2024: 
+ 
+Investor 
+Number of 
+shares 
+% of top 20 
+% of
+total
+Type 
+Country 
+Investment AB Latour 
+62,400,000 
+32.88 
+21.08 Ordinary 
+Sweden 
+FOLKETRYGDFONDET 
+19,903,643 
+10.49 
+6.72 Ordinary 
+Norway 
+The Bank of New York Mellon SA/NV 
+18,205,096 
+9.59 
+6.15 Nominee 
+Belgium 
+Danske Bank A/S 
+17,467,798 
+9.20 
+5.90 Nominee 
+Denmark 
+CLEARSTREAM BANKING S.A. 
+11,479,761 
+6.05 
+3.88 Nominee 
+Luxembourg 
+Citibank Europe plc 
+9,778,744 
+5.15 
+3.30 Nominee 
+Ireland 
+State Street Bank and Trust Comp 
+6,547,158 
+3.45 
+2.21 Nominee 
+United States 
+Citibank; N.A. 
+5,583,883 
+2.94 
+1.89 Nominee 
+Ireland 
+State Street Bank and Trust Comp 
+5,348,760 
+2.82 
+1.81 Nominee 
+United States 
+JPMorgan Chase Bank; N.A.; London 
+5,130,821 
+2.70 
+1.73 Nominee 
+United Kingdom 
+Skandinaviska Enskilda Banken AB 
+4,295,000 
+2.26 
+1.45 Nominee 
+Sweden 
+ALECTA TJANSTEPENSION OMSESIDIGT 
+3,350,000 
+1.77 
+1.13 Ordinary 
+Luxembourg 
+CACEIS Bank 
+3,057,570 
+1.61 
+1.03 Nominee 
+Luxembourg 
+J.P. Morgan SE 
+2,980,000 
+1.57 
+1.01 Nominee 
+Luxembourg 
+State Street Bank and Trust Comp 
+2,780,331 
+1.46 
+0.94 Nominee 
+United States 
+SIX SIS AG 
+2,652,501 
+1.40 
+0.90 Nominee 
+Switzerland 
+RAIFFEISEN BANK INTERNATIONAL AG 
+2,431,396 
+1.28 
+0.82 No 
+Austria 
+BNP Paribas 
+2,259,943 
+1.19 
+0.76 Nominee 
+France 
+DZ Privatbank S.A. 
+2,075,456 
+1.09 
+0.70 Nominee 
+Luxembourg 
+The Bank of New York Mellon SA/NV 
+2,071,281 
+1.09 
+0.70 Nominee 
+Belgium 
+Total number owned by top 20 
+189,799,142   
+64.11  
+ 
+Total number of shares 
+296,040,156   
+100.00  
+ 
+ 
+10.2 Change in control of the Company 
+There are no arrangements, known to the Company, the operation of which may at a subsequent date result in a 
+change in control of the Company. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 25 ---
+25
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus
+ 
+ 
+ 
+ 
+ 
+11 Financial information concerning the Issuer's assets 
+and liabilities, financial position and profits and losses 
+11.1 Financial statements 
+Tomra Systems ASA’s consolidated financial statements have been prepared in accordance with International 
+Financial Reporting Standards (IFRS) as adopted by EU, and the additional disclosure requirements of the 
+Norwegian accounting act as at 31 December 2023. 
+ 
+The Group's accounting policies are shown in Annual Report 2023, page 72. 
+ 
+The separate financial statements for Tomra Systems ASA have been prepared in in compliance with the Norwegian 
+Companies Act, the Norwegian Accounting Act and Norwegian generally accepted accounting principles 
+ 
+Tomra Systems ASA’s accounting policies are shown in Annual Report 2023, page 100. 
+According to the Regulation (EU) 2017/1129 of the European Parliament and of the Council, information in a 
+prospectus may be incorporated by reference. 
+ 
+Because of the complexity in the historical financial information and financial statements this information is 
+incorporated by reference to the Quarterly Report Q3 2024 and the Annual Report 2023 
+ 
+The Quarterly Report Q3 2024 is unaudited. 
+Please see Cross Reference List for complete internet addresses. 
+ 
+ 
+Quarterly Report
+Annual Report 2023
+Q3 2024*
+ 
+Unaudited
+Audited
+ 
+Tomra Systems ASA Consolidated 
+ 
+ 
+Consolidated income statements and other
+ 
+ 
+comprehensive income
+page 12
+page 68
+Consolidated Balance Sheet at 31 December
+page 12
+page 69
+Consolidated statements of cash flow
+page 13
+page 71
+Notes to the consolidated financial statements 
+pages 14-16 
+pages 73-95
+Tomra Systems ASA 
+ 
+ 
+Statements of income
+ 
+page 97
+Balance Sheet at 31 December
+ 
+page 98
+Statements of cash flow
+ 
+page 99
+Notes to the financial statements
+ 
+pages 101-109
+ 
+* Including comparative consolidated figures for Q3 2023 
+ 
+11.2 Auditing of annual financial information 
+11.2.1 Statement of audited financial information 
+The financial information for 2023 has been audited. 
+ 
+A statement of audited historical financial information for the Company is given in the Annual Report 2023 pages 
+110-112. 
+ 
+11.2.2 Other audited financial information 
+There is no other information in the Base Prospectus which has been audited by the auditors. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 26 ---
+26
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus
+ 
+ 
+ 
+ 
+ 
+11.2.3 Other financial information 
+Annual financial information in the Base Prospectus is extracted from the Issuer’s audited financial statements. The 
+financial information per 30 June 2024 is extracted from the Issuer’s Half-year Report 2024. 
+ 
+The Half-year Financial Report 2024 is unaudited. 
+ 
+11.3 Legal and arbitration proceedings 
+There are no, nor have there been any, governmental, legal or arbitration proceedings (including any such 
+proceedings which are pending or threatened of which the Issuer is aware), during a period covering at least the 
+previous 12 months which may have or have had in the recent past significant effects on the Issuer and/or Groups 
+financial position or profitability. 
+ 
+ 
+11.4 Significant change in the Group's financial or trading position 
+There has been no significant change in the financial position of the Group which has occurred since the end of the 
+last financial period for which either audited financial statements or interim financial information have been 
+published. 
+ 
+Please also refer to Section 7. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 27 ---
+27
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus
+ 
+ 
+ 
+ 
+12 Regulatory disclosures 
+The table below set outs a short summary of the information the Company has disclosed under Regulation (EU) 
+No 596/2014, which is relevant as at the date of the Prospectus, in the 12 months' period prior to the date of this 
+Prospectus. 
+ 
+ADDITIONAL REGULATED INFORMATION 
+Date disclosed 
+Title 
+Summary of the information given 
+25.09.2024 
+TOMRA: Tasmania appoints 
+TOMRA as sole RVM 
+solutions provider for 
+upcoming DRS 
+TOMRA has been appointed as the sole reverse vending machine 
+(RVM) solutions provider for the Australian state of Tasmania’s 
+deposit return system (DRS), set to begin in mid-2025, on a 
+throughput-basis. 
+17.09.2024 
+TOMRA: Successful private 
+placement of new 10 year 
+senior unsecured green 
+bond 
+TOMRA Systems ASA, has successfully issued a total of NOK 1 
+billion in a new fixed senior unsecured green bond with 10 year 
+tenor and a coupon of 4.446% p.a The net proceeds will be used 
+for general corporate purposes, including refinancing of existing 
+debt. 
+05.09.2024 
+TOMRA: Capital Markets 
+Day 2024 
+TOMRA is hosting their Capital Markets Day, reaffirming the 
+company's profitable growth strategy launched in 2022: to 
+accelerate growth in core and develop adjacent opportunities while 
+becoming a fully circular business which is safe, fair and inclusive.  
+ 
+TOMRA Ambitions  
+15% annual growth over the cycle  
+18% EBITA margin by 2030  
+>18% ROCE by 2030  
+40-60% of EPS in dividend  
+Maintain investment grade rating  
+Committed to Net Zero CO2 emissions by 2050 with intermediate 
+targets in 2033 
+18.06.2024 
+TOMRA: Restated financial 
+statements in EUR 
+ 
+TOMRA will change its presentation currency and start reporting in 
+EUR from the second quarter 2024. This will better reflect the 
+underlying performance in the business and reduce currency 
+volatility in reported numbers.  
+25.04.2024 
+TOMRA: Protocol of Annual 
+General Meeting 2024 
+ 
+The Annual General Meeting in TOMRA Systems ASA was held 
+today, Thursday 25 April 2024. All proposals on the agenda were 
+adopted, as per the notice published on 3 April 2024. 
+19.03.2024 
+TOMRA: Successful 
+placement of new senior 
+unsecured green bonds 
+ 
+Tomra Systems ASA has successfully issued a total of NOK 1 
+billion in new senior unsecured green bonds split between two 
+tenors:  
+- 5Y FRN, NOK 750 million with coupon 3 months NIBOR + 0.90% 
+p.a.  
+- 7Y FRN, NOK 250 million with coupon 3 months NIBOR + 1.05% 
+p.a.  
+15.02.2024 
+TOMRA: Key information 
+relating to the cash dividend 
+to be paid 
+ 
+The Board of Directors of TOMRA Systems ASA proposes to the 
+General Meeting a dividend of NOK 1.95 per share on the basis of 
+the company's financial statements for the financial year 2023. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 28 ---
+28
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus
+ 
+ 
+ 
+INSIDE INFORMATION 
+Date disclosed 
+Title 
+Summary of the information given 
+24.10.2024 
+TOMRA: Acquisition of 
+leading digital waste 
+management solution 
+provider c-trace 
+TOMRA has acquired 80% of the shares in c-trace GmbH, a German 
+leader in digital waste management solutions. Employing around 120 
+people, c-trace generates 80% of its sales in Germany and has shown 
+annual growth of more than 15% in the last years. The company’s 
+revenues in the last twelve months amounted to EUR 21 million with 
+23% in EBIT margin (adjusted). 
+ 
+TOMRA will initially acquire 80% of the shares in c-trace, with an option 
+for the remaining 20%, which are held by the founders, after 2 years. 
+The acquisition is expected to be immediately accretive and generate 
+strong capital returns to TOMRA – supporting the targets set out at 
+TOMRA’s Capital Markets Day.
+ 
+ 
+ 
+MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS 
+Date disclosed 
+Title 
+Summary of the information given 
+30.07.2024 
+TOMRA: Mandatory 
+notification of trade 
+ 
+Erik Osmundsen, board member and primary insider (PDMR) of 
+TOMRA Systems ASA, has bought 4,000 shares in TOMRA Systems 
+ASA through closely associated company Creo Foundation AS. On 24 
+July 2,500 shares were bought at NOK 165.00 per share and on 30 July 
+1,500 shares were bought at 174.80 per share. After the transaction 
+Erik Osmundsen holds 4,200 shares in TOMRA Systems ASA. 
+28.05.2024 
+TOMRA: Mandatory 
+notification of trade 
+ 
+Bodil Sonesson, board member and primary insider (PDMR) of TOMRA 
+Systems ASA, has today bought 800 shares in TOMRA Systems ASA 
+at a price of NOK 137.70 per share through closely associated company 
+Sonesson Advisory AB. After the transaction Bodil Sonesson holds 
+4,202 shares in TOMRA Systems ASA. 
+27.05.2024 
+TOMRA: Share 
+purchase program for 
+employees - Mandatory 
+notification of trade 
+ 
+As part of TOMRA's share purchase program for employees, TOMRA 
+has sold 262,648 treasury shares to employees at a price equal to the 
+closing market share price on Friday 24 May, i.e. NOK 135.30. 
+Employees who keep their shares for one year will receive one share 
+per five shares invested. Employees who have previously participated in 
+the share purchase program have today been allotted 42,206 shares. 
+After these transactions TOMRA holds 251,167 treasury shares. In 
+connection with the share purchases program, the following PDMR 
+transactions have been made: 
+ 
+Name 
+ 
+Number of  
+New 
+ 
+ 
+ 
+shares acquired 
+shareholding 
+Tove Andersen 
+13,755 
+ 
+43,235 
+Eva Sagemo  
+2,467 
+ 
+9,095 
+Volker Rehrmann 
+8,721 
+ 
+41,825 
+Harald Henriksen 
+6,868 
+ 
+98,098 
+Marius Fraurud 
+2,756 
+ 
+8,929 
+Lars Kversøy Enge 
+2,878 
+ 
+5,804 
+Stefan Schrahe 
+4,184 
+ 
+8,384 
+Alexander Verlo 
+59 
+ 
+889 
+Fátima Sani 
+ 
+59 
+ 
+352 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNUAL AND HALF YEARLY FINANCIAL REPORTS AND AUDIT REPORTS 
+ 
+Date disclosed 
+Title 
+Summary of the information given 
+22.10.2024 
+TOMRA: 3Q 2024: 15% 
+increase in EBITA adj. 
+with strong quarter in 
+Collection, good 
+progress on the 
+improvement program in 
+Food, and stable 
+development in 
+Revenues for the Group amounted to 326 MEUR in the quarter, an 
+increase of 6% from the third quarter last year. Collection revenues 
+grew 14% to 189 MEUR compared to the third quarter 2023. EBITA, 
+adjusted for one-off costs, was 44 MEUR in the quarter compared to 38 
+MEUR in the third quarter last year, an increase of 15%. Cash flow from 
+operations was 99 MEUR in the quarter, up from -25 MEUR. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 29 ---
+29
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus
+ 
+ 
+Recycling 
+19.07.2024 
+TOMRA: 2Q 2024 
+- Continued strong 
+momentum in Collection; 
+Gross margin 
+improvements across all 
+divisions 
+Revenues for the Group amounted to 333 MEUR in the quarter, in line 
+with the second quarter last year. EBITA, adjusted for one-off costs, 
+was 44 MEUR in the quarter compared to 46 MEUR in the second 
+quarter last year. Cash flow from operations was 34 MEUR in the 
+quarter, up from 3 MEUR. 
+26.04.2024 
+TOMRA: 1Q 2024 
+- Strong quarter in 
+Collection; Recycling 
+and Food profitability 
+impacted by low 
+volumes 
+Revenues for the Group amounted to 3,322 MNOK in the quarter, in line 
+with the first quarter last year. EBITA, adjusted for one-off costs, 
+amounted to 176 MNOK in the first quarter, which is a decrease from 
+277 MNOK last year. Cash flow from operations was 228 MNOK in the 
+quarter. 
+22.03.2024 
+TOMRA: Annual Report 
+2023 
+The 2023 Annual Report for TOMRA Systems ASA has been published 
+and available on our website, www.tomra.com (Investor Relations 
+section).
+15.02.2024 
+TOMRA: 4Q 2023 - All-
+time high revenues with 
+strong performance in 
+Collection and 
+Recycling; Food 
+restructuring on track 
+ 
+Collection and Recycling delivered solid revenue growth of 26% and 
+18% respectively (currency adjusted) while revenues in Food declined 
+20% compared to the fourth quarter last year. For the full year, 
+revenues have grown 18% in both Collection and Recycling but 
+declined 7% in Food. Overall growth in TOMRA Group was 10% in the 
+quarter and 11% for the full year, leading to all-time high revenues of 
+4,123 MNOK in the fourth quarter and 14,756 in 2023. EBITA, adjusted 
+for one-off costs, amounted to 626 MNOK in fourth quarter, which is an 
+increase of 12% from last year. For the full year, adjusted EBITA 
+amounted to 1,873 MNOK, which is a decrease of 1% from 2022. Cash 
+flow from operations was 1,316 MNOK in the quarter.
+ 
+ 
+ 
+13 Material contracts 
+Neither the Group nor any member of the Group has entered into any material contracts outside the ordinary course 
+of business for the two years prior to the date of this Prospectus. Further, the Group has not entered into any other 
+contract outside the ordinary course of business which contains any provision under which any member of the 
+Group has any obligation or entitlement. 
+ 
+ 
+ 
+14 Documents on display 
+The following documents (or copies thereof) may be inspected for the life of the Base Prospectus at the 
+headquarter of the Issuer, Drengsrudhagen 2, 1385 Asker or on https://www.tomra.com 
+ 
+a) 
+the up to date memorandum and articles of association of Tomra Systems ASA; 
+b) 
+all reports, letters, and other documents, valuations and statements prepared by any expert at the 
+Issuer’s request any part of which is included or referred to in the Base Prospectus. 
+ 
+ 
+15 Financial instruments that can be issued under the Base 
+Prospectus 
+The Base Prospectus, as approved in accordance with the EU Prospectus Regulation 2017/1129, allows for the 
+issuance of Bonds. 
+ 
+This chapter describes the form, type, definitions, general terms and conditions, return and redemption 
+mechanisms, rating and template for Final Terms associated with the Bonds. 
+ 
+Risk factors related to the Bonds are described in Chapter 1 Risk Factors. 
+ 
+15.1 Securities Form 
+A Bond is a financial instrument as defined in Norwegian Securities Trading Act’s (Verdipapirhandellovens) 
+§ 2-2. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 30 ---
+30
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus
+ 
+ 
+The Bonds are electronically registered in book-entry form with the Securities Depository. 
+ 
+15.2 Security Types 
+Borrowing limit – tap issue 
+The Loan may be either open or closed for increase of the Borrowing Amount during the tenor. A tap issue can take 
+place until five banking days before the Maturity Date. If the issue is open, the First Tranche and Borrowing Limit 
+will be specified in the Applicable Final Terms. 
+Return 
+Fixed Rate (FIX) 
+A Bond issue with a fixed Interest Rate will bear interest at a fixed rate as specified in the applicable Final Terms. 
+The Interest Rate will be payable quarterly, semi-annually or annually on the Interest Payment Dates as specified 
+in the applicable Final Terms. 
+ 
+Floating Rate (FRN) 
+A Bond issue with a floating Interest Rate will bear interest equal to a Reference Rate plus a fixed Margin for a 
+specified period (3 or, 6 months). Interest Rate or Reference Rate may be deemed to be zero. The period lengths 
+are equal throughout the term of the Loan, but each Interest Payment Date is adjusted in accordance with the 
+Business Day Convention. The Interest Rate for each forthcoming period are determined two Business Days prior 
+to each Interest Payment Date based on the then current value of the Reference Rate plus the Margin. 
+ 
+The Interest Rate will be payable quarterly or semi-annually on the Interest Payment Dates as specified in the 
+applicable Final Terms. 
+The relevant Reference Rate, the Margin, the Interest Payment Dates and the current Interest Rate will be specified 
+in the applicable Final Terms. 
+ 
+Redemption 
+The Loan will mature in full at the Maturity Date at a price equal to 100 per cent. of the nominal amount. 
+ 
+The Issuer may have the option to prematurely redeem the Loan in full at terms specified in the applicable Final 
+Terms. 
+The Bondholders may have the right to require that the Issuer purchases all or some of the Bonds held by that 
+Bondholder at terms specified in the applicable Final terms. 
+ 
+Security 
+The Bonds may be either secured or unsecured. Details will be specified in the applicable Final Terms. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 31 ---
+31
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus
+ 
+ 
+ 
+ 
+ 
+Negative pledge 
+The Bonds may have negative pledge clause. Details will be specified in the applicable Final Terms. 
+ 
+15.3 Definitions 
+This section includes a summary of the definitions set out in any Bond Terms as well as certain other definitions 
+relevant for this Prospectus. The Bond Trustee may amend the definitions in the Bond Terms for any new issue of 
+bonds during the tenor of this Base Prospectus. This may cause the definitions in this Base Prospectus to be 
+incorrect and no longer valid for such new issues of bonds. If the definitions in this Base Prospectus at any point in 
+time no longer represents the correct understanding of the definitions set out in the Bond Terms, the Bond Terms 
+shall prevail. The Bond Terms are attached to the Final Terms. 
+ 
+Additional Bonds: 
+Means Bonds issued under a Tap Issue, including any Temporary Bonds as defined in the 
+Bond Terms. 
+ 
+ 
+Attachment:
+Means any schedule, appendix or other attachment to the Bond Terms.
+ 
+ 
+Base Prospectus: 
+This document. Describes the Issuer and predefined features of Bonds that can be listed under 
+the Base prospectus, as specified in the Prospectus Regulation (EU) 2017/1129. Valid for 12 
+months after it has been published. In this period, a prospectus may be constituted by the Base 
+Prospectus, any supplement(s) to the Base Prospectus and a Final Terms for each new 
+issue. 
+Bond Issue/Bonds/ 
+Notes/the Loan: 
+Means (i) the debt instruments issued by the Issuer pursuant to the Bond Terms, including any 
+Additional Bonds and (ii) any overdue and unpaid principal which has been issued under a 
+separate ISIN in accordance with the regulations of the CSD from time to time. 
+ 
+ 
+Bond Terms: 
+Means the terms and conditions, including all Attachments which shall form an integrated part 
+of the Bond Terms, in each case as amended and/or supplemented from time to time. 
+ 
+ 
+Bondholder: 
+Means a person who is registered in the CSD as directly registered owner or nominee holder 
+of a Bond, subject however to the clause for Bondholders’ rights in the Bond Terms. 
+ 
+ 
+Bondholders’ 
+decisions: 
+The Bondholders’ Meeting represents the supreme authority of the Bondholders community in 
+all matters relating to the Bonds and has the power to make all decisions altering the terms and 
+conditions of the Bonds, including, but not limited to, any reduction of principal or interest and 
+any conversion of the Bonds into other capital classes. 
+At the Bondholders’ meeting each Bondholder may cast one vote for each voting bond owned 
+at close of business on the day prior to the date of the Bondholders’ meeting in the records 
+registered in the Securities Depository. 
+ 
+In order to form a quorum, at least half (1/2) of the voting bonds must be represented at the 
+Bondholders' meeting. See also the clause for repeated Bondholders’ meeting in the Bond 
+Terms. 
+ 
+Resolutions shall be passed by simple majority of the votes at the Bondholders' Meeting, 
+however, a majority of at least 2/3 of the voting bonds represented at the Bondholders’ Meeting 
+is required for any waiver or amendment of any terms of the Bond Agreement. 
+ 
+(For more details, see also the clause for Bondholders’ decisions in the Bond Terms) 
+ 
+ 
+Bondholders rights: 
+Bondholders’ rights are specified in the Bond Terms. 
+By virtue of being registered as a Bondholder (directly or indirectly) with the CSD, the 
+Bondholders are bound by the Bond Terms in clause 3, specifically 3.3. 
+ 
+ 
+Bond Trustee: 
+Nordic Trustee ASA, Postboks 1470 Vika, 0116 Oslo, or its successor(s) Website: 
+https://nordictrustee.com 
+The Bond Trustee has power and authority to act on behalf of, and/or represent, the Bondholders 
+in all matters, including but not limited to taking any legal or other action, including enforcement 
+of the Bond Terms, and the commencement of bankruptcy or other insolvency proceedings 
+against the Issuer, or others. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 32 ---
+32
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus
+ 
+ 
+ 
+ 
+ 
+The Bond Trustee shall represent the Bondholders in accordance with the finance documents. 
+The Bond Trustee is not obligated to assess or monitor the financial condition of the Issuer or 
+any other obligor unless to the extent expressly set out in the Bond Terms, or to take any steps 
+to ascertain whether any event of default has occurred. The Bond Trustee is entitled to take such 
+steps that it, in its sole discretion, considers necessary or advisable to protect the rights 
+of the Bondholders in all matters pursuant to the terms of the finance documents. 
+ 
+ 
+Borrowing Limit – Tap 
+Issue and Borrowing 
+Amount/First Tranche 
+Borrowing Limit – Tap Issue is the maximum issue amount for an open Bond issue. 
+Borrowing Amount/First Tranche is the borrowing amount for a closed Bond Issue, eventually 
+the borrowing amount for the first tranche of an open Bond Issue. 
+Borrowing Limit – Tap Issue and Borrowing Amount/First Tranche will be specified in the Final 
+Terms. 
+ 
+ 
+Business Day: 
+Means a day on which both the relevant CSD settlement system is open, and the relevant 
+Bond currency settlement system is open. Unless otherwise specified in the Final Terms. 
+ 
+ 
+Business Day 
+Convention: 
+If the last day of any Interest Period originally falls on a day that is not a Business Day, the 
+Interest Payment Date will be as follow: 
+If Fixed Rate, the Interest Payment Date shall be postponed to the next day which is a 
+Business Day (Following Business Day convention). 
+If FRN, the Interest Period will be extended to include the first following Business Day unless 
+that day falls in the next calendar month, in which case the Interest Period will be shortened to 
+the first preceding Business Day (Modified Following Business Day convention). The Interest 
+Period is adjusted accordingly. 
+ 
+ 
+Calculation Agent:
+The Bond Trustee, if not otherwise stated in the applicable Final Terms.
+ 
+ 
+Call Option: 
+The Final Terms may specify that the Issuer may redeem all but not only some of the 
+Outstanding Bonds on any Business Day. 
+In such case the Call Date(s), the Call Price(s) and the Call Notice Period will be specified in 
+the Final Terms. 
+ 
+ 
+Change of Control 
+Event: 
+Means a person or group of persons acting in concert gaining Decisive Influence over the 
+Issuer. 
+ 
+ 
+Currency: 
+The currency in which the bond issue is denominated. 
+Currency will be specified in the Final Terms. 
+ 
+ 
+Day Count Convention: The convention for calculation of payment of interest; 
+(a) If Fixed Rate, the interest shall be calculated on the basis of a 360-day year comprised of 
+twelve months of 30 days each and, in case of an incomplete month, the actual number of 
+days elapsed (30/360-days basis), unless: 
+(i) 
+the last day in the relevant Interest Period is the 31st calendar day but the first 
+day of that Interest Period is a day other than the 30th or the 31st day of a month, 
+in which case the month that includes that last day shall not be shortened to a 
+30-day month; or 
+(ii) 
+the last day of the relevant Interest Period is the last calendar day in February, in 
+which case February shall not be lengthened to a 30-day month. 
+(b) If FRN, the interest shall be calculated on the basis of the actual number of days in the 
+Interest Period in respect of which payment is being made divided by 360 (actual/360- 
+days basis). 
+ 
+ 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 33 ---
+33
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus
+ 
+ 
+ 
+ 
+Decisive Influence: 
+Means a person having, as a result of an agreement or through the ownership of shares or 
+interests in another person (directly or indirectly): 
+(a) a majority of the voting rights in that other person; or 
+(b) a right to elect or remove a majority of the members of the board of directors of that 
+other person 
+ 
+ 
+De-listing Event:
+Means if the Issuer ceases to be a publicly listed company on the Exchange
+ 
+ 
+Denomination – Each 
+Bond: 
+The nominal amount of each bond. 
+ 
+Denomination of each bond will be specified in the Final Terms. 
+ 
+ 
+Disbursement/Issue 
+Date 
+Date of first bond issue. 
+On the Issue date the bonds will be delivered to the Bondholders VPS-account against 
+payment or to the Bondholder’s custodian bank of the Bondholder does not have his/her own 
+VPS-account. 
+ 
+The Issue Date will be specified in the Final Terms. 
+ 
+ 
+Eligible Projects 
+Shall have the meaning as defined in and otherwise in accordance with the Green Bond 
+Framework. 
+ 
+ 
+Early redemption 
+option after a Put 
+Option Event 
+The Final Terms may specify that the Issuer is entitled to redeem all (but not only some) of the 
+Outstanding Bonds prior to the Maturity Date if Bonds representing more than a certain per 
+centage of the Outstanding Bonds have been repurchased pursuant to a Put Option Event. 
+In such case the terms of the early redemption option will be specified in the Final Terms. 
+ 
+ 
+Early redemption 
+option due to a tax 
+event: 
+The Final Terms may specify that the Issuer is entitled to redeem all (but not only some) of the 
+Outstanding Bonds prior to the Maturity Date due to a tax event. 
+In such case the terms of the early redemption option will be specified in the Final Terms. 
+ 
+ 
+Exchange: 
+Means: 
+(a) Euronext Oslo Børs (the Euronext Oslo Stock Exchange); or 
+(b) any regulated market as such term is understood in accordance with the Markets in 
+Financial Instruments Directive 2014/65/EU (MiFID II) and Regulation (EU) No. 600/2014 on 
+markets in financial instruments (MiFIR). 
+ 
+ 
+Final Terms: 
+Document describing securities as specified in Prospectus Regulation (EU) 2017/1129, 
+prepared as part of the Prospectus. Final Terms will be prepared for each new security as 
+specified in Prospectus Regulation (EU) 2017/1129, issued by the Issuer. 
+The template for Final Terms has been approved by the Norwegian FSA, as competent 
+authority under Regulation (EU) 2017/1129. The Norwegian FSA only approves the template 
+for Final Terms as meeting the standards of completeness, comprehensibility and consistency 
+imposed by Regulation (EU) 2017/1129. Such approval should not be considered as an 
+endorsement of the quality of the securities that are subject of the Final Terms. Investors 
+should make their own assessment as to the suitability of investing in the securities. 
+ 
+ 
+Green Bonds 
+Framework 
+Means the Issuer’s Green Bond Framework dated October 2022. 
+ 
+ 
+Interest Determination 
+Date(s): 
+In the case of NIBOR: Second Oslo business day prior to the start of each Interest Period. 
+ 
+Interest Determination Date(s) for other Reference Rates, see Final Terms. 
+ 
+ 
+Interest Payment 
+Date(s): 
+The Interest Rate is paid in arrears on the last day of each Interest Period. 
+Any adjustment will be made according to the Business Day Convention. 
+The Interest Payment Date(s) will be specified in the Final Terms. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 34 ---
+34
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus
+ 
+ 
+ 
+ 
+ 
+ 
+Interest Period: 
+The first Interest Period runs from and including the Issue Date to but excluding the first 
+Interest Payment Date. The subsequent Interest Periods run from and including an Interest 
+Payment Date to but excluding the next Interest Payment Date. The last Interest Payment 
+Date corresponds to the Maturity Date. 
+ 
+ 
+Interest Rate: 
+Rate of interest applicable to the Bonds; 
+ 
+(i) If Fixed Rate, the Bonds shall bear interest at the percentage (%) per annum (based 
+on the Interest Convention) 
+ 
+(ii) If FRN, the Bonds shall bear interest at a rate per annum equal to the Reference Rate 
++ Margin (based on the Interest Convention). If the Interest Rate becomes negative, 
+the Interest Rate shall be deemed to be zero. 
+ 
+The Interest rate is specified in Final Terms. 
+ 
+ 
+Interest Rate 
+Adjustment Date: 
+Date(s) for adjusting of the interest rate for bond issue with floating interest rate. 
+ 
+The Interest Rate Adjustment Date will coincide with the Interest Payment Date. 
+ 
+ 
+ISIN: 
+International Securities Identification Number for the Bond Issue. ISIN is specified in Final 
+Terms. 
+ 
+ 
+Issuer:
+Tomra Systems ASA is the Issuer under the Base Prospectus.
+ 
+ 
+Issuer’s Bonds:
+Means any Bonds which are owned by the Issuer or any affiliate of the Issuer.
+ 
+ 
+Issue Price:
+Issue price will be specified in Final Terms.
+ 
+ 
+LEI-code: 
+Legal Entity Identifier (LEI) is a 20-character reference code to uniquely identify legally distinct 
+entities that engage in financial transactions. 
+LEI-code is specified in Final Terms. 
+ 
+ 
+Listing: 
+Listing of a bond issue on an Exchange is due to the Base Prospectus, any supplement(s) to 
+the Base Prospectus and a Final Terms. 
+An application for listing will be sent after the Disbursement Date and as soon as possible after 
+the Prospectus has been approved by the Norwegian FSA. 
+Listing may take place at the green bond list on the Exchange. 
+ 
+Bonds listed on an Exchange are freely negotiable. See also Market Making. 
+ 
+ 
+Manager(s):
+The bond issue’s Manager(s), as specified in the Final Terms.
+ 
+ 
+Market Making: 
+For Bonds listed on an Exchange, a market-maker agreement between the Issuer and a Joint 
+Lead Manager may be entered into. 
+This will be specified in the Final Terms. 
+ 
+ 
+Margin: 
+The margin, specified in percentage point, to be added to the Reference rate. 
+Margin will be specified in the Final terms. 
+ 
+ 
+Maturity Date: 
+The date the bond issue is due for payment, if not already redeemed pursuant to Call Option or 
+Put Option. The Maturity Date coincides with the last Interest Payment Date and is adjusted in 
+accordance with the Business Day Convention. 
+The Maturity Date is specified in the Final Terms. 
+ 
+ 
+Outstanding Bonds:
+Means any Bonds not redeemed or otherwise discharged.
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 35 ---
+35
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus
+ 
+ 
+ 
+ 
+ 
+The Issuer will issue on the Issue date the first tranche of the bond issue as specified in Final 
+Terms. During the term of the bond issue, new tranches may be issued up to the Borrowing 
+Limit, as specified in Final Terms. 
+ 
+ 
+Paying Agent: 
+The entity designated by the Issuer to manage (maintain the Issuer Account for) the bond 
+issue in the Securities Depository. 
+The Paying Agent is specified in the Final Terms. 
+ 
+ 
+Principal amount:
+Outstand amount under the Loan from time to time.
+ 
+ 
+Prospectus: 
+The Prospectus consists of the Base Prospectus, any supplement(s) to the Base Prospectus 
+and the relevant Final Terms prepared in connection with application for listing on an 
+Exchange. 
+ 
+ 
+Put Option: 
+The Final Terms may specify that upon the occurrence of a Put Option Event, each 
+Bondholder will have the right to require that the Issuer purchases all or some of the Bonds 
+held by that Bondholder. 
+In such case the exercise procedures, the repayment date and redemption price will be 
+specified in the Final Terms. 
+ 
+ 
+Put Option Event:
+Means a Change of Control Event pr a De-listing Event.
+ 
+ 
+Redemption: 
+The Outstanding Bonds will mature in full on the Maturity Date and shall be redeemed by the 
+Issuer on the Maturity Date at a price equal to 100 per cent. of the Nominal Amount, if not already 
+redeemed pursuant to Call Option, Put Option or Early redemption option due to a tax event. 
+ 
+ 
+Redemption Price: 
+The price determined as a percentage of the Denomination to which the bond issue is to bed 
+redeemed at the Maturity Date. 
+Redemption Price is 100 per cent of Denomination – Each Bond. 
+ 
+ 
+Reference Rate: 
+For FRN, the Reference Rate shall be NIBOR or any other rate as specified in the Final Terms, 
+which appears on the Relevant Screen Page as at the specified time on the Interest 
+Determination Date in question. 
+The Reference Rate, the Relevant Screen Page, the specified time, information about the past 
+and future performance and volatility of the Reference Rate and any fallback provisions will be 
+specified in Final Terms. 
+ 
+ 
+Relevant Screen Page: 
+For FRN, an internet address or an electronic information platform belonging to a renowed 
+provider of Reference Rates. 
+The Relevant Screen Page will be specified in the Final Terms. 
+ 
+ 
+Securities 
+Depository/CSD: 
+The securities depository in which the bonds are registered, in accordance with the Norwegian 
+Act of 2019 no. 6 regarding Securities depository. 
+Unless otherwise specified in the Final Terms, the following Securities Depository will be used: 
+Norwegian Central Securities Depository (“Verdipapirsentralen” or ”VPS”), P.O. Box 4, 0051 
+Oslo. 
+ 
+ 
+Subsidiary:
+Means a company over which another company has Decisive Influence.
+ 
+ 
+Tap Issues: 
+The Issuer may, provided that the conditions set out in the Bond Terms are met, at one or 
+more occasions up until, but excluding, the Maturity Date or any earlier date when the Bonds 
+have been redeemed in full, issue Additional Bonds until the aggregate nominal amount of the 
+Bonds outstanding equals in aggregate the maximum issue amount (less the aggregate 
+nominal amount of any previously redeemed Bonds) 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 36 ---
+36
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus
+ 
+ 
+ 
+ 
+ 
+If N/A is specified in the Borrowing Limit in the Final Terms, the Issuer may not make Tap 
+issues under the Bond Terms. 
+ 
+ 
+Tax Event Repayment 
+Date: 
+Means the date set out in a notice from the Issuer to the Bondholders pursuant to Clause 10.3 
+(Early redemption option due to a tax event) in the Bond Terms. 
+ 
+ 
+Temporary Bonds: 
+If the Bonds are listed on an Exchange and there is a requirement for a supplement to the 
+Base Prospectus in order for the Additional Bonds to be listed together with the Bonds, the 
+Additional Bonds may be issued under a separate ISIN which, upon the approval of the 
+supplement, will be converted into the ISIN for the Bonds issued on the initial Issue Date. The 
+Bond Terms governs such Temporary Bonds. The Issuer shall inform the Bond Trustee, the 
+Exchange and the Paying Agent once such supplement is approved. 
+ 
+ 
+Yield: 
+Dependent on the Market Price for bond issue with floating rate. Yield for the first interest 
+period can be determined when the interest is known, normally two Business Days before the 
+Issue Date. 
+ 
+For bond issue with fixed rate, yield is dependent on the market price and number of Interest 
+Payment Date. 
+The yield is calculated in accordance with «Anbefaling til Konvensjoner for det norske 
+sertifikat- og obligasjonsmarkedet» prepared by Forening for finansfag in March 2022: 
+https://finansfag.no/wp-content/uploads/2022/06/Rentekonvensjon_oppdatert2022.pdf 
+Yield is specified in Final Terms. 
+ 
+15.4 General terms and conditions 
+These general terms and conditions summarize and describe the general terms and conditions set out in any Bond 
+Terms. The Bond Trustee may amend the general terms and conditions in the Bond Terms for any new issue of 
+bonds during the tenor of this Base Prospectus. This may cause the general terms and conditions in this Base 
+Prospectus to be incorrect and no longer valid for such new issues of bonds. If the general terms and conditions in 
+this Base Prospectus at any point in time no longer represents the correct understanding of the general terms and 
+conditions set out in the Bond Terms, the Bond Terms shall prevail. The Bond Terms are attached to the Final 
+Terms. 
+ 
+15.4.1 Use of proceeds: 
+The Issuer will use the net proceeds from the Initial Bond Issue and the net proceeds from the issuance of any 
+Additional Bonds for financing and refinancing of Eligible Projects, however, a failure to comply with the Green Bond 
+Framework shall not constitute an Event of Default. 
+Or 
+• 
+general corporate purposes of the Group, and/or 
+• 
+including refinancing of any existing bank debt. 
+ 
+The use of proceeds will be specified in the Final Terms. 
+ 
+15.4.2 Publication: 
+Base Prospectus, any supplement to the Base Prospectus and Final Terms will be published on Issuer’s website: 
+https://www.tomra.com, or on the Issuer's visit address, Drengsrudhagen 2, 1385 Asker, or their successor (s). 
+The Prospectus will be published by a stock exchange announcement. 
+ 
+15.4.3 Redemption: 
+Matured interest and matured principal will be credited each Bondholder directly from the Securities Registry. 
+Claims for interest and principal shall be limited in time pursuant the Norwegian Act relating to the Limitation 
+Period Claims of 18 May 1979 no 18, p.t. 3 years for interest rates and 10 years for principal. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 37 ---
+37
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus
+ 
+ 
+ 
+ 
+15.4.4 Fees, Expenses and Tax legislation: 
+The tax legislation of the investor’s Member State and of the Issuer’s country of incorporation may have an impact 
+on the income received from the securities. 
+ 
+The Issuer shall pay any stamp duty and other public fees in connection with the loan. Any public fees or taxes on 
+sales of Bonds in the secondary market shall be paid by the Bondholders, unless otherwise decided by law or 
+regulation. The Issuer is responsible for withholding any withholding tax imposed by Norwegian law. 
+ 
+15.4.5 Security Depository and secondary trading: 
+The Bonds are electronically registered in book-entry form with the Securities Depository and will be registered in 
+the Securities Depository as specified in the definition of "Securities Depository". Securities Depository is 
+specified in the Final Terms. 
+Secondary trading will be made over a Marketplace for Bonds listed on a marketplace, See also definition of 
+“Market Making”. 
+ 
+Prospectus fee for the Base Prospectus including templates for Final Terms is NOK 104,000. In addition, there is a 
+listing fee for listing of the Bonds in accordance with the current price list of the Exchange. The listing fees will be 
+specified in the Final Terms. 
+15.4.6 Status of the Bonds, Security and Negative pledge: 
+The Bonds will constitute senior unsecured debt obligations of the Issuer. The Bonds will rank pari passu between 
+themselves and will rank at least pari passu with all other obligations of the Issuer (save for such claims which are 
+preferred by bankruptcy, insolvency, liquidation or other similar laws of general application). 
+ 
+The Bonds are unsecured. 
+ 
+Negative pledge 
+In clause 13.7 in the Bond Terms (Negative pledge), “Quasi-Security” means an arrangement or transaction 
+described in paragraph (b) below: 
+ 
+(a) The Issuer shall not, and shall ensure that no other member of the Group will, create or permit to subsist any 
+Security over any of its assets. 
+ 
+(b) The Issuer shall not, and shall ensure that no other member of the Group will: 
+(i) sell, transfer or otherwise dispose of any of its assets on terms whereby they are or may be 
+leased to or re-acquired by the Issuer or any other member of the Group; 
+(ii) sell, transfer or otherwise dispose of any of its receivables on recourse terms; 
+(iii) enter into any arrangement under which money or the benefit of a bank or other account may be 
+applied, set-off or made subject to a combination of accounts; or 
+(iv) enter into any other preferential arrangement having a similar effect, 
+ 
+in circumstances where the arrangement or transaction is entered into primarily as a method of raising 
+Financial Indebtedness or of financing the acquisition of an asset. 
+(c) Paragraphs (a) and (b) above do not apply to any Security (as the case may be) Quasi-Security listed below: 
+ 
+(i) 
+any Security or Quasi-Security arising solely by operation of law in the ordinary course of business and not 
+arising as a result of any default or omission on the part of any member of the Group; 
+(ii) 
+any Security or Quasi-Security arising under any retention of title arrangements entered into in the ordinary 
+course of business which are required by any supplier of any goods to any member of the Group in the 
+normal course of such supplier's business and not arising as a result of any default or omission by any 
+member of the Group; 
+ 
+(iii) 
+any Security or Quasi-Security arising on accounts pursuant to standard netting, cash management or 
+account-zeroing arrangement; 
+(iv) 
+any payment or close out netting or set-off arrangement pursuant to any interest or currency hedging 
+transaction subject to a master agreement on terms and conditions that are standard within the industry 
+entered into by a member of the Group without providing any other Security or Quasi-Security; 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 38 ---
+38
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus
+ 
+ 
+ 
+ 
+ 
+(v) 
+any Security or Quasi-Security over cash deposits (or any other assets) created to secure the repayment 
+of advanced payments received for projects, provided that such cash deposit is funded out of those 
+financing monies or the revenue stream of the activity or project concerned; 
+ 
+(vi) 
+any Security or Quasi-Security over specific items of inventory or other goods or over documents of title 
+to those goods, related documents and insurances and their proceeds given for the purpose of securing 
+obligations in respect of letters of credit, security over documents of title or bankers' acceptances issued 
+or credited to facilitate the shipment or storage of such inventory or other goods; 
+ 
+(vii) 
+any Security or Quasi-Security granted in the ordinary course of business (including the acquisition or 
+disposal of shares and ownership interests) in connection with its participation in or trading on or through 
+a clearing system or investment, commodity or stock exchange where, in each case, the Security or 
+Quasi-Security arises under the rules, normal procedures or legislation governing the clearing system or 
+exchange (including in relation to any transactions carried out pursuant to the rules of the exchange) and 
+not with the intention of borrowing money; 
+(viii) 
+any Security or Quasi-Security over or affecting any asset acquired by a member of the Group after the 
+date of these Bond Terms if: 
+ 
+A. the Security or Quasi-Security was not created in contemplation of the acquisition of that asset by a 
+member of the Group; 
+ 
+B. the principal amount secured has not been increased in contemplation of or since the acquisition of 
+that asset by a member of the Group; and 
+C. the Security or Quasi-Security is removed or discharged within six (6) months of the date of 
+acquisition of such asset; 
+(ix) 
+any Security or Quasi-Security over or affecting any asset of any company which becomes a member of 
+the Group after the date of these Bond Terms, where the Security or Quasi-Security is created prior to 
+the date on which that company becomes a member of the Group, if: 
+ 
+A. the Security or Quasi-Security was not created in contemplation of the acquisition of that company; 
+(B) the principal amount secured has not increased in contemplation of or since the acquisition of 
+that company; and 
+ 
+B. the Security or Quasi-Security is removed or discharged within six (6) months of that company 
+becoming a member of the Group; 
+ 
+(x) 
+any Security or Quasi-Security to which the Bond Trustee has given its prior written consent on behalf of 
+a simple majority (50.01%) of the Bondholders; or 
+ 
+(xi) 
+any other Security or Quasi-Security not permitted by sub-paragraphs (i) to (vii) above created or granted 
+by the members of the Group for a total aggregate amount up to (but not at any time exceeding) 7.5 per 
+cent of Total Consolidated Assets 
+ 
+15.4.7 Bond Terms: 
+The Bond Terms has been entered into between the Borrower and the Bond Trustee. The Bond Terms regulates 
+the Bondholder’s rights and obligations in relations with the issue. The Bond Trustee enters into this agreement on 
+behalf of the Bondholders and is granted authority to act on behalf of the Bondholders to the extent provided for in 
+the Bond Terms. 
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with the CSD, the Bondholders are bound by 
+the Bond Terms and any other Finance Document, without any further action required to be taken or formalities to 
+be complied with by the Bond Trustee, the Bondholders, the Issuer or any other party. 
+ 
+The Bond Terms will be attached to the Final Terms for each Bond issue and is also available through the 
+Manager(s), issuer and the Bond Trustee. 
+15.4.8 Legislation: 
+The Bond Terms is governed by and construed in accordance with Norwegian law. The Issuer is subject to 
+Norwegian legislation, the most relevant law for the Group's operations is the Public Limited Companies Act, the 
+Norwegian Securities Trading Act and the Norwegian Stock Exchange Regulations. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 39 ---
+39
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus
+ 
+ 
+ 
+ 
+ 
+15.4.9 Approvals: 
+The Bonds will be issued in accordance with the Issuer’s Board of Directors approval. 
+The Date of the Issuer’s Board of Director approval will be specified in the Final Terms 
+The Base Prospectus has been submitted to the Norwegian Financial Supervisory Authority (Finanstilsynet) 
+before listing of the Bonds takes place. 
+Final Terms will be submitted to Finanstilsynet for information in connection with an application for listing of a Bond 
+Issue. 
+ 
+The Base prospectus will not be the basis for offers for subscription in bonds that are not subject to a prospectus 
+obligation. 
+ 
+15.4.10 Restrictions on the free transferability of the securities. 
+Any restrictions on the free transferability of the securities will be specified in the Final Terms. 
+ 
+15.5 Return and Redemption 
+Financial instruments described in Chapter 15.1 may have return and repayment mechanisms as explained 
+below. The individual Final Terms refer to these mechanisms and provide relevant parameter values for the 
+specific bond issue. 
+15.5.1 Bond Issue with floating rate 
+15.5.1.a Return (interest) 
+The Interest Rate is specified in Interest Rate ii). Payment of the Interest Rate is calculated on basis of the Day 
+Count Convention (b). 
+ 
+Interest Rate or Reference Rate may be deemed to be zero. 
+ 
+The period lengths are equal throughout the term of the Loan, but each Interest Payment Date is adjusted in 
+accordance with the Business Day Convention. The Interest Rate for each forthcoming period are determined two 
+Business Days prior to each Interest Payment Date based on the current value of the Reference Rate plus the 
+Margin. 
+The Interest Rate is paid in arrears on each Interest Payment Date. The first Interest Period runs from and including 
+the Issue Date to but excluding the first Interest Payment Date. The subsequent Interest Periods run from and 
+including an Interest Payment Date to but excluding the next Interest Payment Date. The last Interest Payment Date 
+corresponds to the Maturity Date. 
+ 
+The relevant Reference Rate, the Margin, the Interest Payment Dates and the current Interest Rate will be specified 
+in the applicable Final Terms. 
+ 
+Interest calculation method for secondary trading is given by act/360, modified following. 
+13.5.1.b Redemption 
+Redemption is made in accordance with Redemption. 
+ 
+15.5.2 Bond Issue with fixed rate 
+15.5.2.a Return (interest) 
+The interest rate is specified in Interest Rate (i). Payment of the Interest Rate is calculated on basis of the Day 
+Count Convention (a). 
+ 
+The Interest Rate is paid in arrears on each Interest Payment Date. The first Interest Period runs from and including 
+the Issue Date to but excluding the first Interest Payment Date. The subsequent Interest Periods run from and 
+including an Interest Payment Date to but excluding the next Interest Payment Date. The last Interest Payment Date 
+corresponds to the Maturity Date. 
+The Interest Rate and the Interest Payment Dates will be specified in the applicable Final Terms. 
+Interest calculation method for secondary trading is given by act/365 for bond issue with fixed rate. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 40 ---
+40
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus
+ 
+ 
+ 
+ 
+ 
+ 
+13.5.2.b Redemption 
+Redemption is made in accordance with Redemption. 
+15.6 Rating 
+The Issuer is rated by Scope A- Stable, see Appendix 2. 
+The Bonds have not been rated. 
+15.7 Final Terms 
+Template Final Terms for fixed and floating bond issue, Appendix 2 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 41 ---
+41
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus
+ 
+ 
+ 
+ 
+16 Third party information 
+Part of the information given in this Base Prospectus has been sourced from a third party. It is hereby confirmed  
+that the information has been accurately reproduced and that as far as Tomra Systems ASA is aware and is able  
+to ascertain from information published by that third party, no facts have been omitted which would render the  
+reproduced information inaccurate or misleading. The following table lists such third parties:  
+ 
+ 
+Kind of 
+information 
+Publicly available
+Name of third 
+party 
+Business 
+address 
+Qualifications
+Material 
+interest in 
+the 
+Company 
+6.1 TOMRA Group 
+ 
+Less than 8% of 
+the world’s 
+resources are 
+circular today 
+ 
+More than 30% of 
+all consumable 
+food is lost or 
+wasted each year 
+Available at: 
+ 
+https://www.circulari
+ty-
+gap.world/2024#do
+wnload 
+ 
+https://wedocs.unep
+.org/bitstream/handl
+e/20.500.11822/439
+22/EGR2023.pdf?se
+quence=3&isAllowe
+d=y
+ 
+ 
+Circle Economy 
+Foundation 
+ 
+ 
+ 
+UN Environment 
+Programme 
+ 
+ 
+Mauritskade 64, 
+1092 AD 
+Amsterdam, 
+Netherlands 
+ 
+United Nations 
+Avenue, Gigiri 
+P O Box 30552, 
+00100  
+Nairobi, Kenya 
+ 
+ 
+Report 
+ 
+ 
+ 
+ 
+Report 
+ 
+ 
+None 
+ 
+ 
+ 
+ 
+None 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 42 ---
+42
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus
+ 
+ 
+ 
+ 
+ 
+Cross Reference List 
+ 
+Reference in
+Base Prospectus 
+Refers to
+Details
+11.1 Financial
+Annual Report 2023, available at:
+https://www.tomra.com/-
+/media/project/tomra/tomra/investor-
+relations/annual-reports/tomra_annual-report-
+2023.pdf 
+ 
+Consolidated income statements and other
+Information
+Comprehensive income, pages 68
+Consolidated Balance Sheet per 31 December,
+pages 69
+Consolidated statements of cash flow, page 71
+ 
+Notes to the consolidated financial statements, pages
+ 
+73-95 
+ 
+Statements of income, page 97 
+ 
+Balance Sheet per 31 December, pages 98
+ 
+Statements of cash flow, page 99
+ 
+Notes to the financial statements, pages 101-109
+Quarterly Report 2024, available at:
+https://www.tomra.com/-
+/media/project/tomra/tomra/investor-
+relations/quarterly-results-files/2024/3q/3q-
+2024-report.pdf 
+ 
+ 
+Consolidated income statements and other
+Comprehensive income, page 12
+Consolidated Balance Sheet per 30 June,
+page 12
+Consolidated statements of cash flow, page 13
+ 
+Notes to the consolidated financial statements, pages
+ 
+14-16 
+11.2 .1 Statement
+Annual Report 2023, available at:
+https://www.tomra.com/-
+/media/project/tomra/tomra/investor-
+relations/annual-reports/tomra_annual-report-
+2023.pdf 
+ 
+Auditors report, pages 110-112
+of audited
+ 
+historical financial
+ 
+information
+ 
+ 
+ 
+References to the above mentioned documents are limited to information given in “Details”, e.g. that the non- 
+incorporated parts are either not relevant for the investor or covered elsewhere in the Base Prospectus. 
+ 
+ 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 43 ---
+43
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus
+ 
+ 
+ 
+ 
+Managers’ disclaimer 
+DNB Bank ASA, DNB Markets and Nordea Bank Abp, filial i Norge, (together the "Managers"), have assisted the 
+Company in preparing the Base Prospectus. The Manages have not verified the information contained herein. 
+Accordingly, no representation, warranty or undertaking, express or implied, is made and the Managers expressly 
+disclaims any legal or financial liability as to the accuracy or completeness of the information contained in this Base 
+Prospectus or any other information supplied in connection with the issuance or distribution of bonds by Tomra 
+Systems ASA. 
+ 
+This Base Prospectus is subject to the general business terms of the Managers, available at their respective 
+websites. Confidentiality rules and internal rules restricting the exchange of information between different parts of 
+the Managers may prevent employees of the Managers who are preparing this Base Prospectus from utilizing or 
+being aware of information available to the Managers and/or any of their affiliated companies and which may be 
+relevant to the recipient's decisions. 
+ 
+Each person receiving this Base Prospectus acknowledges that such person has not relied on the Managers, nor 
+on any person affiliated with it in connection with its investigation of the accuracy of such information or its 
+investment decision. 
+ 
+ 
+ 
+Oslo, 03 December 2024 
+ 
+DNB Bank ASA, DNB Markets 
+Nordea Bank Apb, filial i Norge 
+(www.dnb.no) 
+ 
+www.nordea.no 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 44 ---
+44
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus
+ 
+ 
+ 
+ 
+Appendix 1 Articles of Association 
+ 
+§ 1 
+The name of the company is TOMRA Systems ASA. The company is a Public Limited Company. 
+§ 2 
+The company's goal is to create and supply sensor-based solutions for optimal resource productivity, making sustainability 
+profitable within the business streams of reverse vending, compaction, recycling, mining, and food. The company may also 
+engage in other business activities. 
+§ 3 
+The company’s registered office is in Asker, Norway. 
+§ 4 
+The share capital is NOK 148,020,078 divided into 296,040,156 shares, each with a nominal value of NOK 0.50. 
+§ 5 
+The Board of Directors shall consist of between 6 and 10 members and up to 2 substitute members as decided by the general 
+meeting. Two to three members of the Board of Directors shall be elected by and among the company's employees for two 
+years at a time. Moreover, the members of the Board of Directors and its chairman shall be elected by the general meeting for a 
+term of one year at a time. 
+A nomination committee consisting of 2 to 4 members shall be elected for one year at a time. The leader of the nomination 
+committee is elected by the general meeting. 
+Documents shall be executed on behalf of the company by the president of the company or the chairman of the Board of 
+Directors, together with one of the members of the company’s Board of Directors. 
+§ 6 
+The annual general meeting is to be held each year as early as possible and no later than by the end of June. An extraordinary 
+general meeting may be held when so decided by the board or upon a written request from the company’s auditor or one or 
+more of the shareholders, jointly representing at least 1/20 of the share capital. 
+The general meeting shall be called by the Board on at least 21 days written notice to each shareholder. 
+Notice of a general meeting shall be sent on paper to all shareholders with known address, but may be sent electronically to 
+shareholders who expressly have consented hereto. When documents pertaining to matters that are to be discussed at the 
+general meeting have been made available for the shareholders on the company’s web sites, the statutory requirement that 
+documents shall be submitted to the shareholders no longer apply. The same applies to documents that pursuant to law shall be 
+included in or enclosed to the notice of the general meeting. In such a case, the notice of meeting shall include information on 
+the internet address and further information required for the shareholders’ access to the documents on the company’s web site, 
+as well as information on whom the shareholders may contact in order to receive the documents. A shareholder may still 
+demand to be sent documents pertaining to matters to be dealt with at the general meeting. 
+Provided that adequate systems for authentication of the sender are established, the shareholders shall be able to cast their 
+vote in writing or by use of electronic communication for a period prior to the general meeting. The Board of Directors shall 
+establish further regulations as to how voting shall take place, including the period shareholders may vote in advance. 
+§ 7 
+The annual general meeting shall deal with and decide on: 
+1. 
+Approval of the Annual Accounts and the Annual Report, including the distribution of dividend. 
+2. 
+Election of members of the Board of Directors, a Board nomination committee, and the election of a certified public 
+accountant as company auditor. 
+3. 
+The remuneration of members of the Board of Directors and its committees, and the remuneration of the company 
+auditor. 
+4. 
+The statement of the Board of Directors concerning the remuneration of the management of the company.
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 45 ---
+45
+ 
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+Appendix 2 Template Final Terms for fixed and floating bond 
+issues 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 46 ---
+46
+ 
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+[Appendix 2] 
+ 
+ 
+ 
+ 
+ 
+Base prospectus 
+ 
+ 
+Final Terms 
+for 
+[ISIN] 
+[Title of the bond issue] 
+ 
+ 
+ 
+ 
+ 
+Asker/ [], [Date] 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 47 ---
+2 
+ 
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Terms used herein shall be deemed to be defined as such for the purposes of the conditions set forth in the Base 
+Prospectus clause 2 Definition, 15.3 Definition and in the attached Bond Terms for each bond issue. 
+ 
+[In case MiFID II identified target market are professional investors and eligible counterparties, insert the following:] 
+[MIFID II product governance / Professional investors and eligible counterparties (ECPs) only target market 
+– Solely for the purposes of [the/each] manufacturer’s product approval process, the target market assessment in 
+respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is eligible counterparties and 
+professional clients only, each as defined in Directive 2014/65/EU (as amended) (MiFID II); and (ii) all channels for 
+distribution of the Bonds to eligible counterparties and professional clients are appropriate. [Consider any negative 
+target market]. Any person subsequently offering, selling or recommending the Bonds (a distributor) should take 
+into consideration the manufacturer[’s/s’] target market assessment; however, a distributor subject to MiFID II is 
+responsible for undertaking its own target market assessment in respect of the Bonds (by either adopting or refining 
+the manufacturer[’s/s’] target market assessment) and determining appropriate distribution channels.] 
+[PROHIBITION OF SALES TO EEA RETAIL INVESTORS – The Bonds are not intended to be offered, sold or 
+otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in 
+the European Economic Area (EEA). For these purposes, a retail investor means a person who is one (or more) of: 
+(i) a retail client as defined in point (11) of Article 4(1) of MiFID II; (ii) a customer within the meaning of Directive 
+(EU) 2016/97 where that customer would not qualify as a professional client as defined in point (10) of Article 4(1) 
+of MiFID II; or (iii) not a qualified investor as defined in the Prospectus Regulation (as defined below). Consequently 
+no key information document required by Regulation (EU) No. 1286/2014 (as amended) (the PRIIPs Regulation) 
+for offering or selling the Bonds or otherwise making them available to retail investors in the EEA has been prepared 
+and therefore offering or selling the Bonds or otherwise making them available to any retail investor in the EEA may 
+be unlawful under the PRIIPs Regulation.] 
+ 
+[In case MiFID II identified target market are retail investors, professional investors and eligible counterparties, insert 
+the following:] 
+[MIFID II product governance / Retail investors, professional investors and eligible counterparties (ECPs) 
+target market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is eligible 
+counterparties, professional clients and retail clients, each as defined in Directive 2014/65/EU (as amended) (MiFID 
+II); EITHER [and (ii) all channels for distribution of the Bonds are appropriate[, including investment advice, portfolio 
+management, non-advised sales and pure execution services]] OR [(ii) all channels for distribution to eligible 
+counterparties and professional clients are appropriate; and (iii) the following channels for distribution of the Bonds 
+to retail clients are appropriate – investment advice[,/and] portfolio management[,/ and][non-advised sales][and pure 
+execution services][, subject to the distributor’s suitability and appropriateness obligations under MiFID II, as 
+applicable]]. [Consider any negative target market]. Any person subsequently offering, selling or recommending the 
+Bonds (a distributor) should take into consideration the manufacturer[’s/s’] target market assessment; however, a 
+distributor subject to MiFID II is responsible for undertaking its own target market assessment in respect of the 
+Bonds (by either adopting or refining the manufacturer[‘s/s’] target market assessment) and determining appropriate 
+distribution channels[, subject to the distributor’s suitability and appropriateness obligations under MiFID II, as 
+applicable].] 
+This document constitutes the Final Terms of the Bonds described herein pursuant to the Regulation (EU) 
+2017/1129 and must be read in conjunction with the Base Prospectus dated 03 December 2024 and [the 
+supplement[s] to the Base Prospectus dated [date]]. 
+ 
+The Base Prospectus dated 03 December 2024 [and the supplement[s] to the Base Prospectus dated [date]] 
+[together] constitute[s] a base prospectus for the purposes of the Regulation (EU) 2017/1129 ([together,] the “Base 
+Prospectus”). 
+Final Terms include a summary of each Bond Issue. 
+These Final Terms and the Base Prospectus [and the supplement[s] to the Base Prospectus] are available on the 
+Issuer's website https://www.tomra.com or on the Issuer's visit address, Drengsrudhagen 2, 1385 Asker, Norway, 
+or their successor (s). 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 48 ---
+3 
+ 
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+1 Summary 
+Summaries are made up of disclosure requirements due to Article 7 in the REGULATION (EU) 2017/1129 OF THE EUROPEAN 
+PARLIAMENT AND OF THE COUNCIL of 14 June 2017. 
+Introduction and warning 
+Disclosure requirement
+Disclosure
+Warning 
+This summary should be read as introduction to the Prospectus. 
+Any decision to invest in the securities should be based on 
+consideration of the Prospectus as a whole by the investor. The 
+investor could lose all or part of the invested capital. Where a claim 
+relating to the information contained in the Prospectus is brought 
+before a court, the plaintiff investor might, under the national law, 
+has to bear the costs of translating the Prospectus before the legal 
+proceedings are initiated. Civil liability attaches only to those 
+persons who have tabled the summary including any translation 
+thereof, but only where the summary is misleading, inaccurate or 
+inconsistent, when read together with the other parts of the 
+prospectus, or where it does not provide, when read together with 
+the other parts of the prospectus, key information in 
+order to aid investors when considering whether to invest in such 
+securities 
+Name and international securities 
+identification number (‘ISIN’) of the 
+securities. 
+[●] 
+Identity and contact details of the issuer, 
+including its legal entity identifier (‘LEI’). 
+Tomra Systems ASA, Drengsrudhagen 2, 1385 Asker, Norway. 
+Telephone number is +47 66 79 91 00. 
+Registration number 927 124 238 
+LEI-code ((legal entity identifier): 549300J726JCFJU3VT89. 
+Identity and contact details of the offeror or 
+of the person asking for admission to trading 
+on a regulated market. 
+Not applicable. There is no offeror, the prospectus has been 
+produced in connection with listing of the securities on the Euronext
+Oslo Børs. The Issuer is going to ask for admission to trading on a 
+regulated market. 
+Identity and contact details of the competent 
+authority that approved the prospectus 
+Financial Supervisory Authority of Norway (Finanstilsynet), 
+Revierstredet 3, 0151 Oslo. Telephone number is 
++47 22 93 98 00. E-mail: prospekter@finanstilsynet.no. 
+Date of approval of the prospectus.
+The Base Prospectus was approved on 03 December 2024.
+ 
+Key information on the Issuer 
+Disclosure requirements
+Disclosure
+Who is the issuer of the securities
+ 
+Domicile and legal form 
+The Issuer is a public limited liability company incorporated in 
+Norway and primarily organized under the laws of Norway, 
+including the Public Limited Companies Act. Pursuant to the 
+listing agreement between the Euronnext Oslo Stock Exchange 
+and the Company. In particular, the Norwegian Securities Trading 
+Act and the Norwegian Stock Exchange Regulations will apply. 
+LEI-code 
+((legal entity identifier): 549300J726JCFJU3VT89.
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 49 ---
+4 
+ 
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+Principal activities 
+TOMRA was founded in 1972, based on the design, manufacturing 
+and sale of reverse vending machines (RVMs) for automated 
+collection of used beverage containers. Today TOMRA provides 
+technology-led solutions that optimize resource use and recovery 
+in the food, recycling, and mining industries 
+Altogether TOMRA has over 110,000 installations in over 100 
+markets worldwide and had total revenues of about 1.3 billion EUR 
+in 2023. The TOMRA Group employed approximately 5,400 people 
+in 2023 and is publicly listed on the Euronext Oslo Stock Exchange.
+TOMRA Collection 
+With an installed base of approximately 85,000 machines in over 
+60 markets, TOMRA Collection is the world's leading provider of 
+reverse vending solutions. Every year, TOMRA enables the 
+collection of over 46 billion empty cans and bottles and provides 
+retailers and other customers with an effective and efficient way of 
+collecting, sorting, and processing these containers. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 50 ---
+5 
+ 
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TOMRA Recycling 
+TOMRA Recycling has pioneered the use of sensor-based 
+technology for automating the recovery and recycling of valuable 
+resources. The flexible sorting systems perform an extensive range 
+of sorting tasks and can sort various types of materials and 
+minerals with the purpose of preparation for recycling, material 
+upgrading, as well as sustainable sorting of ores, gemstones, and 
+minerals. 
+ 
+Sensor-based sorting technology is critical to reducing the 
+dependency on primary raw materials and mitigating the 
+environmental impact caused by landfills and incineration. 
+ 
+Currently TOMRA Recycling has an installed base of over 10,000 
+units across more than 100 countries. 
+ 
+TOMRA Food 
+TOMRA Food is the leading provider of sensor-based sorting and 
+grading technology for the food industry. In the developing world, 
+there is a need for more automation within food processing. In 
+developed markets, the emphasis is on food quality, productivity, 
+and hygiene. 
+ 
+TOMRA is positioned to serve customers in both the fresh produce 
+sector (post-harvest grading and sorting solutions for fresh produce 
+such as fruits and berries), and processed food (sorting and 
+processing technology for food applications such as nuts, potatoes, 
+and vegetables). 
+With close to 15,000 installations globally, TOMRA's food 
+solutions are essential in optimizing food utilization, safety, and 
+quality. 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 51 ---
+6 
+ 
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Major shareholders
+The 20 largest shareholders as of 30 September 2024
+ 
+ 
+Investor 
+Number of 
+shares % of top 20 
+% of 
+total 
+Type 
+Country 
+Investment AB Latour 
+62,400,000 
+32.88 
+21.08 Ordinary 
+Sweden 
+FOLKETRYGDFONDET 
+19,903,643 
+10.49 
+6.72 Ordinary 
+Norway 
+The Bank of New York Mellon SA/NV 
+18,205,096 
+9.59 
+6.15 Nominee 
+Belgium 
+Danske Bank A/S 
+17,467,798 
+9.20 
+5.90 Nominee 
+Denmark 
+CLEARSTREAM BANKING S.A. 
+11,479,761 
+6.05 
+3.88 Nominee 
+Luxembourg 
+Citibank Europe plc 
+9,778,744 
+5.15 
+3.30 Nominee 
+Ireland 
+State Street Bank and Trust Comp 
+6,547,158 
+3.45 
+2.21 Nominee 
+United States 
+Citibank; N.A. 
+5,583,883 
+2.94 
+1.89 Nominee 
+Ireland 
+State Street Bank and Trust Comp 
+5,348,760 
+2.82 
+1.81 Nominee 
+United States 
+JPMorgan Chase Bank; N.A.; London 
+5,130,821 
+2.70 
+1.73 Nominee 
+United Kingdom 
+Skandinaviska Enskilda Banken AB 
+4,295,000 
+2.26 
+1.45 Nominee 
+Sweden 
+ALECTA TJANSTEPENSION OMSESIDIGT 
+3,350,000 
+1.77 
+1.13 Ordinary 
+Luxembourg 
+CACEIS Bank 
+3,057,570 
+1.61 
+1.03 Nominee 
+Luxembourg 
+J.P. Morgan SE 
+2,980,000 
+1.57 
+1.01 Nominee 
+Luxembourg 
+State Street Bank and Trust Comp 
+2,780,331 
+1.46 
+0.94 Nominee 
+United States 
+SIX SIS AG 
+2,652,501 
+1.40 
+0.90 Nominee 
+Switzerland 
+RAIFFEISEN BANK INTERNATIONAL AG 
+2,431,396 
+1.28 
+0.82 No 
+Austria 
+BNP Paribas 
+2,259,943 
+1.19 
+0.76 Nominee 
+France 
+DZ Privatbank S.A. 
+2,075,456 
+1.09 
+0.70 Nominee 
+Luxembourg 
+The Bank of New York Mellon SA/NV 
+2,071,281 
+1.09 
+0.70 Nominee 
+Belgium 
+Total number owned by top 20 
+189,799,142   
+64.11  
+ 
+Total number of shares 
+296,040,156   
+100.00  
+ 
+ 
+There are no arrangements, known to the Company, the operation of which may at a subsequent date result in a 
+change in control of the Company. 
+Name 
+Position 
+Tove Andersen 
+President and CEO 
+Eva Sagemo 
+CFO 
+Lars Kversøy Enge 
+EVP, Head of Group Strategy 
+Stefan Schrahe 
+EVP, People & Organization 
+Harald Henriksen 
+EVP, Head of TOMRA Food 
+Marius Fraurud 
+EVP, Head of TOMRA Collection 
+Volker Rehrmann 
+EVP, Head of TOMRA Recycling 
+Statutory auditors 
+PricewaterhouseCoopers AS (PwC), Dronning Eufemias gate 71, 
+NO-0194 Oslo 
+What is the key financial information 
+regarding the issuer 
+ 
+Key financial information
+ 
+Tomra Systems ASA Consolidated 
+  
+YTD Q3 Report 2024 
+Unaudited 
+(EUR million) 
+Annual Report 2023 
+Audited 
+(NOK million) 
+ 
+ 
+Operating profit (net income) 
+88 
+1172.3 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 52 ---
+7 
+ 
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Net financial debt (long-term debt plus 
+short-term debt minus cash) 
+385 
+3,586.7 
+ 
+Net Cash flows from operating activities 
+153 
+1,585.9 
+ 
+Net Cash flows from financing activities 
+(53) 
+(41.9) 
+ 
+Net Cash flow from investing activities 
+(111) 
+(1,146.8) 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 53 ---
+8 
+ 
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tomra Systems ASA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+There is no description of any qualifications in the audit report in Annual Report 2023. 
+What are the key risk factors that are specific 
+to the issuer 
+ 
+Most material key risk factors 
+ 
+Political and regulatory risk
+ 
+Market and competition risk
+ 
+IP and legal risk
+ 
+Compliance and reputation risk
+ 
+IT infrastructure and cybersecurity risk
+ 
+Commodity risk
+ 
+Impairment loss intangibles
+Key information on the securities 
+Disclosure requirements
+Disclosure
+What are the main features of the securities
+ 
+Description of the securities, including ISIN 
+code. 
+[●] 
+Currency for the bond issue
+[●]
+Borrowing Limit and Borrowing Amount 
+[● tranche] 
+[●] 
+Denomination – Each Bond
+[●]
+Any restrictions on the free transferability of 
+the securities. 
+[●] 
+Description of the rights attached to the 
+securities, limitations to those rights and 
+ranking of the securities. 
+[●] 
+Information about Issue and Maturity Date, 
+interest rate, instalment and representative 
+of the bondholders 
+[●] 
+Status of the bonds and security
+[●]
+Where will the securities be traded
+ 
+Indication as to whether the securities 
+offered are or will be the object of an 
+application for admission to trading. 
+[●] 
+What are the key risks that are specific to the 
+securities 
+What are the key risks that are specific to the securities 
+Most material key risks
+
+Credit risk
+Amounts in NOK million 
+Annual Report 2023 
+Audited
+Operating profit (net income) 
+1172.3 
+Net financial debt (long-term debt plus 
+short-term debt minus cash) 
+3,586.7 
+Net Cash flows from operating activities 
+1,585.9 
+Net Cash flows from financing activities 
+(41.9) 
+Net Cash flow from investing activities 
+(1,146.8) 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 54 ---
+9 
+ 
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Key information on the admission to trading on a regulated marked 
+Disclosure requirements
+Disclosure
+Under which conditions and timetable can I 
+invest in this security? 
+[●] 
+The estimate of total expenses related to the admission to 
+trading is as follow: 
+[●]. 
+ 
+[/ Other: (specify)] 
+Listing fee Euronext Oslo Børs [●] 
+Registration fee  Euronext Oslo Børs 
+[●] 
+Why is the prospectus being produced
+In connection with listing of the securities on the Euronext 
+Oslo Børs.
+Reasons for the admission to trading on a 
+regulated marked and use of. 
+Use of proceeds [●] 
+ 
+Estimated net amount of the proceeds [●] 
+Description of material conflicts of interest to 
+the issue including conflicting interests. 
+[●] 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 55 ---
+10
+ 
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+2 Detailed information about the security 
+Generally: 
+ISIN code: 
+[ISIN] 
+The Loan/The Bonds/The Notes: 
+[Title of the bond issue] 
+ 
+Borrower/Issuer: 
+Tomra Systems ASA, Norwegian enterprise no. 927 124 238 and 
+LEI-code 549300J726JCFJU3VT89 
+Group: 
+Means the Issuer and its Subsidiaries from time to time. 
+ 
+Security Type: 
+[Unsecured] [open] bond issue with [fixed/floating] rate 
+Borrowing Limit – Tap Issue: 
+[Currency] 
+[Amount borrowing limit] 
+Borrowing Amount [●] tranche: 
+[Currency] 
+ 
+[Amount [●] tranche] 
+Outstanding Amount: 
+[Currency] 
+ 
+ 
+[Amount [●]] 
+Denomination – Each bond 
+[Currency] 
+[Amount denomination] - each and ranking pari 
+passu among themselves 
+Securities Form: 
+As set out in the Base Prospectus clause 15.1 
+ 
+Publication: 
+As specified in the Basic Prospectus section 15.4.2. 
+Issue Price: 
+[As defined in the Base Prospectus section 15.3 
+[Issue price] % 
+Disbursement Date/Issue Date: 
+[As defined in the Base Prospectus section 15.3 
+ 
+[Issue date] 
+Maturity Date: 
+[As defined in the Base Prospectus section 15.3 
+ 
+[Maturity Date] 
+Interest Rate: 
+Interest Bearing from and Including: 
+[Issue date 
+/ Other: (specify)] 
+ 
+Interest Bearing To: 
+[As defined in the Base Prospectus section 15.3 
+[Maturity Date 
+ 
+/ Other: (specify)] 
+Reference Rate: 
+[As defined in the Base Prospectus section 15.3 
+Floating rate: [NIBOR] [3 / 6 / 12] months 
+[description of Reference Rate] 
+Relevant Screen Page: [Relevant Screen Page] 
+Specified time: [specified time] 
+Information about the past and future performance and volatility of the 
+Reference Rate is available at [Relevant Screen Page / other: (specify)] 
+ 
+Fallback provisions: [Provisions] 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 56 ---
+11
+ 
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+/ Other: (specify)] 
+/ Fixed Rate: N/A] 
+ 
+Margin: 
+[As defined in the Base Prospectus section 15.3 
+Floating Rate: [Margin] % p.a. 
+/ Fixed Interest: N/A 
+/ Other: (specify)] 
+ 
+Interest Rate: 
+[Bond issue with floating rate (as defined in the Base Prospectus section 
+15.3): [Reference Rate + Margin] 
+Current Interest Rate: [current interest rate] % p.a. 
+ 
+/ Bond Issue with fixed rate (as defined in the Base Prospectus section 
+15.3): [Interest rate] % p.a. 
+ 
+Day Count Convention: 
+[Floating Rate: As defined in the Base Prospectus section 15.3 
+/ Fixed Rate: As defined in the Base Prospectus section 15.3 
+ 
+Day Count Fraction – Secondary 
+Market: 
+[Floating Rate: As specified in the Base Prospectus section 15.5.1.a 
+/ Fixed Rate: As specified in the Base Prospectus section 15.5.2.a 
+Interest Rate Determination Date: 
+[Floating Rate: As defined in the Base Prospectus section 15.3. 
+ 
+Interest Rate Determination Date: [Interest Rate Determination Date(s)] 
+each year. 
+/ Fixed rate: N/A 
+ 
+/ Other: (specify)] 
+Interest Rate Adjustment Date: 
+[Floating Rate: As defined in the Base Prospectus section 15.3. 
+ 
+/ Fixed rate: N/A] 
+Interest Payment Date: 
+As defined in the Base Prospectus section 15.3 and specified in the 
+Base Prospectus section 15.5.1 (FRN) / section 15.5.2 (fixed rate) 
+Interest Payment Date: [Date(s)] each year. 
+The first Interest Payment Date is [Date]. 
+#Days first term: 
+[Number of interest days] days 
+Yield: 
+As specified in the Base Prospectus section 15.3. 
+ 
+The Yield is [yield] 
+Business Day: 
+As specified in the Base Prospectus section 15.3. 
+ 
+/ Other: (specify)] 
+Amortisation and Redemption: 
+Redemption 
+As defined in the Base Prospectus section 15.3 and as specified in the 
+Base Prospectus section 15.4.3, 15.5.1.b and 15.5.2.b. 
+Redemption: 
+The Maturity Date is [maturity date] 
+ 
+Call Option: 
+As defined in the Base Prospectus section 15.3. 
+[terms of the call option] 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 57 ---
+12
+ 
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+Call Date(s): [call date(s)] 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 58 ---
+13
+ 
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Call Price(s): [call price(s)] 
+ 
+Call Notice Period: [call notice period] 
+Put Option: 
+As defined in the Base prospectus section 15.3. 
+[terms of the put option] 
+Early redemption option after a Put 
+Option Event: 
+Early redemption option due to a tax 
+As defined in the Base Prospectus section 15.3. 
+ 
+[terms of the early redemption option after a Put Option Event] 
+event: 
+As defined in the Base prospectus section 15.3. 
+[terms of the early redemption option due to a tax event] 
+ 
+Obligations: 
+Issuer’s special obligations 
+during the term of the Bond Issue 
+ 
+As specified in the Base Prospectus section 15.4.6. 
+/ Other: (specify)] 
+ 
+Listing: 
+Listing of the Bond Issue/Marketplace: 
+As defined in the Base Prospectus section 15.3 and specified in the 
+Base Prospectus section 15.4.5. 
+ 
+Exchange for listing of the Bonds: [Exchange] 
+/ The Bonds will not be applied for listing on any Exchange. 
+ 
+/ Other: (specify)] 
+ 
+Any restrictions on the free 
+transferability of the securities.: 
+As specified in the Base prospectus section 15.4.10. 
+Restrictions on the free transferability of the securities: [specify] 
+Purpose/Use of proceeds: 
+As specified in the Base Prospectus section 15.4.1. 
+ 
+Estimated total expenses related to the offer: [specify] 
+Estimated net amount of the proceeds: [specify] 
+Use of proceeds: [specify] 
+[Other: (specify)] 
+Prospectus and Listing fees: 
+As defined in the Base Prospectus section 15.3 and specified in the 
+Base Prospectus section 15.4.5. 
+Listing fees: [specify] 
+ 
+/ Other: (specify)] 
+Market-making: 
+As defined in the Base Prospectus section 15.3. 
+ 
+[A market-making agreement has been entered into between the Issuer 
+and [name of market maker]] 
+ 
+Approvals: 
+As specified in the Base Prospectus section 15.4.9. 
+Date of the Board of Directors’ approval: [date] 
+ 
+/ Other: (specify)] 
+Bond Terms: 
+As defined in the Base Prospectus section 15.3 and specified in the 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 59 ---
+14
+ 
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+Base Prospectus section 15.4.7. 
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 60 ---
+15
+ 
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+the CSD, the Bondholders are bound by these Bond Terms and any 
+other Finance Document, without any further action required to be taken 
+or formalities to be complied with by the Bond Trustee, the Bondholders, 
+the Issuer or any other party. 
+/ Other: (specify)] 
+ 
+ 
+Status and security: 
+As specified in the Base Prospectus section 15.4.6 
+/Other: (specify)] 
+ 
+Bondholders’ meeting/ Voting 
+rights: 
+[As defined in the Base Prospectus section 15.3. 
+/ Other: (specify)] 
+ 
+Availability of the Documentation: 
+https://www.tomra.com 
+ 
+Manager(s): 
+[name and contact details of Manager] 
+[LEI for Manager] 
+Bond Trustee: 
+As defined in the Base prospectus section 15.3. 
+The Bond Trustee is [name of the Bond Trustee] 
+Paying Agent: 
+As defined in the Base prospectus section 15.3. 
+The Paying Agent is [name of the Paying Agent] 
+Securities Depository / CSD: 
+As defined in the Base Prospectus section 15.3 and specified in the 
+Base Prospectus section 15.4.5 
+/ Other: (specify)] 
+Calculation Agent: 
+[As defined in the Base Prospectus section 15.3 
+ 
+/ Other: (specify)] 
+Listing fees: 
+Prospectus fee for the Base Prospectus including template for Final 
+Terms is NOK 104,000. 
+[Listing and other fees at the Exchange: (specify) 
+ 
+/ No listing: N/A] 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 61 ---
+16
+ 
+Tomra Systems ASA, 03 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+3 Additional information 
+Advisor 
+The Issuer has mandated [name of manager[s]] as [type of manager] for the issuance of the Loan. The [type of 
+manager] [has/have] acted as advisor[s] to the Issuer in relation to the pricing of the Loan. 
+The [type of manager] will be able to hold position in the Loan. 
+ 
+/ Other: (specify)] 
+Interests and conflicts of interest 
+[The involved persons in the Issuer or offer of the Bonds have no interest, nor conflicting interests that are 
+material to the Bond Issue. 
+/ Other: (specify)] 
+ 
+Rating 
+[There is no official rating of the Loan. 
+ 
+The Issuer is rated as follows: 
+Scope A- Stable, 
+/ Other: (specify)] 
+ 
+Listing of the Loan: 
+[As defined in the Base Prospectus section 15.3] 
+ 
+The Prospectus will be published in [country]. An application for listing at [Exchange] will be sent as soon as 
+possible after the Issue Date. Each bond is negotiable. 
+Statement from the [type of manager]: 
+[name of manager[s]] [has/have] assisted the Issuer in preparing the prospectus. The [type of manager] [has/have] 
+not verified the information contained herein. Accordingly, no representation, warranty or undertaking, express or 
+implied, is made, and the [type of manager] expressively disclaim[s] any legal or financial liability as to the accuracy 
+or completeness of the information contained in this prospectus or any other information supplied in connection with 
+bonds issued by the Issuer or their distribution. The statements made in this paragraph are without prejudice to the 
+responsibility of the Issuer. Each person receiving this prospectus acknowledges that such person has not relied 
+on the [type of manager] nor on any person affiliated with them in connection with its investigation of the accuracy 
+of such information or its investment decision. 
+ 
+ 
+ 
+[place], [date] [name of manager[s]] 
+[web address of manager[s]] 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52
+
+--- Page 62 ---
+Tomra Systems ASA
+Final Terms - [Title of Notes]
+ISIN [ISIN]
+17
+ 
+ 
+ 
+Docusign Envelope ID: E339FDEF-36A1-496C-8249-A0798FE11D52

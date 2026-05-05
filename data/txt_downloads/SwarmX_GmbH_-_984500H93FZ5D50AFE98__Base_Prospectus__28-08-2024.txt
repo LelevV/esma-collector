@@ -1,0 +1,1882 @@
+--- Page 1 ---
+pg. 1 
+ 
+ 
+This Base Prospectus is dated 28 August 2024 and has been approved by the Liechtenstein Financial 
+Market Authority (FMA) as a competent reviewing body as a base prospectus under the Prospectus 
+Regulation (EC) 2017/1129 on 28 August 2024. 
+SwarmX GmbH 
+(incorporated in Berlin / Germany) 
+Program on the Issuance and Offer of Stock Certificate Token 
+Under the terms of the Program on the Issuance and Offer of Stock Certificate Token (the Program) 
+described in this Base Prospectus (the Base Prospectus), SwarmX GmbH, Witzlebenplatz 4, 14057 Berlin, 
+Germany, HRB 237948 B, LEI 984500H93FZ5D50AFE98 (SwarmX), subject to compliance with all 
+applicable laws and regulations, may from time-to-time issue Stock Certificate Token (the Products) which 
+may in the following be traded OTC and on suitable platforms or exchanges. Each Product will be subject to 
+the terms and conditions set forth in this Base Prospectus (the Terms and Conditions), as amended from 
+time to time and as completed by the relevant final terms relating to such Product (the Final Terms). In the 
+event of any inconsistency between the Terms and Conditions and the Final Terms, the Final Terms shall 
+prevail. 
+The Products are Stock Certificate Token (debt instruments) relating to underlying asset(s) to be specified 
+in the relevant Final Terms. Underlying assets will be limited to shares and rights related to shares as well 
+as bonds listed on exchanges (together: the “Stock”). Neither the Products nor the Issuer are or are expected 
+to be rated. 
+The Products have not been and will not be registered under the U.S. Securities Act of 1933, as amended 
+(the Securities Act) or with any securities regulatory authority of any State or other jurisdiction of the United 
+States and (i) may not be offered, sold or delivered within the United States to, or for the account or benefit 
+of U.S. Persons (as defined in Regulation S (Regulation S) under the Securities Act), except pursuant to an 
+exemption from, or in a transaction not subject to, the registration requirements of the Securities Act and 
+applicable state securities laws and (ii) may be offered, sold or otherwise delivered at any time only to 
+transferees that are Non- United States Persons (as defined by the U.S. Commodities Futures Trading 
+Commission). 
+Important Notices: 
+The Securities issued in relation to Products under the Program are derivative financial instruments (debt 
+instruments). The Products do not constitute collective investment schemes within the meaning of the 
+Liechtenstein Law concerning specific undertakings for collective investments in transferable Securities 
+(UCITSG), the Liechtenstein Law concerning the Managers of Alternative Investment Funds (AIFMG) or the 
+Liechtenstein Law on Investment Undertakings (IUG) or the Swiss Federal Act on Collective Investment 
+Schemes (CISA) and are, therefore, neither governed by the UCITSG, the AIFMG, the IUG or the CISA nor 
+are they subject to authorization and supervision by the Liechtenstein Financial Market Authority (FMA) or 
+any other supervisory authority. Accordingly, holders of the Products do not have the benefit of specific 
+investor protection provided under any of the before cited legal acts. The Issuer is not and will not be 
+regulated by the Liechtenstein FMA or any regulator as a result of issuing the Products. The Products are 
+not and will not be issued, guaranteed, or secured in an equivalent manner by a third party. 
+This Base Prospectus was approved by the Liechtenstein Financial Markets Authority, Landstrasse 
+109, 9490 Vaduz, Principality of Liechtenstein as competent authority under Regulation 2017/1129/EC 
+(the “Prospectus Regulation”) on 28 August 2024 and is valid until 28 August 2025. In case of 
+significant new factors, material mistakes or material inaccuracies the Issuer is obliged to establish 
+a supplement to the Prospectus. The Issuers obligation to supplement a prospectus does not apply 
+when a prospectus is no longer valid. 
+The FMA only approves a security prospectus as meeting the standards of completeness, comprehensibility 
+and consistency imposed by Regulation (EC) 2017/1129. Such approval should not be considered as an 
+endorsement of the Issuer or a confirmation of the quality of the securities offered under this Prospectus. 
+Investors should make their own assessment as to the suitability of investing in the securities. 
+IMPORTANT INFORMATION 
+General Sales Restrictions 
+THE PRODUCTS ARE NOT FOR DISTRIBUTION TO ANY U.S. PERSON OR ANY PERSON OR 
+ADDRESS IN THE UNITED STATES OR IN ANY OTHER JURISDICTION TO WHICH A DISTRIBUTION 
+WOULD BE UNLAWFUL. 
+This Base Prospectus does not constitute, and may not be used in connection with, an offer or solicitation in 
+any place where offers or solicitations are not permitted by law. If the laws or regulation of a jurisdiction 
+require that an offering of securities described herein be made by a licensed broker or dealer and any other 
+party involved (each as defined in the Base Prospectus) or any affiliate of any other party is a licensed broker 
+or dealer in that jurisdiction, the offering shall be deemed to be made by such other party or such affiliate on 
+behalf of the Issuer or holders of the applicable securities in such jurisdiction.
+
+--- Page 2 ---
+pg. 2 
+ 
+ 
+The offering or sale of the Products in certain jurisdictions may be restricted by law including because of the 
+Underlying. For a description of certain restrictions on offers and sales of Products and on the distribution of 
+this Base Prospectus, see section “Selling Restrictions”. Persons who obtain possession of this Base 
+Prospectus and/or the Final Terms are required to inform themselves about and to adhere to any such 
+restrictions. Neither this Base Prospectus nor the Finale Terms constitute or may be used for the purposes 
+of, an offer or solicitation to subscribe for or to purchase any Product in any jurisdiction in which such an offer 
+or solicitation is not authorized or to any person to whom it is unlawful to make such an offer or solicitation. 
+Accordingly, this Base Prospectus and the Final Terms should not be used by anyone for this purpose. 
+United States 
+You must read the following before continuing. The following applies to the Base Prospectus following this 
+notice, and you are therefore advised to read this carefully before reading, accessing, or making any other 
+use of the Base Prospectus. In accessing the Base Prospectus, you agree to be bound by the following terms 
+and conditions, including any modifications to them any time you receive any information from the Issuer or 
+the other involved parties (each as defined in the Base Prospectus) as a result of such access. 
+NOTHING IN THIS ELECTRONIC TRANSMISSION CONSTITUTES, MAY BE USED FOR THE PURPOSE 
+OF, OR MAY BE CONSTRUED AS, AN INVITATION, AN OFFER OR A SOLICITATION OF SECURITIES 
+FOR SALE OR FOR SUBSCRIPTION IN ANY JURISDICTION WHERE IT IS UNLAWFUL TO DO SO. 
+THE PRODUCTS HAVE NOT BEEN AND WILL NOT BE REGISTERED UNDER THE U.S. SECURITIES 
+ACT OF 1933, AS AMENDED (THE "SECURITIES ACT") OR WITH ANY SECURITIES REGULATORY 
+AUTHORITY OF ANY STATE OR OTHER JURISDICTION OF THE UNITED STATES AND (I) MAY NOT 
+BE OFFERED, SOLD OR DELIVERED WITHIN THE UNITED STATES TO, OR FOR THE ACCOUNT OR 
+BENEFIT OF U.S. PERSONS (AS DEFINED IN REGULATION S UNDER THE SECURITIES ACT), 
+EXCEPT ACCORDING TO AN EXEMPTION FROM, OR IN A TRANSACTION NOT SUBJECT TO, THE 
+REGISTRATION REQUIREMENTS OF THE SECURITIES ACT AND APPLICABLE STATE SECURITIES 
+LAWS AND (II) MAY BE OFFERED, SOLD OR OTHERWISE DELIVERED AT ANY TIME ONLY TO 
+TRANSFEREES THAT ARE NON-UNITED STATES PERSONS (AS DEFINED BY THE U.S. 
+COMMODITIES FUTURES TRADING COMMISSION). THE BASE PROSPECTUS MAY NOT BE 
+FORWARDED OR DISTRIBUTED TO ANY OTHER PERSON AND MAY NOT BE REPRODUCED IN ANY 
+MANNER WHATSOEVER. IN PARTICULAR, IT MAY NOT BE FORWARDED TO ANY U.S. ADDRESS. 
+ANY FORWARDING, DISTRIBUTION, OR REPRODUCTION OF THIS TRANSMISSION IN WHOLE OR IN 
+PART IS UNAUTHORIZED. FAILURE TO COMPLY WITH THIS DIRECTIVE MAY RESULT IN A 
+VIOLATION OF THE SECURITIES ACT OR THE APPLICABLE LAWS OF OTHER JURISDICTIONS. IF 
+YOU HAVE GAINED ACCESS TO THIS TRANSMISSION CONTRARY TO ANY OF THE FOREGOING 
+RESTRICTIONS, YOU ARE NOT AUTHORIZED AND WILL NOT BE ABLE TO PURCHASE ANY OF THE 
+SECURITIES DESCRIBED HEREIN. 
+European Economic Area 
+This Base Prospectus is a “prospectus” for the purposes of Regulation (EU) 2017/1129 (the Prospectus 
+Regulation) and has been approved as meeting the requirements imposed under EU law pursuant to the 
+Prospectus Regulation. The Base Prospectus has been prepared on the basis that any offer of securities in 
+any member state of the European Economic Area (EEA) which has implemented the Prospectus Regulation 
+will be made pursuant to an exemption under the Prospectus Regulation from the requirement to publish a 
+prospectus for offers of securities except in the following jurisdictions: Liechtenstein, Germany, Luxembourg, 
+France, Spain and Italy or any other jurisdictions to which notifications in the meaning of Art 25 of the 
+Prospectus Regulation have been made (the Non-Exempt Offer Jurisdictions). 
+Neither the Issuer nor any other involved party (each as defined in the Base Prospectus) has authorized, nor 
+do they authorize, the making of any offer of securities in circumstances in which an obligation for a 
+prospectus to be published arises under the Prospectus Regulation in any other jurisdictions than the Non-
+Exempt Offer Jurisdictions. 
+Confirmation of your warranties 
+In order to be eligible to view the Base Prospectus or make an investment decision with respect to the 
+securities being offered, prospective Investors must be permitted under applicable law and regulation to 
+receive the Base Prospectus. By accessing the Base Prospectus, you shall be deemed to have warranted 
+to the Issuer, the Authorized Participant and the other involved parties that (i) you and any customers you 
+represent are outside the United States and any jurisdiction in which receiving or accessing the Base 
+Prospectus cannot lawfully be made without compliance with registration or other legal requirement, (ii) you 
+are a person who is permitted under applicable law and regulation to receive the Base Prospectus, (iii) you 
+will use this Base Prospectus for the sole purpose of evaluating a possible investment in a Product, and (iv) 
+you acknowledge that no person is authorized to give any information or make any representation in 
+connection with a Product or an offering that is not contained in this Base Prospectus and the related Final 
+Terms. 
+Cautioning regarding completeness and true copy of Base Prospectus 
+The Base Prospectus has been made available to you in an electronic form. Please ensure that your copy 
+of the Base Prospectus is complete.
+
+--- Page 3 ---
+pg. 3 
+ 
+ 
+Issuer not licensed or registered 
+The Issuer of the Products, SwarmX GmbH, is incorporated under the laws of Germany. The issuer is neither 
+licensed nor registered with the Liechtenstein Financial Markets Authority. 
+Further Important Notices 
+No person is authorized to provide any information or to make any representation not contained in or not 
+consistent with this Base Prospectus, the Final Terms or any other information supplied by the Issuer in 
+connection with the Program. Investors should not rely upon information or representations that have not 
+been given or confirmed by the relevant Issuer. Except in the circumstances described below, the Issuer has 
+not authorized the making of any offer by any offeror, and the Issuer has not consented to the use of this 
+Base Prospectus by any other person in connection with any offer of the Products in any jurisdiction. Any 
+offer made without the consent of the Issuer is unauthorized and the Issuer does not accept any responsibility 
+or liability in relation to such offer or for the actions of the persons making any such unauthorized offer. 
+The Issuer and its affiliates (which directly, or indirectly through one or more intermediaries, controls or is 
+controlled by, or is under common control with, the Issuer), if any, may hold, retain, buy or sell Products, the 
+Underlying or the Underlying Components (each, as defined in the section headed “Terms and Conditions”) 
+at any time. See “Risks Factors Relating to the Issuer—Potential Conflicts of Interest”. They may also enter 
+into transactions relating to Products or derivatives of Products, in such amounts, with such purchasers 
+and/or counterparties and at such prices (including at different prices) and on such terms as any such entity 
+may determine, be it as part of its business and/or any hedging transactions as described in this Base 
+Prospectus or for any other reason. There is no obligation upon the Issuer to sell all the Products of any 
+issue. The Products of any issue may be offered or sold in one or more transactions in the over-the-counter 
+market or otherwise at prevailing market prices or in negotiated transactions, at the discretion of the Issuer, 
+subject as provided above. 
+Neither this Base Prospectus nor any other information supplied in connection with the Program (i) is to be 
+used as the basis of any credit assessment or other evaluation or (ii) is to be considered as a 
+recommendation by the Issuer that any recipient of this Base Prospectus (or any other information supplied 
+in connection with the Program) should purchase any Products. Each Investor contemplating the purchase 
+of any Products should make its own independent enquiries regarding the financial condition and business 
+development of the Issuer and its own appraisal of their creditworthiness. 
+Neither this Base Prospectus nor any other information supplied in connection with the Program constitutes 
+an offer or an invitation by or on behalf of the Issuer or any person to subscribe for or to purchase any 
+Products. The delivery of this Base Prospectus does not at any time imply that the information contained 
+herein concerning the Issuer is correct at any time subsequent to the date hereof or that any other information 
+supplied in connection with the Program is correct as of any time subsequent to the date indicated in the 
+document containing the same. 
+The Products may not be a suitable investment for all Investors. Each potential Investor in the Products must 
+determine the suitability of that investment in light of its own circumstances. In particular, each potential 
+Investor may wish to consider, either on its own or with the help of its financial and other professional 
+advisers, whether it: (i) has sufficient knowledge and experience to make a meaningful evaluation of the 
+Products, the merits and risks of investing in the Products and the information contained or incorporated by 
+reference in this Base Prospectus or any applicable supplement; (ii) has access to, and knowledge of, 
+appropriate analytical tools to evaluate, in the context of its particular financial situation, an investment in the 
+Products and the impact the Products will have on its overall investment portfolio; (iii) has sufficient financial 
+resources and liquidity to bear all of the risks of an investment in the Products, including Products with 
+principal in one or more currencies, or where the currency for principal is different from the potential Investor's 
+currency; (iv) understands thoroughly the terms of the Products; and (v) is able to evaluate possible scenarios 
+for economic, interest rate and other factors that may affect its investment and its ability to bear the applicable 
+risks. 
+The Issuer shall prepare a supplement (each a Supplement) to this Base Prospectus or publish a new base 
+prospectus if there is a significant change affecting any matter contained in this Base Prospectus or a 
+significant new matter arises, the inclusion of information in respect of which would have been so required if 
+it had arisen when this Base Prospectus was prepared or in any other situation required under Art 23 of the 
+Prospectus Regulation. 
+The language of this Base Prospectus is English. Certain legislative references and technical terms have 
+been cited in their original language in order that the correct technical meaning may be ascribed to them 
+under additional law. 
+This Base Prospectus contains information extracted from a range of technical and non-technical digital 
+sources, including (but not limited to) documents provided by service providers to the Issuer, their websites, 
+and industry publications. Where third-party information is used in this Base Prospectus, the source of such 
+information is stated. The Issuer confirms that such information has been accurately reproduced and that, 
+so far as it is aware, and is able to ascertain from information published by each of the relevant sources, no 
+facts have been omitted which would render the reproduced information inaccurate or misleading. 
+An investment into any of the Products does not have the status of a bank deposit and is not within the scope 
+of any deposit protection scheme. The Issuer is not and will not be regulated by any regulator as a result of 
+issuing the Products.
+
+--- Page 4 ---
+pg. 4 
+ 
+ 
+During the term of the Products, the Product-Related Documents as well as this Base Prospectus and the 
+Final Terms can be downloaded at www.swarmx.net. 
+No representation, warranty, or undertaking, express or implied, is made and no responsibility or liability is 
+accepted by any other involved party (as described in the Base Prospectus) as to the accuracy or 
+completeness of the information contained herein, or any other further information supplied in connection 
+with the Product or its distribution. 
+CAUTIONARY 
+STATEMENT 
+REGARDING 
+FORWARD 
+LOOKING 
+STATEMENTS 
+Some statements in this Base Prospectus may be deemed to be forward-looking statements. Forward 
+looking statements include statements concerning the Issuer's plans, objectives, goals, strategies, future 
+operations and performance, and the assumptions underlying these forward-looking statements. When used 
+in this Base Prospectus, the words "anticipates", "estimates", "expects", "believes", "intends", "plans", "aims", 
+"seeks", "may", "will", "should" and any similar expressions generally identify forward-looking statements. 
+The Issuer has based these forward-looking statements on its current view concerning future events and 
+financial performance. Although the Issuer believes that the expectations, estimates, and projections 
+reflected in its forward-looking statements are reasonable as of the date of this Base Prospectus, if one or 
+more of the risks or uncertainties materialize, including those identified in the section captioned "Risk Factors" 
+or which the Issuer has otherwise identified in this Base Prospectus, or if any of the Issuer's underlying 
+assumptions prove to be incomplete or inaccurate, events relating to the Issuer and the Issuer's actual results 
+may be materially different from those expected, estimated or predicted. 
+Without prejudice to any requirements under applicable laws and regulations, the Issuer expressly disclaims 
+any obligation or undertaking to disseminate after the date of this Base Prospectus any updates or revisions 
+to any forward-looking statements contained herein to reflect any change in expectations thereof or any 
+change in events, conditions or circumstances on which any such forward-looking statement is based.
+
+--- Page 5 ---
+pg. 5 
+ 
+ 
+Table of Contents 
+ 
+IMPORTANT INFORMATION .............................................................................................. 1 
+CAUTIONARY STATEMENT REGARDING FORWARD LOOKING STATEMENTS ............. 4 
+OVERVIEW .......................................................................................................................... 7 
+A. INTRODUCTION AND WARNINGS ................................................................................. 7 
+B. KEY INFORMATION ON THE ISSUER ............................................................................ 7 
+C. KEY INFORMATION ON THE PRODUCTS ISSUED UNDER THE PROGRAM .............. 8 
+D. KEY INFORMATION ON THE OFFER OF THE NOTES TO THE PUBLIC ......................... 9 
+RISK FACTORS ................................................................................................................. 11 
+I. GENERAL RISKS .......................................................................................................... 11 
+II. RISK FACTORS RELATING TO THE ISSUER ............................................................... 12 
+III. RISK FACTORS RELATING TO THE PRODUCTS ........................................................ 12 
+IV. RISKS RELATING TO THE OFFER ............................................................................... 14 
+V. RISKS RELATED TO OTHER PARTIES TO THE PROGRAM ........................................ 14 
+INFORMATION ABOUT THE ISSUER ............................................................................... 14 
+GENERAL INFORMATION ON THE ISSUER .................................................................... 14 
+INFORMATION ON THE BODIES OF THE ISSUER .......................................................... 15 
+BUSINESS ACTIVITIES OF THE ISSUER .......................................................................... 16 
+AUDITED FINANCIAL STATEMENTS OF THE ISSUER AND MATERIAL CHANGES ....... 17 
+ECONOMIC OVERVIEW OVER THE PRODUCTS ............................................................. 17 
+PROGRAM ON THE ISSUANCE AND OFFER OF STOCK CERTIFICATE TOKEN ........... 17 
+A. Tokenization .................................................................................................................. 17 
+B. Transferability of Stock Certificate Token OTC (bilateral) and on trading platforms .... 19 
+C. Yield .............................................................................................................................. 20 
+TERMS AND CONDITIONS ............................................................................................... 21 
+FORM OF FINAL TERMS .................................................................................................. 26 
+PART A - CONTRACTUAL TERMS ................................................................................... 26 
+PART B - OTHER INFORMATION ..................................................................................... 28 
+SELLING RESTRICTIONS ................................................................................................. 29 
+GENERAL .......................................................................................................................... 29 
+TARGET MARKET ............................................................................................................. 29 
+UNITED STATES ............................................................................................................... 29 
+EUROPEAN ECONOMIC AREA ........................................................................................ 29 
+TAXATION ......................................................................................................................... 30 
+GENERAL INFORMATION ................................................................................................ 31 
+AUTHORIZATION .............................................................................................................. 31 
+SIGNIFICANT CHANGE .................................................................................................... 31 
+DEFINITIONS .................................................................................................................... 32 
+RESPONSIBILITY .............................................................................................................. 34 
+ANNEX I ............................................................................................................................. 35 
+ANNEX II ............................................................................................................................ 42
+
+--- Page 6 ---
+pg. 6
+
+--- Page 7 ---
+pg. 7 
+ 
+ 
+OVERVIEW 
+A. 
+INTRODUCTION AND WARNINGS 
+SwarmX GmbH, Witzlebenplatz 4, 14057 Berlin, Germany registration no. HRB 237948 B, LEI 
+984500H93FZ5D50AFE98, issues transferable Stock Certificate Token under the Program on the Issuance 
+and Offer of Stock Certificate Token (the Program) on the basis of this Base Prospectus dated 28 August 
+2024 (as supplemented) in conjunction with Final Terms specific to the issue of each Product. 
+This Base Prospectus was approved by the Finanzmarktaufsicht Liechtenstein, Landstrasse 109, Postfach 
+279, 9490 Vaduz (info@fma-li.li) on 28 August 2024. Final Terms relating to a specific Product will be filed 
+with the FMA and will, together with this Base Prospectus, be made available at the website of the Issuer at 
+www.swarmx.net. 
+This overview contains a description of the main features and risks relating to the Issuer, the securities offered 
+under the Program and the counterparties. The overview should always be read together with the Base 
+Prospectus (as supplemented) and the Final Terms (incl. an issue-specific summary) for a specific Product. 
+A thorough examination of the full Base Prospectus and the Final Terms is therefore recommended prior to 
+any decision to purchase or subscribe to Products issued under the Program. Investors have to consider that 
+they are about to invest in financial products which are complex and not easy to understand and which bear 
+the risk that Investors may lose all or part of the invested capital. The Issuer points out that in the event that 
+claims are brought before a court based on the information contained in the Base Prospectus, the Final Terms 
+or the issue-specific summaries the plaintiff investor may, under national law of the member states of the 
+European Economic Area (EEA), have to bear the costs of translating the Base Prospectus and the Final 
+Terms prior to the commencement of proceedings. In addition, the Issuer points out that the Issuer SwarmX, 
+who tables the issue-specific summaries including any translation thereof may be held liable in the event that 
+such summary is misleading, inaccurate or inconsistent when read together with the Base Prospectus or the 
+Final Terms or where it does not provide, when read together with the Base Prospectus or the Final Terms, 
+key information in order to aid investors when considering whether to invest in the securities. 
+B. 
+KEY INFORMATION ON THE ISSUER 
+Who is the Issuer of the Securities? 
+SwarmX GmbH, Witzlebenplatz 4, 14057 Berlin, Germany, registration no. HRB 237948 B, LEI 
+984500H93FZ5D50AFE98 is a limited liability company under the laws of Germany and was incorporated and 
+registered in Company Registry Berlin-Charlottenburg on 21 January 2022 for an unlimited duration. 
+The Issuer has been established as a special purpose vehicle for the purpose of issuing stock certificate token 
+and other asset-related tokens. The sole shareholder of the Issuer is Swarm Capital GmbH, c/o Audina 
+Treuhand AG, Landstr. 37, 9490 FL-Vaduz (FL-0002.608.155-1). 
+The managing directors of SwarmX GmbH are Philipp Pieper and Timo Lehes. 
+The statutory auditor of the Issuer is Ausborn & Partner mbB, Wirtschaftsprüfungsgesellschaft 
+Steuerberatungsgesellschaft, Barmbeker Markt 42, 22081 Hamburg. 
+What is the key financial information regarding the Issuer? 
+The Issuer is a newly incorporated entity, thus, no historical financial information in addition to the audited 
+financial accounts as of 31.12.2022 and 31.12.2023 are available. As of the date hereof, the share capital of 
+SwarmX GmbH amounts to 25.000 EUR, divided into 25.000 shares, of which 12.500 EUR are paid in. 
+The financial year of the Issuer ends on 31 December of each year. Annual accounts as of 31.12.2022 and 
+31.12.2023 are enclosed as Annex to this Prospectus. The business year 2022 resulted in a loss of EUR 
+8’453.00, the business year 2023 ends with a loss in the amount of EUR 9’404.54. 
+What are the key risks that are specific to the Issuer? 
+Risks relating to the Issuer’s business activities 
+The Issuer has been newly established in January 2022 and does not have a long and comprehensive track 
+record. 
+The Issuer is a special purpose vehicle with the sole business of issuing Products under the Program or 
+products of similar characteristics. The Issuer has, and will have, no assets other than its initial capital and 
+future fees it intends to obtain in context with the issue of Stock Certificate Tokens or similar products.
+
+--- Page 8 ---
+pg. 8 
+ 
+ 
+Legal and regulatory risks 
+Regulation of the Issuer by any regulatory authority 
+The Issuer is not required to be licensed or authorized under any current securities, commodities, or banking 
+laws of its jurisdiction of incorporation and will operate without supervision by any authority in any jurisdiction. 
+There is no assurance, however, that regulatory authorities in one or more jurisdictions would not take a 
+contrary view regarding the applicability of any such laws to the Issuer. The taking of a contrary view by such 
+regulatory authority could have an adverse impact on the Issuer or the holders of the Products. 
+C. 
+KEY INFORMATION ON THE PRODUCTS ISSUED UNDER THE PROGRAM 
+What are the main features of the securities? 
+The Securities issued under the Program are tokenized bearer stock certificates (debt instruments) under 
+German law. The Stock Certificate Tokens are issued upon request and solicitation of holders of public stocks 
+or bonds listed on traditional exchanges such as the New York Stock Exchange, London Stock Exchange or 
+Frankfurt Stock Exchange (the Underlying). The Issuer offers tokenization services to such stockholders and 
+issues Stock Certificate Token against delivery of the corresponding Underlying to the Issuer or, once 
+appointed, to a Custodian. 
+Rights attached to the securities 
+The Stock Certificate Tokens do not have a maturity date. Tokenholders are entitled to demand delivery of 
+the Underlying from the Issuer and, if and once appointed, from the Custodian at any time and do hold a 
+pledge in the Underlying held by the Issuer, or, if and once appointed, the Custodian. 
+If Dividends or Debt Service for the Underlying are paid and received by the Issuer or, if and once appointed, 
+the Custodian, the Issuer or the Custodian, as applicable, will forward such Dividends or Debt Service to a 
+service provider for the conversion (the Conversion Service Provider) and the Conversion Service Provider 
+will convert such Dividends or Debt Service into corresponding Stable Coins. Tokenholders are entitled to 
+claim Dividend or Debt Service payments in Stable Coins via a Dividend Smart Contract. Until this point in 
+time, the Tokenholders claim to receive Dividends or Debt Service will be secured by a lien on the Dividends 
+or Debt Service. 
+The Stock Certificate Tokens are transferable and may be traded by Tokenholders OTC on a bilateral basis. 
+The Issuer may further decide to list the token and make them tradeable at platforms or exchanges holding 
+necessary licenses, which platforms or exchanges may be whitelisted by the Issuer. 
+Ranking of the securities in the event of insolvency 
+The Stock Certificate Tokens constitute unsubordinated obligations of the Issuer and, if and once appointed, 
+the Custodian to deliver, at the request of the Tokenholder, the Specific Underlying to the Tokenholder. 
+Tokenholders do however hold a pledge on the Underlying held by the Issuer and are thus preferentially 
+treated in case of insolvency of the Issuer. 
+What are the key risks that are specific to the securities? 
+Risks relating to the liquidity of the Notes 
+Duration and potential lack of liquid markets 
+The Stock Certificate Token do not have a fixed term and do not mature. 
+The only means through which a Tokenholder will be able to realize value from a Product will be to redeem it 
+or sell it at its then market price in a secondary transaction, i.e. OTC on a bilateral basis or through a qualified 
+and licensed platform or exchange on which the Token may have been listed by the Issuer. As of the date of 
+this Base Prospectus, the Stock Certificate Token will only be transferable on a bilateral basis. The Issuer has 
+not listed the Token on any (crypto) exchange or platform. It isunclear, due to pending regulatory questions, 
+when qualified and licensed platforms will be available, whether those have to be structured as OTFs or MTFs 
+or whether other specific types of crypto-platforms will become licensable to operate as a trading platform for 
+security token (such as the Stock Certificate Token) 
+In case of redemption, Tokenholders will receive the Underlying as well as outstanding Dividends and Debt 
+Service and will thus be exposed to the performance and value, as of the date of the redemption, of the 
+Underlying. 
+Risk relating to the Underlying 
+The Products are issued in the course of tokenization of stock or bonds listed and trading on exchanges (the 
+Underlying). Tokenholders have the right to demand delivery of the corresponding Underlying.
+
+--- Page 9 ---
+pg. 9 
+ 
+ 
+The value of an investment in the products however may not perfectly reflect or track the value of the 
+Underlying. At any time, the price at which any Underlying trades on stock exchanges, regulated or 
+unregulated markets within the EEA or abroad or any other exchange or market on which they may be quoted 
+or traded may not accurately be reflected in changes to the value or price of the Stock Certificate Token. The 
+value and price of Stock Certificate Tokens will typically be a function of supply and demand amongst 
+Tokenholders wishing to sell and investors wishing to buy such Products. 
+Investing in Stock Certificate Token is not the same as investing in the Underlying 
+Investing in Stock Certificate Tokens is not the same as making an investment or holding the relevant 
+underlying assets of the relevant Product. The return from holding Stock Certificate Tokens is not the same 
+as the return from buying or holding the Underlying. 
+Performance of the Underlying 
+Prospective investors should note that the Stock Certificate Token, their value, and performance is, to a certain 
+extent, linked to the performance of the Underlying. Accordingly, prospective investors should be aware that 
+the Stock Certificate Tokens may be adversely affected by risks applicable to the Underlying. 
+In particular, the value of an Underlying can go down as well as up and the past performance of an Underlying 
+will not be indicative of its future performance. There can be no assurance as to the future performance of any 
+Underlying. The Stock Certificate Token may trade differently from the performance of the Underlying and 
+changes in the value of the Underlying may not result in a comparable change in the market value of the Stock 
+Certificate Token. 
+Dividend and Debt Service Entitlement and Redemption 
+Stock Certificate Token do entitle Tokenholders to receive Dividends and Debt Service paid by the Underlying 
+in Stable Coins only. If Dividends and Debt Service are paid by an Underlying, such Dividends and Debt 
+Service will be obtained by the Issuer or, if and once appointed, the Custodian and forwarded to the 
+Conversion Service Provider that will, in the following, convert the Dividends and Debt Service received in the 
+corresponding Stable Coins, i.e. in Stable Coins being pegged to the currency in which the dividends or the 
+debt service payments have been paid, as long as Stable Coins are available under acceptable conditions for 
+the respective currency; it is in the free discretion of the Issuer to decide if this is the case or not and to use 
+US Dollar or EUR based Stable Coins instead. Such dividends and debt service payments will then be made 
+available in a Smart Contract. 
+Dividend and Debt Service payments will thus be made in Stable Coins and will not be made automatically. 
+Dividend payments and Debt Service Payments need to be claimed by Tokenholders. If dividends or debt 
+service payments are not claimed before redemption of a Token, the Tokenholder having redeemed his Token 
+is no longer entitled and can no longer claim these amounts which have been paid but not claimed. 
+D. 
+KEY INFORMATION ON THE OFFER OF THE NOTES TO THE PUBLIC 
+Under which conditions and timetable can I invest in this security? 
+Investors may at any time approach the Issuer and request the issue of Stock Certificate Token against 
+delivery of appropriate Underlying. The terms of such tokenization will be individually agreed between the 
+parties and the terms of such Stock Certificate Token will be defined in Final Terms before its issue. The Offer 
+Period for specific Stock Certificate Tokens will start at the later of (i) the first day Final Terms for such Product 
+are properly filed and published and (ii) the date specified in the Final Terms. 
+Stock Certificate Token, once issued, are transferable and may be traded by Tokenholders through OTC 
+Contracts on a bilateral basis or on licensed crypto-asset platforms and exchanges on which the Stock 
+Certificate Token may be listed by the Issuer (if any). 
+The Offer Period ends with the end of the (prolonged) validity period of this Base Prospects or at a date 
+specified in the Final Terms. 
+Expenses 
+Costs related to the issue of Stock Certificate Token will be defined in the Final Terms and are to be borne by 
+the investor requesting such issue. 
+Why is this Prospectus being produced? 
+SwarmX has been established with the purpose to offer services in context with blockchain related business 
+operations. In context with the Program, SwarmX specifically offers tokenization services and issues Stock 
+Certificate Token.
+
+--- Page 10 ---
+pg. 10 
+ 
+ 
+Stock Certificate Token created and issued by SwarmX are transferable and may be traded through OTC 
+trades or on licensed crypto-platforms or exchanges once the Token have been listed on such platforms or 
+exchanges by the Issuer. 
+This Prospectus is meant to describe the offering of the tokenization services by SwarmX detailing 
+the main features of the Stock Certificate Token. 
+For its services in context with the issue and redemption of Stock Certificate Tokens, the Issuer charges the 
+following fees: 
+Token Issuance Fee: The Issuer will charge fees related to the token issuance based on up to 100 BPS (1%) 
+of the financial value of the issuance. The Issuer will claim these fees in kind from the Underlying. So e.g. if 
+the Issuer tokenizes 1000 X-shares for an investor, then the fee is 10 shares, which are transferred to the 
+Issuer, and the investor receives 990 Stock Certificate Tokens. 
+Token Redemption Fee: The Issuer will charge fees related to the token redemption based on up to 100 BPS 
+(1%) of the financial value of the redemption. The Issuer will claim these fees in kind from the Underlying. So 
+e.g. if the Issuer redeems 1000 Stock-Tokens from a Tokenholder, then the fee is 10 shares (bonds), which 
+are transferred to the Issuer, and the Stock-Tokenholder receives 990 Underlying. 
+The fee described above includes all the expenses related to the services offered by service providers of the 
+Products, including administration fees, custodian fees (if any) and other fees owed to service providers 
+mentioned in this Base Prospectus or the Final Terms. In addition, trading fees may accrue if Tokenholders 
+trade and transfer their Stock Certificate Token OTC or on licensed platforms or exchanges on which the 
+Token may be listed by the Issuer. 
+Conflicts of Interest 
+The Issuer Swarm X GmbH is a 100 % subsidiary of Swarm Capital GmbH, Liechtenstein. The sole 
+shareholder in Swarm Capital GmbH in turn is Philipp Pieper. 
+The Issuer does not participate in any form in the financial results and business operations of any of its direct 
+or indirect shareholders and none of the direct or indirect shareholders does (directly or indirectly) participate 
+in fees related to tokenization and redemption of the Products (other than through receipt of dividends, if any).
+
+--- Page 11 ---
+pg. 11 
+ 
+ 
+RISK FACTORS 
+Certain capitalized terms used in this section are defined in the Terms and Conditions and/or the Final Terms. 
+The Issuer believes that the factors described below represent the principal risks inherent in investing in the 
+Products. There may however be other, additional risks leading to the inability of the Issuer or any of the 
+Parties involved in the Program to comply with their obligations under the Program and the Issuer does not 
+warrant that the statements below regarding the risks are exhaustive. Before making an investment decision, 
+prospective Investors in the Products should consider carefully, in the light of their own financial 
+circumstances and investment objectives, all the detailed information set out elsewhere in this Base 
+Prospectus and the respective Final Terms in order to reach their own views before making any investment 
+decision. 
+I. 
+GENERAL RISKS 
+This Base Prospectus identifies in general terms certain information that a prospective investor is advised to 
+consider prior to making an investment in the Products. However, a prospective investor is advised, without 
+any reliance on the Issuer or any of their respective Affiliates, to conduct its own thorough analysis (including 
+its own accounting, legal and tax analysis) prior to deciding whether to invest in any of the Products issued 
+under the Program. Any evaluation of the suitability for an investor of an investment in Products issued under 
+the Program depends upon a prospective investor’s particular financial and other circumstances, as well as 
+on specific terms of the relevant Product and, if it does not have experience in financial, business and 
+investment matters sufficient to permit it to make such a determination, it is advised to consult with its financial 
+adviser prior to deciding whether or not to make an investment in the Products. 
+The Products are complex, structured debt products involving a significant degree of risk. In particular, an 
+investment in the Products linked to certain underlying assets is only appropriate for investors that also 
+understand the risks associated with the underlying assets. The Products may involve a high degree of risk 
+and potential investors should be prepared to sustain a loss of all or part of their investment. 
+The Products may therefore not be a suitable investment for all investors. Each potential investor in the 
+Products is advised to determine the suitability of that investment in light of its own circumstances and is 
+advised to consult with its legal, business, tax advisers and such other advisers as it deems appropriate to 
+determine the consequences of an investment in the Products and to arrive at its own evaluations of the 
+investment. 
+In particular, each potential investor is advised to: 
+(a) 
+be financially sophisticated in that it either (i) has the requisite knowledge and experience in financial, 
+business and investment matters and of investing in investments offering a similar economic exposure 
+to the Products, and access to, and knowledge of, appropriate resources, to evaluate the information 
+contained in this document and the relevant Final Terms and the merits and risks of an investment in 
+the Products in the context of such investors’ financial position and circumstances; or (ii) if it does not 
+have such knowledge, experience and access, have consulted with appropriate advisers who do have 
+such knowledge, experience and access; 
+(b) 
+understand thoroughly the terms of the Products and be familiar with the behavior of the market of the 
+Products and any underlying assets relating to a particular Product; and 
+(c) 
+have an asset base sufficiently substantial as to enable it to sustain any loss that they might suffer as 
+a result of an investment in the Products and have sufficient financial resources and liquidity to bear 
+all of the risks of an investment in the Products including, without limitation, any currency exposure 
+arising from the currency for payments, including Stable Coins and cryptocurrencies, potentially being 
+different to the prospective investor’s currency. 
+This Base Prospectus is not, and does not purport to be, investment advice, and none of the Issuer or any 
+other Offeror makes any recommendation as to the suitability of the Products as an investment. The provision 
+of this Base Prospectus to prospective investors is not based on any prospective investor’s individual 
+circumstances and should not be relied upon as an assessment of suitability for any prospective investor to 
+invest in the Products. Even if the Issuer or an Offeror possess limited information as to the objectives of any 
+prospective investor, this will not be deemed sufficient for any assessment of suitability for such person of 
+the Products. Any trading or investment decisions a prospective investor takes are in reliance on its own 
+analysis and judgment and/or that of its advisers and not in reliance on the Issuer or any of the Offerors. 
+In particular, each prospective investor in the Products must determine, based on its own independent review 
+and such professional advice as it deems appropriate under the circumstances, that its acquisition of the 
+Products (i) is fully consistent with its (or, if it is acquiring the Products in a fiduciary capacity, the beneficiary’s) 
+financial needs, objectives and condition, (ii) complies and is fully consistent with all investment policies, 
+guidelines and restrictions applicable to it (whether acquiring the Products as principal or in a fiduciary 
+capacity) and (iii) is a fit, proper and suitable investment for it (or, if it is acquiring the Products in a fiduciary 
+capacity, for the beneficiary), notwithstanding the clear and substantial risks inherent in investing in or holding 
+the Products.
+
+--- Page 12 ---
+pg. 12 
+ 
+ 
+Each prospective investor in Products is advised to have sufficient financial resources and liquidity to bear all 
+of the risks of an investment in the relevant Products, including, without limitation, where the currency for 
+payments is different from the potential investor’s currency, the associated currency exposure. 
+Investment activities of certain investors are subject to investment laws and regulations or review or regulation 
+by certain authorities. Each prospective investor is advised to therefore consult its legal advisers to determine 
+whether and to what extent (i) the Products are legal investments for it, (ii) if relevant, the Products can be 
+used as underlying securities for various types of borrowing and (iii) other restrictions apply to its purchase 
+or, if relevant, pledge, of any of the Products. Financial institutions are advised to consult their legal advisers 
+or the appropriate regulators to determine the appropriate treatment of the Products under any applicable 
+risk-based capital or similar rules. 
+II. 
+RISK FACTORS RELATING TO THE ISSUER 
+Risks relating to the Issuer’s business activities 
+The Issuer has been newly established in January 2022 and does not have a long and comprehensive track 
+record. 
+The Issuer is a special purpose vehicle with the sole business of issuing Products under the Program or 
+products of similar characteristics. The Issuer has, and will have, no assets other than its initial capital and 
+future fees it intends to obtain in context with the issue of Stock Certificate Tokens or similar products. 
+Legal and regulatory risks 
+Regulation of the Issuer by any regulatory authority 
+The Issuer is not required to be licensed or authorized under any current securities, commodities, or banking 
+laws of its jurisdiction of incorporation in order to be allowed to offer the services as further described in this 
+Base Prospectus and will operate without supervision by any authority in any jurisdiction. There is no 
+assurance, however, that regulatory authorities in one or more jurisdictions would not take a contrary view 
+regarding the applicability of any such laws to the Issuer. The taking of a contrary view by such regulatory 
+authority could have an adverse impact on the Issuer or the holders of the Products. 
+III. 
+RISK FACTORS RELATING TO THE PRODUCTS 
+Risks Relating to the Stock Certificate Token 
+The Products issued and offered under the Program are tokenized bearer stock certificates (debt instruments) 
+under German law. The Stock Certificate Tokens are issued upon request and solicitation of holders of public 
+stocks or bonds listed on traditional exchanges such as the New York Stock Exchange, London Stock 
+Exchange or Frankfurt Stock Exchange (the Underlying). The Issuer offers tokenization services to such 
+stockholders and issues Stock Certificate Token against delivery of the corresponding Underlying to the 
+Issuer or, if and once appointed, a Custodian. 
+Stock Certificate Tokens are transferable and may be sold and traded OTC on a bilateral basis or on 
+authorized crypto platforms and exchanges once and if whitelisted by the Issuer. As the regulatory 
+treatment of security token and related platforms and exchanges and their providers is still uncertain 
+in some aspects, there is no guarantee that Stock Certificate Token may be tradeable on such 
+platforms (other than platforms qualifying as OTF or MTF) and exchanges in due course or at all. 
+Dividend Entitlement and Redemption 
+Stock Certificate Token do entitle Tokenholders to receive Dividends or Debt Service paid by the Underlying 
+in Stable Coins only. If Dividends are paid by an Underlying, such Dividends or Debt Service will be obtained 
+by the Issuer or, if and once appointed, by the Custodian (who will forward them to the Issuer). The Issuer 
+will, in the following, convert the Dividends or Debt Service received in the corresponding Stable Coins 
+through a Conversion Service Provider, i.e. in Stable Coins being pegged to the currency in which the 
+dividends or Debt Service have been paid as long as Stable Coins are available under acceptable conditions 
+for the respective currency; it is in the free discretion of the Issuer to decide whether this is the case and to 
+use US Dollar or EUR based Stable Coins instead. Such dividends or Debt Service will then be made 
+available in a Smart Contract. 
+Dividend or Debt Service payments will thus be made in Stable Coins and will not be made automatically. 
+Dividend or Debt Service payments need to be claimed by Tokenholders. If dividends or Debt Service are 
+not claimed before redemption of a Token although having been expressively alerted to that fact, the 
+Tokenholder having redeemed his Token is no longer entitled and can no longer claim dividends or Debt 
+Service which have been paid but not claimed. 
+Risks relating to the liquidity of the Notes 
+Duration and potential lack of liquid markets 
+     Stock Certificate Tokens do not have a fixed term and do not mature.
+
+--- Page 13 ---
+pg. 13 
+ 
+ 
+The only means through which a Tokenholder will be able to realize value from a Product will be to redeem 
+it or sell it at its then market price in a secondary transaction, i.e. OTC on a bilateral basis or through a 
+qualified and licensed platform or exchange once and if the Token has      been listed on such platform or 
+exchange by the Issuer. As of the date of this Base Prospectus, neither has the Base Prospectus been 
+registered nor have Stock Certificate Token been listed on such crypto exchanges or platforms by the Issuer 
+and it is unclear when (and if) the Issuer will be able to do so, it is specifically unclear, due to pending 
+regulatory questions, when qualified and licensed platforms will be available. 
+In case of redemption, Tokenholders will receive the Underlying and will thus be exposed to the performance 
+and value, as of the date of the redemption, of the Underlying. 
+Risk relating to the Underlying 
+The Products are issued in the course of tokenization of stock or bonds listed and trading on exchanges (the 
+Underlying). Tokenholders have the right to demand delivery of the corresponding Underlying at any time. 
+The value of an investment in the products however may not perfectly reflect or track the value of the 
+Underlying. At any time, the price at which any Underlying trades on stock exchanges, regulated or 
+unregulated markets within the EEA or abroad or on any other exchange or market on which they may be 
+quoted or traded may not accurately be reflected in changes to the value or price of the Stock Certificate 
+Token. The value and price of Stock Certificate Tokens will typically be a function of supply and demand 
+amongst Tokenholders wishing to sell and investors wishing to buy such Products. 
+Investing in Stock Certificate Token is not the same as investing in the Underlying 
+Investing in Stock Certificate Token is not the same as making an investment or holding the relevant 
+underlying assets of the relevant Product. The return from holding Stock Certificate Tokens is not the same 
+as the return from buying or holding the Underlying. 
+Performance of the Underlying 
+Prospective investors should note that the Stock Certificate Token, their value and performance is, to a certain 
+extent, linked to the performance of the Underlying. Accordingly, prospective investors should be aware that 
+the Stock Certificate Token may be adversely affected by risks applicable to the Underlying. 
+In particular, the value of an Underlying can go down as well as up and the past performance of an Underlying 
+will not be indicative of its future performance. There can be no assurance as to the future performance of 
+any Underlying. The Stock Certificate Token may trade differently from the performance of the Underlying 
+and changes in the value of the Underlying may not result in a comparable change in the market value of the 
+Stock Certificate Token. 
+Technological Risks 
+Risk Factors related to Smart Contracts 
+Tokenization as well as trading activities and redemption of the Stock Certificate Tokens will be made through 
+and executed by Smart Contracts. 
+There is a risk of malfunctions of such Smart Contracts which may lead to a situation where transactions 
+cannot be (timely) completed, in exceptional circumstances, assets transferred may be lost with no 
+countervalue being transferred to the investor. 
+Risk Factors Related to Networks 
+The Class of digital asset investments is growing at a rapid pace though not all risks relating to the underlying 
+technology may be known. As new digital assets develop and attract interest from the development 
+community and investors, they may also become greater targets for exploitation. A hack to one digital asset’s 
+network may harm public perception of such asset’s network and other digital assets in general, thus 
+negatively impacting an investment in the Products. Some digital assets (and agreements to purchase digital 
+assets) may be or become subject to the securities laws or other regulation in one or more jurisdictions, which 
+may negatively impact the digital asset and have negative legal consequences and/or result in increased 
+expenses for the Purchaser. Investments in digital assets are highly speculative. 
+Regulation of digital assets continues to evolve, which may restrict the use of digital assets or 
+otherwise impact the demand for digital assets 
+Regulators and governments in various jurisdictions have focused on regulation of digital assets. Digital asset 
+market disruptions and resulting governmental interventions are, to some extent, unpredictable, and may 
+even make digital assets or certain digital assets illegal altogether. Future regulations and directives in some 
+jurisdictions may conflict with those of other jurisdictions and such regulatory actions may restrict or make 
+some or all digital assets illegal in some jurisdictions. Future regulations and directives may impact the 
+demand for digital assets and may also affect the ability of digital assets exchanges to operate and for other 
+market participants to enter into digital assets transactions. To the extent that future regulatory actions or 
+policies limit or restrict digital asset usage, digital asset trading or the ability to convert digital assets to fiat 
+currencies, the demand for digital assets may be reduced, which may adversely affect investments in the 
+Products.
+
+--- Page 14 ---
+pg. 14 
+ 
+ 
+Regulation of digital assets continues to evolve, the ultimate impact of which remains unclear and may 
+adversely affect, among other things, the availability, value, or performance of digital assets and, thus, the 
+Stock Certificate Tokens or assets invested in order to swap against Stock Certificate Tokens or digital assets 
+received in exchange for Stock Certificate Tokens. 
+Additional regulation or changes to existing regulation may also have the consequence that the Issuer may 
+be subject to a more complex regulatory framework and incur additional costs to comply with new 
+requirements as well as to monitor for compliance with any new requirements going forward. 
+IV. 
+RISKS RELATING TO THE OFFER 
+Investors wishing to use the tokenization services of the Issuer may approach the Issuer and request an offer 
+relating to the tokenization and issue of Stock Certificate Tokens relating to a certain Underlying. 
+Stock Certificate Tokens are transferable and may be traded in the form of OTC-Contracts on a bilateral basis 
+or on licensed crypto-platforms or exchanges, once available and once the Token have been listed by the 
+Issuer on such platforms or exchanges. 
+The acquisition of Stock Certificate Tokens through an OTC-Contract on a bilateral basis or a crypto exchange      
+or platform may be executed through Smart Contracts which bears the risk that, in case of malfunctions, the 
+Investor may not be able to complete a transaction or that the assets he transferred to the Seller, the OTC-
+Contract or the platform or exchange may be lost whilst he may not receive the Stock Certificate Tokens in 
+exchange. 
+V. 
+RISKS RELATED TO OTHER PARTIES TO THE PROGRAM 
+The Token Trustee 
+The Issuer may appoint a Token Trustee. If and once a Token Trustee is appointed, issue and redemption of 
+the Stock Certificate Token will be monitored by the Token Trustee. Prior to the appointment of a Token 
+Trustee, the role of such Token Trustee will be handled by the Issuer. Once the volume of issued Stock 
+Certificate Tokens reaches $10M, a third party will be appointed as Token Trustee. As of the date of the 
+Prospectus and until this threshold is reached, no Token Trustee is appointed. 
+Tokenholders must be aware that, in case of redemption, they will only receive the Underlying after having 
+transferred their Stock Certificate Token to the Issuer. There may be a (substantial) delay between delivery 
+of the Stock Certificate Token and the point in time when the Issuer (or, if and once appointed, the Token 
+Trustee) confirms receipt of a redemption request and corresponding Stock Certificate Token to the Issuer, 
+or, if and once appointed, the Custodian and the Issuer, or, if and once appointed, the Custodian delivers the 
+Underlying. Changes in the value of the Underlying will be at the risk of the Tokenholder. 
+The Custodian 
+The Underlying for the Stock Certificate Tokens will initially be held by the Issuer on an account earmarked 
+as being assets held for Tokenholders. In the future, the Issuer intends to appoint a Custodian to accept and 
+hold the Underlying. 
+ 
+INFORMATION ABOUT THE ISSUER 
+GENERAL INFORMATION ON THE ISSUER 
+Name, Registered Office, Location 
+SwarmX GmbH with registered office and address at Witzlebenplatz 4, 14057 Berlin, Germany, LEI 
+984500H93FZ5D50AFE98, is the issuer (the Issuer). The website of the Issuer is www.swarmx.net and the 
+contact e-mail for investors is investors@swarmx.net, the telephone number of the Issuer is +49 (30) 
+22184360. 
+Incorporation, Legal Form, Duration, Register Number 
+SwarmX GmbH was incorporated and registered in Berlin-Charlottenburg on 21.01.2022 as a limited liability 
+company under the laws of Germany for an unlimited duration. As of that day, SwarmX GmbH is registered 
+in the Berlin-Charlottenburg company registry under the number HRB 237948 B. 
+Purpose and Date of the Articles of Incorporation 
+The Issuer has been incorporated with resolution of the partners on 20.12.2021, the articles of incorporation 
+are dated 20.12.2021. The purpose of the Company according to Art 2 of its Articles of Incorporation is 
+offering services for business models using blockchain. 
+SwarmX GmbH is not authorized or subject to prudential supervision and does not offer any services which 
+would require a license or trigger such prudential supervision.
+
+--- Page 15 ---
+pg. 15 
+ 
+ 
+No Rating 
+No rating is available for the Issuer. 
+INFORMATION ON THE BODIES OF THE ISSUER 
+Managing Directors 
+The business and affairs of SwarmX are managed by the managing directors that exercise all such powers 
+necessary for managing, directing, and supervising the management of the business and affairs of the 
+company insofar these are not, according to the statutes or the articles of incorporation, required to be dealt 
+with by the general meeting of the partners. 
+The business address of the members of the board of directors is at SwarmX GmbH, Witzlebenplatz 4, 14057 
+Berlin, Germany. 
+The managing directors of SwarmX are Philipp Pieper and Timo Lehes. 
+Philipp Pieper is a recognized executive, technology entrepreneur and product strategist with broad 
+experience and reputation in blockchain and digital media. He has proven his ability to build large-scale data 
+products and sustainable digital business models and has extensive experience in the areas of strategic 
+leadership, digital product and business model design, recruiting and retaining exceptional technical talent, 
+and building trusted and industry-leading technology platforms. He inter alia held positions with Deutsche 
+Bank Capital Partners (Investment Manager, 2001-2002), Allianz Group (Chief of Staff, Growth Markets 
+(APAC, CEEMA, AU), 09/2002-04/2005), Proximic Inc. (Palo Alto) (Co-Founder & CEO, 04/2006 - 05/2015, 
+acquired by comScore), Swarm Network (Co-Founder and Executive Advisor Council Member, 11/2017-
+12/2019). He is Co-Founder of Loop Media Inc. (Palo Alto) since 02/2016 and Co-Founder and Managing 
+Director of Swarm Group (i.e. the entities Swarm Capital GmbH, Swarm Markets GmbH, SwarmX GmbH). 
+Timo Lehes is an experienced technology entrepreneur, investor and financial services professional. He has 
+made over 40 tech investments, resulting in 3 IPOs, multiple trade sales of portfolio companies. He inter alia 
+held positions with Speed Ventures (Portfolio Mgr, 2001-2002), Logan Orviss Intl (M&A Advisory, 2003-2008), 
+Chalmers Innovation (Fund Manager 2009-2013), Founder Scale.VC (Tech Investments, 2013-2016), 
+Beringer Finance (US Managing Director 2016-2018), Swarm Network (Co-Founder 2018-2019). Timo Lehes 
+is a board member of Aurigin Pte Ltd, a MAS licensed private equity brokerage platform. He is a SEC licensed 
+financial services professional. Since December 2023, he is managing director of Swarm Capital GmbH, 
+Vaduz (Liechtenstein) and SwarmX GmbH, Berlin. 
+There are currently no conflicts of interest between the managing directors of the Issuer and the private 
+interests of the managing directors. No conflicts of interest are generated by the fact that the before stated 
+persons hold functions in several entities of the Swarm Group. If the Issuer whitelists the Swarm platform in 
+the future, the Swarm platform is interested in having tokens listed on the Swarm platform. Therefore, the 
+Issuer and the Swarm platform are having aligned interests. Since the Issuer does not participate in any form 
+in the financial results and the transactions on the Swarm platform and the Swarm platform does not 
+participate in fees related to tokenization and redemption of the Products, there is no conflict of interest related 
+to the business operations of the affiliated entities 
+Founder and Shareholder 
+Swarm Markets GmbH, Germany, was the founder of the Issuer. Today, Swarm Capital GmbH, Liechtenstein, 
+is the sole shareholder of SwarmX. The sole shareholder in Swarm Capital GmbH in turn is Philipp Pieper. 
+Stock Certificate Tokens may be listed on crypto exchanges or platforms, inter alia a Platform operated by 
+Swarm Capital GmbH.  
+     
+ 
+Auditor(s) 
+The statutory auditor of the Issuer is Ausborn & Partner mbB, Wirtschaftsprüfungsgesellschaft 
+Steuerberatungsgesellschaft, Barmbeker Markt 42, 22081 Hamburg.
+
+--- Page 16 ---
+pg. 16 
+ 
+ 
+BUSINESS ACTIVITIES OF THE ISSUER 
+Business 
+The Issuer has been established in order to provide services for business models using the blockchain. The 
+Issuer’s business operations are, as of the date of this Base Prospectus, limited to the business operations 
+described in this Prospectus, i.e. the issue of Stock Certificate Tokens and related operations (e.g. entering 
+into contracts with service providers, redemption of Stock Certificate Token). The Issuer may engage in 
+additional though similar business operations relating to other assets than the Underlying of the Products as 
+described in this Prospectus in the future. 
+For its services, the Issuer charges fees to the Tokenholders in context with the issue and redemption of 
+Stock Certificate Token under the Program. The income generated through these fees is considered sufficient 
+by the Issuer in order to cover its operating costs. 
+The Issuer is targeting European investors, including retail investors, that are interested in Stock Certificate 
+Token programs. 
+The Issuers competitors may be companies that are offering the tokenization of stocks and support listing on 
+platforms that are licensed to operate as security token exchanges in Europe. As of the date of this 
+Prospectus, no such platform with any relevant business volume is licensed for substantial listing 
+and trading activities. It is expected that, in the course of the next few years, several security token 
+exchanges will develop substantial business in Europe. 
+The Issuer has already, on the basis of a Base Prospectus dated 22.09.2022, issued the following Stock 
+Certificate Token: 
+Stock Certificate Token on APPLE INC.  
+ 
+ 
+ 
+ISIN 
+CH1231365359 
+Stock Certificate Token on Blackrock Inc. Class A Shares 
+ 
+ISIN 
+CH1275377237 
+Stock Certificate Token on COINBASE GLB.CL.A 
+ 
+ 
+ISIN 
+CH1247171502 
+Stock Certificate Token on COUPANG INC.REG.SHARES 
+ 
+ISIN 
+CH1275377302 
+Stock Certificate Token on INTEL CORP SHARES 
+ 
+ 
+ISIN 
+CH1275377203 
+Stock Certificate Token on ISHARES $ TREASURY BOND 0-1 YR ETF 
+ISIN 
+CH1237059089 
+Stock Certificate Token on ISHARES $ TREASURY BOND 1-3 YR ETF 
+ISIN 
+CH1237059071 
+Stock Certificate Token on MICROSOFT DL-,00000625  
+ 
+ISIN 
+CH1275377344 
+Stock Certificate Token on MICROSTRATEGY INC. 
+ 
+ 
+ISIN 
+CH1275377229 
+Stock Certificate Token on NVIDIA CORP Registered 
+ 
+ 
+ISIN 
+CH1275377294 
+Stock Certificate Token on TESLA INC.DL-,001  
+ 
+ 
+ISIN 
+CH1247816114 
+ 
+Business Outlook & Trends 
+As the token economy has tremendously developed over the last years and gradually includes all asset 
+classes, it is to be expected that the asset class of tokenized stock and stock certificates will also develop 
+rapidly. The basis for this development is a sound regulatory concept mirroring all regulatory requirements 
+already applicable to financial instruments, particularly in terms of public offerings and trading on token 
+exchanges. Since those prerequisites are now fulfilled, the Issuer expects to see substantial growth. There 
+are no substantial detrimental developments in the market which might have a substantial impact on the 
+Issuer, its business prospects, or its financial situation. 
+This statement arises from the fact that stock certificate tokens are linked to the underlying stock or bonds. 
+Therefore, the performance and valuation follows the performance and valuation of the underlying stock or 
+bonds. This distinguishes them from cryptocurrencies such as Bitcoin or Ether, which are not linked to an 
+underlying asset and solely depend on whether market participants believe that the respective cryptocurrency 
+will be in sufficient demand and use in the future to maintain or increase its value. Since there is no reference 
+to an underlying asset, cryptocurrencies naturally are much more susceptible to price fluctuations. 
+If so-called stable coins - claiming to be stably pegged to a FIAT currency - are issued, it also depends on 
+whether such stable coin is credibly backed by assets. If it turns out that this is not the case, the market could 
+lose confidence in the claim and the Stable Coin could quickly lose value. 
+However, the Issuer considers it to be highly unlikely that Stock Certificate Token will be subject to such 
+volatility or to volatility as seen recently in the cryptocurrency market because a Stock Certificate Token      is 
+undeniably backed by real stock. Stock Certificate Token will thus rather follow the market developments of 
+such Underlying and are expected to show a volatility correlating to that of the Underlying rather than that of 
+(unrelated) cryptocurrencies such as Bitcoin. 
+Pending or threatened litigations or administrative proceedings 
+The Issuer has not been involved in any governmental, legal or arbitration proceedings which may have or 
+have had during the 12 months preceding the date of this Base Prospectus a significant effect on the financial 
+position or prospects of the Issuer or the group's financial position or profitability nor are, so far as the Issuer 
+is aware, any such proceedings pending or threatened.
+
+--- Page 17 ---
+pg. 17 
+ 
+ 
+ 
+Capital and voting rights of the Issuer 
+As of the date hereof, the share capital of SwarmX GmbH amounts to 25.000 EUR, divided into 25.000 
+shares, of which 12.500 EUR are paid in. 
+AUDITED FINANCIAL STATEMENTS OF THE ISSUER AND MATERIAL CHANGES 
+The financial year of the Issuer ends on 31 December of each year. The Issuer was incorporated in January 
+2022, therefore, no historical financial information is available other than the audited financial accounts of the 
+Issuer as of 31.12.2022 and 31.12.2023, which are made available as Annex to this Base Prospectus. 
+The financial statements have been established and audited in accordance with German accounting 
+principles. 
+Material Agreements 
+The Issuer has not entered into agreements out of its regular business operations which might have a material 
+impact on the ability of the Issuer to comply with its obligations and to perform its duties as set forth in this 
+Prospectus. 
+ECONOMIC OVERVIEW OVER THE PRODUCTS 
+PROGRAM ON THE ISSUANCE AND OFFER OF STOCK CERTIFICATE TOKEN 
+On  April 1, 2024 the Issuer established a program (the Program) for the issuance and offer of Stock 
+Certificate Token (the Products) as further described in this Base Prospectus and Final Terms for each 
+Product. 
+A. Tokenization 
+1. Tokenization Process 
+The Issuer supports investors as a technical service provider in that it issues Stock Certificate Tokens (the 
+Stock Tokens or Products) upon request of investors and against delivery of underlying assets 
+(Tokenization). As such underlying assets, stocks or bonds listed on traditional exchanges such as the New 
+York Stock Exchange, London Stock Exchange, or Frankfurt Stock Exchange (the Underlying) are accepted. 
+For the purpose of Tokenization, interested parties (Stockholder) contact the Issuer soliciting the issuance 
+of Stock Certificate Tokens. In a first step, a Stockholder has to qualify as an acceptable counterparty to the 
+Issuer through an onboarding process whereby the Issuer may be supported by service providers. Such 
+onboarding entails habitual KYC, AML and other qualification processes as required by financial institutions 
+(Onboarding). 
+After onboarding, the Stockholder transfers the underlying assets to the Issuer or, if and once appointed, to 
+a Custodian named by the Issuer in exchange for receipt of Stock Certificate Tokens. 
+For each specific stock or bond, i.e. each specific Underlying, specific Stock Certificate Tokens are issued. 
+The Tokenization process is a step-by-step process where the delivery of the respective underlying assets 
+into an account maintained by the Issuer, or, if and once appointed, the Custodian, triggers the minting and 
+issue of Stock Certificate Tokens: (i) the Stockholder is instructed to transfer the underlying assets to the 
+Issuer or, if and once appointed, the Custodian; (ii) the Issuer or, if and once appointed, the Custodian 
+confirms receipt of the assets , and (iii) the Issuer forwards the Stock Certificate Tokens to a Wallet specified 
+by the Stockholder (Wallet). 
+The process of solicitation and tokenization is based on a technical protocol accessible through the webpage 
+of the Issuer (www.swarmx.net) with a detailed step-by-step explanation. The solicitation has to be inserted 
+into a smart contract based on the Ethereum blockchain (Smart Contract). If and once a Token Trustee is 
+appointed, said Token Trustee will assume some tasks currently performed by the Issuer and perform further 
+tasks aimed at protecting the Tokenholders, as defined in a separate agreement. 
+In case of the appointment of both a Custodian and a Token Trustee, the following overview shows the 
+Tokenization process including timeline:
+
+--- Page 18 ---
+pg. 18 
+ 
+ 
+ 
+ 
+2. Main Features of Stock Certificate Token / Rights of Tokenholders 
+Stock Certificate Tokens represent a Tokenholders entitlement to demand delivery of the shares or 
+bonds corresponding to the shares or bonds contributed by him against receipt of the Stock 
+Certificate Tokens from the Issuer or, if and once appointed, from the Custodian at any time. In any 
+event, Tokenholders do hold a pledge in the Underlying they transferred to the Issuer (or the 
+Custodian).
+
+--- Page 19 ---
+pg. 19 
+ 
+ 
+If Dividends or Debt Service for the Underlying are paid and received by the Issuer or, if and once 
+appointed, the Custodian, the Issuer or Custodian (as applicable) will forward such assets to the Conversion 
+Service Provider that will convert Dividends and Debt Service into FIAT Stable Coins (Stable Coins). The 
+Conversion Service Provider will deposit such Stable Coins into a specific smart contract for each specific 
+Stock Certificate Token (Dividend Smart Contract), where each Tokenholder can claim their prorated 
+amounts into their personal wallet based on their Stock Certificate Token holdings. Such a claim by the Stock-
+Tokenholder can be made at any time (and not only in case of redemption). The Conversion Service Provider 
+will regularly supply the Dividends and Debt Service into the Dividend Smart Contract, at the latest at the end 
+of each quarter after receipt. 
+3. 
+Redemption of Stock Certificate Tokens 
+At any point in time, a Tokenholder may redeem his Stock Certificate Token and claim the Underlying. 
+The redemption request can be placed by the Tokenholder directly in a Smart Contract with the procedure 
+being further explained in detail on the webpage of the Issuer and in the Terms and Conditions. Redemption 
+requests are executed regularly, at a minimum once a month or more often whenever there are redemption 
+requests corresponding to redemption amounts exceeding €100,000. 
+Upon receipt of a redemption request and the corresponding Stock Certificate Token, the Underlying is 
+delivered by the Issuer or, if and once appointed, by the Custodian to the Tokenholder’s account 
+(Redemption) and the burning of the corresponding Stock Certificate Tokens in the Smart Contract is 
+triggered (Burning). If and once a Token Trustee is appointed, said Token Trustee will assume some tasks 
+currently performed by the Issuer and perform further tasks aimed at protecting the Tokenholders, as defined 
+in a separate agreement. These tasks can in particular be the monitoring of Smart Contracts, the receipt of 
+confirmations and the receipts and granting of redemption requests 
+Dividends and Debt Service must be claimed by Tokenholders before initiating a redemption request. The 
+Tokenholder will be alerted prior to finalizing the redemption request that he has to claim the Dividends and 
+Debt Service. Dividends and Debt Service not claimed in time will be allocated proportionally to all 
+Tokenholders with the same Underlying. 
+In case of the appointment of both a Custodian and a Token Trustee, the following overview shows the 
+Redemption process including a timeline: 
+ 
+ 
+B. Transferability of Stock Certificate Token OTC (bilateral) and on 
+trading platforms 
+1. 
+Trading through OTC Contracts 
+Stock Certificate Tokens are transferable and may be traded by Tokenholders in markets they chose via 
+OTC-Contracts, i.e. on a bilateral basis. 
+2. 
+Trading of Stock-Tokens through crypto-exchanges and platforms 
+The Issuer will further take best efforts to register the Base Prospectus with and to list Stock Certificate Token 
+for trading on licensed crypto-platforms or exchanges, if any. 
+The Issuer controls, through the Smart Contract, on which platform Stock Certificate Tokens will be listed and 
+made tradeable in the future. Stock Certificate Token will be made tradeable on appropriately licensed 
+platforms whitelisted by the Issuer only.
+
+--- Page 20 ---
+pg. 20 
+ 
+ 
+Tokenholders may then sell their tokens on such platforms or exchanges and in accordance with their rules. 
+The whitelisting of platforms by the Issuer is subject to such platforms      taking responsibility for ensuring 
+that all of their users that become Tokenholders are qualified based on compliance requirements. This 
+includes verification of identification via a dedicated Onboarding process. 
+Investors must be aware that, as of the date of this Prospectus, the Issuer has not yet « whitelisted » 
+any such Platform, the Stock Certificate Token are not listed on any such platform or exchange and 
+Tokenholders may, as of the date of this Prospectus, sell and transfer their Stock Certificate Token 
+only outside such platforms in bilateral (OTC) contracts. 
+C. Yield 
+The yield of a Product cannot be calculated at the issue date of a Product or at the date of this Base 
+Prospectus. 
+Tokenholders are generally exposed to the performance and yield (including dividend payments, if any) of 
+the Underlying as these data may impact on the value of a specific Stock Certificate Token and thus on the 
+price potential purchasers and traders are willing to pay. The performance of the Underlying is further decisive 
+as to dividends or debt service payments Tokenholders may claim (in Stable Coins). Furthermore, in case of 
+redemption, Tokenholders will receive the Underlying in kind. 
+The yield of a specific Product will furthermore depend on fees due in context with the tokenization, trade and 
+redemption of a Product, in addition, Tokenholders may be obliged to pay additional personal fees (e.g. for 
+advisors) as well as taxes depending on tax legislation they are subject to.
+
+--- Page 21 ---
+pg. 21 
+ 
+ 
+TERMS AND CONDITIONS 
+The Issuer may from time-to-time issue Products under the Program, linked to shares or rights related to shares 
+as well as bonds as listed on exchanges (the Underlying, each stock individually Specific Underlying). The 
+Products are transferable, and the Issuer takes best efforts to list the Products on trading platforms or 
+exchanges (Whitelisting) and allow the Stock Certificate Tokens to be tradeable on those platforms. 
+Products are therefore issued and offered on the terms and conditions set out in this section of the Base 
+Prospectus (Terms and Conditions) in conjunction with the respective Final Terms relating to the Products. 
+Capitalized terms in the Terms and Conditions not defined in this section will have the meaning set out in the 
+Final Terms. 
+Investors are deemed to have read and taken notice of the provisions of these Terms and Conditions, the Final 
+Terms and the Terms and Conditions of SwarmX GmbH. 
+Terms and Conditions 
+Terms defined elsewhere in this Base Prospectus form an integral part of these Terms and Conditions. A 
+reference table of all defined terms is set out in the Glossary. 
+1. 
+Product Type 
+The Products issued under the Program are tokenized bearer stock certificates (debt instruments) under 
+German law (Stock Certificate Tokens) within the meaning of § 2 Abs 31 WpHG (Wertpapierhandelsgesetz). 
+The Stock Certificate Token do not have a fixed maturity date. 
+2. 
+Securities - form and transferability 
+2.1 The Stock Certificate Token for each Product will be issued in the form of cryptographic tokens (Tokens) 
+created by the Issuer for the holders of Underlying (Underlying-Holders) according to the following 
+stipulations. The Stock Certificate Token will be issued on the ETH blockchain and the blockchain serves 
+as the register of Tokenholders and will be monitored by the Issuer. 
+The Stock Certificate Token are transferable on the Ethereum blockchain and can be traded OTC or on 
+authorized trading platforms to be whitelisted by the Issuer and on which the Stock Certificate Token are 
+listed by the Issuer. 
+3. 
+Tokenization 
+3.1 The Issuer offers tokenization services to investors wishing to obtain Stock Certificate Tokens against 
+delivery of the Underlying to the Issuer or, if and once appointed, a Custodian. Underlying assets are 
+limited to stocks or bonds listed on traditional exchanges such as the New York Stock Exchange, London 
+Stock Exchange, or Frankfurt Stock Exchange (the Underlying). 
+3.2 For the purpose of Tokenization, investors contact the Issuer via agent-onboarding@swarmx.net soliciting 
+the issuance of Stock Certificate Tokens. 
+In a first step, an investor must qualify as an acceptable counterparty to the Issuer through onboarding as 
+a client. Such onboarding entails habitual KYC, AML and other qualification processes as usually required 
+by financial institutions (Onboarding). 
+3.3 After onboarding, the investor transfers the Underlying to the Issuer or, if and once appointed, a Custodian 
+named by the Issuer in exchange for receipt of Stock Certificate Tokens. 
+3.4 For each specific stock or bond, i.e. each specific Underlying, specific Stock Certificate Tokens are issued. 
+The Tokenization process is a step-by-step process where the delivery of the respective Underlying into 
+an account maintained by the Issuer with, if and once appointed, a Custodian triggers the minting and 
+issue of Stock Certificate Tokens: 
+(i) the investor is instructed to transfer the Underlying to the Issuer or, if and once appointed, a 
+Custodian. 
+(ii) If and once a Custodian is appointed, the Custodian confirms receipt of the assets in an account held 
+by the Custodian and earmarked to hold assets of holders of Stock Certificate Token. The assets held in 
+such an account, if any, are segregated from other assets of the Custodian, the Issuer and other assets 
+held by the Custodian. If no Custodian is appointed, the Issuer will hold the assets in an account held by 
+the Issuer and earmarked to hold assets of holders of Stock Certificate Token. The assets held in such 
+an account, if any, are segregated from other assets of the Issuer and other assets held by the Issuer. 
+(iii) the Issuer issues the order to mint the new Tokens (Stock Certificate Tokens) for the Specific 
+Underlying. 
+(iv) the Issuer executes the Smart Contract forwarding Stock Certificate Tokens from the Issuer to a 
+Wallet specified by the Tokenholder (Wallet).
+
+--- Page 22 ---
+pg. 22 
+ 
+ 
+3.5 The Issue of Stock Certificate Tokens for a specific Underlying is not limited in terms of maximum volume 
+or maximum number of pieces. Stock Certificate Tokens can be issued on an ongoing basis whenever 
+investors wish such issuance      against delivery of corresponding Underlying and such request is 
+accepted by the Issuer. 
+3.6 The process of solicitation and tokenization is based on a technical protocol accessible through the 
+webpage of the Issuer (www.swarmx.net) with a detailed step-by-step explanation. The solicitation must 
+be inserted into a smart contract based on the Ethereum blockchain (Smart Contract). 
+4. 
+Rights of the Tokenholders 
+The Stock Certificate Token entitles      Investors to demand delivery of the Underlying from the Issuer or, if 
+and once appointed, the Custodian at any time against delivery of the corresponding Stock Certificate Token. 
+The Stock Certificate Token constitute unsubordinated obligations of the Issuer or the Custodian, as applicable, 
+to deliver, at the request of the Tokenholder, the Specific Underlying to the Tokenholder and rank pari passu 
+with each and all other current and future unsubordinated obligations of the Issuer or, if and once appointed, 
+the Custodian. Tokenholders do however hold a pledge in the Underlying held by the Issuer or, if and once 
+appointed, the Custodian. 
+If Dividends or Debt Service for the Underlying are paid and received by the Issuer or, if and once appointed, 
+the Custodian (Dividends, Debt Service), such Dividends or Debt Service will be forwarded to the Conversion 
+Service Provider that will convert Dividends and Debt Service into FIAT Stable Coins (Stable Coins). The 
+Conversion Service Provider will deposit such Stable Coins into a specific smart contract for each specific 
+Stock Certificate Token (Dividend Smart Contract), where each Tokenholder can claim their prorated 
+amounts into their personal wallet based on their Stock Certificate Token holdings (Dividend Claim). Such a 
+claim      by the Stock Certificate Tokenholder can be made at any time (and not only in case of redemption). 
+The Conversion Service Provider will regularly supply the dividends into the Dividend Smart Contract, at the 
+latest at the end of the quarter after receipt. 
+Prior to claiming Redemption according to section 5, the Tokenholder has to make the Dividend-Claim since 
+after Redemption, the Dividend Claim is no longer possible; the Tokenholder will be alerted that Dividends 
+need to be claimed when initiating the Redemption. Unclaimed      Dividend Claims are allocated proportionally 
+to all Tokenholders holding this Underlying. 
+Stock Certificate Tokens can furthermore be traded OTC (on a bilateral basis) and on authorized crypto 
+platforms      or exchanges once and if such platforms are whitelisted by the Issuer. 
+Investors holding and trading the Products have exposure to the performance of the Underlying. 
+5. 
+Redemption 
+The Products do not have a fixed maturity date. 
+5.1 Tokenholder Redemption 
+At any point in time, a Tokenholder may redeem his Stock Certificate Token and claim the Underlying. Such 
+claim is directly due to the Tokenholder against the Issuer or, if and once appointed, the Custodian (in case of 
+a Custodian being appointed: echter Vertrag zugunsten Dritter). Redemption requests are executed regularly, 
+at a minimum once a month or, if there is a minimal redemption amount (exceeding €100,000), at that point. 
+The redemption request can be placed by the Tokenholder directly in a Smart Contract in that the Tokenholder 
+delivers his Stock Certificate Tokens to the Issuer and gives further instructions related to the account the 
+Specific Underlying shall be delivered to (Target Account). 
+Upon receipt of a redemption request and corresponding Stock Certificate Tokens, the Underlying is delivered 
+by the Issuer, or, if and once appointed, the Custodian to the Tokenholders Target Account (Redemption). 
+Once the Underlying has been transferred to the account of the Tokenholder, the burning of the corresponding 
+Stock Certificate Tokens in the Smart Contract is triggered (Burning). 
+5.2 Issuer Redemption (Issuer Call Option) 
+If an event according to (i) and (ii) below occurs, which requires a discontinuation of the Stock Certificate 
+Tokens for one or several Specific Underlying or for one or multiple Tokenholder(s) (a Termination Event), 
+the Issuer has the right to terminate such Stock Certificate Token or a specific amount of Stock Certificate 
+Tokens at a date of its choice (the Termination Date) by notifying the Tokenholders at the earliest possible 
+date, in any event no later than 30 Business Days prior to the Termination Date (the Termination Notice). The 
+Issuer Call Option can be exercised 
+(i) 
+if compliance by the Issuer with obligations concerning the Underlying and/or the Stock Certificate Tokens 
+or any transaction in respect of these will become unlawful or impossible in whole or in part, in particular 
+as a result of the need for compliance by the Issuer with any future law, rule, regulation, judgment, order 
+or directive of any governmental, administrative, legislative or judicial authority or power or controlling 
+authority or of the relevant competent market authorities (a Regulatory Call);
+
+--- Page 23 ---
+pg. 23 
+ 
+ 
+Issuer may intermittently suspend the issue of Stock Certificate Tokens or trading activities of 
+Tokenholders with Stock Certificate Tokens at any time to investigate aforesaid issues. 
+(ii) in the event that any present or future taxes, duties or governmental charges would be imposed by any 
+jurisdiction in which the Issuer is or becomes subject to tax as a result of any change in laws or regulations 
+of the relevant jurisdiction which materially impact the sustainability of the operations of the Issuer. 
+The Issuer shall communicate the Termination Event to the respective Tokenholders immediately and the 
+Redemption process will start triggered by the Issuer unless, for regulatory reasons, a Redemption is not 
+possible at this point. 
+6. 
+Transferability of the Stock Certificate Tokens 
+Stock Certificate Token are fully transferable on the      Blockchain and Tokenholders may bilaterally (OTC) 
+sell their Stock Certificate Token (or buy Stock Certificate Token offered for sale by other Tokenholders). 
+Tokenholders may also trade their Stock Certificate Tokens OTC, through Liquidity Pools or otherwise on 
+licensed crypto exchanges and platforms whitelisted by the Issuer and once the Issuer has listed the Products 
+on such platform or exchange. As of the date of this Prospectus, the Issuer has not yet whitelisted any such 
+platforms and the Stock Certificate Token are not listed for trading on any such platform or exchange. 
+Offer Period 
+The Offer Period for specific Stock Certificate Tokens will start at the later of (i) the first day Final Terms for 
+such Product are properly filed and published and (ii) the date specified in such Final Terms. Unless specified 
+in the Final Terms, there will be no minimum or maximum volume and no minimum subscription volume or 
+price for a specific Stock Certificate Token. 
+The Offer Period ends with the earlier of (i) the end of the (prolonged) validity period of this Base Prospectus 
+or (ii) the date specified in the Final Terms for a Product. 
+7. 
+Safeguarding 
+The Smart Contracts on the basis of which the Stock Certificate Token are issued include a so-called 
+Safeguarding function. With the Safeguarding function, the Stock-Tokenholders have a governance function 
+enabling them to trigger the Redemption of Specific Stock Certificate Tokens. 
+Tokenholders can safeguard stake their Stock Certificate Tokens in the Smart Contract. Tokenholders can at 
+any time unstake their Stock Certificate Tokens until the state of the Smart Contract changes from Active to 
+Safeguard. 
+The Smart Contract irreversibly changes to Safeguard state if a simple majority of outstanding Specific Stock 
+Certificate Tokens are staked. In Safeguard state, the administration of the Smart Contract is taken over by a 
+predetermined guardian. 
+In Safeguard state, all transfers (specifically transfers of Stock Certificate Tokens to other pre-approved users) 
+are suspended with the exemption of redemptions in accordance with 5.1 above. 
+As soon as the Smart Contract switches into Safeguard state, a process of liquidation is triggered. The 
+Guardian will liquidate all Specific Underlying and Tokenholders of the staked Stock Certificate Token can claim 
+the proceeds of the liquidation (pro rata) in USD stable coin through the Smart Contract. 
+8. 
+Taxation 
+Each Tokenholder shall assume and be responsible for any and all taxes, duties, fees and charges imposed 
+on or levied against (or which could be imposed on or levied against) such Tokenholder in any jurisdiction or 
+by any governmental or regulatory authority in relation to the purchasing, holding, trading or redemption of the 
+Products. 
+The Issuer shall have the right, but not the duty, to withhold or deduct from any amounts otherwise payable to 
+a Tokenholder such amount as is necessary for the payment of such taxes, duties, fees and/or charges. 
+Tokenholders shall not be entitled to receive amounts to compensate for any amount so withheld or deducted. 
+If any governmental or regulatory authority imposes on the Issuer the obligation to pay any such taxes, duties, 
+fees and/or charges, the Tokenholder shall promptly reimburse the Issuer. 
+9. 
+Stock-Tokenholder Fee 
+9.1 Token Issuance Fee: The Issuer will charge fees related to the token issuance based on up to 100 BPS 
+(1     %     ), which fees are due in kind and will be deducted from the Underlying: 
+If the Issuer tokenizes e.g. 1000 X-shares, then the fee is 10 X-shares, which are transferred to the Issuer, 
+and the investor receives 990 Stock Certificate Tokens. 
+9.2 Token Redemption Fee: The Issuer will charge fees related to the token redemption based on up to 
+100 BPS (1     %     ), which fees are due in kind and will be deducted from the Underlying: 
+If the Issuer redeems 1000 Stock Certificate Tokens with 1000 X-Shares being the Underlying, the fee 
+is 10 X-shares, which are transferred to the Issuer, and the Stock-Tokenholder receives 990 X-shares. 
+The Token Redemption Fee does also apply in case of an Issuer Redemption.
+
+--- Page 24 ---
+pg. 24 
+ 
+ 
+9.3 The Token Issuance Fee and the Token Redemption Fee include all the expenses related to the services 
+offered by service providers of the Products, administration fees, custodian fees and other fees owed to 
+service providers mentioned in this Base Prospectus or the Final Terms. 
+Trades implemented on a platform and further services offered by such platform or exchange (e.g. in the 
+course of onboarding) may trigger additional fees (such as a Trading Fee) levied by the platform, which 
+are not included in the aforementioned      Stock-Tokenholder Fee. 
+10. Liability 
+10.1 The Issuer is liable on the merits and without contractual limitation only for damages suffered by a 
+Tokenholder: 
+(i) 
+which are based on an intentional or grossly negligent breach of duty by the Issuer and which are 
+damages resulting from injury to life, body or health, such as the breach of guarantees granted to 
+the Stock Tokenholder or damages due to fraudulent misrepresentation by the Issuer. The same 
+applies in the event of an intentional or grossly negligent breach of duty by a legal representative or 
+vicarious agent of the Issuer. The prescriptions of the German Product Liability Act 
+(Produkthaftungsgesetz) shall remain unaffected. 
+(ii) 
+and resulting from a slightly negligent breach of an essential obligation. The Issuer’s liability is limited 
+to the amount of damages that are foreseeable and typical for the type of business in question. 
+Essential duties are duties whose violation endangers the achievement of the purpose of the 
+contract or whose fulfillment makes the proper execution of the contract possible in the first place 
+and on whose compliance the Tokenholder regularly relies. 
+10.2 Any further liability of the Issuer is excluded. Insofar as the liability of the Issuer is excluded or limited, 
+this also applies to the personal liability of Issuer’ employees, representatives and vicarious agents as 
+well as to tortious claims. 
+10.3 The limitation period for all warranty rights of the Stock Tokenholder shall be 12 months unless 
+mandatory legal provisions require a longer limitation period. 
+11. No Tokenholder Representative 
+No Tokenholder Representative is appointed by the Issuer. 
+12. Notices 
+Notices to Tokenholders relating to Products will be made on the Issuers website www.swarmx.net in English 
+language. 
+13. Issuer’s covenant to deliver 
+The Issuer covenants with and undertakes to the Tokenholders that it shall ensure due and punctual discharge 
+of all liabilities whatsoever, including but not limited to the Issuers obligation to (if and once appointed, with the 
+involvement of the Custodian) deliver the Underlying to the Tokenholders against delivery of the corresponding 
+Token, which from time-to-time become due, owing, or payable by the Issuer on the basis of this Prospectus. 
+14. Pledge 
+14.1 The claim of each Tokenholder against the Issuer to have the Underlying delivered to this Tokenholder 
+during Redemption is secured by a lien pursuant to German law on the Underlying which the Issuer 
+grants to the Tokenholder. The claim of each Tokenholder to receive a Dividend or Debt Service under 
+this agreement will be secured by a lien pursuant to German law on the Dividends and Debt Service. 
+14.2 The Issuer has assigned the right to redeem the Underlying to the Tokenholder. 
+14.3 In case of an Event of Default, the Tokenholder is entitled to realiz     e the lien.  
+15. Events of Default 
+15.1 Event of Default (Realization Event) 
+An event of default (the Event of Default) occurs when 
+(i) 
+the Issuer, or, if and once appointed, the Custodian is subject to any form of winding up, 
+administration, receivership, insolvency or debt enforcement proceedings or arrangements with 
+creditors generally (each an Insolvency Event), 
+(ii) 
+the Issuer is in violation of the applicable law and forced by a regulator to cease its activity (the 
+Regulatory Violation Event), or 
+(iii) 
+the Issuer is in breach of the terms of this Prospectus or the Final Terms that results in a claim for 
+the Tokenholders, such as but not limited to situations where the Issuer does not honor a payment 
+or delivery commitment when it falls due or does not honor such a commitment in good time or 
+without defects, unless those defects are remedied within 3 Business Days. The point decisive for 
+the occurrence of a Realization Event shall be the first Business Day after a grace period of 3 
+Business Days has expired unused (the Non Payment Event). 
+In case of an Event of Default, a mandatory Redemption for all Stock Certificate Token following the steps 
+of section 5.2 will be triggered within 30 Business Days after an Event of Default. If and once a Custodian is 
+appointed, the Issuer will notify said Custodian promptly upon the occurrence of an Event of Default.
+
+--- Page 25 ---
+pg. 25 
+ 
+ 
+16. Substitution 
+The Issuer may at any time, without the consent of the Tokenholders, substitute for itself as obligor under the 
+Product any affiliate, subsidiary or holding company of the Issuer (the New Issuer), provided that the New 
+Issuer shall assume all obligations that the Issuer owes to the Tokenholders under or in relation to the Product 
+and provided that the Issuer guarantees performance by the New Issuer. If such substitution occurs, then any 
+reference in this Base Prospectus to the Issuer shall be construed as a reference to the New Issuer. Any 
+substitution will be promptly notified to the Stock-Tokenholders. In connection with any exercise by the Issuer 
+of the right of substitution, the Issuer shall not be obliged to carry any consequences suffered by individual 
+Tokenholders as a result of the exercise of such right and, accordingly, no Tokenholder shall be entitled to 
+claim from the Issuer any indemnification or repayment in respect of any consequence. 
+17. Modification of the Terms and Conditions and the Final Terms 
+The Issuer shall be entitled to amend without the consent of the Stock-Tokenholders any clause or item in the 
+relevant Final Terms for the purpose of (i) correcting a manifest error, or (ii) clarifying any uncertainty, or (iii) 
+correcting or supplementing the provisions herein in such manner as the Issuer deems necessary or desirable, 
+provided that, in the Issuer’s sole opinion, the Stock-Tokenholders would not incur significant financial loss as 
+a consequence thereof. The Issuer must immediately notify the investors of any change in the T&Cs, who may 
+object to the change within a period of six weeks. 
+Furthermore, the Issuer shall always be entitled to amend any clause or item in the relevant Final Terms where, 
+and to the extent that the amendment is necessitated as a consequence of legislation, decisions by courts of 
+law, or decisions taken by governmental authorities. 
+If and to the extent necessary, the Issuer will do so by filing and publishing a Supplement to the Prospectus in 
+accordance with Art. 23 of the Prospectus Regulation. 
+18. Governing Law and Jurisdiction 
+The Products are governed by and shall be construed in accordance with German law (without reference to 
+the conflicts of law principles). 
+Any dispute out of or in context with this Base Prospectus, the Products issued and offered thereunder and the 
+rights and obligations of the Issuer, the Custodian (if any), Tokenholders or any other party involved in the 
+Program shall be subject to the jurisdiction of the courts of Berlin.
+
+--- Page 26 ---
+pg. 26 
+ 
+ 
+FORM OF FINAL TERMS 
+FINAL TERMS DATED [•] 
+SWARM X GmbH 
+(incorporated in 10625 Berlin, Germany]) 
+Offer of 
+[•] 
+[•] (the Securities) 
+pursuant to the Issuer’s 
+Stock Certificate Token Program 
+ 
+This document constitutes the Final Terms of the Securities of the Product described herein. 
+PART A - CONTRACTUAL TERMS 
+Terms used herein shall be deemed to be defined as such for the purposes of the Terms and Conditions of 
+the Securities (the Terms and Conditions) issued by SwarmX GmbH, Witzlebenplatz 4, 14057 Berlin     , 
+Germany (SwarmX, the Issuer) as set forth in the Base Prospectus dated 28 August 2024 [as supplemented 
+by the Supplements thereto dated [•]] (the Base Prospectus).This document constitutes the Final Terms of 
+the Securities described herein and must be read in conjunction with the Base Prospectus (and any 
+supplement thereto). Full information on the Issuer and the offer of the Securities is only available on the 
+basis of the combination of these Final Terms and the Base Prospectus. The Base Prospectus (together 
+with any supplement thereto) and the Final Terms are available for viewing and download at the website of 
+the Issuer www.swarmx.net. 
+The Base Prospectus, together with the Final Terms, constitutes the prospectus with respect to the Securities 
+described herein for the purposes of the Regulation (EC) 2017/1129 (the Prospectus Regulation). 
+Initial Issue Date 
+[•] 
+Issue Size 
+[•] 
+Security Type 
+Debt instrument 
+Initial Issue Price 
+[•] 
+[Ratio] 
+[•] 
+[Base Currency] 
+[USD] / [EUR] / [other] 
+Underlying 
+[•] 
+ISIN of Underlying 
+[•] 
+Issuer of the Underlying 
+[•] 
+[Reference Source(s) for Underlying 
+prices] 
+[The Reference Source(s) for the price of the Underlying are:] 
+Redemption Amount 
+The Redemption Amount is calculated as follows: 
+[Number of Stock Certificate Tokens = (number of shares in the 
+Underlying - 100 BP/Underlying] [•]. 
+The Redemption Amount may also be subject to additional fees 
+related to the transfer assets. 
+Maturity Date 
+n/a, this is an open-ended Product 
+Tokenholder Redemption Date (put 
+date) 
+[at any time as chosen by the Tokenholder] [•] 
+[Cash Settlement] 
+n/a
+
+--- Page 27 ---
+pg. 27 
+ 
+ 
+Amount of any expenses and taxes 
+specifically charged to the subscriber 
+or purchaser 
+Except as set out in the Base Prospectus (section “Fees related 
+to the Products”), all expenses related to the services provided by 
+the service providers are included in the Tokenholder Fee. 
+Yield / Yield Calculation Method 
+[n/a] [•] 
+Minimum Investment Amount 
+[Not Applicable] / [•] 
+Minimum Trading Lot 
+[Applicable] [Not Applicable] [USD] [EUR] [CHF] [GBP] [•] 
+Tokenholder Fee 
+[•] 
+Security Type 
+[•tokenized uncertificated securities (Wertrechte)] 
+[•Ledger-based securities using the SX-4111 or SX1155 Token 
+Standards. The code of the smart contract-based securities 
+ledger for the ledger-based securities is available at: [•insert 
+etherscan.io. link] 
+The smart contract-based securities ledger runs on Ethereum 
+Virtual Machine (EVM) compatible public blockchain networks. E.g. 
+on the public Ethereum and Polygon network, both of which are 
+open source, globally decentralized computing infrastructures 
+using a distributed-ledger network to synchronize and store the 
+system’s state changes, along with the cryptocurrency called Ether 
+(and MATIC respectively) to meter and constrain execution 
+resource cost. The Ethereum network currently uses a Byzantine 
+fault-tolerant consensus algorithm for synchronization of state 
+updates 
+(a 
+proof-of-work 
+distributed-ledger 
+network) 
+and 
+cryptographic primitives such as digital signatures and hashes. 
+Tokenholders can access the information about the ledger-based 
+securities as well as the securities ledger entries and check the 
+integrity of the ledger at any time without any involvement of the 
+Issuer via [insert etherscan.io. link]. 
+The power of disposal over the ledger-based securities is solely 
+with the Investors. The smart-contract-based securities ledger 
+allows the Issuer to mint, freeze or unfreeze ledger-based 
+securities or whitelist account addresses. The issuer only executes 
+the free or unfreeze function if (i) the Issuer is compelled to do so 
+by a court or other governmental authority of competent jurisdiction 
+over the Issuer or laws or regulations applicable on the Issuer; and 
+(ii) such execution does not result in a violation of applicable laws 
+by the Issuer in the jurisdiction of its incorporation and is made in 
+compliance with the rules governing international legal and 
+administrative assistance in the jurisdiction of its incorporation. 
+Custodian 
+ n/a [•]  
+Token Trustee 
+ n/a [•] 
+Trading Platform 
+[Not Applicable] / [•] 
+Significant or material change 
+statement 
+[Save as disclosed in [refer to any relevant disclosure],] There has 
+been no significant change in the financial or trading position of the 
+Issuer and there has been no material adverse change in the 
+financial position or the prospects of the Issuer since [the date of 
+this Base Prospectus i.e. [•] /insert date of latest annual or interim 
+financial statements].] 
+Responsibility 
+The Issuer accepts responsibility for the information contained in 
+these Final Terms. To the best of the knowledge of the Issuer, 
+which has taken all reasonable care to ensure that such is the case, 
+the information contained in this Final Terms is in accordance with 
+the facts and contains no omission likely to affect its import. 
+Date of Board of Directors approval 
+of issuance 
+[•] 
+ 
+ 
+Signed on behalf of the Issuer as duly authorized representative: 
+By:
+
+--- Page 28 ---
+pg. 28 
+ 
+ 
+PART B - OTHER INFORMATION 
+Listing and admission to trading 
+[Not Applicable.] [•] 
+Interests of natural and legal persons 
+involved in the issue 
+[So far as the Issuer is aware, no person involved in the offer of 
+the Securities has an interest material to the offer] / [give details] 
+Additional Selling Restrictions 
+[Not Applicable] [specify] 
+Security Codes 
+ISIN: 
+• 
+Clearing Code (CFI / FISN): 
+•] 
+Clearing Systems 
+[n/a] 
+ 
+ 
+Terms and Conditions of the Offer  
+Offer Period 
+[[...] until end of validity of the Base Prospectus] [•] 
+Initial Offer Price: 
+[...] [Not Applicable] 
+ 
+ 
+Details of the minimum and/or 
+maximum amount of application: 
+[Not Applicable] / [provide details if applicable] 
+Manner in and date on which results 
+of the offer are made available to the 
+public: 
+[Not Applicable[ 
+Procedure for exercise of any right of 
+pre-emption, negotiability of 
+subscription rights and treatment of 
+subscription rights not exercised: 
+[Not Applicable] 
+Whether tranche(s) have been 
+reserved for certain countries: 
+[Not Applicable] 
+Process for notification to applicants 
+of the amount allotted and the 
+indication whether dealing may begin 
+before notification is made: 
+[Not Applicable] 
+Name(s) and address(es), to the 
+extent known to the Issuer, of the 
+places in the various countries where 
+the offer takes place: 
+Luxembourg / France / Spain / Italy / Liechtenstein / Germany / [•] 
+/ [•]
+
+--- Page 29 ---
+pg. 29 
+ 
+ 
+SELLING RESTRICTIONS 
+GENERAL 
+These selling restrictions may be modified by the Issuer following a change in a relevant law, regulation or 
+directive. Any such modification will be set out in the relevant Final Terms issued in respect of the issue of 
+the Products to which it relates or in a supplement to this Base Prospectus. 
+The Issuer does not represent that the Products may at any time lawfully be sold in compliance with any 
+applicable registration or other requirements in any jurisdiction, or pursuant to any exemption available 
+thereunder, and does not assume any responsibility for facilitating such sale. 
+No action has been or will be taken by the Issuer that would permit a public offering of any Products or 
+possession or distribution of any offering material in relation to any Products in any jurisdiction where action 
+for that purpose is required. No offers, sales, resales or deliveries of any Products or distribution of any 
+offering material relating to any Products may be made in or from any jurisdiction except in circumstances 
+which will result in compliance with any applicable laws and regulations and which will not impose any 
+obligation on the Issuer. 
+TARGET MARKET 
+The target market for the Products includes eligible counterparties, professional clients and retail clients, 
+each as defined in Directive 2014/65/EU as amended (MiFID II) and all channels for distribution of the 
+Products are appropriate, including investment advice, portfolio management, non-advised sales and pure 
+execution services, subject to the distributor's suitability and appropriateness obligations under MiFID II, as 
+applicable. 
+The Products are intended to be offered in Liechtenstein, Germany, Luxembourg, France, Spain and 
+Italy and any other countries of the European Economic Area with regard to which notifications in accordance 
+with Art 25 of the Prospectus Regulation have been made. 
+UNITED STATES 
+Nothing in this Base Prospectus constitutes an offer of securities for sale in any jurisdiction where it is 
+unlawful to do so. The Product has not been and will not be registered under the U.S. Securities Act of 1933, 
+as amended (the Securities Act) or with any securities regulatory authority of any state or other jurisdiction 
+of the United States and (i) may not be offered, sold or delivered within the United States to, or for the account 
+or benefit of U.S. Persons (as defined in Regulation S under the Securities Act), except according to an 
+exemption from, or in a transaction not subject to, the registration requirements of the Securities Act and 
+applicable State securities laws and (ii) may be offered, sold or otherwise delivered at any time only to 
+transferees that are non-US persons (as defined by the U.S. Commodities Futures Trading Commission). 
+The Base Prospectus may not be forwarded or distributed to any other person and may not be reproduced 
+in any manner whatsoever. In particular, it may not be forwarded to any U.S. address. Any forwarding, 
+distribution, or reproduction of this Base Prospectus in whole or in part is unauthorized. Failure to comply 
+with this directive may result in a violation of the Securities Act or the applicable laws of other jurisdictions. 
+If you have gained access to this Base Prospectus contrary to any of the foregoing restrictions, you are not 
+authorized and will not be able to purchase any of the securities described herein. 
+EUROPEAN ECONOMIC AREA 
+This Base Prospectus has been prepared on the basis that any offer of the Products in any Member State 
+of the EEA will be made according to an exemption under the Prospectus Regulation from the requirement 
+to publish a prospectus except for offers of such products in Liechtenstein or any other EEA Country where 
+notifications in accordance with Art 25 of the Prospectus Regulation have been made to (Non-Exempt Offer 
+Jurisdictions). 
+In relation to each Member State of the European Economic Area (each, a Member State) other than 
+NonExempt Offer Jurisdictions, an offer of the Product to the public may not be made in that Member State, 
+except that an offer of the Product to the public in that Member State may be made at any time under the 
+following exemptions under the Prospectus Regulation: (i) to any legal entity which is a qualified investor as 
+defined in the Prospectus Regulation; (ii) to fewer than 150 natural or legal persons (other than qualified 
+investors as defined in the Prospectus Regulation); or (iii) in any other circumstances falling within article 1 
+(4) of the Prospectus Regulation, provided that no such offer of the Product shall result in a requirement for 
+the publication by the Issuer of a prospectus according to article 3 of the Prospectus Regulation.
+
+--- Page 30 ---
+pg. 30 
+ 
+ 
+TAXATION 
+Depending on the Investor’s country of residence, holding the Products may have tax implications, such as 
+value-added tax or capital gains tax. Investors are advised to consult with their tax advisers as to their specific 
+consequences. Therefore, Investors should consider whether such tax liabilities apply when investing in the 
+Products. Each Investor will assume and be solely responsible for all taxes of any jurisdiction, including 
+central government or local state taxes or other like assessment or charges which may be applied in respect 
+of the Products. 
+It is recommended that prospective Stock-Tokenholders consult their own professional advisers concerning 
+the possible tax consequences of buying, holding, or selling any or the Products under the applicable laws 
+of their country of citizenship, residence or domicile. Tokenholders should be aware that the tax legislation 
+of the Tokenholder’s domicile as well as the Issuer’s country of incorporation may have an impact on the 
+income received from the securities.
+
+--- Page 31 ---
+pg. 31 
+ 
+ 
+GENERAL INFORMATION 
+AUTHORIZATION 
+The Program and the issuance and offer of Products under the Program have been duly authorized by the 
+Board of Directors of SwarmX pursuant to a resolution dated as of 1 April 2024. 
+Approval of the Prospectus 
+This Prospectus has been approved by the Liechtenstein Financial Markets Authority (FMA) on 28 August 
+2024. 
+The Liechtenstein Financial Markets Authority does not accept any responsibility for the financial soundness 
+of the Issuer or the Product or for the correctness of any of the statements made or opinions expressed 
+regarding it. 
+SIGNIFICANT CHANGE 
+Save as disclosed herein, there has been no significant change in the financial or trading position of the Issuer 
+since its incorporation. 
+There has been no material adverse change in the financial position or prospects of the Issuer since the date 
+of the last financial statements. 
+Trend Information 
+Save as disclosed herein, the Issuer is not aware of any trends, uncertainties, demands, commitments, or 
+events that are reasonably likely to have a material effect on their respective prospects during the current 
+financial year. 
+Legal, Administrative and Arbitration Proceedings 
+The Issuer has not been involved in any governmental, legal or arbitration proceedings which may have or 
+have had during the 12 months preceding the date of this Base Prospectus a significant effect on the financial 
+position or prospects of Issuer or the group's financial position or profitability nor are, so far as Issuer is aware, 
+any such proceedings pending or threatened. 
+Post-Issuance Information 
+The Issuer does not intend to provide any post-issuance information in relation to any of the Underlying or the 
+Products. 
+Documents on Display 
+For so long as Products remain outstanding, the following documents will be available, during usual business 
+hours on any weekday (Saturdays, Sundays and public holidays excepted), for inspection at the registered 
+office of the Issuer in printed form: 
+- 
+the Issuer’s Articles of Association; 
+- 
+the Final Terms in respect of each Product; 
+- 
+this Base Prospectus; 
+The documents are also available for review and download on the website of the Issuer www.swarmx.net. 
+Websites 
+Websites mentioned in this Base Prospectus or their contents do not form part of this Base Prospectus.
+
+--- Page 32 ---
+pg. 32 
+ 
+ 
+DEFINITIONS 
+Bonds 
+means bonds noted on major exchanges. 
+Burning 
+Burning is the process by which the Stock Certificate Tokens are 
+destroyed as a consequence of Redemption. 
+Business Day 
+A Business Day means any day except any Saturday, any Sunday, or 
+any day which is a legal holiday or any day on which banking institutions 
+are authorized or required by law or other governmental action to close 
+in Germany. 
+Claimed Redemption 
+If a Tokenholder claims Redemption. 
+Conversion Service Provider 
+means the service provider responsible for converting Dividends and 
+Debt Service into Stable Coins. 
+Custodian 
+The Custodian, if and once a Custodian is appointed by the Issuer, holds 
+the Underlying in custody on behalf of the Tokenholder on the basis of 
+the Custodian Agreement. Until a Custodian is appointed, the 
+Underlying will be held by the Issuer. 
+Custodian Agreement 
+The Custodian Agreement is the contractual relationship between the 
+Issuer and the Custodian (if and once appointed). This agreement 
+provides, among others, for the right of the Tokenholder to claim delivery 
+of the Underlying directly from the Custodian (echter Vertrag zugunsten 
+Dritter) if and once a Custodian is appointed. 
+Debt Service 
+Payment on interest and principal of Bonds 
+Delivery 
+Delivery means the transfer of the Underlying to the Issuer or, if and 
+once appointed, the Custodian, if and once appointed. Only after 
+Delivery the Token can be transferred to the Wallet of the Tokenholder. 
+The details for the Delivery are specified in Attachment 1 of the Base 
+Prospectus. 
+Dividend 
+A Dividend is a distribution of profits by a corporation to the shareholders 
+of an Underlying. 
+Dividend Claim 
+If Dividends or Debt Service for the Underlying are paid and received by 
+the Issuer or, if and once appointed, the Custodian (if any), the 
+Conversion Service Provider shall convert such dividends into Stable 
+Coins and deposit such Stable Coins into a specific Wallet or  Smart 
+Contract retrievable for each specific Stock Certificate Tokenholder. 
+Dividend Smart Contract 
+Holding the Stable Coins converted by the Conversion Service Provider 
+for Dividends and Debt Service. 
+Event of Default 
+means events defined in section 14 Terms & Conditions. 
+FIAT 
+FIAT, or FIAT money, is a currency, a medium of exchange, used by 
+governments and accepted by users, e.g. U.S. dollars, EUR. 
+Final Terms 
+For each Product offered through OTC-Contracts or on platforms 
+whitelisted by the Issuer specific Final Terms will be issued. These are 
+contractual terms that stand in addition to the general Terms & 
+Conditions and refer specifically to a specific Product in each case. The 
+Base Prospectus contains a sample Final Terms, which can be 
+consulted to understand and see the structure and content of Finals 
+Terms. 
+Guardian 
+means the guardian responsible for liquidating the respective Specific 
+Underlying in case of safeguarding according to section 7 of the T&Cs. 
+New Issuer 
+means a substitute issuer according to section 15 Terms & Conditions. 
+Non-Payment Event 
+The Non-Payment Event is an event when the Issuer breaches the 
+provisions of this Prospectus or the —Final Terms resulting in a claim 
+by the Token Holders, such as when the Issuer fails to perform a 
+payment or delivery obligation under a Product when due, fails to 
+perform such obligation in a timely manner or fails to perform such 
+obligation without defect. The Non-Payment Event leads to an —Event 
+of Default. 
+Offer 
+The Offer of Stock Certificate Tokens as further described in this 
+Prospectus.
+
+--- Page 33 ---
+pg. 33 
+ 
+ 
+Onboarding (Process) 
+Onboarding is a process by which a Stockholder or another person 
+qualifies for registration on the Platform. This includes the habitual KYC, 
+AML and other qualification processes for a financial institution. 
+OTC 
+Over-the-counter (OTC) refers to the process of how to trade directly 
+between counterparties without being listed on an exchange. 
+OTC-Contract 
+means “over-the-counter” contracting of a holder of —Stock Certificate 
+Tokens directly with another party using smart contracts whitelisted by 
+the — Issuer. 
+Product 
+—Stock Certificate Tokens 
+Program 
+Tokenization of —Underlying by the Issuer as a technical service 
+provider resulting in —Stock Certificate Tokens or —Products and 
+allowing subsequent Offers of the Products by Stock Certificate 
+Tokenholders 
+Redemption 
+means the process by which, upon receipt of a redemption request, the 
+Underlying is delivered by the Issuer or, if and once appointed, the 
+Custodian to the Tokenholder’s account. 
+Regulatory Violation Event 
+means a violation of the applicable law by the Issuer and consequently 
+forced by a regulator to cease its activity which leads to an —Event of 
+Default. 
+Safeguarding 
+means safeguarding according to section 7 of the T&Cs. 
+Smart Contract 
+means a smart contract based on the Ethereum Blockchain accessible 
+through the webpage of the Issuer with a detailed step- by-step 
+explanation. 
+Specific Underlying 
+means a specific stock as —Underlying 
+Stable Coins 
+means cryptocurrencies whose price is controlled by price fixing 
+mechanisms with the aim of low variations in relation to a FIAT currency 
+and is used by the Issuer to convert and pay Dividends. 
+Stock Certificate Tokens 
+means tokens issued by the Issuer for —Underlying. 
+Target Account 
+means the deposit account into which the specific Underlying is delivered 
+after a Redemption. 
+Termination Date 
+has the meaning according to section 5.2 Terms & Conditions. 
+Termination Event 
+has the meaning according to section 5.2 Terms & Conditions. 
+Termination Notice 
+has the meaning according to section 5.2 Terms & Conditions. 
+Terms and Conditions 
+(“T&Cs”) 
+means the agreement between the Tokenholders and the Issuer related 
+to the Stock Certificate Tokens and are part of this Prospectus and are 
+based on German law. 
+Tokenization 
+means tokenization of specific Underlying by the Issuer and the issue of 
+resulting Stock Certificate Tokens 
+Token-Trustee 
+means having the key functions of supervising the Smart Contract, 
+communicating with the Tokenholder, Issuer and Custodian about the 
+Tokenization and Redemption. At the beginning,no Token Trustee is 
+appointed and some of the functions of a Token Trustee will be handled 
+by the Issuer. The Issuer appoints a Token Trustee, if and when the 
+volume of issued Stock Certificate Tokens corresponds to a value of $10 
+Mio.  
+ 
+Underlyings 
+means shares or bonds noted in major stock exchanges. 
+Wallet 
+means the wallet specified by the Tokenholder for receiving Stock 
+Certificate Tokens and Stable Coins. 
+Whitelisting 
+means the process of acceptance of a platform for trading the Stock 
+Certificate Tokens by the Issuer
+
+--- Page 34 ---
+pg. 34 
+ 
+ 
+RESPONSIBILITY 
+The Issuer accepts responsibility for the information contained in this Base Prospectus. To the best of the 
+knowledge of the Issuer, which has taken all reasonable care to ensure that such is the case, the 
+information contained in this Base Prospectus is in accordance with the facts and contains no omission 
+likely to affect its import. 
+Signed on behalf of the Issuer as duly authorized representative: 
+Philipp Pieper
+
+--- Page 35 ---
+pg. 35 
+ 
+ 
+ANNEX I 
+Audited Financial Statements as of 31.12.2022
+
+--- Page 36 ---
+pg. 36
+
+--- Page 37 ---
+pg. 37
+
+--- Page 38 ---
+pg. 38
+
+--- Page 39 ---
+pg. 39
+
+--- Page 40 ---
+pg. 40
+
+--- Page 41 ---
+pg. 41
+
+--- Page 42 ---
+pg. 42 
+ 
+ 
+ANNEX II 
+Audited Financial Statements as of 31.12.2023
+
+--- Page 43 ---
+pg. 43
+
+--- Page 44 ---
+pg. 44
+
+--- Page 45 ---
+pg. 45
+
+--- Page 46 ---
+pg. 46
+
+--- Page 47 ---
+pg. 47
+
+--- Page 48 ---
+pg. 48
+
+--- Page 49 ---
+pg. 49
+
+--- Page 50 ---
+pg. 50
+
+--- Page 51 ---
+pg. 51

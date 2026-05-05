@@ -1,0 +1,4185 @@
+--- Page 1 ---
+Base Prospectus 
+dated 10 January 2023 
+ 
+Tradias Issuance GmbH 
+(a limited liability company incorporated under the laws of the Federal Republic of Germany, 
+having its corporate domicile in Frankfurt am Main, Federal Republic of Germany) 
+as Issuer 
+Programme for the issuance of tokenized securities 
+(the "Programme") 
+Under the Programme, Tradias Issuance GmbH (the "Issuer") may from time to time issue securities in 
+tokenized form secured by a lien on the hedging account (the "Tokenized Securities"). The Tokenized 
+Securities do not have a fixed maturity date. The Tokenized Securities will be governed by the laws of the 
+Federal Republic of Germany ("Germany"). 
+This document constitutes a base prospectus within the meaning of Article 8(1) of Regulation (EU) 2017/1129 
+of the European Parliament and of the Council of 14 June 2017 (the "Prospectus Regulation") of Tradias 
+Issuance GmbH (the "Base Prospectus"). This Base Prospectus will be published in electronic form together 
+with all documents incorporated by reference on the website of the Issuer (www.tradias.de).  
+This Base Prospectus has been approved by the Bundesanstalt für Finanzdienstleistungsaufsicht ("BaFin") in 
+its capacity as competent authority under the Prospectus Regulation. 
+BaFin only approves this Base Prospectus as meeting the standards of completeness, comprehensibility and 
+consistency imposed by the Prospectus Regulation. Such approval should not be considered as an endorsement 
+of the Issuer that is the subject of this Base Prospectus. Further, such approval should not be considered as an 
+endorsement of the quality of the Tokenized Securities that are the subject of this Base Prospectus. Investors 
+should make their own assessment as to the suitability of investing in the Tokenized Securities. 
+The Tokenized Securities have not been, and will not be, registered under the U.S. Securities Act of 1933, as 
+amended, (the "Securities Act"). The Tokenized Securities are being offered outside the United States of 
+America (the "United States" or "U.S.") in accordance with Regulation S under the Securities Act, and may not 
+be offered, sold or delivered within the United States except pursuant to an exemption from, or in a transaction 
+not subject to, the registration requirements of the Securities Act. 
+This Base Prospectus may not be used for the purposes of an offer or solicitation by anyone in any 
+jurisdiction in which such offer or solicitation is not authorised, or to any person to whom it is unlawful 
+to make such offer or solicitation. 
+The validity of this Base Prospectus will expire at the end of 10 January 2024. Any obligation to 
+supplement a base prospectus in the event of significant new factors, material mistakes or material 
+inaccuracies does not apply when a base prospectus is no longer valid.
+
+--- Page 2 ---
+- 1 - 
+ 
+ 
+1. 
+GENERAL DESCRIPTION OF THE PROGRAMME ...................................................................... 2 
+1.1 
+General ................................................................................................................................ 2 
+1.2 
+Issue Price and Yield ............................................................................................................ 2 
+1.3 
+Purchase of Tokenized Securities.......................................................................................... 2 
+1.4 
+Reason for the Offers............................................................................................................ 2 
+1.5 
+Listing and Admission to Trading ......................................................................................... 2 
+1.6 
+Rating .................................................................................................................................. 2 
+2. 
+RISK FACTORS .............................................................................................................................. 3 
+2.1 
+Risks relating to the Issuer .................................................................................................... 3 
+2.2 
+Risks relating to the Tokenized Securities ............................................................................. 4 
+3. 
+IMPORTANT NOTICE .................................................................................................................... 9 
+4. 
+RESPONSIBILITY STATEMENT ................................................................................................. 10 
+5. 
+CONSENT TO THE USE OF THE BASE PROSPECTUS ............................................................. 11 
+6. 
+LISTING AND TRADING ............................................................................................................. 12 
+7. 
+REASONS FOR THE OFFER AND USE OF PROCEEDS............................................................. 13 
+8. 
+NOTIFICATION ............................................................................................................................ 14 
+9. 
+AUTHORISATION ........................................................................................................................ 15 
+10. 
+GENERAL INFORMATION ABOUT THE ISSUER ..................................................................... 16 
+10.1 
+General Information ........................................................................................................... 16 
+10.2 
+Corporate Purpose .............................................................................................................. 16 
+10.3 
+Principal Activities and expected financing of the issuer ..................................................... 16 
+10.4 
+Organisational Structure ..................................................................................................... 17 
+10.5 
+Management Board ............................................................................................................ 18 
+10.6 
+Share Capital ...................................................................................................................... 18 
+10.7 
+Fiscal Year ......................................................................................................................... 18 
+10.8 
+Rating ................................................................................................................................ 18 
+10.9 
+Major Shareholders ............................................................................................................ 18 
+10.10 
+Interests of Natural and Legal Persons involved in the Issue/Offer ...................................... 18 
+10.11 
+Material Contracts and Transactions ................................................................................... 18 
+10.12 
+Trend Information .............................................................................................................. 19 
+10.13 
+Material Adverse Change in the Prospects .......................................................................... 19 
+10.14 
+Significant Change in the Financial Performance ................................................................ 19 
+10.15 
+Significant Change in the Financial Position ....................................................................... 19 
+10.16 
+Borrowing and Funding ...................................................................................................... 19 
+10.17 
+Legal and Arbitration Proceedings ...................................................................................... 19 
+11. 
+HISTORICAL FINANCIAL INFORMATION ............................................................................... 21 
+12. 
+GENERAL DESCRIPTION OF THE TOKENIZED SECURITIES AND THE PROGRAMME ..... 22 
+12.1 
+Description of the Tokenized Securities .............................................................................. 22 
+12.2 
+Description of the Security ................................................................................................. 25 
+13. 
+TERMS AND CONDITIONS ......................................................................................................... 27 
+14. 
+FORM OF FINAL TERMS ............................................................................................................. 45 
+15. 
+TAXATION.................................................................................................................................... 50 
+16. 
+SUBSCRIPTION, SALE AND OFFER OF THE TOKENIZED SECURITIES ............................... 51 
+16.1 
+Offer of the Tokenized Securities ....................................................................................... 51 
+16.2 
+Selling Restrictions............................................................................................................. 53 
+17. 
+GENERAL INFORMATION .......................................................................................................... 57 
+17.1 
+Incorporation by Reference................................................................................................. 57 
+17.2 
+Documents on Display........................................................................................................ 58 
+18. 
+NAMES AND ADDRESSES .......................................................................................................... 59
+
+--- Page 3 ---
+- 2 - 
+ 
+ 
+1. 
+GENERAL DESCRIPTION OF THE PROGRAMME 
+1.1 GENERAL 
+Under this Base Prospectus, Tradias Issuance GmbH (the "Issuer") may, from time to time, issue 
+Tokenized Securities denominated in euro. The total up to amount of a specific issue of Tokenized 
+Securities will be set out in the relevant final terms document (the "Final Terms", substantially in the 
+form set out below under "14. FORM OF FINAL TERMS") prepared in relation to each issue of 
+Tokenized Securities under the Programme. Each issue of Tokenized Securities (each a "Series of 
+Tokenized Securities") will be tokenized. 
+Each Series of Tokenized Securities issued under this Base Prospectus will track the value of a (public) 
+investment fund (in each case, as specified in the Final Terms, the "Underlying") managed by a capital 
+management company (Kapitalverwaltungsgesellschaft). The Tokenized Securities do not provide for 
+any interest payments and do not have a fixed maturity date. 
+Tokenholders have the right to request redemption of the Tokenized Securities, at any time, in cash or 
+through delivery of units of the Underlying. 
+The Issuer will create a hedging position (the "Hedging Position") in which each Tokenized Security 
+is represented by a unit of the Underlying. If the delivery of the unit of the Underlying is delayed beyond 
+the usual settlement period, the Issuer will use cash or other assets, including derivatives, to esure that 
+the Hedging Position covers the whole amount of the Tokenized Securities issued. The assets of the 
+Hedging Position will be held in a securities account and a cash account (together, the "Hedging 
+Account") which will be secured with a lien (Pfandrecht) for the benefit of the Tokenholders.  
+1.2 ISSUE PRICE AND YIELD 
+The issue price of the relevant Series of Tokenized Securities will be specified in the relevant Final 
+Terms. 
+The yield of the Tokenized Securities cannot be calculated at the issue date of a Series of Tokenized 
+Securities. 
+1.3 PURCHASE OF TOKENIZED SECURITIES 
+In the primary market, each issue of a Series of Tokenized Securities is initially only purchased by 
+Authorised Participants and may subsequently be offered by financial intermediaries to institutional and 
+retail investors, in compliance with applicable selling restrictions during the relevant offer period (as 
+specified in the relevant Final Terms) also with regard to specific offering jurisdictions. As a 
+consequence, only Authorised Participants may buy Tokenized Securities directly from the Issuer in the 
+primary market. Investors will not be able to buy Tokenized Securities directly from the Issuer in the 
+primary market but may only buy Tokenized Securities from financial intermediaries. 
+1.4 REASON FOR THE OFFERS 
+Unless specified otherwise in the relevant Final Terms, the reason for the issue of Tokenized Securities 
+under the Programme is primarily to finance the general business development of the Issuer. 
+1.5 LISTING AND ADMISSION TO TRADING 
+The Tokenized Securities will not be admitted to trading on any stock exchange. 
+1.6 RATING 
+Neither the Issuer nor any Series of Tokenized Securities are rated.
+
+--- Page 4 ---
+- 3 - 
+ 
+ 
+2. 
+RISK FACTORS 
+The Issuer believes that the following factors may affect its ability to fulfil its obligations under the Tokenized 
+Securities. 
+The risk factors are presented in a limited number of categories depending on their nature. In each category 
+the two most material risk factors are mentioned first according to the assessment of the Issuer. The Issuer 
+assesses the materiality of the risk factors based on the probability of their occurrence and the expected 
+magnitude of their negative impact. 
+2.1 RISKS RELATING TO THE ISSUER 
+The following descriptions of the risk factors relating to the Issuer and their occurrence within a risk 
+category, with the two most material risk factor presented first in each category, should be understood 
+as descriptions of residual risks, i.e. of the remaining risks following all counter measures taken in order 
+to avoid such risks or limit their adverse effects. 
+a) 
+Risks related to the Issuer’s business activities 
+Risks related to the limited business objective of the Issuer. 
+The focus of the Issuer’s business activities is the issuance of tokenized securities linked to underlyings 
+in the form of shares of investment funds issued by a capital management company. The Issuer will not 
+carry out any other business than the issue of securities which are linked to different types of 
+underlyings. Because of this limited business objective, the Issuer is exposed to the risk that the 
+underlyings do not become successful or become less successful going forward and the Issuer cannot 
+adapt to such changed circumstances. Due to this limited business objective the Issuer may then be 
+unsuccessful in carrying out its business which could have an adverse impact on the Issuer`s business 
+and financial situation. 
+The Issuer does not have a long and comprehensive track record. 
+The Issuer was registered with the commercial register of the local court (Amtsgericht) of Frankfurt am 
+Main, Germany on 18 November 2021. Due to such a short period of existence, the Issuer does not have 
+a long and comprehensive track record of successfully operating the business activity described herein. 
+On 9 January 2023 the Issuer had issued securities in the amount of EUR 25,558.10 but has not carried 
+out any other business activity since. Hence, there is a risk that the Issuer will not be successful in 
+issuing the Tokenized Securities, and that the Issuer will not make profits, despite this being the Issuer’s 
+aim. If the Issuer becomes unsuccessful in the issuance of securities, the Issuer may cease its business 
+activities as issuer or ultimately become insolvent. Although, the Issuer takes reasonable efforts to 
+develop its business, there can be no assurance that the planned business activities will be successful in 
+the future which could have an adverse impact on the Issuer`s business and financial situation. 
+Reputation. 
+The Issuer depends on its reputation and the reputation of associated parties (i.e. parties who the Issuer 
+conducts business with, such as Bankhaus Scheich Wertpapierspezialist AG, Société Générale S.A., 
+Zweigniederlassung Frankfurt and Cashlink Technologies GmbH (among others)) to maintain and grow 
+its core business. Any material adverse event could impact the Issuer’s reputation, which could, in turn, 
+depress the Issuer’s profitability, creditworthiness and fundraising capacity. This, in turn, can affect the 
+demand for and liquidity of any Series of Tokenized Securities and price of any Series of Tokenized 
+Securities on the market related to the prices of the relevant underlyings and – in case such development 
+triggers an Issuer Call Redemption Event in relation to a Series of Tokenized Securities – may result in 
+the Issuer giving an Issuer Call Redemption Notice. 
+When a Call Redemption Event in relation to a Series of Tokenized Securities and the Issuer gives an 
+Issuer Call Redemption Notice, the Cash Euro Equivalent might be lower than the Issue Price at that 
+time and the investor may therefore suffer a loss or does not receive the expected yield on his 
+investment.
+
+--- Page 5 ---
+- 4 - 
+ 
+ 
+Furthermore, there is also the risk that the investors can only reinvest the amount received from the 
+redemption at a lower yield.  
+b) 
+Legal and regulatory risks 
+Compliance. 
+Pursuant to the regulatory framework, which is currently applicable to the Issuer, it faces relatively low 
+compliance requirements, as it is, for example, not directly responsible for "know your client" ("KYC") 
+checks or anti-money laundering ("AML") checks of end investors. In this respect the Issuer relies on 
+its Authorised Participants which have implemented the relevant KYC systems and procedures. Any 
+breach of the compliance processes of the Authorised Participants or service providers could have a 
+material adverse effect on the Issuer’s core business, including reputational damage and significant 
+legal and financial impact. 
+Risks related to regulation of blockchain technologies and digital assets. 
+The Tokenized Securities are issued in the form of security tokens. With the exception of the German 
+Electronic Securities Act (Gesetz zur Einführung elektronischer Wertpapiere – eWpG), there is 
+currently very little regulatory guidance regarding the issuance and settlement of securities on a 
+blockchain. Various legislative and executive bodies in Germany, on a European level and in other 
+countries may in the future, adopt laws, regulations, guidance, or other actions, which may severely 
+impact the future development of securities issued in tokenized form. Failure by the Issuer or certain 
+investors to comply with any laws, rules and regulations, some of which may not exist yet or are subject 
+to interpretation and may be subject to change, could result in a variety of adverse consequences, 
+including civil penalties and fines and may negatively affect the rights of investors under a Series of 
+Tokenized Securities. 
+Dependence on certain service providers and potential conflicts of interest. 
+The Issuer is dependent on a number of service providers to maintain the issue of a Series of Tokenized 
+Securities and the security relating to such Series of Tokenized Securities. These include Tradias GmbH 
+("Tradias"), who is operating the platform as well as Authorised Participants, the Paying Agent, the 
+Security Trustee and the Crypto Custodian. Should there be a material adverse change in cooperation 
+with any existing service provider and a suitable alternative be unavailable or impracticable, the Issuer 
+shall have the right to redeem the Tokenized Securities.  
+c) 
+Internal control and IT risks 
+Attacks by "hackers" and sabotage from outside the Issuer. 
+The whole business of the Issuer depends on certain information technology (IT) infrastructure. 
+Additionally, service providers (e.g., Tradias) also rely on IT systems to provide services to the Issuer. 
+Both the Issuer’s IT systems and IT systems of such service providers may be hacked by criminals. The 
+Issuer is exposed to the risk of being partially, temporarily or even permanently prevented from carrying 
+out its business activities or it may become in breach of its covenants and even become insolvent, and 
+any Tokenholders may lose a part or all of their investment in a Series of Tokenized Securities due to 
+such security breach. 
+2.2 RISKS RELATING TO THE TOKENIZED SECURITIES 
+An investment in a Series of Tokenized Securities involves certain risks associated with the 
+characteristics, specification and type of the Tokenized Securities which could lead to substantial losses 
+that Tokenholders would have to bear in the case of selling their Tokenized Securities. Risks regarding 
+a Series of Tokenized Securities comprise, inter alia, the following risks:
+
+--- Page 6 ---
+- 5 - 
+ 
+ 
+a) 
+Risks related to the nature and the Terms and Conditions of the Tokenized Securities 
+Risks in connection with a potential termination by the investors 
+Pursuant to the Terms and Conditions, each Tokenholder has the option to request redemption of its 
+Tokenized Securities at any time. Tokenized Securities will at the option of the investor either be 
+redeemed in cash or by delivery of units of the Underlying.  
+There is a risk that the Issuer may not be able to redeem the Tokenized Securities, at all or in a timely 
+manner. The Issuer's ability to redeem Tokenized Securities will be limited by its access to funds or 
+units of the Underlying, respectively, at the time of redemption. At the time of redemption, the Issuer 
+may be required to redeem the Tokenized Securities and any other amounts owed by it under other 
+outstanding indebtedness immediately. The funds or units of the Underlying for such redemption would 
+be derived from the Hedging Account or other available cash or other assets, including derivatives. 
+However, there can be no assurance that sufficient funds or units of the Underlying will be available to 
+make such repayments and any required redemption of the Tokenized Securities. 
+Furthermore, if a Tokenholder exercises its termination right due to a specific value of the Underlying 
+and there is a delay in the redemption process, there is a risk that the value of the Underlying can 
+fluctuate/decrease in that time period and that the investor as a result may receive a lower than expected 
+yield. 
+The Issuer is allowed at any time to perform a mandatory redemption in case certain events as 
+specified in the Terms and Conditions materialise. 
+The Issuer may at any time, in its sole and absolute discretion, elect to terminate and redeem all but not 
+some of the Tokenized Securities in case of occurrence of certain events as further specified in the 
+Terms and Conditions (each an "Issuer Call Redemption Event"). In exercising such discretion, the 
+Issuer is not required to have any regard to the interests of the investors, and investors may receive less, 
+or substantially less, than their initial investment. There is a risk that the Issuer exercises the Issuer Call 
+at a time that when the Cash Euro Equivalent is lower than the Issue Price and the investor therefore 
+suffers a loss or does not receive the expected yield on his investment.  
+Furthermore, there is also the risk that the investors can only reinvest the amount received from the 
+redemption at a lower yield.  
+No recourse and no guarantee. 
+Pursuant to the Terms and Conditions, the Tokenized Securities will be obligations solely of the Issuer. 
+In particular, the Tokenized Securities will not be obligations of, or guaranteed by any partner or affiliate 
+of the Issuer or any direct or indirect holder of the Issuer. 
+No person has guaranteed the performance of the Issuer’s obligations, and no investor has any direct 
+rights of enforcement against any such person. As a result, investors bear the risk of a loss of part or all 
+of their investment.  
+The Tokenized Securities are subject to transaction costs and charges. 
+When Tokenized Securities are purchased or sold, several types of incidental costs (including 
+transaction fees and commissions) are incurred in addition to the purchase or sale price of the Tokenized 
+Securities. These incidental costs may significantly reduce or eliminate any profit from holding the 
+Tokenized Securities. To the extent that additional – domestic or foreign – parties are involved in the 
+execution of an order, including, but not limited to, domestic dealers or brokers in foreign markets, 
+investors may also be charged for the brokerage fees, commissions and other fees and expenses of such 
+parties (third party costs). In addition to such costs directly related to the purchase of securities (direct 
+costs), potential investors must also take into account any follow-up costs (such as custody fees). 
+The specific risk is that such additional costs may lower the yield of the investment substantially. 
+Therefore, potential investors should inform themselves about any additional costs incurred in
+
+--- Page 7 ---
+- 6 - 
+ 
+ 
+connection with the purchase, custody or sale of the Tokenized Securities before investing in the 
+Tokenized Securities. 
+There is no limitation on the amount of debt which the Issuer may incur in the future 
+There is no restriction on the amount of indebtedness that the Issuer may incur in the future. Any raising 
+of additional debt capital by the Issuer which is not subordinated to the Tokenized Securities will 
+increase the Issuer's debt ratio unless its own funds are also increased to a corresponding extent. An 
+increased level of indebtedness simultaneously increases the risk of a default by the Issuer under the 
+Tokenized Securities due to the fact that the Issuer is exposed to increased payment obligations as a 
+result of raising additional debt. In addition, the raising of additional debt capital may reduce the amount 
+that the investors will receive on their claims in the event of liquidation or insolvency of the Issuer. In 
+such case, the market price of the Tokenized Securities may be negatively affected, and the investors 
+might not be able to realize the expected yield from the investment in the Tokenized Securities. 
+b) 
+Risks related to the Underlying 
+A decline in the value of the Underlying will affect the value of the Tokenized Securities. 
+The value of the Tokenized Securities is affected by the price of the Underlying. The performance of 
+the capital management company has a direct impact on the value of the Tokenized Securities. The 
+amount received by Tokenholders upon redemption of the Tokenized Securities is either a cash amount 
+in euro at which the capital management company is willing to purchase the number of units of the 
+Underlying or the respective number of units itself (the "Cash Euro Equivalent"). In case the value of 
+the Underlying declines the Cash Euro Equivalent declines as well and an investor might suffer a loss. 
+Investing in the Tokenized Securities does not correspond to a direct investment in the Underlying. 
+Investors should be aware that the market value of the Tokenized Securities does not exclusively depend 
+on the prevailing price of the Underlying and changes in the prevailing price of the Underlying may not 
+necessarily result in a comparable change in the market value of the Tokenized Securities. The 
+performance of the Tokenized Securities may differ significantly from direct holdings of the Underlying 
+as a result of negative effects of fees and charges, in addition to the negative effect of any other risks 
+described herein. The return on the Tokenized Securities may not reflect the return if the investor had 
+actually owned the Underlying and held such investment for a similar period. 
+The Hedging Position might suffer a shortfall in case the Authorized Participant does not meet its 
+delivery obliagtions. 
+ While the Issuer intends to create a Hedging Position that reflects 100 per cent. of the value of each 
+outstanding Series of Tokenized Securities, this might not at all times be the case. A shortfall in the 
+Hedging Position might occur if the Authorized Participant defaults before it has met its obligation to 
+deliver units of the Underlying or pay the Cash Euro Equivalent to the Issuer. In order to guarantee the 
+investors’ exchange or repayment option in this scenario as well, the Issuer hedges the possibility of 
+acquiring units of the Underlying via derivatives. The residual risk is that the redemption requests 
+exceed the Hedging Position with the Authorized Participant becoming insolvent after the redemption 
+requests were made and could not initiate the transfer of the unit of the Underlying or payment of the 
+Cash Euro Equivalent to the Issuer. This may impair or preclude the Issuer's ability to make any 
+redemptions under the Tokenized Securities. 
+c) 
+Other related risks 
+Liquidity Risk 
+The Tokenized Securities are not admitted to trading on any stock exchange or other trading venue. 
+They can only be sold over-the-counter (OTC) by the investors. There is a risk that an active and liquid 
+secondary market for the Tokenized Securities may not develop or, if it does develop, that it will not 
+continue. The liquidity of the Tokenized Securities could also be subject to fluctuations and could 
+deteriorate, in particular, as a result of repurchases and redemptions. Since the Tokenized Securities are 
+not admitted to trading on any stock exchange or other trading venue, their saleability is severely limited
+
+--- Page 8 ---
+- 7 - 
+ 
+ 
+or may not be possible at all. In an illiquid market, an investor might not be able to sell its Tokenized 
+Securities at any time at fair market prices. In the worst case, the investor will not be able to sell its 
+Tokenized Securities at all. In addition, there will be no price determined on the stock exchange.  
+Currency Risk 
+Potential investors should bear in mind that an investment in the Tokenized Securities involves currency 
+risks. This presents certain risks relating to currency conversions if financial activities of an investor 
+are denominated principally in a currency or currency unit other than the euro. If, after the purchase of 
+the Tokenized Securities by the relevant investor, the Euro loses value against the home currency of the 
+purchaser, the investor will receive, if so chosen by the investor and assuming the solvency of the Issuer, 
+at redemption of the Tokenized Securities the same amount in Euro that it provided to the Issuer at the 
+time. However, converted into the investor's home currency, this Euro amount may correspond to a 
+lower equivalent value than the investor had to spend for the purchase of the Tokenized Securities. 
+Changes in currency exchange rates result from various factors, such as macro-economic factors, 
+speculative transactions and interventions by central banks and governments. In addition, government 
+and monetary authorities may impose (as some have done in the past) exchange controls that could 
+adversely affect an applicable currency exchange rate. As a result, investors may receive less 
+redemption amounts than expected. 
+Internet disruptions 
+The functionality of the register in which the Tokenized Securities are registered, which is operated by 
+the Issuer and from which all transfers as well as a list of those blockchain addresses to which the tokens 
+representing the Tokenized Securities are assigned can be obtained (the "Register") and of the digital 
+wallet of the investors depends on the functionality of the internet or the internet connection. A 
+significant disruption of the internet or the internet connection could significantly impair the 
+functionality and operation of the Register and the digital wallet or prevent it entirely until the internet 
+disruption is resolved. Such disruption could adversely affect an investment in the Tokenized Securities 
+and the Issuer's ability to operate. During this time, an investor would not be able to access its digital 
+wallet and thus the Tokenized Securities. 
+Risks associated with blockchain technology 
+The Tokenized Securities are issued on the basis of the blockchain technology, which is a relatively 
+young and unproven technology. There is a risk that this technology is subject to technical difficulties 
+or that its functionality is impaired by external influences. A partial or complete breakdown of the 
+blockchain used jeopardizes the repayment of the Tokenized Securities. 
+Risk of losses of Tokenized Securities due to fraud, accident or similar 
+Investors should be aware of the risk of losing their Tokenized Securities provided that they hold or 
+deposit the Tokenized Securities in a digital wallet. The Tokenized Securities are stored in a digital 
+wallet on a computer, laptop or smartphone. Digital wallets have a public key and a private key or 
+password that allows their owners to access them. However, digital wallets are not impervious to 
+hacking. Therefore, similar to traditional wallets, the Tokenized Securities or money from digital 
+wallets could be stolen. In addition, the loss of the key or password to a digital wallet (including 
+unauthorized copies of the key or password or any portion thereof) could result in the Tokenized 
+Securities or money stored in the digital wallet being lost forever. There are no central offices that 
+record passwords or issue replacement passwords. 
+Hacks of digital wallets or the Register 
+There are various types of hacks of digital wallets or of the Register. Such a hack could adversely affect 
+an investment in the Tokenized Securities. In this context, a "hack" refers to any unauthorized access 
+to the private keys necessary to sign transactions on the blockchain transferring value out of the relevant 
+digital wallet. This includes "brute force" attacks (i.e. attacks seeking to obtain the information 
+regarding the private keys through a trial-and-error method, whereby software is used to generate a 
+large number of consecutive guesses). While such attacks are currently unlikely, it should be noted that 
+the development of quantum computing is expected to make such attacks possible. A hack of the
+
+--- Page 9 ---
+- 8 - 
+ 
+ 
+investor's digital wallet or the Register could result in the loss of the Tokenized Securities. Although 
+significant measures are taken to prevent a hack of the Register, it is not possible to completely eliminate 
+this risk.  
+Security granted to secure the Tokenized Securities may be unenforceable or enforcement of the 
+Security may be delayed. 
+Pursuant to the Terms and Conditions the Issuer has granted to the Security Trustee a lien on the 
+Hedging Account for the benefit of the investors as collateralisation of the claims of the investors under 
+the Tokenized Securities. These security arrangements may not be sufficient to protect the investors in 
+the event of the Issuer’s bankruptcy or liquidation due to various reasons. There is a legal risk that the 
+security interest is not enforceable and there could be uncertainties on how to enforce such Security or 
+changes in legislation. In addition, the enforcement of the Security may be delayed. 
+Fraud risk arising from third parties. 
+The Issuer is interacting with a number of third parties, including, but not limited to, Tradias as platform 
+operator, the Security Trustee, the Paying Agent, the Crypto Custodian etc. The Issuer is also relying 
+on its own staff for its operations. As a result, the Issuer is exposed to the risk of misconduct, negligence 
+or fraud by these third parties and its employees. This could result in serious reputational or financial 
+harm or damage to the assets of the Issuer which are pledged as a security for the Tokenized Securities 
+and also result in losses for the investors in the Tokenized Securities. It is not always possible to deter 
+misconduct and the internal control systems set up by the Issuer or the relevant third parties may not 
+always be effective. Also, these risks may not be fully covered by insurance.  
+Realisation of Security and role of the Security Trustee. 
+The Security Trustee may take any action permitted by the Terms and Conditions and the relevant 
+security documents in an enforcement scenario without having regard to the effect of such action on 
+individual investors. Fees, costs and expenses for the Security Trustee will need to be paid in advance. 
+All fees, costs and expenses related to the enforcement will be the sole responsibility of, and will be 
+deducted from any payments made to, the relevant investors.
+
+--- Page 10 ---
+- 9 - 
+ 
+ 
+3. 
+IMPORTANT NOTICE 
+The Base Prospectus should be read and construed with any supplement hereto and with any other documents 
+incorporated by reference and, in relation to any issue of a Series of Tokenized Securities, with the relevant 
+Final Terms. 
+Tokenized Securities issued under this Base Prospectus have not been, and will not be, registered under the U.S. 
+Securities Act of 1933, as amended (the "Securities Act"). The Tokenized Securities are being offered outside 
+the United States of America (the "United States" or "U.S.") in accordance with Regulation S under the 
+Securities Act ("Regulation S"), and may not be offered, sold or delivered within the United States except 
+pursuant to an exemption from, or in a transaction not subject to, the registration requirements of the Securities 
+Act. 
+This Base Prospectus may not be used for the purposes of an offer or solicitation by anyone in any 
+jurisdiction in which such offer or solicitation is not authorised or to any person to whom it is unlawful 
+to make such offer or solicitation. 
+The validity of this Base Prospectus will expire at the end of 10 January 2024. There is no obligation to 
+supplement a base prospectus in the event of significant new factors, material mistakes or material 
+inaccuracies if a base prospectus is no longer valid. 
+MIFID II PRODUCT GOVERNANCE / TARGET MARKET 
+The Final Terms in respect of any Series of Tokenized Securities will include a legend entitled "MiFID II 
+Product Governance" which will outline the target market assessment in respect of each Series of Tokenized 
+Securities and which channels for distribution of the Tokenized Securities are appropriate. Any person 
+subsequently offering, selling or recommending the Tokenized Securities (a "distributor") should take into 
+consideration the target market assessment; however, a distributor subject to MiFID II is responsible for 
+undertaking its own target market assessment in respect of each Series of Tokenized Securities (by either 
+adopting or refining the target market assessment) and determining appropriate distribution channels. 
+A determination will be made in relation to each issue about whether, for the purpose of the MiFID Product 
+Governance rules under EU Delegated Directive 2017/593 (the "MiFID Product Governance Rules"), any 
+dealer subscribing for any Tokenized Securities is a manufacturer in respect of such Tokenized Securities, but 
+otherwise neither any dealer(s) nor any of their respective affiliates will be a manufacturer for the purpose of 
+the MiFID Product Governance Rules. 
+Any websites included in this Base Prospectus are for information purposes only, do not form part of this Base 
+Prospectus and have not been scrutinised or approved by BaFin as competent authority.
+
+--- Page 11 ---
+- 10 - 
+ 
+ 
+4. 
+RESPONSIBILITY STATEMENT 
+Tradias Issuance GmbH with its registered office at Rossmarkt 21, 60311 Frankfurt am Main, Germany accepts 
+responsibility for the information contained in this Base Prospectus and declares to the best of its knowledge 
+that the information contained in this Base Prospectus is in accordance with the facts and that the Base 
+Prospectus makes no omission likely to affect its import.
+
+--- Page 12 ---
+- 11 - 
+ 
+ 
+5. 
+CONSENT TO THE USE OF THE BASE PROSPECTUS 
+Each financial intermediary subsequently reselling or finally placing a Series of Tokenized Securities - if and 
+to the extent this is so expressed in the Final Terms relating to a particular Series of Tokenized Securities - is 
+entitled to use this Base Prospectus in Austria, Belgium, the Czech Republic, Denmark, France, Greece, Ireland, 
+Italy, Luxembourg, Malta, The Netherlands, Poland, Portugal, Norway, Spain and Sweden for the subsequent 
+resale or final placement of the Tokenized Securities comprised in such Series of Tokenized Securities during 
+the relevant offer period (as set out in the relevant Final Terms) during which a subsequent resale or final 
+placement of the Tokenized Securities can be made, provided however, that this Base Prospectus is still valid 
+in accordance with the Prospectus Regulation. The Issuer accepts responsibility for the information given in this 
+Base Prospectus also with respect to such subsequent resale or final placement of the Tokenized Securities. 
+The Issuer may give consent to additional financial intermediaries after the date of the relevant Final 
+Terms to the use of this Base Prospectus as described above and, if they do so, the Issuer or the financial 
+intermediaries will publish the above information in relation to them on their website. 
+The Issuer’s consent to use this Base Prospectus for the subsequent resale or final placement of Tokenized 
+Securities by the financial intermediaries may be restricted to certain jurisdictions and subject to the condition 
+that each financial intermediary complies with all applicable laws and regulations in force in the respective 
+jurisdictions as well as such conditions that are stated in the relevant Final Terms. 
+This Base Prospectus and the relevant Final Terms may only be delivered to potential investors together with 
+all supplements published before such delivery. Any supplement to this Base Prospectus will be available for 
+viewing in electronic form on the website of the Issuer (www.tradias.de) and on the website of the European 
+Securities and Markets Authority (https://www.esma.europa.eu). 
+In the event of an offer being made by a financial intermediary, such financial intermediary shall provide 
+information to investors on the Terms and Conditions of a Series of Tokenized Securities at the time of 
+that offer. 
+Any financial intermediary using this Base Prospectus shall state on its website that it uses this Base 
+Prospectus and the relevant Final Terms in accordance with this consent and the conditions attached to 
+this consent.
+
+--- Page 13 ---
+- 12 - 
+ 
+ 
+6. 
+LISTING AND TRADING 
+The Tokenized Securities issued under this Programme will not be admitted to trading on any stock exchange 
+at all.
+
+--- Page 14 ---
+- 13 - 
+ 
+ 
+7. 
+REASONS FOR THE OFFER AND USE OF PROCEEDS 
+The Issuer will create the Hedging Position, primarily consisting of units of the Underlying, as well as cash or 
+other assets, including derivatives. The Issuer intends to create a Hedging Position reflecting 100 per cent. of 
+the value of each outstanding Series of Tokenized Securities. The estimated total expenses of the issue and/or 
+offer of each Series of Tokenized Securities will be specified in the relevant Final Terms of each issue of 
+Tokenized Securities.
+
+--- Page 15 ---
+- 14 - 
+ 
+ 
+8. 
+NOTIFICATION 
+The Issuer has requested BaFin to provide the competent authorities in Austria, Belgium, the Czech Republic, 
+Denmark, France, Greece, Ireland, Italy, Luxembourg, Malta, The Netherlands, Poland, Portugal, Norway, 
+Spain and Sweden with a certificate of approval attesting that this Base Prospectus has been drawn up in 
+accordance with the Prospectus Regulation.
+
+--- Page 16 ---
+- 15 - 
+ 
+ 
+9. 
+AUTHORISATION 
+The establishment of the Programme and the issuance of any Series of Tokenized Securities under this Base 
+Prospectus have been authorised by a resolution of Tradias Issuance GmbH dated 6 January 2023.
+
+--- Page 17 ---
+- 16 - 
+ 
+ 
+10. GENERAL INFORMATION ABOUT THE ISSUER 
+10.1 GENERAL INFORMATION 
+The Issuer’s legal name is Tradias Issuance GmbH. 
+The Issuer is a limited liability company (Gesellschaft mit beschränkter Haftung) organised and existing 
+under the laws of Germany, with its registered office in Roßmarkt 21, 60311 Frankfurt am Main, 
+Germany and registered with the commercial register of the local court (Amtsgericht) of Frankfurt am 
+Main, Germany, under the registration number HRB 125428. 
+The Issuer was founded on 13 October 2021. As a special purpose vehicle which has been established 
+primarily for the issuance of the Tokenized Securities, the Issuer does not conduct any operational 
+business except for the activity as described below ("10.3 Principal Activities and Expected Financing 
+of the Issuer"). 
+The Issuer has no employees except for the managing director. 
+The Issuer’s Legal Entity Identifier (LEI) is 5299009CMRBW5U9HEJ15. 
+The website of the Issuer is www.tradias.de and the phone number is +49 69 25 72 00 – 0. The 
+information on the website does not form part of this Base Prospectus and has not been scrutinised or 
+approved by BaFin. 
+The Issuer does not carry out crypto-custody-business within the meaning of section 1 (1a) sentence 2 
+no 6 of the German Banking Act ("KWG") or section 2 (3) no 1 of the German Investment Firm Act 
+("WpIG") and does therefore not require a license pursuant to section 32 KWG or section 15 WpIG. 
+The Issuer does not safekeep, administrate and/or protect cryptographic assets or private cryptographic 
+keys for others. 
+10.2 CORPORATE PURPOSE 
+Pursuant to Section 2 of the Issuer’s articles of association, the objective of the Issuer is the 
+administration of its own assets. The Issuer holds assets for its own purposes, values them and manages 
+them. Furthermore, the purpose of the Issuer is also to provide IT services and other services relating 
+to crypto-assets and financial instruments, including the issue of tokenized debt securities. 
+10.3 PRINCIPAL ACTIVITIES AND EXPECTED FINANCING OF THE ISSUER 
+The only activity of the Issuer is the issue of tokenized securities. The Issuer expects to finance its 
+activities by the issue of such securities.
+
+--- Page 18 ---
+- 17 - 
+ 
+ 
+ 
+10.4 ORGANISATIONAL STRUCTURE 
+The Issuer is a wholly-owned subsidiary of Tradias GmbH ("Tradias"). The Issuer does not have any 
+subsidiaries of its own. It is a special purpose vehicle that has been established primarily for the issuance 
+of tokenized securities. 
+The following chart provides an overview of the structure of the group of which the Issuer forms part 
+as of the date of this Base Prospectus: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+As mentioned above, the Issuer’s sole shareholder is Tradias (see also "10.9. Major Shareholders"), 
+with its registered office at Roßmarkt 21, 60311 Frankfurt am Main, Germany. 
+The table below sets out the shareholders of Tradias: 
+Shareholder 
+Shareholding percentage 
+Wolfgang Rudolf Beck (through WQB 
+Vermoegensverwaltungs GmbH) 
+30 per cent. 
+Christopher Ferdinand Beck (through 
+CB Global Asset Management GmbH) 
+30 per cent. 
+Boris Ziganke (through DALI asset 
+Management GmbH) 
+40 per cent. 
+ 
+Shareholder 
+Wolfgang Beck 
+Shareholder 
+Christopher Beck 
+Shareholder 
+Boris Ziganke 
+Shareholder 
+WQB Vermoegensverwaltungs GmbH 
+Shareholder 
+CB Global Asset Management GmbH 
+Shareholder 
+DALI Asset Management GmbH 
+Tradias GmbH 
+  
+Address:  
+Rossmarkt 21 
+D-60311 Frankfurt am Main 
+Germany 
+ 
+Managing Director: 
+Christopher Beck 
+Tradias Treuhand GmbH 
+  
+Address:  
+Rossmarkt 21 
+D-60311 Frankfurt am Main 
+Germany 
+ 
+CEO: 
+Bjoern Weigel 
+Tradias Issuance GmbH 
+  
+Address:  
+Rossmarkt 21 
+D-60311 Frankfurt am Main 
+Germany 
+ 
+CEO: 
+Christopher Beck 
+100% 
+100% 
+100% 
+100% 
+100% 
+30% 
+30%
+40%
+
+--- Page 19 ---
+- 18 - 
+ 
+ 
+10.5 MANAGEMENT BOARD 
+Currently, the Issuer’s management board consists of one managing director. The current managing 
+director of the Issuer is: 
+Name 
+Occupation 
+Christopher Ferdinand Beck 
+Managing Director 
+ 
+The managing director can be contacted at Roßmarkt 21, 60311 Frankfurt am Main, Germany. 
+The managing director has declared that no potential conflicts of interest between any duties to the 
+Issuer and his private interest or other duties exist. 
+10.6 SHARE CAPITAL 
+The registered share capital (Stammkapital) of the Issuer amounts to EUR 25,000. The share capital has 
+been fully paid up. All shares carry the same rights and obligations. The shares were created under 
+German law. 
+10.7 FISCAL YEAR 
+The fiscal year of the Issuer is the calendar year. 
+The Issuer’s statutory auditor for the Annual Financial Statements (as defined below) is D & P 
+Wirtschaftsprüfung GmbH, with their registered office at Biebergasse 2, 60313 Frankfurt am Main. 
+D & P Wirtschaftsprüfung GmbH is a member of the German chamber of public accountants 
+(Wirtschaftsprüferkammer). 
+10.8 RATING 
+The Issuer has not been rated. 
+10.9 MAJOR SHAREHOLDERS 
+The Issuer’s sole shareholder is Tradias. The shareholders of Tradias are set out in the table above (10.4 
+Organisational Structure). 
+10.10 INTERESTS OF NATURAL AND LEGAL PERSONS INVOLVED IN THE ISSUE/OFFER 
+Various companies affiliated with the Issuer are involved in the conception and implementation of the 
+issuance of the Tokenized Securities, including Tradias GmbH as parent company of the Issuer and 
+Tradias Treuhandgesellschaft mbH, a sister company of the Issuer, acting as Security Trustee. In 
+addition, the group of shareholders of Tradias GmbH (i.e., Wolfgang Beck, Christopher Beck and Boris 
+Ziganke) and Bankhaus Scheich Wertpapierspezialist AG, acting as Authorised Participant, are partially 
+congruent. The shareholders of Tradias GmbH also belong to the management and executive staff of 
+Bankhaus 
+Scheich 
+Wertpapierspezialist 
+AG. 
+Tradias 
+GmbH 
+and 
+Bankhaus 
+Scheich 
+Wertpapierspezialist AG may offer their services in relation to the issuance and placement of the 
+Tokenized Securities on terms that do not qualify as arms’ length conditions. Each of these parties has 
+an interest in the successful placement of the Tokenized Securities. 
+If not specified otherwise in the Final Terms for a Series of Tokenized Securities, other than the interests 
+described above, there are no interests, in particular, no conflicts of interest that are material to the issue 
+and offer of the Tokenized Securities. 
+10.11 MATERIAL CONTRACTS AND TRANSACTIONS 
+The Issuer has entered into the following agreements and has conducted the following transactions 
+which are material to the Issuer’s ability to meet its obligations to Tokenholders: 
+ 
+Security Trust Agreement entered into between the Issuer and Tradias Treuhandgesellschaft 
+mbH in its function as the Security Trustee dated on or around the date of the relevant Final
+
+--- Page 20 ---
+- 19 - 
+ 
+ 
+Terms in relation to each Series of Tokenized Securities. The Security Trust Agreement 
+provides for provisions on the Security in favour of the Security Trustee for the benefit of the 
+investors and the Security Trustee itself relating to all of the Issuer's rights, title, interest and 
+benefit, present and future, in, to and from the Hedging Account maintained by a custodian 
+bank on behalf of the Issuer in which the relevant Hedging Position is booked and the bank 
+account in which the cash forming part of the Hedging Position is held. The Security Trust 
+Agreement is governed by the laws of Germany. 
+ 
+Authorised Participant Agreement entered into between the Issuer and Bankhaus Scheich 
+Wertpapierspezialist AG. The Authorised Participant Agreement relates to the initial purchase 
+of the Tokenized Securities and re-sale of the same. Furthermore, the Authorised Participant 
+Agreement provides for a fee for Bankhaus Scheich Wertpapierspezialist AG where the same 
+procures units of the Underlying for the Hedging Position (to the extent that the Authorised 
+Participant does not purchase the Tokenized Securities with units of the Underlying).  
+ 
+Custodian Agreement entered into between the Issuer and Société Générale S.A., 
+Zweigniederlassung Frankfurt acting as custodian bank in relation to the maintenance of the 
+Hedging Account and the cash account for each Series of Tokenized Securities.  
+ 
+Smart Contract Agreement entered into between the Issuer and Cashlink Technologies GmbH 
+in relation to the creation and maintenance of the smart contract for the Tokenized Securities. 
+ 
+Management Agreement entered into between the Issuer and Tradias GmbH relating to the 
+general management and administration of the Issuer, including accounting, legal services and 
+certain IT support services to the Issuer in relation to all Series of Tokenized Securities 
+ 
+Arranger Agreement entered into between the Issuer and Tradias GmbH. The Arranger 
+Agreement includes in particular the indemnification of the Issuer from current costs related to 
+the implementation of the project relating to the issuance of the Tokenized Securities. 
+10.12 TREND INFORMATION  
+There are no known trends, uncertainties, demands, commitments or events that are reasonably likely 
+to have a material effect on the Issuer’s prospects for at least the current financial year.  
+10.13 MATERIAL ADVERSE CHANGE IN THE PROSPECTS  
+There has been no material adverse change in the prospects of the Issuer since 31 December 2021, the 
+date of its last published audited financial information.  
+10.14 SIGNIFICANT CHANGE IN THE FINANCIAL PERFORMANCE 
+There has been no significant change in the financial performance of the Issuer since 31 December 
+2021, i.e., the end of the last financial period for which financial information has been published to the 
+date of this Base Prospectus.  
+10.15 SIGNIFICANT CHANGE IN THE FINANCIAL POSITION 
+There has been no significant change in the financial position of the Issuer since 31 December 2021, 
+i.e., the end of the last financial period for which financial information has been published to the date 
+of this Base Prospectus.  
+10.16 BORROWING AND FUNDING 
+There have been no material changes in the borrowing and funding structure of the Issuer since 
+31 December 2021.  
+10.17 LEGAL AND ARBITRATION PROCEEDINGS 
+During the previous 12 months, there have been no governmental, legal or arbitration proceedings, 
+(including any such proceedings which are pending or threatened, of which the Issuer is aware), which
+
+--- Page 21 ---
+- 20 - 
+ 
+ 
+may have, or have had in the recent past, a significant effect on the financial position or profitability of 
+the Issuer.
+
+--- Page 22 ---
+- 21 - 
+ 
+ 
+11. HISTORICAL FINANCIAL INFORMATION 
+The Issuer was incorporated on 13 October 2021. The Issuer’s financial information set forth in this Base 
+Prospectus has been derived from the Issuer’s opening balance sheet as of 13 October 2021 (the "Opening 
+Balance Sheet") and its annual financial statements as of 31 December 2021 (the "Annual Financial 
+Statements", and, together with the Opening Balance Sheet, the "Financial Statements"). 
+The Financial Statements have been prepared in accordance with the German Commercial Code 
+(Handelsgesetzbuch).  
+The Annual Financial Statements have been audited and an unqualified auditor’s report has been issued. 
+The fiscal year of the Issuer commences on 1 January and ends on 31 December. The next financial statements 
+of the Issuer will be prepared as of and for the year ended 31 December 2022.
+
+--- Page 23 ---
+- 22 - 
+ 
+ 
+12. GENERAL DESCRIPTION OF THE TOKENIZED SECURITIES AND THE PROGRAMME  
+12.1 DESCRIPTION OF THE TOKENIZED SECURITIES 
+a) 
+Form of Tokenized Securities, Status 
+Tokenized Securities issued under this Base Prospectus are issued under German law and shall be 
+qualified as debt securities sui generis (Schuldverschreibungen eigener Art). The Tokenized Securities 
+are issued in tokenized form and do not provide for interest payments and do not have a fixed maturity 
+date. The obligations under the Tokenized Securities constitute direct, unsubordinated and secured 
+obligations of the Issuer ranking pari passu among themselves. 
+The Tokenized Securities are based on the polygon-sidechain of the ethereum-blockchain or any other 
+blockchain the Issuer might select for the tokenization of the Tokenized Securities. The Tokenized 
+Securities will be registered in a register operated by the Issuer from which all transfers as well as a list 
+of those blockchain addresses to which the tokens representing the Tokenized Securities are assigned 
+can be obtained (the "Register"). The Issuer operates the Register with a software solution provided by 
+an external service provider. The operation of the Register includes the ability to view entrys made in 
+the Register and the capacity to pull the relevant data from the Register, such as the blockchain addresses 
+to which the tokens representing the Tokenized Securities are assigned. Such data will also be included 
+in a digital file off the blockchain. Each blockchain address can then be assigned to the respective user 
+in order to give notices or for purposes of redemption. 
+If tokens are held in a collective wallet, only the blockchain address of this collective wallet and the 
+crypto custodian as operator of such wallet will be visible in the Register as a Tokenholder. 
+Furthermore, all transfers of tokens can be viewed in the Register, provided that these are not token 
+transfers within the same collective wallet. Token transfers within the same collective wallet, i.e. where 
+the same collective wallet is both the seller's and the purchaser's wallet, do not take place via the 
+blockchain and are therefore not disclosed in the Register. Such transfers are recorded in the crypto 
+custodian's transaction register, as operator of such collective wallet. The Issuer and Tradias have access 
+to the transaction register administered by the crypto custodian. 
+b) 
+Transfer of Tokenized Securities 
+The Tokenized Securities will be transferred via assignment (Abtretung) pursuant to section 398 of the 
+German Civil Code. Such transfer will be effected through entry of the blockchain address of the new 
+Tokenholder in the Register or if such Tokenholder’s Tokenized Securities are held in a collective wallet 
+through entry in the crypto custodian's transaction register. Tokenized Securities can only be transferred 
+via the Blockchain and through entry in the Register or through entry in the crypto custodian's 
+transaction register. 
+c) 
+Custody by Tokenholders 
+The Tokenized Securities are held in wallets by investors and only investors will have access to their 
+wallets. 
+d) 
+Issue Price of the Tokenized Securities and Yield 
+The issue price of the Tokenized Securities will be stated in the relevant Final Terms. 
+The yield of the Tokenized Securities cannot be calculated at the issue date of the Tokenized Securities. 
+e) 
+Interest on the Tokenized Securities and Redemption of the Tokenized Securities 
+The Tokenized Securities do not provide for interest payments and do not have a fixed maturity date. 
+The Tokenized Securities will only be redeemed upon occurrence of an Issuer's Call or a Tokenholder's 
+Exercise.
+
+--- Page 24 ---
+- 23 - 
+ 
+ 
+(a) 
+Mandatory Redemption upon Issuer’s Call 
+Tokenized Securities may be redeemed by the Issuer upon the occurrence of an Issuer Redemption 
+Event (as further described in the Terms and Conditions) at their Redemption Amount. 
+(b) 
+Redemption upon Tokenholder's Exercise 
+Each Tokenholder may request redemption of its Tokenized Securities at any time at their Redemption 
+Amount. 
+Tokenized Securities will either be redeemed in cash or by delivery of units of the Underlying at the 
+option of the Tokenholder.  
+Where the Tokenholder elects redemption in cash, the Issuer shall pay to the Tokenholder on the 
+relevant Redemption Date the product of (i) the Cash Euro Equivalent in euro, calculated as at the 
+relevant Calculation Date, and (ii) the number of Tokenized Securities to be redeemed, less a Structuring 
+Fee, if any (the "Cash Redemption"). 
+"Cash Euro Equivalent" means the cash amount in euro at which the cash management company is 
+willing to purchase one Unit of the Underlying on a Calculation Date and which the cash management 
+company has published or otherwise announced accordingly, commercially rounded to two decimal 
+places and, to the extent that the cash management company does not itself report such cash amount in 
+euro, the euro equivalent of such cash amount on the basis of the conversion rate applicable on the 
+respective Redemption Date.  
+Where the Tokenholder elects delivery of units of the Underlying, the Issuer shall deliver of Units of 
+the Underlying in a number equal in aggregate value to the amount of the Cash Redemption, less a 
+Delivery Charge, if any, and with settlement of any fractional amounts in euro. 
+(c) 
+Effects of the value of the Underlying 
+The value and performance of the Tokenized Securities materially depends on the value and 
+performance of the respective Underlying.  
+In accordance with their derivative structure based on the Issuer's payment and delivery obligations to 
+Tokenholders under the Tokenized Securities, the Tokenized Securities are expected (subject to the 
+deduction of any fees and costs) to track the performance of the Underlying nearly 1:1.  
+f) 
+Description of the Underlying 
+The Underlying means the units of an open-ended investment fund issued by an investment 
+management company, having its registered seat in Germany, Ireland, Luxembourg or France and 
+regulated by Directive 2014/91/EU of 23 July 2014 and relevant delegated regulations 
+(Kapitalverwaltungsgesellschaft - "KVG"), as further specified in the Final Terms (the "Underlying").  
+The investment guidelines of the open-ended investment funds will provide for the fund assets to consist 
+of the assets referred to in sections 193 to 198 of the German Capital Investment Code 
+(Kapitalanlagegesetzbuch – KAGB). 
+The Isser may also, from time to time, issue Tokenized Securities with Underlyings other than those 
+listed above. 
+The Tokenized Securities shall track the value of the Underlying. The issue price will be equal to the 
+amount in euro at which the KVG is prepared to sell a unit of the Underlying on the relevant issue date, 
+while the redemption will be through delivery of the Underlying or cash redemption, in each case 
+calculated or equivalent to an amount in euro at which the KVG is willing to purchase one unit of the 
+Underlying on the relevant calculation date pertaining to the relevant redemption date. 
+g) 
+Sale of Tokenized Securities in the Secondary Market 
+A Tokenholder may sell its Tokenized Securities via an OTC market at any time (provided that a liquid 
+market exists). The Issuer will not charge any fees. However, broker fees may be incurred.
+
+--- Page 25 ---
+- 24 - 
+ 
+ 
+Bankhaus Scheich Wertpapierspezialist AG ("BHS"), or any other suitable third person specified in the 
+applicable Final Terms, will undertake to take over the market making for the trading of the Tokenized 
+Securities (the "Market Maker"). The Market Maker will not enter into any direct client relationships 
+in the secondary market with private clients within the meaning of section 67 (3) German Securities 
+Trading Act (Wertpapierhandelsgesetz – WpHG) or with natural persons. In order to facilitate the 
+trading of the Tokenized Securities, the Market Maker will enter into cooperation agreements with 
+Authorised Participants, financial intermediaries and other commission agents and will provide them 
+with bid and offer prices to facilitate the trading of the Tokenized Securities on an ongoing basis. 
+Trading of the Tokens will technically by facilitated through an online platform which is operated by 
+Tradias (the "Platform"). 
+h) 
+ECB Eligibility 
+The Tokenized Securities are not intended to be held in a manner which would allow for them to be 
+recognised as eligible collateral for Eurosystem monetary policy and intra-day credit operations by the 
+Eurosystem either upon issue or at any or all times during their life. 
+i) 
+Ratings 
+The Tokenized Securities have not been rated. 
+j) 
+Clearing and Settlement 
+Payments and transfers of any Series of Tokenized Securities will not be settled through any clearing 
+system. 
+k) 
+Determination of issue specific variables 
+Certain variables, such as values, dates and other information, are determined individually, on an issue 
+specific case by case basis, in relation to each Series of Tokenized Securities. Such variables will be 
+determined in the respective Final Terms relating to each Series of Tokenized Securities. 
+The information so determined are: 
+ 
+Underlying; 
+ 
+Issue Date; 
+ 
+Issue Price; 
+ 
+Series No. and Tranche No.; 
+ 
+International Securities Identification Number (ISIN); 
+ 
+Indication where information about the past and the future performance of the Underlying and 
+its/their volatility can be obtained; 
+ 
+Indication whether or not the issuer intends to provide post issuance information; 
+ 
+Countries where the offer to the public takes place; 
+ 
+Information with regard to the manner, place and date of the publication of the results of the 
+offer; 
+ 
+Names and addresses of the entities which have a firm commitment to act as intermediaries in 
+secondary trading, providing liquidity through bid and offer rates and description of the main 
+terms of their commitment (Market Makers); 
+ 
+Names and addresses of the Crypto Custodian.
+
+--- Page 26 ---
+- 25 - 
+ 
+ 
+12.2 DESCRIPTION OF THE SECURITY 
+The Issuer will grant the following security (the "Security") for the benefit of the Tokenholders and 
+Tradias Treuhandgesellschaft mbH (the "Security Trustee"): 
+a) 
+Security over Hedging Account 
+Pursuant to section 13 of the Terms and Conditions the Issuer shall grant to the Security Trustee a lien 
+on the Hedging Account (the "Security") for the benefit of the Tokenholders as collateralisation of the 
+claims of the Tokenholders under the Tokenized Securities, whereby "Hedging Account" means the 
+custody account of the Issuer with a custodian bank in which the relevant Hedging Position is booked 
+and the bank account in which the cash forming part of the Hedging Position is held. "Hedging 
+Position" means the amount which the Issuer invests (taken from the Issue Price) to secure the 
+performance of its obligations under the Tokenized Securities. The Hedging Position may consist of 
+units in the Underlying, cash or other assets as further specified in the Security Trust Agreement. Each 
+time the Issuer issues a Tokenized Security, it will acquire a unit of the Underlying and add it to the 
+Hedging Position. The obligation to deliver the units of the Underlying lies with the Authorised 
+Participant who is the primary purchaser or subscriber of each Tokenized Security. As a result, the 
+Hedging Position will contain as many units of the Underlying as Tokenized Securities were issued, 
+which corresponds to a hedging ratio of 100% once the unit of the Underlying has been delivered to the 
+Issuer. This typically occurs within the usual settlement period for the units of the Underlying, 
+corresponding to a settlement period of two business days (T+2).  
+However, since the Issuer can issue Tokenized Securities outside the usual settlement period of the units 
+of the Underlying, and due to the fact that the Tokenzed Securities can be settled earlier than the units 
+of the Underlying can be delivered into the Hedging Account, there can be a temporary shortfall in the 
+Hedging Position. For example, the Tokenized Security may be issued on a Friday, but the delivery of 
+the unit of the Underlying will not take place until the following Tuesday. However, as soon as the 
+Authorised Participant can meet its delivery obligation in accordance with the settlement cycles of the 
+Underlying, the investors’ claims are again 100% covered.  
+The temporary shortfall will not be noticeable for the investors to the extent that their claim to exchange 
+the Tokenized Securities 1:1 for units of the Underlying is also linked to the settlement period of the 
+Underlying, i.e., a redemption request cannot be satisfied sooner than within two business days (T+2). 
+In order to mitigate any potential shortfall in the Hedging Portfolio due to the Authorised Participant 
+not meeting its obligations to deliver units of the Underlying to the Hedging Account, the Issuer could 
+acquire units of the Underlying via derivatives. 
+b) 
+Security Trust Agreement 
+In relation to each Series of Tokenized Securities, the Issuer and the Security Trustee have entered or 
+will enter into a Security Trust Agreement, pursuant to which the Security Trustee will be appointed to 
+act as security trustee of and for the benefit of the Tokenholders and the Security Trustee itself in 
+connection with the administration and the handling of the rights of the Tokenholders against the Issuer 
+as well as among themselves in relation to the Security. In particular, the Security Trustee shall (i) 
+administer and enforce such Security which has been created by way of pledge (Verpfändung) or 
+otherwise transferred to it under an accessory security right (akzessorische Sicherheit); and (ii) act in 
+relation to the Security in accordance with the terms and subject to the conditions of the Security Trust 
+Agreement. 
+c) 
+Enforcement of Security 
+The Security Trust Agreement grants to the Security Trustee the right to enfoce the Security in full or 
+in part upon notification by a Tokenholder that the Issuer has not complied with its obligations to 
+provide either cash or Tokenized Securities to the relevant Tokenholder following a request pursuant to 
+section 9.3 of the Terms and Conditions. The Security Trustee shall only be entitled to enforce the 
+Security, if the requirements set forth in sections 1273, 1204 et seq. of the German Civil Code are 
+satisfied (Pfandreife). The Security Trustee is entitled to grant the Issuer a remedy period of up to 30 
+days in which time no actions enforcement of the Security may be undertaken, in order to provide the
+
+--- Page 27 ---
+- 26 - 
+ 
+ 
+Issuer with sufficient time to remedy, arrange for the breach to be waived by the party affected or 
+otherwise cure the cause of the Security becoming enforceable.
+
+--- Page 28 ---
+- 27 - 
+ 
+ 
+13. TERMS AND CONDITIONS 
+TERMS AND CONDITIONS OF THE TOKENIZED SECURITIES 
+(the "Terms and Conditions") 
+EMISSIONSBEDINGUNGEN DER TOKENBASIERTEN SCHULDVERSCHREIBUNGEN 
+(die "Emissionsbedingungen") 
+These Terms and Conditions are written in the English and German language. The German language version 
+shall be the only legally binding version. The English version, shall be provided for convenience only. 
+Diese Emissionsbedingungen sind in englischer und deutscher Sprache abgefasst. Die deutsche Sprachfassung 
+ist rechtlich bindend. Die englische Sprachfassung wird nur als unverbindliche Übersetzung zur Verfügung 
+gestellt. 
+ 
+Token-Bedingungen der 
+tokenbasierten Schuldverschreibungen 
+[●] 
+der 
+Tradias Issuance GmbH, Frankfurt am Main 
+Legal Entity Identifier (LEI): 
+5299009CMRBW5U9HEJ15 
+(die „Token-Bedingungen“) 
+Token Terms and Conditions of the 
+Tokenized Securities 
+[●] 
+of 
+Tradias Issuance GmbH, Frankfurt am Main 
+Legal Entity Identifier (LEI): 
+5299009CMRBW5U9HEJ15 
+(the “Token Conditions”) 
+ 
+Definitionen 
+ 
+Definitions 
+Für die Zwecke dieser Token-Bedingungen gelten die 
+folgenden Begriffsbestimmungen: 
+For the purposes of these Token Conditions, the 
+following definitions apply: 
+„Ausgabepreis“ bezeichnet [●]. 
+“Issue Price” means [●]. 
+„Bankarbeitstag“ ist ein Tag, an dem das Trans-
+European Automated Real-Time Gross Settlement 
+Express Transfer (TARGET2) System Zahlungen 
+abwickelt und Geschäftsbanken in Frankfurt am Main 
+im Allgemeinen geöffnet sind, um Zahlungen 
+abzuwickeln. 
+“Banking Day” means a day on which the Trans-
+European Automated Real-Time Gross Settlement 
+Express 
+Transfer 
+(TARGET2) 
+system 
+settles 
+payments and commercial banks in Frankfurt am 
+Main are generally open to process payments. 
+„Barrückzahlung“ ist eine Zahlung des Emittenten 
+am jeweiligen Rückzahlungstag im Betrag des 
+Produktes aus Geld-Euro-Gegenwert in Euro, 
+berechnet zum jeweiligen Berechnungstag, und 
+Anzahl 
+der 
+zurückzugebenden 
+tokenbasierten 
+Schuldverschreibungen, 
+ggf. 
+abzüglich 
+einer 
+Strukturierungsgebühr. 
+“Cash Redemption” means a payment by the Issuer 
+on the relevant Redemption Date in the amount of the 
+product of the Cash Euro Equivalent in euro, 
+calculated as at the relevant Calculation Date, and the 
+number of Tokenized Securities to be redeemed, less 
+a Structuring Fee, if any. 
+„Begebungstag“ bezeichnet [●]. 
+“Issue Date” means [●]. 
+„Berechnungstag“ bezeichnet denjenigen Tag, (i) zu 
+dem eine Gläubiger-Rückzahlungsmitteilung dem 
+Emittenten gemäß Ziffer 9.3 zugegangen ist oder (ii) 
+zu dem eine Emittentenkündigungserklärung durch 
+“Calculation Date” means the date (i) on which a 
+Holder Put Redemption Notice is received by the 
+Issuer pursuant to Condition 9.3 or (ii) on which an 
+Issuer Call Redemption Notice is given by the Issuer
+
+--- Page 29 ---
+- 28 - 
+ 
+ 
+den Emittenten gemäß Ziffer 9.2 abgegeben wird, 
+oder, wenn dieser Tag kein Bankarbeitstag ist, den 
+diesem 
+Tag 
+vorausgegangenen 
+letzten 
+Bankarbeitstag. 
+pursuant to Condition 9.2 or, if such date is not a 
+Banking Day, the last Banking Day preceding such 
+date. 
+„Blockchain“ bezeichnet [●]. 
+“Blockchain” means [●]. 
+„Brief-Euro-Gegenwert“ bezeichnet den Geldbetrag 
+in Euro, zu dem die KVG am jeweiligen 
+Begebungstag oder, wenn der Begebungstag kein 
+Bankarbeitstag ist, an dem diesem vorausgegangenen, 
+letzten Bankarbeitstag, zum Verkauf einer Einheit des 
+Underlyings bereit ist und den die KVG entsprechend 
+veröffentlicht bzw. anderweitig bekannt gemacht hat, 
+kaufmännisch gerundet auf zwei Nachkommastellen 
+und, soweit die KVG diesen Geldbetrag selbst nicht 
+in Euro ausweist, der Euro-Gegenwert dieses Geld-
+betrages 
+auf 
+Grundlage 
+des 
+am 
+jeweiligen 
+Begebungstag geltenden Umrechnungskurses. 
+“Ask Price Euro Equivalent Value” means the 
+monetary amount in euro at which KVG is prepared 
+to sell a Unit of the Underlying on the relevant Issue 
+Date or, if the Issue Date is not a Banking Day, on the 
+last Banking Day preceding such Issue Date and 
+which KVG has published or otherwise announced 
+accordingly, commercially rounded to two decimal 
+places and, to the extent that KVG does not itself 
+report this cash amount in euros, the euro equivalent 
+of this cash amount on the basis of the conversion rate 
+applicable on the respective Issue Date. 
+„Einheit des Underlyings“ bezeichnet [●]. 
+“Unit of the Underlying” means [●]. 
+„Emittent“ bezeichnet die Tradias Issuance GmbH, 
+eine nach deutschem Recht errichtete Gesellschaft mit 
+beschränkter Haftung mit Sitz in Frankfurt am Main, 
+eingetragen im Handelsregister des Amtsgerichts 
+Frankfurt am Main unter HRB 125428. 
+“Issuer” means Tradias Issuance GmbH, a limited 
+liability company incorporated under German law 
+with its registered office in Frankfurt am Main, 
+registered in the commercial register of the local court 
+of Frankfurt am Main under HRB 125428. 
+„Emittentenkündigung“ hat die Bedeutung wie in 
+Ziffer 9.2 definiert. 
+“Issuer Call” has the meaning as defined in 
+Condition 9.2. 
+„Emittentenkündigungserklärung“ 
+hat 
+die 
+Bedeutung wie in Ziffer 9.2 definiert. 
+“Issuer Call Redemption Notice” has the meaning 
+as defined in Condition 9.2. 
+„Emittentenkündigungsereignis“ hat die Bedeutung 
+wie in Ziffer 9.2 definiert. 
+“Issuer Call Redemption Event” has the meaning as 
+defined in Condition 9.2. 
+„Emittentenkündigung-Rückzahlungstag“ hat die 
+Bedeutung wie in Ziffer 9.2 definiert. 
+“Issuer Call Redemption Date” has the meaning as 
+defined in Condition 9.2. 
+„Erster Begebungstag“ bezeichnet [●]. 
+“First Issue Date” means [●]. 
+„Ertragsbeteiligung“ hat die Bedeutung wie in 
+Ziffer 8.2 definiert. 
+“Profit Participation” has the meaning as defined in 
+Condition 8.2. 
+„Fälligkeitstag“ bezeichnet einen Tag, an dem eine 
+Zahlung fällig wird. 
+“Maturity Date” means a date on which a payment is 
+due. 
+„Geld-Euro-Gegenwert“ bezeichnet den Geldbetrag 
+in Euro, zu dem die KVG an einem Berechnungstag 
+zum Kauf einer Einheit des Underlyings bereit ist und 
+den die KVG entsprechend veröffentlicht bzw. 
+anderweitig bekannt gemacht hat, kaufmännisch 
+gerundet auf zwei Nachkommastellen und, soweit die 
+KVG diesen Geldbetrag selbst nicht in Euro ausweist, 
+der 
+Euro-Gegenwert 
+dieses 
+Geldbetrages 
+auf 
+Grundlage des am jeweiligen Rückzahlungstag 
+geltenden Umrechnungskurses. Für den Fall, dass die 
+KVG an einem Berechnungstag den Geld-Euro-
+Gegenwert 
+nicht 
+gemäß 
+den 
+vorstehenden 
+“Cash Euro Equivalent” means the cash amount in 
+euro at which KVG is willing to purchase one Unit of 
+the Underlying on a Calculation Date and which KVG 
+has published or otherwise announced accordingly, 
+commercially rounded to two decimal places and, to 
+the extent that KVG does not itself report such cash 
+amount in euro, the euro equivalent of such cash 
+amount on the basis of the conversion rate applicable 
+on the respective Redemption Date. In the event that 
+KVG does not publish or otherwise announce the 
+Cash Euro Equivalent on a Calculation Date in 
+accordance with the foregoing provisions of this
+
+--- Page 30 ---
+- 29 - 
+ 
+ 
+Bestimmungen dieser Definition veröffentlicht bzw. 
+anderweitig bekannt macht, wird der zuletzt 
+veröffentlichte Geld-Euro-Gegenwert herangezogen. 
+definition, the most recently published Cash Euro 
+Equivalent shall be used. 
+„Gläubiger“ 
+bezeichnet 
+die 
+Inhaber 
+der 
+tokenbasierten Schuldverschreibungen. 
+“Holder” means the Holders of the Tokenized 
+Securities. 
+„Gläubiger-Rückzahlungsmitteilung“ 
+hat 
+die 
+Bedeutung wie in Ziffer 9.3 definiert. 
+“Holder Put Redemption Notice” has the meaning 
+as defined in Condition 9.3. 
+„Gläubiger-Rückzahlungstag“ 
+bezeichnet 
+den 
+Kalendertag, der zehn (10) Bankarbeitstage nach dem 
+Tag 
+liegt, 
+zu 
+dem 
+eine 
+Gläubiger-Rück-
+zahlungsmitteilung dem Emittenten gemäß Ziffer 9.3 
+zugegangen ist. 
+“Holder Put Redemption Date” means the calendar 
+day which is ten (10) Banking Days after the day on 
+which a Holder Put Redemption Notice is received by 
+the Issuer pursuant to Condition 9.3. 
+„Hedging-Depot“ bezeichnet [●]. 
+“Hedging Account” means [●]. 
+„Kryptoverwahrer” ist [●].  
+“Crypto Custodian” means [●]. 
+„KVG“ bezeichnet [●]. 
+“KVG” means [●]. 
+„Lieferung“ bezeichnet die Lieferung von Einheiten 
+des Underlyings in einer Anzahl, die im Gesamtwert 
+dem Betrag der Barrückzahlung, ggf. abzüglich einer 
+Lieferungsgebühr und unter Abgeltung etwaiger 
+Spitzenbeträge in Euro, entspricht, wobei der Wert 
+einer Einheit des Underlyings dem Geld-Euro-
+Gegenwert 
+zum 
+betreffenden 
+Berechnungstag 
+entspricht. 
+“Delivery” means the delivery of Units of the 
+Underlying in a number equal in aggregate value to 
+the amount of the Cash Redemption, less a Delivery 
+Charge, if any, and with settlement of any fractional 
+amounts in euro, the value of one Unit of the 
+Underlying being the Cash Euro Equivalent as at the 
+relevant Calculation Date. 
+„Lieferungsgebühr“ bezeichnet [●]. 
+“Delivery Charge” means [●]. 
+„Plattform“ bezeichnet die technisch betriebene 
+Online-Plattform für den Ersterwerb und den Handel 
+der Token. 
+“Platform” means the technically operated online 
+platform for the initial purchase and trading of the 
+Token. 
+„Register“ bezeichnet das Register welches vom 
+Emittenten geführt wird, aus dem sich sämtliche 
+Übertragungen 
+sowie 
+die 
+Liste 
+der 
+Blockchainadressen ergeben, denen die Token, die 
+die 
+tokenbasierten 
+Schuldverschreibung 
+repräsentieren, zugeordnet sind. 
+“Register” means the register operated by the Issuer 
+from which all transfers as well as a list of those 
+blockchain addresses to which the tokens representing 
+the Tokenized Securities are assigned can be 
+obtained. 
+„Rückzahlung“ bezeichnet die Leistung, die ein 
+Gläubiger gemäß Ziffer 9.1 gegen Rückgabe einer 
+tokenbasierten Schuldverschreibung beanspruchen 
+kann und die nach Wahl des Gläubigers – sofern in 
+diesen 
+Token-Bedingungen 
+nicht 
+abweichend 
+geregelt – entweder in einer Barrückzahlung oder 
+einer Lieferung besteht. 
+“Redemption” means the performance which a 
+Holder may claim pursuant to Condition 9.1 against 
+surrender of a Tokenized Security and which, at the 
+option of the Holder, unless otherwise provided in 
+these Token Conditions, consists of either a Cash 
+Redemption or Delivery. 
+„Rückzahlungstag“ hat die Bedeutung wie in 
+Ziffer 9.1 definiert. 
+“Redemption Date” has the meaning as defined in 
+Condition 9.1. 
+„Sammel-Wallet“ bezeichnet eine von einem 
+Kryptoverwahrer verwaltete und für die Verwahrung 
+von Token zugelassene Wallet, die der gemeinsamen 
+Verwahrung der Token mehrerer Token-Inhaber 
+dient. 
+“Collective Wallet” means a Wallet managed by a 
+Crypto Custodian and approved for the custody of 
+tokens, which is used for the collective custody of the 
+Tokens of multiple Tokenholders.
+
+--- Page 31 ---
+- 30 - 
+ 
+ 
+„Sicherheit“ bezeichnet das zugunsten der Token-
+Inhaber dem Sicherheitentreuhänder eingeräumte 
+Pfandrecht am Hedging-Depot. 
+“Security” means the lien on the Hedging Account 
+granted in favour of the Tokenholders to the Security 
+Trustee. 
+„Sicherheitentreuhänder“ bezeichnet die Tradias 
+Treuhandgesellschaft mbH, eine nach deutschem 
+Recht errichtete Gesellschaft mit beschränkter 
+Haftung mit Sitz in Frankfurt am Main, eingetragen 
+im Handelsregister des Amtsgerichts Frankfurt am 
+Main unter HRB 125300. 
+“Security 
+Trustee” 
+means 
+Tradias 
+Treuhandgesellschaft mbH, a limited liability 
+company incorporated under the laws of Germany 
+with its registered office in Frankfurt am Main, 
+registered in the commercial register of the local court 
+of Frankfurt am Main under HRB 125300. 
+„Sicherheiten-Treuhandvertrag“ hat die Bedeutung 
+wie in Ziffer 13.1 definiert. 
+“Security Trust Agreement” has the meaning as 
+defined in Condition 13.1. 
+„Strukturierungsgebühr“ bezeichnet [●]. 
+“Structuring Fee” means [●]. 
+„Token“ bezeichnet die digital auf der Blockchain 
+dezentral gespeicherte Abbildung der tokenbasierten 
+Schuldverschreibungen des Emittenten mit der 
+Bezeichnung [●]. 
+“Token” means the digital representation of the 
+Issuer's Tokenized Securities designated [●], stored 
+on the Blockchain in a decentralised way. 
+„Token-Inhaber“ bezeichnet diejenige Person, die 
+entweder (i) über die ihr von einem Kryptoverwahrer 
+zugeordnete Nutzer-ID und das Transaktionsregister 
+dieses Kryptoverwahrers im Hinblick auf in eine 
+Sammel-Wallet 
+bei 
+diesem 
+Kryptoverwahrer 
+verwahrte Token oder (ii) über die entsprechende 
+Blockchain-Adresse im Register identifiziert werden 
+kann.  
+“Tokenholder” means the person who can be 
+identified either (i) by the user ID assigned to it by a 
+Crypto Custodian and the Transaction Register of that 
+Crypto Custodian in respect of Tokens held in a 
+Collective Wallet with that Crypto Custodian or (ii) 
+by the relevant Blockchain address in the Register. 
+„tokenbasierte 
+Schuldverschreibungen“ 
+be-
+zeichnet 
+mehrere, 
+„tokenbasierte 
+Schuldver-
+schreibung“ 
+eine 
+Blockchain-basierte 
+Schuld-
+verschreibung als Wertpapier sui generis, die vom 
+Emittenten 
+unter 
+diesen 
+Token-Bedingungen 
+ausgegeben werden und jeweils eine Einheit des 
+Underlyings 
+nach 
+Maßgabe 
+dieser 
+Token-
+Bedingungen wirtschaftlich abbilden. 
+“Tokenized Securities” means multiple notes, 
+“Tokenized Security” means one blockchain-based 
+note as security sui generis issued by the Issuer under 
+these Token Conditions and each economically 
+representing one Unit of the Underlying in accordance 
+with these Token Conditions. 
+„Transaktionsregister“ 
+bezeichnet 
+das 
+vom 
+Kryptoverwahrer geführte Verzeichnis von Token-
+Inhabern, denen die in einem Sammel-Wallet bei 
+diesem 
+Kryptoverwahrer 
+verwahrten 
+Token 
+zugeordnet sind. 
+“Transaction Register” means the register of 
+Tokenholders who are assigned the Tokens held in a 
+Collective Wallet by the Crypto Custodian which is 
+operated by the Crypto Custodian. 
+„Underlying“ bezeichnet [●]. 
+“Underlying” means [●]. 
+„Wallet“ bezeichnet eine jede für die Verwahrung 
+von 
+Token 
+geeignete 
+und 
+zugelassene 
+Verwahrlösung.  
+“Wallet” means any custodial solution suitable and 
+approved for the safekeeping of Tokens. 
+„Whitelisting“ hat die Bedeutung wie in Ziffer 4.1 
+definiert. 
+“Whitelisting” has the meaning as defined in 
+Condition 4.1. 
+„Zahlstelle“ bezeichnet die Bankhaus Scheich 
+Wertpapierspezialist AG, eine nach deutschem Recht 
+errichtete Aktiengesellschaft mit Sitz in Frankfurt am 
+Main, 
+eingetragen 
+im 
+Handelsregister 
+des 
+Amtsgerichts Frankfurt am Main unter HRB 103196 
+“Paying 
+Agent” 
+means 
+Bankhaus 
+Scheich 
+Wertpapierspezialist 
+AG, 
+a 
+stock 
+corporation 
+incorporated under German law with its registered 
+office in Frankfurt am Main, registered in the 
+commercial register of the local court of Frankfurt am
+
+--- Page 32 ---
+- 31 - 
+ 
+ 
+oder eine nach Ziffer 11.2 an deren Stelle tretende 
+andere Zahlstelle. 
+Main under HRB 103196 or any other paying agent 
+replacing it in accordance with Condition 11.2. 
+„Zahlungstag“ bezeichnet einen Fälligkeitstag oder, 
+wenn ein Fälligkeitstag kein Bankarbeitstag ist, den 
+auf 
+den 
+Fälligkeitstag 
+unmittelbar 
+folgenden, 
+nächsten Bankarbeitstag, an dem eine Zahlung 
+tatsächlich zu leisten ist; wegen einer solchen 
+Verschiebung einer Zahlung von einem Fälligkeitstag 
+auf einen abweichenden Zahlungstag entsteht kein 
+Anspruch auf Zahlung von Verzugszinsen. 
+“Payment Date” means a Maturity Date or, if a 
+Maturity Date is not a Banking Day, the next Banking 
+Day immediately following the Maturity Date on 
+which a payment is actually to be made; no right to 
+payment of default interest shall arise by reason of any 
+such postponement of a payment from a Maturity 
+Date to a different payment date. 
+ 
+Allgemeine Bestimmungen 
+ 
+General provisions 
+2.1 
+Der Emittent begibt beginnend mit dem Ersten 
+Begebungstag und nachfolgend an jedem 
+weiteren Begebungstag nach Maßgabe dieser 
+Token-Bedingungen 
+bis 
+zu 
+[●] 
+Stück 
+tokenbasierte 
+Schuldverschreibungen 
+zum 
+jeweiligen Ausgabepreis. 
+2.1 
+The Issuer shall issue, commencing on the First 
+Issue Date and on each subsequent Is-sue Date 
+thereafter, in accordance with these Token 
+Conditions, up to [●] Units of Tokenized 
+Securities at the respective Issue Price. 
+2.2 
+Der Emittent ist berechtigt, das auf die 
+tokenbasierten Schuldverschreibungen ein-
+gezahlte 
+Kapital 
+im 
+Rahmen 
+seines 
+satzungsmäßigen Unternehmensgegenstandes 
+frei zu verwenden. 
+2.2 
+The Issuer is entitled to freely use the capital 
+paid up on the Tokenized Securities within the 
+scope of its statutory corporate purpose. 
+2.3 
+Die 
+tokenbasierten 
+Schuldverschreibungen 
+gewähren den Gläubigern ausschließlich die in 
+diesen 
+Token-Bedingungen 
+niedergelegten 
+schuldrechtlichen Ansprüche und Rechte und 
+keine darüber hinausgehenden Ansprüche oder 
+Rechte, 
+insbesondere 
+keine 
+Mitgliedschaftsrechte, wie z.B. Teilnahme-, 
+Mitwirkungs- und/oder Stimmrechte. Mit dem 
+Erwerb 
+der 
+tokenbasierten 
+Schuldverschreibungen 
+ist 
+weder 
+vom 
+Emittenten noch von dem Gläubiger der 
+Abschluss einer stillen Beteiligung im Sinne 
+der §§ 230 ff. HGB beabsichtigt. Die 
+tokenbasierten Schuldverschreibungen sind 
+nicht an einem Liquidationserlös beteiligt. 
+2.3 
+The Tokenized Securities shall grant the 
+Holders solely the claims and rights under the 
+law of obligations set out in these Token 
+Conditions and no further claims or rights, in 
+particular no membership rights, such as 
+participation, involvement and/or voting rights. 
+With the acquisition of the Tokenized 
+Securities, neither the Issuer nor the Holder 
+intends to enter into a silent partnership within 
+the meaning of §§ 230 et seq. of the German 
+Commercial 
+Code 
+(Handelsgesetzbuch 
+- 
+HGB). The Tokenized Securities are not 
+entitled to participate in any liquidation 
+proceeds. 
+2.4 
+Jede tokenbasierte Schuldverschreibung räumt 
+dem jeweiligen Gläubiger das Recht ein, vom 
+Emittenten eine Rückzahlung nach Maßgabe 
+von Ziffer 9.3 zu verlangen. 
+2.4 
+Each Tokenized Security grants the respective 
+Tokenholder the right to demand repayment 
+from the Issuer in accordance with Condition 
+9.3. 
+2.5 
+Der Emittent generiert eine der Anzahl der 
+jeweils 
+auszugebenden 
+tokenbasierten 
+Schuldverschreibungen entsprechende Anzahl 
+an Token. Wenn und soweit die Blockchain 
+unbenutzbar wird oder die Blockchain ganz 
+oder teilweise die für die Übertragung der 
+Token notwendigen Leistungen einstellt oder 
+nicht mehr unterstützt, ist der Emittent 
+berechtigt, 
+die 
+tokenbasierten 
+2.5 
+The Issuer shall generate a number of Tokens 
+equal to the number of Tokenized Securities to 
+be issued from time to time. If and to the extent 
+that the Blockchain has become unusable or the 
+Blockchain ceases or no longer supports, in 
+whole or in part, the services necessary for the 
+transfer of the Tokens, the Issuer shall be 
+entitled to have the Tokenized Securities 
+digitally mapped on another Blockchain
+
+--- Page 33 ---
+- 32 - 
+ 
+ 
+Schuldverschreibungen ohne Zustimmung der 
+Gläubiger auf einer anderen Blockchain digital 
+abbilden zu lassen. Eine Änderung der 
+Blockchain wird gemäß Ziffer 9.2 bekannt 
+gemacht. 
+without the consent of the Holders. Any change 
+to the Blockchain shall be announced in 
+accordance with section 9.2. 
+2.6 
+Jeder 
+Token 
+verkörpert 
+jeweils 
+eine 
+tokenbasierte Schuldverschreibung. Die Token 
+dienen als Legitimation der Stellung als 
+materiell Berechtigter und damit Gläubiger der 
+tokenbasierten Schuldverschreibungen. Das 
+bedeutet, dass, vorbehaltlich Ziffer 5.2 nur die 
+Token-Inhaber berechtigt sind, die in diesen 
+Token-Bedingungen geregelten Rechte der 
+Gläubiger hinsichtlich der entsprechenden 
+tokenbasierten Schuldverschreibungen geltend 
+zu machen bzw. auszuüben. Vorbehaltlich 
+Ziffer 5.2 ist der Emittent daher ausschließlich 
+berechtigt 
+und 
+verpflichtet, 
+seine 
+Verpflichtungen 
+aus 
+den 
+tokenbasierten 
+Schuldverschreibungen 
+gegenüber 
+solchen 
+Personen zu erbringen, die als Token-Inhaber 
+identifiziert 
+sind, 
+sodass 
+die 
+Leistung 
+gegenüber einer solchen Person auch dann 
+schuldbefreiende Wirkung für den Emittenten 
+hat, wenn diese nicht der materiell berechtigte 
+Gläubiger sein sollte. 
+2.6 
+Each Token embodies one Tokenized Security. 
+The Tokens serve as legitimation of the 
+position as material beneficiary and thus 
+Tokenholder of the Tokenized Security. This 
+means that, subject to Condition 5.2, only the 
+Tokenholders are entitled to assert or exercise 
+the rights of the Holders governed by these 
+Token Conditions in respect of the relevant 
+Tokenized Securities. Subject to Condition 5.2, 
+the Issuer is therefore exclusively entitled and 
+obliged to perform its obligations under the 
+Tokenized Securities vis-à-vis such persons 
+who are identified as Tokenholders, so that the 
+performance vis-à-vis such person constitutes 
+full discharge of the Issuer's obligations even if 
+such person is not the materially entitled 
+Holder. 
+2.7 
+Der Emittent wird zur Generierung der Token 
+einen sog. Smart Contract durch die Tradias 
+GmbH erstellen lassen. Die Tradias GmbH 
+verwaltet im Rahmen dieser für den Emittenten 
+erbrachten Dienstleistung auch den private key 
+des Smart Contracts. Dem Smart Contract der 
+Token ist auf der Blockchain das Register 
+zugeordnet. Das Register beinhaltet eine Liste 
+mit denjenigen Adressen auf der Blockchain, 
+denen Token zugeordnet sind. Soweit Token in 
+einer Sammel-Wallet verwahrt werden, ist im 
+Register nur die Blockchain-Adresse dieser 
+Sammel-Wallet ersichtlich. Dem Register 
+können ferner alle Übertragungen von Token 
+entnommen werden, sofern es sich dabei nicht 
+um Token-Übertragungen innerhalb derselben 
+Sammel-Wallet handelt. Token-Übertragungen 
+innerhalb derselben Sammel-Wallet, bei denen 
+also 
+dieselbe 
+Sammel-Wallet 
+sowohl 
+Veräußerer- als auch Erwerber-Wallet ist, 
+erfolgen nicht über die Blockchain und können 
+daher auch nicht über das Register eingesehen 
+werden. Solche Übertragungen werden im 
+Transaktionsregister des Kryptoverwahrers 
+eingetragen. Der Emittent und die Tradias 
+GmbH als Betreiber der Plattform erhalten von 
+dem Kryptoverwahrer Einsicht in das Trans-
+aktionsregister. Für andere Dritte ist das 
+2.7 
+To generate the Tokens, the Issuer will have 
+created a so-called “Smart Contract” by 
+Tradias GmbH as operator of the platform. As 
+part of this service provided to the Issuer, 
+Tradias GmbH also manages the private key of 
+the Smart Contract. The Register is assigned to 
+the Smart Contract of the Tokens on the 
+Blockchain. The Register contains a list of 
+those addresses on the Blockchain to which 
+Tokens are assigned. If Tokens are held in a 
+Collective Wallet, only the Blockchain address 
+of such Collective Wallet is visible in the 
+Register. Furthermore, all transfers of Tokens 
+can be obtained from the Register, provided 
+that these are not Token transfers within the 
+same Collective Wallet. Token transfers within 
+the same Collective Wallet, i.e. where the same 
+Collective Wallet is both the seller and acquirer 
+wallet, do not take place via the Blockchain and 
+can therefore not be viewed via the register. 
+Such transfers are recorded in the Crypto 
+Custodian's Transaction Register. The Issuer 
+and Tradias GmbH as operator of the platform 
+shall obtain access to the Transaction Register 
+from the Crypto Custodian. The Transaction 
+Register of the Crypto Custodian cannot be 
+accessed by other third parties.
+
+--- Page 34 ---
+- 33 - 
+ 
+ 
+Transaktionsregister des Kryptoverwahrers 
+nicht einsehbar. 
+ 
+Status 
+ 
+Status 
+3.1 
+Die 
+tokenbasierten 
+Schuldverschreibungen 
+begründen unmittelbare, nicht nachrangige und 
+besicherte Verbindlichkeiten des Emittenten 
+gegenüber dem jeweiligen Gläubiger, die 
+untereinander 
+gleichrangig 
+sind 
+und 
+mindestens im gleichen Rang mit allen anderen 
+gegenwärtigen 
+und 
+zukünftigen 
+Verbindlichkeiten des Emittenten stehen, 
+ausgenommen solche Verbindlichkeiten, denen 
+auf 
+Grund 
+zwingender 
+gesetzlicher 
+Vorschriften Vorrang zukommt.  
+3.1 
+The Tokenized Securities constitute direct, 
+unsubordinated and secured obligations of the 
+Issuer to the relevant Holder ranking pari passu 
+among themselves and at least pari passu with 
+all other present and future obligations of the 
+Issuer, except for such obligations which are 
+accorded priority under mandatory provisions 
+of statutory law. 
+3.2 
+Die 
+tokenbasierten 
+Schuldverschreibungen 
+werden nicht verbrieft. Es werden weder eine 
+Globalurkunde noch Einzelurkunden oder 
+Zinsscheine 
+über 
+die 
+tokenbasierten 
+Schuldverschreibungen ausgegeben. 
+3.2 
+The 
+Tokenized 
+Securities 
+will 
+not 
+be 
+represented by a global note and no definitive 
+notes or interest coupons will be issued in 
+respect of the Tokenized Securities. 
+ 
+Übertragung 
+ 
+Transfer 
+4.1 
+Die 
+Übertragung 
+der 
+tokenbasierten 
+Schuldverschreibungen ist nur möglich auf 
+Dritte, die 
+4.1 
+The transfer of the Tokenized Securities is only 
+possible to third parties who 
+a) 
+sich und ihre jeweilige Wallet auf der Plattform 
+angemeldet, 
+die 
+erforderliche 
+Geldwäscheprüfung absolviert und die für die 
+Ausübung der Rechte unter der jeweiligen 
+tokenbasierten 
+Schuldverschreibung 
+erforderlichen Angaben (insbesondere die für 
+die Vornahme von Zahlungen erforderlichen 
+Angaben) übermittelt haben, oder 
+a) 
+have registered themselves and their respective 
+Wallet on the Platform, completed the required 
+money laundering check and submitted the 
+information required to exercise the rights under 
+the respective Tokenized Security (in particular, 
+the information required to make payments); or 
+b) 
+durch 
+Einbindung 
+eines 
+zugelassenen 
+Wertpapier- oder Kreditinstituts, das zugleich 
+Verpflichteter gemäß § 2 GwG ist, eine 
+Geldwäscheprüfung absolviert und in diesem 
+Rahmen die für die Ausübung der Rechte unter 
+der 
+jeweiligen 
+tokenbasierten 
+Schuldverschreibung erforderlichen Angaben 
+(insbesondere die für die Vornahme von 
+Zahlungen erforderlichen Angaben) angegeben 
+haben.  
+b) 
+have completed a money laundering check 
+through the involvement of an authorised 
+securities or credit institution which is also an 
+party obliged pursuant to § 2 German Money 
+Laundering Act (Geldwäschegesetz - GwG) and 
+in this context have provided the information 
+required to exercise the rights under the 
+respective Tokenized Security (in particular, the 
+information required to make payments). 
+(insgesamt das „Whitelisting“). Das Whitelisting 
+wird von der Tradias GmbH als Betreiberin der 
+Plattform und Verwalterin des Smart Contract 
+durchgeführt. Nur auf Wallets Dritter, für die das 
+(collectively, the “Whitelisting”). The Whitelisting 
+shall be carried out by Tradias GmbH as operator of 
+the Platform and administrator of the Smart Contract. 
+Tokens can only be transferred to third party wallets 
+for which whitelisting has taken place.
+
+--- Page 35 ---
+- 34 - 
+ 
+ 
+Whitelisting erfolgt ist, können Token übertragen 
+werden. 
+4.2 
+Die 
+Übertragung 
+der 
+tokenbasierten 
+Schuldverschreibungen erfolgt, vorbehaltlich 
+Ziffer 4.1, im Wege einer Vereinbarung 
+zwischen dem Gläubiger und dem Erwerber, 
+durch die der Erwerber in die Stellung des 
+Gläubigers eintritt. Alle Erklärungen, die für 
+die Übertragung der Stellung als Gläubiger und 
+die Vertragsübernahme erforderlich sind, 
+gelten durch Übertragung des maßgeblichen 
+Tokens als vom Gläubiger und dem Erwerber 
+vorbehaltlos abgegeben und angenommen. 
+Eine Übertragung einzelner Ansprüche oder 
+Rechte 
+aus 
+den 
+tokenbasierten 
+Schuld-
+verschreibungen 
+ist 
+nicht 
+zulässig. 
+Der 
+Emittent 
+erteilt 
+bereits 
+hiermit 
+seine 
+Einwilligung in Übertragungen der Token und 
+damit 
+zugleich 
+der 
+tokenbasierten 
+Schuldverschreibungen nach Maßgabe dieser 
+Token-Bedingungen, sodass es hierfür keiner 
+weiteren Zustimmung des Emittenten bedarf.  
+4.2 
+Subject to Condition 4.1, the transfer of the 
+Tokenized Securities shall be effected by way 
+of an agreement between the Holder and the 
+acquirer by which the acquirer assumes the 
+position of Holder. Any statements required for 
+the transfer of the position as Holder and the 
+transfer of the agreement shall be deemed to 
+have been made and accepted unconditionally 
+by the Holder and the acquirer by transfer of the 
+relevant Token. A transfer of individual claims 
+or rights under the Tokenized Securities is not 
+permitted. The Issuer hereby already gives its 
+consent to transfers of the Tokens and thus also 
+of the Tokenized Securities in accordance with 
+these Token Conditions, so in this respect, no 
+further consent of the Issuer is required. 
+4.3 
+Die 
+Wirksamkeit 
+der 
+Übertragung 
+von 
+tokenbasierten Schuldverschreibungen steht – 
+in Abhängigkeit von der Art der Token-
+Übertragung (wie nachstehend beschrieben) – 
+unter folgender aufschiebender Bedingung: 
+4.3 
+The effectiveness of the transfer of Tokenized 
+Securities is subject to the following condition 
+precedent, depending on the type of Token 
+transfer (as described below): 
+a) 
+Soweit die Übertragung von Token innerhalb 
+einer Sammel-Wallet stattfindet, d.h. bei der die 
+Sammel-Wallet sowohl Veräußerer- als auch 
+Erwerber-Wallet ist, unter der aufschiebenden 
+Bedingung, dass eine Umschreibung der 
+Inhaberschaft im Hinblick auf den betreffenden 
+Token im Transaktionsregister zugunsten des 
+Erwerbers erfolgt. Eine Umschreibung in 
+diesem Sinne gilt als erfolgt, wenn die durch die 
+jeweilige Übertragung von Token bedingte 
+Veränderung 
+des 
+Token-Bestands 
+des 
+Veräußerers und des Token-Bestands des 
+Erwerbers 
+auf 
+der 
+Plattform 
+durch 
+Registereintragung vollzogen wurde. 
+a) 
+Insofar as the transfer of Tokens takes place 
+within a Collective Wallet, i.e. where the 
+Collective Wallet is both the seller's and the 
+acquirer's Wallet, subject to the condition 
+precedent that a transfer of ownership with 
+regard to the relevant Token is made in the 
+Transaction Register in favour of the acquirer. 
+A transfer in this sense shall be deemed to have 
+taken place if the change in the Token portfolio 
+of the seller and the Token portfolio of the 
+acquirer resulting from the respective transfer 
+of Tokens has been effected by entry in the 
+Register; 
+b) 
+In allen anderen Fällen der Übertragung von 
+Token unter der aufschiebenden Bedingung, 
+dass 
+eine 
+technische 
+Übertragung 
+des 
+betreffenden Tokens von dem Veräußerer an 
+den Erwerber auf der Blockchain erfolgt. Eine 
+Übertragung in diesem Sinne gilt als erfolgt, 
+wenn der Status einer solchen Transaktion im 
+Register mit dem für die jeweils benutzte 
+Blockchain kennzeichnenden Erfolgseintrag 
+bestätigt wird.  
+b) 
+Any other case of transfer of Tokens is subject 
+to the condition precedent that a technical 
+transfer of the relevant Token from the seller to 
+the acquirer takes place on the Blockchain. A 
+transfer in this sense shall be deemed to have 
+taken place when the status of such transaction 
+is confirmed in the Register by the successful 
+entry characterising the Blockchain used in each 
+case. 
+4.4 
+Soweit nicht abweichend geregelt, können 
+tokenbasierte Schuldverschreibungen im Wege 
+4.4 
+Unless 
+specified 
+otherwise, 
+Tokenized 
+Securities may be transferred by way of
+
+--- Page 36 ---
+- 35 - 
+ 
+ 
+der Einzelrechtsnachfolge nur gemeinsam mit 
+dem entsprechenden Token übertragen werden. 
+singular succession only together with the 
+corresponding token. 
+4.5 
+Um gesetzlichen Verpflichtungen und be-
+hördlichen oder gerichtlichen Anordnungen 
+nachzukommen, können Token auch ohne oder 
+gegen 
+den 
+Willen 
+der 
+Token-Inhaber 
+übertragen oder gelöscht werden. 
+4.5 
+In order to comply with legal obligations and 
+official or court orders, Tokens may also be 
+transferred or deleted without or against the 
+will of the Tokenholders. 
+ 
+Berechtigungsnachweis 
+ 
+Credentials 
+5.1 
+Im Verhältnis zum Emittenten und zu jedem 
+anderen Token-Inhaber gilt ein Token-Inhaber 
+– vorbehaltlich Ziffer 5.2 – als Gläubiger im 
+Hinblick auf die durch den jeweiligen Token 
+digital 
+abgebildeten 
+tokenbasierten 
+Schuldverschreibungen.  
+5.1 
+In relation to the Issuer and any other 
+Tokenholder, a Tokenholder shall, subject to 
+Condition 5.2, be deemed to be a holder in 
+respect of the Tokenized Securities digitally 
+represented by the relevant Token. 
+5.2 
+In 
+Ausnahmefällen 
+kann 
+die 
+materielle 
+Berechtigung hinsichtlich der tokenbasierten 
+Schuldverschreibungen und damit die Stellung 
+als Gläubiger auch auf andere geeignete Weise 
+gegenüber dem Emittenten nachgewiesen 
+werden. Dies gilt insbesondere,  
+5.2 
+In exceptional cases, the material entitlement 
+with regard to the Tokenized Securities and 
+thus the status as holder may also be proven to 
+the Issuer in another suitable manner. This 
+applies in particular, 
+a) 
+wenn der Gläubiger keinen Zugriff mehr auf die 
+Token hat oder  
+a) 
+if the holder no longer has access to the Tokens 
+or 
+b) 
+in allen Fällen, in denen die tokenbasierten 
+Schuldverschreibungen als Teil einer Gesamt-
+rechtsnachfolge übertragen werden.  
+b) 
+in any case where the Tokenized Securities are 
+transferred as part of a universal succession. 
+In diesen Fällen ist ein geeigneter Nachweis für die 
+materielle Berechtigung zu führen (im Erbfall z.B. 
+durch Vorlage eines Erbscheins). Der Emittent kann 
+die notwendigen technischen Maßnahmen ergreifen, 
+damit der betroffene Gläubiger ein Token-Inhaber 
+wird (z.B. können die betroffenen Token vom 
+Emittenten durch Löschung für ungültig erklärt und 
+neue Token an den betroffenen Gläubiger ausgegeben 
+werden); Ziffer 4.1 gilt entsprechend. 
+In such cases, appropriate proof of material 
+entitlement must be provided (in the case of 
+inheritance, e.g. by presenting a certificate of 
+inheritance). The Issuer may take the necessary 
+technical measures for the affected holder to become 
+a Tokenholder (e.g. the relevant Tokens may be 
+invalidated by the Issuer by way of deletion and new 
+Tokens may be issued to the affected holder); 
+Condition 4.1 applies accordingly. 
+ 
+Verwahrung 
+ 
+Custody 
+Jeder Token-Inhaber ist selbst für die Verwahrung 
+seiner Token verantwortlich. Der Emittent ist nicht 
+verpflichtet, den Token-Inhabern eine technische 
+Lösung 
+zur 
+Verwahrung 
+zu 
+schaffen 
+oder 
+aufrechtzuerhalten. Für den Fall, dass Token-Inhaber 
+Dritte mit der Verwahrung beauftragen oder eine von 
+Dritten zur Verfügung gestellte technische Lösung 
+zur Verwahrung der Token nutzen, richtet sich dies 
+ausschließlich nach den maßgeblichen Bedingungen 
+des jeweiligen Dritten. 
+Each Tokenholder is responsible for the safekeeping 
+of its Tokens. The Issuer is not obliged to provide or 
+maintain a technical custody solution for the 
+Tokenholders. In the event that Tokenholders entrust 
+third parties with the safekeeping or use a technical 
+solution provided by third parties for the safekeeping 
+of the Tokens, this shall be governed exclusively by 
+the relevant terms and conditions of the respective 
+third party.
+
+--- Page 37 ---
+- 36 - 
+ 
+ 
+ 
+Änderung des Smart Contract 
+ 
+Modification of the Smart Contract 
+7.1 
+Der den Token zugrunde liegende Smart 
+Contract kann mit einem Mechanismus 
+versehen sein, der es dem Emittenten 
+ermöglicht, den entsprechenden Quellcode zu 
+ändern. Von diesem Mechanismus darf jedoch 
+ausschließlich Gebrauch gemacht werden, um  
+7.1 
+The Smart Contract underlying the Tokens may 
+have a mechanism that allows the Issuer to 
+modify 
+the 
+corresponding 
+source 
+code. 
+However, this mechanism may only be used in 
+order to 
+a) 
+Sicherheitsprobleme des zugrunde liegenden 
+Smart Contracts zu beheben,  
+a) 
+address security issues of the underlying Smart 
+Contracts, 
+b) 
+nicht beabsichtigte Abweichungen von den 
+Regelungen dieser Token-Bedingungen zu 
+korrigieren,  
+b) 
+correct 
+unintended 
+deviations 
+from 
+the 
+provisions of these Token Conditions, 
+c) 
+die 
+Struktur 
+des 
+Quellcodes, 
+Klassen-
+schnittstellen, Control Flow zu ändern, soweit 
+dies 
+nicht 
+den 
+Token-Bedingungen 
+widerspricht,  
+c) 
+change the structure of the source code, class 
+interfaces, control flow, as far as this does not 
+contradict the Token Conditions, 
+d) 
+den Quellcode in eine andere Program-
+miersprache zu übersetzen, soweit dies nicht 
+den Token-Bedingungen widerspricht, oder  
+d) 
+translate 
+the 
+source 
+code 
+into 
+another 
+programming language, provided this does not 
+contradict the Token Conditions, or 
+e) 
+Elemente des Smart Contracts zu ändern, die 
+aufgrund externer Effekte unwirksam oder 
+unpraktikabel geworden sind.  
+e) 
+change elements of the Smart Contract that have 
+become ineffective or impractical due to 
+external effects. 
+Sonstige Modifizierungen oder Änderungen des 
+zugrunde liegenden Smart Contracts darf der Emittent 
+nur mit Zustimmung aller Gläubiger vornehmen. 
+Other modifications or changes to the underlying 
+Smart Contract may be made by the Issuer only upon 
+consent of all Holders. 
+7.2 
+Sofern Änderungen des Smart Contracts gemäß 
+Ziffer 7.1 erforderlich sind, ist der Emittent 
+berechtigt, 
+diese 
+Token-Bedingungen 
+entsprechend 
+anzupassen. 
+Entsprechende 
+Änderungen werden den Gläubigern mit einer 
+angemessenen Frist vor dem Wirksamwerden 
+der Änderungen gemäß Ziffer 7.2 mitgeteilt. 
+Widerspricht der Gläubiger der Geltung der 
+geänderten 
+Token-Bedingungen 
+nicht 
+innerhalb von vier (4) Wochen nach Zugang 
+der Benachrichtigung über die Änderung dieser 
+Token-Bedingungen, so gelten die geänderten 
+Token-Bedingungen 
+als 
+vom 
+Gläubiger 
+akzeptiert. Der Emittent wird den Gläubigern 
+in der Änderungsmitteilung auf die Bedeutung 
+dieser Frist und die Rechtsfolgen des etwaigen 
+Schweigens hinweisen. 
+7.2 
+If changes to the Smart Contract are required 
+pursuant to Condition 7.1, the Issuer shall be 
+entitled to amend these Token Conditions 
+accordingly. The Holders shall be notified of 
+any such amendments with a reasonable period 
+of notice before the amendments take effect in 
+accordance with Condition 7.2. If the holder 
+does not object to the validity of the amended 
+Token Conditions within four (4) weeks after 
+receipt of the notification of the amendment of 
+these Token Conditions, the amended Token 
+Conditions shall be deemed accepted by the 
+holder. In the amendment notification, the 
+Issuer shall point out to the Holders the 
+significance of this period and the legal 
+consequences of any silence. 
+ 
+Ertragsbeteiligung 
+ 
+Profit Participation 
+8.1 
+Es erfolgen keine laufenden Zinszahlungen auf 
+die tokenbasierten Schuldverschreibungen. 
+8.1 
+There will be no ongoing interest payments on 
+the Tokenized Securities. There will also be no
+
+--- Page 38 ---
+- 37 - 
+ 
+ 
+Auf die tokenbasierten Schuldverschreibungen 
+werden auch keine festen, periodenbezogenen 
+Auszahlungen vorgenommen.  
+fixed periodic payments on the Tokenized 
+Securities. 
+8.2 
+Sofern den Inhabern von Einheiten des 
+Underlyings aus diesen ein Anspruch auf eine 
+Leistung einer Ausschüttung zusteht, steht 
+jedem Gläubiger im Hinblick auf jede von ihm 
+gehaltene tokenbasierte Schuldverschreibung 
+ein entsprechender Anspruch gegenüber dem 
+Emittenten auf Ausschüttungsleistung zu, und 
+zwar im Inhalt und Umfang so, wie wenn er 
+selbst unmittelbar Inhaber einer Einheit des 
+Underlyings wäre („Ertragsbeteiligung“). 
+8.2 
+To the extent that the holders of Units of the 
+Underlying are entitled to a distribution from 
+such Units, each holder shall have a 
+corresponding claim against the Issuer for a 
+distribution in respect of each Tokenized 
+Security held by it, with the same content and 
+scope as if it were itself the direct holder of a 
+Unit 
+of 
+the 
+Underlying 
+(“Profit 
+Participation”). 
+8.3 
+Fälligkeitstag einer Ertragsbeteiligung ist 
+jeweils der dritte auf den jeweiligen Valuta-
+Tag der zugrunde liegenden Ausschüttung auf 
+Einheiten 
+des 
+Underlyings 
+folgende 
+Bankarbeitstag. 
+8.3 
+In each case, the Maturity Date of a Profit 
+Participation is the third Banking Day 
+following the relevant value date of the 
+underlying distribution on Units of the 
+Underlying. 
+ 
+Laufzeit; Rückzahlung 
+ 
+Term; Repayment 
+9.1 
+Die 
+tokenbasierten 
+Schuldverschreibungen 
+haben keine feste Laufzeit und keinen 
+festgelegten Fälligkeitstag. Vorbehaltlich der 
+weiteren 
+Bestimmungen 
+dieser 
+Token-
+Bedingungen berechtigt jede tokenbasierte 
+Schuldverschreibung 
+den 
+jeweiligen 
+Gläubiger, nach seiner Wahl zu einer 
+Rückzahlung vom Emittenten in Form von 
+9.1 
+The Tokenized Securities have no fixed 
+maturity and no fixed Maturity Date. Subject as 
+further provided in these Token Conditions, 
+each Tokenized Security entitles the relevant 
+Holder, at its option, to repayment from the 
+Issuer in the form of 
+a) 
+Barrückzahlung oder  
+a) 
+Cash Redemption or 
+b) 
+Lieferung. 
+b) 
+Delivery. 
+Die Rückzahlung einer tokenbasierten Schuldver-
+schreibung 
+erfolgt 
+zum 
+Emittentenkündigung-
+Rückzahlungstag oder Gläubiger-Rückzahlungstag 
+(jeder Emittentenkündigung-Rückzahlungstag oder 
+Gläubiger-Rückzahlungstag, 
+ein 
+„Rück-
+zahlungstag“) an den Gläubiger der jeweiligen 
+tokenbasierten Schuldverschreibung.  
+The redemption of a Tokenized Security will be made 
+on the Issuer Call Redemption Date or Holder Put 
+Redemption Date (each Issuer Call Redemption Date 
+or Holder Put Redemption Date, a “Redemption 
+Date”) to the Holder of the relevant Tokenized 
+Security. 
+9.2 
+Der Emittent ist berechtigt, die tokenbasierten 
+Schuldverschreibungen 
+bei 
+Eintritt 
+eines 
+Emittentenkündigungsereignisses 
+(wie 
+nachstehend definiert) nach billigem Ermessen 
+(ohne hierzu verpflichtet zu sein) durch 
+Mitteilung gemäß Ziffer 9.2 („Emittenten-
+kündigungserklärung“) 
+zu 
+kündigen 
+(„Emittentenkündigung“). 
+Jedes 
+der 
+folgenden 
+Ereignisse 
+bezeichnet 
+ein 
+„Emittentenkündigungsereignis“:  
+9.2 
+The Issuer shall be entitled to call the 
+Tokenized Securities upon the occurrence of an 
+Issuer Call Redemption Event (as defined 
+below) in its reasonable discretion (without 
+being obliged to do so) by giving notice in 
+accordance with Condition 9.2 (“Issuer Call 
+Redemption Notice”) (“Issuer Call”). Each of 
+the following events shall mean an “Issuer 
+Call Redemption Event”: 
+a) 
+für einen fortwährenden Zeitraum von 90 
+(neunzig) Tagen ist der Gegenwert aller 
+a) 
+for a continuing period of 90 (ninety) days, on 
+each such day the equivalent value of all 
+outstanding Tokenized Securities is less than
+
+--- Page 39 ---
+- 38 - 
+ 
+ 
+ausstehenden 
+tokenbasierten 
+Schuldver-
+schreibungen an jedem dieser Tage auf 
+Grundlage 
+des 
+jeweiligen 
+Geld-Euro-
+Gegenwerts geringer als EUR [●]; 
+EUR [●] on the basis of the respective Cash 
+Euro Equivalent; 
+b) 
+durch neue Gesetze oder Verordnungen, oder 
+durch die Auslegung eines Gesetzes oder einer 
+Verordnung, wird der Emittent verpflichtet, 
+Lizenzen, Zulassungen oder Genehmigungen 
+einzuholen oder sich in irgendeiner Weise in der 
+Bundesrepublik Deutschland oder anderswo 
+einer Regulierung oder Überwachung zu 
+unterstellen, um seine Verpflichtungen gemäß 
+diesen Token-Bedingungen zu erfüllen; 
+b) 
+by reason of any new law or regulation, or by 
+reason of the interpretation of any law or 
+regulation, the Issuer shall be required to obtain 
+any licence, approval or authorisation or be 
+subject to regulation or supervision in any 
+manner in the Federal Republic of Germany or 
+elsewhere in order to perform its obligations 
+under these Token Conditions; 
+c) 
+als Folge von Änderungen oder Ergänzungen 
+der 
+Gesetze 
+oder 
+Verordnungen 
+der 
+Bundesrepublik 
+Deutschland 
+oder 
+eines 
+anderen 
+Mitgliedstaats 
+des 
+Europäischen 
+Wirtschaftsraums 
+oder 
+deren 
+Gebietskörperschaften oder Steuerbehörden, 
+die die Besteuerung betreffen oder sich darauf 
+auswirken, verändert sich die steuerliche 
+Behandlung 
+der 
+tokenbasierten 
+Schuldverschreibungen, 
+der 
+Token, 
+des 
+Underlyings oder des Emittenten wesentlich 
+oder es fallen sonstige Abgaben an, und die 
+Änderung bzw. Ergänzung war am Ersten 
+Begebungstag 
+vernünftigerweise 
+nicht 
+vorhersehbar 
+und 
+diese 
+Änderung 
+bzw. 
+Ergänzung 
+ist 
+nach 
+Einschätzung 
+des 
+Emittenten als wesentlich nachteilig für das 
+Geschäft 
+des 
+Emittenten 
+zu 
+bewerten 
+(ungeachtet, 
+ob 
+dies 
+die 
+Emission 
+der 
+tokenbasierten 
+Schuldverschreibungen 
+be-
+einträchtigt); 
+c) 
+as a result of changes or amendments to the laws 
+or regulations of the Federal Republic of 
+Germany or another Member State of the 
+European Economic Area or their local 
+authorities or tax authorities affecting or having 
+an effect on taxation, the tax treatment of the 
+Tokenized 
+Securities, 
+the 
+Tokens, 
+the 
+Underlying or the Issuer changes materially or 
+other levies are imposed and the change or 
+amendment was not reasonably foreseeable on 
+the First Issue Date and such change or 
+amendment is, in the opinion of the Issuer, 
+materially detrimental to the Issuer's business 
+(irrespective of whether it affects the issue of the 
+Tokenized Securities); 
+d) 
+als Folge von Änderungen oder Ergänzungen 
+der 
+Gesetze 
+oder 
+Verordnungen 
+der 
+Bundesrepublik 
+Deutschland 
+oder 
+eines 
+anderen 
+Mitgliedstaats 
+des 
+Europäischen 
+Wirtschaftsraums 
+oder 
+deren 
+Gebiets-
+körperschaften übersteigen die Kosten, die dem 
+Emittenten aus oder im Zusammenhang mit den 
+tokenbasierten 
+Schuldverschreibungen 
+entstehen, wesentlich die Kosten, die der 
+Emittent zum Zeitpunkt der Ersten Begebung 
+der 
+tokenbasierten 
+Schuldverschreibungen 
+vernünftigerweise erwartet hat und erwarten 
+durfte, 
+d) 
+as a result of changes or amendments to the laws 
+or regulations of the Federal Republic of 
+Germany or another Member State of the 
+European Economic Area or their local 
+authorities, the costs incurred by the Issuer 
+arising out of or in connection with the 
+Tokenized Securities materially exceed the 
+costs reasonably and legitimately expected by 
+the Issuer at the time of the initial issue of the 
+Tokenized Securities, 
+e) 
+ein Drittanbieter, insbesondere der Wirt-
+schaftsprüfer, der Rechtsberater, die Zahlstelle 
+oder 
+der 
+Sicherheitentreuhänder 
+des 
+Emittenten, 
+stellt 
+seine 
+Dienstleistungen 
+gegenüber dem Emittenten ein und dem 
+Emittenten gelingt es nicht, innerhalb eines 
+e) 
+a third party provider, in particular the issuer's 
+auditor, legal advisor, Paying Agent or Security 
+Trustee, ceases to provide services to the Issuer 
+and the Issuer fails to find a replacement within 
+a reasonable time;
+
+--- Page 40 ---
+- 39 - 
+ 
+ 
+angemessenen Zeitraums einen Ersatz zu 
+finden; 
+f) 
+die Blockchain wird gekündigt oder stellt ganz 
+oder teilweise die für die Übertragung der 
+Token notwendigen Leistungen ein oder 
+unterstützt 
+diese 
+nicht 
+mehr 
+und 
+dem 
+Emittenten gelingt es nicht, innerhalb eines 
+angemessenen Zeitraums einen Ersatz zu 
+finden; 
+f) 
+the Blockchain is terminated or ceases to 
+provide or support, in whole or in part, the 
+services necessary for the transfer of the Tokens 
+and the Issuer fails to find a replacement within 
+a reasonable period of time; 
+g) 
+die Verpflichtungen des Emittenten aus und im 
+Zusammenhang 
+mit 
+diesen 
+Token-
+Bedingungen 
+werden 
+nach 
+Ansicht 
+und 
+Ermessen 
+des 
+Emittenten 
+unangemessen 
+belastend oder unerfüllbar; 
+g) 
+the Issuer's obligations under and in connection 
+with these Token Conditions become, in the 
+issuer's opinion and discretion, unreasonably 
+burdensome or an no longer be met; 
+h) 
+aufgrund von Umständen außerhalb des 
+Einflusses des Emittenten verändern sich Form 
+oder Merkmale oder die rechtlichen oder 
+wirtschaftlichen 
+Rahmenbedingungen 
+des 
+Underlyings wesentlich oder drohen sich 
+wesentlich zu verändern, droht ein Ausfall in 
+Bezug auf das Underlying oder ist bereits 
+eingetreten oder hört das Underlying auf zu 
+bestehen oder droht aufzuhören zu bestehen; 
+h) 
+due to circumstances beyond the issuer's 
+control, the form or characteristics or the legal 
+or economic environment of the Underlying 
+changes materially or threatens to change 
+materially, a default in relation to the 
+Underlying is imminent or has already occurred 
+or the Underlying ceases or threatens to cease to 
+exist; 
+i) 
+aufgrund höherer Gewalt wird die Erfüllung der 
+Verpflichtungen des Emittenten aus diesen 
+Token-Bedingungen verhindert oder erheblich 
+erschwert. Ereignisse höherer Gewalt sind 
+insbesondere 
+Systemausfälle, 
+Brände, 
+Evakuierungsmaßnahmen, Naturkatastrophen, 
+von 
+Menschen 
+verursachte 
+Katastrophen, 
+bewaffnete Konflikte, Terrorakte, Aufruhr, 
+Lockdowns 
+und 
+sonstige 
+Arbeitsunterbrechungen; 
+i) 
+due to force majeure, the performance of the 
+issuer's 
+obligations 
+under 
+these 
+Token 
+Conditions is prevented or made significantly 
+more difficult. Force majeure events include, 
+but are not limited to, system failures, fires, 
+evacuations, 
+natural 
+disasters, 
+man-made 
+disasters, armed conflicts, acts of terrorism, 
+riots, lockdowns and other interruptions of 
+work; 
+j) 
+ein zuständiges Gericht ordnet an, dass der 
+Emittent eine Emittentenkündigung vorzu-
+nehmen 
+hat 
+oder 
+der 
+Emittent 
+wurde 
+anderweitig gesetzlich oder behördlich zur 
+Vornahme einer Emittentenkündigung ver-
+pflichtet.  
+j) 
+a court of competent jurisdiction orders the 
+Issuer to give an Issuer Call Redemption Notice 
+or the issuer is otherwise required by law or 
+regulation to give an Issuer Call Redemption 
+Notice. 
+Eine Emittentenkündigung kann nur für sämtliche 
+tokenbasierten 
+Schuldverschreibungen 
+gleichermaßen erfolgen. Der Emittent hat nach einer 
+Emittentenkündigung zum Emittentenkündigung-
+Rückzahlungstag 
+die 
+Rückzahlung 
+aller 
+tokenbasierten Schuldverschreibungen vorzunehmen. 
+Die 
+Emittentenkündigungserklärung 
+soll 
+Informationen darüber enthalten, wie und bis wann 
+die Gläubiger ihr Wahlrecht nach Ziffer 9.1 Satz 2 
+ausüben können. Übt der Gläubiger sein Wahlrecht 
+nach Ziffer 9.1 Satz 2 nicht aus, wird der Emittent die 
+Rückzahlung 
+in 
+Form 
+einer 
+Barrückzahlung 
+vornehmen.  
+An Issuer Call may only be effected equally for all 
+Tokenized Securities. Following an Issuer Call 
+Redemption Notice, the Issuer shall redeem all 
+Tokenized Securities on the Issuer Call Redemption 
+Date. The Issuer Call Redemption Notice shall 
+contain information on how and until when the 
+Holders may exercise their option pursuant to section 
+9.1 sentence 2. If the Holder does not exercise its 
+option pursuant to Number 9.1 sentence 2, the Issuer 
+shall make the redemption in the form of a Cash 
+Redemption.
+
+--- Page 41 ---
+- 40 - 
+ 
+ 
+Der Emittent ist berechtigt, den Tag, zu dem eine 
+Rückzahlung infolge einer Emittentenkündigung 
+fällig 
+wird 
+(„Emittentenkündigung-Rück-
+zahlungstag“) 
+in 
+der 
+Emittentenkündigungs-
+erklärung 
+festzulegen, 
+wobei 
+der 
+Emittentenkündigung-Rückzahlungstag 
+dem 
+Berechnungstag nicht mehr als fünfzehn (15) 
+Bankarbeitstage nachfolgen darf. Legt der Emittent 
+den Emittentenkündigung-Rückzahlungstag nicht in 
+der 
+Emittentenkündigungserklärung 
+fest, 
+ist 
+Emittentenkündigung-Rückzahlungstag der zehnte 
+(10.) 
+auf 
+den 
+Berechnungstag 
+folgende 
+Bankarbeitstag.  
+The Issuer shall be entitled to specify the date on 
+which a Redemption becomes due as a result of an 
+Issuer Call (“Issuer Call Redemption Date”) in the 
+Issuer Call Redemption Notice, provided that the 
+Issuer Call Redemption Date shall not be more than 
+fifteen (15) Banking Days after the Calculation Date. 
+If the Issuer does not specify the Issuer Call 
+Redemption Date in the Issuer Call Redemption 
+Notice, the Issuer Call Redemption Date shall be the 
+tenth (10.) Banking Day following the Calculation 
+Date. 
+9.3 
+Jeder Gläubiger ist dazu berechtigt, jederzeit 
+die Rückzahlung aller oder eines Teils seiner 
+ausstehenden 
+tokenbasierten 
+Schuldverschreibungen gemäß Ziffer 9.1 zu 
+verlangen, indem er dem Emittenten gemäß 
+Ziffer 9.3 mitteilt, dass er die Rückzahlung 
+verlangt 
+(die 
+„Gläubiger-
+Rückzahlungsmitteilung“). Der Gläubiger hat 
+in der Gläubiger-Rückzahlungsmitteilung  
+9.3 
+Each Holder shall be entitled to demand 
+Redemption of all or any part of its outstanding 
+Tokenized Securities pursuant to Condition 9.1 
+at any time by giving notice to the Issuer 
+pursuant to Condition 9.3 that it demands 
+Redemption (the “Holder Put Redemption 
+Notice”). In the Holder Put Redemption Notice 
+the Holder shall specify 
+- 
+die 
+Anzahl 
+der 
+tokenbasierten 
+Schuldverschreibungen, 
+deren 
+Rück-
+zahlung verlangt wird,  
+- 
+the number of Tokenized Securities for 
+which Redemption is requested, 
+- 
+die Art der verlangten Rückzahlung 
+(Barrückzahlung oder Lieferung), und 
+- 
+the type of Redemption requested (Cash 
+Redemption or Delivery), and 
+- 
+eine geeignete Konto- oder Depot-
+verbindung 
+zur 
+Bewirkung 
+von 
+Barrückzahlung oder Lieferung durch den 
+Emittenten 
+- 
+an appropriate account or securities 
+account link to effect Cash Redemption or 
+Delivery by the Issuer, 
+anzugeben, wobei im Rahmen einer Gläubiger-
+Rückzahlungsmitteilung 
+nur 
+jeweils 
+einheitlich 
+entweder Barrückzahlung oder Lieferung verlangt 
+werden kann. Die Rückzahlung infolge einer 
+Gläubiger-Rückzahlungsmitteilung 
+ist 
+zum 
+Gläubiger-Rückzahlungstag fällig.  
+whereby in each case, within the scope of a Holder 
+Put Redemption Notice, either Cash Redemption or 
+Delivery can only be demanded collectively. The 
+Redemption 
+pursuant 
+to 
+a 
+Tokenholder 
+Put 
+Redemption Notice shall be due on the Tokenholder 
+Put Redemption Date. 
+Eine Gläubiger-Rückzahlungsmitteilung 
+ist un-
+widerruflich. Das Recht des Gläubigers, mittels 
+Gläubiger-Rückzahlungsmitteilung Rückzahlung zu 
+verlangen, besteht nicht, wenn der Emittent die 
+tokenbasierten Schuldverschreibungen bereits zuvor 
+gemäß 
+Ziffer 9.2 
+mittels 
+Emittenten-
+kündigungserklärung gekündigt hat.  
+A Tokenholder Put Redemption Notice is irrevocable. 
+The right of the Tokenholder to demand Redemption 
+by means of a Tokenholder Put Redemption Notice 
+does not exist if the Issuer has already previously 
+called 
+the 
+Tokenized 
+Securities 
+pursuant 
+to 
+Condition 9.2 by means of an Issuer Call Redemption 
+Notice.  
+9.4 
+Der 
+Emittent 
+ist 
+jederzeit 
+berechtigt, 
+tokenbasierte 
+Schuldverschreibungen 
+am 
+Markt oder auf sonstige Weise zu erwerben und 
+diese 
+erworbenen 
+tokenbasierten 
+Schuldverschreibungen 
+zu 
+halten 
+oder 
+einzuziehen. 
+9.4 
+The Issuer may at any time acquire Tokenized 
+Securities in the market or otherwise and hold 
+or redeem such acquired Tokenized Securities. 
+9.5 
+Alle tokenbasierten Schuldverschreibungen, 
+die vom Emittenten nach Barrückzahlung oder 
+9.5 
+Any Tokenized Securities redeemed by the 
+Issuer upon Cash Redemption or Delivery or
+
+--- Page 42 ---
+- 41 - 
+ 
+ 
+Lieferung zurückgezahlt oder vom Emittenten 
+gemäß Ziffer 9.4 erworben wurden, werden 
+unverzüglich entwertet und dürfen nicht erneut 
+ausgegeben, weiterverkauft oder anderweitig 
+veräußert werden. Die Verpflichtungen des 
+Emittenten in Bezug auf diese tokenbasierten 
+Schuldverschreibungen sind erfüllt. 
+acquired by the Issuer pursuant to Condition 
+9.4 shall be immediately cancelled and may not 
+be reissued, resold or otherwise disposed of. 
+The obligations of the Issuer in respect of such 
+Tokenized Securities have been satisfied. 
+ 
+Zahlungen 
+ 
+Payments 
+10.1 Die Zahlung sämtlicher gemäß diesen Token-
+Bedingungen 
+zahlbarer 
+Geldbeträge, 
+insbesondere 
+des 
+Ausgabepreises, 
+Ertragsbeteiligungen 
+gemäß 
+Ziffer 8 
+und 
+Barrückzahlungen gemäß Ziffer 9, erfolgt 
+unter Berücksichtigung der jeweils geltenden 
+gesetzlichen 
+Bestimmungen 
+ausnahmslos 
+bargeldlos am jeweiligen Zahlungstag. Der 
+Gläubiger kann andere Formen der Erfüllung 
+gegen sich gelten lassen. 
+10.1 The payment of all monetary amounts payable 
+under these Token Conditions, in particular of 
+the Issue Price, Profit Participations pursuant to 
+Condition 8 and Cash Redemptions pursuant to 
+Condition 9, shall be made without exception 
+on the respective Payment Date without cash, 
+taking into account the respective applicable 
+legal provisions. The Holder may accept other 
+forms of fulfilment. 
+10.2 Der Emittent wird Zahlungen nach Ziffern 8 
+und 9 an die Person leisten, die am Tag vor dem 
+jeweiligen Zahlungstag, um 24:00 Uhr, im 
+Register als Gläubiger aufgeführt ist. Im Fall 
+von Sammel-Wallets erfolgt die Zahlung an 
+den 
+entsprechenden 
+Kryptoverwahrer als 
+auszahlender Stelle zur Weiterleitung an die 
+berechtigten Token-Inhaber, die sich aus dem 
+Transaktionsregister anhand der ihnen dort 
+zugeordneten 
+Nutzer-IDs 
+ergeben. 
+Die 
+Zahlung an den nach vorstehendem Satz 1 
+ausgewiesenen 
+Gläubiger 
+bzw. 
+an 
+den 
+Kryptoverwahrer nach vorstehemden Satz 2 
+befreit den Emittenten in Höhe der geleisteten 
+Zahlungen 
+von 
+seinen 
+entsprechenden 
+Verbindlichkeiten aus den tokenbasierten 
+Schuldverschreibungen.  
+10.2 Pursuant to Conditions 8 and 9, the Issuer will 
+make payments to the person listed as 
+Tokenholder in the Register at 24:00 hours on 
+the day before the relevant Payment Date. In 
+the case of Collective Wallets, payment shall be 
+made to the relevant Crypto Custodian as the 
+disbursing agent for onward transfer to the 
+eligible Tokenholders as identified in the 
+Transaction Register by the user IDs assigned 
+to them therein. The payment to the 
+Tokenholder identified in accordance with 
+sentence 1 above or to the Crypto Custodian in 
+accordance with sentence 2 above shall release 
+the Issuer from its corresponding obligations 
+arising from the Tokenized Securities in the 
+amount of the payments made. 
+10.3 Sofern der Emittent eine nach Maßgabe dieser 
+Token-Bedingungen 
+geschuldete 
+Zahlung 
+unverschuldet nicht vornehmen kann, ist er 
+nach Ablauf von 12 Monaten nach dem 
+jeweiligen 
+Fälligkeitstag 
+berechtigt, 
+den 
+geschuldeten Geldbetrag beim Amtsgericht 
+Frankfurt am Main zu hinterlegen. Soweit der 
+Emittent auf das Recht zur Rücknahme der 
+hinterlegten Beträge verzichtet, erlöschen die 
+betreffenden Ansprüche des Gläubigers gegen 
+den Emittenten und folglich gegen die 
+Zahlstelle. Nach Verjährung des Anspruchs des 
+entsprechenden Gläubigers erhält der Emittent 
+die hinterlegten Beträge zurück. 
+10.3 If the Issuer is unable to make a payment owed 
+under these Token Conditions through no fault 
+of its own, it shall be entitled to deposit the 
+amount of money owed with the local court of 
+Frankfurt am Main after the expiry of 12 
+months following the respective Maturity Date. 
+To the extent that the Issuer waives the right to 
+redeem the deposited amounts, the relevant 
+claims of the Holder against the Issuer and 
+consequently against the Paying Agent shall 
+expire. After the limitation of the claim of the 
+relevant Holder, the Issuer shall receive the 
+deposited amounts back.
+
+--- Page 43 ---
+- 42 - 
+ 
+ 
+ 
+Einbindung der Zahlstelle 
+ 
+Involvement of the Paying Agent 
+11.1 Zur Abwicklung von Zahlungen nach Maßgabe 
+dieser Token-Bedingungen hat der Emittent die 
+Zahlstelle beauftragt.  
+11.1 The Issuer has appointed the Paying Agent to 
+process payments in accordance with these 
+Token Conditions. 
+11.2 Der Emittent behält sich das Recht vor, 
+jederzeit die Bestellung der Zahlstelle zu 
+ändern oder zu beenden und eine andere oder 
+zusätzliche Zahlstelle(n) zu bestellen. Der 
+Emittent behält sich überdies das Recht vor, 
+von der Bestellung einer externen Zahlstelle 
+ganz abzusehen und sich selbst zur Zahlstelle 
+in eigener Durchführung zu bestellen. Solche 
+Änderungen werden von dem Emittenten unter 
+Einhaltung einer Frist von mindestens 30 und 
+nicht mehr als 45 Tagen gemäß Ziffer 9.2 
+bekannt gemacht. 
+11.2 The Issuer reserves the right to change or 
+terminate the appointment of the Paying Agent 
+at any time and to appoint another or additional 
+paying agent(s). The Issuer also reserves the 
+right not to appoint an external paying agent at 
+all and to appoint itself as Paying Agent in its 
+own execution. Such changes shall be 
+announced by the Issuer giving not less than 30 
+and not more than 45 days' notice in accordance 
+with Condition 9.2. 
+11.3 Die Zahlstelle handelt ausschließlich als 
+Erfüllungsgehilfe des Emittenten und über-
+nimmt keinerlei Verpflichtungen gegenüber 
+den 
+Gläubigern. 
+Ein 
+Auftrags- 
+oder 
+Treuhandverhältnis zwischen einer Zahlstelle 
+und den Gläubigern wird nicht begründet. 
+11.3 The Paying Agent acts solely as an agent of the 
+Issuer and does not assume any obligations 
+towards the Holders. A contractual or fiduciary 
+relationship between a paying agent and the 
+Holders shall not be established. 
+ 
+Steuern 
+ 
+Taxes 
+12.1 Alle 
+Zahlungen, 
+insbesondere 
+Ertrags-
+beteiligungen nach Ziffer 8, erfolgen unter 
+Abzug 
+und 
+Einbehaltung 
+von 
+Steuern, 
+Abgaben und sonstigen Gebühren, soweit der 
+Emittent 
+zum 
+Abzug 
+und/oder 
+zur 
+Einbehaltung gesetzlich verpflichtet ist. Der 
+Emittent ist nicht verpflichtet, den Gläubigern 
+zusätzliche Beträge als Ausgleich für auf diese 
+Weise abgezogene oder einbehaltene Beträge 
+zu zahlen. 
+12.1 All payments, in particular Profit Participations 
+pursuant to Condition 8, shall be made subject 
+to the deduction and withholding of taxes, 
+duties and other charges to the extent that the 
+Issuer is required by law to deduct and/or 
+withhold such amounts. The Issuer shall not be 
+obliged to pay additional amounts to Holders as 
+compensation for amounts so deducted or 
+withheld. 
+12.2 Soweit der Emittent nicht gesetzlich zum 
+Abzug und/oder zur Einbehaltung von Steuern, 
+Abgaben oder sonstigen Gebühren verpflichtet 
+ist, trifft sie keinerlei Verpflichtung im 
+Hinblick auf abgaberechtliche Verpflichtungen 
+der Gläubiger. 
+12.2 To the extent that the Issuer is not required by 
+law to deduct and/or withhold taxes, duties or 
+other charges, it shall have no obligation 
+whatsoever with respect to any obligations of 
+Holders under tax law. 
+ 
+Besicherung der tokenbasierten 
+Schuldverschreibungen 
+ 
+Securitisation of the Tokenized Securities 
+13.1 Die Besicherung der Ansprüche der Token-
+Inhaber aus den tokenbasierten Schuldver-
+schreibungen erfolgt durch die Einräumung der 
+13.1 The securitisation of the claims of the 
+Tokenholders under the Tokenized Securities 
+shall be effected by the granting of the Security
+
+--- Page 44 ---
+- 43 - 
+ 
+ 
+Sicherheit an den Sicherheitentreuhänder, der 
+die Sicherheit für Rechnung (im Rahmen eines 
+echten Vertrages zu Gunsten Dritter) der 
+Token-Inhaber nach Maßgabe eines zwischen 
+dem 
+Emittenten 
+und 
+dem 
+Sicherheitentreuhänder 
+abgeschlossenen 
+Treuhandvertrages hält und verwaltet (der 
+„Sicherheiten-Treuhandvertrag“). 
+to the Security Trustee, which shall hold and 
+manage the Security for the account (under a 
+true contract for the benefit of third parties) of 
+the Tokenholders in accordance with a trust 
+agreement entered into between the Issuer and 
+the Security Trustee (the “Security Trust 
+Agreement”). 
+13.2 Durch 
+die 
+Besicherung 
+werden 
+keine 
+Ansprüche begründet, die selbständig neben 
+den Ansprüchen aus den tokenbasierten 
+Schuldverschreibungen gegen den Emittenten 
+bestehen oder geltend gemacht werden können. 
+13.2 The securitisation does not give rise to any 
+claims which independently exist or can be 
+asserted against the Issuer in addition to the 
+claims under the Tokenized Securities. 
+13.3 Der 
+Sicherheitentreuhänder 
+ist 
+kein 
+gemeinsamer Vertreter der Token-Inhaber im 
+Sinne des Schuldverschreibungsgesetzes und 
+er haftet nicht nach den Bestimmungen des 
+Schuldverschreibungsgesetzes. 
+13.3 The Security Trustee is not a common 
+representative of the Tokenholders within the 
+meaning of the German Debenture Bond Act 
+(Schuldverschreibungsgesetz) and it is not 
+liable under the provisions of the German 
+Debenture Bond Act. 
+13.4 Der 
+Sicherheitentreuhänder 
+erhält 
+vom 
+Emittenten 
+während 
+der 
+Laufzeit 
+des 
+Sicherheiten-Treuhandvertrages eine ange-
+messene Vergütung sowie Ersatz seiner im 
+Rahmen des Sicherheiten-Treuhandvertrags 
+anfallenden Spesen, Gebühren und Auslagen. 
+13.4 The Security Trustee shall receive from the 
+Issuer during the term of the Security Trust 
+Agreement an appropriate remuneration as well 
+as reimbursement of its expenses, fees and 
+disbursements incurred in connection with the 
+Security Trust Agreement. 
+13.5 Sollte 
+der 
+Sicherheiten-Treuhandvertrag 
+zwischen dem Emittenten und dem Sicher-
+heitentreuhänder während der Laufzeit der 
+tokenbasierten Schuldverschreibungen vor-
+zeitig beendet werden, ist der Emittent 
+verpflichtet, 
+einen 
+neuen 
+Sicherheiten-
+treuhänder zu bestellen. Der Emittent wird 
+einen Wechsel des Sicherheitentreuhänders 
+gemäß Ziffer 9.2 bekanntmachen. 
+13.5 If the Security Trust Agreement between the 
+Issuer and the Security Trustee is terminated 
+prematurely during the term of the Tokenized 
+Securities, the Issuer is obliged to appoint a 
+new Security Trustee. The Issuer will announce 
+a change of the Security Trustee in accordance 
+with Condition 9.2. 
+ 
+Ausgabe weiterer tokenbasierter 
+Schuldverschreibungen 
+ 
+Issue of further Tokenized Securities 
+Der Emittent ist dazu berechtigt, jederzeit ohne 
+Zustimmung der Gläubiger weitere tokenbasierte 
+Schuldverschreibungen in anderer, gleicher oder 
+ähnlicher Art und Weise zu begeben. 
+The Issuer is entitled to issue further Tokenized 
+Securities in a different, identical or similar manner at 
+any time without the consent of the Holders. 
+ 
+Schlussbestimmungen 
+ 
+Final Provisions 
+15.1 Diese Token-Bedingungen sowie Form und 
+Inhalt 
+der 
+tokenbasierten 
+Schuldver-
+schreibungen und alle sich daraus ergebenden 
+Rechte und Pflichten der Gläubiger unterliegen 
+ausschließlich dem Recht der Bundesrepublik 
+Deutschland.  
+15.1 These Token Conditions as well as the form 
+and content of the Tokenized Securities and all 
+rights and obligations of the Holders resulting 
+therefrom shall be governed exclusively by the 
+laws of the Federal Republic of Germany.
+
+--- Page 45 ---
+- 44 - 
+ 
+ 
+15.2 Bekanntmachungen und Erklärungen des 
+Emittenten 
+betreffend 
+die 
+tokenbasierten 
+Schuldverschreibungen können über eine 
+Kommunikationsfunktion der Plattform oder 
+einer jeden anderen Plattform, auf der die 
+jeweiligen Token-Inhaber registriert sind, über 
+vertraglich eingebundene Intermediäre, z. B. 
+Kryptoverwahrer 
+oder 
+sog. 
+Authorised 
+Participants, zur Weiterleitung an die Token-
+Inhaber und/oder durch Mitteilung in Textform 
+(§ 126 b BGB) direkt an die jeweiligen 
+Gläubiger erfolgen. Im Fall der Verwendung 
+einer Kommunikationsfunktion einer Plattform 
+gilt die Bekanntmachung oder Erklärung an 
+dem 
+auf 
+die 
+technisch 
+nachweisbare 
+Übermittlung folgenden Tag als wirksam 
+erfolgt 
+und 
+dem 
+jeweiligen 
+Adressaten 
+zugegangen; im Übrigen mit Zugang beim 
+jeweiligen Token-Inhaber. 
+15.2 Announcements and declarations of the Issuer 
+regarding the Tokenized Securities may be 
+made via a communication function of the 
+Platform or any other platform on which the 
+respective Tokenholders are registered, via 
+contractually integrated intermediaries, e.g. 
+crypto custodians or so-called authorised 
+participants, 
+for 
+forwarding 
+to 
+the 
+Tokenholders and/or by notification in text 
+form (§126b German Civil Code (BGB)) 
+directly to the respective Holders. In the case of 
+the use of a communication function of a 
+Platform, the announcement or declaration 
+shall be deemed to have been effectively made 
+and received by the respective addressee on the 
+day following the technically verifiable 
+transfer; otherwise, upon receipt by the 
+respective Tokenholder. 
+Sofern und soweit gesetzlich zulässig, kann eine 
+Bekanntmachung oder Erklärung des Emittenten 
+betreffend die tokenbasierten Schuldverschreibungen 
+auch im Bundesanzeiger und auf der Internetseite des 
+Emittenten (http://www.tradias.de) erfolgen. 
+If and to the extent permitted by law, an 
+announcement or statement by the Issuer 
+regarding the Tokenized Securities may also be 
+published in the Federal Gazette and on the 
+Issuer's website (http://www.tradias.de). 
+Jede derartige Bekanntmachung oder Erklärung gilt 
+am Tag nach der Veröffentlichung sowohl im 
+Bundesanzeiger als auch auf der Internetseite des 
+Emittenten als wirksam erfolgt und allen Gläubigern 
+zugegangen. 
+Any such announcement or declaration shall be 
+deemed to have been validly made and received by all 
+Holders on the day following its publication both in 
+the Federal Gazette and on the Issuer's website. 
+15.3 Mitteilungen, 
+die 
+von 
+einem 
+Gläubiger 
+gemacht 
+werden, 
+müssen 
+in 
+Textform 
+gegenüber dem Emittenten erfolgen. 
+15.3 Notices given by a Holder must be given in text 
+form to the Issuer. 
+15.4 Erfüllungsort für die Verpflichtungen aus den 
+tokenbasierten 
+Schuldverschreibungen 
+ist 
+Frankfurt am Main (Deutschland).  
+15.4 The place of performance for the obligations 
+under the Tokenized Securities is Frankfurt am 
+Main (Germany). 
+15.5 Ausschließlicher 
+Gerichtsstand 
+für 
+alle 
+Streitigkeiten 
+zwischen 
+Gläubigern 
+und 
+Emittent 
+aus 
+tokenbasierten 
+Schuldver-
+schreibungen 
+ist 
+Frankfurt 
+am 
+Main 
+(Deutschland), sofern es sich bei dem 
+Gläubiger um einen Kaufmann, eine juristische 
+Person des öffentlichen Rechts oder ein 
+öffentlich-rechtliches Sondervermögen handelt 
+oder der Gläubiger 
+keinen allgemeinen 
+Gerichtsstand im Inland hat. Es gilt das Recht 
+der Bundesrepublik Deutschland. 
+15.5 The exclusive place of jurisdiction for all 
+disputes between Holders and the Issuer arising 
+from Tokenized Securities is Frankfurt am 
+Main (Germany), provided that the Holder is a 
+merchant, a legal entity under public law or a 
+special fund under public law or the Holder has 
+no general place of jurisdiction in Germany. 
+The law of the Federal Republic of Germany 
+shall apply. 
+15.6 Sollten einzelne Bestimmungen dieser Token-
+Bedingungen 
+insgesamt 
+oder 
+teilweise 
+unwirksam sein oder werden, so wird hierdurch 
+der übrige Inhalt und die Wirksamkeit dieser 
+Token-Bedingungen nicht berührt. 
+15.6 Should individual provisions of these Token 
+Conditions be or become invalid in whole or in 
+part, this shall not affect the remaining content 
+and validity of these Token Conditions. 
+* * * 
+* * *
+
+--- Page 46 ---
+- 45 - 
+ 
+ 
+14. FORM OF FINAL TERMS 
+ 
+[MIFID II PRODUCT GOVERNANCE / PROFESSIONAL INVESTORS AND ECPS ONLY TARGET 
+MARKET – Solely for the purposes of [the/each] manufacturer’s product approval process, the target 
+market assessment in respect of the Tokenized Securities has led to the conclusion that for the Offer 
+Jurisdictions: (i) the target market for the Tokenized Securities is eligible counterparties and professional 
+clients only, each as defined in Directive 2014/65/EU (as amended, "MiFID II"); and (ii) all channels for 
+distribution of the Tokenized Securities to eligible counterparties and professional clients are 
+appropriate. Any person subsequently offering, selling or recommending the Tokenized Securities (a 
+"distributor") should take into consideration the manufacturer[‘s/s’] target market assessment; however, 
+a distributor subject to MiFID II is responsible for undertaking its own target market assessment in 
+respect of the Tokenized Securities (by either adopting or refining the manufacturer[‘s/s’] target market 
+assessment) and determining appropriate distribution channels[, subject to the distributor’s suitability 
+and appropriateness obligations under MiFID II, as applicable].]1  
+[MIFID II PRODUCT GOVERNANCE / RETAIL INVESTORS, PROFESSIONAL INVESTORS AND 
+ECPS TARGET MARKET – Solely for the purposes of [the/each] manufacturer’s product approval 
+process, the target market assessment in respect of the Tokenized Securities has led to the conclusion that 
+for the Offer Jurisdictions: (i) the target market for the Tokenized Securities is eligible counterparties, 
+professional clients and retail clients, each as defined in Directive 2014/65/EU (as amended, "MiFID II"); 
+EITHER2 [and (ii) all channels for distribution of the Tokenized Securities are appropriate, including 
+investment advice, portfolio management, non-advised sales and pure execution services] OR3 [(ii) all 
+channels for distribution to eligible counterparties and professional clients are appropriate; and (iii) the 
+following channels for distribution of the Tokenized Securities to retail clients are appropriate - 
+investment advice[,/ and] portfolio management[,/ and][non-advised sales ][and pure execution services][, 
+subject to the distributor’s suitability and appropriateness obligations under MiFID II, as applicable]]. 
+[Consider any negative target market]. Any person subsequently offering, selling or recommending the 
+Tokenized Securities (a "distributor") should take into consideration the manufacturer[‘s/s’] target 
+market assessment; however, a distributor subject to MiFID II is responsible for undertaking its own 
+target market assessment in respect of the Tokenized Securities (by either adopting or refining the 
+manufacturer[‘s/s’] target market assessment) and determining appropriate distribution channels[, 
+subject to the distributor’s suitability and appropriateness obligations under MiFID II, as applicable]4.]5  
+  
+  
+ 
+                                                   
+1 
+Include legend in case MiFID II target market assessment in respect of the Tokenized Securities is "Professional 
+Investors and Eligible Counterparties only." 
+2 
+Include for Tokenized Securities that are not ESMA complex pursuant to the Guidelines on complex debt instruments 
+and structured deposits (ESMA/2015/1787) (the "ESMA Guidelines"). 
+3 
+Include for Tokenized Securities that are ESMA complex pursuant to the ESMA Guidelines. This list may need to be 
+amended, for example, if advised sales are deemed necessary. If there are advised sales, a determination of suitability 
+and appropriateness will be necessary. In addition, if the Tokenized Securities constitute "complex" products, pure 
+execution services to retail clients are not permitted without the need to make the determination of appropriateness 
+required under Article 25(3) of MiFID II. 
+4 
+If there are advised sales, a determination of suitability will be necessary. 
+5 
+Include legend in case MiFID II target market assessment in respect of the Tokenized Securities is "Retail Investor 
+Target Market."
+
+--- Page 47 ---
+- 46 - 
+ 
+ 
+Final Terms 
+[Title of relevant Series of Tokenized Securities] 
+issued pursuant to the 
+Programme for the issuance of tokenized securities 
+dated 10 January 2023 
+of 
+ 
+Tradias Issuance GmbH 
+Issue Price:  
+[●] 
+Total amount of the tokenized securities offered to the public: 
+[●] 
+Issue Date: [●] 
+Trade Date: [●] 
+ 
+Series No.: [●] 
+Tranche: [●] 
+ 
+ISIN: [●] 
+These final terms dated [●] (the "Final Terms") have been prepared for the purpose of Article 8(4) of 
+Regulation (EU) 2017/1129. Full information on the Issuer and the offer of the Tokenized Securities is only 
+available on the basis of the combination of the Final Terms when read together with the Base Prospectus of 
+Tradias Issuance GmbH dated 10 January 2023, including any supplements thereto (the "Base Prospectus"). 
+The Base Prospectus [and the supplement dated [insert date]] [, the supplement dated [insert date]] [and the 
+supplement dated [insert date]] [has][have] been or will be, as the case may be, published on the website of the 
+Issuer (www.tradias.de). A summary of the individual issue of the Tokenized Securities is annexed to these 
+Final Terms. 
+Terms not otherwise defined herein shall have the meanings specified in the Terms and Conditions of the 
+Tokenized Securities as set out in the Base Prospectus (the "Terms and Conditions").
+
+--- Page 48 ---
+- 47 - 
+ 
+ 
+PART I.: TERMS AND CONDITIONS 
+TEIL I.: EMISSIONSBEDINGUNGEN 
+[Insert completed Terms and Conditions] 
+[Ausgefüllte Emissionsbedingungen eingefügen]
+
+--- Page 49 ---
+- 48 - 
+ 
+ 
+PART II. 
+TEIL II. 
+a) 
+ Net proceeds and estimated total expenses of 
+the issue/offer: 
+The net proceeds for each Tokenized Security 
+are [●]. The estimated total expenses of the 
+issue/offer are [●]. 
+b) 
+ Interest of natural and legal persons involved in 
+the issue/offer: 
+[None] [give details of any interest, including 
+conflicting ones, that is material to the 
+issue/offer, detailing the persons involved and 
+the nature of the interest] 
+c) 
+ Reasons for the offer and use of proceeds 
+[●] 
+d) 
+ Post-Issuance Information: 
+ 
+[The Issuer does not intend to provide 
+post-issuance information unless required by any 
+applicable laws and/or regulations.][specify] 
+e) 
+ Non-exempt Offer: 
+[Not applicable] [An offer of the Tokenized 
+Securities may be made other than pursuant to 
+Article 1(4) of the Prospectus Regulation in the 
+Offer Jurisdictions (as defined below) from [●] 
+to [●] (the “Offer Period”).] 
+f) 
+ Offer Jurisdictions: 
+[Not applicable] [Austria] [Belgium] [the Czech 
+Republic] [Denmark] [France] [Greece] 
+[Ireland] [Italy] [Luxembourg] [Malta] [The 
+Netherlands] [Poland] [Portugal] [Norway] 
+[Spain] [Sweden] 
+ 
+g) 
+ [Consent to the use of the Base Prospectus: 
+ 
+ 
+The Issuer consents to the use of the Base 
+Prospectus 
+by 
+the 
+following 
+financial 
+intermediar[y][ies] (individual consent): 
+[Not applicable] [●] 
+ 
+Individual consent for the subsequent resale or 
+final placement of the Tokenized Securities by 
+the financial intermediar[y][ies] is given in 
+relation to: 
+[Not applicable] [●] 
+ 
+Any other clear and objective conditions 
+attached to the consent which are relevant for 
+the use of the Base Prospectus: 
+[Not applicable] [●] 
+ 
+The subsequent resale or final placement of 
+Tokenized 
+Securities 
+by 
+financial 
+intermediaries can be made: 
+[Not applicable] [As long as the Base Prospectus 
+is valid for the offer of the Tokenized Securities: 
+[●]] [●] [During the Offer Period (see e) above)]] 
+h) 
+ (i) 
+Commissions and Fees: 
+[None][specify] 
+ 
+(ii) 
+Expenses 
+and 
+taxes 
+specifically 
+charged to the subscriber of the 
+Tokenized Securities: 
+[None][specify] 
+i) 
+ Categories of potential investors: 
+[Retail investors] [and] [Professional investors]
+
+--- Page 50 ---
+- 49 - 
+ 
+ 
+j) 
+ Information with regard to the manner, place 
+and date of the publication of the results of the 
+offer: 
+[Not Applicable] [if applicable, give details with 
+regard to the manner and date in which results 
+of the offer are to be made public] 
+k) 
+ [Name and address of the entities which have a 
+firm commitment to act as intermediaries in 
+secondary trading, providing liquidity through 
+bid and offer rates and description of the main 
+terms of their commitment (Market Makers): 
+[●] 
+[Insert description of the main terms of 
+commitment]] 
+l) 
+ An indication where information about the past 
+and the future performance of the underlying 
+and its volatility can be obtained: 
+[●] 
+m) 
+ Material information with regard to the 
+underlying: 
+[include brief description of the investment 
+objectives, the risk and return profile of the 
+investment and performance scenarios, to the 
+extent available] 
+ 
+[Issue-specific summary to be attached]
+
+--- Page 51 ---
+- 50 - 
+ 
+ 
+15. TAXATION 
+PROSPECTIVE PURCHASERS OF THE TOKENIZED SECURITIES ARE ADVISED TO CONSULT THEIR 
+OWN TAX ADVISORS AS TO THE TAX CONSEQUENCES OF THE PURCHASE, OWNERSHIP AND 
+DISPOSITION OF TOKENIZED SECURITIES, INCLUDING THE EFFECT OF ANY STATE OR LOCAL 
+TAXES, UNDER THE TAX LAWS OF GERMANY AND EACH COUNTRY OF WHICH THEY ARE 
+RESIDENTS. THE RESPECTIVE RELEVANT TAX LEGISLATION MAY HAVE AN IMPACT ON THE 
+INCOME RECEIVED FROM THE TOKENIZED SECURITIES.
+
+--- Page 52 ---
+- 51 - 
+ 
+ 
+16. SUBSCRIPTION, SALE AND OFFER OF THE TOKENIZED SECURITIES  
+16.1 OFFER OF THE TOKENIZED SECURITIES 
+a) 
+Offer to the public 
+Each issue of a Series of Tokenized Securities is only purchased by Authorised Participants via the 
+Platform operated by Tradias and will be offered by financial intermediaries to institutional and retail 
+investors, in compliance with applicable selling restrictions during the relevant offer period (as specified 
+in the relevant Final Terms). An offer to the public may be made in the countries specified under 
+"Consent to the Use of the Base Prospectus". 
+As of the date of this Base Prospectus, the Issuer has entered into one agreement with 1 Authorised 
+Participant. 
+The following Authorised Participant has been appointed as of the date of this Base Prospectus*:  
+Name 
+(regulatory status) 
+Address 
+Description 
+Bankhaus 
+Scheich 
+Wertpapierspezialist 
+AG 
+Roßmarkt 21, 60311 
+Frankfurt 
+am 
+Main, 
+Germany 
+BHS is an investment firm, licensed pursuant 
+to section 15 para. 1 Investment Firm Act 
+(Wertpapierinstitutsgesetz - "WpIG") and 
+supervised by BaFin. BHS is authorised, inter 
+alia, to provide investment and acquisition 
+brokerage services pursuant to section 2 para. 
+2 no. 3 and no. 5 WpIG, proprietary trading 
+pursuant to section 2 para. 2 no. 10 WpIG, 
+financial commission business pursuant to 
+section 2 para. 2 no. 1 WpIG, placement 
+business pursuant to section 2 para. 2 no. 8 
+WpIG and proprietary trading pursuant to 
+section 15 para. 3 WpIG. 
+*Any changes to the list of Authorised Participants will be detailed at https://www.tradias.de/investor-
+relations 
+b) 
+Diagram on the subscription of Tokenized Securities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.1 
+Any offer of the Tokenized Securities will be made by financial intermediaries providing 
+investment brokerage services pursuant to section 1 para 1a sentence 2 no. 1 KWG 
+(Anlagevermittlung). 
+1.2 
+If an investor decides to purchase Tokenized Securities, then the financial intermediary will 
+transmit the order received from an investor to the principal broker (Finanzkommissionär) who 
+will purchase the Tokenized Securities from the Authorized Participant in its own name but for 
+the account of a third party pursuant to section 1 para 1 no. 4 KWG 
+(Finanzkommissionsgeschäft). 
+Investor 
+Financial 
+Intermediary 
+Principal 
+Broker 
+Authorized 
+Participant 
+(AP) 
+Issuer 
+Crypto 
+Custodian 
+1 
+1.1 
+1.2 
+2 
+3 
+4 
+5
+
+--- Page 53 ---
+- 52 - 
+ 
+ 
+2. 
+The principal broker transmits the order to the Authorised Participant. 
+3. 
+The Authorised Participant purchases the relevant number of token from the Issuer. The token 
+will only be generated by the Issuer upon the placement of an order by the Authorised 
+Participant with the Issuer. 
+4. 
+Any delivery of token from the Issuer (to the Crypto Custodian) will be effected against 
+payment of the Authorised Participant to the Issuer either in cash or through delivery of the 
+relevant number of Underlyings. 
+5. 
+The Issuer will then deliver the relevant number of Tokenized Securities either directly to the 
+relevant investor or directly to the Crypto Custodian who will hold the Tokenized Securities in 
+custody on behalf of the relevant investor. 
+c) 
+Conditions and technical details of the offer 
+Any offer of Tokenized Securities is not subject to any conditions or time limits other than the time 
+limits resulting from the validity of the Base Prospectus und the relevant offer period as specified above 
+under "Offer to the Public". There is no possibility to reduce subscriptions. No minimum or maximum 
+subscription amounts will be specified. 
+In the primary market, the Issuer will sell Tokenized Securities only to Authorised Participants. 
+Tokenized Securities of any Series will only be issued upon request, i.e. such Tokenized Securities will 
+only be purchased from the Issuer by an Authorised Participant once such Authorised Participant has 
+received an order from a principal broker. 
+d) 
+Charges and costs relating to the offer 
+The estimated total expenses of the issue and/or offer of each Series of Tokenized Securities will be 
+specified in the relevant Final Terms of each issue of Tokenized Securities ("Net proceeds and estimated 
+total expenses of the issue/offer"). 
+e) 
+Method of determination of the Issue Price 
+The Issue Price of the Tokenized Securities will be determined in the Final Terms. 
+For investors other than Authorised Participants, the purchase price for a Series of Tokenized Securities 
+will be determined by each Authorised Participant on an ongoing basis and may be subject to additional 
+subscription fees.
+
+--- Page 54 ---
+- 53 - 
+ 
+ 
+16.2 SELLING RESTRICTIONS 
+a) 
+General 
+Any person subsequently offering, selling or recommending the Tokenized Securities shall comply with 
+all applicable laws and regulations in each country or jurisdiction in which it purchases, offers, sells or 
+delivers Tokenized Securities or possesses, distributes or publishes this Base Prospectus or any other 
+offering material relating to the Tokenized Securities. 
+Persons into whose hands this Base Prospectus comes are required by the Issuer to comply with all 
+applicable laws and regulations in each country or jurisdiction in which they purchase, offer, sell or 
+deliver Tokenized Securities or possess, distribute or publish this Base Prospectus or any other offering 
+material relating to the Tokenized Securities, in all cases at their own expense. 
+b) 
+European Economic Area 
+If the Final Terms in respect of any Series of Tokenized Securities include a legend in the context of 
+any prohibition to make an offer of Tokenized Securities to retail investors in certain jurisdictions in 
+the European Economic Area, the Tokenized Securities are not intended to be offered and shall not be 
+offered to any retail investor in such jurisdiction(s). For the purposes of this provision: 
+(i) 
+the expression "retail investor" means a person who is one (or more) of the following: 
+(1) 
+a retail client as defined in point (11) of Article 4(1) of Directive 
+2014/65/EU (as amended, "MiFID II"); or 
+(2) 
+a customer within the meaning of Directive (EU) 2016/97 
+(the "Insurance Distribution Directive"), where that customer would 
+not qualify as a professional client as defined in point (10) of Article 
+4(1) of MiFID II; or 
+(3) 
+not a qualified investor as defined in Regulation (EU) 2017/1129 
+(the "Prospectus Regulation"); and 
+(ii) 
+the expression an "offer" includes the communication in any form and by any means 
+of sufficient information on the terms of the offer and the Tokenized Securities to be 
+offered so as to enable an investor to decide to purchase or subscribe for the Tokenized 
+Securities. 
+If the Final Terms in respect of any Tokenized Securities do not include a legend in the context of any 
+prohibition to make an offer of Tokenized Securities to retail investors in certain jurisdictions in the 
+European Economic Area (each a "Member State"), any relevant person has represented that it has not 
+made and will not make an offer of Tokenized Securities which are the subject of the offering 
+contemplated by this Prospectus as completed by the final terms in relation thereto to the public in that 
+Member State except that it may make an offer of such Tokenized Securities to the public in that 
+Member State: 
+(1) 
+if the final terms in relation to the Tokenized Securities specify that an 
+offer of those Tokenized Securities may be made other than pursuant 
+to Article 1(4) of the Prospectus Regulation in that Member State (a 
+"Non-exempt Offer"), following the date of publication of a 
+prospectus in relation to such Tokenized Securities which has been 
+approved by the competent authority in that Member State or, where 
+appropriate, approved in another Member State and notified to the 
+competent authority in that Member State, provided that any such 
+prospectus has subsequently been completed by the final terms 
+contemplating such Non-exempt Offer, in accordance with the 
+Prospectus Regulation, in the period beginning and ending on the dates 
+specified in such prospectus or final terms, as applicable, and the Issuer
+
+--- Page 55 ---
+- 54 - 
+ 
+ 
+has consented in writing to its use for the purpose of that Non-exempt 
+Offer; 
+(2) 
+at any time to any legal entity which is a qualified investor as defined 
+in the Prospectus Regulation; 
+(3) 
+at any time to fewer than 150 natural or legal persons (other than 
+qualified investors as defined in the Prospectus Regulation) subject to 
+obtaining the prior consent of the relevant dealer or dealers nominated 
+by the Issuer for any such offer; or 
+(4) 
+at any time in any other circumstances falling within Article 1(4) of 
+the Prospectus Regulation, 
+provided that no such offer of Tokenized Securities referred to in (2) to (4) above shall require the Issuer 
+to publish a prospectus pursuant to Article 3 of the Prospectus Regulation or supplement a prospectus 
+pursuant to Article 23 of the Prospectus Regulation. 
+For the purposes of this provision the expression an "offer of Tokenized Securities to the public" in 
+relation to any Tokenized Securities in any Member State means the communication in any form and 
+by any means of sufficient information on the terms of the offer and the Tokenized Securities to be 
+offered so as to enable an investor to decide to purchase or subscribe for the Tokenized Securities and 
+the expression "Prospectus Regulation" means Regulation (EU) 2017/1129. 
+c) 
+United Kingdom - Retail selling restrictions 
+If the Final Terms in respect of any Series of Tokenized Securities include a legend in the context of 
+any prohibition to make an offer of Tokenized Securities to retail investors in the United Kingdom, the 
+Tokenized Securities are not intended to be offered and shall not be offered to any retail investor in the 
+United Kingdom. For the purposes of this provision: 
+(i) 
+the expression "retail investor" means a person who is one (or more) of the following: 
+(1) 
+a retail client as defined in point (8) of Article 2(1) of Commission 
+Delegated Regulation (EU) 2017/565 as it forms part of English law 
+by virtue of the European Union (Withdrawal) Act 2018, as amended 
+by the Markets in Financial Instruments (Amendment) (EU Exit) 
+Regulations 2018; or 
+(2) 
+a customer within the meaning of Article 68(1) of the Financial 
+Services and Markets Act 2000 (Regulated Activities) Order 2001, 
+where that customer would not qualify as a professional client as 
+defined in point (8) of Article 2(28) of Regulation (EU) No 600/2014 
+as it forms part of English law by virtue of the European Union 
+(Withdrawal) Act 2018, as amended by the Markets in Financial 
+Instruments (Amendment) (EU Exit) Regulations 2018; or 
+(3) 
+not a qualified investor as defined in Regulation (EU) 2017/1129 as it 
+forms part of English law by virtue of the European Union 
+(Withdrawal) Act 2018 (the "UK Prospectus Regulation"); and 
+(ii) 
+the expression an offer includes the communication in any form and by any means of 
+sufficient information on the terms of the offer and the Tokenized Securities to be 
+offered so as to enable an investor to decide to purchase or subscribe for the Tokenized 
+Securities. 
+If the Final Terms in respect of any Tokenized Securities do not include a legend in the context of any 
+prohibition to make an offer of Tokenized Securities to retail investors in the United Kingdom, any 
+relevant person has represented that it has not made and will not make an offer of Tokenized Securities 
+which are the subject of the offering contemplated by this Base Prospectus as completed by the final
+
+--- Page 56 ---
+- 55 - 
+ 
+ 
+terms in relation thereto to the public in the United Kingdom except that it may make an offer of such 
+Tokenized Securities to the public in the United Kingdom: 
+(1) 
+if the final terms in relation to the Tokenized Securities specify that an 
+offer of those Tokenized Securities may be made other than pursuant 
+to Article 1(4) of the UK Prospectus Regulation in the United 
+Kingdom (a "Non-exempt Offer"), following the date of publication 
+of a prospectus in relation to such Tokenized Securities which has been 
+approved by the Financial Conduct Authority provided that any such 
+prospectus has subsequently been completed by final terms 
+contemplating such Non-exempt Offer, in accordance with the UK 
+Prospectus Regulation, in the period beginning and ending on the dates 
+specified in such prospectus or final terms, as applicable, and the Issuer 
+has consented in writing to its use for the purpose of that Non-exempt 
+Offer; 
+(2) 
+at any time to any legal entity which is a qualified investor as defined 
+in the UK Prospectus Regulation; 
+(3) 
+at any time to fewer than 150 natural or legal persons (other than 
+qualified investors as defined in the UK Prospectus Regulation) 
+subject to obtaining the prior consent of the relevant dealer or dealers 
+nominated by the Issuer for any such offer; or 
+(4) 
+at any time in any other circumstances falling within Article 1(4) of 
+the UK Prospectus Regulation, 
+provided that no such offer of Tokenized Securities referred to in (2) to (4) above shall require the Issuer 
+to publish a prospectus pursuant to Article 3 of the UK Prospectus Regulation or supplement a 
+prospectus pursuant to Article 23 of the UK Prospectus Regulation. 
+For the purposes of this provision the expression "offer of Tokenized Securities to the public" in 
+relation to any Tokenized Securities in the United Kingdom means the communication in any form and 
+by any means of sufficient information on the terms of the offer and the Tokenized Securities to be 
+offered so as to enable an investor to decide to purchase or subscribe for the Tokenized Securities. 
+d) 
+United Kingdom - Other regulatory restrictions 
+Any person subsequently offering, selling or recommending the Tokenized Securities has to ensure that: 
+(i) 
+it has only communicated or caused to be communicated and will only communicate 
+or cause to be communicated an invitation or inducement to engage in investment 
+activity (within the meaning of Section 21 of the FSMA) received by it in connection 
+with the issue or sale of the Tokenized Securities in circumstances in which Section 
+21(1) of the FSMA does not apply to the Issuer; and 
+(ii) 
+it has complied and will comply with all applicable provisions of the FSMA with 
+respect to anything done by it in relation to the Tokenized Securities in, from or 
+otherwise involving the United Kingdom. 
+e) 
+United States 
+The Tokenized Securities have not been and will not be registered under the U.S. Securities Act of 
+1933, as amended (the "Securities Act"), and may not be offered, sold or delivered within the United 
+States of America (the "United States") to or for the account or benefit of, U.S. persons except pursuant 
+to an exemption from, or in a transaction not subject to, the registration requirements of the Securities 
+Act. Accordingly, the Tokenized Securities are being offered and sold only (1) to "accredited investors" 
+(as defined in Rule 501 of Regulation D under the Securities Act) in compliance with Rule 506(c) or 
+Rule 506(b) of Regulation D under the Securities Act; (2) to ‘qualified institutional buyers’ as defined 
+in Rule 144A under the Securities Act; and (3) in "offshore transactions" (as defined in Regulation S
+
+--- Page 57 ---
+- 56 - 
+ 
+ 
+under the Securities Act) in reliance upon Regulation S under the Securities Act. Any person acting as 
+a distributor of the Tokenized Securities exclusively outside the United States has represented and 
+agreed that neither it nor any persons acting on its behalf has offered, sold or delivered or will offer, 
+sell or deliver any Tokenized Securities within the United States except in accordance with Rule 903 of 
+Regulation S under the Securities Act. Accordingly, each such distributor has represented and agreed 
+that neither it, its affiliates nor any persons acting on its or their behalf has engaged or will engage in 
+any directed selling efforts with respect to the Tokenized Securities offered in reliance on Regulation 
+S. Terms used in this subparagraph have the meaning given to them by Regulation S.
+
+--- Page 58 ---
+- 57 - 
+ 
+ 
+17. GENERAL INFORMATION 
+17.1 INCORPORATION BY REFERENCE 
+The following information is incorporated by reference into this Base Prospectus: 
+Information 
+incorporated 
+by 
+reference 
+Pages incorporated by 
+reference 
+Page in Base Prospectus 
+Financial Information 
+ 
+ 
+(A) Opening Balance Sheet of the 
+Issuer (Eröffnungsbilanz) dated 
+13 October 2021 
+All pages 
+21 
+(B) Audited 
+annual 
+financial 
+statements 
+of 
+the 
+Issuer 
+(Jahresabschluss) 
+dated 
+31 December 
+2021 
+together 
+with an unqualified auditor’s 
+report 
+ 
+ 
+Balance Sheet 
+Annex (Anhang) 1 
+21 
+Profit and Loss Statement 
+Annex (Anhang) 2 
+21 
+Notes 
+Annex (Anhang) 3 
+21 
+Cash Flow Statement 
+Annex (Anhang) 4 
+21 
+Unqualfied Auditor’s Report 
+Annex (Anhang) 5 
+21 
+ 
+The information incorporated by reference can be found on the following websites: 
+ 
+The opening balance sheet of the Issuer (Eröffnungsbilanz) dated 13 October 2021: 
+https://www.tradias.de/storage/app/media/uploaded-
+files/2021_Tradias%20Issuance%20GmbH_Er%C3%B6ffnungsbilanz_DE.pdf 
+ 
+The audited annual financial statements of the Issuer (Jahresabschluss) dated 31 December 
+2021 together with an unqualified auditor’s report: 
+ 
+https://www.tradias.de/storage/app/media/uploaded-files/2021_PB%20JA%202021%20-
+%20Endfassung.pdf 
+All pages of the documents incorporated by reference set out above shall be deemed to be incorporated 
+by reference in, and to form part of, this Base Prospectus. 
+Any information not incorporated by reference into this Base Prospectus but contained in the documents 
+set out above as source documents in the cross-reference list above is either not relevant for investors 
+or covered elsewhere in this Base Prospectus. 
+The documents containing the information incorporated by reference have been filed with BaFin. They 
+are available free of charge by the Issuer and are published in electronic form on the Issuer’s website 
+www.tradias.de.
+
+--- Page 59 ---
+- 58 - 
+ 
+ 
+17.2 DOCUMENTS ON DISPLAY 
+For the term of this Base Prospectus, copies of the following documents will be available on the website 
+of the Issuer (https://www.tradias.de/impressum): 
+(i) 
+the Base Prospectus and any supplement thereto; 
+(ii) 
+the constitutional documents of the Issuer; 
+(iii) 
+the Terms and Conditions; 
+(iv) 
+the Security Trust Agreement in relation to each Series of Tokenized Securities; 
+(v) 
+the relevant Final Terms for each Series of Tokenized Securities; and 
+(vi) 
+the documents incorporated by reference.
+
+--- Page 60 ---
+- 59 - 
+ 
+ 
+18. NAMES AND ADDRESSES 
+ISSUER 
+Tradias Issuance GmbH 
+Roßmarkt 21 
+60311 Frankfurt am Main 
+Germany 
+ 
+SECURITY TRUSTEE 
+Tradias Treuhandgesellschaft mbH 
+Roßmarkt 21 
+60311 Frankfurt am Main 
+Germany 
+ 
+AUDITORS 
+D & P Wirtschaftsprüfung GmbH 
+Biebergasse 2 
+60313 Frankfurt am Main 
+Germany

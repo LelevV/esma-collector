@@ -1,0 +1,2569 @@
+--- Page 1 ---
+Detta grundprospekt är daterat och godkänt av Finansinspektionen den 13 januari 2025. Grundprospektet är giltigt i 
+12 månader efter detta datum. Skyldigheten att tillhandahålla tillägg till detta grundprospekt i fall av nya 
+omständigheter av betydelse, sakfel eller väsentliga felaktigheter kommer inte att vara tillämpligt efter 
+giltighetstidens utgång. 
+1(48) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sparbanken Västra Mälardalen  
+ 
+PROGRAM FÖR MEDIUM TERM NOTES 
+ 
+ 
+ 
+ 
+ 
+Ledarbank 
+ 
+ 
+ 
+ 
+ 
+Emissionsinstitut
+
+--- Page 2 ---
+2(48) 
+ 
+Viktig information 
+Detta grundprospekt (”Prospektet”) innehåller information om Sparbanken Västra Mälardalens, org.nr 578500-
+7120, (”Sparbanken”) och Sparbankens program för Medium Term Notes (”MTN-programmet”) genom 
+vilket Sparbanken emitterar obligationer i SEK med varierande löptider, dock lägst ett år, så kallade Medium 
+Term Notes (”MTN”). Prospektet har godkänts av Finansinspektionen som behörig myndighet enligt 
+Europaparlamentets och rådets förordning (EU) 2017/1129 (”Prospektförordningen”). Prospektet har 
+upprättats i enlighet med Prospektförordningen och kommissionens delegerade förordning (EU) 2019/980 och 
+Prospektet utgör ett grundprospekt enligt artikel 8 i Prospektförordningen. 
+För Prospektet gäller definitionerna som framgår av avsnittet allmänna villkor (”Allmänna Villkor”) om inte 
+annat framgår av sammanhanget. För Prospektet och erbjudanden enligt Prospektet gäller svensk rätt. Tvist med 
+anledning av Prospektet, erbjudanden och därmed sammanhängande rättsförhållanden ska avgöras av svensk 
+domstol, med Stockholms tingsrätt som första instans. 
+Prospektet ska läsas tillsammans med eventuella tillägg till Prospektet, varje dokument som blivit en del av 
+Prospektet genom hänvisning samt slutliga villkor (”Slutliga Villkor”) för aktuellt lån. Prospektet och de 
+dokument som blivit en del av Prospektet genom hänvisning finns tillgängliga på www . sparbankenvm . se och 
+kan även kostnadsfritt erhållas via Sparbankens huvudkontor. 
+En investering i de värdepapper som erbjuds i Prospektet är förknippad med vissa risker. Potentiella investerare 
+rekommenderas därför att ta del av den information som lämnas under rubriken ”Riskfaktorer”. 
+I förhållande till varje emission av MTN kommer en målmarknadsbedömning att göras för MTN och lämpliga 
+distributionskanaler för MTN kommer att bestämmas. En person som senare erbjuder, säljer eller 
+rekommenderar MTN (en ”Distributör”) bör beakta målmarknadsbedömningen. En Distributör som träffas av 
+direktiv 2014/65/EU MiFID II är dock skyldig att genomföra sin egen målmarknadsbedömning för MTN (genom 
+att antingen tillämpa eller anpassa producentens målmarknadsbedömning) och att fastställa lämpliga 
+distributionskanaler.  
+Enligt 
+MiFID:s 
+produktstyrningskrav 
+under 
+det 
+delegerade 
+direktivet 
+2017/593 
+(”MiFID:s 
+produktstyrningskrav”), ska det i förhållande till varje emission fastställas huruvida Ledarbanken eller något 
+Emissionsinstitut som medverkar vid emissionen av MTN är en producent av sådana MTN. Varken 
+Ledarbanken, Emissionsinstitut eller något av deras respektive dotterbolag, som inte medverkar vid en emission, 
+kommer att anses vara producenter enligt MiFID:s produktstyrningskrav. 
+Sparbanken och Emissionsinstituten kan komma att samla in och behandla personuppgifter om 
+Fordringshavarna. För information om behandling av personuppgifter, se Sparbankens respektive 
+Emissionsinstitutens hemsidor eller ta kontakt med respektive part för sådan information. 
+ 
+ 
+ 
+ 
+ 
+ 
+Prospektet har den 13 januari 2025 godkänts och registrerats av Finansinspektionen i enlighet med artikel 20 i 
+Prospektförordningen. 
+Erbjudanden om förvärv av MTN utgivna under Prospektet riktar sig inte till personer vars deltagande 
+förutsätter ytterligare erbjudandehandlingar, registrerings- eller andra åtgärder än som följer av svensk rätt för 
+erbjudanden därav i Sverige. Prospektet samt Slutliga Villkor får inte distribueras till eller inom något land där 
+distributionen kräver ytterligare registrerings- eller andra åtgärder än sådana som följer av svensk rätt eller 
+strider mot lag eller andra regler. Förvärv av MTN som utges under Prospektet i strid med ovanstående kan 
+komma att anses som ogiltigt.
+
+--- Page 3 ---
+3(48) 
+ 
+ 
+INNEHÅLLSFÖRTECKNING 
+BESKRIVNING AV MTN OCH MTN-PROGRAMMET ............................................................................ 4 
+RISKFAKTORER ................................................................................................................................... 10 
+ALLMÄNNA VILLKOR ........................................................................................................................... 21 
+MALL FÖR SLUTLIGA VILLKOR .......................................................................................................... 35 
+INFORMATION OM SPARBANKEN VÄSTRA MÄLARDALEN ............................................................ 39 
+STYRELSE OCH LEDNING .................................................................................................................. 42 
+ALLMÄN INFORMATION ...................................................................................................................... 44 
+INFÖRLIVANDE AV INFORMATION .................................................................................................... 46 
+KONTAKTUPPGIFTER ......................................................................................................................... 48
+
+--- Page 4 ---
+4(48) 
+ 
+BESKRIVNING AV MTN OCH MTN-PROGRAMMET 
+Allmänt 
+Detta MTN-program utgör en ram under vilken Sparbanken har möjlighet att löpande uppta Lån i SEK 
+med varierande löptider, dock lägst med en löptid om ett (1) år. 
+Lån upptas genom utgivande av kontoförda ensidiga skuldförbindelser (MTN) som registreras enligt 
+lag (1998:1479) om värdepapperscentraler och kontoföring av finansiella instrument. Varje Lån 
+representeras av MTN med en valör om minst ett värde i SEK motsvarande EUR 100 000 eller hela 
+multiplar därav. Under MTN-programmet kan Sparbanken emittera MTN som löper med fast ränta, 
+rörlig ränta eller utan ränta (s.k. nollkupongskonstruktion). 
+För samtliga MTN som ges ut under MTN-programmet ska Allmänna Villkor och svensk lag gälla. 
+Allmänna Villkor för MTN återges nedan. Dessutom ska för varje MTN kompletterande Slutliga 
+Villkor gälla tillsammans med Allmänna Villkor. Slutliga Villkor för MTN som erbjuds allmänheten 
+inges till Finansinspektionen och kommer att offentliggöras samt finnas tillgängliga på Sparbankens 
+webbplats www. sparbankenvm .se i elektroniskt format samt på Sparbankens huvudkontor i 
+pappersformat. 
+Sparbankens MTN kommer att anslutas till det kontobaserade systemet hos Euroclear Sweden och 
+inga fysiska värdepapper kommer att ges ut. Slutliga Villkor innehåller, det från Euroclear Sweden 
+erhållna, internationella numret för värdepappersidentifiering, ISIN (International Securities 
+Identification Number). 
+Sparbanken har utsett Swedbank AB (publ) till Ledarbank och Swedbank AB (publ), Nordea Bank 
+Abp, Danske Bank A/S, Danmark, Sverige Filial och ABG Sundal Collier ASA till Emissionsinstitut 
+avseende MTN-programmet. Ytterligare Emissionsinstitut kan tillkomma. Ränteberäkningar utförs i 
+förekommande fall av det Emissionsinstitut som för det aktuella Lånet är Administrerande Institut. 
+Gröna MTN 
+Sparbanken har möjlighet att emittera gröna MTN under MTN-programmet i enlighet med sitt från tid 
+till annan publicerade gröna ramverk, som beskriver de särskilda villkor som är tillämpliga för en viss 
+emission av gröna MTN under det gröna ramverket (”Gröna Villkor”). Sparbanken har antagit och 
+publicerat Gröna Villkor daterade oktober 2021 (”Gröna Villkor 2021”). De Gröna Villkoren 2021 
+har utvecklats i linje med Green Bond Principles utgivna i juni 2021. Green Bond Principles utgör 
+frivilliga riktlinjer för emissioner av gröna obligationer och har fastställts av International Capital 
+Markets Association. De Gröna Villkoren 2021 är anpassade till de fyra rekommenderade 
+komponenterna i Green Bond Principles; (i) användning av intäkter, (ii) tillvägagångssätt för 
+utvärdering och urval av tillgångar, (iii) hantering av emissionslikvid och (iv) rapportering. 
+Sparbankens Gröna Villkor 2021 utvärderades under 2021 av det oberoende analysföretaget CICERO 
+Shades of Green som betygsatt ramverket som ”Medium Green”. 
+Sparbankens vid var tid gällande Gröna Villkor finns tillgängliga på Sparbankens webbplats 
+www. sparbankenvm .se. 
+Sparbankens Gröna Villkor gäller för visst Lån om det är angivet i Slutliga Villkor för sådant Lån att 
+Gröna Villkor är tillämpliga. Sparbankens Gröna Villkor kan från tid till annan komma att ändras av 
+Sparbanken. Förändringar i Gröna Villkor som sker efter Lånedatumet för ett visst Lån kommer inte 
+att gälla för det Lånet och därmed inte heller gentemot Fordringshavarna i det Lånet. Om Sparbanken
+
+--- Page 5 ---
+5(48) 
+ 
+inte skulle uppfylla de Gröna Villkor som gäller för visst Lån eller inte använda tillförda medel i 
+enlighet med sådana Gröna Villkor innebär det inte en uppsägningsgrund för Fordringshavare under 
+sådant Lån, varför Fordringshavare i sådant fall inte heller har rätt till förtida återbetalning eller 
+återköp av MTN eller annan kompensation vid sådan händelse. 
+Enligt de Gröna Villkoren 2021 ska ett belopp motsvarande nettolikviden från en emission av gröna 
+MTN användas till att finansiera eller refinansiera gröna kvalificerade lån (Green Eligible Loans) som 
+ska ge tydliga miljöfördelar. Gröna kvalificerade lån kan bland annat ges för (i) gröna byggnader 
+(nybyggnation, större renoveringar eller finansiering av vissa hållbara bostäder eller kommersiella 
+byggnader), (ii) hållbart jordbruk eller skogsbruk, (iii) energieffektivitet och (iv) förnybar energi. 
+Nettolikviden från en emission av gröna MTN får inte användas för finansiering av bland annat 
+energiproduktion från fossila bränslen eller kärnkraft, vapen eller försvarsindustrier, potentiellt 
+miljöskadlig resursutvinning, spel eller tobak. Se de Gröna Villkoren 2021 för en mer detaljerad 
+beskrivning av kraven för gröna kvalificerade lån. 
+För att säkerställa att Sparbanken efterlever de Gröna Villkoren 2021 är alla gröna kvalificerade lån 
+föremål för en särskild kreditprocess och, om lånet överstiger 8 miljoner kronor, en särskild 
+hållbarhetsanalys. Sparbanken har etablerat en särskild kommitté för gröna MTN som ansvarar för 
+kredit- och analysprocess samt årlig rapportering. Kommittén har slutlig bestämmanderätt för att 
+kvalificera och sammanlägga lån som gröna kvalificerade lån i det gröna registret. Eventuella årliga 
+rapporter kommer att publiceras på Sparbankens webbplats www . sparbankenvm . se och innehålla 
+information om allokeringen, innefattandes bland annat antalet gröna MTN som emitterats, och 
+effekten, innefattandes kvantitativa effektindikatorer i sex kategorier. 
+Syfte 
+Motivet med och användningen av tillförda medel från MTN är att finansiera den verksamhet som 
+Sparbanken bedriver.  
+Motivet med och användningen av tillförda medel från gröna MTN sker i enlighet med tillämpliga 
+Gröna Villkor. Enligt de Gröna Villkoren 2021 ska ett belopp motsvarande nettolikviden från en 
+emission av gröna MTN under ramverket användas till att finansiera eller refinansiera gröna 
+kvalificerade lån (Green Eligible Loans) som ska ge tydliga miljöfördelar.  
+Beslut om att upprätta MTN-programmet fattades initialt av Sparbankens styrelse den 25 augusti 2015 
+och beslutet att uppdatera MTN-programmet för att även omfatta emissioner av gröna MTN fattades 
+av Sparbankens styrelse den 18 oktober 2021. 
+Upptagande till handel av MTN 
+Sparbanken kan komma att inge ansökan om upptagande till handel av vissa MTN till Nasdaq 
+Stockholm eller annan reglerad marknad enligt vad som anges i Slutliga Villkor. Sparbanken står för 
+samtliga kostnader i samband med upptagande till handel av MTN under detta MTN-program såsom 
+kostnader för framtagande av Prospektet och ansökningsavgift till den reglerade marknaden. 
+Skatt 
+Euroclear Sweden verkställer om inte annat anges i Slutliga Villkor avdrag för preliminär skatt, för 
+närvarande 30 procent på utbetald ränta, för fysisk person bosatt i Sverige och för svenskt dödsbo.
+
+--- Page 6 ---
+6(48) 
+ 
+Beskrivningen ovan utgör inte skatterådgivning. Beskrivningen är inte uttömmande utan är avsedd 
+som en allmän information om vissa gällande regler. Fordringshavare ska själva bedöma de 
+skattekonsekvenser som kan uppkomma och rådfråga skatterådgivare.  
+Status 
+MTN utgör en skuldförbindelse utan säkerhet med lika rätt till betalning jämsides (pari passu) med 
+Sparbankens 
+övriga 
+icke 
+säkerställda 
+och 
+icke 
+efterställda 
+nuvarande 
+och 
+framtida 
+betalningsförpliktelser i den mån inte annat är föreskrivet i lag. 
+Försäljning 
+Försäljning sker genom att Utgivande Institut erhåller ett emissions- och försäljningsuppdrag. I 
+samband med uppdraget bestäms emissionskursen som kan vara par eller över eller under nominellt 
+belopp. Förfarande med teckning och teckningsperiod används inte under detta MTN-program. MTN 
+är fritt överlåtbara. Köp och försäljning av MTN sker normalt genom OTC-handel (”over the 
+counter”). Likvid mot leverans av värdepapper sker genom Utgivande Instituts (i förekommande fall 
+Administrerande Institut) försorg i Euroclear Swedens system. 
+Marknadspriset på MTN är rörligt och beror bland annat på gällande ränta för liknande placeringar 
+med motsvarande löptid. 
+Eftersom skuldförbindelser under MTN kan komma att ges ut löpande under en längre tid är det inte 
+möjligt att ange en enhetlig försäljningskurs eller något annat fast pris för skuldförbindelserna. Priset 
+fastställs för varje transaktion genom överenskommelse mellan köpare och säljare. 
+Avkastningen på en MTN är en funktion av det pris till vilken MTN förvärvas, den räntesats som 
+gäller för MTN samt eventuellt courtage eller annan kostnad för förvärv av MTN. 
+För ytterligare information om MTN-programmet samt erhållande av Prospektet hänvisas till 
+Sparbanken eller Emissionsinstituten. 
+Preskription 
+Fordran på Nominellt Belopp preskriberas tio år efter Återbetalningsdagen. Fordran på ränta 
+preskriberas tre år efter respektive Ränteförfallodag. Om fordran preskriberas tillkommer de medel 
+som avsatts för betalning av sådan fordran Sparbanken. Om preskriptionsavbrott sker löper ny 
+preskriptionstid om tio år i fråga om Nominellt Belopp och tre år beträffande räntebelopp, i båda fallen 
+räknat från dag som framgår av bestämmelser om verkan av preskriptionsavbrott i preskriptionslagen 
+(1981:130). 
+Ansvar 
+MTN är inte en lämplig investering för alla investerare. Varje investerare bör göra sin egen bedömning 
+huruvida det är lämpligt att investera i MTN. Varje investerare bör särskilt:  
+(a) 
+ha tillräcklig kunskap och erfarenhet för att kunna göra en ändamålsenlig utvärdering av (i) 
+MTN, (ii) möjligheter och risker i samband med en investering i MTN samt (iii) 
+informationen som finns i, eller är infogad genom hänvisning till, Prospektet eller eventuella 
+tillägg;
+
+--- Page 7 ---
+7(48) 
+ 
+(b) 
+ha tillgång till, och kunskap om, lämpliga analytiska verktyg för att, mot bakgrund av sin 
+egen finansiella situation, kunna utvärdera en investering i MTN samt den inverkan som en 
+sådan investering kommer att ha på investerarens totala investeringsportfölj; 
+(c) 
+ha tillräckliga finansiella medel och likvida tillgångar för att kunna bära de risker som en 
+investering i MTN medför, inbegripet då lånebelopp eller ränta betalas i en eller flera valutor 
+eller då valutan för lånebelopp eller ränta avviker från investerarens valuta; 
+(d) 
+till fullo förstå villkoren för MTN och vara väl förtrogen med beteendet hos relevanta index 
+och finansiella marknader; samt 
+(e) 
+vara kapabel att utvärdera (själv eller med hjälp av finansiell rådgivare) möjliga scenarion 
+för ekonomiska, räntenivårelaterade eller andra faktorer som kan påverka investeringen och 
+möjligheterna att bära riskerna. 
+GDPR 
+Sparbanken och Emissionsinstituten kan komma att samla in och behandla personuppgifter om 
+Fordringshavarna.  
+Behandlingen av personuppgifter baseras på Sparbankens och Emissionsinstitutens berättigade 
+intresse att kunna tillvarata sina respektive rättigheter och kunna fullgöra sina respektive skyldigheter 
+enligt MTN samt för att Sparbanken och Emissionsinstituten ska kunna fullgöra sina skyldigheter 
+enligt tillämplig lagstiftning. Insamlade personuppgifter kommer endast att sparas så länge det är 
+nödvändigt utifrån ändamålet med behandlingen om inte annat krävs eller tillåts enligt lag. 
+För information om behandling av personuppgifter, se Sparbankens respektive Emissionsinstitutens 
+hemsidor eller ta kontakt med respektive part för sådan information. 
+Produktbeskrivning 
+Nedan följer en beskrivning och exempel av vanliga konstruktioner och termer som förekommer i 
+Allmänna Villkor och som tillämpas vid utgivande av MTN under MTN-programmet. Konstruktion av 
+varje Lån framgår av Slutliga Villkor. För beskrivning av nedanstående definitioner se Allmänna 
+Villkor nedan. 
+Räntekonstruktioner 
+Enligt Allmänna Villkor finns möjlighet att utge Lån med olika räntekonstruktioner. Aktuell ränta för 
+utgivet Lån specificeras i Slutliga Villkor. Lån emitteras med någon av följande räntekonstruktioner: 
+Lån med fast ränta 
+Lånet löper med ränta enligt Räntesatsen från (men exklusive) Lånedatum till (och inklusive) 
+Återbetalningsdagen, om inte annat framgår av Slutliga Villkor. 
+Räntan erläggs i efterskott på respektive Ränteförfallodag och beräknas på 30/360-dagarsbasis om inte 
+annat anges i Slutliga Villkor för aktuellt Lån. 
+Med Ränteförfallodag för fast ränta avses den sista dagen i varje Ränteperiod dock att om någon sådan 
+dag inte är Bankdag ska som Ränteförfallodag anses närmast påföljande bankdag om inte annat 
+föreskrivs i Slutliga Villkor.
+
+--- Page 8 ---
+8(48) 
+ 
+Lån med rörlig ränta (Floating Rate Notes eller FRN) 
+Lånet löper med ränta från (men exklusive) Lånedatum till (och inklusive) Återbetalningsdagen. 
+Räntesatsen för respektive Ränteperiod beräknas av Utgivande Institut (i förekommande fall, 
+Administrerande Institut) på respektive Räntebestämningsdag och utgörs av Räntebasen med tillägg av 
+Räntebasmarginalen för samma period. Räntan erläggs i efterskott på varje Ränteförfallodag och 
+beräknas på faktiskt antal dagar/360 eller enligt sådan annan beräkningsgrund som tillämpas för 
+aktuell Räntebas. 
+Räntebas avser den referensränta som specificeras i Slutliga Villkor eller sådan annan Ersättande 
+Räntebas som till följd av en Triggerhändelse eller ett Offentliggörande ersätter den ursprungliga 
+Räntebasen. För Lån i SEK avses vanligen STIBOR. 
+Med STIBOR avses:  
+(a) 
+den räntesats som administrerats, beräknats och distribuerats av Swedish Financial 
+Benchmark Facility AB (eller ersättande administratör eller beräkningsombud) för aktuell 
+dag och publiceras på informationssystemet Refinitivs sida ”STIBOR=” (eller genom sådant 
+annat system eller på sådan annan sida som ersätter nämnda system eller sida) för SEK under 
+en period jämförbar med den relevanta Ränteperioden; eller 
+(b) 
+om ingen sådan räntesats anges för den relevanta Ränteperioden enligt punkten (a), 
+medelvärdet (avrundat uppåt till fyra decimaler) av den räntesats som Referensbankerna 
+(eller sådana ersättande banker som utses av Administrerande Institut) anger till 
+Administrerande Institut på dennes begäran för depositioner av SEK 100 000 000 för den 
+relevanta Ränteperioden; eller 
+(c) 
+om ingen räntesats anges enligt punkterna (a) och (b), den räntesats som enligt 
+Administrerande Instituts skäliga uppskattning bäst motsvarar räntesatsen för depositioner i 
+SEK på interbankmarknaden i Stockholm, för den relevanta Ränteperioden. 
+STIBOR utgör ett referensvärde enligt Europaparlamentets och rådets förordning (EU) 2016/1011 
+(”Benchmarkförordningen”). STIBOR tillhandahålls av Swedish Financial Benchmark Facility AB 
+som, per dagen för detta Grundprospekt, ingår såsom administratör i det register som förs av 
+Europeiska värdepappers- och marknadsmyndigheten (ESMA) i enlighet med artikel 36 i 
+Benchmarkförordningen.  
+För rörlig ränta kan det i Slutliga Villkor specificeras en minimiränta. Den rörliga räntan för varje 
+Ränteperiod kommer i sådana fall alltid lägst att vara angiven minimiränta. 
+Lån utan ränta (s.k. Nollkupongare) 
+Lånet löper utan ränta eller så kallad Nollkupongskonstruktion, det vill säga Lånet säljs till en kurs 
+understigande, överstigande eller lika med nominellt belopp där avkastningen erhålls på 
+Återbetalningsdagen i och med återbetalning av nominellt belopp. 
+Dagberäkning av Ränteperiod 
+Enligt Allmänna Villkor kan ränta beräknas med någon av följande dagsberäkningsmetoder. 
+”30/360-dagarsbasis” innebär att man utgår från att året består av 360 dagar som i sin tur fördelas på 
+12 månader om vardera 30 dagar och därefter divideras med 360. Vid bruten månad utgår man från det 
+faktiska antalet dagar som löpt i månaden.
+
+--- Page 9 ---
+9(48) 
+ 
+”faktiskt antal dagar/360” innebär att det faktiska antalet dagar i ränteperioden delas med 360. 
+Ovanstående dagberäkningsmetoder kan antingen vara justerade eller ojusterade. Om en 
+dagberäkningsmetod är justerad innebär det att sista dagen för beräkning av ränta justeras om en 
+ränteförfallodag infaller på en dag som inte är en Bankdag till närmast påföljande Bankdag, om sådan 
+Bankdag inte infaller i en ny kalendermånad, i vilket fall ränteförfallodagen ska anses vara föregående 
+Bankdag. Om en dagberäkningsmetod är ojusterad innebär det att sista dagen för beräkning av ränta är 
+ränteförfallodagen oavsett om ränteförfallodagen infaller på en Bankdag eller ej. 
+Återbetalning och betalning av ränta 
+MTN förfaller till betalning med dess Nominella Belopp på Återbetalningsdagen. Infaller 
+Återbetalningsdagen på dag som inte är Bankdag återbetalas Lånet först följande Bankdag. Ränta 
+betalas på aktuell Ränteförfallodag.  
+Betalning sker till den som är registrerad som Fordringshavare på Avstämningsdagen före respektive 
+förfallodag eller till sådan annan person som är registrerad hos Euroclear Sweden som berättigad att 
+erhålla sådan betalning. 
+Fordringshavarmöte samt justering och ändring av villkor 
+Sparbanken, Emissionsinstitut och Fordringshavare kan under vissa förutsättningar kalla till 
+Fordringshavarmöte. Fordringshavarmötet kan med bindande verkan för samtliga Fordringshavare 
+fatta beslut som påverkar alla Fordringshavares rättigheter under ett Lån oavsett om viss 
+Fordringshavare har varit närvarande eller representerade vid Fordringshavarmötet och oberoende av 
+om och hur Fordringshavaren har röstat på mötet. Fordringshavarmötet kan även utse och ge 
+instruktioner till en företrädare för Fordringshavarna att företräda samtliga Fordringshavare såväl vid 
+som utom domstol eller exekutiv myndighet och i andra sammanhang. Detta kan innebära att åtgärder 
+vidtagna på ett Fordringshavarmöte med bindande verkan kan påverka en Fordringshavare under ett 
+Lån på ett sätt som inte är önskvärt för Fordringshavaren.
+
+--- Page 10 ---
+10(48) 
+ 
+RISKFAKTORER 
+I detta avsnitt beskrivs riskfaktorer som är specifika för Sparbanken och/eller värdepapperen och som 
+Sparbanken anser är väsentliga för Sparbankens verksamhet och framtida utveckling och för 
+investerare i MTN för att fatta ett välgrundat investeringsbeslut. Utöver nedanstående riskfaktorer 
+uppmanas investerare att ta del av övrig information i Prospektet och av tillämpliga Slutliga Villkor 
+som gäller för varje MTN och bilda sig en egen uppfattning om lämpligheten av en placering i aktuell 
+MTN. Riskfaktorer beskrivna i detta avsnitt kan enskilt eller sammantaget få en väsentlig negativ 
+inverkan på Sparbankens verksamhet, finansiella ställning och/eller resultat och kan även medföra att 
+en investerare i MTN förlorar hela eller delar av sitt investerade kapital. 
+Riskfaktorerna är uppdelade i olika kategorier såsom risker kopplade till omvärldsfaktorer och 
+marknad, Sparbankens verksamhet, legala och regulatoriska risker samt riskfaktorer hänförliga till 
+värdepapperen. Riskfaktorer som bedöms mest väsentliga presenteras först i varje kategori, medan 
+riskfaktorerna därefter presenteras utan särskild rangordning. Sparbankens bedömning av 
+väsentligheten av varje riskfaktor är baserad på sannolikheten för dess förekomst och dess förväntade 
+negativa effekt. 
+VÄSENTLIGA OCH SPECIFIKA RISKER FÖR SPARBANKEN 
+Risker kopplade till omvärldsfaktorer och marknad 
+Marknadsrisker 
+Marknadsrisk är risken för att det verkliga värdet på, eller framtida kassaflöden från, ett finansiellt 
+instrument varierar på grund av förändringar i marknadspriser. I finansiell verksamhet utgörs de 
+viktigaste marknadsriskerna av ränterisker, valutarisker och aktiekursrisker (prisrisk). I Sparbankens 
+fall utgör ränterisken och aktiekursrisken de övervägande marknadsriskerna. 
+Ränterisk är risken att värdet på Sparbankens tillgångar och skulder förändras på ett ofördelaktigt sätt 
+när räntenivåer förändras. Ränterisk uppstår om tillgångar, skulder och derivat inte har en 
+löptidsmatchning. Sparbanken är utsatt för ränterisk när det uppstår skillnader mellan 
+räntebindningsperioder, volymer eller referensräntor på tillgångar, skulder och derivat. Räntor 
+påverkas av en rad faktorer som ligger utanför Sparbankens kontroll, såsom penningpolitiska beslut 
+från myndigheter och riksbanker, samt nationella och internationella politiska förhållanden. Vid 
+utgången av räkenskapsåret 2023 hade Sparbanken exempelvis en räntebindningstid om högst sex 
+månader för tillgångar till ett värde av cirka 7 003,0 miljoner kronor (av totala tillgångar som uppgick 
+till cirka 11 994,3 miljoner kronor) och skulder uppgående till cirka 8 842,6 miljoner kronor av (totala 
+skulder som uppgick till cirka 11 994,3 miljoner kronor). Förändringar av marknadsräntor kan påverka 
+Sparbankens konkurrenssituation och öka Sparbankens finansieringskostnader. Om Sparbanken inte 
+kan höja sina räntor i tid, eller över huvud taget, kan det ha en väsentlig negativ inverkan på 
+Sparbankens räntenettomarginal. Den momentana resultateffekten vid en ökning av marknadsräntan 
+med 1 procentenhet per utgången av räkenskapsåret 2023 var 21,4 miljoner kronor (20,9 miljoner 
+kronor per utgången av räkenskapsåret 2022). Ökningen på den momentana effekten beror framförallt 
+på en högre duration i Sparbankens innehav i räntebärande värdepapper. Per 31 december 2023 
+uppgick Sparbankens marknadsvärde på räntebärande värdepapper till 759,3 miljoner kronor. Om 
+ovanstående risker inträffar bedömer Sparbanken att den kan ha en väsentlig negativ inverkan på 
+Sparbankens räntemarginaler, värdet på Sparbankens tillgångar samt finansieringskostnader.
+
+--- Page 11 ---
+11(48) 
+ 
+Prisrisk (främst aktiekursrisk) är risken för att marknadsvärdet på en aktieplacering eller annan 
+placering sjunker till följd av samhällsekonomiska faktorer eller faktorer kopplade till en viss bransch. 
+Sparbanken har placeringar inom aktier, fonder och obligationer. Sparbankens största aktieinnehav är 
+aktier i Swedbank AB (publ) och Indecap Holding AB. Om värdet av en tillgång som Sparbanken 
+placerat i faller kan det ha en negativ inverkan på Sparbankens tillgångar samt finansiella ställning. 
+Konkurrens 
+Sparbanken påverkas av generella förändringar på bankmarknaden, t.ex. förändringar av 
+kundbeteenden och konkurrenters beteende. Sparbanken möter en stark konkurrens inom alla sina 
+verksamhetsområden och i första hand från lokala finansiella institutioner och banker med liknande 
+affärsmodell men också på den digitala marknaden av nationella och till viss del internationella 
+finansiella institutioner och banker, försäkringsbolag och inte minst genom många nya nischaktörer 
+som konkurrerar med Sparbanken. Ökad digitalisering inom den finansiella sektorn leder till ökade 
+möjligheter för såväl befintliga som nya aktörer att konkurrera med Sparbanken, vilket kan minska 
+marginaler på Sparbankens produkter och tjänster och negativt påverka Sparbankens ekonomiska 
+resultat. Sparbanken utmanas därmed att anpassa och utveckla produkter och tjänster efter kundernas 
+behov och beteenden för att inte förlora kunder och marknadsandelar till konkurrenter. Om efterfrågan 
+på Sparbankens produkter och tjänster skulle minska kan det negativt påverka Sparbankens omsättning 
+och lönsamhet. 
+Sparbankens konkurrenssituation påverkas av faktorer som delvis står utanför Sparbankens kontroll. 
+Att bedöma i vilken omfattning en negativ konkurrensutveckling skulle komma att påverka 
+Sparbanken är förenat med betydande osäkerhet. Sparbanken bedömer dock att en ökad konkurrens 
+skulle ha en negativ inverkan på Sparbankens omsättning och lönsamhet. 
+Det allmänekonomiska läget och den globala kreditmarknaden 
+Sparbankens verksamhet påverkas av det nationella och globala ekonomiska läget, den globala 
+kreditmarknaden och av andra faktorer som direkt eller indirekt berör Sparbankens affärsverksamhet. 
+Det kan exempelvis handla om konjunkturmässiga förändringar som påverkar efterfrågan på 
+Sparbankens produkter och tjänster. Konjunkturutvecklingen påverkas av globala politiska händelser, 
+väpnade konflikter, terroristhandlingar och krig, liksom av marknadsspecifika händelser såsom 
+ändringar i konsumenternas förtroende och efterfrågan, investeringsvilja, finansiella ställning, 
+industriproduktion, graden av arbetslöshet samt politisk osäkerhet. Det innebär att de affärer 
+Sparbanken har med konsumenter och företag kan komma att påverkas av konjunkturnedgångar, dels 
+genom lägre efterfrågan, dels genom att vissa kunder kan drabbas av ekonomiska problem och 
+därigenom få problem att klara sina åtaganden mot Sparbanken.  
+En omfattande och ihållande nedgång i den allmänna konjunkturen kan leda till ökade kreditförluster, 
+minskad lönsamhet och försämrad finansiell ställning för Sparbanken. Exempelvis Rysslands invasion 
+av Ukraina och efterföljande sanktioner mot Ryssland av bland andra USA, Storbritannien och EU 
+samt Rysslands motåtgärder har lett till ökade energi- och råvarupriser samt ökat globalt inflations- 
+och räntetryck. Rysslands anfallskrig mot Ukraina, minskad ekonomisk tillväxt och åtstramningar i 
+penningpolitiken kan leda till ytterligare geopolitisk instabilitet, handelsrestriktioner, störningar i 
+leveranskedjor, ökade energipriser, minskade investeringar, svårigheter för kunder att parera 
+prisökningar och höjda räntor, vilket kan få ytterligare negativa effekter på den regionala och globala 
+ekonomin. Ihållande hög inflation påverkar särskilt högt belånade svenska fastighetsbolag och ändrad 
+värdering kan innebära förluster för marknadsaktörer och kreditförluster för Sparbanken. De tjänster
+
+--- Page 12 ---
+12(48) 
+ 
+Sparbanken tillhandahåller inom värdepappershandel kopplade till finansiella tillgångar påverkas av 
+flera faktorer såsom likviditeten på de globala finansmarknaderna, aktiekursernas och räntornas nivå 
+och volatilitet samt investerarnas inställning till marknaden. Förändringar av detta slag kan också 
+påverka värdet på Sparbankens finansiella placeringar i form av räntebärande värdepapper och övriga 
+placeringar. Sparbanken hade vid utgången av räkenskapsåret 2023 obligationer och andra 
+räntebärande värdepapper uppgående till ett värde om 759,3 miljoner kronor (och 975,6 miljoner 
+kronor inklusive kommun- och statsobligationer) och aktier och andelar uppgående till 893,2 miljoner 
+kronor. Det kan även påverka Sparbankens upplåningskostnader och räntenetto vilket kan leda till 
+mindre lönsamhet och försämrad finansiell ställning.  
+Om en finansiell institution fallerar eller om det föreligger osäkerhet kring eller betalningsproblem hos 
+en finansiell aktör på kreditmarknaden kan det leda till likviditetsproblem och förluster hos andra 
+finansiella institut, inklusive Sparbanken, eftersom finansiella institut är beroende av krediter, handel 
+och clearing mellan instituten. Motåtgärder vidtagna av finansiella institut och myndigheter kan visa 
+sig vara otillräckliga för att förhindra sådana likviditetsproblem och förluster. Även bristande 
+kreditvärdighet, inklusive sänkta kreditbetyg för finansiella aktörer, kan leda till likviditetsproblem för 
+hela marknaden. Denna risk benämns ”systemrisk” och kan påverka finansiella intermediärer såsom 
+clearingombud, clearinginstitut, banker, värdepappersinstitut och marknadsplatser med vilka 
+Sparbanken har affärsförbindelser och kan därmed också påverka Sparbankens verksamhet. 
+Sammantaget är Sparbanken utsatt för risker kopplade till den allmänna ekonomiska utvecklingen 
+globalt men framför allt på den svenska marknaden. Utvecklingen påverkas av faktorer som står 
+utanför Sparbankens kontroll. Att bedöma i vilken omfattning en negativ utveckling skulle komma att 
+påverka Sparbanken är förenat med betydande osäkerhet. Sparbanken bedömer dock att en svagare 
+konjunkturutveckling skulle ha en negativ inverkan på Sparbankens resultat och därmed finansiella 
+ställning. 
+Geografisk risk 
+Sparbankens verksamhet bedrivs inom Köpings kommun, Arboga kommun samt Kungsörs kommun. 
+Det utgör ett avgränsat geografiskt område och påverkas i stor grad av makroekonomiska faktorer på 
+regional och lokal nivå som till exempel regional och lokal ekonomi, arbetslöshetsnivå, 
+befolkningsantal och demografisk utveckling. En lokal händelse som påverkar ekonomin inom detta 
+område kan därför få större negativ påverkan på Sparbankens finansiella ställning och lönsamhet än 
+den skulle få på en aktör med större geografisk spridning av sin verksamhet. Sparbankens finansiella 
+ställning och lönsamhet är även beroende av regionala investeringar i näringsliv och infrastruktur för 
+fortsatt utveckling och tillväxt i regionen. Den geografiska risken består även i att enskilda kunder i 
+Sparbanken kan utgöra en stor del av kundbasen. Om ekonomin för privatpersoner och företag inom 
+Köpings kommun, Arboga kommun och Kungsörs kommun utvecklas negativt och att det inte 
+genomförs tillräckligt med satsningar i näringslivet och infrastrukturen så kan det få en negativ 
+påverkan på Sparbankens verksamhet. 
+Den geografiska risken påverkas av faktorer som delvis står utanför Sparbankens kontroll. Att bedöma 
+i vilken omfattning ovanstående risker kan komma att inträffa är förenat med betydande osäkerhet. 
+Om ovanstående risk inträffar bedömer Sparbanken att det kan ha en negativ inverkan på Sparbankens 
+omsättning och lönsamhet men även på kreditförluster och därmed rörelseresultat.
+
+--- Page 13 ---
+13(48) 
+ 
+Risker förenade med Sparbankens verksamhet  
+Kreditrisker i Sparbankens positioner 
+Sparbankens kreditrisk är risken för förlust till följd av att en motpart inte förmår fullgöra sina 
+åtaganden gentemot Sparbanken och att eventuella säkerheter inte täcker kapitalfordran. Sparbanken 
+utför rutinmässigt transaktioner med motparter inom finansbranschen. Sparbankens kreditrisk uppstår i 
+första hand vid utlåning till kunder, men även vid garantiåtaganden, derivatkontrakt och 
+värdepappershandel samt i förhållande till motparter för t.ex. ränte- och valutaswappar. Per utgången 
+av räkenskapsåret 2023 uppgick utlåningen till kreditinstitut till 732,3 miljoner kronor, vilket var en 
+minskning med 35,8
+och utlåningen till allmänheten 
+, 
+2022
+räkenskapsåret 
+miljoner kronor mot 
+ 
+jämfört med 
+miljoner kronor 
+ 6,
+116
+miljoner kronor, vilket var en ökning med 
+ 
+206,3
+ 9
+uppgick till 
+. Enligt Sparbankens interna klassificering av risk för utlåning till allmänheten, 
+räkenskapsåret 2022
+oner kronor som normal 
+milj
+735,5 
+ 2
+miljoner konor klassificerat som förhöjd risk, 
+ 
+,1
+161
+ 1
+var totalt 
+eller om en motpart 
+Ogynnsamma ekonomiska villkor 
+ 
+miljoner kronor som låg risk.
+ 
+123,8
+ 5 
+risk och
+inte kan fullfölja ingångna avtal och Sparbanken därmed tvingas ingå motsvarande avtal med en annan 
+behov av 
+ ,
+kreditförluster
+innebära 
+ 
+marknadsförhållanden
+på rådande 
+beroende 
+ 
+kan
+ ,
+motpart
+Exempelvis medför sjunkande 
+. 
+och ökade kostnader
+ 
+reserveringar för befarade kreditförluster
+samt ökade kostnader 
+ 
+ningsgrad
+å
+g bel
+ö
+och h
+bostadspriser i kombination med stigande bolåneräntor 
+inte kommer förmå att fullgöra sina 
+ 
+kunder
+av inflation en ökad risk för att Sparbankens 
+till följd 
+verkan på Sparbankens 
+på
+negativ 
+Kreditförluster kan få betydande 
+åtaganden gentemot Sparbanken. 
+finansiella ställning och resultat.  
+Sparbanken förmedlar en del av sina kunders bostadslån till Swedbank Hypotek AB (publ) 
+(”Swedbank Hypotek”) och erhåller provision för förmedlingen. Sparbanken garanterar därmed 
+kundernas åtagande gentemot Swedbank Hypotek. Det innebär att eventuella kreditförluster kan 
+uppstå till följd av att Sparbanken garanterar kundernas åtagande eller att stigande 
+upplåningskostnader minskar Sparbankens provisionsintäkter. Vid utgången av räkenskapsåret 2023 
+hade Sparbanken förmedlat krediter om totalt 2 795,0 miljoner kronor. Sparbanken belastas därutöver 
+av Swedbank Hypoteks upplåningsränta på krediter om kunden inte förmår betala ränta. Avsättningar 
+för kreditförluster baseras på tillgänglig information, uppskattningar och antaganden och är föremål 
+för osäkerhet. Det finns en risk att avsättningarna är otillräckliga för att täcka eventuella kreditförluster 
+som kan uppstå. 
+Sparbanken bedömer att kreditrisk är den mest påtagliga risken som verksamheten är utsatt för. Om 
+ovanstående risk inträffar bedömer Sparbanken att det kan ha en väsentlig negativ inverkan på 
+Sparbankens kreditförluster och därmed väsentlig negativt påverka Sparbankens rörelseresultat. 
+Likviditets- och finansieringsrisk 
+Med likviditetsrisk avses risken att Sparbanken, vid brist på likvida medel, inte kan fullgöra sina 
+åtaganden eller att de endast kan fullgöras genom upplåning av likvida medel till en avsevärt ökad 
+kostnad. Likviditetsrisk har en nära koppling till finansieringsrisk. Likviditetsrisk avser också risken 
+att finansiella instrument inte kan omsättas till likvida medel och/eller att omsättning inte kan ske utan 
+att finansiella instrument förlorar i värde. Likviditetsrisk uppstår när förfallostrukturen för 
+Sparbankens tillgångar och skulder, inklusive derivat, inte sammanfaller och kan om den realiseras 
+negativt påverka Sparbankens finansiella ställning och resultat. 
+Finansieringsrisk består i att Sparbanken vid finansieringsförfall inte lyckas återfinansiera förfallet 
+eller att Sparbanken endast lyckas låna till kraftigt ökade kostnader. Sparbankens likviditets- och
+
+--- Page 14 ---
+14(48) 
+ 
+finansieringsbehov tillgodoses genom användning av kunders inlåning, genom tillgång till 
+interbanklånemarknader samt genom upptagande av långfristiga marknadslån såsom MTN. 
+Sparbankens viktigaste finansieringskälla är inlåning från allmänheten vilket uppgick till 
+8 669,7 miljoner kronor för 2023 (se även ovan avsnitt Kreditrisker i Sparbankens positioner). Dessa 
+finansieringskällors volym, och då särskilt långfristig finansiering, kan under tider begränsas av 
+likviditetspåfrestning. Turbulens på de globala finansiella marknaderna och i den globala ekonomin 
+kan komma att negativt påverka Sparbankens finansiering och möjligheter till refinansiering, vilket 
+kan komma att ha en negativ inverkan på Sparbankens finansiella ställning. I händelse av att en 
+finansiell kris uppstår och stabiliteten i det finansiella systemet utsätts för störningar eller inte fungerar 
+alls så kan Sparbankens tillgång till finansieringskällor väsentligt påverkas. Exempelvis så kan 
+Sparbankens inlåning minska kraftigt om kunderna flyttar sina inlåningsmedel till andra institut, eller 
+så kan det vara svårt för Sparbanken att ta upp nya lån eller refinansiera befintliga lån på de finansiella 
+marknaderna. Sparbankens likvida tillgångar uppgick per årsskiftet 2023 till 723,9 miljoner kronor.  
+Sparbanken bedömer att om finansieringsrisken realiseras, kan det ha en väsentlig negativ inverkan på 
+Sparbankens resultat, räntemarginaler och återbetalningsförmåga. 
+Operativa risker 
+Sparbankens operativa risker är risker för förluster till följd av icke ändamålsenliga eller otillräckliga 
+interna rutiner, mänskliga fel och felaktiga system eller vid en yttre händelse. Det kan röra sig om 
+risker kopplade till fel eller brister i Sparbankens produkter och tjänster, bristfällig intern kontroll, 
+oklara ansvarsförhållanden, bristfälliga tekniska system, olika former av brottsliga angrepp och 
+bristande beredskap inför störningar. Operativa risker existerar i alla delar av Sparbankens 
+verksamhet. Operativa risker kan i förlängningen medföra ökade kostnader för att motverka operativa 
+störningar och skadeståndskrav från t.ex. kunder som drabbas på grund av bristerna, vilket negativt 
+kan påverka Sparbankens kostnader och i förlängning resultatet. Därutöver kan brister i hanteringen av 
+operativa risker negativt påverka Sparbankens anseende och verksamhet. Utöver risker kopplade till 
+fel eller brister kopplade till Sparbankens tekniska system ökar även riskerna för cyberattacker mot 
+bland annat svenska banker, till exempel i form av överbelastningsattacker mot bankens 
+internetkanaler eller direkta intrång i IT-system och infrastruktur i syfte att orsaka driftsavbrott, 
+förstöra information eller förbereda för bedrägerier. Sparbanken omfattas av denna ökade risk som 
+bland annat beror på det försämrade säkerhetspolitiska läget till följd av Rysslands invasion av 
+Ukraina och att ett ökat antal aktörer har resurser och förmåga att genomföra avancerade IT-angrepp 
+mot banker. Cyberattacker mot Sparbanken kan bland annat leda till att Sparbanken förlorar viktig 
+data, att viktig data hamnar hos obehöriga personer och/eller att Sparbankens förutsättningar för att 
+bedriva sin verksamhet försvåras. 
+Operativa risker kan medföra ökade kostnader för att motverka operativa störningar och 
+skadeståndskrav från t.ex. kunder som drabbas på grund av bristerna, vilket Sparbanken bedömer i 
+förlängning kan ha en negativ inverkan på Sparbankens resultat. Därutöver kan brister i hanteringen av 
+operativa risker ha en negativ inverkan på Sparbankens anseende och verksamhet. 
+Legala och regulatoriska risker  
+Regelefterlevnad 
+Sparbankens verksamhet är föremål för tillsyn av Finansinspektionen (myndighetstillsyn) samt 
+omfattande reglering. Exempelvis måste Sparbanken följa lagar, regler, förordningar och
+
+--- Page 15 ---
+15(48) 
+ 
+administrativa bestämmelser för hur bankverksamheten ska bedrivas, t.ex. avseende penningtvätt, 
+hantering av personuppgifter, betalning och betaltjänster, konsumentkrediter, kapitalkrav, 
+rapportering, regelefterlevnad, styrning och kontroll, outsourcing och skatt. Som exempel kan nämnas 
+EU-direktivet (2015/2366) om betaltjänster på den inre marknaden, vilket medfört att begreppet 
+betaltjänst utvidgats till att omfatta betalningsinitieringstjänster och kontoinformationstjänster som 
+bland annat har medfört skyldighet att dela kontoinformation med andra finansiella aktörer och 
+tredjepartsbetaltjänstleverantörer om kunden gett sitt uttryckliga godkännande till det. Det innebär 
+även 
+att 
+stärkta 
+identitetskontroller 
+av 
+användare 
+och 
+delvis 
+nya 
+säkerhets- 
+och 
+incidentsrapporteringskrav blir tillämpliga för Sparbanken. Finansinspektionen har på uppdrag av 
+regeringen den 31 maj 2024 publicerat en rapport kring motverkande av bedrägerier i betaltjänster, 
+vari Finansinspektionen bedömt att det finns skäl att genom ytterligare lagstiftning skärpa kraven på 
+betalningstjänstleverantörer. Det pågår också förhandlingar inom EU om ett reformerat 
+betaltjänstregelverk. 
+Sparbanken omfattas av regler avseende kapitaltäckning och likviditet. Dessa syftar till att stärka 
+motståndskraften för finansiella institutioner mot finansiella förluster och därigenom skydda 
+institutionernas kunder mot detsamma. De viktigaste regelverken inom kapitaltäckning är Basel III-
+regelverket (inklusive de slutgiltiga reformerna kallade Basel IV), EU-direktivet 2013/36 såsom det 
+ändrats genom EU-direktivet 2019/878 och EU-förordningen 575/2013 såsom det ändrats genom EU-
+förordningen 2019/876. Dessa har genomförts i svensk rätt framförallt genom lag (2014:968) om 
+särskild tillsyn över kreditinstitut och värdepappersbolag och lag (2014:966) om kapitalbuffertar, 
+vilket 
+syftar 
+till 
+att 
+stärka 
+kreditinstituts 
+motståndskraft 
+mot 
+finansiella 
+förluster. 
+Kapitaltäckningsregelverken understöds även av flera bindande tekniska standarder som europeiska 
+bankmyndigheten tagit fram. Sparbanken är även föremål för likviditetskrav, vilket bland annat 
+innebär ett lagstadgat krav på att Sparbanken måste bibehålla tillräcklig likviditet för att kunna möta 
+sina betalningsförpliktelser i takt med att de förfaller. Detta regulatoriska ramverk kan fortsätta att 
+utvecklas och nya ändringar i detta kan ha en väsentlig påverkan på Sparbankens verksamhet. 
+Samtliga dessa områden är föremål för förändring över tid och efterlevnad av dessa kan från tid till 
+annan medföra avsevärda kostnader. Som ett led i Finansinspektionens operativa tillsyn kan 
+Finansinspektionen komma att bedöma att Sparbanken inte fullt ut följer, bryter mot eller tidigare har 
+brutit mot tillämpliga regelverk, lagar, förordningar och/eller administrativa bestämmelser. Detta kan 
+medföra att Sparbanken blir föremål för anmärkningar eller varningar, straffavgifter, avsevärda viten 
+och/eller begränsningar rörande sitt banktillstånd eller får detta återkallat. Sådana sanktioner kan få en 
+väsentlig negativ inverkan på Sparbankens anseende och verksamhet. 
+Penningtvätt 
+Penningtvätt innebär att en aktör på den finansiella marknaden försöker omvandla pengar som 
+kommer från brottslig verksamhet till tillgångar som kan redovisas öppet. Det kan röra sig om pengar 
+från exempelvis narkotikabrott, trafficking, människosmuggling, skattebrott och bedrägerier. 
+Internationella banker och svenska banker har fått större medial uppmärksamhet på grund av bristande 
+rutiner vid penningtvätt vilket har resulterat i varningar och sanktionsavgifter. Sparbanken omfattas av 
+ett allt större regelverk mot penningtvätt som kräver att Sparbanken vidtar åtgärder mot penningtvätt 
+inom sin verksamhet. Det finns en risk att Sparbankens interna riktlinjer, rutiner och kontroller för att 
+motverka penningtvätt inte är tillräckligt adekvata för att uppfylla kraven som ställs på Sparbanken 
+enligt gällande lag och regelverk. Sådana regelbrott kan orsakas av otillräckliga interna kontroller och 
+rutiner eller medvetna eller felaktiga ageranden av anställda och motparter. Underlåtenhet att följa
+
+--- Page 16 ---
+16(48) 
+ 
+gällande lag och regelverk mot penningtvätt kan sannolikt komma att leda till rättsliga konsekvenser, 
+inklusive anmärkningar eller varningar men även betydande böter som beslutas av Finansinspektionen 
+eller annan tillsynsmyndighet och betydande skador på Sparbankens anseende och på dess 
+verksamhet. 
+Krishantering och resolution 
+Lagen (2015:1016) om resolution och lagen (2015:1017) om förebyggande statligt stöd till 
+kreditinstitut innebär att myndigheter har rätt att ingripa vid ett kreditinstituts befarade eller 
+konstaterade fallissemang. Inom ramen för dessa regler finns möjlighet för myndigheter att under vissa 
+förutsättningar skriva ned ett kreditinstituts skulder under utgivna skuldinstrument eller att instrument 
+ska omvandlas till aktier eller andra typer av instrument som stärker kreditinstitutets kapitalbas. Syftet 
+med lagstiftningen är att låta kreditinstitutets lånefinansiärer bära de kostnader som ankommer på dem 
+till följd av kreditinstitutets fallissemang. Krishantering och resolution medför en risk för att värdet av 
+MTN minskar och att investerare i MTN kan komma att förlora hela eller delar av sin investering om 
+dessa skrivs ned eller att villkoren modifieras av behöriga myndigheter i samband med att Sparbanken 
+hamnar på eller närmar sig obestånd. Det är oklart hur sådana myndigheter skulle gå tillväga vid 
+befarade eller konstaterade fallissemang.  
+Rättsliga åtgärder 
+Sparbanken kan bli inblandad i tvist inom ramen för affärsverksamheten och är exponerad för risk att 
+kunder, leverantörer, samarbetsparters eller andra vidtar rättsliga åtgärder mot Sparbanken. Främsta 
+risken för rättsliga åtgärder är kopplat till Sparbankens utlåning till såväl privat- som företagskunder. 
+Det finns en risk att sådana rättsliga åtgärder resulterar i kreditförluster för Sparbanken. Sparbanken 
+ägnar sig åt rådgivning till kunder. Det finns därmed en risk att rättsliga åtgärder vidtas av kunder som 
+anser att Sparbanken har brustit i sin rådgivning, vilket främst kan ha en väsentligt negativ inverkan på 
+Sparbankens anseende. Sparbanken kan även bli inblandad i tvist inom andra affärsverksamheter. 
+Större och komplicerade tvister kan vara kostsamma, tids- och resurskrävande och kan komma att 
+störa den normala affärsverksamheten. Rättsliga åtgärder mot Sparbanken kan orsaka negativ 
+publicitet, vilket kan ha en negativ inverkan på Sparbankens anseende. Rättsliga åtgärder mot 
+Sparbanken kan även resultera i att Sparbanken måste betala skadestånd och rättegångskostnader 
+vilket kan ha en negativ inverkan på Sparbankens anseende och resultat. 
+Förändringar i regelverk 
+Sparbankens affärsverksamhet är föremål för en betydande reglering och tillsyn. På senare år har 
+många lagar och förordningar som Sparbanken har att följa tillkommit eller ändrats. Till exempel är 
+Sparbanken underställd krishanteringsdirektivet för kreditinstitut och värdepappersinstitut (Direktiv 
+2014/59/EU), vilket har ändrats genom direktiv (EU) 2019/879 vad gäller kreditinstituts och 
+värdepappersföretags 
+förlustabsorberings- 
+och 
+rekapitaliseringskapacitet, 
+varigenom 
+många 
+bestämmelser trädde ikraft under 2021. Ytterligare exempel är Europeiska bankmyndighetens riktlinjer 
+om kreditgivning och övervakning (EBA/GL/2020/06) och Europeiska bankmyndighetens riktlinjer 
+för användning av lösningar för etablering av affärsförbindelser med nya kunder på distans 
+(EBA/GL/2022/15) vilka trädde i kraft 2021 respektive 2023 samt tillägg i det så kallade Bankpaketet. 
+Därtill kommer EU:s sanktioner mot Ryssland som bland annat innebär att enskilda personers 
+tillgångar ska frysas och förbjuder alla transaktioner med Rysslands centralbank som rör förvaltningen 
+av centralbankens tillgångar och reserver. Framtida förändringar av regelverk, lagar och beslut, 
+inklusive krav på kapitaltäckning, eller förtydliganden samt ändringar i tolkning eller tillämpning, kan
+
+--- Page 17 ---
+17(48) 
+ 
+negativt påverka Sparbankens kostnader för regelefterlevnad, likviditet och lönsamhet och även 
+konsumenters konsumtion och således få väsentliga negativa och svårförutsebara effekter och negativt 
+inverka på Sparbankens verksamhet. 
+Förändringar i redovisningsprinciper eller redovisningsstandarder 
+Emellanåt ändrar IASB (International Accounting Standards Board), EU och andra tillsynsorgan de 
+standarder för finansiell redovisning och rapportering som styr upprättandet av Sparbankens 
+finansiella rapporter. Dessa förändringar kan vara svåra att förutse och kan få en väsentlig påverkan på 
+hur Sparbanken redovisar och rapporterar sina verksamhetsresultat och sin finansiella ställning. I vissa 
+fall skulle det kunna krävas att Sparbanken tillämpar en ny eller ändrad standard retroaktivt, vilket 
+leder till en omräkning av de finansiella rapporterna för föregående perioder. Att bedöma i vilken 
+omfattning ovanstående risker avseende regelefterlevnad kan komma att inträffa är förenat med 
+betydande osäkerhet. Om ovanstående risker inträffar bedömer Sparbanken att det kan ha en negativ 
+inverkan på Sparbankens anseende och resultat. 
+RISKER FÖRKNIPPADE MED UTGIVNA MTN 
+Risker kopplade till säkerheter och återbetalningsförmåga 
+Innehavare av MTN har ingen säkerhet i Sparbankens tillgångar och Sparbanken är oförhindrad 
+att ställa säkerhet till annan 
+Innehavare av MTN har ingen säkerhet i Sparbankens tillgångar och kommer i händelse av obestånd 
+att vara en oprioriterad borgenär. Sparbanken har inte gjort några åtaganden att inte ställa säkerhet för 
+egen eller annans skuld. Säkerställda borgenärer till Sparbanken kommer att ha rätt till betalning ur 
+säkerheter före oprioriterade borgenärer, inklusive innehavare av MTN. Om Sparbanken upptar 
+säkerställd skuld skulle det eventuellt ha en negativ påverkan på marknadsvärdet för av Sparbanken 
+utgivna MTN. Om ovanstående risker inträffar bedömer Sparbanken att det kan ha en väsentlig 
+negativ inverkan på en investering i MTN.  
+Kreditrisk 
+Investerare i MTN utgivna av Sparbanken har en kreditrisk på Sparbanken. Detta innebär att 
+investerarens möjlighet att erhålla betalning under MTN är beroende av Sparbankens möjlighet att 
+infria sina betalningsåtaganden. Investeringar i MTN omfattas inte av den statliga insättningsgarantin. 
+Om fordringshavarnas kreditrisk på Sparbanken bedöms öka, eller om Sparbanken inte kan infria sina 
+betalningsåtaganden, bedömer Sparbanken att det kan ha en väsentlig negativ inverkan på en 
+investering i MTN.  
+Marknadsrisker kopplade till MTN  
+Marknads- och löptidsrisk 
+Det finns en risk att förändringar i det allmänna ränteläget kan påverka värdet på en MTN negativt. 
+Marknadsriskerna varierar mellan olika MTN beroende på deras lånekonstruktion och löptid. Risken 
+förknippad med en investering i en MTN ökar ju längre löptid en MTN har. Orsaken till detta är bland 
+annat att ränte- och kreditrisken i en MTN med längre löptid är svårare att överblicka än för en MTN 
+med kortare löptid. Utöver detta ökar även marknadsrisken för en MTN:s löptid då fluktuation i en 
+MTN:s marknadsvärde blir större för en MTN med längre löptid än en MTN med kort löptid. Om
+
+--- Page 18 ---
+18(48) 
+ 
+ovanstående risker inträffar bedömer Sparbanken att det kan ha en väsentlig negativ inverkan på en 
+investering i MTN. 
+Risker kopplade till fast ränta, rörlig ränta och nollkupong 
+Ränterisken är risken för förlust när räntenivåerna ändras. MTN kan emitteras med fast ränta, rörlig 
+ränta eller utan ränta (så kallade nollkupongränta).  
+Fast ränta 
+MTN med fast ränta är MTN med en kupong som beräknas efter en på förhand fastställd räntesats. En 
+höjning av marknadsräntorna innebär normalt att marknadsvärdet på en sådan MTN minskar.  
+Rörlig ränta 
+MTN med rörlig ränta utges normalt som så kallade FRN (Floating Rate Notes). Kupongen beräknas 
+av en räntesats motsvarande räntebas + räntebasmarginal där räntebasen justeras inför varje 
+ränteperiod medan räntebasmarginalen är fast under hela löptiden. Om räntebasen exempelvis utgörs 
+av 3 månader STIBOR är det marknadens uppfattning om 3-månadersräntornas utveckling 
+tillsammans med räntebasmarginalen som ligger till grund för beräkning av placeringens 
+marknadsvärde. En ändrad förväntning på marknaden av på vilken nivå räntebasen kommer fastställas 
+vid kommande räntesättningar riskerar därmed att sänka marknadsvärdet på MTN med rörlig ränta. 
+Nollkupong 
+MTN med nollkupong emitteras till ett belopp understigande, lika med eller överstigande nominellt 
+belopp. För sådana MTN gäller att inga kuponger utbetalas under löptiden och endast nominellt 
+belopp erhålls på återbetalningsdagen. En nollkupongobligation prissätts vanligtvis baserat på det 
+diskonterade värdet av det nominella belopp som erhålls på återbetalningsdagen, vilket normalt är en 
+summa som är lägre än det nominella beloppet såvida räntan är positiv. Marknadsräntan för en löptid 
+motsvarande återstående löptid för relevant MTN avgör normalt vilken diskonteringsfaktor som 
+används för en MTN med nollkupong. Marknadsräntan är således normalt styrande för 
+marknadsvärdet av sådan MTN. Ju högre marknadsränta desto lägre diskonteringsfaktor (minskat 
+marknadsvärde). Höjd marknadsränta riskerar därför normalt att påverka marknadsvärdet för en MTN 
+med nollkupongskonstruktion negativt.  
+Om ovanstående risker inträffar bedömer Sparbanken att det kan ha en väsentligt negativ inverkan på 
+MTN. 
+Risker kopplade till gröna MTN 
+Vad som utgör gröna MTN avgörs med hänsyn till de kriterier som framgår av Sparbankens Gröna 
+Villkor, enligt dess lydelse på Lånedatumet för visst Lån. Det finns en risk för att gröna MTN enligt 
+dessa kriterier inte passar alla investerares krav, önskemål eller specifika investeringsmandat. Såväl 
+Sparbankens Gröna Villkor som marknadspraxis kan komma att utvecklas efter Lånedatumet för visst 
+Lån, vilket kan medföra förmånligare villkor för efterkommande Lån eller förändrade krav för 
+Sparbanken. Förändringar i Sparbankens Gröna Villkor som sker efter Lånedatumet för visst Lån 
+kommer inte gälla för Lånet och därmed inte heller gentemot Fordringshavarna i det Lånet. 
+Om en tillgång avyttras som finansierats med nettolikvid från gröna MTN för vilka Gröna Villkor 
+2021 är tillämpliga kan Sparbanken återinvestera ett belopp som motsvarar de medel som 
+ursprungligen tilldelades tillgången om sådan återinvestering uppfyller kraven i Gröna Villkor 2021. 
+Det finns en risk att medel för sådan återinvestering endast delvis eller inte alls kan användas för att
+
+--- Page 19 ---
+19(48) 
+ 
+finansiera tillgångar som vid den tidpunkten uppfyller kraven i Gröna Villkor 2021 på ekonomiskt 
+lönsamma villkor. Det finns även en risk att definitionen av vad som utgör gröna kvalificerade lån 
+förändras till följd av ändrade lagar, förordningar eller branschstandarder såsom exempelvis 
+Miljöbyggnad Silver eller Svanen. Eventuell nettolikvid från gröna MTN som inte kan användas för 
+sådan finansiering eller refinansiering kommer fortsatt innebära räntekostnader för Sparbanken. Det 
+finns även en risk att projekt finansierade genom nettolikviden från gröna MTN endast delvis eller inte 
+alls uppnår de miljöfördelar som motiverat investeringen, till exempel om finansiering beviljas för ett 
+vindkraftsprojekt som producerar mindre el än planerat, vilket riskerar försämra Sparbankens 
+renommé samt strida mot syftet med en investering i gröna MTN. 
+Per dagen för detta Grundprospekt råder osäkerhet om hur Europaparlamentets och rådets förordning 
+(EU) 2020/652 av den 18 juni 2020 (”Taxonomiförordningen”) och Europaparlamentets och rådets 
+förordning (EU) 2023/2631 om europeiska gröna obligationer (”EUGB-förordningen”) fullt ut 
+kommer att påverka utformningen av gröna villkor och klassificeringen av gröna obligationer. Det 
+finns en risk att klassificeringen av Lån som emitteras såsom gröna MTN under Sparbankens Gröna 
+Villkor påverkas av Taxonomiförordningen och EUGB-förordningen och att Lån i framtiden inte 
+längre 
+kommer 
+att 
+vara 
+kvalificerade 
+att 
+klassificeras 
+såsom 
+gröna 
+MTN 
+enligt 
+Taxonomiförordningen, EUGB-förordningen och/eller annan normgivning.  
+Om Sparbanken inte skulle uppfylla de Gröna Villkor som gäller för visst Lån eller ett visst Lån på 
+grund av Taxonomiförordningen, EUGB-förordningen och/eller annan normgivning upphör att 
+klassificeras som gröna MTN, så innebär det inte att det föreligger en uppsägningsgrund för 
+Fordringshavare under sådant Lån. Fordringshavare har alltså i sådana fall ingen rätt till förtida 
+återbetalning eller återköp av gröna MTN eller annan kompensation. Om ovanstående risker inträffar 
+bedömer Sparbanken att det kan ha en negativ inverkan på MTN. 
+Valutarisk och valutarestriktioner 
+Sparbanken betalar som regel ut nominellt belopp och avkastning på en MTN i SEK. Detta medför 
+vissa risker kopplade till valutaomräkning om SEK inte är investerarens huvudsakliga valuta. Detta 
+inkluderar risken för kraftiga valutakursförändringar (inklusive devalvering och revalvering) såväl 
+som införande eller ändringar av valutaregleringar. En förstärkning av investerarens egen valuta 
+jämfört med SEK minskar en investering i MTNs värde för investeraren. Regeringar och myndigheter 
+kan införa valutakontroller/-regleringar som får effekt på valutakursen. Resultatet av detta kan 
+innebära att innehavare i MTN erhåller lägre avkastning, slutlikvid eller nominellt belopp än förväntat. 
+Om ovanstående risker inträffar bedömer Sparbanken att det kan ha en negativ inverkan på MTN. 
+Andrahandsmarknad och likviditet  
+Även om en MTN är upptagen till handel vid reglerad marknad eller annan handelsplats uppstår 
+normalt ingen betydande handel med aktuell MTN. Detta kan gälla under dess hela löptid. Om det inte 
+utvecklas en andrahandsmarknad kommer likviditeten att försämras. Det kan därför vara förknippat 
+med svårigheter att snabbt sälja en MTN eller erhålla ett pris jämfört med liknande investeringar som 
+har en utvecklad andrahandsmarknad. Detta kan särskilt vara fallet med MTN som är strukturerade för 
+ett speciellt ändamål eller strategi eller strukturerade för att tillgodose särskilda behov hos en 
+begränsad kategori placerare. Denna typ av MTN har i allmänhet en mer begränsad 
+andrahandsmarknad och högre volatilitet i priset jämfört med konventionella skuldebrev. Illikviditeten 
+kan därmed få en negativ effekt på marknadsvärdet för en MTN. Om ovanstående risker inträffar 
+bedömer Sparbanken att det kan ha en negativ inverkan på MTN.
+
+--- Page 20 ---
+20(48) 
+ 
+Övriga risker kopplade till MTN  
+Benchmarkförordningen och referensräntor 
+Benchmarkförordningen trädde i kraft den 1 januari 2018 och reglerar tillhandahållandet av 
+referensräntor (såsom EURIBOR och STIBOR) och hur referensräntor bestäms. Räntebas för Lån med 
+rörlig ränta är den referensränta som specificeras i Slutliga Villkor, vanligen STIBOR. Om sådan 
+referensränta inte kan fastställas vid en given tidpunkt eller om en Triggerhändelse eller ett 
+Offentliggörande inträffar finns det alternativa tillvägagångssätt i Allmänna Villkor för att fastställa 
+räntebasen respektive ersätta den tillämpliga räntebasen. Det finns en risk att sådana alternativa 
+tillvägagångssätt eller tillämpning av en ny räntebas inte är lika gynnsamma för innehavare av MTN. 
+Vidare finns det en risk för att de svårigheter som kan uppstå i samband med att en alternativ ränta ska 
+bestämmas för utgiven MTN kan leda till tidskonsumerande diskussioner och/eller tvister. Om 
+ovanstående risker inträffar bedömer Sparbanken att det kan ha en negativ inverkan på MTN. 
+STIBOR är ett så kallat kritiskt referensvärde i Sverige och finns därmed registrerad i EU-
+kommissionens förteckning över kritiska referensvärden. Reglerna för kritiska referensvärden ställer 
+bland annat långtgående krav på kontroll och övervakning samt på dokumentation och transparens för 
+administratörerna av räntan. STIBOR tillhandahålls av Swedish Financial Benchmark Facility AB. 
+Det föreligger en risk att Benchmarkförordningen kan påverka hur referensräntor bestäms och 
+utvecklas och därmed föreligger även en risk att tillämpningen av Benchmarkförordningen kan leda 
+till större volatilitet för MTN:s referensräntor. Detta i samband med att ökade administrativa krav och 
+framtida överlåtelser av administrationen kan leda till ett minskat antal aktörer som deltar vid 
+bestämningen av referensräntor, vilket i sin tur kan leda till att vissa referensräntor som används för 
+MTN helt upphör att publiceras, eller att metoden för att fastställa referensräntan förändras till nackdel 
+för en investerare i MTN, vilket kan få en negativ inverkan på en investering i MTN. Sparbanken kan 
+inte bedöma sannolikheten för att ovanstående inträffar. Om ovanstående risker inträffar bedömer 
+Sparbanken att det kan ha en negativ inverkan på MTN. 
+MTN-innehavarnas representation 
+Rätten för agenter att företräda obligationsinnehavare i formella domstolsförfaranden i Sverige (såsom 
+konkurser eller företagsrekonstruktioner) har nyligen ifrågasatts och det har förekommit att en domstol 
+har ansett att agentens rätt att enligt obligationsvillkor företräda obligationsinnehavarna inför domstol 
+inte gäller, vilket medförde att obligationsinnehavarna inte genom agenten kunde vidta åtgärder i 
+domstol mot emittenten. Även om denna rättspraxis för närvarande inte är prejudicerande, kan det bli 
+svårare för innehavarna av MTN att tillvarata sina rättigheter i formella domstolsförfaranden om denna 
+princip upprätthålls av rättssystemet och/eller agentens rätt att företräda obligationsinnehavare inte 
+klargörs i relevant lagstiftning.
+
+--- Page 21 ---
+21(48) 
+ 
+ALLMÄNNA VILLKOR 
+FÖR LÅN UPPTAGNA UNDER SPARBANKEN VÄSTRA MÄLARDALENS  
+MTN-PROGRAM 
+Följande allmänna villkor (”Allmänna Villkor”) ska gälla för lån som Sparbanken Västra Mälardalen (org.nr 
+578500-7120) (”Sparbanken”) emitterar på kapitalmarknaden under detta MTN-program (”MTN-
+programmet”) genom att utge obligationer i SEK med varierande löptider, dock lägst ett år, s.k. Medium Term 
+Notes (”MTN”).  
+1. 
+DEFINITIONER 
+1.1 
+Utöver ovan gjorda definitioner ska i dessa villkor följande benämningar ha den innebörd som anges 
+nedan. 
+ 
+”Administrerande Institut” är (i) om Lån utgivits genom två eller flera Utgivande Institut, det 
+Utgivande Institut som utsetts av Sparbanken att ansvara för vissa administrativa uppgifter beträffande 
+Lånet enligt Slutliga Villkor, och (ii) om Lån utgivits genom endast ett Utgivande Institut, det Utgivande 
+Institutet. 
+”Avstämningsdag” är den femte Bankdagen före (eller annan Bankdag före den relevanta dagen som 
+generellt kan komma att tillämpas på den svenska obligationsmarknaden) (i) förfallodag för ränta eller 
+kapitalbelopp enligt Lånevillkoren, (ii) annan dag då betalning ska ske till Fordringshavare, (iii) dagen för 
+Fordringshavarmöte, (iv) avsändande av meddelande, eller (v) annan relevant dag. 
+”Bankdag” är dag som inte är söndag eller annan allmän helgdag i Sverige eller som beträffande 
+betalning av skuldebrev inte är likställd med allmän helgdag i Sverige. Lördagar, midsommarafton, 
+julafton och nyårsafton ska för denna definition anses vara likställda med allmän helgdag. 
+”Dagberäkningsmetod” är vid beräkningen av ett belopp för viss beräkningsperiod, den 
+beräkningsgrund som anges i Slutliga Villkor, och: 
+(a) 
+om beräkningsgrunden ”30/360” anges som tillämplig ska beloppet beräknas på ett år med 360 
+dagar bestående av tolv månader med vardera 30 dagar och vid bruten månad det faktiska antalet 
+dagar som löpt i månaden; 
+(b) 
+om beräkningsgrunden ”faktiskt antal dagar/360” anges som tillämplig ska beloppet beräknas på 
+det faktiska antalet dagar i den relevanta perioden dividerat med 360. 
+”Emissionsinstitut” är Swedbank AB (publ), Nordea Bank Abp, Danske Bank A/S, Danmark, Sverige 
+Filial och ABG Sundal Collier ASA samt varje annat emissionsinstitut som av Euroclear Sweden erhållit 
+särskilt tillstånd att hantera och registrera emissioner i VPC-systemet och som ansluter sig till detta MTN-
+program i enlighet med punkt 12.3, dock att Swedbank AB (publ), Nordea Bank Abp, Danske Bank A/S, 
+Danmark, Sverige Filial eller ABG Sundal Collier ASA eller annat sådant institut endast är 
+emissionsinstitut så längde de inte avträtt som emissionsinstitut. 
+”Euroclear Sweden” är Euroclear Sweden AB (org.nr. 556112-8074). 
+”Fordringshavare” är den som är antecknad på VP-konto som direktregistrerad ägare eller förvaltare av 
+en MTN. 
+”Fordringshavarmöte” 
+är 
+ett 
+möte 
+med 
+Fordringshavarna 
+i 
+enlighet 
+med 
+avsnitt 
+12 
+(Fordringshavarmöte).
+
+--- Page 22 ---
+22(48) 
+ 
+”Gröna Villkor” är i förhållande till visst Lån, de gröna villkor som framgår i det gröna ramverk för 
+finansiering som hänvisas till i Slutliga Villkor för sådant Lån. 
+”Justerat Lånebelopp” är det sammanlagda utestående Nominella Beloppet av MTN avseende visst Lån 
+med avdrag för MTN som ägs av ett Koncernföretag oavsett om sådant Koncernföretag är 
+direktregistrerat som ägare av sådan MTN eller ej. 
+”Koncernen” är den koncern i vilken Sparbanken är moderföretag (med begreppen koncern och 
+moderföretag avses vad som avses i 1 kap 2 § sparbankslagen (1987:619)) (eller sådant annat lagrum som 
+ersätter det lagrummet). 
+”Koncernföretag” är varje juridisk person som från tid till annan ingår i Koncernen. 
+”Kontoförande Institut” är bank eller annan som har medgivits rätt att vara kontoförande institut enligt 
+lag (1998:1479) om kontoföring av finansiella instrument och hos vilken Fordringshavare öppnat VP-
+konto avseende MTN. 
+”Ledarbank” är Swedbank AB (publ) eller annat Emissionsinstitut vilket enligt överenskommelse med 
+Sparbanken övertar denna roll. 
+”Lån” är varje lån, omfattande en eller flera MTN, som Sparbanken upptar under detta MTN-program. 
+”Lånevillkor” för visst Lån, är dessa Allmänna Villkor samt de Slutliga Villkoren för sådant Lån. 
+”MTN” är en ensidig skuldförbindelse om Nominellt Belopp som registrerats enligt lag (1998:1479) om 
+kontoföring av finansiella instrument och som utgör del av Lån som utgivits av Sparbanken under detta 
+MTN-program. 
+”Nominellt Belopp” är det belopp för varje MTN som anges i Slutliga Villkor (minskat med eventuellt 
+återbetalt belopp). 
+”Rambelopp” är det rambelopp som Sparbanken och Emissionsinstituten kommer överens om från tid till 
+annan. 
+”Referensbanker” är Nordea Bank Abp, filial i Sverige, Skandinaviska Enskilda Banken AB (publ), 
+Svenska Handelsbanken AB (publ) och Swedbank AB (publ). 
+”Reglerad Marknad” är en reglerad marknad såsom definieras i Direktiv 2004/39/EG om marknader för 
+finansiella instrument. 
+”Räntebas” är med avseende på Lån med Rörlig Ränta, räntebasen STIBOR som anges i de Slutliga 
+Villkoren eller någon referensränta som ersätter STIBOR i enlighet med avsnitt 7 (Byte av Räntebas). 
+”SEK” är den officiella valutan i Sverige. 
+”Slutliga Villkor” är de slutliga villkor vilka upprättas för ett visst Lån under detta MTN-program i 
+enlighet med Bilaga 1 (Mall för Slutliga Villkor). 
+”Startdag för Ränteberäkning” är, enligt Slutliga Villkor, den dag från vilken ränta (i förekommande 
+fall) ska börja löpa.
+
+--- Page 23 ---
+23(48) 
+ 
+”STIBOR” är: 
+(a) 
+den räntesats som administrerats, beräknats och distribuerats av Swedish Financial Benchmark 
+Facility AB (eller ersättande administratör eller beräkningsombud) för aktuell dag och publiceras 
+på informationssystemet Refinitivs sida ”STIBOR=” (eller genom sådant annat system eller på 
+sådan annan sida som ersätter nämnda system eller sida) för SEK under en period jämförbar med 
+den relevanta Ränteperioden; eller 
+(b) 
+om ingen sådan räntesats anges för den relevanta Ränteperioden enligt punkten (a), medelvärdet 
+(avrundat uppåt till fyra decimaler) av den räntesats som Referensbankerna (eller sådana 
+ersättande banker som utses av Administrerande Institut) anger till Administrerande Institut på 
+dennes begäran för depositioner av SEK 100 000 000 för den relevanta Ränteperioden; eller 
+(c) 
+om ingen räntesats anges enligt punkterna (a) och (b), den räntesats som enligt Administrerande 
+Instituts skäliga uppskattning bäst motsvarar räntesatsen för depositioner i SEK på 
+interbankmarknaden i Stockholm, för den relevanta Ränteperioden. 
+”Utgivande Institut” är enligt Slutliga Villkor, det eller de Emissionsinstitut varigenom MTN har 
+utgivits. 
+”VP-konto” är det värdepapperskonto hos Euroclear Sweden enligt lag (1998:1479) om kontoföring av 
+finansiella instrument i vilket (i) en ägare av ett värdepapper är direktregistrerad som ägare av 
+värdepapper eller (ii) en ägares innehav av värdepapper är förvaltarregisterat i en förvaltares namn. 
+”Återbetalningsdag” är, enligt Slutliga Villkor, dag då MTN ska återbetalas. 
+1.2 
+Ytterligare definitioner, såsom Räntekonstruktion, Räntebas, Räntebestämningsdag, Ränteförfallodag/-ar 
+och Ränteperiod, Lånebelopp, Räntesats, Minimiränta och Räntebasmarginal återfinns (i förekommande 
+fall) i Slutliga Villkor. 
+ 
+1.3 
+De definitioner som återfinns i dessa Allmänna Villkor ska tillämpas också för Slutliga Villkor. 
+2. 
+UPPTAGANDE AV LÅN 
+2.1 
+Under detta MTN-program får Sparbanken ge ut MTN i SEK med en löptid på lägst ett år. Under ett Lån 
+kan MTN ges ut i flera trancher utan godkännande från Fordringshavare under förutsättning att villkoren 
+för sådana trancher är identiska förutom Likviddatum, Lånebelopp, Pris per MTN och Utgivande Institut. 
+ 
+2.2 
+Genom att teckna sig för MTN godkänner varje initial Fordringshavare att dess MTN ska ha de rättigheter 
+och vara villkorade av de villkor som följer av Lånevillkoren. Genom att förvärva MTN bekräftar varje 
+ny Fordringshavare sådant godkännande. 
+ 
+2.3 
+Sparbanken åtar sig att göra betalningar avseende utgivna MTN och i övrigt efterleva Lånevillkoren för 
+de Lån som tas upp under detta MTN-program. 
+ 
+2.4 
+Önskar Sparbanken ge ut MTN under detta MTN-program ska Sparbanken ingå särskilt avtal för detta 
+ändamål med ett eller flera Emissionsinstitut vilka ska vara Utgivande Institut för sådant Lån.  
+ 
+2.5 
+För varje Lån ska upprättas Slutliga Villkor vilka tillsammans med dessa Allmänna Villkor utgör 
+fullständiga Lånevillkor för Lånet. 
+3. 
+REGISTRERING AV MTN 
+3.1 
+MTN ska för Fordringshavares räkning registreras på VP-konto, varför inga fysiska värdepapper kommer 
+att utfärdas. Begäran om viss registreringsåtgärd avseende MTN ska riktas till Kontoförande Institut.
+
+--- Page 24 ---
+24(48) 
+ 
+ 
+3.2 
+Den som på grund av uppdrag, pantsättning, bestämmelserna i föräldrabalken, villkor i testamente eller 
+gåvobrev eller annars förvärvat rätt att ta emot betalning under en MTN ska låta registrera sin rätt för att 
+erhålla betalning. 
+ 
+3.3 
+Administrerande Institut har rätt att erhålla information från Euroclear Sweden om innehållet i dess 
+avstämningsregister för MTN i syfte att kunna fullgöra sina uppgifter i enlighet med Allmänna Villkor. 
+Administrerande Institut ska inte vara ansvarigt för innehållet i sådant utdrag eller på annat sätt vara 
+ansvarigt för att fastställa vem som är Fordringshavare. 
+4. 
+RÄTT ATT AGERA FÖR FORDRINGSHAVARE 
+4.1 
+Om annan än Fordringshavare önskar utöva Fordringshavares rättigheter under Lånevillkoren eller rösta 
+på Fordringshavarmöte, ska sådan person kunna uppvisa fullmakt eller annan behörighetshandling 
+utfärdad av Fordringshavaren eller en kedja av sådana fullmakter och/eller behörighetshandlingar från 
+Fordringshavaren. 
+ 
+4.2 
+En Fordringshavare kan befullmäktiga en eller flera personer att representera Fordringshavaren avseende 
+vissa eller samtliga MTN som innehas av Fordringshavaren. Envar sådan befullmäktigad person får agera 
+självständigt. 
+5. 
+BETALNINGAR  
+5.1 
+MTN förfaller till betalning med Nominellt Belopp på Återbetalningsdagen. Infaller Återbetalningsdagen 
+på dag som inte är Bankdag återbetalas Lånet först följande Bankdag. Ränta enligt avsnitt 6 (Ränta) 
+betalas på aktuell Ränteförfallodag.  
+ 
+5.2 
+Betalning avseende MTN ska ske i SEK och betalas till den som är registrerad som Fordringshavare på 
+Avstämningsdagen för respektive förfallodag eller till sådan annan person som är registrerad hos 
+Euroclear Sweden som berättigad att erhålla sådan betalning. 
+ 
+5.3 
+Har Fordringshavaren genom Kontoförande Institut låtit registrera att kapitalbelopp respektive ränta ska 
+insättas på visst bankkonto, sker insättning genom Euroclear Swedens försorg på respektive förfallodag. 
+ 
+5.4 
+Skulle Euroclear Sweden på grund av dröjsmål från Sparbankens sida eller på grund av annat hinder inte 
+kunna utbetala belopp enligt vad nyss sagts, ska Sparbanken tillse att beloppet utbetalas så snart hindret 
+upphört. I sådant fall ska ränta utgå enligt punkt 8.1. 
+ 
+5.5 
+Om Sparbanken ej kan fullgöra betalningsförpliktelse genom Euroclear Sweden på grund av hinder för 
+Euroclear Sweden ska Sparbanken ha rätt att skjuta upp betalningsförpliktelsen tills dess hindret har 
+upphört. I sådant fall ska ränta utgå enligt punkt 8.2. 
+ 
+5.6 
+Visar det sig att den som tillställts belopp i enlighet med detta avsnitt 5 saknade rätt att mottaga detta, ska 
+Sparbanken och Euroclear Sweden likväl anses ha fullgjort sina ifrågavarande skyldigheter. Detta gäller 
+dock ej om Sparbanken respektive Euroclear Sweden hade kännedom om att beloppet tillställts någon 
+som saknade rätt att motta det eller om Sparbanken respektive Euroclear Sweden inte varit normalt 
+aktsam. 
+6. 
+RÄNTA 
+6.1 
+För Lån som löper med ränta ska räntan beräknas på Nominellt belopp, om inte annat framgår av 
+Lånevillkoren.
+
+--- Page 25 ---
+25(48) 
+ 
+6.2 
+Ränta på visst Lån beräknas och utgår (i förekommande fall) i enlighet med Slutliga Villkor. I Slutliga 
+Villkor ska relevant Räntekonstruktion anges enligt något av följande alternativ: 
+ 
+(a) 
+Fast Ränta 
+Om Lån är specificerat som Lån med Fast Ränta ska Lånet löpa med ränta enligt Räntesatsen 
+från (men exklusive) Startdag för Ränteberäkning till (och inklusive) Återbetalningsdagen. 
+Ränta beräknas enligt Dagberäkningsmetoden 30/360. 
+ 
+(a) 
+Rörlig Ränta (FRN) 
+Om Lånet är specificerat som Lån med Rörlig Ränta ska Lånet löpa med ränta från (men 
+exklusive) Startdag för Ränteberäkning till (och inklusive) Återbetalningsdagen. Räntesatsen för 
+respektive Ränteperiod beräknas av Administrerande Institut på respektive Räntebestämningsdag 
+och utgörs av Räntebasen med tillägg av Räntebasmarginalen för samma period, justerat med 
+hänsyn till tillämpning av avsnitt 7 (Byte av Räntebas). 
+Kan Räntesats inte bestämmas på Räntebestämningsdagen på grund av sådant hinder som avses i 
+punkt 16.1 ska Lånet fortsätta att löpa med den räntesats som gällde för den närmast 
+förutvarande Ränteperioden. Så snart hindret upphört ska Administrerande Institut beräkna ny 
+Räntesats att gälla från den andra Bankdagen efter dagen för beräknandet till utgången av den då 
+löpande Ränteperioden. 
+Ränta beräknas enligt Dagberäkningsmetoden faktiskt antal dagar/360 eller enligt sådan annan 
+beräkningsgrund som tillämpas för aktuell Räntebas. 
+Om Minimiränta anges i Slutliga Villkor ska rörlig ränta för varje Ränteperiod aldrig understiga 
+sådan angiven Minimiränta. 
+(b) 
+Nollkupongslån 
+Om Lånet är specificerat som Nollkupongslån ska Lånet löpa utan ränta. Nollkupongslån kan 
+utfärdas till underkurs eller överkurs och lösas in till ett belopp per MTN motsvarande Nominellt 
+Belopp eller en andel därav. 
+6.3 
+Ränta som upplupit erläggs (i förekommande fall) i efterskott på aktuell Ränteförfallodag. 
+ 
+6.4 
+Infaller Ränteförfallodag för Lån med Fast Ränta på dag som inte är Bankdag utbetalas ränta först 
+följande Bankdag. Ränta beräknas och utgår dock endast till och med Ränteförfallodagen. 
+ 
+6.5 
+Infaller Ränteförfallodag för Lån med Rörlig Ränta på dag som inte är Bankdag ska som Ränteförfallodag 
+istället anses närmast påföljande Bankdag förutsatt att sådan Bankdag inte infaller i en ny kalendermånad, 
+i vilket fall Ränteförfallodagen ska anses vara föregående Bankdag. Ränta beräknas och utgår till och med 
+respektive Ränteförfallodag.  
+7. 
+BYTE AV RÄNTEBAS 
+7.1 
+Om en Triggerhändelse som anges i 7.2 nedan har inträffat ska Sparbanken i samråd med Ledarbanken 
+initiera åtgärder för att, så snart det rimligen är möjligt, bestämma Ersättande Räntebas, Spreadjustering 
+samt initiera åtgärder för att bestämma nödvändiga administrativa, tekniska och operativa ändringar av 
+Lånevillkoren för att tillämpa, beräkna och slutligt fastställa den tillämpliga Räntebasen. Det föreligger 
+ingen skyldighet för Ledarbanken att medverka till sådant samråd eller bestämmande enligt ovan. Om 
+Ledarbanken inte medverkar i ett sådant samråd eller bestämmande ska Sparbanken, på Sparbankens 
+bekostnad, snarast utse en Oberoende Rådgivare för att initiera åtgärder för att, så snart det rimligen är 
+möjligt, bestämma det nämnda. Förutsatt att Ersättande Räntebas, Spreadjustering och övriga ändringar 
+har slutligt fastställts senast innan den relevanta Räntebestämningsdagen ska ändringarna tillämpas från
+
+--- Page 26 ---
+26(48) 
+ 
+och med nästkommande Ränteperiod, dock alltid med beaktande av eventuella tekniska begränsningar 
+hos Euroclear Sweden och beräkningsmetoder som är tillämpliga i förhållande till sådan Ersättande 
+Räntebas. 
+ 
+7.2 
+En triggerhändelse är en eller flera av följande händelser (”Triggerhändelse”) som innebär:  
+ 
+(a) 
+att Räntebasen (för den relevanta Ränteperioden för aktuellt Lån) har upphört att existera eller 
+upphört att tillhandahållas i minst fem (5) på varandra följande Bankdagar till följd av att 
+Räntebasen (för den relevanta Ränteperioden för aktuellt Lån) upphör att beräknas eller 
+administreras;  
+(b) 
+ett offentligt uttalande eller publikt publicerad information från (i) tillsynsmyndigheten för 
+Administratören av Räntebasen eller (ii) Administratören av Räntebasen med information om 
+att Administratören av Räntebasen inte längre tillhandahåller aktuell Räntebas (för den 
+relevanta Ränteperioden för aktuellt Lån) permanent eller på obestämd tid och att det vid 
+tidpunkten för uttalandet eller publiceringen ingen efterträdande administratör har utsetts eller 
+förväntas utses att fortsätta tillhandahålla Räntebasen; 
+(c) 
+ett offentligt uttalande eller publikt publicerad information i vardera fall från 
+tillsynsmyndigheten för Administratören av Räntebasen att Räntebasen (för den relevanta 
+Ränteperioden för aktuellt Lån) inte längre är representativ för den underliggande marknaden 
+som Räntebasen är avsedd att representera och Räntebasens representativitet kommer inte att 
+kunna återställas, enligt tillsynsmyndigheten för Administratören av Räntebasen; 
+(d) 
+ett offentligt uttalande eller publikt publicerad information i vardera fall från 
+tillsynsmyndigheten för Administratören av Räntebasen med konsekvensen att det är olagligt 
+för Sparbanken, eller det Administrerande Institutet att beräkna betalning till Fordringshavare 
+genom att använda aktuell Räntebas (för den relevanta Ränteperioden för aktuellt Lån) eller att 
+det av annan orsak blivit förbjudet att använda aktuell Räntebas (för den relevanta 
+Ränteperioden för aktuellt Lån); 
+(e) 
+ett offentligt uttalande eller publikt publicerad information från i vardera fall konkursförvaltaren 
+för Administratören för Räntebasen eller från förvaltaren enligt krishanteringsregelverket, med 
+information enligt (b) ovan; eller 
+(f) 
+ett Offentliggörande har gjorts varpå den offentliggjorda Triggerhändelsen som anges i (b) till 
+(e) ovan kommer att inträffa inom sex (6) månader. 
+ 
+7.3 
+Om ett Offentliggörande har gjorts får Sparbanken (utan att någon skyldighet föreligger), om det är 
+möjligt att vid sådan tidpunkt bestämma Ersättande Räntebas, Spreadjustering och övriga ändringar, i 
+samråd med Ledarbanken eller genom att utse en Oberoende Rådgivare, initiera åtgärder som framgår av 
+7.1 ovan för att slutligt fastställa Ersättande Räntebas, Spreadjustering och övriga ändringar, för att 
+övergå till Ersättande Räntebas vid en tidigare tidpunkt. 
+ 
+7.4 
+Om en Triggerhändelse som anges i någon av paragraferna (a) till (e) i definitionen av Triggerhändelse 
+har inträffat men ingen Ersättande Räntebas och Spreadjustering har slutligen fastställts senast innan 
+efterföljande Räntebestämningsdag eller om sådan Ersättande Räntebas och Spreadjustering har slutligen 
+fastställts men inte kan tillämpas i samband med efterföljande Räntebestämningsdag på grund av tekniska 
+begränsningar hos Euroclear Sweden, ska räntan för nästkommande Ränteperiod vara: 
+ 
+(a) 
+om tidigare Räntebas är tillgänglig så ska den bestämmas enligt villkoren som skulle gälla för 
+Räntebasen som om ingen Triggerhändelse hade inträffat; eller
+
+--- Page 27 ---
+27(48) 
+ 
+(b) 
+om tidigare Räntebas inte är tillgänglig eller inte längre kan användas i enlighet med tillämplig 
+lag eller reglering, den ränta som fastställts för senast föregående Ränteperiod. 
+ 
+Denna bestämmelse är tillämplig på ytterligare efterföljande Ränteperioder förutsatt att alla relevanta 
+åtgärder har vidtagits avseende tillämpningen av och de justeringar som framgår av detta avsnitt 7 (Byte 
+av Räntebas) inför varje sådan efterföljande Räntebestämningsdag, men utan framgång.  
+ 
+7.5 
+Innan Ersättande Räntebas, Spreadjustering och övriga ändringar blir effektiva ska Sparbanken meddela 
+Fordringshavare, Administrerande Institut samt Euroclear Sweden i enlighet med avsnitt 15 
+(Meddelanden) omedelbart efter att Sparbanken i samråd med Ledarbanken eller den Oberoende 
+Rådgivaren slutligt fastställt Ersättande Räntebas, Spreadjustering och nödvändiga ändringar och av 
+informationen ska även framgå när ändringarna blir tillämpliga. Om MTN är upptagna till handel på 
+Nasdaq Stockholm eller annan Reglerad Marknad ska Sparbanken även informera börsen om 
+ändringarna. 
+ 
+7.6 
+Ledarbanken, Oberoende Rådgivare och Administrerande Institut som utför åtgärder i enlighet med detta 
+avsnitt 7 ansvarar inte för någon skada eller förlust som orsakas av beslut, åtgärder som vidtas eller 
+utelämnas av denne i samband med bestämmande och slutligt fastställande av Ersättande Räntebas, 
+Spreadjustering eller därtill efterföljande ändringar av Lånevillkoren, såvida inte direkt orsakad av dess 
+grova vårdslöshet eller uppsåtliga agerande. Ledarbanken, den Oberoende Rådgivaren och det 
+Administrerande Institutet ansvarar aldrig för indirekt skada eller följdförluster när denne utför åtgärder 
+enligt detta avsnitt. 
+ 
+7.7 
+I detta avsnitt 7 har följande definierade termer den betydelse som anges nedan: 
+ 
+”Administratör av Räntebas” är Swedish Financial Benchmark Facility AB (SFBF) i förhållande till 
+STIBOR eller någon aktör som ersätter som administratör av Räntebasen. 
+ 
+”Ersättande Räntebas” är:  
+(i) 
+den skärm- eller referensränta, och den metodologi för beräkning av löptid samt 
+beräkningsmetoder med hänsyn till skuldinstrument med liknande räntevillkor som MTN, som 
+formellt rekommenderas av Relevant Nomineringsorgan som efterträdare eller ersättare till 
+Räntebasen; eller 
+ 
+(ii) 
+om ingen sådan ränta kunnat utses enligt (i), sådan annan ränta som Sparbanken i samråd med 
+Ledarbanken eller den Oberoende Rådgivaren bestämmer är mest jämförbar med Räntebasen. 
+ 
+För undvikande av tvivel, om Ersättande Räntebas skulle upphöra att finnas ska denna definition 
+tillämpas mutatis mutandis på sådan ny Ersättande Räntebas.  
+”Oberoende 
+Rådgivare” 
+är 
+ett 
+oberoende 
+finansinstitut 
+eller 
+väl 
+ansedd 
+rådgivare 
+på 
+skuldkapitalmarknaderna där Räntebasen vanligen används. 
+”Offentliggörande” är ett offentligt uttalande eller publikt publicerad information enligt vad som anges i 
+7.2 (b) till 7.2 (e) om att händelser eller omständigheter som anges däri kommer att inträffa. 
+”Relevant Nomineringsorgan” är, med förbehåll för tillämplig lagreglering, i första hand relevant 
+tillsynsmyndighet och i andra hand tillämplig centralbank, eller arbetsgrupp eller kommitté på uppdrag av 
+någon av dessa eller, i tredje hand, Finansiella stabilitetsrådet eller någon del därav. 
+”Spreadjustering” är en justeringsmarginal eller en formel eller metod för beräkning av en 
+justeringsmarginal som ska tillämpas på Ersättande Räntebas och som:
+
+--- Page 28 ---
+28(48) 
+ 
+(i) 
+är formellt rekommenderad av Relevant Nomineringsorgan i förhållande till den ersatta 
+Räntebasen; eller 
+ 
+(ii) 
+om (i) inte är tillämplig, den justeringsmarginal som Sparbanken i samråd med Ledarbanken 
+eller den Oberoende Rådgivaren anser skälig att använda i syfte att i möjligaste mån eliminera 
+eventuella värdeöverföringar mellan parterna till följd av ett ersättande av Räntebasen och som 
+vanligen tillämpas vid liknande transaktioner på skuldkapitalmarknaden. 
+8. 
+DRÖJSMÅLSRÄNTA 
+8.1 
+Vid betalningsdröjsmål utgår dröjsmålsränta på det förfallna beloppet från förfallodagen till och med den 
+dag då betalning erläggs efter en räntesats som motsvarar genomsnittet av en veckas STIBOR för MTN 
+under den tid dröjsmålet varar, med tillägg av två procentenheter. STIBOR ska därvid avläsas den första 
+Bankdagen i varje kalendervecka under vilket dröjsmålet varar. Dröjsmålsränta enligt denna punkt 8.1 för 
+Lån som löper med ränta ska dock aldrig utgå efter lägre räntesats än som motsvarar den som gällde för 
+aktuellt Lån på förfallodagen i fråga med tillägg av två procentenheter. Dröjsmålsränta ska inte 
+kapitaliseras. 
+ 
+8.2 
+Beror dröjsmålet på hinder för Emissionsinstituten eller Euroclear Sweden utgår dröjsmålsränta efter en 
+räntesats som motsvarar (i) för Lån som löper med ränta, den räntesats som gällde för aktuellt Lån på 
+förfallodagen ifråga, eller (ii) för Lån som löper utan ränta, genomsnittet av en veckas STIBOR under den 
+tid dröjsmålet varar (varvid STIBOR ska avläsas den första Bankdagen i varje kalendervecka under 
+vilken dröjsmålet varar). 
+9. 
+ÅTERKÖP 
+Sparbanken får efter överenskommelse med Fordringshavare återköpa MTN vid varje tidpunkt under 
+förutsättning att det är förenligt med gällande rätt. MTN som ägs av Sparbanken får enligt Sparbankens 
+eget val behållas, överlåtas eller lösas in. 
+10. 
+SÄRSKILDA ÅTAGANDEN 
+10.1 
+Förmånsrättslig status 
+Sparbanken ska tillse att dess betalningsförpliktelser enligt Lån i förmånsrättsligt hänseende minst 
+jämställs med Sparbankens övriga icke efterställda och icke säkerställda betalningsförpliktelser, förutom 
+sådana förpliktelser som enligt gällande rätt har bättre förmånsrätt. 
+ 
+10.2 
+Sparbankens verksamhet 
+Sparbanken åtar sig att, så länge någon MTN utestår, inte väsentligt förändra karaktären av Koncernens 
+verksamhet.  
+ 
+10.3 
+Rambeloppet 
+Sparbanken får inte ge ut ytterligare MTN under detta MTN-program om det innebär att det sammanlagda 
+Nominella Beloppet av de MTN som är utestående under detta MTN-program, inklusive de MTN som 
+avses ges ut, överstiger Rambeloppet på den dag då överenskommelse om utgivning av MTN träffas 
+mellan Sparbanken och Utgivande Institut. 
+ 
+10.4 
+Upptagande till handel på Reglerad Marknad 
+För MTN som enligt Slutliga Villkor ska upptas till handel på Reglerad Marknad åtar sig Sparbanken att 
+ansöka om detta (själv eller genom Administrerande Instituts försorg) vid relevant Reglerad Marknad eller 
+annan marknadsplats och att vidta de åtgärder som erfordras för att bibehålla upptagandet till handel så 
+länge relevanta MTN är utestående, dock längst så länge detta är möjligt enligt tillämpliga regler och 
+handels- och avvecklingsrutiner.
+
+--- Page 29 ---
+29(48) 
+ 
+10.5 
+Gällande lag m.m. 
+Sparbanken åtar sig att i alla väsentliga avseenden efterleva vid var tid gällande regler och anvisningar, 
+som utfärdats av svensk eller relevant utländsk statsmakt, centralbank eller annan myndighet eller annan 
+reglerad marknad vid vilken Lån upptagits till handel. 
+ 
+10.6 
+Tillhandahållande av Lånevillkor 
+Sparbanken åtar sig att hålla den aktuella versionen av dessa Allmänna Villkor samt de Slutliga Villkoren 
+för samtliga utestående Lån som är upptagna till handel på Reglerad Marknad tillgängliga på Sparbankens 
+hemsida. 
+11. 
+UPPSÄGNING AV LÅN 
+11.1 
+Administrerande Institut ska skriftligen förklara relevant Lån tillsammans med upplupen ränta (om 
+någon) förfallet till betalning omedelbart eller vid den tidpunkt Administrerande Institut eller 
+Fordringshavarmötet (såsom tillämpligt) beslutar, om någon omständighet som anges i punkt 11.2 
+inträffat och om:  
+ 
+(i) 
+så beslutas av Fordringshavarna under ett Lån på Fordringshavarmöte; eller 
+(ii) 
+så begärs skriftligt av Fordringshavare som vid tidpunkten för begäran representerar minst en 
+tiondel av det sammanlagda utestående Nominella Beloppet för relevant Lån. Fordringshavare 
+ska vid begäran förete bevis om att denne är Fordringshavare aktuell Bankdag. Begäran om 
+uppsägning kan endast göras av Fordringshavare som ensam representerar en tiondel av totalt 
+utestående Nominellt Belopp eller gemensamt av Fordringshavare som tillsammans 
+representerar en tiondel av totalt utestående Nominellt Belopp vid aktuell Bankdag. 
+11.2 
+Lån kan förklaras förfallet till betalning i enlighet med punkt 11.1 om: 
+ 
+(a) 
+Sparbanken inte i rätt tid erlägger förfallet kapital- eller räntebelopp avseende relevant Lån 
+under detta MTN-program, såvida inte dröjsmålet (i) är en följd av tekniskt eller administrativt 
+fel; och (ii) inte varar längre än tre Bankdagar; 
+(b) 
+Sparbanken i något annat avseende än som anges i (a) ovan, punkten ”Gröna MTN” i Slutliga 
+Villkor eller, om Gröna Villkor är tillämpliga, punkten ”Användning av tillförda medel” i 
+Slutliga Villkor, inte fullgör sina förpliktelser enligt Lånevillkoren avseende relevant Lån under 
+detta MTN-program och, för det fall rättelse är möjlig och under förutsättning att Sparbanken 
+skriftligen uppmanats av Administrerande Institut, Emissionsinstitut eller Fordringshavare att 
+vidta rättelse, sådan rättelse inte skett inom 20 Bankdagar; 
+(c) 
+Sparbanken inte i rätt tid eller inom tillämplig uppskovsperiod erlägger betalning avseende 
+annat lån och lånet ifråga på grund därav sagts upp, eller kunnat sägas upp, till betalning i förtid 
+eller, om uppsägningsbestämmelse saknas eller den uteblivna betalningen skulle utgöra 
+slutbetalning, om betalningsdröjsmålet varar 10 Bankdagar, allt under förutsättning att summan 
+av utestående skuld under de lån som berörs uppgår till minst SEK 25 000 000 (eller 
+motsvarande värde i annan valuta), eller annat lån till Koncernföretag förklaras uppsagt till 
+betalning i förtid till följd av en uppsägningsgrund (oavsett karaktär), under förutsättning att 
+summan av förfallna skulder under sådana uppsagda lån uppgår till minst SEK 25 000 000 
+(eller motsvarande värde i annan valuta); 
+(d) 
+Koncernföretag inte inom 15 Bankdagar efter den dag då Koncernföretaget mottagit berättigat 
+krav infriar borgen eller garanti som Koncernföretaget ställt för annans förpliktelse, under 
+förutsättning att summan av berättigade krav som inte infriats inom sådan tid uppgår till minst 
+SEK 25 000 000 (eller motsvarande värde i annan valuta); 
+(e) 
+tillgångar som ägs av ett Koncernföretag och som har ett värde överstigande SEK 25 000 000
+
+--- Page 30 ---
+30(48) 
+ 
+(eller motsvarande värde i annan valuta) utmäts eller blir föremål för liknande utländskt 
+förfarande och sådan utmätning eller liknande utländskt förfarande inte undanröjs inom 30 
+Bankdagar från dagen för utmätningsbeslutet eller beslutet om sådant liknande utländskt 
+förfarande; 
+(f) 
+Koncernföretag ställer in sina betalningar; 
+(g) 
+Koncernföretag ansöker om eller medger ansökan om företagsrekonstruktion (enligt lag 
+(1996:764) om företagsrekonstruktion) eller liknande förfarande; 
+(h) 
+Koncernföretag försätts i konkurs; 
+(i) 
+beslut fattas om att Sparbanken ska träda i likvidation eller att Koncernföretag ska försättas i 
+tvångslikvidation; 
+(j) 
+en omständighet inträffar som innebär att gäldenären under relevant Lån byts från Sparbanken 
+till annan som gäldenär och detta inte godkänts av Fordringshavarna i enlighet med punkt 12.9; 
+eller 
+(k) 
+Sparbanken eller annat 
+Koncernföretag som bedriver tillståndspliktig bank- eller 
+finansieringsrörelse eller annan tillståndspliktig verksamhet inte innehar eller inte längre 
+innehar tillstånd för sådan verksamhet. 
+Begreppet ”lån” i punkten (c) ovan omfattar även kredit i räkning samt belopp som inte erhållits som lån 
+men som ska erläggas på grund av skuldebrev uppenbarligen avsett för allmän omsättning. 
+11.3 
+Administrerande Institut får inte förklara relevant Lån tillsammans med ränta (om någon) förfallet till 
+betalning enligt detta avsnitt 11 genom hänvisning till en uppsägningsgrund om det har beslutats på ett 
+Fordringshavarmöte att sådan uppsägningsgrund (tillfälligt eller permanent) inte ska medföra uppsägning 
+enligt avsnitt 11. 
+ 
+11.4 
+Det åligger Sparbanken att omedelbart underrätta Emissionsinstituten och Fordringshavarna enlighet med 
+avsnitt 15 (Meddelanden) i fall en uppsägningsgrund som anges i punkt 11.2 skulle inträffa. I brist på 
+sådan underrättelse ska varken Administrerande Institut eller Emissionsinstitut, oavsett faktisk vetskap, 
+anses känna till en uppsägningsgrund. Varken Administrerande Institut eller Emissionsinstituten är själva 
+skyldiga att bevaka om förutsättningar för uppsägning enligt punkt 11.2 föreligger. 
+ 
+11.5 
+Vid återbetalning av Lån efter uppsägning enligt avsnitt 11: 
+(a) 
+Lån som löper med ränta återbetalas till ett belopp per MTN som tillsammans med upplupen 
+ränta skulle återbetalats på den slutliga Återbetalningsdagen; och 
+(b) 
+Lån som löper utan ränta återbetalas till ett belopp per MTN som bestäms enligt följande formel 
+per dagen för uppsägningen av Lånet: 
+ 
+ Nominellt belopp  
+ (1 + r)t 
+ 
+ 
+r =  
+den säljränta som Administrerande Institut anger för lån, utgivet av svenska 
+staten, med en återstående löptid som motsvarar den som gäller för aktuellt Lån. 
+Vid avsaknad av säljränta ska istället köpränta användas, vilken ska reduceras 
+med marknadsmässig skillnad mellan köp- och säljränta, uttryckt i 
+procentenheter. Vid beräkningen ska stängningsnoteringen användas. 
+t =  
+återstående löptid för aktuellt Lån, uttryckt i Dagberäkningsmetoden 
+Faktisk/360 för MTN.
+
+--- Page 31 ---
+31(48) 
+ 
+12. 
+FORDRINGSHAVARMÖTE 
+12.1 
+Administrerande Institut får och ska på begäran från annat Utgivande Institut, Sparbanken eller 
+Fordringshavare som vid tidpunkten för begäran representerar minst en tiondel av Justerat Lånebelopp 
+under ett visst Lån (sådan begäran kan endast göras av Fordringshavare som är registrerade i det av 
+Euroclear Sweden förda avstämningsregistret för MTN den Bankdag som infaller närmast efter den dag 
+då begäran inkom till Administrerade Institut och måste, om den görs av flera Fordringshavare, göras 
+gemensamt), sammankalla ett Fordringshavarmöte för Fordringshavarna under relevant Lån. 
+ 
+12.2 
+Administrerande Institut ska sammankalla ett Fordringshavarmöte genom att sända meddelande om detta 
+till varje Fordringshavare, Sparbanken och Utgivande Institut inom fem (5) Bankdagar från att det har 
+mottagit en begäran från Sparbanken, Fordringshavare eller Utgivande Institut enligt punkt 12.1 (eller 
+sådan senare dag som krävs av tekniska eller administrativa skäl).  
+ 
+12.3 
+Administrerande Institut får avstå från att sammankalla ett Fordringshavarmöte om (i) det föreslagna 
+beslutet måste godkännas av någon person i tillägg till Fordringshavarna och denne har meddelat 
+Administrerande Institut att sådant godkännande inte kommer att lämnas, eller (ii) det föreslagna beslutet 
+inte är förenligt med gällande rätt. 
+ 
+12.4 
+Kallelsen enligt punkt 12.2 ska innehålla (i) tid för mötet, (ii) plats för mötet, (iii) dagordning för mötet 
+(inkluderande varje begäran om beslut från Fordringshavarna), samt (iv) ett fullmaktsformulär. Endast 
+ärenden som har inkluderats i kallelsen får beslutas om på Fordringshavarmötet. Om det krävs att 
+Fordringshavare meddelar sin avsikt att närvara på Fordringshavarmötet ska sådant krav anges i kallelsen. 
+ 
+12.5 
+Fordringshavarmötet ska inte hållas tidigare än femton (15) Bankdagar och inte senare än trettio (30) 
+Bankdagar från kallelsen. Fordringshavarmöte för flera lån under MTN-programmet kan hållas vid 
+samma tillfälle. 
+ 
+12.6 
+Utan att avvika från bestämmelserna i dessa Allmänna Villkor får Administrerande Institut föreskriva 
+sådana ytterligare bestämmelser kring kallelse till och genomförande av Fordringshavarmötet som detta 
+finner lämpligt. Sådana bestämmelser kan bland annat innefatta möjlighet för Fordringshavare att rösta 
+utan att personligen närvara vid mötet, att röstning kan ske genom elektroniskt röstningsförfarande eller 
+genom skriftligt röstningsförfarande. 
+ 
+12.7 
+Endast personer som är, eller har blivit befullmäktigad i enlighet med avsnitt 4 (Rätt att agera för 
+Fordringshavare) av någon som är, Fordringshavare på Avstämningsdagen för Fordringshavarmötet får 
+utöva rösträtt på sådant Fordringshavarmöte, förutsatt att relevanta MTN omfattas av Justerat 
+Lånebelopp. Administrerande Institut äger närvara och ska tillse att det vid Fordringshavarmötet finns en 
+utskrift av det av Euroclear Sweden förda avstämningsregistret från Avstämningsdagen för 
+Fordringshavarmötet. 
+ 
+12.8 
+Vid Fordringshavarmöte äger Fordringshavare och Administrerande Institut, samt deras respektive ombud 
+och biträden, rätt att närvara. På Fordringshavarmötet kan beslutas att ytterligare personer får närvara. 
+Ombud ska förete behörigen utfärdad fullmakt som ska godkännas av Fordringshavarmötets ordförande. 
+Fordringshavarmöte ska inledas med att ordförande, protokollförare och justeringsmän utses. 
+Ordföranden ska upprätta en förteckning över närvarande röstberättigade Fordringshavare med uppgift 
+om den andel av Justerat Lånebelopp varje Fordringshavare företräder (”Röstlängd”). Därefter ska 
+Röstlängden godkännas av Fordringshavarmötet. Fordringshavare som avgivit sin röst via elektroniskt 
+röstningsförfarande, röstsedel eller motsvarande, ska vid tillämpning av dessa bestämmelser anses såsom 
+närvarande vid Fordringshavarmötet. Endast de som på femte Bankdagen före dagen för 
+Fordringshavarmöte var Fordringshavare, respektive ombud för sådan Fordringshavare och som omfattas 
+av Justerat Lånebelopp, är röstberättigade och ska tas upp i Röstlängden. Sparbanken ska få tillgång till
+
+--- Page 32 ---
+32(48) 
+ 
+relevanta röstberäkningar och underlaget för dessa. Protokollet ska snarast färdigställas och hållas 
+tillgängligt för Fordringshavare, Sparbanken och Administrerande Institut. 
+ 
+12.9 
+Beslut i följande ärenden kräver samtycke av Fordringshavare representerande minst 90 procent av den 
+del av Justerat Lånebelopp för vilket Fordringshavare röstar under det relevanta Lånet vid 
+Fordringshavarmötet: 
+ 
+(a) 
+ändring av Återbetalningsdagen, nedsättning av Nominellt Belopp, ändring av villkor 
+relaterande till ränta eller belopp som ska återbetalas (annat än enligt vad som följer av 
+Lånevillkoren, inkluderat vad som följer av tillämpningen av avsnitt 7 (Byte av Räntebas)) eller 
+ändring av föreskriven valuta för Lånet; 
+(b) 
+ändring av villkoren för Fordringshavarmöte enligt avsnitt detta avsnitt 12;  
+(c) 
+gäldenärsbyte; och 
+(d)  
+obligatoriskt utbyte av MTN mot andra värdepapper. 
+12.10 Ärenden som inte omfattas av punkt 12.9 kräver samtycke av Fordringshavare representerande mer än 50 
+procent av den del av Justerat Lånebelopp för vilket Fordringshavare röstar under det relevanta Lånet vid 
+Fordringshavarmötet. Detta inkluderar, men är inte begränsat till, ändringar och avståenden av rättigheter 
+i förhållande till Lånevillkoren som inte fordrar en högre majoritet (annat än ändringar enligt avsnitt 12 
+(Ändringar av villkor m.m.)) samt förtida uppsägning av Lån. 
+ 
+12.11 Ett Fordringshavarmöte är beslutsfört om Fordringshavare representerande minst 50 procent av det 
+Justerade Lånebeloppet under det relevanta Lånet avseende ett ärende i punkt 12.9 och annars 20 procent 
+av det Justerade Lånebeloppet under det relevanta Lånet närvarar vid mötet personligen eller via telefon 
+(eller närvarar genom en befullmäktigad representant). 
+ 
+12.12 Om Fordringshavarmöte inte är beslutsfört ska Administrerande Institut kalla till nytt Fordringshavarmöte 
+(i enlighet med punkt 12.2) förutsatt att det relevanta förslaget inte har dragits tillbaka av den eller de som 
+initierade Fordringshavarmötet. Kravet på beslutsförhet i punkt 12.11 ska inte gälla för sådant nytt 
+Fordringshavarmöte. Om Fordringshavarmötet nått beslutsförhet för vissa men inte alla ärenden som ska 
+beslutas vid Fordringshavarmötet ska beslut fattas i de ärenden för vilka beslutsförhet föreligger och 
+övriga ärenden ska hänskjutas till nytt Fordringshavarmöte. 
+ 
+12.13 Ett beslut vid Fordringshavarmöte som utsträcker förpliktelser eller begränsar rättigheter som tillkommer 
+Sparbanken eller Utgivande Institut under Lånevillkoren kräver även godkännande av vederbörande part. 
+ 
+12.14 En Fordringshavare som innehar mer än en MTN behöver inte rösta för samtliga, eller rösta på samma 
+sätt för samtliga, MTN som innehas av denne. 
+ 
+12.15 Sparbanken får inte, direkt eller indirekt, betala eller medverka till att det erläggs ersättning till någon 
+Fordringshavare för att denne ska lämna samtycke enligt Lånevillkoren om inte sådan ersättning erbjuds 
+alla Fordringshavare som lämnar samtycke vid relevant Fordringshavarmöte. 
+ 
+12.16 Ett beslut som fattats vid ett Fordringshavarmöte är bindande för samtliga Fordringshavare under det 
+relevanta Lånet oavsett om de närvarat vid Fordringshavarmötet. Fordringshavare ska inte vara ansvariga 
+för skada som beslut vållar andra Fordringshavare. Administrerande Instituts skäliga kostnader och utlägg 
+med anledning av ett Fordringshavarmöte, inklusive skälig ersättning till det Administrerande Institutet, 
+ska betalas av Sparbanken.  
+ 
+12.17 På Administrerande Instituts begäran ska Sparbanken utan dröjsmål tillhandahålla det Administrerande 
+Institutet ett intyg som anger Nominellt Belopp för MTN som ägs av Koncernföretag på relevant 
+Avstämningsdag före ett Fordringshavarmöte, oavsett om sådant Koncernföretag är direktregistrerat som
+
+--- Page 33 ---
+33(48) 
+ 
+ägare av MTN. Administrerande Institut ska inte vara ansvarigt för innehållet i sådant intyg eller annars 
+vara ansvarigt för att fastställa om en MTN ägs av ett Koncernföretag. 
+ 
+12.18 Information om beslut taget vid Fordringshavarmöte ska utan dröjsmål meddelas Fordringshavarna under 
+relevant Lån genom pressmeddelande, på Sparbankens hemsida och i enlighet med avsnitt 15 
+(Meddelanden). Administrerande Institut ska på Fordringshavares begäran tillhandahålla denne protokoll 
+från relevant Fordringshavarmöte. Underlåtenhet att meddela Fordringshavarna enligt ovan ska dock inte 
+påverka beslutets giltighet. 
+13. 
+ÄNDRING AV VILLKOR MM.  
+13.1 
+Sparbanken och Emissionsinstituten får överenskomma om justeringar av klara och uppenbara fel i dessa 
+Allmänna Villkor. 
+ 
+13.2 
+Sparbanken och Administrerande Institut får överenskomma om justeringar av klara och uppenbara fel i 
+Slutliga Villkor för visst Lån. 
+ 
+13.3 
+Anslutande av Emissionsinstitut till MTN-programmet kan ske genom överenskommelse mellan 
+Sparbanken, aktuellt institut och Emissionsinstituten. Emissionsinstitut kan frånträda som sådant, dock att 
+Administrerande Institut avseende visst Lån inte får avträda med mindre än att ett nytt Administrerande 
+Institut utses i dess ställe för sådant Lån.  
+ 
+13.4 
+Sparbanken och Ledarbanken eller den Oberoende Rådgivaren får, utan Fordringshavares medgivande, 
+överenskomma om justeringar i Lånevillkoren och genomföra sådana ändringar i Lånevillkoren i enlighet 
+med vad som framgår av avsnitt 7 (Byte av Räntebas), vilka blir bindande för de som omfattas av 
+Lånevillkoren. 
+ 
+13.5 
+Ändring eller eftergift av Lånevillkor i andra fall än enligt punkterna 13.1 till 13.4 ska ske genom beslut 
+på Fordringshavarmöte enligt avsnitt 12 (Fordringshavarmöte).  
+ 
+13.6 
+Ett godkännande på Fordringshavarmöte av en villkorsändring kan omfatta sakinnehållet av ändringen 
+och behöver inte innehålla en specifik utformning av ändringen.  
+ 
+13.7 
+Ett beslut om en villkorsändring ska också innehålla ett beslut om när ändringen träder i kraft. En ändring 
+träder dock inte i kraft förrän den registrerats hos Euroclear Sweden (i förekommande fall) och 
+publicerats på Sparbankens hemsida.  
+ 
+13.8 
+Ändring eller eftergift av Lånevillkor i enlighet med detta avsnitt 13 ska av Sparbanken snarast meddelas 
+till Fordringshavarna i enlighet med avsnitt 15 (Meddelanden) och publiceras på Sparbankens hemsida.  
+14. 
+PRESKRIPTION 
+14.1 
+Fordran på kapitalbelopp preskriberas tio år efter Återbetalningsdagen. Fordran på ränta preskriberas tre 
+år efter respektive Ränteförfallodag. Om fordran preskriberas tillkommer de medel som avsatts för 
+betalning av sådan fordran Sparbanken.  
+ 
+14.2 
+Om preskriptionsavbrott sker löper ny preskriptionstid om tio år i fråga om kapitalbelopp och tre år 
+beträffande räntebelopp, i båda fallen räknat från dag som framgår av bestämmelser om verkan av 
+preskriptionsavbrott i preskriptionslagen (1981:130).
+
+--- Page 34 ---
+34(48) 
+ 
+15. 
+MEDDELANDEN 
+15.1 
+Meddelanden ska tillställas Fordringshavare för aktuellt Lån på den adress som är registrerad hos 
+Euroclear Sweden på Avstämningsdagen före avsändandet. Ett meddelande till Fordringshavarna ska 
+också offentliggöras genom pressmeddelande och publiceras på Sparbankens hemsida.  
+ 
+15.2 
+Meddelande ska tillställas Sparbanken och Emissionsinstitut på den adress som är registrerad hos 
+Bolagsverket vid tidpunkten för avsändandet.  
+ 
+15.3 
+Ett meddelande till Sparbanken eller Fordringshavare enligt Lånevillkoren som sänds med normal post till 
+angiven adress ska anses ha kommit mottagaren tillhanda tredje Bankdagen efter avsändande och 
+meddelande som sänds med bud ska anses ha kommit mottagaren tillhanda när det avlämnats på angiven 
+adress.  
+ 
+15.4 
+För det fall ett meddelande inte sänts på korrekt sätt till viss Fordringshavare ska detta inte påverka 
+verkan av meddelande till övriga Fordringshavare.  
+16. 
+BEGRÄNSNING AV ANSVAR M.M. 
+16.1 
+I fråga om de på Emissionsinstituten ankommande åtgärderna gäller att ansvarighet inte kan göras 
+gällande för skada som beror av svenskt eller utländskt lagbud, svensk eller utländsk myndighetsåtgärd, 
+krigshändelse, strejk, blockad, bojkott, lockout eller annan liknande omständighet. Förbehållet i fråga om 
+strejk, blockad, bojkott och lockout gäller även om vederbörande Emissionsinstitut själv är föremål för 
+eller vidtar sådan konfliktåtgärd.  
+ 
+16.2 
+Skada som uppkommer i andra fall ska inte ersättas av Emissionsinstitut om vederbörande 
+Emissionsinstitut varit normalt aktsamt. Inte i något fall utgår ersättning för indirekt skada.  
+ 
+16.3 
+Föreligger hinder för Emissionsinstitut på grund av sådan omständighet som angivits i punkt 16.1 att 
+vidta åtgärd, får åtgärden uppskjutas tills hindret har upphört.  
+ 
+16.4 
+Vad ovan sagts gäller i den mån inte annat följer av lagen om kontoföring av finansiella instrument. 
+17. 
+TILLÄMPLIG LAG OCH JURISDIKTION 
+17.1 
+Svensk rätt ska tillämpas på Lånevillkoren och eventuella icke-kontraktuella frågor som uppkommer i 
+anslutning till Lånevillkoren. 
+ 
+17.2 
+Tvist ska avgöras av svensk domstol. Stockholms tingsrätt ska vara första instans. 
+ 
+ 
+Härmed bekräftas att ovanstående Allmänna Villkor är för oss bindande 
+Köping den 12 januari 2022 
+SPARBANKEN VÄSTRA MÄLARDALEN
+
+--- Page 35 ---
+Bilaga 1 
+35(48) 
+ 
+ 
+MALL FÖR SLUTLIGA VILLKOR 
+SLUTLIGA VILLKOR FÖR LÅN NR [•] 
+UTGIVET UNDER SPARBANKEN VÄSTRA MÄLARDALENS (”SPARBANKEN”) 
+MTN-PROGRAM 
+För detta Lån ska Allmänna Villkor av den 12 januari 2022 jämte nedan angivna Slutliga Villkor gälla. 
+Definitioner i dessa Slutliga Villkor framgår om inte annat anges i Allmänna Villkor eller på annat sätt i 
+Sparbankens grundprospekt, godkänt och registrerat av Finansinspektionen den 13 januari 2025 [jämte tillägg 
+[lägg till datum för samtliga tilläggsprospekt, annars radera]], (”Prospektet”), som upprättats för MTN-
+programmet 
+i 
+enlighet 
+med 
+Europaparlamentets 
+och 
+rådets 
+förordning 
+(EU) 
+2017/1129 
+(”Prospektförordningen”). Detta dokument utgör de Slutliga Villkoren för Lån nr [•] och har utarbetats enligt 
+Prospektförordningen. Fullständig information om Sparbanken och Lånet erhålls endast genom att Slutliga 
+Villkor läses tillsammans med Prospektet.  
+Prospektet [och samtliga tilläggsprospekt] finns att tillgå på Sparbankens webbadress [www. sparbankenvm . se] 
+och kan även rekvireras kostnadsfritt från Sparbankens huvudkontor. 
+[[Dessa Slutliga Villkor ersätter Slutliga Villkor daterade den [datum], varvid Lånebeloppet höjts från SEK 
+[belopp i siffror] till SEK [belopp i siffror].] 
+ALLMÄNT 
+1. 
+Lånenummer: 
+[•] 
+ 
+(i) 
+Tranchebenämning: 
+[•] 
+2. 
+Lånebelopp: 
+ 
+ 
+(i) 
+Lån: 
+[•] 
+ 
+ 
+(ii) 
+Tranche 1: 
+[•]  
+ 
+[(iii) 
+Tranche 2: 
+[•]] 
+3. 
+Pris: 
+[•] % av Lägsta Valör 
+4. 
+Nominellt Belopp: 
+SEK [•] 
+5. 
+Lånedatum: 
+[•] 
+ 
+(i) 
+Likviddatum: 
+[•] 
+ 
+[(ii) 
+Teckningsperiod:] 
+[Ej tillämpligt]/[Specificera detaljer] 
+6. 
+Startdag för ränteberäkning: 
+[•] 
+7. 
+Återbetalningsdag: 
+[•] 
+8. 
+Räntekonstruktion: 
+[Fast ränta] 
+[STIBOR FRN (Floating Rate Note)] 
+[Nollkupongsobligation]
+
+--- Page 36 ---
+36(48) 
+ 
+9. 
+Återbetalningskonstruktion: 
+[Återbetalning till Nominellt Belopp] 
+ 
+RÄNTEKONSTRUKTION 
+10. 
+Fast Ränta: 
+[Tillämpligt]/[Ej tillämpligt] 
+(om ej tillämpligt, radera resterande underrubriker 
+av denna paragraf) 
+ 
+(i) 
+Räntesats: 
+[•] % p.a. 
+ 
+(ii) 
+Ränteberäkningsmetod: 
+[(30/360)] 
+ 
+(iii) 
+Ränteförfallodag/-ar: 
+Årligen den [  ], första gången den [  ] och sista 
+gången den [  ], dock att om sådan dag inte är en 
+Bankdag utbetalas ränta först följande Bankdag. 
+Ränta beräknas och utgår dock endast till och med 
+Ränteförfallodagen. 
+(OBS! Ovan förändras i händelse av förkortad eller 
+förlängd Ränteperiod) 
+11. 
+Rörlig Ränta (FRN): 
+[Tillämpligt]/[Ej tillämpligt] 
+(om ej tillämpligt, radera resterande underrubriker 
+av denna paragraf) 
+ 
+(i) 
+Räntebas: 
+[•] månaders STIBOR 
+[Den första kupongens Räntebas skall interpoleras 
+linjärt mellan [•]-månader STIBOR och [•]-månader 
+STIBOR.] 
+ 
+(ii) 
+Minimiränta: 
+[Ej tillämpligt]/[•] 
+ 
+(iii) 
+Räntebasmarginal: 
+[+/-] [•] % årlig ränta, beräknat på [Lägsta 
+Valör/[•]] 
+ 
+(iv) 
+Ränteberäkningsmetod: 
+[(faktiskt antal dagar/360)] 
+ 
+(v) 
+Räntebestämningsdag: 
+[Två] Bankdagar före varje Ränteperiod, första 
+gången den [•] 
+ 
+(vi) 
+Ränteperiod: 
+Tiden från den [•] till och med den [•] (den första 
+Ränteperioden) och därefter varje tidsperiod om ca 
+[•] månader med slutdag på en Ränteförfallodag 
+ 
+(vii) 
+Ränteförfallodagar/-ar 
+Sista dagen i varje Ränteperiod, [den [•], den [•], 
+den [•] och den [•] varje år], första gången den [•] 
+och sista gången på Återbetalningsdagen, dock att 
+om sådan dag inte är Bankdag ska som 
+Ränteförfallodag 
+anses 
+närmast 
+påföljande 
+Bankdag[, förutsatt att sådan Bankdag inte infaller i 
+en 
+ny 
+kalendermånad, 
+i 
+vilket 
+fall 
+Ränteförfallodagen ska anses vara föregående 
+Bankdag]. 
+ 
+12. 
+Nollkupong: 
+[Tillämpligt]/[Ej tillämpligt] 
+(om ej tillämpligt, radera resterande underrubriker 
+av denna paragraf) 
+ 
+(i) 
+Villkor för Lån utan ränta: 
+[Ej tillämpligt]/[Specificera detaljer]
+
+--- Page 37 ---
+37(48) 
+ 
+ÖVRIG INFORMATION 
+13. 
+Gröna MTN: 
+[Tillämpligt/Ej tillämpligt] 
+(Om tillämpligt, specificera nedan) 
+Gröna Villkor i det gröna ramverket daterat [●] 
+gäller för detta Lån. 
+14. 
+Utgivande Institut: 
+[Swedbank AB (publ)] [Nordea Bank Abp] [Danske 
+Bank A/S, Danmark, Sverige Filial] [ABG Sundal 
+Collier ASA] 
+15. 
+Administrerande Institut: 
+[Swedbank AB (publ)] [Nordea Bank Abp] [Danske 
+Bank A/S, Danmark, Sverige Filial] [ABG Sundal 
+Collier ASA]  
+16. 
+ 
+Upptagande till handel på reglerad 
+marknad: 
+[Ansökan om upptagande till handel kommer att 
+inges till [NASDAQ Stockholm]/[annan reglerad 
+marknad]] 
+ 
+(i) 
+ 
+ 
+ 
+(ii) 
+ 
+ 
+ 
+(iii)  
+Uppskattning av samman-
+lagda kostnader i samband 
+med upptagandet till handel: 
+ 
+Totalt 
+antal 
+värdepapper 
+som tas upp till handel: 
+ 
+Tidigaste 
+dagen 
+för 
+upptagande till handel: 
+[•] 
+ 
+ 
+ 
+[•] 
+ 
+ 
+ 
+[•] 
+ 
+17. 
+ 
+Intressen hos fysiska eller juridiska 
+personer som är inblandade i 
+emissionen: 
+ 
+ 
+[Ej tillämpligt]/[Specificera]  
+(Intressen och eventuella intressekonflikter hos 
+personer som är engagerade i emissionen och som 
+har betydelse för ett enskilt Lån ska beskrivas) 
+18. 
+ 
+ 
+  
+Tillämpliga specifika risker 
+omnämnda i Prospektet: 
+ 
+ 
+[I enlighet med risken med rubrik ”Ränterisk – Fast 
+ränta”] 
+[I enlighet med risken med rubrik ”Ränterisk – 
+Rörlig ränta”] 
+[I enlighet med risken med rubrik ”Ränterisk – 
+Nollkupong”] 
+[I enlighet med risken med rubrik ”Risker kopplade 
+till gröna MTN”] 
+19. 
+ISIN: 
+SE[•] 
+20. 
+Kreditvärdighetsbetyg som har 
+tilldelats värdepapper: 
+[Ej tillämpligt]/[Specificera] 
+21. 
+Nettobelopp: 
+[Nettobeloppet utgörs av Nominellt Belopp minus 
+eventuella kostnader som åläggs Sparbanken i 
+samband med Lånet]/[Specificera] 
+22. 
+Användning av tillförda medel: 
+[Allmän finansiering av verksamheten]/[I enlighet 
+med tillämpliga Gröna Villkor]/[Specificera]
+
+--- Page 38 ---
+38(48) 
+ 
+Sparbanken bekräftar härmed att ovanstående kompletterande Slutliga Villkor är gällande för Lånet tillsammans 
+med Allmänna Villkor och förbinder sig att i enlighet därmed erlägga nominellt belopp [och ränta]. Sparbanken 
+bekräftar vidare att alla väsentliga händelser som inträffat efter Prospektets offentliggörande och som skulle 
+kunna påverka marknadens uppfattning om Sparbanken har offentliggjorts.  
+[Ort] den [datum] 
+SPARBANKEN VÄSTRA MÄLARDALEN
+
+--- Page 39 ---
+39(48) 
+ 
+INFORMATION OM SPARBANKEN VÄSTRA MÄLARDALEN 
+Allmänt om Sparbanken 
+Sparbankens företagsnamn och kommersiella beteckning är Sparbanken Västra Mälardalen (org.nr 
+578500-7120) och är en svensk lokal sparbank med säte i Köpings Kommun, Västmanlands län. 
+Sparbankens LEI-kod är 549300DQTNDQD7SBI684. Sparbanken är registrerad vid Bolagsverket och 
+dess verksamhet regleras främst av sparbankslagen (1987:619) och lagen (2004:297) om bank- och 
+finansieringsrörelse och i övrigt av svensk rätt. Sparbankens webbplats är www . sparbankenvm . se och 
+informationen på webbplatsen ingår inte i detta Prospekt och har inte granskats av eller godkänts av 
+Finansinspektionen såvida denna information inte införlivas i prospektet genom hänvisning. Notera att 
+andra webbplatser i Prospektet till vilka hänvisning görs eller till vilka hyperlänkar finns, inte utgör en 
+del av Prospektet och inte har granskats eller godkänts av Finansinspektionen. 
+Ordförande i Sparbankens styrelse är sedan årsstämma 2024 Mikael Bohman. Styrelsen består för 
+närvarande av 8 ledamöter och 1 suppleant. Mirja Herrdin är verkställande direktör i Sparbanken 
+sedan 2024. 
+Ägarförhållanden 
+Sparbanken Västra Mälardalen har inga ägare utan istället finns 48 huvudmän som ska agera i 
+insättarnas intresse och som ytterst är ansvariga för Sparbankens verksamhet. Huvudmännen väljs 
+enligt ett bestämt system och representerar Sparbankens kunder. Huvudmännen utövar sitt inflytande 
+på Sparbanksstämman som är Sparbankens högsta beslutande organ. Sparbanksstämman beslutar om 
+tillsättande av styrelse och revisorer. Sparbanksstämman väljer styrelsens ordförande och styrelsen 
+utser verkställande direktör. 
+Koncernförhållanden 
+Sparbanken är moderföretag i en koncern där det helägda dotterbolaget Tillsammans för Västra 
+Mälardalen AB, org.nr 556850-3402, och SB Fastigheter i Kungsör AB, org.nr 559378-3250, ingår. 
+Med hänvisning till RFR1 och lättnadsreglerna i ÅRKL 7 kap. 6 § upprättas ingen 
+koncernredovisning. Sparbanken är inte beroende av dotterbolagets verksamhet eller av mottagande av 
+kassaflöden från dotterbolaget. 
+Historik 
+Den första sparbanken startade i Skottland 1810. Det var den första banken som var öppen för precis 
+alla. Ambitionen var att verka för ekonomisk frihet genom sparande. Med denna humanistiska idé som 
+grund startade det som idag är Sparbanken Västra Mälardalen år 1845. 
+Sedan dess har det hänt en hel del både i Västra Mälardalen och i världen, men kärnan i idén är 
+modernare än någonsin: Att vara en bank som tar samhällsansvar och på ett förnuftigt sätt hjälper 
+kunderna att utveckla sin ekonomi. 
+Redan under 1830-talet började prosten Olof Rudolf Bellander och den blivande borgmästaren i 
+Köping Per Eric Bosaeus skissera planerna på en sparbank i Köping och den 1 maj 1841 öppnande de 
+sin egen privata Besparingsinrättning i Köping.
+
+--- Page 40 ---
+40(48) 
+ 
+Fyra år senare, den 24 februari 1845, ombildades Besparingsinrättningen till den bankrörelse som idag 
+är Sparbanken Västra Mälardalen. Den 26 april 1845 sammanträdde direktionen i Köpings Stads 
+Sparbank för första gången. 1859 startade verksamheten i Arboga. 
+Nästa stora händelse i bankens historia daterar sig till den 1 november 1985. Då bildades Köping-
+Arboga Sparbank genom fusion mellan de båda sparbankerna i Arboga och Köping. 1993 förvärvades 
+kontoret i Kungsör från Sparbanken Sverige. Den 1 april 1998 förvärvades Föreningsbankens kontor i 
+Köping, Arboga och Kungsör. Därmed föddes Sparbanken Västra Mälardalen. 
+Sammanfattande beskrivning av verksamheten 
+Sparbanken bedriver av Finansinspektionen tillståndspliktig bankrörelse, främst i form av 
+kreditgivning 
+till 
+allmänheten 
+samt 
+inlåning 
+från 
+allmänheten 
+inom 
+dess 
+geografiska 
+verksamhetsområde. Sparbankens verksamhet är uppbyggd kring:  
+• 
+Privatmarknad 
+• 
+Företagsmarknad 
+Privatmarknad 
+Inom Privatmarknad marknadsförs tjänster såsom betal- och kreditkort, privatlån, bolån, sparande, 
+pensionssparande och försäkringar till privatpersoner. Sparbanken erbjuder kunderna rådgivning kring 
+bankens tjänster och jurister för juridiska frågor. Sparbanken har ca 40 000 kunder inom 
+Privatmarknaden.  
+Företagsmarknad 
+Inom Företagsmarknad marknadsförs tjänster såsom betal- och kreditkort, krediter, sparande, 
+placeringar, försäkringar samt finansiell- och juridisk rådgivning till företag, organisationer och 
+offentlig sektor. Sparbanken erbjuder företagskunderna en företagsrådgivare som kontaktperson och 
+ingång till Sparbanken. Inom Företagsmarknaden har Sparbanken ca 3 000 kunder.  
+Geografiskt verksamhetsområde 
+Sparbanken bedriver verksamhet inom det geografiska verksamhetsområdet Västra Mälardalen.  
+Ekonomisk utveckling 
+Enligt Sparbankens reviderade årsredovisning för 2023 uppgick Sparbankens rörelseresultat till 
+253,5 miljoner kronor för räkenskapsåret 2023 vilket var en ökning med 111,9 miljoner kronor jämfört 
+med räkenskapsåret 2022. Den kraftigt förbättrade lönsamheten förklaras främst av ett ökat räntenetto 
+och en positiv utveckling av orealiserad värdeförändring inom nettoresultat av finansiella 
+transaktioner. 
+Vid utgången av räkenskapsåret 2023 uppgick balansomslutningen till 11 994,3 miljoner kronor vilket 
+var en ökning med 301,6 miljoner kronor jämfört med utgången av räkenskapsåret 2022. 
+Viktiga samarbetsavtal 
+Sparbanken har ett omfattande samarbete med Swedbank AB (publ) och dess dotterföretag vilket 
+regleras i ett samarbetsavtal. Avtalet omfattar bl.a. förmedling av hypotekslån till Swedbank Hypotek, 
+förmedling av sparande till Robur Fonder AB och samarbete kring produktsortiment och IT-stöd.
+
+--- Page 41 ---
+41(48) 
+ 
+Sparbanken är medlem i Sparbankernas Riksförbund (”SR”). SR är ett branschförbund för sparbanker 
+och sparbanksstiftelser. SR är remissinstans och förhandlingspart i ärenden av betydelse för 
+medlemsbankerna.  
+Kreditbetyg 
+Sparbanken erhöll i december 2023 det långsiktiga kreditbetyget (long-term rating) BBB+, det 
+kortsiktiga kreditbetyget (short-term rating) N3 och stabila utsikter (stable outlook) av ratinginstitutet 
+Nordic Credit Rating. Sparbanken har därmed erhållit ett kreditbetyg motsvarande ”Investment 
+Grade”. En officiell rating i kategorin ”Investment Grade” bedöms vara till godo för Sparbanken då 
+det möjliggör en förbättrad tillgång till kapitalmarknaden. Nordic Credit Rating är ett 
+kreditvärderingsinstitut etablerat inom EU och registrerat i enlighet med Europaparlamentets och 
+rådets förordning (EG) nr 1060/2009 av den 16 september 2009 om kreditvärderingsinstitut. 
+Bolagsstyrning 
+Sparbank som associationsform kännetecknas av att verksamheten bedrivs utan enskilt vinstintresse. 
+Sparbanken har inga ägare. Som representanter för insättarna har Sparbanken 48 huvudmän. Av dessa 
+väljs 7 av Arboga kommun, 4 av Kungsörs kommun, 13 av Köpings kommun medan återstoden väljs 
+av huvudmännen själva. Huvudmännen utövar sitt inflytande på sparbanksstämman som är 
+Sparbankens högsta beslutande organ. 
+Sparbanksstämman beslutar om tillsättning av styrelse och revisorer för Sparbanken med ledning av 
+förslag som Sparbankens valberedning tagit fram. Valberedningen är sparbanksstämmans organ för 
+beredning av stämmans beslut i tillsättningsfrågor. Valberedningen utgörs av Mats Landqvist som 
+sammankallande samt ledamöterna Annika Duan, Åsa Ignell, Mikael Jogevall och Tomas Olsson. Det 
+är valberedningens uppgift att komma med förslag till ledamöter i styrelsen samt förslag till arvode 
+uppdelat mellan ordförande, vice ordförande och övriga ledamöter. Sparbanksstämman väljer 
+styrelseordförande och övriga styrelseledamöter om inte annat beslutas av sparbanksstämman. 
+Styrelsen utser verkställande direktör som under styrelsens inseende ska leda verksamheten i 
+Sparbanken. 
+Styrelsen har ett revisionsutskott och till sitt förfogande en oberoende granskningsfunktion, 
+internrevisionen. Revisionsutskottet är ett beredande organ och ska genom sitt arbete ge styrelsen 
+ökade möjligheter till information om förslag på åtgärder i rutiner och organisation utifrån styrning, 
+riskhantering och kontroll samt tillförlitligheten och effektiviteten i den finansiella rapporteringen. 
+Revisionsutskottet leds av styrelsens vice ordförande och består även av styrelsens ordförande. 
+Adjungerande är VD, respektive riskägare, Riskkontrollfunktionen samt Compliancefunktionen.
+
+--- Page 42 ---
+42(48) 
+ 
+STYRELSE OCH LEDNING  
+Styrelse 
+Styrelsen består vid dagen för detta Prospekt av åtta ledamöter och en suppleant. I nedanstående tabell 
+visas namn, befattning, det år personen blev invald i styrelsen samt övriga uppdrag utöver Sparbanken. 
+Kontorsadressen för Sparbankens styrelseledamöter och bankledning är Stora Gatan 13, Köping och 
+postadressen är Box 904, 731 29 Köping. 
+Mikael Bohman, Ordförande (invald 2005) 
+Övriga uppdrag: Styrelseordförande i Västra Mälardalen i Samverkan ekonomisk förening, 
+Bankinstitutens Arbetsgivareorganisation, Västra Mälardalen i Samverkan AB, Portfolio Försäkra 
+AB, Handelskammaren Mälardalens Serviceaktiebolag och Tillsammans för Västra Mälardalen AB 
+samt styrelseledamot i Andra AP-fonden, Jodama AB, Buying i Västra Mälardalen AB, SB Fastighet 
+i Kungsör AB och Nadama Fastigheter AB. Ordförande i valberedningen för Sparbankernas 
+Försäkrings AB samt Indecap Holding AB samt ledamot i valberedning för Sparbankerna 
+Riksförbund. 
+Camilla Johnsson, Styrelseledamot och vice styrelseordförande (invald 2018) 
+Övriga uppdrag: Styrelseordförande i Neuro Rehabilitation Scandinavia AB, styrelseledamot och 
+verkställande direktör i Camp Pro Ortopedteknik AB, Camp Pro Scandinavia AB och Zizai by Cissi 
+& Morgan AB samt styrelseledamot i Svealands Risk och Compliance AB. 
+Staffan Larsson, Styrelseledamot (invald 2021) 
+Övriga uppdrag: Styrelseledamot i Advokatbolaget Larsson & Partners AB, Rekonstruktörs- och 
+konkursförvaltarkollegiet avd. Mellansverige samt styrelsesuppleant i Advokat Fagersand AB. 
+Jessica Öberg, Styrelseledamot (invald 2021) 
+Övriga uppdrag: Verkställande direktör i Combitech AB samt styrelseledamot och verkställande 
+direktör i dotterbolag till Combitech AB. Styrelseledamot i ideella föreningen Teknikföretagen och 
+Tekniktjänstearbetsgivarna samt branschföreningen för Säkerhets och FörsvarsFöretagen. 
+Anne Tjernberg, Styrelseledamot (invald 2005) 
+Övriga uppdrag: Styrelseledamot i Kultur- och fritidsnämnden för Köpings kommun, 
+kommunfullmäktige för Köpings kommun och direktionen för Vafabmiljö. 
+Johan Liljehult, Styrelseledamot (invald 2020) 
+Övriga uppdrag: Verkställande direktör i Åkerbo Härads Brandstodsbolag. Styrelseordförande i 
+Kmply AB och Stenkulla Vind AB. Styrelseledamot i Vilseberga Vind AB, &Flow Equity One AB 
+och Ripston AB.
+
+--- Page 43 ---
+43(48) 
+ 
+Mirja Herrdin, Styrelseledamot samt verkställande direktör (invald 2004) 
+Övriga uppdrag: Styrelseledamot i Portfolio Försäkra AB och Sparbankernas Service AB. 
+Styrelsesuppleant i Sparsam Administration Svealand AB och Anders Consulting Team AB. 
+Johan Grunditz, Styrelsesuppleant och vice verkställande direktör (invald 2022) 
+Övriga uppdrag: Styrelseordförande i SB Fastighet i Kungsör AB, Nadama Fastigheter AB och 
+Sparsam Administration Svealand AB. Styrelsesuppleant i Tillsammans för Västra Mälardalen AB. 
+Susanne Sirby, Styrelseledamot samt personalrepresentant (invald 2002) 
+Övriga uppdrag: - 
+Bankledning 
+I nedanstående tabell visas namn, nuvarande befattning samt övriga uppdrag utöver Sparbanken för 
+bankledningen i Sparbanken. 
+Mirja Herrdin, Verkställande direktör 
+Övriga uppdrag: Se uppdrag ovan. 
+Johan Grunditz, Vice verkställande direktör/Finanschef 
+Övriga uppdrag: Se uppdrag ovan. 
+Åsa Hedman, Chef Kommunikation, HR och Hållbarhet 
+Övriga uppdrag: Styrelseledamot Pastis Consulting AB 
+Ulrika Lundquist, Kreditchef 
+Övriga uppdrag: - 
+Anders Nordström, Rörelsechef 
+Övriga uppdrag: Styrelsesuppleant i Portfolio Försäkra AB, Nordström & Björk Holding AB och 
+Ikon Production AB. 
+Intressekonflikter 
+Det förekommer att ovanstående personer är kunder i Sparbanken och/eller äger andelar i eller har 
+uppdrag för Sparbankens företagskunder. I enlighet med Sparbankens interna regler rörande 
+intressekonflikter deltar sådana personer inte på något sätt i Sparbankens beslut eller beredning av 
+beslut som skulle kunna innebära en potentiell intressekonflikt. Utöver detta och såvitt Sparbanken 
+känner till förekommer inga andra intressekonflikter mellan Sparbankens intressen och ovanstående 
+personers privata intressen och/eller andra uppdrag.  
+Revisor och revision 
+Ernst & Young AB har varit Sparbankens revisor sedan årsstämman 2020. Huvudansvarig revisor är 
+Jens Bertling som är auktoriserad revisor och medlem i FAR (den svenska branschorganisationen för 
+redovisningskonsulter, revisorer och rådgivare). Postadressen till Ernst & Young AB är Box 7850, 103 
+99 Stockholm och besöksadressen är Hamngatan 26, 111 47 Stockholm.
+
+--- Page 44 ---
+44(48) 
+ 
+ALLMÄN INFORMATION 
+Beslut och ansvarsförsäkran 
+Sparbanken ansvarar för innehållet i Prospektet och enligt Sparbankens kännedom överensstämmer 
+den information som ges i Prospektet med sakförhållandena och ingen uppgift som sannolikt skulle 
+kunna påverka dess innebörd har utelämnats. I den omfattning som följer av lag ansvarar även 
+Sparbankens styrelse för innehållet i Prospektet och enligt styrelsens kännedom överensstämmer den 
+information som ges i Prospektet med sakförhållandena och ingen uppgift som sannolikt skulle kunna 
+påverka dess innebörd har utelämnats. 
+Nyligen inträffade händelser och betydande förändringar 
+Inga nyligen inträffade händelser har inträffat som är specifika för Sparbanken och som i väsentlig 
+utsträckning är relevanta för bedömningen av Sparbankens solvens. Inga väsentliga negativa 
+förändringar har ägt rum i Sparbankens framtidsutsikter sedan Sparbankens reviderade årsredovisning 
+för 2023 offentliggjordes och inga betydande förändringar har inträffat vad gäller Sparbankens 
+finansiella ställning och finansiella resultat sedan Sparbankens ej reviderade eller översiktligt 
+granskade delårsrapport för perioden 1 januari – 30 september 2024 offentliggjordes fram tills dagen 
+för detta Prospekt. 
+Myndighetsförfaranden, rättsliga förfaranden och skiljeförfaranden 
+Sparbanken är inte och har inte varit part i några myndighetsförfaranden, rättsliga förfaranden eller 
+skiljeförfaranden (inklusive förfaranden som ännu inte är avgjorda eller som enligt Sparbankens 
+kännedom riskerar att bli inledda) under de senaste tolv månaderna som haft eller skulle kunna få 
+betydande effekter på Sparbankens finansiella ställning eller lönsamhet. 
+Information om trender 
+Sparbanken känner inte till några kända trender, osäkerheter, krav, åtaganden eller händelser som med 
+rimlig sannolikhet kommer få en väsentlig inverkan på Sparbankens utsikter för innevarande 
+räkenskapsår. 
+Väsentliga avtal 
+Sparbanken har inga avtal av större betydelse som inte ingår i den löpande affärsverksamheten och 
+som kan leda till att Sparbanken tilldelas en rättighet eller åläggs en skyldighet som väsentligen kan 
+påverka Sparbankens förmåga att uppfylla sina förpliktelser gentemot innehavarna av de värdepapper 
+som emitteras. 
+Rådgivare 
+Emissionsinstitut och dess närstående har och kan komma att ha andra relationer till Sparbanken än de 
+som följer av deras roller under MTN-programmet. Ett Emissionsinstitut kan till exempel 
+tillhandahålla andra finansieringstjänster än MTN-programmet. Det kan därför inte garanteras att 
+intressekonflikter inte kommer att uppstå i framtiden. 
+Information från tredje part 
+Information i Prospektet som har anskaffats från en tredje part har återgivits korrekt och, såvitt 
+Sparbanken känner till och kan utröna av information som offentliggjorts av denna tredje part, har inga
+
+--- Page 45 ---
+45(48) 
+ 
+sakförhållanden utelämnats som skulle göra den återgivna informationen felaktig eller vilseledande. 
+Information lämnad av tredje part härrör från Sparbankens revisor. 
+Upprättande och registrering av Prospektet 
+Detta Prospekt har godkänts av Finansinspektionen, som behörig myndighet enligt förordning (EU) 
+2017/1129. Finansinspektionen godkänner Prospektet enbart i så måtto att det uppfyller de krav på 
+fullständighet, begriplighet och konsekvens som anges i förordning (EU) 2017/1129. Detta 
+godkännande bör inte betraktas som något slags stöd för den emittent som avses i Prospektet. Detta 
+godkännande bör inte betraktas som något slags stöd för kvaliteten på de värdepapper som avses i 
+Prospektet och investerare bör göra sin egen bedömning av huruvida det är lämpligt att investera i 
+dessa värdepapper. 
+Prospektets giltighetstid 
+Prospektet är giltigt i ett år efter Finansinspektionens godkännande av Prospektet och MTN kan ges ut 
+under Prospektets giltighetstid. Sparbanken har inga skyldigheter att tillhandahålla tillägg till 
+Prospektet i fall det uppkommer eller uppmärksammas nya omständigheter av betydelse, sakfel eller 
+väsentliga felaktigheter efter Prospektets giltighetstid. 
+Handlingar som är tillgängliga för inspektion 
+Kopior av följande handlingar hålls på begäran tillgängliga i pappersform på Sparbankens 
+huvudkontor under Prospektets giltighetstid, Stora Gatan 13, Köping, på vardagar under Sparbankens 
+ordinarie kontorstid och i elektronisk form på Sparbankens webbplats www . sparbankenvm . se.  
+• 
+Sparbankens registreringsbevis och reglemente, 
+• 
+Sparbankens reviderade årsredovisningar och revisionsberättelser för räkenskapsåren 2022 och 
+2023, 
+• 
+Sparbankens ej reviderade eller översiktligt granskade delårsrapport för perioden 1 januari – 
+30 september 2024, 
+• 
+Sparbankens bokslutskommuniké för räkenskapsåret 2024, årsredovisning för räkenskapsåret 2024 
+samt delårsrapporter för perioderna 1 januari – 31 mars 2025, 1 januari – 30 juni 2025 och 
+1 januari – 30 september 2025 efter att sådana finansiella rapporter har publicerats, 
+• 
+Tillsammans för Västra Mälardalen AB:s och SB Fastigheter i Kungsör AB:s oreviderade 
+årsredovisningar per den 31 december 2022 och 2023,1 
+• 
+Prospektet, inklusive eventuella tillägg till Prospektet samt Slutliga Villkor utgivna under 
+Prospektet, samt 
+• 
+Sparbankens Gröna Villkor (om gröna MTN har getts ut under detta Prospekt). 
+                                                          
+1 Kopior av dessa handlingar finns att tillgå så länge Prospektet är utestående enbart i pappersform på 
+Sparbankens huvudkontor.
+
+--- Page 46 ---
+46(48) 
+ 
+INFÖRLIVANDE AV INFORMATION 
+Historisk finansiell information 
+Sparbankens reviderade årsredovisningar per den 31 december 2022 och 2023 samt oreviderade 
+delårsrapport för perioden 1 januari – 30 september 2024, som har offentliggjorts tidigare och getts in 
+till Finansinspektionen i samband med ansökan om godkännande av Prospektet. Endast de delar av 
+Sparbankens finansiella rapporter som anges under rubriken ”Handlingar införlivade genom 
+hänvisning” nedan införlivas genom hänvisning enligt artikel 19 i Prospektförordningen och utgör en 
+del av Prospektet. De delar av Sparbankens finansiella rapporter som inte införlivas genom hänvisning 
+utgör inte del av Prospektet. 
+All finansiell information i Prospektet för räkenskapsåret 2023 eller per den 31 december 2023 härrör 
+från Sparbankens reviderade årsredovisningar för 2023. All finansiell information i Prospektet för 
+perioden 1 januari – 30 september 2024 eller per den 30 september 2024 härrör antingen från 
+Sparbankens ej översiktligt granskade delårsrapport för perioden 1 januari – 30 september 2024 eller 
+från Sparbankens interna finansiella information och har inte varit föremål för revison. 
+Redovisningsprinciper 
+Sparbankens årsredovisningar för 2022 och 2023 är upprättade enligt lag (1995:1559) om 
+årsredovisning i kreditinstitut och värdepappersbolag (”ÅRKL”) samt Finansinspektionens 
+föreskrifter och allmänna råd om Årsredovisning i kreditinstitut och värdepappersbolag (FFFS 
+2008:25) inklusive ändringsföreskrifter samt Rådet för finansiell rapporterings rekommendation 
+RFR 2. Redovisning för juridiska personer. Sparbankerna tillämpar därigenom s.k. lagbegränsad IFRS 
+och med detta avses standarder som har antagits för tillämpning med de begränsningar som följer av 
+RFR 2 och FFFS.  
+Sparbankens oreviderade delårsrapport för perioden 1 januari – 30 september 2024 är upprättad enligt 
+ÅRKL samt Finansinspektionens föreskrifter och allmänna råd om Årsredovisning i kreditinstitut och 
+värdepappersbolag (FFFS 2008:25) inklusive ändringsföreskrifter samt Rådet för finansiell 
+rapportering rekommendation RFR 2 (Redovisning för juridiska personer). Sparbankerna tillämpar 
+därigenom s k lagbegränsad IFRS och med detta avses standarder som har antagits för tillämpning 
+med de begränsningar som följer av RFR 2 och FFFS. 
+Revision av den årliga historiska finansiella informationen 
+Uppgifterna i Sparbankens årsredovisning för år 2022 och 2023 är granskade av Sparbankens revisor. 
+Sparbankens delårsrapport för perioden 1 januari – 30 september 2024 är inte reviderad eller 
+översiktligt granskad av Sparbankens revisor. Utöver revisionen av Sparbankens finansiella rapporter 
+enligt ovan har Sparbankens revisor inte reviderat eller granskat några delar av Prospektet. 
+Handlingar införlivade genom hänvisning 
+ 
+ 
+ 
+Sparbankens årsredovisning 2022 
+Sida
+Resultaträkning och totalresultat 
+15
+Balansräkning 
+16
+Rapport över förändringar i eget kapital 
+17
+Kassaflödesanalys 
+18
+
+--- Page 47 ---
+47(48) 
+ 
+Redovisningsprinciper 
+19-28
+Noter 
+19-62
+Revisionsberättelse 
+64-66
+Sparbankens årsredovisning 2023 
+Sida
+Resultaträkning och totalresultat 
+15
+Balansräkning 
+16
+Rapport över förändringar i eget kapital 
+17
+Kassaflödesanalys 
+18
+Redovisningsprinciper 
+19-28
+Noter 
+19-62
+Revisionsberättelse 
+64-66
+Sparbankens delårsrapport för perioden 1 januari – 30 september 2024 
+Sida
+Resultaträkning och totalresultat 
+13
+Balansräkning 
+15
+Rapport över förändringar i eget kapital 
+16
+Kassaflödesanalys 
+17
+Redovisningsprinciper 
+19
+Noter 
+19-37
+ 
+ 
+Ovan nämnda årsredovisningar och delårsrapport finns tillgängliga i elektronisk form på Sparbankens 
+webbplats: (https://sparbankenvm.se/om-oss/finansiell-information.html). 
+Införlivande av framtida finansiell information 
+Sparbanken är inte skyldigt att offentliggöra tillägg enligt artikel 23.1 i förordning (EU) 2017/1129 för 
+ny årlig finansiell information eller delårsinformation som offentliggörs under Grundprospektets 
+giltighetstid. Genom hänvisning införlivas varje rapport över totalresultatet, rapport över finansiell 
+ställning, rapport över förändringar i eget kapital, kassaflödesanalys, redovisningsprinciper, noter och 
+revisionsberättelse (såsom tillämpligt) i Sparbankens bokslutskommuniké för räkenskapsåret 2024, 
+årsredovisning för räkenskapsåret 2024 samt delårsrapporter för perioderna 1 januari – 31 mars 2025, 
+1 januari – 30 juni 2025 och 1 januari – 30 september 2025 som kommer att göras tillgänglig i 
+elektronisk 
+form 
+på 
+Sparbankens 
+webbplats 
+(www.sparbankenvm.se/om-oss/finansiell-
+information.html) under Grundprospektets giltighetstid. Den nya finansiella informationen kommer 
+publiceras på de datum som framgår av Sparbankens finansiella kalender som finns tillgänglig på 
+Sparbankens webbplats (www. sparbankenvm .se/om-oss/finansiell-information.html), eller sådant 
+annat datum som offentliggörs genom pressmeddelande. Endast årsredovisningen för år 2024 måste 
+revideras av Sparbankens revisor, och övrig ny finansiell information kan därför komma att varken 
+vara föremål för revidering eller översiktlig granskning av revisor.
+
+--- Page 48 ---
+48(48) 
+ 
+KONTAKTUPPGIFTER 
+Emittenten 
+Sparbanken Västra Mälardalen 
+Stora gatan 13 
+Box 904 
+SE-731 29 Köping 
+Telefon: 0771-55 00 55 
+www .  sparbankenvm . se 
+Ledarbank 
+Swedbank AB (publ) 
+Corporates & Institutions 
+SE-105 34 Stockholm 
+Telefon: 08-5859 0000 
+www .  swedbank . se 
+Bolagets revisor 
+Ernst & Young Sweden AB  
+Box 7850, 103 99 Stockholm 
+Tel: 08-520 590 00 
+Emissionsinstitut för köp och 
+försäljning 
+Swedbank AB (publ) 
+Corporates & Institutions 
+SE-105 34 Stockholm 
+MTN-Desk 08-700 99 85 
+Stockholm 08-700 99 98 
+Göteborg 031-739 78 20 
+www .  swedbank . se 
+ 
+Nordea Bank Abp 
+Nordea Markets 
+Smålandsgatan 17 
+SE-105 71 Stockholm 
+Telefon: 08 407 90 85 / 08 407 91 11 /  
+08 407 92 03 
+www .  nordeamarkets . com/sv 
+ 
+Danske Bank A/S, Danmark, Sverige Filial 
+Att: DCM admin 
+PO Box 7523 
+SE-103 92 Stockholm 
+Telefon: 08-568 81 501 
+www .  danskebank . se 
+ 
+ABG Sundal Collier ASA 
+Att: Compliance 
+Postboks 1444 
+0115 Oslo, Norge 
+Telefon: +47 22 01 60 00 / 08-566 28 600 
+www .  abgsc . com 
+ 
+ 
+ 
+Legal rådgivare till Sparbanken 
+Gernandt & Danielsson Advokatbyrå KB 
+Hamngatan 2  
+Box 5747, 114 87 Stockholm 
+Tel: 08-670 66 00 
+Värdepapperscentral 
+Euroclear Sweden AB  
+Klarabergsviadukten 63  
+Box 191, 101 23 Stockholm 
+Tel: 08-402 90 00

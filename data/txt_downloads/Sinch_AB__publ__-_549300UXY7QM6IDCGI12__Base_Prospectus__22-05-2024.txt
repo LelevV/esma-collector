@@ -1,0 +1,2702 @@
+--- Page 1 ---
+This base prospectus was approved by the Swedish Financial Supervisory Authority on 22 May 2024. The validity of 
+this base prospectus is twelve (12) months after the date of its approval, provided that it is supplemented when required 
+pursuant to Article 23 of Regulation (EU) 2017/1129 of the European Parliament and of the Council. The obligation to 
+supplement this base prospectus in the event of significant new factors, material mistakes or material inaccuracies will 
+not apply when this base prospectus is no longer valid. 
+ 
+ 
+ 
+SINCH AB (PUBL) 
+BASE PROSPECTUS 
+MAXIMUM SEK 6,000,000,000 MTN PROGRAMME (OR THE 
+EQUIVALENT AMOUNT IN EUR) 
+ 
+22 May 2024 
+ 
+Arranger 
+Skandinaviska Enskilda banken AB (publ) 
+Dealers 
+Nordea Bank Abp 
+Danske Bank A/S Danmark, Sverige Filial 
+Skandinaviska Enskilda banken AB (publ) 
+Svenska Handelsbanken AB (publ) 
+Swedbank AB (publ)
+
+--- Page 2 ---
+IMPORTANT INFORMATION
+This base prospectus (the “Prospectus”) has been prepared by Sinch AB (publ), Swedish reg. no. 556882-8908 (“Sinch”, the “Company” or the “Issuer” or together 
+with its direct and indirect subsidiaries, unless otherwise indicated by the context, the “Group” and each a “Group Company”), in relation to the programme for 
+issuances of notes in Swedish kronor (“SEK”) or euro (“EUR”) with different maturities but with a minimum term of one (1) year (the “Notes”, “MTN” or the “MTN 
+Programme”). Notes may be issued in a minimal nominal amount of EUR 100,000 or the equivalent amount in SEK. Sinch may at one or more occasions issue Notes 
+under this MTN Programme until the total outstanding nominal amount under such issues equals SEK 6,000,000,000 or the equivalent amount in EUR. This Prospectus 
+has been approved and registered by the Swedish Financial Supervisory Authority (Sw. Finansinspektionen) (the “SFSA”) pursuant to Chapter II and Article 20 in 
+the Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the 
+public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (the “Prospectus Regulation”) and is a base prospectus pursuant to Article 
+8 in the Prospectus Regulation. Furthermore, Annexes 7 and 15 of the Commission Delegated Regulation (EU) 2019/980 supplementing Regulation (EU) 2017/1129 
+of the European Parliament and of the Council as regards the format, content, scrutiny and approval of the prospectus to be published when securities are offered to 
+the public or admitted to trading on a regulated market, and repealing Commission Regulation (EC) No 809/2004, form the basis for the content of this Prospectus. 
+Approval and registration in accordance with the Prospectus Regulation does not constitute any guarantee from the SFSA that the information in this Prospectus is 
+accurate or complete. 
+Concepts and terms defined in the general terms and conditions and conditions for the MTN Programme (the “General Terms and Conditions”) and the final terms 
+and conditions for the applicable Notes issue under the MTN Programme (the “Final Terms”) are used with the same meaning throughout the entire Prospectus unless 
+otherwise is explicitly understood from the context or otherwise defined in this Prospectus. This Prospectus is not a recommendation to subscribe for or to acquire 
+Notes issued under the MTN Programme. Any recipients of this Prospectus and/or Final Terms must make their own assessment of the Issuer and the Group and this 
+Prospectus shall be read in conjunction with any documents incorporated by reference, the applicable Final Terms and any supplements to this Prospectus. Unless 
+otherwise explicitly stated, no information contained in this Prospectus has been audited or reviewed by the Issuer’s auditors. Certain financial information in this 
+Prospectus may have been rounded off and, as a result, the numerical figures shown as totals in this Prospectus may vary slightly from the exact arithmetic aggregation 
+of the figures that precede them. 
+This Prospectus may not be distributed in the any jurisdiction where such distribution or disposal requires additional prospectus, registration or additional measures 
+or is contrary to the rules and regulations in such jurisdiction. Persons into whose possession this Prospectus may come are required to inform themselves about, and 
+comply with, such restrictions. Any failure to comply with such restrictions may result in a violation of applicable securities regulations. The Notes have not been and 
+will not be registered under the U.S. Securities Act of 1933, as amended (the “Securities Act”), or any U.S. state securities laws and are subject to U.S. tax law 
+requirements. The Notes may not be offered, sold or delivered within the United States of America or to, or for the account or benefit of, U.S. persons (as defined in 
+Rule 902 of Regulation S under the Securities Act).  
+No person has been authorised to provide any information or make any statements other than those contained in this Prospectus. Should such information or statements 
+nevertheless be furnished, it/they must not be relied upon as having been authorised or approved by the Issuer and the Issuer assumes no responsibility for such 
+information nor statements. Neither the publication of this Prospectus nor the offering, sale or delivery of any Notes implies that the information in this Prospectus is 
+correct and current as at any other date than the date of this Prospectus or that there have not been any changes in the Issuer’s or the Group’s business since the date 
+of this Prospectus. If the information in this Prospectus becomes subject to any material change, such material change will be made public in accordance with the 
+provisions governing the publication of supplements to prospectuses in the Prospectus Regulation. 
+In respect of the Notes, the relevant Dealer(s) will undertake a target market assessment in respect of the Notes and determine the appropriate channels for the Notes. 
+Any person subsequently offering, selling or recommending the Notes (a “distributor”) should take into consideration the target market assessment. However, a 
+distributor subject to Directive 2014/65/EU (as amended, “MiFID II”) is responsible for undertaking its own target market assessment in respect of the Notes (either 
+by adopting or refining the target market assessment) and determining the appropriate distribution channels. For the purpose of the MiFID Product Governance rules 
+under EU Delegated Directive 2017/593 (the “MiFID Product Governance Rules”), a determination will be made in relation to each issue as to whether any Dealer(s) 
+participating in the issue of Notes is a manufacturer for the purpose of the MiFID Product Governance Rules. 
+This Prospectus may contain forward-looking statements and assumptions regarding future market conditions, operations and results. Such forward-looking statements 
+and information are based on the beliefs of the Issuer’s management or are assumptions based on information available to the Group. The words “considers”, “intends”, 
+“deems”, “expects”, “anticipates”, “plans” and similar expressions indicate some of these forward-looking statements. Other such statements may be identified from 
+the context. Any forward-looking statements in this Prospectus involve known and unknown risks, uncertainties and other factors which may cause the actual results, 
+performances or achievements of the Group to be materially different from any future results, performances or achievements expressed or implied by such forward-
+looking statements. Further, such forward-looking statements are based on numerous assumptions regarding the Group’s present and future business strategies and 
+the environment in which the Group will operate in the future. Although the Issuer believes that the forecasts or indications of future results, performances and 
+achievements are based on reasonable assumptions and expectations, they involve uncertainties and are subject to certain risks, the occurrence of which could cause 
+actual results to differ materially from those predicted in the forward-looking statements and from past results, performances or achievements. Further, actual events 
+and financial outcomes may differ significantly from what is described in such statements as a result of the materialisation of risks and other factors affecting the 
+Group’s operations. Such factors of a significant nature are mentioned in Section “Risk factors” below. 
+This Prospectus is governed by Swedish law. Disputes concerning, or related to, the contents of this Prospectus shall be subject to the exclusive jurisdiction of the 
+courts of Sweden. The District Court of Stockholm (Sw. Stockholms tingsrätt) shall be the court of first instance. The Prospectus is available at the SFSA’s website 
+(www .fi. se) and the Issuer’s website (www .sinch .com).
+
+--- Page 3 ---
+TABLE OF CONTENTS
+ 
+DESCRIPTION OF THE MTN PROGRAMME .........................................................................................1 
+RISK FACTORS .......................................................................................................................................6 
+GENERAL TERMS AND CONDITIONS ............................................................................................... 16 
+FORM OF FINAL TERMS ..................................................................................................................... 34 
+DESCRIPTION OF THE ISSUER AND THE GROUP .......................................................................... 38 
+OWNERSHIP STRUCTURE ................................................................................................................. 42 
+THE BOARD OF DIRECTORS, EXECUTIVE MANAGEMENT AND AUDITORS ............................... 43 
+SUPPLEMENTARY INFORMATION .................................................................................................... 48 
+FINANCIAL INFORMATION.................................................................................................................. 49 
+ADDRESSES ........................................................................................................................................ 51
+
+--- Page 4 ---
+1 
+ 
+ 
+DESCRIPTION OF THE MTN PROGRAMME 
+This section contains a general and broad description of the MTN Programme including the Notes. It does not 
+claim to be comprehensive or cover all details of the MTN Programme or the Notes and potential investors should 
+therefore carefully consider this Prospectus as a whole, including the documents incorporated by reference, the 
+full General Terms and Conditions for the Notes included under Section “General Terms and Conditions” and the 
+applicable Final Terms for the relevant Loan, before a decision is made to invest in the Notes. 
+General 
+ 
+Issuer ...........................................  
+Sinch AB (publ), a public limited liability company incorporated under the
+laws of Sweden with registration number 556882-8908. 
+Resolutions, authorisations and 
+approvals .....................................  
+The Issuer’s board of directors resolved to establish this MTN Programme on
+6 May 2024. 
+General information.....................  
+The Issuer has established this MTN Programme for the purpose of issuing
+Notes up to a total amount of SEK 6,000,000,000 (or equivalent amount in
+EUR) or such other amount that the Dealers and the Issuer may agree. The
+Notes may be issued with different maturities but with a term of not less than
+one (1) year. The Notes may be issued in SEK or EUR with fixed interest
+rate, floating interest rate or zero coupon. The Notes may not be issued with
+a Nominal Amount of less than EUR 100,000 (or equivalent amount in SEK).
+Each Loan is given a specific loan identification number (ISIN) in the
+applicable Final Terms. 
+General Terms and Conditions 
+and the Final Terms .....................  
+Notes issued under this MTN Programme are governed by the General Terms
+and Conditions together with the applicable Final Terms. The General Terms
+and Conditions apply to all Notes issued under this MTN Programme. The
+applicable Final Terms in respect of an issue of Notes are specified in relation
+to the Notes on the basis of the form of final terms set out in Section “Form
+of the Final Terms” below. The applicable Final Terms must be read together
+with the General Terms and Conditions. The Final Terms specify, among
+other things, the Issue Date, the basis for interest calculation, possible rights
+of early redemption and the Maturity Date. The Final Terms in relation to an
+offer to invest in the Notes or in relation to Notes that are admitted to trading
+on a Regulated Market will be submitted for registration by the Swedish
+Financial Supervisory Authority (Sw. Finansinspektionen) (the “SFSA”) as
+soon as possible and in any event prior to an application is made for admission
+to trading of the relevant Notes on a Regulated Market. Final Terms in
+relation to each issue of Notes issued under this MTN Programme will also
+be made available on the Issuer’s website and the Agent’s website. 
+Arranger and Dealers ...................  
+The Issuer has appointed Skandinaviska Enskilda Banken AB (publ) as
+Arranger  under the MTN Programme and Skandinaviska Enskilda Banken
+AB (publ), Danske Bank A/S Danmark, Sverige Filial, Nordea Bank Abp,
+Svenska Handelsbanken AB (publ) and Swedbank AB (publ) as Dealers
+under the MTN Programme. Additional Dealers may be appointed and
+
+--- Page 5 ---
+2 
+ 
+Dealers may withdraw from its appointment. The Dealers have not verified
+and are not responsible for the contents of this Prospectus. 
+Nature of the Notes ......................  
+The Notes constitute unilateral debt obligation regarding a Nominal Amount
+that has been registered under the Swedish Financial Instruments Accounts
+Act (lag (1998:1479) om värdepapperscentraler och kontoföring av
+finansiella instrument), and which forms part of a Loan issued by the
+Company under this MTN Programme. 
+Clearing and settlement ...............  
+The Notes are issued in dematerialised book-entry form and registered on a
+Securities Account on behalf of the relevant Noteholder. This means that the
+Notes are registered on behalf of the Noteholders on a Securities Account.
+The Notes are maintained by Euroclear Sweden AB, Swedish reg. no.
+556112-8074, P.O. Box 191, SE-101 23 Stockholm, Sweden, (“Euroclear”)
+pursuant to the Swedish Financial Instruments Accounts Act (lag
+(1998:1479) om värdepapperscentraler och kontoföring av finansiella
+instrument) (or any replacing central securities depository). Registration
+requests relating to the Notes shall be directed to an Account Operator. No
+physical Notes have been or will be issued. Payment of principal, interest and,
+if applicable any withholding tax will be made through Euroclear’s book-
+entry system. 
+Status of the Notes .......................  
+The Notes constitute direct, general, unconditional, unsubordinated and
+unsecured obligations of the Issuer and shall at all times rank at least pari
+passu with all other direct, general, unconditional, unsubordinated and
+unsecured obligations of the  Issuer , except those obligations which are
+mandatorily preferred by law, and without any preference among them. 
+Use of Proceeds ...........................  
+The proceeds received by the Issuer under this MTN Programme shall be
+applied towards general corporate purposes of the Group or as specified in
+the Final Terms for the applicable Loan. 
+Price and interest .........................  
+The price of and the interest applicable to the Notes cannot be established in
+advance but is set in connection with the relevant issue on the basis of
+prevailing market conditions. The Notes may be issued at a price equivalent
+to, below or above the relevant Nominal Amount. The interest applicable to
+the Notes depends on several factors, one of which is the interest rate
+applicable to other investments with a corresponding term. 
+Sales ............................................  
+Primary sales will take place through the Dealers receiving issue and trade
+instructions from the Issuer and the relevant investors. Payments for and
+delivery of the Notes takes place through the  Issuing Dealer within Euroclear.
+Tax ...............................................  
+Euroclear deducts withholding tax, presently thirty (30.00) per cent. on
+interest paid to private individuals resident in Sweden as well as to Swedish
+estates of inheritance. 
+The above description does not constitute tax advice. The description is not
+exhaustive, but it is rather intended as general information on certain
+applicable rules. The tax legislation of the Noteholder’s member state may
+also have an impact on the income from the Notes. Noteholders must assess
+the tax consequences that may arise and consult a tax adviser in the process.
+
+--- Page 6 ---
+3 
+ 
+Transfer restrictions .....................  
+The Notes are freely transferable. The Noteholders may be subject to
+purchase or transfer restrictions with regard to the Notes under local laws to
+which such Noteholder may be subject (due to, e.g., its nationality, its
+residency, its registered address or its place(s) of business). The Notes have
+not been, and will not be, registered under the Securities Act or the securities
+laws of any other jurisdiction. Upon a transfer of Notes, any rights and
+obligations under the General Terms and Conditions and the applicable Final
+Terms relating to such Notes are automatically transferred to the transferee.
+Admission to trading ...................  
+Application for admission to trading of the Notes on the corporate bond list
+of Nasdaq Stockholm or any other Regulated Market will be made in
+accordance with the applicable Final Terms. The applicable Regulated
+Market will carry out its own assessment of the application and will approve
+or reject the admission to trading. 
+The Issuer is responsible for all costs associated with the admission to trading
+of Notes under this MTN Programme such as the costs of producing a
+prospectus, admission to trading, documentation and fees to Euroclear and
+the applicable Regulated Market. 
+Governing law .............................  
+This MTN Programme, the General Terms and Conditions, the applicable
+Final Terms and any non-contractual obligations arising out of or in
+connection therewith are governed by Swedish law. Disputes shall be settled
+by Swedish courts. The District Court of Stockholm (Sw. Stockholms
+tingsrätt) shall be the court of first instance. 
+Time-bar ......................................  
+The right to receive repayment of the principal of the Notes shall be time-
+barred and become void ten (10) years from the relevant Maturity Date. The
+right to receive payment of Interest (excluding any capitalised Interest) shall
+be time-barred and become void three (3) years from the relevant due date for
+payment. Where period of limitation is duly interrupted, a new period of
+limitation of ten (10) years will commence in accordance with the Swedish
+Act on Limitation (Sw. preskriptionslagen (1981:130)). 
+Risk factors ..................................  
+Investing in the Notes involves substantial risks and prospective investors
+should refer to Section “Risk Factors” below for a discussion of certain
+factors that they should carefully consider before deciding to invest in the
+Notes. 
+The Notes may not be a suitable investment for all investors and each 
+potential investor in the Notes must determine the suitability of that 
+investment in light of its own circumstances. In particular, each potential 
+investor should: 
+(a) 
+have sufficient knowledge and experience to make a meaningful 
+evaluation of the Notes, the merits and risks of investing in the 
+Notes and the information contained or incorporated by reference 
+in this Prospectus or any applicable supplement; 
+(b) 
+have access to, and knowledge of, appropriate analytical tools to 
+evaluate, in the context of its particular financial situation, an 
+investment in the Notes and the impact other Notes will have on its 
+overall investment portfolio;
+
+--- Page 7 ---
+4 
+ 
+(c) 
+have sufficient financial resources and liquidity to bear all of the 
+risks of an investment in the Notes; 
+(d) 
+understand thoroughly the General Terms and Conditions and the 
+applicable Final Terms; and 
+(e) 
+be able to evaluate (either alone or with the help of a financial 
+advisor) possible scenarios for economic, interest rate and other 
+factors that may affect its investment and its ability to bear the 
+applicable risks. 
+Personal Data ...............................  
+The Issuer and the Administrative Agent may collect and process personal
+data relating to the Noteholders. The processing of personal data is based on
+the legitimate interest of the Issuer and the Administrative Agent in order to
+exercise its respective rights and fulfil its respective obligations in accordance
+with the Notes, as well as the Issuer’s and the Administrative Agent’s
+obligations pursuant to applicable legislation. Collected personal data will
+only be stored as long as necessary based on the purpose of the processing,
+unless if otherwise is required or permitted by law. For more information
+regarding the processing of personal data, visit the Issuer’s or respective
+Administrative Agent’s website, or contact respective party for such
+information. 
+Product description 
+ 
+This section contains a general description of the constructions and terms applicable to an issue of Notes under 
+this MTN Programme. The final constructions and terms of each Notes are set out in the applicable Final Terms. 
+Repayment and redemption .........  
+The Nominal Amount of the Notes (together with accrued interest, if any) 
+falls due for repayment on the Maturity Date as specified in the Final Terms. 
+Should the Maturity Date fall on a date which is not a Business Day, the 
+Notes will be repaid on the following Business Day. 
+Interest construction ....................  
+Under this MTN Programme and in accordance with Clause 6 (Interest) of 
+the General Terms and Conditions, the Notes may be issued with fixed 
+interest rate, floating interest rate or zero coupon. The applicable interest 
+rate is specified in the applicable Final Terms. 
+Fixed interest rate ........................  
+For Notes with a fixed interest rate, interest accrues in accordance with the 
+rate specified in the applicable Final Terms from (but excluding) the Interest 
+Commencement Date, up to (and including) the relevant Maturity Date. 
+Accrued interest for Notes with a fixed interest rate shall be paid in arrears 
+on each Interest Payment Date and is calculated using the Day Count 
+Convention specified in the applicable Final Terms. 
+Floating interest rate ....................  
+For Notes with a floating interest rate, interest accrues in accordance with 
+the rate specified in the applicable Final Terms from (but excluding) the 
+Interest Commencement Date, up to (and including) the relevant Maturity 
+Date. 
+The interest rate for Notes with a floating interest rate is calculated by the 
+Administrative Agent on the respective Interest Determination Date as the 
+sum of the Base Rate and the Margin for the relevant period, adjusted for 
+the application of Section 13 (Replacement of Base Rate) of the Terms and
+
+--- Page 8 ---
+5 
+ 
+ 
+ 
+ 
+Conditions. If the calculation of the interest rate entails a value lower than 
+zero, the interest rate will be considered to be zero. Accrued interest for 
+Notes shall be paid in arrears on each Interest Payment Date and is 
+calculated using the Day Count Convention specified in the applicable Final 
+Terms. 
+Zero coupon .................................  
+If the Loan is specified as a zero coupon it bears no interest. Loans with zero 
+coupon may be issued at a discount, par or premium. 
+European Benchmark Regulation  
+Floating interest payable on Notes issued under this MTN Programme may
+be calculated by reference to certain benchmarks, being STIBOR and
+EURIBOR, as defined in the General Terms and Conditions (however subject
+to Clause 13 (Replacement of Base Rate)). EURIBOR is provided by the
+European Money Market Institute and STIBOR is provided by Swedish
+Financial Benchmark Facility AB. 
+Should a Base Rate Event occur in accordance with Clause 13 (Replacement
+of Base Rate), certain fall-back provisions will be effectuated securing that
+an Alternative Base Rate or Successor Base Rate is appointed in order to
+maintain transparency and predictability in the calculation metrics of relevant
+benchmarks for Notes bearing floating rate interest. 
+The European Money Market Institute and Swedish Financial Benchmark
+Facility are registered in the register of administrators and benchmarks
+maintained by the European Securities and Markets Authority (ESMA)
+pursuant to Article 36 of Regulation (EU) 2016/1011 on indices used as
+benchmarks in financial instruments and financial contracts or to measure the
+performance of investment funds (the “Benchmark Regulation”). 
+Day Count Convention ................  
+Unless otherwise specified in the relevant Final Terms, the following Day
+Count Conventions will be used for the calculation of interest under this MTN
+Programme. 
+30/360: The calculation is based on a year of 360 days divided into twelve
+(12) months of thirty (30) days each and in case of a fraction of a month using
+the actual number of days of the month that have passed. 
+Actual/360: The calculation is based on the actual number of days elapsed in
+the relevant Interest Period, divided by 360. 
+Undertakings 
+ 
+Certain undertakings ....................  
+The General Terms and Conditions contain a number of undertakings that
+restrict the ability of the Issuer and other Group Companies, including, among
+others: 
+• 
+restrictions on changing the nature of business; 
+• 
+restriction on issuing certain market loans; and 
+• 
+undertaking to admit Loans on a Regulated Market. 
+Each of these undertakings may be subject to significant exceptions and
+qualifications. See the General Terms and Conditions for more information.
+
+--- Page 9 ---
+6 
+ 
+RISK FACTORS 
+The purpose of this section is to enable a potential investor to assess the relevant risks related to their potential 
+investment in the Notes in order to make an informed investment decision. The risk factors set forth below are 
+therefore limited to risks that are material and specific to the Issuer, the Group and the Notes in the opinion of the 
+Issuer in accordance with Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 
+2017. The manner in which the Issuer, the Group and the Notes are affected by each risk factor is illustrated by 
+way of an evaluation of the materiality of the relevant risk factor based on the probability of it occurring and the 
+expected magnitude of its negative impact. The risk factors in a category are presented in order of materiality with 
+the most material risk factors being presented first under that category. 
+RISK FACTORS SPECIFIC AND MATERIAL TO THE ISSUER AND THE 
+GROUP 
+Risks related to the Group’s business activities and industry 
+Risks relating to acquisitions 
+Acquiring closely related businesses is an important component of the Group’s strategy and the industry in which 
+the Group operates is undergoing rapid consolidation. As a result, the Group has carried out 16 acquisitions since 
+the IPO in 2015. The Group do business in a global but fragmented industry defined by rapid technological 
+advances and a changing regulatory landscape. Effective digital customer engagement is becoming increasingly 
+business critical and a good digital customer experience is essential to business competitiveness. As a consequence 
+of a more intense focus on regulations related to GDPR and data storage, it has become more attractive to acquire 
+local and regional enterprise messaging vendors who have built successful businesses with strong customer 
+relationships but lacks the scale and financial strength required to develop a complete cloud communications 
+services (CPaaS) offering. By acquiring such enterprises the Group may reach customers in new geographies and 
+may swiftly build a global presence. 
+The Group’s ability to carry out acquisitions and maintain growth is dependent on the Group’s ability to, inter 
+alia, identify suitable and attractive acquisition targets, conduct appropriate due diligence, negotiate transactions 
+on favorable terms and ultimately complete such acquisitions. Also, the increased competition facing the Group 
+for attractive acquisition targets, as the Group operate in a rapidly developing and highly competitive area of 
+operations, could increase the purchase price of  attractive targets. Should the Group not be able to find attractive 
+acquisition targets or opportunities on favorable terms or at all, it could adversely impact the Group’s growth and 
+consequently, going forward, its profitability.  
+Risks relating to acquired assets 
+Acquisitions of suitable targets form an important part of the Group’s growth strategy. Prior and future acquisitions 
+pertain inherent risks related to, inter alia, changes in debt levels, contingent liabilities in relation to financing, tax 
+and otherwise; maintaining the acquired businesses’ customer relationships; and involvement in or incurrence of 
+claims in relation to disputes or legal, regulatory, contractual and other issues. In particular, and as shown in 
+historical acquisitions, amounts such as expected earn out payments or taxes, recognized as balance sheet liabilities 
+in the preliminary acquisition analyses may need to be adjusted, and any acquired asset may fail to meet expected 
+performance targets, resulting in an impairment of goodwill.  
+In connection with any acquisition or investment, the Group may incur debt, amortisation expenses relating to 
+intangible assets, large and immediate write-downs and assume liabilities. If the Group is not able to realise the 
+anticipated benefits or the expected return on its investments or acquisitions, or is unable to complete acquisitions 
+or integrate the operations, software, technologies or personnel gained through any such acquisition, it could have 
+a materially adverse effect on the Group’s results of operations.
+
+--- Page 10 ---
+7 
+ 
+Risks relating to integration 
+The Group acquires businesses that it believes represent substantial intrinsic value and additional value after 
+synergies are realized. The Group’s growth is therefore dependent on successful integration of made acquisitions. 
+Less successful integrations may prevent positive synergies effects from being realized. Key integration aspects 
+involve integrating human resources, company culture, processes, data and the various support systems that are 
+needed to manage products, customers and administration, for example, in the right way and at the right time. The 
+integration is also affected by factors including the size of the acquisition, the number of acquisitions being 
+integrated, the geographical distribution of the acquisitions and the work required to carry out the integration. 
+Should the Group not be able to achieve significant cost synergies by migrating acquired customers and suppliers 
+to the Group’s common, global technology platforms for messaging and voice calls or not be able to distribute 
+fixed costs across higher transaction volumes and achieve higher levels of service with competitive pricing and 
+improved profitability relating to the Group’s web-based software, it could result in increased costs, loss of 
+revenues and adversely impact the Group’s results. 
+Risks relating to IT security, cyber attacks, scams and frauds 
+The Group offers cloud services and both its services and the infrastructure are exposed to third-party attempts 
+and threats to breach its communications platform, software, network and data security and third-parties’ attempts 
+to take advantage of other security vulnerabilities. Information technology security threats can take various forms, 
+both existing and novel, including computer viruses, overload attacks and/or attacks through malicious software 
+aimed at extortion that affect the performance of the Group’s systems in various ways and may lead to downtime. 
+Security threats may also be caused by employee error or various means of unauthorised access to the Group’s 
+internal systems or data or the data of its customers. As techniques used to obtain unauthorised access, or to 
+sabotage systems, change frequently and are generally not recognised until launched against a target, there is a risk 
+that the Group will be unable to anticipate these techniques or to implement adequate preventative measures. This 
+could lead to breaches of the Group’s network or data security, disruptions of service, solutions and internal 
+systems, interruptions in operations, or harm to the Group’s competitive position from the compromise of 
+confidential information or trade secrets. 
+Customers using the Group’s services and solutions rely on the security of the Group’s network and infrastructure 
+for achieving reliable service and the protection of their data. Should this information be subject to computer break-
+ins, theft and other improper activity, it could jeopardise the security of information handled by the Group’s 
+services and solutions, causing interruptions in operations and lead to privacy incidents. Such actions, irrespective 
+of whether successful in breaching the Group’s security controls, could expose the Group to litigation, regulatory 
+and contractual fines, loss of customers, damage to the Group’s reputation, and would have a materially adverse 
+effect on the Group’s business. 
+There is also a risk that persons using the Group’s services and solutions do not comply with laws and regulations 
+and that they conduct their business in an unethical manner or for the purpose of committing frauds. Varieties of 
+scams may also occur and involve artificially inflating traffic or communications aimed at cheating individuals of 
+their money which could lead to litigation and/or affect the reputation of the industry and the Group. If it would 
+come to public attention that persons using the Group’s services and solutions have conducted fraudulent activities 
+or in in breach of applicable laws or regulations, there is thus a risk that public perception of the Group could be 
+damaged and that this would cause the Group’s customers to choose other services providers which could result 
+in a decreased market share.  
+Should any of the above risks materialise, it may adversely impact the Group’s systems, operations and reputation. 
+Risk relating to technology systems and infrastructure  
+The Group relies heavily on its technology systems and infrastructure in providing its services and solutions to its 
+customers. Damage to, or the failure of, the Group’s technology systems, infrastructure or software would severely 
+interrupt the Group’s business. The Group’s systems and infrastructure are also vulnerable to damage and 
+interruption from, among other things, power loss, transmission cable cuts and other telecommunications failures.
+
+--- Page 11 ---
+8 
+ 
+Systems failures or delays could, depending on its severity, significantly disrupt the Group’s business or ability to 
+process transactions and communications through its communications platform, which could result in loss of 
+revenue and current and potential customers as well as impaired customer relations, which could have a materially 
+adverse effect on the Group’s business and reputation. 
+The services and solutions that the Group provides to its customers are inherently complex and may contain 
+material defects or errors. Any defects either in functionality or that cause interruptions in the availability of the 
+Group’s services and solutions, including user error, could result in the loss of or delayed market acceptance and 
+use of the Group’s services and solutions, breach of warranty claims, issuance of sales credits or refunds for prepaid 
+amounts related to unused services, loss of customers, diversion of development and customer service resources 
+and harm to the Group’s reputation. Furthermore, the availability or performance of the Group’s services and 
+solutions could be adversely affected by several factors, including its customers’ inability to access the internet, 
+the mobile signal and connectivity of its customers’ end users, the failure of the Group’s technology systems and 
+infrastructure, security breaches or variability in customer traffic volumes. In addition to potential liability, if the 
+Group experiences interruptions in the availability of its services and solutions, the Group’s reputation may be 
+adversely affected, which could result in loss of customers. Accordingly, failures, defects and other problems 
+relating to the Group’s services and solutions could have a materially adverse effect on Group’s business and 
+reputation. 
+Risk relating to new technology  
+The Group provides communication services based on several technologies with various advantages and 
+drawbacks. The Group’s segments Messaging and Voice extensively use operator-based standards, such as SMS. 
+The main advantage is that such operator-based standards work on every mobile phone globally. There are, 
+however, alternative technologies and services that can also be used to send texts and connect voice calls. The 
+standards that large parts of the Group’s business are based upon could be replaced by one or more solutions 
+launched by leading global software and mobile developers, which could have a negative effect on the Group’s 
+business. 
+The Group must also manage its technology systems and infrastructure in order to meet changes in demands by 
+customers and the evolution of its services and solutions, including the anticipated expansion of use by existing 
+customers and the provision of services to new customers. Increases in the number of organisations, in particular 
+large enterprises that use the Group’s services as a large component of their communication strategies, could 
+require significant investments by the Group. If the Group does not accurately predict, manage and scale its 
+technology systems and infrastructure requirements, including the capacity requirements with respect to its server 
+centres, its existing or future customers may experience service outages or data loss resulting from the failure or 
+disruption of the Group’s technology systems and infrastructure, which could subject the Group to financial 
+liabilities and customer losses. Furthermore, customers may experience delays as the Group seeks to obtain and 
+invest in new technology, additional capacity or updated systems, which could adversely affect the Group’s 
+business and operating margin. 
+Risks relating to strategic relationships with third parties, particularly its direct mobile 
+operator relationships  
+The Group’s services and solutions rely to a large extent on independent third parties and on mobile operators as 
+such operators provide connectivity in various regions and countries around the world. The Group’s direct 
+relationships with mobile operators help to promote the quality and reduce the pricing of the Group’s services and 
+solutions, and are a key component underlying the synergies that the Group is able to benefit from in working with 
+mobile operators and enterprise customers. Should the Group not be able to maintain, identify or secure suitable 
+business relationship opportunities in the future,  such failure may, for instance, result in that the Group will not 
+be able to maintain sufficient traffic volumes in order to develop mobile operators relationships. Should the mobile 
+operators turn from such direct relationship or terminate their agreements and relationships with the Group, the 
+Group’s customers may experience service interruptions, the Group be unable to attract new customers, and the
+
+--- Page 12 ---
+9 
+ 
+costs associated with purchasing network capacity from mobile operators may increase. This could have a 
+significant impact on the Group’s reputation and profitability. 
+In addition, the Group cannot influence the operation, quality, updating rate or maintenance of the service 
+providers’, including mobile operators’, infrastructure on which the Group depends. Should such service providers 
+fail to upgrade or improve their software, equipment and other infrastructure it could result in in services 
+interruptions or other malfunctions which in turn could result in reduction in transactions and communications 
+processed by the Group’s communications platform and have an adverse effect on the Group’s business and 
+reputation. 
+Risks relating to recruit and retain key personnel 
+Due to the nature of the Group’s business as an information technology provider, the Group is dependent on skilled 
+executives and key personnel, in terms of technical expertise and otherwise, including competent sales force as 
+well as software developers with a detailed knowledge of the Group and the industry. Identification, recruitment 
+and training of qualified personnel requires significant time, expense and attention and is important in order to 
+maintain high level of service. Should the Group be unable to retain or hire key employees and other skilled 
+employees to the extent necessary, it could have an adverse effect on the Group’s business operations. 
+Risks relating to supplier price increases 
+Mobile operators with which the Group to a large extent is dependent on for its communication services have a 
+monopoly on sending texts to their own customers. The Group therefore pays a fee to the relevant mobile operator 
+for every text sent. These traffic tariffs vary widely from country to country and have substantial impact on the 
+usage of SMS services in individual markets. When mobile operators raise their traffic tariffs, prices rise for the 
+Group’s end customers and the number of messages falls over time. Likewise, other channel partners of the Group 
+like WhatsApp and Facebook may also change their pricing models and affect the price and volume of 
+communication services. A similar situation exists in Voice, where the operators control rates for voice calls. 
+Should the price of the Group’s strategic partners be increased, it could result in lower revenues and gross profit 
+for the Group. 
+Risks relating to competition 
+The Group competes with both new and established local, regional and global companies in the CPaaS industry 
+that have various product sets and approaches to addressing the market. New, niched competitors could also use 
+other technology that offers lower costs to certain customers and applications. In addition, large customers often 
+use multiple suppliers of the same service to provide flexibility. Should the Group fail to compete effectively it 
+could result in the services of the Group being used less frequently and put pressure on margins, which in turn 
+would have an adverse effect on the Group’s sales volumes and price. 
+Risk relating to customers  
+The five largest customers account for approximately 23 per cent. of the Group’s total accounts receivable for the 
+financial year ended 31 December 2023. The total net sales of the Group amounted to approximately SEK 28,745 
+million for the financial year ended 31 December 2023, of which SEK 3,351 million refers to a single customer in 
+the Messaging operating segment. Should the Group not be able to maintain its existing key customers and 
+otherwise capitalise on its customer base, it would result in decreased sales, which in turn could have an adverse 
+effect on the Group’s financial position. The Group’s customer agreements also contain various provisions 
+whereby the customers can easily terminate their agreements with the Group. Decreased revenue from key 
+customers and key customer losses due to customers cancelling their agreements could have an adverse effect on 
+the Group’s financial position. 
+The Group targets a substantial portion of its sales at larger key enterprise customers and generally, the conclusion 
+of an enterprise customer’s decision to use the Group’s services requires significant effort and input from the 
+Group in terms of time and resources than would be the case if the Company’s customers’ businesses were less 
+significant in terms of size and complexity. For example, the Group may be required to provide education regarding 
+the use and benefits of the Group’s services, privacy and data protection laws and other regulations. In addition,
+
+--- Page 13 ---
+10 
+ 
+larger customers may demand more customisation, integration services and features, or may have existing systems 
+in place that require more specialised software and application programming interfaces (APIs) to access the 
+Group’s services and solutions. Consequently, the sales opportunities targeted by the Group, i.e. large enterprise 
+customers, may require the Group to devote significant sales support and professional services resources to 
+individual customers, also where there is a risk that the contract is not concluded, which can render costs that 
+cannot be off-set against income and focus the Group’s sales and professional services resources to a smaller 
+number of larger transactions. To the extent that the Group’s sales cycles for its enterprise customers become 
+longer and more expensive, or require more customisation, integration services and features, or specialised 
+software and APIs, there could be an adverse effect on the Group’s results of operations. 
+Risks related to the Group’s financial situation 
+Interest rate risks 
+The Group’s primary interest rate risk arises through long-term borrowing at variable rates, which exposes the 
+Group to interest rate risk relating to cash flows. Interest rate risk is the risk that the fair value of cash flows or 
+future cash flows from a financial instrument will vary due to changes in market rates. Interest rate risk can lead 
+to a change in cash flows. The Group’s total interest-bearing liabilities as per 31 December 2023 amounted to 
+SEK 8,999 million and an interest change of 100 basis points based on interest-bearing liabilities would affect the 
+Group's future profit before tax by +/- SEK 105 million assuming that all other factors, such as exchange rates, 
+remain constant. The average remaining term to maturity for the Group’s external loan financing was 1.7 years 
+and the average interest rate on external loan financing was 5.86 per cent. as of 31 December 2023. 
+Currency risks 
+Transaction exposure is the risk that currency movements in connection with sales and purchases in foreign 
+currency could affect consolidated cash flows and profit or loss. The Group’s sales are transacted mainly in foreign 
+currencies, primarily EUR, USD and GBP. The Group’s net exposure of monetary items in each currency (amounts 
+in SEK million translated to the closing day rate as per 31 December 2023) amounted to SEK 381 million (in 
+EUR), SEK 1,761 (in USD) and SEK 834 (in GBP) respectively for the financial year 2023 compared to the total 
+amount of accounts receivables of SEK 4,669 million. The Group’s costs are incurred in foreign currencies, 
+primarily EUR, USD and GBP, as well as SEK. Currency movements greater impact on revenues than on costs. 
+The Group’s exchange rate differences for the financial year 2023 amounted to – SEK 161 million in operating 
+profit and at – SEK 35 million in financial expenses. Based on transaction exposure as of 31 December 2023 and 
+excluding any currency hedges, the Group’s profit before tax would have been affected by +/– SEK 407 million if 
+exchange rates against SEK were to change by 10 per cent. and consolidated equity would be affected by +/- SEK 
+4,353 million if SEK were to change by 10 per cent against all the currencies against which the Group’s has 
+translation exposure. Accordingly, exchange rate fluctuations could have an adverse effect on the Group’s financial 
+position and results of operations. 
+Refinancing risks 
+Refinancing risk refers to the risk of not being able to obtain financing or only obtaining financing on terms that 
+are disadvantageous for the Group. The Group finances its business primarily through a combination of borrowings 
+from credit institutions, listed corporate bonds, other liabilities as well as shareholder’s equity. As of 31 December 
+2023, the Group’s total financial liabilities amounted SEK 12,925 million, which primarily related to bank loans 
+(SEK 7,363 million) and corporate bond loans (SEK 750 million). The average remaining term to maturity for the 
+Group’s external loan financing was 1.7 years. 
+There is a risk that the Group cannot secure sufficient funds to refinance its debts that are due, or that such 
+refinancing can only be obtained on terms that are disadvantageous to the Group. Should the Group fail to obtain 
+necessary capital in the future, it could increase the Group’s costs and therefore have a negative impact on the 
+Group’s result.
+
+--- Page 14 ---
+11 
+ 
+Liquidity risks 
+Liquidity risk refers to the risk that the Group does not have sufficient cash or ability to utilize credit facilities to 
+cover payment commitments, including interest payments, without the cost of obtaining cash increasing 
+significantly. As per 31 December 2023, the Issuer had revolving line of credits in the amount of SEK 5,500 
+million (of which SEK 1,154 million was utilised), a granted bank overdraft facility of SEK 901 million (of which 
+SEK 0 million was utilised) and the total liquidity reserve amounted to SEK 6,259 million. Should the Group’s 
+liquidity sources prove to be insufficient, it could have a material negative impact on the Group’s financial position 
+and the Issuer’s ability to fulfill its obligations under the Notes. 
+Credits risks 
+The risk that the Group’s customers will not meet their payment obligations. The Group’s exposure to credit risk 
+is primarily attributable to accounts receivable and to a lesser extent to contract assets. Credit exposure in accounts 
+receivable and contract assets amounted to SEK 5,753 million as per 31 December 2023. The Group has 
+concentration of credit risk among certain large customers. To illustrate, the five largest customers, primarily in 
+the telecom and financial sectors, account for approximately 23 per cent. of accounts receivable. If the Group 
+cannot successfully mitigate its credit risk or if its counterparties cannot fulfill their obligations towards the Group 
+it could negatively affect the Group’s liquidity and therefore increase the Group’s need for financing. There is a 
+risk that the Group’s counterparties cannot fulfil its financial obligations towards the Group, which could have a 
+negative impact on the Group’s earnings and result. 
+Legal and regulatory risks 
+Risks relating to data protection and processing of personal data 
+The Group processes personal data by collecting, retaining, sharing and otherwise handling customer information, 
+and such processing activities are mainly governed by the General Data Protection Regulation (EU) 2016/679 
+(“GDPR”) but also privacy laws and regulations applicable in the various jurisdictions where the Group operates. 
+Furthermore, the Group’s transfers of personal data outside the EU and EEA, is subject to particular legal hurdles, 
+for instance in relation to contradictory regulatory requirements in different jurisdiction, confidentiality 
+requirements and legal restrictions for full data transfer and data sharing. There is a risk that the Group’s security 
+procedures regarding its customers’ personal data, and other procedures for the protection of personal data, are not 
+sufficient to prevent the illicit disclosure or handling of personal data in breach of applicable laws and agreements, 
+and that IT and system failures or defects could lead to privacy incidents such as the loss of customers’ personal 
+data or other information. Since the Group handles large amounts of personal data, a possible privacy incident 
+could have significant adverse effects in relation to the rights and freedoms of the data subjects concerned, and 
+such privacy incident, especially if non-remedied, could subject the Group to significant fines and authority 
+proceedings in accordance with the GDPR. There is also a risk that private claims are lodged against the Group in 
+accordance with the GDPR, which, apart from the risk of liability for damages, could materially and adversely 
+affect the Group’s reputation. 
+There is a risk that the Group’s policies, processes, measures or systems are non-compliant or that insufficient 
+resources are allocated for compliance with privacy laws and regulations. Non-compliance with privacy laws 
+and/or infringement of applicable laws and regulations on the handling and protection of confidential customer 
+information and other personal data could lead to the Group being in breach of contracts or being subject to fines, 
+liability for damages, legal action and/or reputational damage, which in turn would adversely affect the Group’s 
+results of operations. 
+Risks relating to regulations and regulatory supervision 
+The legal and regulatory environment relating to the Group’s business is constantly evolving and can be subject 
+to significant change. The Group is a global company that is exposed to different regulatory risks in the countries 
+and regions in which it operates and new or amended laws and regulations could be adopted in a variety of countries 
+in which the Group operates. Changes in regulation could increase the Group’s costs and impact margins and could 
+potentially prevent the Group from delivering its services and solutions in a cost efficient manner. For example,
+
+--- Page 15 ---
+12 
+ 
+in several countries the interconnection rates charged for transmissions between service providers, mobile 
+operators and end-users are set and controlled by local regulators. If these regulators were to change the 
+interconnection rates, the Group may be required to pay higher rates, which could increase the costs of delivering 
+its services and solutions to its customers, and there is a risk that the Group will not be able to pass on the increase 
+to its customers, which could have an adverse impact on the Group’s gross margin and pricing. 
+In addition, regulators may impose price ceilings or controls on mobile communications and data usage, which 
+could adversely impact the Group’s revenue and margins. Similarly, regulators may restrict the type of 
+communication that is permitted (for example, short code versus long number in the United States), which can 
+require the Group to adjust its services to comply with local regulations which in turn can increase the costs 
+associated with conducting business in certain countries.  
+Government bodies and agencies have in the past adopted, and may in the future adopt, laws or regulations. Such 
+new laws or regulations could for example affect the usage of machine learning, artificial reality and artificial 
+intelligence or affect the use of the internet as a commercial medium, and changes in these laws or regulations 
+could require the Group to modify its services and solutions in order to comply with these changes. In addition, 
+government agencies or private organisations may begin to impose taxes, fees or other charges for accessing the 
+internet or commerce conducted via the internet. These laws or charges could limit the growth of internet-related 
+commerce or communications generally, or result in reductions in the demand for internet-based software and 
+services solutions that are offered by the Group. 
+In addition, as a service provider, the Group must adapt to regulatory changes applicable in the various industries 
+in which the Group’s customers operate, and the Group is thus exposed to risks arising from regulations that impact 
+its customers. For example, the Group has previously been required to provide certifications of security and system 
+strength to customers in the banking industry as a prerequisite to providing services to these customers.  
+If the Group is unable to develop and implement systems, policies and practices in a timely manner or at all to 
+completely manage legal risks or comply with applicable regulations, the Group may incur significant costs and 
+reputational damage, which would adversely affect the Group’s results of operations. 
+Risks relating to compliance challenges 
+The Group is conducting business in many jurisdictions, some of which could constitute a high risk of non-
+compliance with applicable laws and regulations as well as non-compliance with our ethical values as laid out in 
+our Code of Conduct and other governing documents. Examples of such risks are, for example, bribery and 
+corruption, money-laundering, unfair competition, human rights and ESG-related violations. If these risks would 
+materialise it could mean that the Group is in breach of contracts or being subject to fines, liability for damages, 
+legal action and/or reputational damage, which in turn would adversely affect the Group’s results of operations. 
+Risks relating to sanctions, anti-corruption and money laundering 
+The Group’s global operations increase the Group’s exposure to risks inherent in operating globally related to 
+applicable sanction laws enacted and/or enforced by inter alia United Nations, the European Union, the United 
+Kingdom or the United States of America, and any authority acting on behalf of any of them, and also international 
+and domestic regulation on anti-corruption and money laundering. Monitoring compliance with sanctions law and 
+other such rules, regulations and provisions on anti-corruption and money laundering requires comprehensive 
+procedures, processes and technical resources which may result in considerable costs to the Group. Furthermore, 
+there is a risk that the Group fails in its measures to prevent breach of applicable laws from time to time anti-
+corruption, money laundering and the financing of terrorism or breaches the applicable trade sanctions and, as a 
+result, suffer legal or contractual consequences. Furthermore, the supervisory authorities in those countries where 
+the Group conducts business may consider the Group’s internal regulations and procedures as insufficient in 
+relation to the requirements for compliance with local regulations and standards. Breaches of applicable laws or 
+other statutes, or a discovery that the Group’s internal regulations and procedures have not been sufficient or have 
+not been complied with in a particular jurisdiction, may result in sanctions in the form of a complaint or warning, 
+sanction fee and/or a revocation of permits. Moreover, the Group’s business relations and reputation may be
+
+--- Page 16 ---
+13 
+ 
+damaged and certain financing agreements terminated. Overall, there is a risk that a lack of measures in place to 
+prevent breaches of sanction laws and other regulation on anti-corruption and money laundering, will have a 
+material adverse effect on the Group’s operations, earnings and financial position. 
+Risks relating to tax  
+The Group conducts its operations globally and in accordance with its own and its advisors’ interpretation of 
+applicable tax regulations and applicable requirements and decisions in each jurisdiction in which the Group 
+operates. There is a risk that the Group’s or its advisers’ interpretation and the Group’s application of laws, 
+provisions, judicial practice has not been, or will in the future not be, correct or that such laws, provisions and 
+practice will be changed, potentially with retroactive effect. If such an event should occur, the Group’s tax 
+liabilities could increase. This may in turn have a negative effect on the Group’s results and financial position. 
+Revisions to tax regulations could for example comprise denied interest deductions, additional taxes on the direct 
+or indirect sales and/or tax losses carried forward being forfeited.  
+There is also the risk of tax increases and the introduction of additional taxes which may affect the Group’s results 
+and financial position in the future. In the event of a change in the tax legislations or the interpretation of existing 
+tax laws, the business activities of the Group may be adversely affected.  
+Risks relating to intellectual property rights  
+The Group is dependent on protecting its intellectual property rights, such as copyright, trademark and trade 
+secrets. Such protection is obtained through laws and agreements, primarily confidentiality and license agreements 
+with its customers, employees, partners and others parties. However, steps taken to protect the Group’s intellectual 
+property rights may be inadequate and not adequately hinder competitors from copying or reverse engineer the 
+Group’s services and solutions, or independently develop services and solutions substantially equivalent to or 
+superior to the Group’s services and solutions. Moreover, third parties may be able to successfully challenge, 
+oppose, invalidate or circumvent the intellectual property rights held and used by the Group, such as the registered 
+trademark Symsoft or other intellectual property rights.  
+In order to protect its intellectual property rights, the Group may be required to spend significant resources to 
+monitor and protect those rights and litigation in relation to the protection of the Group’s intellectual property 
+could be costly and time-consuming. The Group also faces a risk of claims that it has infringed the intellectual 
+property rights of third parties, especially since the patent and intellectual property development activity within 
+the cloud communications industry is rapidly developing. There is a risk that the Group may be liable to pay 
+significant damages or settlement costs, including royalty payments, or be obligated to indemnify its customers or 
+business partners, if disputes related to ownership and title to intellectual property rights occur.  
+As intellectual property rights and assets represent a material value for the Group, infringements, unwarranted 
+losses and missed opportunities in respect of intellectual property would significantly adversely impact the Group’s 
+business and financial position. 
+Risks relating to open source software  
+The Group uses open source software in some of its internal systems. The terms of many open source licenses to 
+which the Group is subject have not been interpreted by domestic or foreign courts, and there is a risk that open 
+source software licenses could be construed in a manner that imposes unanticipated conditions or restrictions on 
+the Group’s ability to provide or distribute its services or solutions. Additionally, the Group may from time to time 
+face claims from third parties claiming ownership of, or demanding release of, the open source software or 
+derivative works that the Group developed using such software, or otherwise seeking to enforce the terms of the 
+applicable open source license. These claims could result in litigation and could require the Group to make its 
+software source code freely available, purchase a costly license or cease offering or using the implicated systems. 
+This re-engineering process could require significant development resources, and there is a risk that the Group will 
+not be able to complete it successfully. The materialisation of any of these risks could have a materially adverse 
+effect on the Group’s business.
+
+--- Page 17 ---
+14 
+ 
+RISK FACTORS SPECIFIC AND MATERIAL TO THE NOTES 
+Risks relating to the nature of the Notes 
+Unsecured obligations and structural subordination 
+The Notes constitute unsecured debt obligations of the Issuer. If the Issuer will be subject to any foreclosure, 
+dissolution, winding-up, liquidation, bankruptcy or other insolvency proceedings, the Noteholders normally 
+receive payment after any prioritised creditors, including those which are mandatorily preferred by law, have been 
+paid in full. Further, following prioritised creditors receiving payment in full, the Noteholders will have an 
+unsecured claim against the Issuer for the amounts due under or in respect of the Notes, which means that the 
+Noteholders normally would receive payment pro rata with other unsecured creditors. 
+Should the Group, as part of its financing, provide security in relation to the incurred debts, such secured loans 
+normally constitute a preferential claim on the relevant member of the Group. Subject to the provisions set out in 
+the terms and conditions of the Notes, the Issuer or any member of the Group may seek further financing in which 
+case pledges, as part of such new loans, may be provided. In addition, the Issuer may retain, provide or renew 
+security over certain of its current or future assets to secure, inter alia, bank loans, either via the Issuer itself or 
+any other member of the Group, with security interests normally constituting a preferential claim on the borrower. 
+No present or future shareholder or subsidiary of the Issuer will guarantee the Issuer’s obligations under the Notes. 
+Furthermore, the terms and conditions of the Notes allow the Group to incur certain additional debt. If the Issuer’s 
+subsidiaries incur debt, the right to payment under the Notes will be structurally subordinated to the right of 
+payment relating to debt incurred by subsidiaries of the Issuer, which could have a negative impact on the 
+Noteholders’ recovery under the Notes. 
+Notes with floating interest rate 
+Notes issued with a floating interest rate are normally issued as FRNs (Floating Rate Notes). The coupon is 
+calculated on the basis of an interest rate corresponding to the Base Rate plus the applicable Margin, where the 
+Base Rate is adjusted before each interest rate period whilst the Margin is fixed throughout the term. If the Base 
+Rate, for example, is constituted of STIBOR 3 months, it is the market’s perception of the development of the 3-
+month interest rates, in connection with the interest margin, that constitutes the basis for calculating the market 
+value of the placement. A changed expectation in the market regarding at what level the Base Rate will be set at 
+when determining the interest rate in the future will, hence, risk lowering the market value on Notes with a floating 
+rate. 
+Notes with fixed interest rate 
+Investments in Notes with fixed interest rate involve a risk that the market price of the Notes may be negatively 
+affected as a result of changes in the market interest rates. Generally, longer term of the securities means a higher 
+risk.  
+Notes with zero coupon 
+Notes issued with zero coupon are issued at an amount less than, equal to or greater than the Nominal Amount.  
+For such Notes, no coupons are paid out during the term of the Notes and only the Nominal Amount is received 
+on the Maturity Date. A zero coupon Loan is usually priced based on the discounted value of the face amount 
+received at the Maturity Date, which is normally an amount less than the Nominal Amount if the market interest 
+rate is positive. The market interest rate for a term of the Notes corresponding to the remaining term of the relevant 
+Notes normally determines the discount factor used for Notes with zero coupon. The market interest rate is thus 
+normally governing the market value of such Notes. The higher the market interest rate, the lower the discount 
+factor (reduced market value). Increased market interest rate therefore normally risks negatively affecting the 
+market value of Notes zero coupon. How the market interest rate will develop in the future is difficult to predict 
+and is associated with uncertainty.
+
+--- Page 18 ---
+15 
+ 
+Currency risks 
+The Notes are denominated and payable in SEK or EUR. If Noteholders measure their investment return by 
+reference to a currency other than SEK or EUR (as applicable), an investment in the Notes will entail foreign 
+exchange-related risks. For example, possible significant changes in the value of SEK or EUR (as applicable) 
+relative to the currency by reference to which investors measure the return on their investments could cause a 
+decrease in the effective yield of the Notes below their stated coupon rates and could result in a loss to investors 
+when the return on the Notes is translated into the currency by reference to which the investors measure the return 
+on their investments. Government and monetary authorities may impose (as some have done in the past) exchange 
+controls that could adversely affect an applicable exchange rate or the ability of the Issuer to make payments in 
+respect of the Notes. As a result, there is a risk that investors may receive less interest or principal than expected, 
+or no interest or principal at all.  
+Other risks relating to the Notes 
+Risks relating to benchmarks 
+The Notes’ value depends on several factors, one of the more significant over time being the level of market 
+interest. The Notes may bear a floating rate interest comprising a base rate such as STIBOR and EURIBOR plus 
+a certain margin and the interest rate is therefore adjusted for changes in the level of the general interest rate. 
+Hence, there is a risk that increased general interest rate levels significantly affect the market value of the Notes.  
+The determining interest rate benchmarks, such as STIBOR and EURIBOR has been subject to regulatory changes 
+such as the Benchmarks Regulation (Regulation (EU) 2016/1011 on indices used as benchmarks in financial 
+instruments and financial contracts or to measure the performance of investment funds) (the “BMR”). The 
+implementation of the BMR has led to that certain used benchmarks, such as EURIBOR will be discontinued, 
+leading to that, among other things, existing financing arrangements will have to be renegotiated or terminated. 
+There is a risk that also STIBOR will be discontinued, or that alternative benchmark rates will dominate market 
+practice, leading to uncertainties in relation to the interest rate payable in relation to the Notes. In accordance with 
+the terms and conditions of the Notes, STIBOR may be replaced following certain events, e.g. if STIBOR ceases 
+to be calculated or administrated (defined in the terms and conditions of the Notes as a “Base Rate Event”). 
+Increased or altered regulatory requirements and risks associated with any replacement of STIBOR following a 
+Base Rate Event involve inherent risks, as the effects cannot be fully assessed at this point in time. Any upcoming 
+replacement of STIBOR and EURIBOR and/or other developments in relation to STIBOR and EURIBOR could 
+result in volatility in STIBOR and EURIBOR and the calculation of the interest rate of the Notes, which in turn 
+could result in an adverse negative effect on an investment in the Notes.
+
+--- Page 19 ---
+16 
+ 
+GENERAL TERMS AND CONDITIONS 
+GENERAL TERMS AND CONDITIONS FOR NOTES ISSUED UNDER SINCH AB (PUBL)’S MTN 
+PROGRAMME 
+The following general terms and conditions (the “General Terms and Conditions”) shall apply to loans that 
+Sinch AB (publ) (Swedish reg. no. 556882-8908) (the “Company”) issues on the capital market under an 
+agreement that has been entered into on 22 May 2024 between the Company and Skandinaviska Enskilda Banken 
+AB (publ), Danske Bank A/S Danmark, Sverige Filial, Nordea Bank Abp, Svenska Handelsbanken AB (publ) and 
+Swedbank AB (publ) regarding the MTN programme (the “MTN Programme”) by issuing notes in SEK or EUR 
+with varying maturities, however not less than one year, known as Medium Term Notes. 
+1 
+DEFINITIONS 
+1.1 
+In addition to the definitions set out above, the following terms will have the meaning set out below. 
+“Account Operator” means a bank or other party duly authorised to operate as an account operator 
+(kontoförande institut) pursuant to the Swedish Financial Instruments Accounts Act (lag (1998:1479) 
+om värdepapperscentraler och kontoföring av finansiella instrument) and through which a Noteholder 
+has opened a Securities Account in respect of its MTN. 
+“Adjusted Loan Amount” means the Loan Amount less the amount of MTN owned by the Company, 
+or a Group Company, regardless of whether such Group Company is directly registered as the owner of 
+such MTN or not. 
+“Administrative Agent” means: 
+(a) if a Loan has been issued through two or more Issuing Dealers, the Issuing Dealer designated by 
+the Company as being responsible for certain administrative tasks relating to the Loan according to 
+the Final Terms; and 
+(b) if a Loan has been issued through only one Issuing Dealer, the Issuing Dealer for that Loan. 
+“Arranger” means Skandinaviska Enskilda Banken AB (publ) or any Dealer replacing it as Arranger. 
+“Base Rate” means in regard to Loans with Floating Rate, the base rate STIBOR or EURIBOR as 
+specified in the Final Terms or any reference rate replacing STIBOR or EURIBOR in accordance with 
+Section 13 (Replacement of Base Rate). 
+“Business Day” means a day that is not a Sunday or other public holiday in Sweden or that, in respect 
+of the payment of promissory notes, is not equated with a public holiday in Sweden. Saturdays,
+
+--- Page 20 ---
+17 
+ 
+Midsummer’s Eve (midsommarafton), Christmas Eve (julafton) and New Year’s Eve (nyårsafton) will 
+be deemed to be public holidays for this definition.  
+“Day Count Convention” means, when calculating an amount for a particular calculation period, the 
+calculation method specified in the Final Terms: 
+(a) if the calculation method “30/360” is specified as applicable, the amount shall be calculated for a 
+year with 360 days, consisting of twelve months each of 30 days, and in case of a partial month the 
+actual number of days that have elapsed in the month; 
+(b) if the calculation method “Actual/360” is specified as applicable, the amount shall be calculated 
+using the actual number of days in the relevant period divided by 360; or 
+(c) any other method of calculation as is applied for the relevant Base Rate. 
+“Dealers” means Skandinaviska Enskilda Banken AB (publ), Danske Bank A/S Danmark, Sverige 
+Filial, Nordea Bank Abp, Svenska Handelsbanken AB (publ) and Swedbank AB (publ) as well as any 
+other dealer (Sw. emissionsinstitut) that has been specifically authorised by Euroclear Sweden to handle 
+and register issues in the VPC system, and which accedes to this MTN Programme, however only 
+provided such institution has not ceased to act as a dealer. 
+“Debt Register” means the register (skuldbok) kept by Euroclear Sweden in respect of the MTN in 
+which a Noteholder is registered. 
+“EURIBOR” means: 
+(a) the interest rate as displayed as of or around 11.00 a.m. on the relevant day on page EURIBOR01 
+of the Refinitiv screen (or through such other system or on such other page replacing the said system 
+or page) for EUR for a period comparable to the relevant Interest Period; or 
+(b) if no such interest rate is available for the relevant Interest Period as described in paragraph (a), the 
+arithmetic mean of the rates (rounded upwards to four decimal places) as supplied to the 
+Administrative Agent at its request quoted by the European Reference Banks for deposits of 
+EUR 10,000,000 for the relevant Interest Period; or 
+(c) if no interest rate as described in paragraph (a) and (b) is available, the interest rate which, according 
+to the reasonable assessment of the Administrative Agent, best reflects the interest rate for deposits 
+in EUR offered for the relevant Interest Period. 
+“Euro” and “EUR” means the currency used by the participating member states of the European Union 
+in accordance with the European Union’s regulations for the Economic and Monetary Union (EMU). 
+“Euroclear Sweden” means Euroclear Sweden AB (Swedish reg. no. 556112-8074). 
+“European Reference Banks” means four major commercial banks which, at the current time, are 
+quoting EURIBOR and are appointed by the Administrative Agent. 
+“Final Terms” means the Final Terms established for a particular Loan under this MTN Programme in 
+accordance with the form of Final Terms under the section “Form of Final Terms” below (with the 
+additions and amendments that may be made from time to time). 
+“Group” means the Company and each of its Subsidiaries from time to time.  
+“Group Company” means any legal entity that, from time to time, forms part of the Group. 
+“Insolvent” means, in respect of a relevant person, that it is deemed to be insolvent, or admits inability 
+to pay its debts as they fall due, in each case within the meaning of Chapter 2, Sections 7-9 of the
+
+--- Page 21 ---
+18 
+ 
+Swedish Bankruptcy Act (konkurslagen (1987:672)) (or its equivalent in any other relevant 
+jurisdiction). 
+“Interest Commencement Date” means, according to the Final Terms, the date from which interest 
+(where applicable) begins to accrue. 
+“Issuing Dealer” means, according to the Final Terms, the Dealer(s) under this MTN Programme 
+through which a particular Loan has been carried out. 
+“Loan” means any loan from a particular series, encompassing one or more MTN with the same ISIN 
+code, which the Company issues under this MTN Programme. 
+“Loan Amount” means the aggregate outstanding Nominal Amount of MTN in respect of a particular 
+Loan, however less any repaid amount. 
+“Loan Date” means the date specified as such in the Final Terms. 
+“Loan Terms and Conditions” means for a particular Loan, these General Terms and Conditions as 
+well as the Final Terms for said Loan.  
+“Market Loans” means issuing commercial papers, bonds or other securities (including loans under 
+MTN or other market loan programme), which are sold, brokered or invested in an organised form and 
+which are or may be traded on a Regulated Market.  
+“Material Group Company” means the Company or a Subsidiary representing more than 5 per cent. 
+of the consolidated Adjusted EBITDA of the Group as defined and reported in the latest interim 
+consolidated financial statements or year-end report of the Group. 
+“Maturity Date” means, according to the Final Terms, the date on which an MTN is to be repaid. 
+“MTN” means an unilateral debt obligation regarding a Nominal Amount that has been registered in 
+accordance with the Swedish Financial Instruments Accounts Act (lag (1998:1479) om 
+värdepapperscentraler och kontoföring av finansiella instrument), and which forms part of a Loan 
+issued by the Company under this MTN Programme. 
+“Nominal Amount” means the amount for each MTN specified in the Final Terms in respect of a Loan. 
+“Noteholder” means the party listed on the Securities Account as the directly registered owner 
+(direktregistrerad ägare) or nominee (förvaltare) of an MTN. 
+“Noteholders’ Meeting” means a meeting with the Noteholders in accordance with Section 12 
+(Noteholders’ Meeting). 
+“Record Date” means the fifth Business Day prior to (or another Business Day prior to the relevant 
+date that is market practise on the Swedish bond market) (i) the due date for interest or the principal 
+under the Loan Terms and Conditions, (ii) another date on which payment is to be made to Noteholders, 
+(iii) the date of the Noteholders’ Meeting, (iv) the date on which the notification is dispatched, or 
+(v) another relevant date. 
+“Reference Banks” means the Dealers appointed under this MTN Programme or if none, or only one, 
+the Dealers provide a quotation for STIBOR, such replacement banks which, at the relevant time, 
+provide a quotation for STIBOR and which are appointed by the Administrative Agent. 
+“Regulated Market” means a regulated market as defined in Directive 2014/65/EU on markets in 
+financial instruments, as amended. 
+“Securities Account” means the securities account maintained with Euroclear Sweden in accordance 
+with the Swedish Financial Instruments Accounts Act (lag (1998:1479) om värdepapperscentraler och
+
+--- Page 22 ---
+19 
+ 
+kontoföring av finansiella instrument), in which (i) an owner of a security is directly registered as the 
+owner of securities or (ii) an owner’s holding of securities is registered in the name of a nominee. 
+“Settlement Date” means the date on which, according to the Final Terms, the issue proceeds for MTN 
+are to be paid. 
+“STIBOR” means: 
+(a) the interest rate administered, calculated and distributed by the Swedish Financial Benchmark 
+Facility AB (or the replacing administrator or calculation agent) for the relevant day and published 
+on the information system Refinitiv’s page “STIBOR=” (or through such other system or on such 
+other page as replaces the said system or page) for SEK for a period comparable to the relevant 
+Interest Period; or  
+(b) if no such interest rate is available for the relevant Interest Period as described in paragraph (a), the 
+arithmetic mean of the rates (rounded upwards to four decimal places) as supplied to the 
+Administrative Agent at its request quoted by the Reference Banks for deposits of 
+SEK 100,000,000 for the relevant Interest Period; or  
+(c) if no such interest rate as described in paragraph (a) and (b) is available, the interest rate which, 
+according to the reasonable estimate of the Administrative Agent, best reflects the interest rate for 
+deposits in SEK offered in the Stockholm interbank market for the relevant Interest Period. 
+“Subsidiary” means, in relation to a person, any legal entity (whether incorporated or not), in respect 
+of which that person, directly or indirectly: 
+(a) owns shares or ownership rights representing more than fifty (50.00) per cent. of the total number 
+of votes held by the owners; 
+(b) otherwise controls more than fifty (50.00) per cent. of the total number of votes held by the owners; 
+(c) has the power to appoint and remove all, or the majority of, the members of the board of directors 
+or other governing body; or 
+(d) exercises control as determined in accordance with the international financial reporting standards 
+(IFRS) within the meaning of Regulation 1606/2002/EC (or as otherwise adopted or amended from 
+time to time). 
+“Swedish Kronor” and “SEK” means the legal currency in Sweden. 
+1.2 
+Additional definitions, such as Interest Rate Structure, Interest Rate, Base Rate Margin, Interest 
+Determination Date, Interest Payment Date(s), Interest Period and Currency can be found (where 
+applicable) in the Final Terms.  
+1.3 
+When calculating whether a limit described in Swedish Kronor has been reached or exceeded, an 
+amount in another currency shall be calculated on the basis of the exchange rate that applied on the 
+Business Day immediately prior to the relevant time and that is published on Refinitiv’s website 
+“SEKFIX=” (or through such other system or on such other website that replaces said system or website 
+respectively) or, if no such exchange rate is published, the exchange rate for such currency against 
+Swedish Kronor the mentioned date as published by the Swedish Central Bank (Riksbanken) on its 
+website (www.riksbank.se).
+
+--- Page 23 ---
+20 
+ 
+2 
+ISSUANCE OF LOANS AND STATUS 
+2.1 
+Under this MTN Programme, the Company may issue MTN in Swedish Kronor or Euros with a maturity 
+of at least one year. Under a Loan, MTN may be issued in multiple tranches without the approval of 
+any Noteholder under the relevant Loan, provided that the terms of such tranches are identical with the 
+exception of Loan Date, Loan Amount, price per MTN and Issuing Dealer. 
+2.2 
+By subscribing for MTN, each initial Noteholder accepts that its MTN will have the rights and be subject 
+to the terms and conditions arising from the Loan Terms and Conditions. By acquiring MTN, each new 
+Noteholder confirms such acceptance. 
+2.3 
+The Company undertakes to make payments in respect of issued MTN, as well as to comply in other 
+respects with the Loan Terms and Conditions for the Loans issued under this MTN Programme. 
+2.4 
+If the Company wishes to issue MTN under this MTN Programme, the Company shall enter into a 
+separate agreement for this purpose with one or more dealer agents, which will be the Issuing Dealer(s) 
+for said Loan. 
+2.5 
+Final Terms shall be established in relation to each particular Loan which together with these General 
+Terms and Conditions shall constitute the complete Loan Terms and Conditions. 
+3 
+REGISTRATION OF MTN 
+3.1 
+MTN will be registered in a Securities Account on behalf of Noteholders, and accordingly no physical 
+securities will be issued. Any request for a particular registration measure in respect of MTN must be 
+addressed to the Account Operator. 
+3.2 
+Anyone who, due to mandates, pledges, the provisions in the Children and Parents Code 
+(föräldrabalken), terms and conditions in wills or deeds of gift, or otherwise has acquired the entitlement 
+to receive payment under an MTN, must have their right to receive payment registered with Euroclear 
+Sweden in order to receive such payment. 
+3.3 
+The Administrative Agent is entitled to receive information from Euroclear Sweden regarding the 
+content of its Debt Register for MTN, in order to fulfil its duties in accordance with Section 11 
+(Termination of loans) and Section 12 (Noteholders’ Meeting). Administrative Agents will not be 
+responsible for the content of such extracts nor are they otherwise responsible for determining who is 
+the Noteholder. 
+4 
+RIGHT TO ACT ON BEHALF OF A NOTEHOLDER 
+4.1 
+Any person other than a Noteholder wishing to exercise the Noteholder’s rights under the Loan Terms 
+and Conditions or vote at a Noteholders’ Meeting must present a power of attorney or other proof of 
+authorisation from the Noteholder or a successive, coherent chain of powers of attorney or proof of 
+authorisation starting with the Noteholder. 
+4.2 
+A Noteholder, or another party exercising the Noteholder’s rights pursuant to Section 4.1 above, may 
+authorise one or more parties to represent the Noteholder in respect of some or all MTN held by the 
+Noteholder. Any such authorised party may act independently. 
+4.3 
+These General Terms and Conditions shall not affect the relationship between a Noteholder who is the 
+nominee (förvaltare) with respect to an MTN and the owner of such MTN, and it is the responsibility 
+of such nominee to observe and comply with any restrictions that may apply to it in this capacity.
+
+--- Page 24 ---
+21 
+ 
+5 
+PAYMENTS 
+5.1 
+Payment in respect of MTN issued in Swedish Kronor must be made in Swedish Kronor, and payment 
+in respect of MTN issued in Euros must be made in Euros. 
+5.2 
+A Loan falls due on its specified Maturity Date. Interest accruing on MTN shall be paid on each Interest 
+Payment Date in accordance with the Final Terms for that Loan. Subject to Section 8.3, each MTN shall 
+be repaid on its specified Maturity Date in the amount specified in the Final Terms together with any 
+accrued but unpaid interest. 
+5.3 
+Payments in respect of MTN must be made to the person who is registered as the Noteholder on the 
+Record Date in relation to the relevant due date, or to such other person who is registered with Euroclear 
+Sweden as entitled to receive such payment. 
+5.4 
+If the Noteholder, through an Account Operator, has registered principal and interest are to be deposited 
+in a particular bank account, this deposit will be made through Euroclear Sweden on the respective due 
+date. 
+5.5 
+In the event Euroclear Sweden, due to a delay on behalf of the Company or due to some other obstacle, 
+should be unable to pay an amount as previously stated, the Company must ensure that the amount is 
+paid as soon as the obstacle no longer exists. 
+5.6 
+If the Company is unable to fulfil its payment obligation through Euroclear Sweden due to an obstacle 
+affecting Euroclear Sweden, the Company will be entitled to defer the payment obligation until the 
+obstacle no longer exists. In such a case, interest will be payable in accordance with Section 7.2. 
+5.7 
+If payment or repayment is made in accordance with this Section 5, the Company and Euroclear Sweden 
+shall be deemed to have fulfilled their obligation to pay, irrespective of whether such payment was made 
+to a person not entitled to receive such amount, unless the Company or Euroclear Sweden (as applicable) 
+did not act with normal care or was aware of that the payment was being made to a person not entitled 
+to receive such amount. 
+6 
+INTEREST 
+6.1 
+Interest on a particular Loan is calculated and payable (where applicable) in accordance with the Loan 
+Terms and Conditions. 
+6.2 
+In the Final Terms, the relevant Interest Rate Structure will be specified according to one of the 
+following options or in a combination thereof:  
+(a) Fixed Rate 
+If the Loan is specified as a Loan with Fixed Rate, the Loan will bear interest at the Interest Rate 
+from, but excluding, the Interest Commencement Date up to and including the Maturity Date.  
+Interest that has accrued during an Interest Period is paid in arrears on the respective Interest 
+Payment Date and is calculated according to the Day Count Convention method set out in the Final 
+Terms. 
+(b) Floating Rate (FRN) 
+If a Loan denominated in SEK or EUR is specified as a Loan with Floating Rate, the Loan will bear 
+interest at the Interest Rate from, but excluding, the Loan Date up to and including the Maturity 
+Date. The interest rate for the relevant Interest Period shall be calculated by the Administrative 
+Agent on the respective Interest Determination Date, and is the sum of the Base Rate and the Margin 
+for the relevant period, adjusted for the application of Section 13 (Replacement of Base Rate). If
+
+--- Page 25 ---
+22 
+ 
+the calculation of the interest rate entails a value lower than zero, the interest rate will be considered 
+to be zero. 
+If the interest rate cannot be determined on the Interest Determination Date due to an obstacle as 
+referred to in Section 17.1, the Loan will continue to run at the interest rate that applied to the 
+immediately preceding Interest Period. As soon as the obstacle has ceased to exist, the 
+Administrative Agent will calculate a new interest rate, which will apply from the second Business 
+Day after the date of the estimate up until the end of the current Interest Period.  
+Interest is paid in arrears on each relevant Interest Payment Date and is calculated according to the 
+Day Count Convention for MTN in SEK and EUR for the relevant Interest Period, or by using such 
+other method of calculation as is applied for the relevant Base Rate. 
+(c) Zero Coupon 
+If the Loan is specified as a Zero Coupon it bears no interest. Loans with Zero Coupon may be 
+issued at a discount, par or premium. 
+6.3 
+Interest (where applicable) is paid on the relevant Interest Payment Date. 
+6.4 
+If the Interest Payment Date for Fixed Rate Loans falls on a non-Business Day, interest will not be paid 
+until the following Business Day (an Interest Period shall however not be adjusted). However, interest 
+is only calculated and payable up to and including the Interest Payment Date.  
+6.5 
+If the Interest Payment Date for Floating Rate Loans falls on a non-Business Day, the Interest Payment 
+Date will instead be considered to be the nearest subsequent Business Day, provided that said Business 
+Day does not fall in a new calendar month, in which case the Interest Payment Date will be considered 
+to be the preceding Business Day. 
+7 
+DEFAULT INTEREST 
+7.1 
+In the event of any default in payment, default interest shall be payable on the overdue amount from its 
+due date up to and including the date on which payment is made at a rate corresponding to the average 
+of one week STIBOR for MTN denominated in SEK and one week EURIBOR for MTN denominated 
+in EUR for the duration of the delay, plus two (2) percentage points in each case. For this purpose, 
+STIBOR and EURIBOR shall be determined on the first Business Day in each calendar week for the 
+duration of the period of default. Default interest in accordance with this Section 7.1 for interest-bearing 
+Loans shall never be paid at an interest rate lower than the interest rate applicable to the relevant Loan 
+on its relevant due date plus two (2) percentage points. Default interest shall not be capitalised. 
+7.2 
+If the default in payment is due to an impediment affecting a Dealer or Euroclear Sweden, default 
+interest shall accrue at a rate corresponding to: 
+(a) for interest-bearing Loans, the interest rate applicable to the relevant Loan on its relevant due date. 
+(b) for Zero Coupon Loans, the average of one week STIBOR or EURIBOR respectively for the 
+duration of the delay (whereby STIBOR and EURIBOR shall be determined on the first Business 
+Day of each calendar week for the duration of the period of default). 
+8 
+REPAYMENT, REPURCHASE AND VOLUNTARY TOTAL REDEMPTION (CALL OPTION) 
+8.1 
+Loans fall due for payment on the Maturity Date, with the amount per MTN that is specified in the Final 
+Terms along with accrued interest (if any). If the Maturity Date falls on a day that is not a Business Day, 
+however, the Loan is repaid on the following Business Day.
+
+--- Page 26 ---
+23 
+ 
+8.2 
+The Company may, by agreement with the relevant Noteholder(s), repurchase MTN at any time and at 
+any price in the open market or otherwise provided this is in compliance with applicable law. MTN that 
+are owned by the Company may, according to the Company’s own decision, be retained, transferred or 
+cancelled. 
+8.3 
+The Final Terms for a Loan may specify a right for the Company to redeem all, but not some only, of 
+the outstanding MTN under that Loan in full on any Business Day prior to the Maturity Date for such 
+Loan. If MTN are redeemed pursuant to this Section, such MTN shall be redeemed at the time and to 
+the price specified in such Final Terms together with any accrued but unpaid interest. Redemption in 
+accordance with this Section shall be made by the Company giving not less than fifteen (15) Business 
+Days’ notice to the Noteholders and the Administrative Agent, in each case calculated from the effective 
+date of the notice. Any such notice shall state the date on which the MTN of that Loan are to be 
+redeemed, the relevant Record Date and the redemption price and is irrevocable but may, at the 
+Company’s discretion, contain one or more conditions precedent that shall be satisfied prior to the 
+Record Date. Upon fulfilment of the conditions precedent(s) (if any), the Company shall redeem the 
+MTN in full at the applicable amounts on the date on which the MTN are to be redeemed or repurchased 
+as specified in the above notice. 
+9 
+REPURCHASE IN CASE OF CHANGE OF CONTROL 
+9.1 
+Each Noteholder is entitled to demand repurchase of all, or some, of the MTN held by the Noteholder, 
+if: 
+(a) the shares in the Company cease to be admitted to trading on a Regulated Market; or 
+(b) an event or a series of events occurs, resulting in a natural or legal person, individually or together 
+with such related parties as referred to in the Stock Market (Takeover Bids) Act (lag (2006:451) 
+om offentliga uppköpserbjudanden på aktiemarknaden), directly or indirectly, at some point (i) 
+acquiring or controlling more than fifty (50) per cent. of the shares or voting rights in the Company 
+or (ii) obtaining the right to appoint or remove the whole or a majority of the directors of the board 
+of directors of the Company. 
+9.2 
+It is the responsibility of the Company, as soon as the Company becomes aware of a change of 
+ownership as described in Section 9.1, to notify the Noteholders of this through a press release, on the 
+Company’s website and in accordance with Section 16 (Notices). The notification must include 
+instructions regarding how a Noteholder that wishes to have MTN repurchased should act, as well as 
+specifying the repurchase date. 
+9.3 
+The repurchase date will fall at the earliest twenty (20) and at the latest forty (40) Business Days after 
+the notification of the change of ownership has been sent to Noteholders in accordance with Section 9.2. 
+However, in the event the repurchase date is not a Business Day, the repurchase date shall be deemed 
+to be the Business Day immediately following. 
+9.4 
+Where a right to repurchase exists, the Company shall, upon demand by a Noteholder, repurchase the 
+relevant MTN on the repurchase date at the price per MTN that would have been repaid on the Maturity 
+Date, together with accrued interest (if any). For MTN with Zero Coupon, an amount per MTN 
+calculated in accordance with Section 11.5 shall be paid instead. 
+9.5 
+Notices from Noteholders regarding demands for repurchase of MTN’s shall be drafted in accordance 
+with the instructions set forth in the notice provided to the Noteholders in accordance with Section 9.2. 
+The Notice from the Noteholder must be received by the Company at least ten (10) Business Days 
+before repurchase date.
+
+--- Page 27 ---
+24 
+ 
+10 
+UNDERTAKINGS 
+As long as an MTN is outstanding, the Company undertakes the following. 
+10.1 
+Status of the Loan 
+The Company shall ensure that its payment obligations under the Loans rank at least pari passu with its 
+other unsubordinated and unsecured payment obligations, save for such obligations as may be preferred 
+by provisions of mandatory law. 
+10.2 
+Nature of business and assets 
+The Company undertakes not to (i) materially change the nature of the Group’s operations and business, 
+or (ii) sell or otherwise dispose of any asset where such sale or disposition has a material adverse effect 
+on the Company’s ability to fulfil its payment obligations towards the Noteholders. 
+10.3 
+Market Loans 
+The Company undertakes to ensure, as long as any MTN is outstanding, that no Group Company: 
+(a) other than the Company, will issue any Market Loan; or 
+(b) maintains, prolongs or provides any guarantee or security over any of the Group’s present or future 
+assets to secure any Market Loan. 
+10.4 
+Admission to trading on a Regulated Market 
+The Company undertakes to apply for admission on the relevant Regulated Market for Loans which 
+according to the Final Terms must be admitted to trading on a Regulated Market, and to take any 
+measures that may be required to maintain the admission as long as the relevant Loan is outstanding, 
+however, not longer than as permitted under applicable laws and regulations. 
+10.5 
+Availability of Loan Terms and Conditions 
+The Company undertakes to ensure that the current version of these General Terms and Conditions, as 
+well as the Final Terms for all outstanding Loans that have been admitted to trading on a Regulated 
+Market, are kept available on the Company’s website. 
+11 
+TERMINATION OF LOANS 
+11.1 
+The Administrative Agent shall declare in writing a relevant Loan, together with accrued interest (if 
+any), immediately due and payable, or payable at such time as the Administrative Agent or the 
+Noteholders’ Meeting (as applicable) decides, upon the occurrence of any circumstance stated in 
+Section 11.2 and if: 
+(a) so decided by the Noteholders under a Loan at the Noteholders’ Meeting; or 
+(b) so requested in writing by Noteholders who, at the time of the request, represent not less than ten 
+(10) per cent. of the Adjusted Loan Amount under the relevant Loan. 
+A request for termination may only be made by Noteholders who are registered in the Debt Register 
+maintained by Euroclear Sweden on the Business Day immediately following the date on which the 
+request was received by the Administrative Agent, and must be made jointly if it is submitted by several 
+Noteholders each representing less than ten (10) per cent. of the Adjusted Loan Amount under the 
+relevant Loan. 
+11.2 
+Loans may only be declared due and payable in accordance with Section 11.1 provided that:
+
+--- Page 28 ---
+25 
+ 
+(a) Non-Payment 
+The Company fails to make timely payment of principal or interest due in respect of any Loan under 
+this MTN Programme, unless the delay: 
+(i) is a consequence of a technical or administrative error; and  
+(ii) does not last for longer than five (5) Business Days. 
+(b) Other obligations 
+The Company, in any respect other than that set out in paragraph (a) above, does not comply with 
+its obligations under the Loan Terms and Conditions in respect of the relevant Loan, provided that: 
+(i) the non-compliance is capable of remedy; and 
+(ii) the Company has received a written request from the Administrative Agent to remedy the non-
+compliance and it has not been remedied within twenty (20) Business Days. 
+(c) Cross payment default and acceleration 
+Any financial indebtedness of the Company or any Group Company is not paid when due as 
+extended by any originally applicable grace period, or is declared to be or otherwise becomes due 
+and payable prior to its specified maturity as a result of an event of default (however described), 
+provided that Loans may only be declared due and payable under this paragraph (c) if the aggregate 
+amount of financial indebtedness referred to herein is at least SEK 150,000,000 or its equivalent. 
+(d) Insolvency 
+Any of the Company or a Material Group Company is, or is deemed for the purposes of any 
+applicable regulation to be, Insolvent. 
+(e) Insolvency proceedings 
+Any corporate action, legal proceedings or other procedure or step other than vexatious or frivolous 
+and as disputed in good faith and discharged within thirty (30) Business Days is taken in relation 
+to: 
+(i) the suspension of payments, a moratorium of any indebtedness, winding-up, dissolution, 
+administration, company reorganisation (företagsrekonstruktion) or bankruptcy (konkurs) of 
+the Company or a Material Group Company; 
+(ii) a composition, compromise, assignment or arrangement with creditors of the Company or a 
+Material Group Company generally; 
+(iii) the appointment of a liquidator (other than in respect of a solvent liquidation of a Material 
+Group Company), administrator or other similar officer in respect of the Company or a 
+Material Group Company or any of their respective assets; or 
+(iv) any step analogous to paragraphs (i)-(iii) above is taken in any jurisdiction in relation to the 
+Company or a Material Group Company.
+
+--- Page 29 ---
+26 
+ 
+(f) Creditors’ process 
+Any attachment, sequestration, distress or execution, or any analogous process in any jurisdiction, 
+affects any asset of the Company or a Group Company having a value of not less than 
+SEK 150,000,000 or its equivalent and which is not discharged within thirty (30) Business Days. 
+(g) Merger 
+The Company is subject to a merger with any other person, other than with Group Companies where 
+the Company is the surviving entity. 
+11.3 
+The Administrative Agent may not declare a relevant Loan along with interest (if any) as due for 
+payment pursuant to Section 11.2 by referring to grounds for termination, if a Noteholders’ Meeting has 
+resolved that such grounds for termination (temporarily or permanently) will not result in termination 
+pursuant to Section 11.2. 
+11.4 
+It is the responsibility of the Company to notify the Dealers and the Noteholders immediately in 
+accordance with Section 16 (Notices) in the event grounds for termination as set out in Section 11.2 
+should occur. In the absence of such notification, neither the Administrative Agent nor the Dealers, 
+regardless of their actual knowledge, shall be deemed to be aware of grounds for termination. Neither 
+the Administrative Agent nor the Dealers are themselves obliged to monitor whether the conditions for 
+termination according to Section 11.2 exist. 
+11.5 
+In the case of the repayment of Loans after termination pursuant to Section 11.1: 
+(a) interest-bearing Loans will be repaid at an amount per MTN that, together with accrued interest, 
+would have been repaid on the final Maturity Date; and 
+(b) non-interest-bearing Loans shall be redeemed at an amount per MTN determined by the following 
+formula as per the date of acceleration of the Loan: 
+Nominal Amount 
+(1 + r)t 
+r =  
+the ask rate quoted by the Administrative Agent for Swedish government 
+bonds with an outstanding term to maturity corresponding to the remaining 
+term of the relevant Loan. In the absence of such ask rate, the bid rate shall 
+be used instead, as reduced by a market bid/ask spread, expressed in 
+percentage points. The calculation shall be based on the closing quotation. 
+t =  
+the remaining term for the relevant Loan, expressed in the Day Count 
+Convention Actual/360. 
+12 
+NOTEHOLDERS’ MEETING 
+12.1 
+The Administrative Agent may and shall, at the request of the Company or Noteholders who, at the time 
+of the request, represent at least one tenth of the Adjusted Loan Amount under a particular Loan (said 
+request may only be submitted by Noteholders who are registered in the Debt Register for MTN 
+maintained by Euroclear Sweden on the Business Day immediately following the date on which the 
+request was received by the Administrative Agent, and must be made jointly if it is submitted by several 
+Noteholders each representing less than one tenth of the Adjusted Loan Amount), convene a 
+Noteholders’ Meeting for the Noteholders under the relevant Loan.
+
+--- Page 30 ---
+27 
+ 
+12.2 
+The Administrative Agent shall convene a Noteholders’ Meeting by sending notification to each 
+Noteholder and the Company within five (5) Business Days after receiving a request from the Company 
+or Noteholders pursuant to Section 12.1 (or such later date as required for technical or administrative 
+reasons). The Administrative Agent must notify the Issuing Dealer without delay and in writing about 
+the abovementioned notification.  
+12.3 
+The Administrative Agent may refrain from convening a Noteholders’ Meeting if (i) the proposed 
+decision must be approved by a person in addition to the Noteholders and this person has notified the 
+Administrative Agent that such approval will not be given, or (ii) the proposed decision is not 
+compatible with applicable law. 
+12.4 
+The convening notification referred to in Section 12.2 must include (i) the time of the meeting, (ii) the 
+venue for the meeting, (iii) the agenda for the meeting (including any request for a decision from the 
+Noteholders), and (iv) a proxy form. Only matters that have been included in the convening notification 
+may be decided at the Noteholders’ Meeting. If it is necessary for Noteholders to notify their intention 
+to attend the Noteholders’ Meeting, this requirement must be specified in the convening notification. 
+12.5 
+The Noteholders’ Meeting shall be held no earlier than fifteen (15) Business Days and no later than 
+thirty (30) Business Days after the notification. Noteholders’ Meetings for multiple loans under the 
+MTN Programme can be held at the same time. 
+12.6 
+Without deviating from the provisions in these General Terms and Conditions, the Administrative Agent 
+may prescribe such additional provisions regarding the notification and the implementation of the 
+Noteholders’ Meeting as it deems appropriate. Such provisions may include the potential for 
+Noteholders to vote without attending the meeting in person, i.e. that voting may take place using an 
+electronic voting procedure or through a written voting procedure. 
+12.7 
+Only persons who are, or have been, authorised in accordance with Section 4 (Right to act on behalf of 
+a Noteholder) by a person who is a Noteholder on the Record Date for the Noteholders’ Meeting may 
+exercise voting rights at such Noteholders’ Meeting, provided that the relevant MTN are covered by the 
+Adjusted Loan Amount. The Administrative Agent must ensure that, at the Noteholders’ Meeting, there 
+is a printout of the Debt Register maintained by Euroclear Sweden from the Record Date for the 
+Noteholders’ Meeting. 
+12.8 
+Noteholders, the Administrative Agent and the Issuing Dealers, as well as their respective 
+representatives, assistants and any experts, are entitled to attend the Noteholders’ Meeting. 
+Representatives must present a duly issued power of attorney, which must be approved by the Chair of 
+the Noteholders’ Meeting. The Noteholders’ Meeting must begin with the appointment of a chair, a 
+person to take the minutes and persons to adjust the minutes. The Chair must draw up a list of attending 
+Noteholders who are eligible to vote, indicating the share of the Adjusted Loan Amount that each 
+Noteholder represents (the “Voting List”). After this, the Voting List must be approved by the 
+Noteholders’ Meeting. Noteholders who have cast their votes via an electronic voting procedure, a 
+voting slip or equivalent will, with the application of these provisions, be deemed to be present at the 
+Noteholders’ Meeting. Only those who were Noteholders on the Record Date, or representatives of said 
+Noteholders, and who are covered by the Adjusted Loan Amount, are entitled to vote and will be 
+included in the Voting List. The Company will have access to relevant voting calculations and the 
+supporting data for these. The minutes shall be completed as soon as possible and made available to 
+Noteholders, the Company, the Administrative Agent and the Issuing Dealer. 
+12.9 
+Decisions in the following matters require the approval of Noteholders representing at least ninety (90) 
+per cent. of the portion of the Adjusted Loan Amount for which Noteholders are voting under the 
+relevant Loan at the Noteholders’ Meeting:
+
+--- Page 31 ---
+28 
+ 
+(a) changing the Maturity Date, reduction of the Loan Amount, changing of terms relating to interest 
+or the amount to be repaid (other than in accordance with the Loan Terms and Conditions, including 
+what follows from the application of Section 13 (Replacement of Base Rate) and changing of the 
+relevant Currency of the Loan; 
+(b) change to the terms of the Noteholders’ Meeting under this Section 12;  
+(c) change of debtors; and 
+(d) mandatory exchange of MTN for other securities. 
+12.10 
+Matters that are not covered by Section 12.9 require the consent of Noteholders representing more than 
+fifty (50) per cent. of the portion of the Adjusted Loan Amount for which Noteholders are voting under 
+the relevant Loan at the Noteholders’ Meeting. This includes, but is not limited to, amendments and 
+waivers of rights in relation to the Loan Terms and Conditions which do not require a greater majority 
+(other than amendments according to Section 14 (Amendment of terms etc.)), as well as early 
+termination of Loans. 
+12.11 
+A quorum at a Noteholders’ Meeting requires the presence of Noteholders representing at least fifty 
+(50) per cent. of the Adjusted Loan Amount under the relevant Loan in respect of a matter in 
+Section 12.9, or twenty (20) per cent. of the Adjusted Loan Amount under the relevant Loan in respect 
+of other matters, attend the meeting in person or by telephone (or attend through an authorised 
+representative). 
+12.12 
+If the Noteholders’ Meeting has not met the necessary quorum requirements, the Administrative Agent 
+must convene a new Noteholders’ Meeting (in accordance with Section 12.2), provided that the relevant 
+proposal has not been withdrawn by the person or persons who initiated the Noteholders’ Meeting. The 
+quorum requirements in Section 12.11 is not applicable to such new Noteholders’ Meeting. If the 
+Noteholders’ Meeting has met the quorum requirement for some but not all of the matters to be resolved 
+on in the Noteholders’ Meeting, decisions shall be made on those matters for which quorum is present, 
+and other matters will be referred to a new Noteholders’ Meeting. 
+12.13 
+A decision at a Noteholders’ Meeting which imposes new obligations on, or limits the rights of, the 
+Company or an Issuing Dealer under the Loan Terms and Conditions requires the written approval of 
+the relevant party. 
+12.14 
+A Noteholder that holds more than one MTN does not need to vote for all the MTN they hold, nor vote 
+in the same way for all their MTN. 
+12.15 
+The Company may not, directly or indirectly, pay or contribute to the payment of any compensation to 
+any Noteholder for its approval under the Loan Terms and Conditions unless such compensation is 
+offered to all Noteholders who provide their consent at the relevant Noteholders’ Meeting. 
+12.16 
+A decision made at a Noteholders’ Meeting shall be binding on all Noteholders under the relevant Loan, 
+whether or not they were present at the Noteholders’ Meeting. Noteholders shall not be held liable for 
+any damage that the decision may cause another Noteholder. 
+12.17 
+At the request of the Administrative Agent, the Company must, without delay, provide the 
+Administrative Agent with a certificate indicating the total amount for all the MTN owned by Group 
+Companies on the Business Day specified in Section 12.1 and the relevant Record Date prior to a 
+Noteholders’ Meeting, regardless of whether said Group Company is directly registered as an owner of 
+MTN. The Administrative Agent will not be responsible for the content of said certificate or otherwise 
+be responsible for determining whether an MTN is owned by a Group Company.
+
+--- Page 32 ---
+29 
+ 
+12.18 
+Noteholders under the relevant Loan shall be notified, without delay, of any and all decisions made at 
+a Noteholders’ Meeting through a press release published on the Company’s website and in accordance 
+with Section 16 (Notices). At the request of a Noteholder or the Issuing Dealer, the Administrative 
+Agent shall provide the Noteholder with the minutes from the relevant Noteholders’ Meeting. Failure 
+to notify the Noteholders as stated above in this section does not affect the validity of the decision. 
+13 
+REPLACEMENT OF BASE RATE 
+13.1 
+If a Base Rate Event as described in Section 13.2 below has occurred, the Company shall, in 
+consultation with the Arranger, initiate the procedure to, as soon as reasonably possible, determine a 
+Successor Base Rate, Adjustment Spread, as well as initiate the procedure to determine upon necessary 
+administrative, technical and operational amendments to the Loan Terms and Conditions in order to 
+apply, calculate and finally decide the applicable Base Rate. The Arranger is not obligated to participate 
+in such consultation or determination as described above. Should the Arranger not participate in such 
+consultation or determination, the Company shall, at the Company’s expense, as soon as possible 
+appoint an Independent Adviser to initiate the procedure to, as soon as reasonably possible, determine 
+upon the mentioned. Provided that the Successor Base Rate, the Adjustment Spread and other 
+amendments have been finally decided no later than prior to the relevant Interest Determination Date in 
+relation to the next succeeding Interest Period, they shall become effective with effect from and 
+including the commencement of the next succeeding Interest Period, always subject to any technical 
+limitations of Euroclear Sweden and any calculation methods applicable to such Successor Base Rate. 
+13.2 
+A base rate event is an event where one or more of the following events occur (“Base Rate Event”) 
+which means: 
+(a) the Base Rate (for the relevant Interest Period of the relevant Loan) has ceased to exist or ceased 
+to be published for at least five (5) consecutive Business Days as a result of the Base Rate (for the 
+relevant Interest Period of the relevant Loan) ceasing to be calculated or administered; 
+(b) a public statement or publication of information by (i) the supervisor of the Base Rate 
+Administrator or (ii) the Base Rate Administrator that the Base Rate Administrator ceases to 
+provide the applicable Base Rate (for the relevant Interest Period of the relevant Loan) permanently 
+or indefinitely and, at the time of the statement or publication, no successor administrator has been 
+appointed or is expected to be appointed to continue to provide the Base Rate; 
+(c) a public statement or publication of information in each case by the supervisor of the Base Rate 
+Administrator that the Base Rate (for the relevant Interest Period of the relevant Loan) is no longer 
+representative of the underlying market which the Base Rate is intended to represent and the 
+representativeness of the Base Rate will not be restored in the opinion of the supervisor of the Base 
+Rate Administrator; 
+(d) a public statement or publication of information in each case by the supervisor of the Base Rate 
+Administrator, with the consequence that it is unlawful for the Company, the Arranger or the 
+Administrative Agent to calculate any payments due to be made to any Noteholders using the 
+applicable Base Rate (for the relevant Interest Period of the relevant Loan) or it has otherwise 
+become prohibited to use the applicable Base Rate (for the relevant Interest Period of the relevant 
+Loan); 
+(e) a public statement or publication of information in each case by the bankruptcy trustee of the Base 
+Rate Administrator or by the trustee under the bank recovery and resolution framework 
+(krishanteringsregelverket), or in respect of EURIBOR, from the equivalent entity with insolvency
+
+--- Page 33 ---
+30 
+ 
+or resolution powers over the Base Rate Administrator , containing the information referred to in 
+paragraph (b) above; or 
+(f) a Base Rate Event Announcement has been made and the announced Base Rate Event as set out 
+in paragraphs (b)-(e) above will occur within six (6) months. 
+13.3 
+Upon a Base Rate Event Announcement, the Company may (but are not obligated to), if it is possible 
+at such time to determine the Successor Base Rate, Adjustment Spread and other amendments, in 
+consultation with the Arranger or through the appointment of an Independent Adviser, initiate the 
+procedure as described in Section 13.1 above to finally decide the Successor Base Rate, the Adjustment 
+Spread and other amendments, in order to change the Successor Base Rate at an earlier time. 
+13.4 
+If a Base Rate Event set out in any of the paragraphs (a)-(e) of Section 13.2 has occurred but no 
+Successor Base Rate and Adjustment Spread have been finally decided at the latest prior to the relevant 
+Interest Determination Date or if such Successor Base Rate and Adjustment Spread have been finally 
+decided but due to technical limitations of Euroclear Sweden cannot be applied in relation to the relevant 
+Interest Determination Date, the interest applicable to the next succeeding Interest Period shall be: 
+(a) if the previous Base Rate is available, determined pursuant to the terms that would apply to the 
+determination of the Base Rate as if no Base Rate Event had occurred; or  
+(b) if the previous Base Rate is no longer available or cannot be used in accordance with applicable 
+law or regulation, equal to the interest determined for the immediately preceding Interest Period. 
+The provisions set out in this Section are applicable on subsequent Interest Periods, provided that all 
+relevant measures have been carried out regarding the application of and the adjustments described in 
+this Section 13 (Replacement of Base Rate) prior to every such subsequent Interest Determination 
+Date, but without success. 
+13.5 
+Prior to the Successor Base Rate, Adjustment Spread and any other amendments becoming effective, 
+the Company shall promptly, following the final decision by the Company in consultation with the 
+Arranger or the Independent Adviser of any Successor Base Rate, Adjustment Spread and other 
+amendments, give notice thereof to the Noteholders, the Administrative Agent, the Arranger and 
+Euroclear Sweden in accordance with Section 16 (Notices). The notice shall also include information 
+about the effective date of the amendments. If the MTN are admitted to trading on a Regulated Market, 
+the Company shall also give notice of the amendments to the relevant stock exchange. 
+13.6 
+The Arranger, the Independent Adviser and the Administrative Agent that carries out measures in 
+accordance with this Section 13 shall not be liable whatsoever for any damage or loss caused by 
+determinations, action taken or omitted by it in conjunction with the determination and final decision 
+of the Successor Base Rate, Adjustment Spread and any amendments thereto to the Loan Terms and 
+Conditions, unless directly caused by its gross negligence or wilful misconduct. The Arranger, the 
+Independent Adviser and the Administrative Agent shall never be responsible for indirect or 
+consequential loss. 
+13.7 
+In this Section 13, the following definitions have the meaning described below: 
+“Adjustment Spread” means a spread or a formula or methodology for calculating a spread to be 
+applied to a Successor Base Rate and that is: 
+(i) 
+formally recommended by any Relevant Nominating Body in relation to the replacement of 
+the Base Rate; or 
+(ii) 
+if item (i) is not applicable, the adjustment spread that the Company in consultation with the 
+Arranger or the Independent Adviser determines is reasonable to use in order to eliminate, to 
+the extent possible, any transfer of economic value from one party to another as a result of a
+
+--- Page 34 ---
+31 
+ 
+replacement of the Base Rate and is customarily applied in comparable debt capital market 
+transactions. 
+“Base Rate Administrator” means Swedish Financial Benchmark Facility AB (SFBF) in relation to 
+STIBOR and the European Money Markets Institute (EMMI) in relation to EURIBOR or any person 
+replacing it as administrator of the Base Rate. 
+“Base Rate Event Announcement” means a public statement or published information as set out in 
+paragraphs (b) to (e) of Section 13.2 that any event or circumstance specified therein will occur. 
+“Independent Adviser” means an independent financial institution or advisor of repute in the debt 
+capital markets where the Base Rate is commonly used. 
+“Relevant Nominating Body” means, subject to applicable law, firstly any relevant supervisory 
+authority, secondly any applicable central bank, or any working group or committee of any of them or 
+thirdly, the Financial Stability Board or any part thereof. 
+“Successor Base Rate” means: 
+(i) 
+the screen or benchmark rate, including the methodology for calculating term structure and 
+calculation methods in respect of debt instruments with similar interest rate terms as MTN, 
+which is formally recommended as a successor to or replacement of the Base Rate by a 
+Relevant Nominating Body as successor; or 
+(ii) 
+if there is no such rate as described in item (i), such other rate as the Company in 
+consultation with the Arranger or the Independent Adviser determines is most comparable to 
+the Base Rate. 
+For the avoidance of doubt, in the event that the Successor Base Rate ceases to exist, this definition 
+shall be applied mutatis mutandis to such new Successor Base Rate. 
+14 
+AMENDMENT OF TERMS ETC. 
+14.1 
+The Company and the Dealers may agree on adjustments to clear and obvious errors in these General 
+Terms and Conditions. 
+14.2 
+The Company and the Administrative Agent may agree on adjustments to clear and obvious errors in 
+the Final Terms for a particular Loan. 
+14.3 
+The Company and the Arranger or the Independent Adviser may, without the approval of the 
+Noteholders’, amend the Loan Terms and Conditions in accordance with what is described in Section 13 
+(Replacement of Base Rate). 
+14.4 
+The accession of a new Dealer to the MTN Programme may take place by means of a written agreement 
+between the Company, the relevant institution and existing Dealers. Dealers may retire as Dealers, 
+however the Administrative Agent in respect of a particular Loan may not retire as Administrative 
+Agent, unless a new Administrative Agent is appointed in its place for said Loan. 
+14.5 
+Amendments and waivers of Loan Terms and Conditions, other than as set out in Sections 14.1 to 14.4 
+shall take place through a decision at a Noteholders’ Meeting as described in Section 12 (Noteholders’ 
+Meeting). 
+14.6 
+An approval at a Noteholders’ Meeting of an amendment to terms and conditions may cover the 
+substance of the amendment, and does not need to include the specific wording of the amendment. 
+14.7 
+A decision regarding an amendment of the terms shall also include a decision in respect of when the 
+amendment enters into force. However, an amendment shall not enter into force before it has been 
+registered with Euroclear Sweden and published on the Company’s website.
+
+--- Page 35 ---
+32 
+ 
+14.8 
+The amendment or concession of Loan Terms and Conditions in accordance with this Section 13 must 
+be notified to the Noteholders by the Company as soon as possible in accordance with Section 16 
+(Notices) and published in accordance with Section 10.5. 
+15 
+TIME-BAR FOR CLAIMS 
+15.1 
+Claims for repayment of principal shall be time-barred and become void ten (10) years from the 
+Maturity Date. Claims for interest shall be time-barred and become void three (3) years after each 
+relevant Interest Payment Date. The Company is entitled to any funds set aside for payments in respect 
+of which the Noteholders’ right to receive payment has been time-barred and has become void. 
+15.2 
+If a limitation period is duly interrupted in accordance with the Swedish Act on Limitations 
+(preskriptionslag (1981:130)), a new limitation period of ten (10) years with respect to the right to 
+receive repayment of the principal, and of three (3) years with respect to receive payment of interest 
+will commence, in both cases calculated from the date of interruption of the limitation period, as such 
+date is determined pursuant to the provisions of the Swedish Act on Limitations. 
+16 
+NOTICES 
+16.1 
+Notifications shall be given to the Noteholders for the Loan in question at the address registered with 
+Euroclear Sweden on the Record Date prior to dispatch. A notification to the Noteholders must also be 
+made public by means of a press release and be published on the Company’s website. 
+16.2 
+Notification must be sent to the Company and the Dealers at the address registered with the Swedish 
+Companies Registration Office (Bolagsverket) at the time notice is given. 
+16.3 
+A notification to the Company or Noteholders in accordance with the Loan Terms and Conditions that 
+is sent by normal mail to the specified address will be deemed to have been received by the recipient on 
+the third Business Day after dispatch, and a notification sent by courier will be deemed to have been 
+received by the recipient when it has been delivered at the specified address.  
+16.4 
+In the event a notification has not been sent correctly to a particular Noteholder, this will not affect the 
+impact of the notification on other Noteholders. 
+17 
+LIMITATION OF LIABILITY ETC. 
+17.1 
+The Dealers shall not be liable for any damage as a consequence of Swedish or foreign legislation, 
+actions by Swedish or foreign public authorities, acts of war, strikes, blockades, boycotts, lockouts, or 
+any other similar circumstance. The reservation in respect of strikes, blockades, boycotts, and lockouts 
+applies notwithstanding that the Dealer itself takes such measures or is subject to such measures. 
+17.2 
+Damage which arises in other cases shall not be compensated by the Dealer provided the Dealer acted 
+with normal care. 
+17.3 
+No Dealer shall be obligated in any circumstance to pay compensation for indirect loss. 
+17.4 
+In the event a Dealer is prevented from taking a measure as a consequence of a circumstance set forth 
+in Section 17.1, the measure may be postponed until such time as the impediment no longer exists. 
+17.5 
+The provision set forth above shall apply unless otherwise required by the Swedish Financial 
+Instruments Accounting Act. 
+18 
+GOVERNING LAW AND JURISDICTION  
+18.1 
+Swedish law will apply to the Loan Terms and Conditions and all non-contractual obligations that arise 
+in connection with the application of the Loan Terms and Conditions.
+
+--- Page 36 ---
+33 
+ 
+18.2 
+Disputes must be determined by a Swedish court. Stockholm District Court (Stockholms tingsrätt) will 
+be the court of first instance. 
+________________________ 
+It is hereby confirmed that the above General Terms and Conditions are binding on us 
+Stockholm, 22 May 2024 
+SINCH AB (PUBL)
+
+--- Page 37 ---
+34 
+ 
+FORM OF FINAL TERMS 
+The following template will be used for the preparation of the Final Terms for each loan issued under the MTN 
+Programme 
+ 
+FINAL TERMS 
+(“Final Terms”) 
+ 
+for loan no. [•] 
+under SINCH AB (publ)’s (the “Company”)  
+Swedish MTN Programme 
+ 
+The General Terms and Conditions dated 22 May 2024 together with the Final Terms set forth below shall apply 
+to the Loan. Unless otherwise stated, definitions used in these Final Terms are set forth in the Terms and Conditions 
+or otherwise in the Company’s base prospectus, approved and registered with the Swedish Financial Supervisory 
+Authority on [•] 2024 (“Base Prospectus”), including any published supplemental prospectus prepared for the 
+MTN Programme from time to time in accordance with Regulation (EU) 2017/1129 of the European Parliament 
+and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or 
+admitted to trading on a regulated market, and repealing Directive 2003/71/EC (the “Prospectus Regulation”). 
+This document constitutes the Final Terms for the Loan and has been prepared in accordance with Article 8 of the 
+Prospectus Regulation. 
+Complete information about the Company and the MTN Programme can only be obtained through the Base 
+Prospectus, any published supplementary prospectuses and these Final Terms, which is why investors who are 
+considering investing in MTN should read these documents together and in full. The Base Prospectus and any 
+supplementary prospectuses to the Base Prospectus as applicable are available on the Company’s website 
+[website]. 
+[These Final Terms replace the Final Terms dated [date], whereby the Nominal Amount has been increased by 
+[SEK/EUR] [amount in figures] from [SEK/EUR] [amount in figures] to [SEK/EUR] [amount in figures].] 
+GENERAL 
+1. 
+Loan number: 
+[•] 
+ 
+(i) 
+Tranche name: 
+[•] 
+2. 
+Aggregate Nominal Amount: 
+ 
+ 
+(i) 
+for the loan: 
+[•] 
+ 
+(ii) 
+for tranche [•]: 
+[(iii) for tranche [•] (indicate previous 
+tranches):] 
+[•] 
+[•] 
+3. 
+Price per MTN: 
+[•] % of the Nominal Amount [plus accrued interest as 
+from [insert date] if applicable] 
+4. 
+Currency: 
+[SEK/EUR] 
+5. 
+Nominal Amount: 
+[SEK/EUR] [•] (Not less than EUR 100,000 or the 
+equivalent thereof in SEK) 
+6. 
+Loan Date: 
+[•]
+
+--- Page 38 ---
+35 
+ 
+7. 
+Interest Commencement Date: 
+[Loan Date/[•]] 
+8. 
+Settlement Date: 
+[Loan Date/[•]] 
+9. 
+Maturity Date: 
+[•] 
+10. 
+Basis for calculation of interest: 
+[Fixed Rate] 
+[Floating Rate (FRN)] 
+[Zero Coupon] 
+11. 
+Amount as basis for calculation of 
+interest 
+[Nominal Amount/[•]] 
+BASIS FOR CALCULATION OF RETURN 
+12. 
+Fixed Rate: 
+[Applicable/Not applicable] 
+(If not applicable, delete the remaining subheadings of this 
+paragraph) 
+ 
+(i) 
+Interest Rate: 
+[•] % annual interest calculated on [Nominal Amount/[•]]. 
+ 
+(ii) 
+Interest Period: 
+The time from [•] up to and including [•] (the first Interest 
+Period) and thereafter each period of [•] months with the end 
+date on an Interest Payment Date 
+ 
+(iii) 
+Interest Payment Date(s): 
+[Annually/Semi-Annually/Quarterly] on [•], the first time on 
+[•] and the last time on [•] 
+(The above is adjusted in the event of a shortened or extended 
+Interest Period) 
+ 
+(iv) 
+Day Count Convention 
+Method: 
+30/360 [Specify] 
+ 
+(v) 
+Risk factors: 
+In accordance with the risk factor with the heading [“Notes 
+with fixed interest rate”] in the Base Prospectus. 
+13. 
+Floating Rate (FRN): 
+[Applicable/Not applicable] 
+(If not applicable, delete the remaining subheadings of this 
+paragraph) 
+ 
+(i) 
+Base Rate: 
+[•] months [STIBOR/EURIBOR] 
+[The [first/last] coupon’s Base Rate will be interpolated 
+linearly between [•] months [STIBOR/EURIBOR] and [•] 
+months [STIBOR/EURIBOR].] 
+ 
+(ii) 
+Margin: 
+[+/-][•] % annual interest calculated on [Nominal Amount/[•]]
+ 
+(iii) 
+Interest Determination Date: 
+[•] Business Days before each Interest Period, the first time 
+on [•] 
+ 
+(iv) 
+Interest Period: 
+The time from [•] up to and including [•] (the first Interest 
+Period) and thereafter each period of approx. [•] months with 
+the end date on an Interest Payment Date. 
+ 
+(v) 
+Interest Payment(s): 
+The final day in each Interest Period, [the [•], the [•], the [•] 
+and the [•],] the first time on [•] and the last time [the [•]/on 
+the Maturity Date]. 
+ 
+(vi) 
+Day Count Convention 
+Method: 
+Actual/360 [Specify]
+
+--- Page 39 ---
+36 
+ 
+ 
+(vii) 
+Risk factors: 
+In accordance with the risk factor with the heading[s] [“Notes 
+with floating interest rate”] [and “Risks relating to 
+benchmarks”] in the Base Prospectus. 
+14. 
+Zero Coupon: 
+[Applicable/Not applicable] 
+(If not applicable, delete the remaining subheadings of this 
+paragraph) 
+ 
+(i) 
+Terms for Loans without 
+interest: 
+[Specify details] 
+ 
+(ii) 
+Risk factors: 
+In accordance with the risk factor with the heading [“Notes 
+with zero coupon”] in the Base Prospectus. 
+REPAYMENT 
+15. 
+Amount at which MTN is to be repaid 
+on the Maturity Date: 
+[•] % of [Nominal Amount/[•]] 
+16. 
+Early voluntary redemption (call 
+option): 
+[Applicable/Not applicable] 
+(If not applicable, delete the remaining subheadings of this 
+paragraph) 
+[The Company may redeem all, but not some only, of the 
+MTN in full on any Business Day falling after [specify] at an 
+amount per MTN equal to [percentage] of the Nominal 
+Amount, together with accrued but unpaid Interest.]/[Specify 
+terms] 
+OTHER 
+17. 
+Estimated net proceeds: 
+[SEK]/[EUR] [•] [less customary transaction costs and 
+fees]/[Specify]. 
+18. 
+Use of net proceeds: 
+[General corporate purposes]/[Specify] 
+19. 
+Admission to trading on a Regulated 
+Market: 
+[Applicable/Not applicable] 
+(If not applicable, delete the remaining subheadings of this 
+paragraph) 
+ 
+(i) 
+Regulated Market: 
+[Nasdaq Stockholm/Specify other Regulated Market] 
+ 
+(ii) 
+Estimated total costs associated 
+with admission to trading 
+[•] 
+ 
+(iii) 
+Total number of securities 
+admitted to trading: 
+[•] 
+ 
+(iv) 
+Earliest date for admission to 
+trading: 
+[•] 
+20. 
+Interests: 
+[Specify/Not applicable]  
+(Interests and any conflicts of interest for individuals who 
+are involved in the share issue and that are of significance 
+for the Loan must be described) 
+21. 
+Credit rating for Loans: 
+[Specify/Not applicable] 
+22. 
+Resolutions as basis of the issue: 
+[Not applicable/Resolutions regarding this Loan were taken 
+on [insert date]/Specify]
+
+--- Page 40 ---
+37 
+ 
+(If resolutions regarding issues under the MTN Programme 
+are described in the Base Prospectus and this issue is covered 
+by such a decision, “Not applicable” must be used) 
+23. 
+Information from third parties: 
+[Information presented in these Final Terms originating from 
+third parties has been reproduced accurately and, as far as the 
+Company is aware and can ascertain from information 
+published by that third party, no facts have been omitted that 
+would render the reproduced information inaccurate or 
+misleading]/ [Not applicable] 
+24. 
+Issuing Dealer: 
+ 
+ 
+(i) 
+for tranche [•]: 
+[(ii) for tranche [•] (indicate previous 
+tranches):] 
+[[Skandinaviska Enskilda Banken AB (publ)] [Danske Bank 
+A/S Danmark, Sverige Filial] [Nordea Bank Abp] [Svenska 
+Handelsbanken AB (publ)] [Swedbank AB (publ)] [•]] 
+25. 
+Administrative Agent: 
+[[Skandinaviska Enskilda Banken AB (publ)] [Danske Bank 
+A/S Danmark, Sverige Filial] [Nordea Bank Abp] [Svenska 
+Handelsbanken AB (publ)] [Swedbank AB (publ)] [•]] 
+26. 
+ISIN: 
+SE[•] 
+ 
+The Company confirms that the above Final Terms are applicable to the Loan, together with the General Terms 
+and Conditions, and undertakes, in accordance therewith, to repay the Loan and to pay interest in accordance 
+herewith. 
+The Company further confirms that any material event after the date of the Base Prospectus that could affect the 
+market’s assessment of the Loan and the Company to this MTN have been publicly disclosed. 
+Stockholm [date for signing the Final Terms] 
+ 
+SINCH AB (PUBL)
+
+--- Page 41 ---
+38 
+ 
+DESCRIPTION OF THE ISSUER AND THE GROUP 
+Overview of the Issuer 
+Legal and commercial name. .....  
+Sinch AB (publ) 
+Corporate reg. no. ......................  
+556882-8908 
+LEI-code ....................................  
+549300UXY7QM6IDCGI12 
+Date and place of registration ....  
+1 February 2012, Sweden, with the Swedish Companies Registration
+Office (Sw. Bolagsverket) 
+Date of incorporation ................  
+31 January 2012 
+Legal form .................................  
+Swedish public limited liability company 
+Jurisdiction and laws .................  
+The Issuer is registered with the Swedish Companies Registration
+Office and operates under the laws of Sweden including, but not limited
+to, the Swedish Companies Act (Sw. aktiebolagslagen (2005:551)) and
+the Swedish Annual Accounts Act (Sw. årsredovisningslagen
+(1995:1554)) 
+Registered office .......................  
+Stockholm, Sweden 
+Head office and visiting address  
+Lindhagensgatan 112, SE-112 51 Stockholm, Sweden 
+Phone number ............................  
++46 (0)8 446 828 03 
+Website ......................................  
+www .sinch.com  
+(the information provided at the Issuer’s website does not form part of 
+this Prospectus unless explicitly incorporated by reference into the 
+Prospectus) 
+Objects of the Issuer ..................  
+In accordance with the articles of association adopted on 9 June 2022,
+the objects of the Issuer are to, directly or through partially or wholly
+owned companies, conduct business related to services and solutions for
+mobile communication, and own and manage securities and real
+properties and conduct business related thereto. 
+Business and operations 
+General information 
+Sinch powers meaningful conversations between businesses and their customers through its Customer 
+Communications Cloud. More than 150,000 businesses rely on Sinch and its global Super Network for messaging, 
+voice and email. Sinch has been profitable and fast-growing since it was founded in 2008. It is headquartered in 
+Stockholm, Sweden, with shares traded at NASDAQ Stockholm: XSTO:SINCH.. 
+Sinch develops cloud-based digital tools that help businesses engage with their customers and enhance the 
+experience. Sinch’s ambition is to pioneer the way the world communicates and to be a consolidating force in its 
+industry and continue to innovate, grow profitably, have satisfied customers and be a responsible and attractive 
+employer.  
+Strategy 
+The three pillar of Sinch’s strategy:
+
+--- Page 42 ---
+39 
+ 
+• 
+Customer first 
+Sinch supports its customers’ communication needs throughout the entire customer journey, from 
+marketing to service delivery and ending with customer care. To enable this, Sinch has created a regional 
+sales organization representing the full breadth of our product portfolio in a unified way towards its 
+targeted customer segments. Sinch’s services are primarily offered through an API but to serve its small 
+and midsize business (SMB) customers Sinch selectively also offers software applications. To extend 
+Sinch’s reach, Sinch has established partnerships with software providers that have pre-integrated its 
+solutions in their software suites. 
+ 
+• 
+Innovation and reliability 
+Through innovation and selected acquisitions, Sinch ensure that its product portfolio covers the 
+communication channels required to solve the customer’s problem and is based on reliable and value-
+creating technologies. Today, Sinch’s portfolio ranges from traditional voice, email and text messaging 
+to new interactive communication channels such as Rich Communication Services (RCS) and WhatsApp. 
+It also takes advantage of technical advances, such as AI. Sinch is serving demanding customers and to 
+ensure the quality and reliability they require, Sinch bases its services on its Super Network which 
+increases its control of the network layer. 
+ 
+• 
+Profitable growth – organically and through acquisitions 
+The digital communications market is large and global, but still fragmented. This makes acquisitions an 
+important route to reaching new customer segments, expanding Sinch’s product set and creating 
+economies of scale. Accordingly, Sinch has an expressed strategy to combine organic and acquired 
+growth. Sinch’s size and large traffic volumes provide it with economies of scale and a strong foundation 
+for efficiency and profitability. In fact, Sinch has been growing profitably since the company was founded 
+in 2008. 
+Sinch Customer Communications Cloud and Super Network 
+The Sinch Customer Communications Cloud enables businesses to use a wide set of digital communications 
+channels and offers several different ways to benefit from the services. SMS messages, voice calls and email
+
+--- Page 43 ---
+40 
+ 
+generate the largest volumes. Companies can opt to use a single product or weave multiple communication 
+channels together into an integrated customer experience. Sinch ensures that the offering related to every 
+communication channel is competitive on its own merits, but also encourage the business customers to leverage 
+the technology and benefit from the advantages that an integrated digital customer experience offers.  
+Sinch’s cloud services are scalable, secure, reliable and reachable by customers worldwide. The volumes are huge 
+and 19,000 transactions per second are processed in Sinch’s system which adds up to more than 700 billion 
+interactions per year. Sinch can offer all of this due to its understanding of local conditions and the Super Network, 
+or network-of-networks, that provides direct access to more than 600 mobile network operators all over the world. 
+For example, in the US, Sinch offers direct connections to most local operators and 95 per cent. of the population. 
+The Super Network also connects the world’s most important email box providers. With Sinch’s affiliated regional 
+data centers, it can offer fast access and redundant and secure data storage that complies with local law. 
+Product offering 
+Messaging 
+Enterprises typically use APIs to connect to Sinch’s cloud communications platform and reach their customers’ 
+phones through different types of messages. Enterprises with a need to send large volumes of messages typically 
+use an API (Application Programmable Interface) to initiate interactions with their customers through SMS and 
+next-generation messaging technologies like WhatsApp and RCS. 
+The SMB segment includes web-based, turnkey products that make it easy for businesses to engage with their 
+customers through mobile messaging. Products are offered under well established brands including 
+MessageMedia, SimpleTexting and ClickSend. The Sinch SMB offering is particularly strong in Australia, New 
+Zealand and the fast-growing US market. More than 70,000 active businesses use Sinch SMB products today with 
+global demand creating clear opportunities for continued consolidation and growth. 
+Voice 
+Sinch’s Voice communications solutions enable business customers, service providers and telecom carriers to 
+manage massive volumes of phone numbers and voice and emergency calls without costly investments in 
+infrastructure. Sinch helps businesses handle voice calls from any and all devices over the public switched 
+telephone network, helping businesses scale their communications and acquire local phone numbers as they 
+expand. The backbone of Sinch’s voice offering solutions is the Super Network, which reaches 95 percent of the 
+US population and completes more than 100 billion voice calls per year. The interconnect services Sinch offers to 
+American carriers and service providers are a major component of the business, but Sinch also supports a vast 
+array of applications related to voice services. 
+Email 
+Within the Email segment, Sinch offers industry-leading email deliverability to more than 100,000 customers 
+worldwide. Sinch helps its customers manage the entire email life cycle and control the variables that impact 
+deliverability. Sinch assist marketers in delivering effective campaigns and provide developers with the tools they 
+need to send automated transactional emails and analyze user behavior. Sinch’s product sets are: Mailgun APIs 
+for email, Mailjet email marketing products and Email on Acid test tools. 
+Overview of the Group 
+The Issuer is the ultimate parent company of the Group and the Group consisted of 167 subsidiaries as per 
+31 December 2023. The Group’s operations are conducted through, and the majority of revenues of the Issuer 
+emanates from, the Issuer’s operational subsidiaries. The Issuer is thus dependent on its subsidiaries in order to 
+generate profit and cash flow and to meet its obligations under any Loans.
+
+--- Page 44 ---
+41 
+ 
+Material agreements 
+Neither the Issuer nor any other Group Company has concluded any material contracts that are not entered into in 
+the ordinary course of its business which could result in any Group Company being under an obligation or 
+entitlement that is material to the Issuer’s ability to meet its obligations to Noteholders. 
+Recent events particular to the Issuer 
+There have been no recent events particular to the Issuer, which are to a material extent relevant to the evaluation 
+of the Issuer’s solvency. 
+Material adverse changes, significant changes and trend information 
+There has been no material adverse change in the prospects of the Issuer since the date of publication of its last 
+audited financial report, being the Group’s consolidated audited annual report for the financial year ended 31 
+December 2023. 
+There have been no significant changes in the financial performance of the Group since the end of the last financial 
+period for which financial information has been published to the date of this Prospectus, being the Groups 
+consolidated unaudited interim report for the financial period 1 January – 31 March 2024. 
+There have been no significant changes in the financial position of the Group which has occurred since the end of 
+the last financial period for which the Group has published interim financial information to the date of this 
+Prospectus, being the Groups consolidated unaudited interim report for the financial period 1 January – 31 March 
+2024. 
+There has been no trends, uncertainties, demands, commitments or events that are reasonably likely to have a 
+material effect on the Issuer’s prospects for the current financial year.  
+Governmental, legal or arbitration proceedings 
+The Group has not been party to any governmental, legal or arbitration proceedings (including any such 
+proceedings which are pending or threatened of which the Issuer is aware) during the previous twelve (12) months 
+from the date of this Prospectus, which may have, or have had in the recent past, significant effects on the Issuer’s 
+and/or the Group’s financial position or profitability.
+
+--- Page 45 ---
+42 
+ 
+OWNERSHIP STRUCTURE 
+Ownership structure 
+The five (5) largest shareholders in the Issuer were as set out in the table below. 
+Shareholders 
+Shares 
+Share capital and Votes (%)
+Verified
+Neqst D2 AB 
+155,676,507 
+18.45
+2024-04-26
+Fourth Swedish National Pension Fund 
+75,371,141 
+8.93
+2024-04-26
+AMF Pension & Fonder 
+59,854,974 
+7.09
+2024-04-26
+Swedbank Robur Fonder  
+42,148,365 
+5.00
+2024-04-26
+Alecta Tjänstepension 
+38,718,283 
+4.59
+2024-04-26
+As far as the Issuer is aware, no person or persons acting together has control over the Issuer and where “control” 
+means acquiring or controlling, directly or indirectly, more than fifty (50.00) per cent. of the votes of the Issuer or 
+the right to, directly or indirectly, appoint or remove the whole or a majority of the directors of the board of 
+directors of the Issuer. 
+The shareholders’ influence is exercised through active participation in the decisions made at the general meetings 
+of the Issuer. To ensure that the control over the Issuer is not abused, the Issuer complies with the relevant laws in 
+Sweden including among others the Swedish Companies Act (Sw. aktiebolagslagen (2005:551)). In addition, the 
+Issuer acts in compliance with the rules of Nasdaq Stockholm and the Swedish Corporate Governance Code (Sw. 
+Koden för svensk bolagsstyrning). 
+Shareholders’ agreements 
+As far as the Issuer is aware, there are no shareholders’ agreements or other agreements which could result in a 
+change of control of the Issuer.
+
+--- Page 46 ---
+43 
+ 
+THE BOARD OF DIRECTORS, EXECUTIVE 
+MANAGEMENT AND AUDITORS 
+General 
+The board of directors of the Issuer currently consists of six (6) board members and no deputy board member, 
+appointed for the period until the close of the annual general meeting 2024. The executive management currently 
+consists of twelve (12) persons.  
+The division of duties between the board of directors and the CEO follows Swedish law and is set out in the rules of 
+procedure for the board of directors and instructions for the CEO. The CEO is responsible for the Issuer’s ongoing 
+management and operations, reports to the board of directors and are required to manage the operations in accordance 
+with the board of directors’ guidelines and instructions as well as provide the board with decision-aiding materials. 
+The board of directors and the executive management may be contacted through the Issuer at its head office at 
+Lindhagensgatan 112, SE-112 51 Stockholm, Sweden. 
+Board of directors 
+The section below presents the members of the board of directors including inter alia their position, including the 
+year of their initial election, their significant assignments outside the Issuer, which are relevant for the Issuer, and 
+their shareholdings in the Issuer. 
+Overview 
+ 
+ 
+Dependency: 
+Name 
+Position 
+major shareholders  Issuer
+Shareholdings
+Erik Fröberg 
+Chairman 
+No 
+Yes 
+1,773,970 shares
+Björn Zethraeus 
+Board member 
+No 
+No 
+Indirect shareholdings 
+through Neqst D2 AB
+Mattias Stenberg 
+Board member 
+No 
+No 
+10,000 shares
+Lena Almefelt 
+Board member 
+No 
+No 
+None
+Johan Stuart 
+Board member 
+No 
+No 
+90,000 shares
+Renée Robinson 
+Strömberg 
+Board member 
+No 
+No 
+340 shares
+Members of the board of directors 
+ 
+Erik Fröberg 
+Born: 
+1957
+Director of Sinch since: 
+Director of Sinch since: 2012, Chairman of the 
+Board since 2015 
+Shareholding in Sinch (total, private & via companies): 
+1,773,970 shares privately held and an indirect 
+holding through Neqst D2 AB 
+Warrants in Sinch: 
+None 
+Education: 
+MSc in Engineering Physics, KTH Royal 
+Institute of Technology 
+Principal Occupation: 
+Partner and founder of Neqst 
+Other significant directorships (company & position): 
+Director of Digital Route AB and Varnish AB 
+and chairman of Xlent AB and Netlight AB 
+Dependency to the company and its major shareholders: 
+No/Yes
+
+--- Page 47 ---
+44 
+ 
+ 
+Björn Zethraeus 
+Born: 
+1963
+Director of Sinch since: 
+2017 
+Shareholding in Sinch (total, private & via companies): 
+Indirect shareholdings through Neqst D2 AB 
+Warrants in Sinch: 
+None 
+Education: 
+MSc Engineering, Institute of Technology at 
+Linköping University 
+Principal Occupation: 
+Corporate Development and Co-Founder of 
+Sinch 
+Other significant directorships (company & position): 
+None 
+Dependency to the company and its major shareholders: 
+Yes/Yes 
+ 
+Mattias Stenberg 
+Born: 
+1977
+Director of Sinch since: 
+2024 
+Shareholding in Sinch (total, private & via companies): 
+10,000 shares 
+Warrants in Sinch: 
+None 
+Education: 
+Bachelor of Science in business administration 
+and economics, Linköping University, degree in 
+computer sciences, Stockholm University 
+Principal Occupation: 
+of Hexagon’s Asset Lifecycle Intelligence 
+division 
+Other significant directorships (company & position): 
+None 
+Dependency to the company and its major shareholders: 
+No/No 
+ 
+Lena Almefelt 
+Born: 
+1964 
+Director of Sinch since: 
+2024 
+Shareholding in Sinch (total, private & via companies): 
+None 
+Warrants in Sinch: 
+None 
+Education: 
+LL.M., Lund University 
+Principal Occupation: 
+Directorships 
+Other significant directorships (company & position): 
+Chairman of the board of directors of Teqnion 
+AB and AB för Varubelåning, member of the 
+board of directors of J.A. Janssons Stiftelse 
+Dependency to the company and its major shareholders: 
+No/No 
+ 
+Johan Stuart 
+Born: 
+1957
+Director of Sinch since: 
+2015 
+Shareholding in Sinch (total, private & via companies): 
+90,000 shares 
+Warrants in Sinch: 
+None 
+Education: 
+MSc in Economics, Stockholm School of 
+Economics 
+Principal Occupation: 
+Directorships 
+Other significant directorships (company & position): 
+Director of Digital Route AB and Best Practice 
+Scandinavia AB 
+Dependency to the company and its major shareholders: 
+No/No
+
+--- Page 48 ---
+45 
+ 
+Renée Robinson Strömberg 
+Born: 
+1970
+Director of Sinch since: 
+2017 
+Shareholding in Sinch (total, private & via companies): 
+340 shares 
+Warrants in Sinch: 
+None 
+Education: 
+Degree in Chinese Studies and Economics from 
+Kalamazoo College and an MBA from the 
+Stephen M. Ross School of Business, 
+University of Michigan 
+Principal Occupation: 
+Founder and CEO of Shiny Thing AB 
+Other significant directorships (company & position): 
+Director of Funnel AB 
+Dependency to the company and its major shareholders: 
+No/No 
+ 
+Executive management 
+The section below presents the members of the executive management including inter alia the year each person was 
+employed and their shareholdings in the Issuer. 
+Members of the executive management 
+Laurinda Pang 
+Chief Executive Officer 
+Employee since: April 2023 
+Shareholding in Sinch (total, private & via companies): - 
+Warrants in Sinch: 1,500,000 stock options corresponding to 1,500,000 shares 
+ 
+Brett Scorza 
+Chief Technology Officer 
+Employee since: 2021 
+Shareholding in Sinch (total, private & via companies): - 
+Warrants in Sinch: 633,888 warrants corresponding to 675,000 shares 
+ 
+Christina Raaschou 
+Chief Human Resources Officer 
+Employee since: January 2022 
+Shareholding in Sinch (total, private & via companies): 337 
+Warrants in Sinch: 35,349 warrants and 50,000 employee stock options corresponding to 106,490 shares 
+ 
+Cristina David 
+Chief Information Officer 
+Employee since: 2022 
+Shareholding in Sinch (total, private & via companies): 0 
+Warrants in Sinch: 130,000 employee stock options corresponding to 130,000 shares 
+ 
+Jonathan Bean 
+Chief Marketing Officer 
+Employee since: April 2019 
+Shareholding in Sinch (total, private & via companies): 131,000 shares 
+Warrants in Sinch: 3,333 employee stock options corresponding to 33,330 shares 
+ 
+Julia Fraser 
+Executive Vice President Americas 
+Employee since: 2023 
+Shareholding in Sinch (total, private & via companies): - 
+Warrants in Sinch: 300,000 employee stock options corresponding to 300,000 shares 
+ 
+Nicklas Molin
+
+--- Page 49 ---
+46 
+ 
+Executive Vice President EMEA 
+Employee since: 2016 
+Shareholding in Sinch (total, private & via companies): 210,050 shares 
+Warrants in Sinch: 143,799 warrants corresponding to 181,990 shares 
+ 
+Roshan Saldanha 
+Chief Financial Officer 
+Employee since: 2019 
+Shareholding in Sinch (total, private & via companies): 4,226 shares 
+Warrants in Sinch: 374,999 warrants corresponding to 525,002 shares 
+ 
+Sean O’Neal 
+Chief Product Officer 
+Employee since: 2021 
+Shareholding in Sinch (total, private & via companies): - 
+Warrants in Sinch: 825,000 employee stock options corresponding to 825,000 shares 
+ 
+Sibito Morley 
+Chief Data and Transformation Officer 
+Employee since: 2023 
+Shareholding in Sinch (total, private & via companies): - 
+Warrants in Sinch: 250,000 employee stock options corresponding to 250,000 shares 
+ 
+Thomas Heath 
+Chief Strategy Officer 
+Employee since: 2018 
+Shareholding in Sinch (total, private & via companies): 400,000 shares 
+Warrants in Sinch: 295,000 warrants corresponding to 295,000 shares 
+ 
+Wendy Johnstone 
+Executive Vice President APAC 
+Employee since: February 2024 
+Shareholding in Sinch (total, private & via companies): - 
+Warrants in Sinch: - 
+ 
+Ilse Van der Haar 
+Chief Legal Officer 
+Employee since: September 2022 
+Shareholding in Sinch (total, private & via companies): - 
+Warrants in Sinch: - 
+ 
+Conflicts of interests within administrative, management and control 
+bodies 
+None of the members of the board of directors or the executive management of the Issuer has a private interest that 
+may conflict with the interests of the Issuer. However and as described above, certain members of the board of 
+directors or the executive management of the Issuer have financial interests in the Issuer as a consequence of their 
+holdings of shares in the Issuer.  
+Although there are currently no conflicts of interest between any duties to the Issuer of the members of the board of 
+directors or the executive management, and any of their other duties, it cannot be excluded that conflicts of interest 
+may arise in the future between companies, in which members of the board of directors or the executive management 
+of the Issuer have duties, and the Issuer. The Issuer and the members of the board of directors act in accordance with 
+the rules on conflicts of interest as set out in the Swedish Companies Act.
+
+--- Page 50 ---
+47 
+ 
+Auditor 
+The Issuer’s auditor is Deloitte AB with Johan Telander as the auditor in charge. Johan Telander is a member of FAR 
+(the professional institute for authorised public accountants in Sweden). Deloitte AB, with Johan Telander as the 
+auditor in charge, has been the Issuer’s auditor during the financial period covered by the Group’s consolidated 
+audited annual report for the financial years ended 2022 and 2023 and was elected as auditor of the Issuer at the 
+general meeting held in May 2023 for the time until the end of the annual general meeting 2024. The registered 
+address of Deloitte AB is 113 79 Stockholm, Sweden.
+
+--- Page 51 ---
+48 
+ 
+SUPPLEMENTARY INFORMATION 
+Information about the Prospectus 
+This Prospectus has been approved by the Swedish Financial Supervisory Authority as competent authority under 
+Regulation (EU) 2017/1129. The Swedish Financial Supervisory Authority only approves this Prospectus as 
+meeting the standards of completeness, comprehensibility and consistency imposed by Regulation (EU) 
+2017/1129. The Swedish Financial Supervisory Authority’s approval should not be considered as an endorsement 
+of the Issuer that is the subject of this Prospectus, nor should it be considered as an endorsement of the quality of 
+the securities that are the subject of this Prospectus. Investors should make their own assessment as to the suitability 
+of investing in the Notes. 
+Responsibility 
+The board of directors of the Issuer is responsible for the information contained in the Prospectus. The board of 
+directors of the Issuer declares that, to the best of its knowledge, the information contained in the Prospectus is in 
+accordance with the facts and the Prospectus makes no omission likely to affect its import. The board of directors 
+of the Issuer is responsible for the information given in the Prospectus only under the conditions and to the extent 
+set forth in Swedish law. 
+Information from third parties 
+No information in this Prospectus has been sourced form a third party. 
+Interest of natural and legal persons involved in the establishment of the 
+MTN Programme 
+The Dealers and their affiliates have engaged in, and may in the future engage in, investment banking and/or 
+commercial banking or other services for the Issuer and the Group in the ordinary course of business. Accordingly, 
+conflicts of interest may exist or may arise as a result of the Dealers and/or its affiliates having previously engaged, 
+or engaging in future, in transactions with other parties, having multiple roles or carrying out other transactions 
+for third parties with conflicting interests. 
+Documents available for inspection 
+Copies of the following documents are available at the Issuer’s head office in paper format during the validity 
+period of this Prospectus and also available in electronic format at the Issuer’s website, www .sinch.com. 
+• 
+The Issuer’s articles of association. 
+• 
+The Issuer’s certificate of registration. 
+• 
+The Group’s consolidated audited annual report for the financial year ended 31 December 2022, including the 
+applicable audit report. 
+• 
+The Group’s consolidated audited annual report for the financial year ended 31 December 2023, including the 
+applicable audit report.
+
+--- Page 52 ---
+49 
+ 
+FINANCIAL INFORMATION 
+Historical financial information 
+The Group’s consolidated audited annual reports for the financial years ended 31 December 2022 and 31 December 
+2023 have been incorporated in this Prospectus by reference. The information incorporated by reference is to be 
+read as part of this Prospectus. Information in the documents below, which has not been incorporated by reference, 
+is not a part of this Prospectus and is either deemed by the Issuer to be irrelevant for investors in the Notes or is 
+covered elsewhere in the Prospectus. 
+All financial information in this Prospectus relating to the financial period 1 January – 31 December 2023 or as of 
+31 December 2023 derives from the Groups consolidated audited annual reports for the financial years ended 31 
+December 2023 or from the Group’s internal accounting systems. Any information from the Group’s internal 
+accounting systems has not been audited or reviewed by the Issuer’s auditor. 
+Accounting standards 
+The financial information for the financial years ended 31 December 2022 and 31 December 2023 have been 
+prepared in accordance with International Financial Reporting Standards (IFRS) issued by the International 
+Accounting Standards Board (IASB) and interpretations issued by the IFRS Interpretations Committee (IFRIC), 
+as adopted by the EU. The Swedish Annual Accounts Act and the Swedish Financial Reporting Board's 
+recommendation RFR1 (Sw. Kompletterande redovisningsregler för koncerner), Supplementary Accounting 
+Rules for Groups have also been applied.  
+Auditing of the historical financial information 
+The Group’s consolidated audited annual reports for the financial years ended 31 December 2022 and 31 December 
+2023 have been audited by Deloitte AB with Johan Telander as the auditor in charge. Unless otherwise explicitly 
+stated, no other information contained in this Prospectus has been audited or reviewed by the Issuer’s auditor. 
+Incorporation by reference 
+The following information in the Group’s consolidated audited annual reports for the financial years 2022 and 
+2023 is incorporated in this Prospectus by reference and is available at the Issuer’s website, 
+https://investors.sinch.com/reports-and-presentations. For particular financial figures, please refer to the pages set 
+out below. 
+Reference 
+Pages
+The Group’s consolidated annual report 2022 
+Consolidated income statement 
+75
+Consolidated balance sheet 
+76
+Consolidated changes in equity 
+77
+Consolidated cash flow statement 
+78
+Notes and accounting principles 
+83-127
+Auditor’s report 
+129–132
+The Group’s consolidated annual report 2023 
+Consolidated income statement 
+54
+Consolidated balance sheet 
+55
+Consolidated changes in equity 
+56
+Consolidated cash flow statement 
+57
+Notes and accounting principles 
+62-99
+
+--- Page 53 ---
+50 
+ 
+Auditor’s report 
+119-122
+
+--- Page 54 ---
+51 
+ 
+ADDRESSES 
+Issuer 
+ 
+Arranger 
+Sinch AB (publ) 
+Lindhagensgatan 112, SE-112 51 Stockholm, 
+Sweden 
++46 (0)8 446 828 03 
+www .sinch. com 
+ 
+Skandinaviska Enskilda Banken AB (publ)  
+Kungsträdgårdsgatan 8, 106 40 Stockholm 
++46 (0)8-506 232 19 
++46 (0)8-506 232 21 
+www .  seb .se 
+ 
+ 
+Auditor 
+ 
+Dealers 
+Deloitte AB 
+SE- 113 79 Stockholm, Sweden 
++46 (0)75 246 20 00 
+www2 .deloitte. com/se/sv.html 
+ 
+Skandinaviska Enskilda Banken AB (publ)  
+Kungsträdgårdsgatan 8, 106 40 Stockholm 
++46 (0)8-506 232 19 
++46 (0)8-506 232 21 
+www .  seb .se 
+Danske Bank A/S, Danmark, Sverige Filial 
+Norrmalmstorg 1 
+Box 7523 
+103 92 Stockholm 
+Tel: 08-568 805 77 
+Nordea Bank Abp  
+Nordea Markets 
+Smålandsgatan 17, 105 71 Stockholm 
++46 (0)8-407 90 85 
++46 (0)8-407 91 11  
++46 (0)8-407 92 03 
+www .  nordeamarkets . com/sv 
+Svenska Handelsbanken AB (publ) 
+Blasieholmstorg 11, 106 70 Stockholm 
++46 (0)8-463 46 50 
+www .  handelsbanken. se 
+Swedbank AB (publ)  
+MTN Desk 
+105 34 Stockholm, Sweden 
++46 (0)8-700 99 85 
+www .swedbank. se 
+ 
+ 
+ 
+Legal advisor 
+Gernandt & Danielsson Advokatbyrå KB 
+P.O. Box 5747, SE-114 87 Stockholm, Sweden 
++46 (0)8-670 66 00 
+www .gda. se 
+ 
+ 
+ 
+Central securities depository 
+ 
+Euroclear Sweden AB 
+P.O. Box 7822, SE-103 97 Stockholm, Sweden 
++46 (0)8-402 90 00 
+www .euroclear. com

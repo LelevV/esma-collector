@@ -1,0 +1,2530 @@
+--- Page 2 ---
+1 
+ 
+Dated 08.11.2024 
+SIA Mintos Finance No. 45  
+(incorporated as a limited liability company and registered in the Republic of Latvia with registration 
+number 40203407882 and LEI: 98450059H090976DBC22) 
+ 
+EUR 5 000 000 Note Programme  
+Under this Programme, the Issuer may from time to time issue Notes denominated in any currency as 
+determined by the Issuer. The Notes will be distributed by way of a public offer. 
+Notice of the aggregate nominal amount of the Notes, interest (if any) payable in respect of the Notes, 
+the issue price of the Notes and any other terms and conditions applicable to the Notes and not contained 
+in this Base Prospectus will be set out in the applicable Final Terms. 
+Notes will be issued in registered form. The maximum aggregate nominal amount of all Notes from time 
+to time outstanding under the Programme will not exceed EUR 5 000 000 (five million euro) (or its 
+equivalent in other currencies). 
+Any payment under the Notes is dependent on, and limited to, the underlying assets. 
+This Base Prospectus has been approved as a base prospectus by the NCA, as competent authority 
+under the Prospectus Regulation. The NCA has only approved this Base Prospectus as meeting the 
+standards of completeness, comprehensibility and consistency imposed by the Prospectus Regulation. 
+This approval should not be considered as an endorsement of the Issuer or the quality of the Notes that 
+are the subject of this Base Prospectus. Investors should make their own assessment as to the 
+appropriateness and suitability of investing in the Notes.  
+The public offer of the Notes is made in Latvia, France, Germany, Italy, Poland, Netherlands, Czech 
+Republic, Belgium, Austria, Portugal and Spain under this Base Prospectus.  
+During the validity period of this Base Prospectus the Issuer plans to request that the NCA provides 
+competent authorities under the Prospectus Regulation in Bulgaria, Croatia, Republic of Cyprus, 
+Denmark, Estonia, Finland, Greece, Hungary, Iceland, Ireland, Liechtenstein, Lithuania, Luxembourg, 
+Malta, Norway, Romania, Slovakia, Slovenia and Sweden with a certificate of approval attesting that this 
+Base Prospectus has been drawn up following the Prospectus Regulation. When such a certificate shall 
+be obtained it will be permitted to make the public offer under this Base Prospectus in other Member 
+States, and the Issuer shall ensure that Mintos provides information about it on the Platform. Such 
+certificate, if and when received, should not be considered as an endorsement of the Issuer or the quality 
+of the Notes. 
+This Base Prospectus will be valid for a period of up to 12 months after its approval by the NCA. In the 
+event of any significant new factor, material mistake or inaccuracy relating to information included in this 
+Base Prospectus which is capable of affecting the assessment of any Notes, the Issuer will prepare a 
+supplement to this Base Prospectus or publish a new Base Prospectus for use in connection with any 
+subsequent issue of Notes. The obligation to prepare a supplement to this Base Prospectus or publish a 
+new Base Prospectus in the event of any significant new factor, material mistake or inaccuracy will cease 
+to apply upon the expiry of the validity period of this Base Prospectus. 
+The principal risk factors that may affect the abilities of the Issuer to fulfil its obligations under 
+the Notes are discussed in the section entitled ‘2. RISK FACTORS’ of this Base Prospectus.
+
+--- Page 3 ---
+2 
+ 
+Capitalised terms used in this Base Prospectus have the meaning given to them in the section entitled 
+‘GLOSSARY’ of this Base Prospectus.
+
+--- Page 4 ---
+3 
+ 
+TABLE OF CONTENTS 
+ 
+ 
+GLOSSARY 
+4 
+1. 
+GENERAL DESCRIPTION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+2. 
+RISK FACTORS 
+9 
+3. 
+GENERAL INFORMATION 
+17 
+4. 
+TRANSACTION OVERVIEW 
+20 
+5. 
+THE ISSUER 
+25 
+6. 
+MINTOS 
+27 
+7. 
+THE BONDS’ ISSUER  
+29 
+8. 
+THE BONDS  
+33 
+9. 
+TERMS AND CONDITIONS OF THE NOTES 
+35 
+10. 
+TAXATION 
+51 
+11. 
+APPLICABLE FINAL TERMS 
+53
+
+--- Page 5 ---
+4 
+ 
+GLOSSARY 
+API 
+application programming interface to exchange and transmit information and 
+data in a structured form between the Issuer and Mintos. 
+Base Prospectus 
+this base prospectus. 
+ 
+Cooperation 
+Agreement 
+the cooperation agreement between the Issuer and Mintos in relation to the 
+Notes. 
+Longo Group 
+means the Bonds’ Issuer and its direct subsidiaries (with 100% ownership) 
+included in consolidation as it is specified in the Bonds’ Issuer Prospectus.  
+Final Terms 
+any duly completed final terms in the form set out in section 11 of this Base 
+Prospectus. 
+Investment 
+Accounts  
+the separate accounts at Mintos of the Investor. 
+Investor 
+a person registered and accepted on the Platform as an investor. 
+Issuer 
+SIA Mintos Finance No. 45, registration number: 40203407882, registered on 
+17.06.2022, registered address: Skanstes street 52, Riga, LV-1013, a special 
+purpose entity whose principal purpose is the issue of Notes.  
+Issuer’s Account 
+the cash funds account of the Issuer opened with Mintos which is used solely 
+for settling payments with the Investors. 
+Bonds 
+Bonds’ Issuer issued bonds held by the Issuer as an asset backed security for 
+the Notes. 
+Bonds’ Issuer 
+AS Longo Group, a joint stock company (akciju sabiedrība), registered in the 
+Commercial Register of Register of Enterprises of Latvia on 30.10.2017 under 
+registration number 42103081417, and having its registered office at Mūkusalas 
+iela 72A, Riga, LV-1004, Latvia.  
+Bonds’ 
+Issuer 
+Prospectus 
+the Bonds’ Issuer base prospectus that is approved by NCA on 7th November 
+2024 and is prepared for the programme for the offering of secured bonds of 
+the Bonds’ Issuer in the amount of up to EUR 20 000 000. The Bonds’ Issuer 
+base prospectus should be read and constructed together with any 
+supplements to it (if any) and any other documents attached to it and, in relation 
+to any tranche of Bonds issue (tranche), with the final terms of the relevant 
+tranche (final terms), as applicable. The approval by the NCA of the Bonds’ 
+Issuer Prospectus only means that it is meeting the standards of completeness, 
+comprehensibility and consistency imposed by the Prospectus Regulation. The 
+link to the Bonds’ Issuer base prospectus as supplemented from time to is here.
+
+--- Page 6 ---
+5 
+ 
+Bonds’ 
+Receivables 
+The Bonds will bear an annual interest rate which will be determined by the 
+Bonds’ Issuer and specified in the final terms of the respective Bonds’ issue. 
+The Bonds’ interest shall be paid on the dates specified in the respective final 
+terms as the interest payment date up until the respective Bonds’ tranche 
+maturity date. 
+Mintos 
+AS Mintos Marketplace, a joint stock company registered in the Commercial 
+Register of the Register of Enterprises of the Republic of Latvia under unified 
+registration number 40103903643 on 1 June 2015, having registered address 
+50 Skanstes Street, Riga, LV-1013, Latvia, an investment firm authorised by the 
+NCA, which provides investment and related services to Investors through the 
+Platform. 
+Mintos Group 
+AS Mintos Holdings, a joint stock company registered in the Commercial 
+Register of the Register of Enterprises of the Republic of Latvia under unified 
+registration number 40103902690 on 27 May 2015, and any of its subsidiaries. 
+NCA 
+the Bank of Latvia (in Latvian: Latvijas Banka), national competent authority and 
+the competent authority supervising investment services in the Republic of 
+Latvia (https://www.bank.lv), and as competent authority under the Prospectus 
+Regulation. 
+Notes 
+the notes issued or to be issued under this Programme. 
+Noteholder 
+the holder for the time being of any Note. 
+Placement 
+Agreement  
+the agreement (Cooperation Agreement on Attracting Notes Buyers) between 
+Mintos and Signet Bank AS, registration number 40003043232, in relation to 
+attract the Bonds’ buyers, and fees to be paid to Mintos for enabling Notes to 
+be offered to Investors. 
+Platform 
+sites created and serviced by Mintos, merged under the domain name 
+www.mintos.com and software application to access it from a smartphone. 
+Prospectus 
+Regulation 
+Regulation (EU) 2017/1129 of the European Parliament and of the Council of 
+14 June 2017 on the prospectus to be published when securities are offered to 
+the public or admitted to trading on a regulated market, and repealing Directive 
+2003/71/EC and includes any commission delegated regulation under the 
+Prospectus Regulation. 
+Programme 
+this EUR 5 000 000 (five million euro) Note Programme. 
+Securities Act 
+the United States Securities Act of 1933, as amended. 
+Series 
+a series of Notes. 
+Transaction 
+Documents 
+the Cooperation Agreement, the Placement Agreement and any other 
+document designated by the Issuer as a Transfer Document.
+
+--- Page 7 ---
+6 
+ 
+Transfer 
+Document 
+the documents evidencing the transfer of Notes from the Issuer to Investor; and 
+transfer of Bonds and / or Bonds’ Receivables from the Bonds’ Issuer to the 
+Issuer in accordance with the terms of the Bonds’ Issuer Prospectus.
+
+--- Page 8 ---
+7 
+ 
+1. 
+GENERAL DESCRIPTION 
+o 
+What is Mintos? 
+Mintos provides solutions for investors looking to build wealth through long-term investing. With loans, 
+bonds, ETFs, real estate, and Smart Cash, Mintos offers a unique mix of alternative and traditional 
+investments for long-term investors. This one-of-a-kind offering enables retail investors to consolidate 
+their portfolios and easily manage all their long-term investments from a single platform. 
+Mintos has over 500 thousand registered users, and manages more than EUR 600 million in assets under 
+administration (as of 30 June 2024). 
+Mintos is an authorised investment firm in the European Union under MiFID (Markets in Financial 
+Instruments Directive). For more information, see section ‘6. MINTOS’ of this Base Prospectus. 
+ 
+o 
+What are Notes?  
+Notes are financial instruments, namely asset backed securities, issued by the Issuer via Mintos to 
+Investors and backed up by the Bonds. The Issuer by means of Platform provides access to investments 
+in Bonds through the offer and issue of Notes. For the Investors' convenience this sort of Notes that will 
+be offered on Platform will be called “Fractional Bonds” to differentiate these particular Notes from other 
+notes that are also offered on Platform but are backed up by other assets. 
+The Notes are backed up by Bonds meaning that the Bonds are held by the Issuer on a separate securities 
+account with a regulated credit institution to act as collateral for the Notes issued. 
+The Notes will bear the same interest as Bonds’ Receivables which is an interest that will be paid to 
+bondholders as provided in the Bonds’ Issuer Prospectus, see also section 9 of this Base Prospectus. 
+The Issuer might offer Notes applying the same principles as the Issuer has acquired Bonds, if any. For 
+example, if the nominal value of the acquired Bonds will be EUR 100, but the price at which the Bonds 
+were purchased was EUR 96, the Issuer will issue Notes in EUR 100 of aggregate nominal amount with 
+the issue price of EUR 96. 
+The reason to offer Notes is to give Investors opportunity to invest with relatively small amounts and to 
+provide diversity in their investment portfolios with exposure to assets that usually require substantial 
+investment amounts due to a relatively high minimum investment threshold. Notes are also a well-known 
+product to Mintos Investors and by extending notes offering it provides Investors with even more options 
+to invest in asset-backed securities. 
+The Issuer is a special purpose legal entity established for the purposes of: 
+● 
+purchasing Bonds for the purpose of issuance of Notes and dealing with the Bonds according to 
+the Terms and Conditions of the Notes, see the section 9 of this Base Prospectus; 
+● 
+issuing Notes to Investors via Mintos. 
+The Issuer may issue financial instruments (notes) in cooperation also with other bonds’ issuers. 
+See the sections entitled ‘5. THE ISSUER’ and ‘7. THE BONDS’ ISSUER’ of this Base Prospectus for 
+more information.
+
+--- Page 9 ---
+8 
+ 
+o 
+The flow of funds for repayment of Notes  
+Each time there is Bonds’ Receivables payment made by the Bonds’ Issuer, the Bonds’ Issuer transfers 
+funds to the Issuer, which in turn makes payments under the relevant Series of Notes to the relevant 
+Investor via Mintos. The payments are received into the relevant Investment Account.  
+ 
+This means that if the Bonds’ Issuer:  
+● 
+is late on its Bonds’ Receivables scheduled payment, payments to the Investors will also be 
+delayed; and 
+● 
+does not pay Bonds’ Receivables to the bondholders, there will be no interest payments to the 
+Investors under the Notes.  
+o 
+The flow of funds for investment in Notes 
+To invest in the Notes, the Investor provides instructions on the Platform to reserve a certain amount of 
+Investor’s available funds to purchase Notes. Reserved funds are held by Mintos up to the Bonds’ 
+settlement day – the day when Investors’ funds are transferred by Mintos to the Issuer’s bank account to 
+acquire the Bonds. The Notes are delivered to the Investment Account on the Bonds’ settlement day. The 
+Issuer issues a Series of Notes corresponding to the purchased Bonds to Investors via Mintos. When an 
+Investor purchases any Note of the Series, the Investment Accounts are credited with the Note and 
+debited with the purchase price of the Note. The purchase price is transferred to the Bonds’ Issuer.
+
+--- Page 10 ---
+9 
+ 
+2. 
+RISK FACTORS  
+The Issuer believes that the factors listed in this section of the Base Prospectus may affect its ability to 
+fulfil its obligations under the Notes. All of these risk factors and events are contingencies which may or 
+may not occur and the Issuer is not in a position to express a view on the likelihood of any such 
+contingency occurring. In addition, factors which are material for the purpose of assessing the market 
+risks associated with the Notes are also described below.  
+Although the most material risk factors have been presented first within each category, the order in which 
+the remaining risks are presented is not necessarily an indication of the likelihood of the risks actually 
+materialising, the potential significance of the risks or the scope of any potential negative impact to the 
+Issuer's or the Bonds’ Issuer’s business, financial condition, results of operations and prospects. The 
+Issuer and/or the Bonds’ Issuer may face a number of these risks described below simultaneously. While 
+the risk factors below have been divided into categories, some risk factors could belong in more than one 
+category and prospective investors should carefully consider all of the risk factors set out in this section.  
+The Issuer believes that the factors described below represent the material risks inherent to investing in 
+the Notes, but the inability of the Issuer or the Bonds’ Issuer to pay interest, principal or other amounts 
+on or in connection with any Notes may occur for other reasons and the statements below regarding the 
+risks of investing in any Notes are not exhaustive. Other risks, events, facts or circumstances not included 
+in this Base Prospectus, not presently known to the Issuer, or that the Issuer at the date of this Base 
+Prospectus deems to be immaterial could, individually or cumulatively, prove to be important and may 
+have a significant negative impact on the Issuer's or the Bonds Issuer’s business, financial condition, 
+results of operations and prospects. Prospective investors should carefully review the entire Base 
+Prospectus and should form their own views before making an investment decision with respect to the 
+Notes.  
+Before making an investment decision with respect to any Notes, prospective investors should consult 
+their own lawyers, accountants or other financial, legal and tax advisers and carefully review the risks 
+entailed by an investment in the Notes and consider such an investment decision in the light of the 
+prospective investor's personal circumstances.  
+o 
+RISKS SPECIFIC TO THE BONDS’ ISSUER 
+The risks specific to the Bonds’ Issuer are related, but not limited to: 
+● 
+Economic and geopolitical environment risks (e.g. macroeconomic, geopolitical and global 
+pandemic risks); 
+● 
+Bonds’ Issuer industry (e.g. competition risk, risks relating to trends in the automotive industry 
+and operational risk); 
+● 
+Bonds’ Issuer business activities (e.g. relations with key vendors and supply chain risk, the risk 
+of rising costs of purchased cars and the inability to transfer the increased costs to the end buyer, 
+the risks related to the operation of the preparation centre, inventory management risk, warranties 
+risk, key employee dependency risk etc.) 
+● 
+Legal and regulatory risks (e.g. regulatory risk, taxation risk, privacy and data protection breach 
+risk); 
+● 
+Longo Group’s financial situation (e.g. financial leverage risk, credit and/or counterparty risk). 
+ 
+You can read more on the categories described above within the Bonds’ Issuer Prospectus. The link to 
+the Bonds’ Issuer Prospectus is provided in this Base Prospectus under Glossary Section - Bonds’ Issuer 
+Prospectus.
+
+--- Page 11 ---
+10 
+ 
+o 
+RISKS SPECIFIC TO THE UNDERLYING ASSET - BONDS 
+Before considering an investment in Notes backed by Bonds, it is essential to recognize the array of 
+potential challenges and uncertainties that come from investing in this underlying financial instrument.  
+ 
+Considering that Bonds repayment is heavily related to the Bonds’ Issuer financial position and the 
+security package, the main risks related to the Bonds are listed below.  
+ 
+1. 
+Risks related to the nature of the Bonds:  
+● 
+Liquidity risk: the minimum liquidity of the Bonds is not guaranteed, thus there is a risk of not 
+being able to sell or experience difficulties in selling Bonds on the secondary market at their fair 
+market value or at all.   
+● 
+Bonds’ repayment risk: The collateral for the Bonds will be registered in relevant legal registers, 
+making the Bonds senior secured obligations. The Bonds’ Issuer may use this collateral for other 
+secured financing, allowing the Bonds to rank pari passu (equal rank) with other obligations, or 
+in certain cases, senior to them. Additional financial indebtedness may be assumed if covenants 
+are met. If the Bonds’ Issuer faces insolvency or is restricted from repaying the Bonds at maturity, 
+bondholders could lose interest or principal. Price risk: the Bonds are exposed to the risk of 
+unfavourable price development if the bondholder sells the Bonds prior to final maturity. 
+● 
+Early Redemption Risk: The Bonds’ Issuer may repurchase or redeem the Bonds if prevailing 
+interest rates are lower, potentially hindering bondholders from reinvesting the redemption 
+proceeds at an equally favourable security with equally favourable interest rate. 
+● 
+Maturity Repayment Uncertainty: there is a risk that the Bonds’ Issuer may be unable to repay or 
+refinance the Bonds at maturity, potentially requiring waivers or refinancing. Bondholders might 
+not receive their principal and interest payments as expected. 
+● 
+Resolutions of Bondholders risk: The majority resolution of a bondholders is binding to all 
+bondholders. Thus, the bondholder is subject to the risk of being outvoted by a majority resolution 
+of the other bondholders. 
+2. 
+Risks related to the collateral 
+ 
+● 
+Limitations on the validity and enforcement: The collaterals are subject to limitations imposed by 
+applicable law and defences, as well as on procedures and limitations specified in the security 
+agent agreement, which may affect their validity and enforceability. 
+● 
+Limitations on the object of the Collateral: The collateral in Latvia includes a pledge on assets, 
+primarily used cars. Only unregistered vehicles are fully pledged, as individual registration is 
+impractical. About 50% of vehicles are registered, limiting enforceability in insolvency situations. 
+The Bonds’ Issuer restricts non-business sales and permits pledge updates on registered 
+vehicles, though this power can be revoked, adding risk. Collateral registration costs also impact 
+bondholder claims. 
+● 
+Risks associated with Parallel Debt: The collateral securing the Bond’s Issuer obligations under 
+the Bonds will be held by the collateral agent, not directly by bondholders. Only the collateral 
+agent can enforce the collateral, limiting bondholders’ direct remedies in case of default. 
+Bondholders will not have secured creditor status in the Bonds’ Issuer insolvency proceedings. A 
+parallel debt arrangement allows the collateral agent to act on behalf of bondholders, but this 
+concept is untested under Latvian law. If deemed unenforceable by a Latvian court, bondholders 
+may lose their preferential claim to the collateral proceeds. 
+● 
+Market value of the collateral: The market value of the collateral is variable and can decline due 
+to unpredictable used car market conditions, asset changes, and risks like damage or theft 
+(though insured). If the collateral must be sold quickly, it may fetch a lower price. The collateral
+
+--- Page 12 ---
+11 
+ 
+agent does not monitor or bear responsibility for the collateral's value, condition, or existence, 
+creating a risk that sale proceeds may not fully cover bondholders’ claims. 
+● 
+Collateral Agent's Role: The agent represents bondholders' interests and performs administrative 
+functions but may face issues in performing duties, affecting bondholders' rights. 
+● 
+Limitations and procedures concerning enforcement of the collateral: Enforcement of the 
+collateral is subject to procedures and limits set in the collateral agent agreement and Bonds’ 
+Issuer Prospectus, with no guarantee that bondholders can instruct the collateral agent to 
+enforce. Delays and potentially high enforcement costs may arise, which are beyond the collateral 
+agent’s control. The majority bondholders can replace the collateral agent, who may also resign 
+with one month's notice. The collateral agent’s liability is insured up to EUR 2 million.  
+● 
+Risks related to amendments to laws and regulations: there is a general risk that amendments to 
+applicable laws and regulations governing collaterals may introduce uncertainty to bondholders. 
+● 
+Risks related to the actions of the Collateral Agent: Only the collateral agent is entitled to exercise 
+the rights under the collateral and enforce the same. Any failure by an agent to perform its duties 
+and obligations properly, or at all, may adversely affect the enforcement of the rights of the 
+bondholders due to. 
+ 
+In summary, these risks encompass financial stability challenges for the Bonds’ Issuer, uncertainty 
+regarding the Bond repayment, legal complexities, credit rating implications, foreign exchange exposure, 
+interest rate sensitivity, limited market liquidity, and regulatory restrictions. Investors should consider 
+these factors when evaluating the underlying Bonds. These risks would also be directly reflected in the 
+return for the Noteholders.  
+ 
+You can read more on the categories described above within the Bonds’ Issuer Prospectus. The link to 
+the Bonds’ Issuer Prospectus is provided in this Base Prospectus under Glossary Section - Bonds’ Issuer 
+Prospectus. 
+ 
+o 
+RISKS SPECIFIC TO MINTOS 
+1. 
+Various events and failures could cause situations where Mintos is not able to continue 
+operations 
+As a relatively new service, Mintos operates in a complex and dynamic regulatory and competitive 
+environment and various events and failures could lead to Mintos terminating the provisioning of 
+services, including the operations of the Platform. These events include but are not limited to 
+revocation of licence, weak financial performance, negative reputation, non-compliance events, 
+dramatic changes in the applicable regulations impacting Mintos operating model or an economic 
+downturn. If Mintos ceases operations, this could significantly impact the Noteholder’s ability to 
+receive repayment on time. 
+Should Mintos enter liquidation or insolvency, as a regulated and supervised entity, the process 
+will be supervised by the NCA. The appointed liquidator or administrator will take over the 
+functions of the management board. Mintos will continue servicing its clients and the Investment 
+Accounts, and relevant financial instruments portfolios in line with what Mintos is permitted to do 
+according to the applicable insolvency and liquidation rules. The process from the moment of the 
+appointment would be led by the appointed administrator or liquidator. In some cases, the 
+Investors’ Protection Law may apply. Such processes may significantly influence the investment's 
+return times and make the return more complex to the Noteholder. 
+Furthermore, Mintos could for some reason suddenly stop honouring its obligations under the 
+existing agreements, leading to delayed payments or partial or full loss of the amount invested in
+
+--- Page 13 ---
+12 
+ 
+the Notes. 
+2. 
+Non-compliance with regulations could lead to revocation of Mintos’ licence 
+To provide services to clients, Mintos, as the operator of the Platform, has received an investment 
+firm licence from the NCA. The licence could be suspended or revoked due to non-compliance 
+with regulations by Mintos. Loss of licence by Mintos could lead to delayed payments or partial 
+or full loss of invested amount under the Notes. 
+3. 
+Failure of IT systems or a security breach could lead to significant liabilities and harm 
+relationships with customers 
+The technology that Mintos has developed over the years is a cornerstone of Mintos’ future 
+success. The satisfactory performance, reliability and availability of the Platform is critical to its 
+operations, customer service and reputation. 
+While Mintos has taken steps to protect confidential information, the techniques used to obtain 
+unauthorised, improper or illegal access to systems, data, or customer data, or to disable or 
+degrade services are constantly evolving and may not be detected quickly. 
+As a result, Mintos’ and Mintos’ third-party vendor security measures might be breached, and 
+these security breaches could result in confidential client information being stolen. Breaches of 
+security measures because of third-party action, employee error, third-party vendor error, design 
+flaws in the software, or interruptions in Mintos’ systems and services could adversely impact our 
+relationships with Mintos’ clients, harm Mintos’ reputation and expose Mintos to significant 
+liability. 
+Furthermore, in the event of damage or interruption, existing insurance policies may not 
+adequately compensate Mintos and Mintos’ clients for any losses that may have been incurred. 
+Nevertheless, as IT systems are crucial to Mintos’ operations, a substantial amount of resources 
+is devoted to ensuring the stable and uninterrupted performance of the IT systems. 
+4. 
+Mintos’ bank accounts could be frozen or closed and banks, where the Noteholder funds 
+are held, can become insolvent 
+Mintos clients' funds, including the fund being deposited in the Issuer’s Account for settlement 
+under the Notes, are kept segregated from Mintos’ own funds in several bank accounts marked 
+as client funds accounts.  
+One or several of those bank accounts that Mintos uses might be blocked, seized or closed for a 
+number of reasons, including insolvency of the banks, resulting in interruptions of fund transfers 
+to the Issuer and the Noteholder.  
+5. 
+Significant problem or termination of the agreement with a Mintos partner may affect the 
+provision of services to the Investors 
+While providing its services, Mintos relies on several carefully selected partners (e.g., cloud 
+computing providers), and any problems with the service providers could impact Mintos’ ability to 
+provide services to the Noteholder. Mintos has taken several steps to reduce the likelihood and 
+impact of such occurrences, such as having backup service providers where feasible, there is still 
+a risk that the Noteholder may not be able to access the Platform or receive services.
+
+--- Page 14 ---
+13 
+ 
+6. 
+Certain situations or actions may raise conflicts of interests 
+While the rights and the responsibilities of Mintos and the Issuer are detailed in the Transaction 
+Documents and this Base Prospectus, and Mintos has established policies and procedures to 
+mitigate the risk, it is not possible to fully avoid the possibility of a conflict of interests between 
+the parties that could impact the interests of the Noteholder. 
+Mintos provides placement services to the Issuer with respect to the Notes, Mintos receives fees 
+from the Bonds’ Issuer for placement services. Mintos has carefully set up the fees in a compliant 
+manner and so that it would not violate the conflict of interest management rules. Such placement 
+fees might qualify as inducements and Mintos would disclose information on these inducements 
+to the Noteholder. In addition to inducement disclosures, Mintos has set up internal procedures 
+to identify and manage conflicts of interest. Some conflicts of interest require disclosure and those 
+are disclosed. 
+o 
+RISKS SPECIFIC TO THE ISSUER 
+1. 
+The Issuer could default on its obligations or become insolvent 
+The Issuer is a wholly-owned Mintos Group company, and not engaged in any business activities 
+other than those provided in this Base Prospectus. There is a risk that the Issuer could suddenly 
+stop effectively honouring its obligations under the existing agreements and breaching its 
+provisions, resulting in missing repayments to the Noteholder. This could lead to delays in 
+repayments and partial or full loss of invested amounts. 
+While the Issuer is created, established and performs its operations as a special purpose 
+undertaking, due to possible legal shortcomings of the applicable law and/or judicial practice, the 
+Issuer might be found insolvent due to the following reasons, including, but not limited to, a 
+Noteholder or other creditor initiating the insolvency procedure against the Issuer in bad faith and 
+the court not finding limited recourse and non-petition provisions defined by this Base Prospectus 
+as a sufficient ground to reject such proceeding. In such situations, the Noteholder could 
+experience delays in receiving its invested funds and its priority as a creditor of the Issuer might 
+be changed by the rule of law, leading to receiving fewer amounts than due under the Notes. 
+The Terms and Conditions of the Notes (in section 9 of this Base Prospectus) are set up and 
+drafted as having legal force and addressing concerns as legally binding contractual obligations. 
+There can be external circumstances that might influence such legal construction, including, but 
+not limited to court ruling, and/or new or modified legal enactments. 
+2. 
+Mintos may not be able to cover the maintenance and administrative costs of the Issuer 
+Considering the pass-through nature of the Issuer, the maintenance costs and administrative 
+expenses of the Issuer are, in essence, covered by Mintos, via a compensation mechanism. If for 
+any reason mentioned above in ‘RISKS SPECIFIC TO MINTOS’, Mintos is not able to cover such 
+costs, it could significantly influence the operations of the Issuer and its ability to service Notes 
+and make payments to the Noteholder. 
+3. 
+Information asymmetry  
+There is a risk that the Bonds’ Issuer can provide material information with delay or fails to provide 
+information to the Issuer at all. As a consequence: 
+● 
+the Issuer through Mintos acting as its authorised representative will not be able to timely
+
+--- Page 15 ---
+14 
+ 
+enforce its rights provided in the Transaction Documents and to act in the interests of 
+Noteholders; and 
+● 
+the Issuer will not be able to prepare and publish supplements to this Base Prospectus 
+in a timely manner, which could impact the Noteholders’ judgement on purchasing the 
+Notes being unaware of any significant new factor, material mistake or inaccuracy related 
+to the information being sourced from the Bonds’ Issuer. 
+4. 
+Cross-risks applicable to the Issuer 
+Considering the pass-through nature of the Issuer, the Issuer and its abilities to pay amounts due 
+to the Noteholders under the Note are exposed to all the risks listed above in ‘RISKS SPECIFIC 
+TO THE UNDERLYING ASSET - BONDS’, and ‘RISKS SPECIFIC TO MINTOS’. 
+o 
+RISKS SPECIFIC TO NOTES 
+1. 
+The Noteholder has no rights of recourse against the Bonds’ Issuer, the Bonds’ 
+guarantors, if any or the security agent  
+The Noteholder has no direct right to the Bonds. Instead, the Noteholder is acquiring Notes, which 
+are backed by the corresponding Bonds. The legal title in the Bonds and relevant rights arising 
+from them are vested in the Issuer. This means that the Noteholder will have no direct recourse 
+against the Bonds’ Issuer and no ability to independently and in its discretion to pursue the Bonds’ 
+Issuer to collect payments under the Bonds. For the same reason the Noteholder will have no 
+direct recourse against the Bonds guarantor (if any) and/or the security agent and no ability to 
+pursue the Bonds Issuer, the Bonds guarantor (if any) and/or the security agent (if any) to enforce 
+them to duly perform their duties and obligations due. All such actions are carried out by the 
+Issuer as the legal owner of the Bonds according to the provisions of this Base Prospectus and 
+the Transaction Documents. 
+2. 
+Change of creditors priority  
+The outcome of judicial or insolvency procedure could overrule the creditors’ priority in this Base 
+Prospectus due to requirements of the law, meaning that the Noteholders of one Series of Notes 
+could become equal creditors to Noteholders of other Series of Notes, thus all the proceeds the 
+Issuer receives from all the Notes is distributed on pro rata basis or otherwise. 
+3. 
+Certain costs may rank higher than payments to the Noteholder 
+While it is the Issuer's responsibility to transfer to the Noteholder all payments that have been 
+received from the Bonds’ Issuer, there are certain costs, such as taxes, Mintos’ fees and recovery 
+costs that rank higher than payments to the Noteholder. This means that the Noteholder would 
+only receive payment after the payment obligations of a higher priority have been settled.  
+Also, there is a risk that the outcome of judicial or insolvency procedure could define other priority 
+of payments, which differs from the priority in this Base Prospectus.  
+4. 
+Liabilities that are not Series specific will be allocated to all Series of Notes proportionally 
+If there are higher priority costs, i.e., taxes, fees and recovery costs, related to the specific Note, 
+then these will be covered from the payments due to the Noteholders according to the Priority of 
+Payments defined in this Base Prospectus. Where the liability is not Series-specific, for example, 
+legal costs, the liability will be allocated to all Series of Notes proportionally unless otherwise
+
+--- Page 16 ---
+15 
+ 
+defined by the Priority of Payments. 
+5. 
+No specific securitisation laws in Latvia 
+There are no dedicated laws and regime in Latvia addressing specific special purpose vehicle 
+issuer insolvency or limited recourse concepts at the date of this Base Prospectus. Mintos 
+believes the Terms and Conditions of the Notes are set up and drafted as having legal force and 
+addressing such concerns as legally binding contractual obligations. There might be 
+circumstances that influence such legal construction, including, but not limited to the court ruling, 
+or new or modified legal enactments. Eventually, this could lead to delayed payments or partial 
+or full loss of the amount invested in the Notes. 
+6. 
+New regulations introduced in the future could impact the Noteholder and Mintos 
+Due to several reasons, such as improvements in computer technology, the financial crisis of the 
+past decade and a greater focus on preventing the legalisation of illegally gained proceeds, the 
+financial industry over the last years has experienced the introduction of several new regulations. 
+With further developments and adoption of technologies, jurisdictions, either where Noteholders 
+or Mintos Group are domiciled are likely to introduce new regulations or administrative 
+interventions that could relate to Notes or online marketplaces such as the Platform. Such 
+regulation in the future, for example, could enhance investors’ protection measures, limit access 
+to Notes to only qualified or sophisticated Noteholders, limit the proportion of the portfolio that 
+can be invested through Notes or introduce any other restricting measures. 
+Furthermore, the introduction of new regulations or significant changes to the existing regulations 
+could impact the profitability, cost base and future operations of Mintos. Failure to comply with 
+regulation could lead to, among other things, lawsuits, administrative enforcement actions, 
+penalties, and revocation of licences and authorisations. Eventually, this could lead to delayed 
+payments or partial or full loss of invested amounts under Notes. 
+7. 
+New regulation in relation to taxes could impact the expected return for the Noteholder 
+In the event that new regulation is introduced, or existing regulation or its interpretation changes 
+so that the Issuer and/or Mintos needs to withhold additional taxes before making payments to 
+the Noteholder, and the Issuer and/or Mintos is required to withhold any transfer tax, stamp duty 
+and/or financial transactions tax, this could impact the expected return on investment for the 
+Noteholder. Similar developments in the Noteholders’ tax residence country can lead to the same 
+consequences. 
+8. 
+Notes have limited liquidity and transferability 
+The Notes are illiquid securities and there is no active market for them, and the Notes are not 
+admitted to any trading venue. The potential buyers and transferees are limited only to other 
+Mintos’ clients who are registered on the Platform. Which all means that the Noteholder might 
+need to offer the Notes with a significant discount and hence would not meet the expected return 
+on the investment, or might even be unable to sell them at all during a shorter or longer period of 
+time. Furthermore, to protect Noteholders that use automatic investment solutions from making 
+investment decisions, Mintos may restrict the execution of orders to sell the Notes according to 
+the terms and conditions of the agreements between the Investors and Mintos. 
+The Noteholder should therefore only invest in Notes that the Noteholder is comfortable with 
+holding to maturity.
+
+--- Page 17 ---
+16 
+ 
+9. 
+An undiversified investment portfolio may lead to greater exposure to the Bonds’ Issuer 
+and country-specific risks than a well-diversified portfolio 
+Investment in a single Note, Notes issued in relation to the Bonds’ Issuer or Notes with underlying 
+Bonds, means that the performance of the portfolio and risk exposure depends on that Note, the 
+Bonds’ Issuer, country and currency risk.  
+Mintos encourages its customers to build a well-diversified portfolio and provides several tools to 
+automate investing in Notes, making this easier. 
+10. 
+Investing in Notes issued in other currencies increase the Noteholder’s exposure to 
+currency risk 
+If a Noteholder invests in Notes denominated in a currency that is different from the currency that 
+the Noteholder earns and/or spends, the return on the investment could be significantly impacted 
+by the fluctuations in the exchange rate between those currencies. This means that if the 
+underlying currency depreciates significantly, the Noteholder could lose part of the investment, 
+and if the currency appreciates significantly, the Noteholder could earn a higher return on 
+investment. 
+11. 
+Notes are not bank deposits 
+Investment in Notes does not have the status of a bank deposit in Latvia or elsewhere and is not 
+within the scope of the deposit protection or guarantee scheme operated by the Republic of Latvia 
+or any other jurisdiction.
+
+--- Page 18 ---
+17 
+ 
+3. 
+GENERAL INFORMATION 
+Important notices 
+THIS BASE PROSPECTUS MAY NOT BE FORWARDED OR DISTRIBUTED OTHER THAN AS 
+PROVIDED BELOW AND MAY NOT BE REPRODUCED IN ANY MANNER WHATSOEVER. THIS BASE 
+PROSPECTUS MAY ONLY BE DISTRIBUTED OUTSIDE THE UNITED STATES TO PERSONS THAT 
+ARE NOT U.S. PERSONS AS DEFINED IN REGULATION S UNDER THE SECURITIES ACT. ANY 
+FORWARDING, DISTRIBUTION OR REPRODUCTION OF THIS BASE PROSPECTUS IN WHOLE OR 
+IN PART IS UNAUTHORISED. FAILURE TO COMPLY WITH THIS DIRECTIVE MAY RESULT IN A 
+VIOLATION OF THE SECURITIES ACT OR THE APPLICABLE LAWS OF OTHER JURISDICTIONS.  
+NOTHING IN THIS BASE PROSPECTUS CONSTITUTES AN OFFER TO SELL OR THE 
+SOLICITATION OF AN OFFER TO BUY ANY SECURITIES IN ANY JURISDICTION. THE SECURITIES 
+DESCRIBED IN THIS BASE PROSPECTUS HAVE NOT BEEN AND WILL NOT BE REGISTERED 
+UNDER THE SECURITIES ACT OR WITH ANY SECURITIES REGULATORY AUTHORITY OF ANY 
+STATE OR OTHER JURISDICTION OF THE UNITED STATES AND MAY NOT BE OFFERED OR SOLD 
+WITHIN THE UNITED STATES OR TO, OR FOR THE ACCOUNT OR BENEFIT OF, U.S. PERSONS.  
+Any materials relating to any potential offering do not constitute, and may not be used in connection with, 
+an offer or solicitation in any place where offers or solicitations are not permitted by law.  
+Under no circumstances will this Base Prospectus constitute an offer to sell or the solicitation of an offer 
+to buy any securities in any jurisdiction other than provided on page 1 of this Base Prospectus.  
+Responsibility for this Base Prospectus  
+The Management Board of the Issuer: 
+Title 
+Name 
+Chairman of the Management Board 
+Martins Sulte 
+Member of the Management Board 
+Martins Valters 
+ 
+accepts responsibility for the information contained in this Base Prospectus (other than the information in 
+the sections entitled ‘7. THE BONDS’ ISSUER’ and ‘8. THE BONDS’). To the best of its knowledge, the 
+information (other than the information in the sections entitled ‘7. THE BONDS’ ISSUER’ and ‘8. THE 
+BONDS’) contained in this Base Prospectus is in accordance with the facts and makes no omission likely 
+to affect its import. Any information from third parties identified in this Base Prospectus as such has been 
+accurately reproduced and that as far as the Issuer is aware and are able to ascertain from the information 
+provided by a third party, no facts have been omitted which would render the reproduced information 
+inaccurate or misleading.  
+The information contained in the sections entitled ‘7. THE BONDS’ ISSUER’ and ‘8. THE BONDS’ of this 
+Base Prospectus is derived from the Bonds’ Issuer Prospectus and the link to the Bonds’ Issuer 
+Prospectus is provided in this Base Prospectus under Glossary section - Bonds’ Issuer Prospectus. The 
+Bonds’ Issuer accepts responsibility for the information contained in the sub-section entitled Financial 
+information in section ‘7. THE BONDS’ ISSUER’ of this Base Prospectus. To the best of its knowledge,
+
+--- Page 19 ---
+18 
+ 
+the information in the above-mentioned sub-section is in accordance with the facts and makes no 
+omission likely to affect its import. 
+ Final Terms  
+Each Series of Notes will be issued on the terms and conditions set out under the section entitled ‘9. 
+TERMS AND CONDITIONS OF THE NOTES’ of this Base Prospectus as completed by the applicable 
+Final Terms. The Final Terms will be published on the website www.mintos.com. A form of applicable 
+Final Terms is set out under the section entitled ‘11. APPLICABLE FINAL TERMS’ of this Base 
+Prospectus.  
+Other relevant information  
+This Base Prospectus must be read and construed together with any supplements to this Base 
+Prospectus and with any information incorporated by reference in this Base Prospectus and, concerning 
+any Series of Notes, must be read and construed together with the relevant applicable Final Terms.  
+Unauthorised information  
+No person has been authorised to give any information or to make any representation not contained in or 
+not consistent with this Base Prospectus or any other document entered into concerning the Programme, 
+any information supplied by the Issuer, or such other information as is in the public domain and, if given 
+or made, such information or representation should not be relied upon as having been authorised by the 
+Issuer. 
+Mintos has not authorised the whole or any part of this Base Prospectus and does not make any 
+representation or warranty, or accept any responsibility as to the accuracy or completeness of the 
+information contained in this Base Prospectus or any responsibility for the acts or omissions of the Issuer 
+or any other person in connection with the issue and offering of the Notes, nor does Mintos or any of its 
+shareholders, directors, affiliates, advisers or agents take any responsibility for the acts or omissions of 
+the Issuer or any other person in connection with the issue, offering and sale of the Notes. 
+Restrictions on distribution  
+The distribution of this Base Prospectus and any Final Terms, and the offer, sale and delivery of the Notes 
+in certain jurisdictions may be restricted by law. Persons into whose possession this Base Prospectus or 
+any Final Terms comes are required by the Issuer and Mintos to inform themselves about and to observe 
+any such restrictions. In particular, Notes have not been and will not be registered under the Securities 
+Act. Subject to certain exceptions, Notes may not be offered, sold or delivered within the United States or 
+to U.S. persons. Neither this Base Prospectus nor any Final Terms constitute an offer or an invitation to 
+subscribe for or purchase any Notes and should not be considered as a recommendation by the Issuer, 
+Mintos or any of them that any recipient of this Base Prospectus or any Final Terms should subscribe for 
+or purchase any Notes. Each recipient of this Base Prospectus or any Final Terms will be taken to have 
+made its own investigation and appraisal of the condition (financial or otherwise) of the Issuer. Mintos has 
+not provided any financial or taxation advice in connection with the Programme or the Notes. 
+Programme limit  
+The maximum aggregate nominal amount of all Notes from time to time outstanding under the Programme 
+will not exceed EUR 5 000 000 (five million euro) (or its equivalent in other currencies).
+
+--- Page 20 ---
+19 
+ 
+Language  
+The language of this Base Prospectus is English. Certain legislative references and technical terms have 
+been cited in their original language so that the correct technical meaning may be ascribed to them under 
+applicable law. 
+Ratings  
+No Series of Notes issued under the Programme will be rated by any credit rating agency. 
+Currencies  
+Unless otherwise indicated, the financial information contained in this Base Prospectus has been 
+expressed in euro. The Issuer’s functional currency is euro, and the Issuer prepares its financial 
+statements in euro.  
+Third-party and market share data  
+This Base Prospectus contains information regarding business of the Issuer, Mintos, the Bonds’ Issuer 
+and others, and the industry in which they operate and compete. Where third party information has been 
+used in this Base Prospectus, the source of such information has been identified. Statistical information 
+included in this Base Prospectus has been derived from official public sources, including the statistical 
+releases. All such statistical information may differ from that stated in other sources for a variety of 
+reasons, including the use of different definitions and cut-off times. This data may subsequently be revised 
+as new data becomes available and any such revised data will not be circulated by the Issuer to Investors 
+who have purchased the Notes. In some cases, independently determined industry data is not available. 
+In these cases, any market share data included in this Base Prospectus is referred to as having been 
+estimated. All such estimates have been made by either the Issuer or the Bonds’ Issuer using its 
+information and other publicly available market information. Each of the Issuer and the Bonds’ Issuer 
+believes that these estimates of market share are helpful as they give prospective Investors a better 
+understanding of the industry in which the Issuer or the Bonds’ Issuer operates as well as its position 
+within that industry. Although all such estimations have been made in good faith based on the information 
+available and the Issuer’s or the Bonds’ Issuer’s knowledge of the market within which it operates, neither 
+the Issuer nor the Bonds’ Issuer may guarantee that a third-party expert using different methods would 
+reach the same conclusions. Where information has not been independently sourced, it is the Issuer’s or 
+the Bonds’ Issuer’s own information. 
+No incorporation of website information 
+The Issuer is affiliated with Mintos and their website is www.mintos.com. Unless specifically incorporated 
+by reference into this Base Prospectus, information on the website or any other website mentioned in this 
+Base Prospectus or any website directly or indirectly linked to these websites has not been verified, is not 
+incorporated by reference into, and does not form part of, this Base Prospectus, and Investors should not 
+rely on it.
+
+--- Page 21 ---
+20 
+ 
+4. 
+TRANSACTION OVERVIEW 
+o 
+THE DESCRIPTION OF THE TRANSACTIONS IN RELATION TO THE NOTES 
+▪ 
+The Issuer, Mintos and the Bank 
+The Issuer, Mintos, and Signet Bank AS, registered in the Commercial Register of the Register of 
+Enterprises of the Republic of Latvia under unified registration number 40003043232 (hereinafter in this 
+Base Prospectus section - the Bank), have entered into the Transaction Documents to ensure issuance 
+and sale of the Notes as described in this Base Prospectus. 
+▪ 
+Acquisition of Bonds by the Issuer 
+The Bonds will be purchased by the Issuer either directly from the Bonds' Issuer, from any other third 
+party willing to sell the Bonds, or on the regulated market where the Bonds are traded. Additionally, if the 
+Bonds have not yet been issued, the Issuer may subscribe for the Bonds during the subscription period 
+in accordance with the terms of the Bonds' Issuer Prospectus. Funds collected from the Investors who 
+have indicated their interest in investing in the Notes will be used to settle the Bonds' acquisition 
+transaction. 
+The Issuer may offer Notes after the Bonds subscription period, which is subject to the precondition that 
+there will be an offering of the Bonds. 
+ 
+ 
+If the Bonds settlement date, when the Issuer buys Bonds, does not match the Bonds’ Receivables 
+Payment Date, i.e., when the Bonds are actually delivered to the Issuer’s security account with a regulated 
+credit institution, the Bonds’ accrued interest for these days of difference between settlement date and 
+previous Bonds’ Receivables Payment Date will be covered by the Issuer's own funds from its fully paid 
+up share capital to purchase the Bonds, which will be reimbursed later with the next Bonds’ Receivables 
+payment.  
+The Issuer may also cover the missing fraction with its own funds to fulfil the Bonds purchase. As an 
+example: The Bonds’ price is EUR 100, and the Issuer has collected EUR 90 from Investors. In this case, 
+the Issuer may add EUR 10 from its own funds to ensure the Bond's purchase. The Issuer is a beneficiary 
+of the Bond’s fraction purchased with its own equity. This fractional bond will be disclosed in financial 
+statements of the Issuer together with accrued and received interest that will be recognised as an interest 
+income for the Issuer. When the Bonds are redeemed, the fraction of the Bonds will be redeemed along 
+the rest of the Bond value. The fraction owned by the Issuer is not related to any Notes issued by the 
+Issuer.
+
+--- Page 22 ---
+21 
+ 
+Payment for the Bonds is subject to placement of the Series of Notes. 
+▪ 
+Issue of Notes 
+ 
+To purchase Notes from the Issuer, the Investor registered on the Platform submits an investment order 
+using a dedicated section on the Platform, indicating the amount of money that the Investor wishes to 
+invest in Notes. 
+ 
+Once Investors have indicated on Mintos platform that they wish to purchase Notes, Mintos reserves 
+those funds to be ready available for the Issuer to submit its purchase order to buy the Bonds and then, 
+after the Bonds are purchased, delivers Notes to the Investors on their Investment Accounts with Mintos. 
+The reservation means that those funds remain on the Investment Account of the Investor but are not 
+available for other transactions until the Notes are delivered, or, in the event of insufficient total interest 
+of Investors to perform Bond purchase, until the Notes purchase is cancelled. The Issuer has the right to 
+cancel the Notes purchase at its own discretion at any time with no obligation to inform Investors about 
+cancelling the Notes purchase.  
+The Notes are publicly offered by the Issuer through the Platform. Investors can purchase Notes from the 
+Issue Date until the Maturity Date of the Notes provided in the Final Terms or until the time when the 
+Notes are fully sold to Investors by the Issuer, whichever occurs earlier. Information about the offer results 
+of the Notes is published on the website www.mintos.com in real time. The offer of the Notes is subject 
+to the Bonds availability for the Issuer to purchase. 
+  
+The process for purchasing Notes is automated and takes place in real-time. When the transaction order 
+is accepted by the Platform, Mintos debits cash funds from the Investor’s cash account with Mintos in 
+exchange for delivery of the Notes to the Investor’s financial instruments account with Mintos. The Notes 
+allotted are available as soon as the transaction order is executed by Mintos, by means of the Investor’s 
+profile on the Platform. Further alienation of Notes may be done as soon as available on the Investor’s 
+Investment Accounts. 
+ 
+Minimum subscription amount is one Note. Maximum subscription amount is up to the Aggregate Nominal 
+Amount as set out under the section entitled ‘11. APPLICABLE FINAL TERMS’ of this Base Prospectus 
+for the relevant Series of Notes, but subject to the nominal amount of the Notes being available for 
+purchase from the Issuer as at execution time of the transaction order at Mintos. 
+No expenses are expected to be charged to the Investor by the Issuer when purchasing Notes. There is 
+no financial transaction tax to be applied at the date of this Base Prospectus by the Issuer and/or Mintos 
+to the Investor in subscribing or purchasing any Note. 
+ 
+Underlying assets will be formed by matching one on one euro amounts invested into a Series of Notes
+
+--- Page 23 ---
+22 
+ 
+and amounts of purchased Bonds as underlying assets.  
+▪ 
+Payments under the Notes 
+Bonds’ Receivables (interest) payout process to the Investor 
+ 
+ 
+Final Bonds’ Receivables and Bonds’ principal amount is paid to the Investors on the Bonds’ maturity 
+date. The same applies in cases of Bonds’ early redemption. In the event of Bonds’ early redemption, the 
+Investors receive the Bonds’ principal amount together with the accrued Bonds’ Receivables up to the 
+date of early redemption in accordance with the Bonds’ Issuer Prospectus. 
+ 
+ 
+The Interest specified in the Final Terms will begin to be calculated and accrue from the first day when 
+the Investor has acquired the Notes from the Issuer and the Notes are booked by Mintos in the Investor’s 
+Investment Accounts. 
+ 
+The interest and principal payments under the Notes are linked to and contingent upon corresponding 
+payments made under the Bonds. The Bonds will bear interest at an annual rate based on their nominal 
+amount, with interest payable monthly in arrears on each interest payment date. Interest will begin to 
+accrue from the interest commencement date, as specified in the Bonds' Issuer Prospectus. 
+▪ 
+Redemption of the Notes 
+The Issuer may exercise its right but not the obligation to redeem the Notes from the Investors on the 
+occurrence of certain events specified in the Bonds’ Issuer Prospectus, including, but not limited to: 
+ 
+- 
+the Bonds’ Issuer exercises any of its rights of early redemption and/or repurchase of the Bonds 
+in accordance with the terms of the Bonds’ Issuer Prospectus.
+
+--- Page 24 ---
+23 
+ 
+In this event of early redemption of the Bonds, which has been initiated by the Bonds’ Issuer, the Bonds 
+held by the Issuer will be redeemed from the Issuer in accordance with the terms of the Bonds’ Issuer 
+Prospectus and all funds received by the Issuer in case of early redemption of the Bonds will be used 
+proportionally to redeem the Notes. 
+ 
+In some cases, including, but not limited to: 
+  
+- 
+if the Issuer is required by the applicable regulation to sell the Bonds and/or, 
+- 
+if the Issuer is not able to continue to service the Notes and/or,  
+- 
+if there are risks to the Issuer and/or Mintos that do not allow the Issuer to hold the Bonds,  
+ 
+the Issuer may exercise its right to sell Bonds at its own discretion for any price that is available to the 
+Issuer and use these funds received from the Bonds sale to redeem the Notes. As the Notes may be 
+redeemed only with the funds acquired from the sale of the Bonds, the Investors should be fully aware 
+that in such cases of discretionary sale of the Bonds by the Issuer, it could lead to delays in repayments 
+and to a partial of full loss of the invested funds in the Notes.  
+▪ 
+No credit enhancement 
+The Notes have no credit enhancements and no liquidity support in relation to payment of interest or 
+principal. 
+The Issuer, as a special purpose entity, has no obligation to make any payment on the Notes unless 
+sufficient funds have been received from the Bonds’ Issuer. 
+ 
+o 
+THE TRANSACTION DOCUMENTS 
+The information in this section is a summary of certain features of the Transaction Documents provided 
+for information purposes and will not be treated as the full binding text of the relevant agreement.  
+This section does not entail summary of those transaction documents which will be executed by the Issuer 
+with respect to the acquisition of the Bonds from third parties, as those transaction documents will be 
+market standard transaction documents as customary for such transactions. They will include agreements 
+on the opening and maintenance of a cash account and financial instruments account for the Issuer and 
+documents necessary for transactions to be performed with respect to the Bonds according to the 
+provisions of this Base Prospectus. 
+Further are provided summaries of contracts that are necessary for the matters outlined in the above 
+section entitled ‘THE DESCRIPTION OF THE TRANSACTIONS IN RELATION TO THE NOTES’ which 
+are other than those customarily necessary to purchase and hold financial instruments such as Bonds. 
+▪ 
+The Cooperation Agreement 
+General 
+The Cooperation Agreement contains the agreement between the Issuer and Mintos on the matters 
+outlined in the above section entitled ‘THE DESCRIPTION OF THE TRANSACTIONS IN RELATION TO 
+THE NOTES’. 
+Mintos 
+Mintos acts as a placement agent, calculation agent, transfer agent and paying agent of the Issuer in 
+relation to the Notes.
+
+--- Page 25 ---
+24 
+ 
+Issuer 
+ 
+Issuer has undertaken to transact with Bonds only in line with this Base Prospectus. The Issuer is obliged 
+to provide Mintos with information and documentation with respect to the Bonds, including the financial 
+instruments account on which the Bonds will be held. The Issuer has undertaken to procure that there 
+are no encumbrances, liens or other security interests in favour of any third parties over the Bonds.  
+ 
+Term and termination 
+The Cooperation Agreement continues until all liabilities of the Issuer and Mintos according to its 
+provisions are fully satisfied.  
+Governing law 
+The Cooperation Agreement and any non-contractual obligations arising out of, or in connection with it, 
+is governed by and will be construed in accordance with the laws of the Republic of Latvia. 
+▪ 
+The Placement Agreement 
+ 
+The Placement Agreement contains the agreement between the Bank and Mintos on the matters related 
+to the above section entitled ‘THE DESCRIPTION OF THE TRANSACTIONS IN RELATION TO THE 
+NOTES’. The Placement Agreement mandates Mintos to act as a platform through which the Notes 
+backed by the Bonds will be offered during the placement period as agreed in that agreement. Mintos 
+shall receive fees from the Bank in relation to the issuance of Notes backed by the Bonds, in view of the 
+Bonds acquired by the Issuer being deemed as placed by Mintos within the placement arrangement. The 
+Placement Agreement is governed by the laws of the Republic of Latvia.
+
+--- Page 26 ---
+25 
+ 
+5. THE ISSUER 
+o 
+General 
+The Issuer is a special purpose undertaking established for the sole purpose of issuing and offering Notes 
+to Investors on the Platform, which are backed up by the Bonds acquired by the Issuer. The Issuer does 
+not take part in any other business activities. 
+The Issuer is incorporated as a limited liability company and registered in the Commercial Register, 
+Enterprises Register of the Republic of Latvia on 17.06.2022 under the name SIA Mintos Finance No. 45 
+with registration number 40203407882. It operates under the laws of the Republic of Latvia and has its 
+registered office at 52 Skanstes Street, Riga, LV1013, Latvia. The Legal Entity Identifier (LEI) of the Issuer 
+is: 98450059H090976DBC22. 
+The registered and paid up share capital of the Issuer is EUR 2800 consisting of 2800 shares each having 
+a nominal value of EUR 1. Each share is entitled to one vote. The sole shareholder of the Issuer is SIA 
+Mintos Capital Management, registration No 40203178505. 
+ 
+The Issuer has no subsidiaries and does not own any shares or equity. 
+The Issuer is managed by the Management Board, the members being appointed by the sole shareholder 
+of the Issuer: 
+Title 
+Name 
+Other roles 
+Chairman 
+Martins Sulte 
+Chairman of the Management Board of AS Mintos Holdings, SIA 
+Mintos Capital Management and Mintos 
+Member  
+Martins Valters 
+Member of the Management Board of AS Mintos Holdings, SIA 
+Mintos Capital Management and Mintos 
+For so long as the Notes of any Series remain outstanding or Notes may be issued under the Programme, 
+articles of association (Statutes) of the Issuer can be accessed on www.mintos.com.
+
+--- Page 27 ---
+26 
+ 
+o 
+Activities 
+The activities of the Issuer are as follows: 
+● 
+issue and publicly offer Notes to the Investors, including preparation, submission to the NCA and 
+publication on the Platform of this Base Prospectus; 
+ 
+● 
+purchase and safekeeping of the Bonds; 
+ 
+● 
+payments under the Notes through Mintos, subject to receiving Bonds’ Receivables and principal 
+amount of the Bonds from the Bonds’ Issuer; and 
+ 
+● 
+publication of financial and other information to Investors in accordance with applicable law. 
+o 
+Financial information 
+The Issuer has commenced its operations in 2022, and accordingly, financial statements for 2022 are 
+prepared for its operations period.  
+The financial statements for 2022 and 2023 are prepared in accordance with the Latvian Generally 
+Accepted Accounting Principles (GAAP). 
+For accounting purposes, Bonds’ Receivables and principal amount of the Bonds are classified as a pass-
+through of a financial asset under International Financial Reporting Standard (IFRS) 9 3.2.5. 
+The appointed auditors of the Issuer for the financial years 2022 and 2023 are "KPMG Baltics SIA", 
+registered in the Republic of Latvia on 16 December 1994 with registration number 40003235171.  
+The Issuer’s financial data:  
+Audited financials 2022  
+Audited financials 2023  
+o 
+Authorisation 
+The establishment of this Programme and the issue of Notes have been duly authorised by decisions of 
+the sole shareholder of the Issuer on 08.11.2024.  
+o 
+Significant or material change 
+At the date of this Base Prospectus, there has been no significant or material change in the financial 
+position of the Issuer since the date of its last published audited financial statements.  
+o 
+Litigation 
+The Issuer (whether as a defendant or otherwise) is not and has not been involved in any governmental, 
+legal or arbitration proceedings (including any such proceedings which are pending or threatened of which 
+the Issuer is aware) in the 12 months preceding the date of this Base Prospectus which may have, or 
+have in such period had, a significant effect on the financial position or profitability of the Issuer.
+
+--- Page 28 ---
+27 
+ 
+6. MINTOS 
+Mintos, under the name AS Mintos Marketplace, was registered as a joint-stock company on 1 June 2015 
+in the Commercial Register, Enterprises Register of the Republic of Latvia with the unified registration 
+number 40103903643.  
+All the shares in Mintos are held by AS Mintos Holdings. 
+Mintos has been authorised as an investment firm by the NCA on 17 August 2021 to provide following 
+investment services and ancillary services: 
+● 
+execution of orders on behalf of clients; 
+● 
+dealing on own account; 
+● 
+portfolio management; 
+● 
+investment advice; 
+● 
+placing of financial instruments without a firm commitment basis; 
+● 
+holding of financial instruments; 
+● 
+currency exchange services, if they are related to the provision of investment services; 
+● 
+providing investment research, financial analysis or other general advice regarding transactions 
+in financial instruments; and 
+● 
+provision of services related to the initial placement of financial instruments. 
+Mintos provides services in Austria, Belgium, Czech Republic, France, Germany, Italy, Latvia, 
+Netherlands, Poland, Portugal and Spain. Mintos has not commenced provision of services in other 
+countries as of the date of this Base Prospectus but may do so during the validity period of this Base 
+Prospectus. 
+Cash funds of Investors are held by Mintos in regulated credit institutions, including but not limited to AS 
+LHV Pank (Estonia), Signet Bank AS (Latvia), and money market funds. 
+Mintos owns and operates the Platform which is the technical infrastructure through which (a) companies 
+sell loans and other receivables or other assets to issuers, (b) the issuers offer and sell asset backed 
+securities to investors backed by the acquired receivables or other assets and (c) information exchange 
+and money flows occur between Investors, issuers and originators and services of the assets and 
+receivables. Notes which are backed up by bonds are one of the types of assets backed securities offered 
+and available on the Platform. Also, Mintos offers and may offer other investment products or services to 
+the Investors. 
+o 
+Key activities performed by Mintos with respect to Notes are as follows: 
+● 
+Opens and services Investment Accounts for investors and (a) carries out anti-money laundering, 
+combating the financing of terrorism and know your client policies and procedures, (b) carries out 
+appropriateness and suitability tests, (c) responsible for compliance with product governance 
+requirements and (d) informs Investors regarding the risks inherent in the products and services 
+depending on the status of the Investor.
+
+--- Page 29 ---
+28 
+ 
+● 
+Prepares this Base Prospectus and engages lawyers and other advisors and submits it to the 
+NCA for approval. 
+● 
+Operates the Platform for (a) Investors to acquire Notes, exchange currencies related to 
+investment services and transactions with Notes and receive automated portfolio management services 
+and, including but not limited (b) the Issuer and the lending company or other originator to transfer title in 
+the receivables and exchange information in relation to the receivables. 
+● 
+Acts as an assignment, placement, calculation, transfer and paying agent for the Notes including 
+(a) transfer of funds to the Issuer following placement of Notes, (b) settlement of payments due between 
+the Issuer and other parties, (c) payments to the Investment Accounts, (d) provides information regarding 
+Investors to the Issuer to calculate any withholding taxes on payments and (e) provides information on 
+Payment Events through API from the involved parties. 
+● 
+Maintains the register of Noteholders. 
+● 
+Complies with the Transaction Documents including monitoring of compliance with the covenants 
+and other provisions of the transaction documents. See the section entitled ‘4. TRANSACTION 
+OVERVIEW – TRANSACTION DOCUMENTS’ of this Base Prospectus for more information. 
+● 
+Prepares and submits reports for legal and regulatory purposes to the NCA, the Latvian State 
+Revenue Service and others.
+
+--- Page 30 ---
+29 
+ 
+7. THE BONDS’ ISSUER 
+o 
+Business overview 
+The legal and commercial name of the Bonds’ Issuer is AS Longo Group. The Bonds’ Issuer is operating 
+as a joint stock company (akciju sabiedrība), registered on 30 October 2017 with registration number: 
+42103081417 under laws of Latvia. The registered address of the Issuer is Mūkusalas iela 72A, Rīga, LV-
+1004, Latvia. The Bonds’ Issuer has been established for an indefinite period. The legal entity identifier 
+(LEI) is 894500SNGNS9HL2FSI45.  
+The Bonds’ Issuer was established in 2017 and gradually over the years expanded its activities by 
+establishing its subsidiaries in Latvia, Lithuania, Estonia, Netherlands, Belgium, Germany and Poland. 
+The Bonds’ Issuer operates as a holding company of Longo Group that is active in the used vehicle retail 
+market.  
+Over the years, Longo Group has grown its presence as one of the leading used car retailers in the Baltics 
+and has been expanding its activities also in Poland. Longo Group brings a new meaning to the Baltic 
+used car industry, by providing a fully transparent, reliable and high class used car purchase experience 
+online and in-person. Full vertical integration of Longo Group allows it to be in control of all key business 
+aspects from sourcing to delivering desired vehicles to its customers.  
+o 
+Financial information 
+The audited consolidated financial statements for the years 2022 and 2023 have been prepared in 
+accordance with the International Financial Reporting Standards (IFRS); financial statements are 
+prepared in euro (EUR) currency. The latest available historical financial information of the Bonds’ Issuer 
+is available on Mintos website: 
+Audited financials 2022 
+Audited financials 2023 
+Unaudited financials 2024 H1 
+o 
+Auditors 
+The statutory auditor of the audited consolidated financial statements as of and for the financial years 
+ended 31 December 2022 and 31 December 2023 was KPMG Baltics SIA, an Latvian limited liability 
+company with the registration number 40003235171, legal address: Roberta Hirša iela 1, Rīga, LV-1045, 
+Latvia.  
+o 
+Litigation 
+The Bonds’ Issuer (whether as a defendant or otherwise) is not and has not been involved in any 
+governmental, legal or arbitration proceedings (including any such proceedings which are pending or 
+threatened of which the Bonds’ Issuer is aware) in the 12 months preceding the date of this Base 
+Prospectus which may have, or have in such period had, a significant effect on the financial position or 
+profitability of the Bonds’ Issuer. 
+o 
+Administrative, management and supervisory bodies 
+The following table shows the main administrative, managerial and supervisory positions of the Bonds’ 
+Issuer:
+
+--- Page 31 ---
+30 
+ 
+Name 
+Position / function  
+(year since) 
+Education and business experience summary 
+Edgars Cērps 
+Chairman of the 
+Management 
+Board, CEO (2023) 
+Mr. Cērps holds an MBA degree from INSEAD and a bachelor’s 
+degree in economics and business administration from the 
+Stockholm School of Economics in Riga. 
+Edgars Cērps is Longo Group’s co-founder and CEO with broad 
+experience in the business sector. Mr. Cērps has a decade of 
+experience in finance, IT, and operational functions, working for 
+Nokia and Uber in multiple countries globally. He also has 
+strategy consulting and private equity experience gained 
+working at Bain & Company. 
+Jacob 
+Willem 
+Hoogenboom 
+Management 
+Board 
+Member, 
+COO (2020) 
+Mr. Hoogenboom holds an MBA with distinction from INSEAD 
+as well as a master’s degree in finance (Luxembourg School of 
+Finance) and accounting and control (Vrije Universiteit 
+Amsterdam).  
+Jacob Willem Hoogenboom has been a member of the 
+management board since 2020. Mr. Hoogenboom is Longo 
+Group’s COO. He has multiple years of experience in strategy 
+consulting at Bain & Company in various functions and 
+geographies. Prior to that, he had extensive experience in sales 
+and customer relations management as the head of the 
+representative office of a major international financial institution. 
+Aigars Kesenfelds 
+Chairman of the 
+Supervisory Board 
+(2021) 
+Mr. Kesenfelds is an entrepreneur and an investor and 100% 
+shareholder of his family investment company AS ALPPES 
+Capital. Mr. Kesenfelds holds a bachelor’s degree in economics 
+and business administration from the Stockholm School of 
+Economics in Riga. 
+Māris Keišs 
+Deputy 
+Chairman 
+of the Supervisory 
+Board (2021) 
+Since 2008 Mr. Keišs has gained vast experience as a serial 
+entrepreneur specializing in the financial services industry. He 
+is the co-founder of Mintos and the financial solutions company 
+Eleving Group (previously Mogo Finance). Mr. Keišs holds a 
+bachelor’s degree in economics and business administration 
+from Stockholm School of Economics in Riga.  
+Kristaps Ozols 
+Supervisory Board 
+Member (2021) 
+Mr. Ozols has a wide experience in the financial services 
+industry as an entrepreneur and investor. Mr. Ozols is the co-
+founder of Mintos and Eleving Group (previously Mogo 
+Finance). Mr. Ozols holds a bachelor’s degree in economics 
+and business administration from the Stockholm School of 
+Economics in Riga.  
+Alberts Pole 
+Supervisory Board 
+Member (2021) 
+Alberts Pole has a wide experience in the financial services 
+industry as an entrepreneur and an investor. Mr. Pole is the co-
+founder of Mintos and the financial solutions company Eleving 
+Group (previously Mogo Finance).
+
+--- Page 32 ---
+31 
+ 
+Mr. Pole holds a bachelor’s degree in economics and business 
+administration from the Stockholm School of Economics in 
+Riga.  
+Jonathan 
+Neil 
+Smith 
+Supervisory Board 
+Member (2021) 
+Mr Smith is a seasoned executive of the UK automotive industry 
+with over 15 years of experience. Mr. Smith is a former Imperial 
+Cars operations director. Imperial Cars sales grew from 80 cars 
+a month to 2200 during his activities. Mr. Smith was also 
+recognised as one of the top ten influencers in the UK Motor 
+Trade in 2019. 
+o 
+Shareholders 
+The share capital of the Bonds’ Issuer is EUR 13 034 872.10  divided into 130 348 721 ordinary shares 
+with a par value of EUR 0.10 in registered form, all of which are fully paid. The structure of the Bonds’ 
+Issuer share capital is divided into three distinct classes of shares: 
+- 
+Class A shares (47 500 000 shares): entitled to dividends, a liquidation quota, and voting rights 
+with each paid-up share granting one vote. In addition, in the event of a sale of Class A shares to 
+a third party, existing Class A shareholders possess a right of first refusal;  
+- 
+Class B shares (82 199 256 shares); entitled to a liquidation quota prior to the disbursement of 
+liquidation quotas to holders of other classes of shares; do not grant rights to dividends or voting 
+rights, nor do they provide additional liquidation quotas;  
+- 
+Class C shares (649 465 shares); entitled to dividends and a liquidation quota, but does not confer 
+any voting rights. 
+As of the date of the Bonds’ Issuer Prospectus, the Bonds’ Issuer shareholders which have more than 
+10% of voting right shares (Class A shares) are: 
+Shareholder 
+Information on shares 
+Class 
+of 
+shares 
+Number of 
+shares 
+Shares as 
+% of class 
+Voting 
+rights 
+Shares as % of 
+total share capital 
+AS ALPPES Capital 
+(Latvia), registration 
+number: 52103097551 
+A 
+18 512 498 
+38.97% 
+✔ 
+ 
+45.34% 
+B 
+40 583 818 
+49.37% 
+- 
+SIA EMK Ventures 
+(Latvia), registration 
+number:42103100347  
+A 
+6 170 834 
+12.99% 
+✔ 
+ 
+15.11% 
+B 
+13 527 940 
+16.46% 
+- 
+SIA Nevia Finance 
+(Latvia), registration 
+number:40203193472 
+A 
+6 170 834 
+12.99% 
+✔ 
+ 
+4.73%
+
+--- Page 33 ---
+32 
+ 
+AS Obelo Capital (Latvia), 
+registration 
+number:40103806155 
+A 
+6 170 834 
+12.99% 
+✔ 
+ 
+4.73% 
+SIA EC Capital (Latvia), 
+registration number: 
+40203137723 
+A 
+5 375 000 
+11.32% 
+✔ 
+ 
+4.12%
+
+--- Page 34 ---
+33 
+ 
+8. THE BONDS 
+o 
+Legal nature, jurisdiction and the applicable law of the Bonds  
+The Bonds are dematerialized debt securities in a bearer form and registered with Nasdaq CSD SE 
+(Societas Europaea), the regional Baltic central securities depository (CSD), registration No. 
+40003242879, registered address Vaļņu iela 1, Rīga LV-1050, Latvia (Nasdaq CSD) in a book-entry form 
+with the securities settlement system governed by Latvian law. Each tranche of the Bonds will be assigned 
+a separate ISIN (International Security Identification Number), which will be different from the ISIN code 
+of other tranches.  
+ 
+The Bonds are freely transferable secured financial instruments denominated in euro with the nominal 
+value of EUR 100. The Bonds represent the secured debt obligation of the Bonds’ Issuer towards the 
+bondholders. 
+ 
+Each issue of the Bonds shall be governed by the laws of Latvia. Any disputes relating to or arising from 
+the issue will be settled solely by the courts of the Republic of Latvia of competent jurisdiction. Claims 
+arising from the Bonds shall expire in accordance with the statutory terms of Latvian law. 
+ 
+o 
+Repayment and maturity 
+Each tranche of the Bonds shall have a maturity up to 5 (five) years starting from the issue date. The 
+Bonds shall be repaid in full at their nominal value on the maturity date, which will be specified in the final 
+terms, or on the early redemption date. 
+ 
+The Bonds’ Issuer will pay the nominal value in accordance with Nasdaq CSD intermediary and applicable 
+Nasdaq CSD regulations.  
+ 
+If the maturity date of the Bonds is not a business day, the Bonds’ Issuer will pay the nominal value of the 
+Bonds on the next business day after the maturity date. In this case, the interest accrues for the days 
+prior to the next business day (actual redemption of the Bonds). 
+ 
+If the maturity of the Bonds is:  
+1) 
+up to and including 3 (three) years, the Bonds’ Issuer shall be entitled to full or partial early 
+redemption (call option) starting: 
+(a) 
+one year after the issue date by paying 101% (one hundred and one percent) of the 
+nominal amount plus accrued and unpaid interest; 
+(b) 
+from the last six months before maturity date by paying 100% (one hundred percent) of 
+the nominal amount plus accrued and unpaid interest; 
+ 
+2) 
+more than 3 (three) years, the Bonds’ Issuer shall be entitled to full or partial early redemption (call 
+option) starting: 
+(a) 
+one year after the issue date by paying 102% (one hundred and two percent) of the 
+nominal amount plus accrued and unpaid interest; 
+(b) 
+two years after the issue date by paying 101% (one hundred and one percent) of the 
+nominal amount plus accrued and unpaid interest; 
+(c) 
+from the last six months before maturity date by paying 100% (one hundred percent) of 
+the nominal amount plus accrued and unpaid interest. 
+ 
+o 
+Collateral 
+Only after registration of the collateral takes place, the Bonds will be first-rank senior secured obligations 
+of the Bonds’ Issuer, which rank above any other secured obligations of the Bonds’ Issuer at the date of
+
+--- Page 35 ---
+34 
+ 
+the Bonds’ Issuer Prospectus. The collateral shall be established in accordance with the terms and 
+conditions of the relevant collateral agreement to be concluded between the collateral agent as the 
+pledgee and the relevant collateral provider as the pledgor. The collateral shall be established (registered) 
+within 90 (ninety) days after the issue date of the Bonds’ first tranche under the respective final terms. 
+ 
+Each tranche of the Bonds will be secured as follows: 
+1) 
+in Latvia the collateral provider will provide a first rank commercial pledge over all assets of the 
+collateral provider (Longo Group company - SIA “Longo Latvia”) as an aggregation of property at the 
+moment of pledging, as well as its future components as a first rank pledge; and in Lithuania the 
+collateral provider will provide a first rank enterprise mortgage over all assets of the collateral provider 
+(Longo Group company - Longo LT UAB) as a first rank mortgage; and 
+2) 
+in Lithuania the mortgage provider will provide a first rank mortgage over the real estate owned by 
+the mortgage provider. 
+ 
+The amount of secured claim of the collateral (consisting of commercial pledge and mortgage) will be up 
+to EUR 24 800 000 (twenty four million eight hundred thousand euros) on each of the collateral providers 
+and mortgage provider for the benefit of the bondholders.  
+ 
+The collateral agent will hold the collaterals for the benefit of the bondholders in accordance with the 
+Bonds’ Issuer Prospectus and related documents.  
+ 
+ 
+These characteristics of the Bonds as described above demonstrate capacity to produce funds to service 
+any payments due and payable on the Notes.
+
+--- Page 36 ---
+35 
+ 
+9. TERMS AND CONDITIONS OF THE NOTES 
+The following are the terms and conditions of the Notes (the Terms and Conditions) which, together with 
+the relevant Final Terms, will be applicable to the specified Series of Notes. The relevant Final Terms will 
+complete the Terms and Conditions in relation to each Series of Notes.    
+ 
+Save where the context requires otherwise, references in the Terms and Conditions to Notes are to the 
+Notes of one Series only, not to all Notes of other Series that may be issued under these Terms and 
+Conditions. 
+In these Terms and Conditions, unless the context otherwise requires, words denoting the singular include 
+the plural and vice versa. 
+In these Terms and Conditions, references to a specified Condition will be construed as a reference to 
+that specific Condition of these Terms and Conditions as in force for the time being and as amended or 
+supplemented from time to time. 
+The headings are inserted for convenience of reference only and will not affect the interpretation of these 
+Terms and Conditions. 
+In these Terms and Conditions, reference to any other document will be construed as references to that 
+document as in force the time being and as amended, supplemented or substituted. 
+The use of the word including means including without limitation. 
+Words and expressions used in these Terms and Conditions in capitals and not defined will have the 
+meanings given to them in the Final Terms unless the context otherwise requires or unless otherwise 
+stated. 
+DEFINITIONS 
+In these Terms and Conditions, unless the context otherwise requires, the following definitions will apply: 
+Aggregate Nominal Amount: the aggregate nominal amount of the Notes as specified in the Final 
+Terms. 
+API: application programming interface to exchange and transmit information and data in a structured 
+form between the Issuer and Mintos. 
+Available Distribution Amount: the amounts received by the Issuer from the Series Specific Notes. 
+Base Prospectus: the base prospectus in relation to the Notes. 
+Bonds: Bonds’ Issuer issued bonds held by the Issuer as an asset backed security for the Notes. 
+Bonds’ Issuer: AS Longo Group, a joint stock company (akciju sabiedrība), registered in the Commercial 
+Register of Register of Enterprises of Latvia on 30.10.2017 under registration number 42103081417, and 
+having its registered office at Mūkusalas iela 72A, Riga, LV-1004, Latvia.  
+Bonds’ Issuer Prospectus: the Bonds’ Issuer base prospectus that is approved by NCA on 7th 
+November 2024 and is prepared for the programme for the offering of secured bonds of the Bonds’ Issuer 
+in the amount of up to EUR 20 000 000. The Bonds’ Issuer base prospectus should be read and 
+constructed together with any supplements to it (if any) and any other documents attached to it and, in 
+relation to any tranche of Bonds issue (tranche), with the final terms of the relevant tranche (final terms), 
+as applicable. The approval by the NCA of the Bonds’ Issuer Prospectus only means that it is meeting 
+the standards of completeness, comprehensibility and consistency imposed by the Prospectus 
+Regulation. The link to the Bonds’ Issuer base prospectus as supplemented from time to is  here.
+
+--- Page 37 ---
+36 
+ 
+Bonds’ Receivables: The Bonds will bear an annual interest rate which will be determined by the Bonds’ 
+Issuer and specified in the final terms of the respective Bonds’ issue. The Bonds’ interest shall be paid 
+on the dates specified in the respective final terms as the interest payment date up until the respective 
+Bonds’ tranche maturity date. 
+Bonds’ Receivables Payments: interest payments made by the Bonds’ Issuer under the Bonds’ Issuer 
+Prospectus.   
+Business Day: any day on which banks in the Republic of Latvia are open for business, except for 
+Saturdays, Sundays and national holidays of the Republic of Latvia. 
+Cooperation Agreement: the cooperation agreement between the Issuer and Mintos in relation to the 
+Notes. 
+Final Terms: the final terms of the Notes. 
+Interest: the interest under the Notes or the Series Specific Notes. 
+Interest Accrual Periods: the periods during which Interest accrues on the Notes as specified in the 
+Final Terms. 
+Interest Payment Date: each date on which Interest is payable under the Notes as specified in the Final 
+Terms. 
+Interest Rate: the rate at which Interest accrues on the Notes as specified in the Final Terms. 
+Investment Accounts: the financial instruments account and the cash account of the Investor opened 
+with Mintos. 
+Issue Date: the issue date of the Notes being the date on which the Notes are first made available for 
+subscription as specified in the Final Terms. 
+Issuer: SIA Mintos Finance No. 45, registration number: 40203407882, registered on 17.06.2022, 
+registered address: Skanstes street 52, Riga, LV-1013, a special purpose entity whose principal purpose 
+is the issue of Notes.  
+Issuer’s Account: the cash funds account of the Issuer opened with Mintos which is used solely for 
+settling payments with the Investors. 
+Maturity Date: the scheduled maturity date of the Notes as specified in the Final Terms. 
+Mintos: AS Mintos Marketplace, a joint stock company registered in the Commercial Register of the 
+Register of Enterprises of the Republic of Latvia under unified registration number 40103903643 on 1 
+June 2015, having registered address: 50 Skanstes Street, Riga, LV-1013, Latvia. 
+Noteholder: each person who appears as a holder of any Note from time to time in the electronic register 
+maintained by Mintos. 
+Notes: notes issued or to be issued by the Issuer. 
+Payment Event: the date on which any full or partial payment under the Bonds occurs.    
+Principal Amount Outstanding: the Aggregate Nominal Amount multiplied by the Sink Factor.  
+Priority of Payments: the priority of payments set out in Condition 7.  
+Redemption Date: each date on which the Notes are redeemed as specified in the Final Terms. 
+Series: Notes with the same Issue Date and the same Terms and Conditions and identified in the relevant
+
+--- Page 38 ---
+37 
+ 
+Final Terms as forming a series. 
+Sink Factor: a fractional number between 0 to 1 (inclusive) up to 16 decimal figures as determined by 
+the Issuer from time to time which reflects the then Principal Amount Outstanding taking into account any 
+partial redemptions of the Notes. 
+Specified Currency: the currency of the Notes as specified in the Final Terms. 
+Specified Denominations: the specified denominations of the Notes as specified in the Final Terms. 
+Transaction Documents: the Cooperation Agreement, the Placement agreement and any other 
+document designated by the Issuer as a Transfer Document. 
+Transfer Document: the documents evidencing the transfer of Notes from the Issuer to Investor; and 
+transfer of Bonds and / or Bonds’ Receivables from the Bonds’ Issuer to the Issuer in accordance with 
+the terms of the Bonds’ Issuer Prospectus. 
+1.  
+UNDERTAKINGS OF THE ISSUER  
+The undertakings in this Condition 1 remain in force for so long as any of the Notes are 
+outstanding. 
+1.1 
+Authorisations and compliance with laws 
+The Issuer will promptly obtain, comply with and do all that is necessary to maintain in full force 
+and effect any authorisation required under any law or regulation of Latvia to enable it to perform 
+its obligations under the Notes or own title in the Bonds, and carry on its business as it is being 
+conducted. The Issuer will comply in all respects with all laws to which it is subject. 
+1.2 
+Negative covenants 
+Other than in connection with the Notes or as provided in the Base Prospectus, the Issuer will 
+not: 
+(a) 
+sell, transfer, create any security over or otherwise dispose of any of the Bonds; 
+(b) 
+incur or permit to be outstanding any financial indebtedness;  
+(c) 
+be the creditor to any person; 
+(d) 
+give or allow to be outstanding any guarantee or indemnity to or for the benefit of any 
+person in respect of any obligation of any other person; 
+(e)  
+carry on any business other than as a special-purpose pass-through undertaking 
+established for the purpose of issuing and offering Notes, which are backed by the Bonds, 
+to Investors on the Platform; or 
+(f) 
+use the Issuer’s Account for any purpose other than as provided in these Terms and 
+Conditions and the Transaction Documents.  
+These provisions are without prejudice to the Issuer’s right to have transactions with other bonds 
+issuers, if any, with the aim of approving base prospectuses and issuing bonds’ backed and 
+contingent notes.
+
+--- Page 39 ---
+38 
+ 
+2.  
+GENERAL 
+2.1 
+The Issuer under these Terms and Conditions together with the corresponding Final Terms has 
+authorised the creation, issue and sale of the Notes. The issue of Notes on the Issue Date 
+specified in the Final Terms will correspond to the Issuer obtaining title to the Bonds with a total 
+amount equal to the Aggregate Nominal Amount. 
+2.2 
+Subject to Condition 25, the Issuer will obtain the title to the Bonds on the condition that Mintos 
+has determined that it has all the data it requires in relation to the Bonds’ Receivables in 
+accordance with the Bonds’ Issuer Prospectus. The condition in no case implies either the Issuer 
+or Mintos has any obligation to examine, verify or assess Bonds’ Issuer Prospectus data, 
+including, through the use of any documentary evidence. 
+2.3 
+In each case where amounts of principal, Interest, other return and additional amounts (if any) 
+are payable in respect of the Notes, the obligations of the Issuer to make any such payment will 
+constitute an obligation only to account to the Noteholders on each date on which such amounts 
+are due, for an amount equal to amounts of principal, Interest, other return and additional amounts 
+(if any) actually received by the Issuer in relation to the Bonds. 
+2.4 
+Neither the Issuer nor Mintos are liable to make any payments in respect of the Notes other than 
+as expressly provided in these Terms and Conditions. 
+2.5 
+Save for any fees payable to the Mintos, so far as the Issuer is aware, no person involved in the 
+issue of the Notes has any material interest to the offer of the Notes. 
+3.  
+STATUS 
+3.1 
+The Notes constitute direct, general, unsubordinated and limited recourse debt obligations of the 
+Issuer, which rank pari passu among themselves; and at all times these obligations rank at least 
+pari passu with all other present and future direct, general, unsubordinated and limited recourse 
+obligations of the Issuer arising from the present and further Series, except for those obligations 
+as may be preferred by applicable law. 
+3.2 
+No proprietary or other direct interest in the Issuer’s rights under or in respect of any of the 
+Transaction Documents, the Transfer Document, the Bonds’ Receivables, exists for the benefit 
+of the Noteholders. Subject to these Terms and Conditions, no Noteholder will and will have any 
+right to enforce any of the Transaction Documents and the Bonds’ Receivables, or any direct 
+recourse to the Bonds’ Issuer. 
+4.  
+FORM 
+The Notes are issued by the Issuer in registered form which are deposited and held as book-
+entry with Mintos.  
+5.  
+ISSUE OF NOTES 
+The Notes are issued on the Issue Date in the Aggregate Nominal Amount, the Specified 
+Denominations and the Specified Currency as specified in the Final Terms.   
+6.  
+REGISTER, TITLE AND TRANSFERS 
+6.1 
+Mintos maintains an electronic register of Noteholders in accordance with the Cooperation 
+Agreement. No certificates will be issued to any Noteholder in respect of its holding.
+
+--- Page 40 ---
+39 
+ 
+6.2 
+Each Noteholder will (except as otherwise required by law) be treated as the absolute owner of 
+any relevant Note for all purposes (whether or not it is overdue and regardless of any notice of 
+ownership, trust, nomineeship or any other interest in the Note), and no person will be liable for 
+so treating the Noteholder. 
+6.3 
+The Notes are held and freely transferred only between the financial instrument accounts at 
+Mintos of Noteholders. No application has been or will be made to trade the Notes on any 
+regulated market or any other trading venue, other than the Platform.  
+6.4 
+A transfer of any Note between the Noteholders may be affected by Mintos which may require as 
+conditions to the transfer of (a) provision of documents and information, (b) payment of any 
+transfer fee and (c) payment of any tax or other governmental charges, in each case, by the 
+relevant Noteholder in accordance with terms and conditions of the Platform. 
+7.  
+PRIORITY OF PAYMENTS 
+All funds received by the Issuer in relation to the Bonds, to the extent legally permitted, will be 
+applied by the Issuer in the following order of priority: 
+(a) 
+first, in or towards payment of any amounts owed by the Issuer to any tax authority and 
+required to be paid by the Issuer under or pursuant to the Notes; 
+ 
+(b) 
+second, in payment or satisfaction of all fees and penalty fees then due and unpaid to 
+Mintos if any; 
+(c) 
+third, in or towards payment or satisfaction of all amounts then due and unpaid as 
+commissions, fees, costs, charges, expenses and liabilities incurred or payable for 
+servicing of the Bonds; 
+(d) 
+fourth, in or towards payment or satisfaction of any costs, including legal fees, for any 
+action to recover funds, collect or restructure payment obligations, or taking any other 
+actions to receive the Bonds’ Receivables. 
+(e) 
+fifth, to the Noteholders in or towards the payment or discharge of all amounts of Interest 
+and Principal Amount Outstanding then due and payable under or in respect of Series. 
+Such payment or discharge being done by placing Notes of all Series outstanding in the 
+chronological order from the Notes having oldest Payment Event to the Notes having 
+newest Payment Event, and then applying pro rata approach on each particular Series 
+level. 
+Neither the Issuer nor Mintos will be liable for applying the Priority of Payments, including for any 
+minor errors, pursuant to Condition 25. 
+8.  
+INTEREST 
+8.1 
+Payment of Interest 
+Each Note bears Interest from (and including) the date on which the Note is subscribed by the 
+Noteholder. Interest will be calculated in accordance with Conditions 8.2 and payable in the 
+Specified Currency in arrears on each Interest Payment Date.  
+8.2  
+Accrual of Interest 
+The Interest payable on any Interest Payment Date in respect of each Note is as follows:
+
+--- Page 41 ---
+40 
+ 
+ 
+ 
+ 
+ 
+Interest Rate X Principal Amount Outstanding X Day Count*  
+*from the day when the Notes are purchased or from the day of the last Interest Payment Date, as the case 
+may be, but not including the next Interest Payment Date, divided by actual calendar days in the interest 
+period multiplied by the number of interest periods in the year. The accrued Interest is calculated presuming 
+that there are 360 days in one year (day count convention – “European 30/360”). 
+Any payment of Interest will be made only in accordance with Conditions 7, 11 and 25, and 
+will be subject to the relevant Payment Event having occurred and the Issuer having 
+actually received the corresponding payment under the Bonds. 
+9.  
+PRINCIPAL REDEMPTION 
+9.1  
+Redemption at maturity 
+Unless previously redeemed or purchased and cancelled as specified in these Terms and 
+Conditions, each Note will be redeemed at the Principal Amount Outstanding on the Maturity 
+Date. 
+9.2  
+Early Redemption 
+A proportion of the Principal Amount Outstanding of the Notes will be redeemed pro rata on each 
+Redemption Date and at any other time any principal payment from the Bonds is received by the 
+Issuer, without any prior notice to Noteholders. The Principal Amount Outstanding of the Notes 
+redeemed will be in the same proportion as the proportion that the principal payment received by 
+the Issuer has to the total principal amount outstanding of the Bonds immediately before the 
+principal payment. Any accrued but unpaid Interest associated to that proportion of the Principal 
+Amount Outstanding of the Notes being redeemed will be paid at the same time. For the 
+avoidance of doubt if the Principal Amount Outstanding of the Notes is redeemed, the nominal 
+amount of each Note (as specified in Final Terms) is constant and remains unchanged. 
+Any repayment of the Principal Amount Outstanding will be made only in accordance with 
+Conditions 7, 11 and 25, and will be subject to the relevant Payment Event having occurred 
+and the Issuer having actually received the corresponding payment under the Bonds. 
+10.  
+INTEREST AND PRINCIPAL DETERMINATION  
+10.1 
+Mintos determines (a) the amount of Interest payable in accordance with Condition 8 for each 
+Interest Payment Date and (b) the amount of principal payable in accordance with Condition 9 on 
+each Redemption Date and the Maturity Date, on its review of the following information: 
+(i) 
+the Payment Events which have arisen;  
+(ii) 
+aggregate payment amounts paid by the Bonds’ Issuer which have been received from 
+the Bonds’ Issuer;  
+(iii) 
+the amounts then due and owed by the Issuer according to the Priority of Payments on 
+the Interest Payment Date, the Redemption Date or the Maturity Date. 
+10.2 
+On each Interest Payment Date, each Redemption Date and the Maturity Date, Mintos on the 
+Issuer's behalf will direct the payment of Interest and principal amounts to the Noteholders in 
+accordance with Condition 11.
+
+--- Page 42 ---
+41 
+ 
+10.3 
+If after application of the Priority of Payments the Issuer has insufficient funds on any Interest 
+Payment Date, any Redemption Date or the Maturity Date to make a payment of Interest or 
+principal in full as required by Conditions 8 and 9, on behalf of the Issuer, Mintos at its sole 
+discretion may decide that the Issuer pays part of the amount due or defers the payment until the 
+full amount due is available, and such partial payment or deferral will not constitute an Event of 
+Default under these Terms and Conditions. 
+10.4 
+All determinations, calculations and adjustments made by Mintos will be made in conjunction with 
+the Issuer and will, in the absence of manifest error, be conclusive in all respects and binding 
+upon the Issuer and all Noteholders. 
+11.  
+PAYMENTS 
+11.1 
+Payments of Interest and principal  
+Subject to Conditions 7 and 12, the Issuer will, from any Available Distribution Amount: 
+(a) 
+pay the Interest on the Notes in accordance with Condition 8 on each Interest Payment 
+Date; and 
+(b) 
+redeem the Notes in accordance with Condition 9 on each Redemption Date and the 
+Maturity Date. 
+11.2 
+Notes contingent payments 
+All payments of Interest and principal by the Issuer under the Notes are dependent on the Issuer 
+having received information on the Payment Event and the Available Distribution Amount being 
+sufficient to make the relevant payments in accordance with the Priority of Payments. The Notes 
+will not give rise to the Issuer having any payment obligation in excess of the foregoing. 
+11.3 
+Pending Payments Penalty Fee 
+Not applicable.  
+11.4 
+Insufficient funds on the Maturity Date 
+If any amounts on the Notes are outstanding on the Maturity Date, the Maturity Date will be 
+automatically postponed to the date on which all amounts due and payable under the Notes are 
+paid. 
+11.5 
+Payments to the Noteholders 
+Any payments of Interest and redemption amounts in respect of the Notes will be made to the 
+relevant Investment Account.  
+11.6 
+Taxes 
+All payments and/or deliveries in respect of the Notes made by or on behalf of the Issuer will be 
+made subject to any withholding or deduction for any taxes, duties, assessments or governmental 
+charges of whatever nature which may be required to be withheld or deducted.  
+The Issuer or Mintos will: 
+(a) 
+not be liable as a result for, or otherwise obliged to pay, any additional amount to any of
+
+--- Page 43 ---
+42 
+ 
+the Noteholders in respect of, or compensation for, any such withholding or deduction or 
+any other amounts withheld or deducted; 
+(b) 
+not be liable for or otherwise obliged to pay, and the relevant Noteholder will be liable for 
+and/or pay, any tax, duty, charge, withholding or other payment whatsoever which may 
+arise as a result of, or in connection with, the ownership, any transfer (or agreement to 
+transfer), any payment and/or any delivery (or any agreement for delivery) in respect of 
+the Notes held by such Noteholder; and 
+(c) 
+have the right but will not be obliged (unless required by law), to withhold or deduct from 
+any amount payable or, as the case may be, any delivery due to the relevant Noteholder, 
+such amount or portion as will be necessary to account for or to pay any such tax, duty, 
+charge, withholding or other payment. 
+The Noteholders will agree to provide the Issuer and/or Mintos with all information and 
+documentation required by the Issuer and/or Mintos, as the case may be, to satisfy any Latvian 
+or other country tax or regulatory obligations at any time. 
+11.7 
+Payments on Business Days 
+If the due date for payment of any amount in respect of any Notes is not a Business Day, the 
+Noteholder will not be entitled to payment of the amount due until the next succeeding Business 
+Day in such place and will not be entitled to any further interest or other payment in respect of 
+any such delay. 
+12.  
+LIMITED RECOURSE AND NON-PETITION 
+12.1 
+Notwithstanding anything in the Base Prospectus, the obligations of the Issuer in respect of the 
+Notes are limited recourse obligations which are payable solely from the sums of principal, 
+Interest, other return and additional amounts (if any) actually received (and identified as such) in 
+relation to the Bonds. 
+12.2 
+All payments to be made by the Issuer in respect of the Notes will be made only from and to the 
+extent of the sums received or recovered from time to time by or on behalf of the Issuer under 
+the Bonds, subject always to the Priority of Payments. 
+12.3 
+In relation to any sums received or recovered, the Issuer (or Mintos on its behalf) will follow these 
+Terms and Conditions in determining to which Series of Notes such sums relate and such 
+determination will be binding on Noteholders of all Series in the absence of manifest error. 
+12.4 
+To the extent that the sums referred to in Condition 12.1 are less than the amount which the 
+Noteholders may have expected and been entitled to receive (such difference being referred to 
+as the shortfall), the shortfall will be borne by the Noteholders. 
+12.5 
+Each Noteholder, on subscribing or buying any Note directly, of the Platform or any other way, 
+irrevocably accept and acknowledge that it is fully aware that: 
+(a) 
+only the sums referred to in this Condition 12, and Conditions 7 and 11 will be available 
+for any payments to be made by the Issuer in respect of the Notes; 
+(b) 
+the sums which are attributable to another Series of Notes are only available in 
+satisfaction of the obligations of the Issuer to such Noteholders; 
+(c) 
+the obligations of the Issuer to make payments in respect of the Notes will be limited to
+
+--- Page 44 ---
+43 
+ 
+the sums and the Noteholders will have no recourse to the Issuer, Mintos or their 
+respective shareholders, directors, officers, employees, affiliates, successors or assigns 
+in respect of the Notes for the shortfall; 
+(d) 
+no Noteholder is entitled to proceed against the Issuer or Mintos for the shortfall; 
+(e) 
+following the realisation and distribution of the net proceeds from the Bonds’ Receivables 
+in accordance with the Priority of Payments, the Noteholders or anyone acting on behalf 
+of any of them will not be entitled to take any further steps against the Issuer or Mintos 
+to recover any further sum and the right to receive any such further sum will be deemed 
+as fulfilled; and 
+(f) 
+no Noteholder will be entitled to petition or take any other step or join with any other 
+person in bringing, instituting or joining, insolvency, winding-up, liquidation or bankruptcy 
+proceedings (whether court-based or otherwise), or for the appointment of an examiner, 
+liquidator or analogous person in relation to the Issuer, nor will it have any claim to, or in 
+respect of any sum arising in respect of any assets of the Issuer. 
+12.6 
+Non-payment of the shortfall referred to in this Condition 12 will not constitute an Event of Default. 
+12.7 
+None of the shareholders of the Issuer, Mintos, the Bonds’ Issuer has any obligation to any 
+Noteholder for payment of any amount by the Issuer in respect of the Notes. 
+12.8 
+The provisions of this Condition 12 will survive redemption of the Notes. 
+13.  
+PURCHASE 
+13.1 
+The Issuer may at any time purchase Notes at any price on the Platform.  
+13.2  
+Any Note purchased by the Issuer on the sole discretion of the Issuer may be either cancelled or 
+sold to any investor on behalf of the Issuer by Mintos.  
+14.  
+CANCELLATION 
+All Notes which are redeemed or cancelled may not be re-issued or resold. 
+15.  
+PRESCRIPTION 
+Any and all claims against the Issuer for payment in respect of the Notes will be prescribed and 
+become void unless made within 10 years from the date on which payment in respect of the Notes 
+first becomes due. 
+16.  
+FURTHER ISSUES 
+The Issuer may from time to time without the consent of the Noteholders create and issue further 
+Series and further tranches of existing Series of Notes. A further tranche of an existing Series 
+will: 
+(a) 
+be fungible with the Notes of that existing Series; 
+(b) 
+have the same terms and conditions as the Notes of that Series except for the Aggregate 
+Nominal Amount, the Issue Date, the Issue Price, the Interest Accrual Periods, the first 
+Interest Payment Date and the first Redemption Date; and
+
+--- Page 45 ---
+44 
+ 
+(c) 
+be consolidated and form a single Series with that existing Series of Notes, and 
+references in these Terms and Conditions to Notes will be construed accordingly. 
+The right of the Issuer from time to time without the consent of the Noteholders to create and 
+issue further Series, includes also the Issuer’s right to issue bonds’ backed and contingent notes 
+according to the base prospectuses and transaction documents for other bonds’ issuers.  
+17.  
+EVENTS OF DEFAULT 
+17.1 
+Any of the following events will constitute an event of default under the Notes (each, an Event of 
+Default): 
+(a) 
+if any order is made by any competent court or any resolution passed for the winding- up 
+or dissolution (including any bankruptcy, insolvency, voluntary, forced or judicial 
+liquidation, composition with creditors, a reprieve from payment, controlled management, 
+fraudulent conveyance, general settlement with creditors or reorganisation proceedings 
+or similar proceedings affecting the rights of creditors generally) of the Issuer (save for 
+the purposes of amalgamation, merger, consolidation, reorganisation or other similar 
+arrangements); or  
+(b) 
+formal notice is given of an appointment an administrator (including any receiver, 
+liquidator, auditor, verifier), provisional administrator; or  
+(c) 
+any application is made, or petition is lodged, or documents are filed with the court or 
+administrator in relation to the Issuer for the actions, proceeding or procedures specified 
+in paragraphs (a) or (b) above, unless such proceedings or petitions are disputed in good 
+faith and are discharged, stayed or dismissed within 90 calendar days of commencement. 
+17.2 
+The Issuer is obliged to inform Mintos immediately if any Event of Default should occur. Should 
+Mintos not receive such information, Mintos is entitled to assume that no Event of Default exists 
+or can be expected to occur, provided that Mintos does not have knowledge of any Event of 
+Default. Mintos is under no obligation to make any investigations relating to any Event of Default. 
+The Issuer will, at the request of Mintos, provide Mintos with details of any Event of Default and 
+provide Mintos with all documents that may be of significance for the application of this Condition 
+17. 
+17.3  
+If Mintos has been notified by the Issuer or has otherwise determined that there is an Event of 
+Default, Mintos will, within 20 Business Days of the day of notification or determination, notify the 
+Noteholders according to Condition 20.  
+17.4 
+Upon the occurrence of an Event of Default, Notes are repaid according to the terms and 
+conditions stipulated by this Base Prospectus and relevant Series Final Terms, unless otherwise 
+required by a rule of the law. 
+17.5 
+Mintos, subject to the Noteholders indemnifying and holding Mintos harmless from any 
+reasonable expenses, loss or liability, will take every reasonable measure necessary to recover 
+the amounts outstanding under the Notes according to their terms and conditions and Transaction 
+Documents. Mintos will in each case inform the Noteholders about the costs which should be 
+compensated prior to requesting any indemnification. In any case Mintos will charge this 
+compensation of costs only up to the recovered amount. Mintos will not ask for compensation of 
+costs for its in-house staff and resources.  
+17.6 
+For the avoidance of doubt, if any payment is not made by the Issuer because the Issuer has not
+
+--- Page 46 ---
+45 
+ 
+received the relevant amounts under the Series Specific Notes so that the Available Distribution 
+Amount after application of the Priority of Payments is not enough to make payments due under 
+the Notes in full, the occurrence of such event will, as such, not constitute an Event of Default. 
+18.  
+MEETING OF NOTEHOLDERS  
+18.1 
+General provisions  
+The Issuer from time to time may convene a meeting of the Noteholders (the Noteholders 
+Meeting) to adopt resolutions on certain matters. The Issuer at its own discretion decides which 
+matters will be reserved for passing at the Noteholders Meeting.  
+These provisions permit defined majorities to bind all Noteholders including Noteholders who did 
+not attend and vote at the Noteholders Meeting or in respect of the relevant resolution and 
+Noteholders who voted in a manner contrary to the majority. As a result, Noteholders may be 
+bound by a change to these Terms and Conditions or by some other decision that affects 
+Noteholders' investment in the Notes even though they have not agreed to such change.  
+The Noteholders Meeting may adopt its resolutions in one of the two forms as chosen by the 
+Issuer:  
+(a)  
+at a meeting held by attendance of the Noteholders to discuss the items on the agenda 
+and pass resolutions on the matters put to the vote using ballots provided; or 
+(b)  
+by absentee voting (without attendance of the Noteholders to discuss the items on the 
+agenda and pass resolutions on the matters put to the vote). 
+The Noteholders Meeting will be chaired, and minutes taken by a representative of Mintos.  
+18.2  
+Resolutions of the Noteholders Meeting 
+Matters put to the vote at a Noteholders Meeting and its agenda will be decided by the Issuer. 
+The Noteholders may neither pass resolutions on the matters not included in its agenda nor 
+amend the agenda. 
+Resolutions passed by the Noteholders Meeting and voting results will be provided to the persons 
+eligible to participate in the Noteholders Meeting in a report, which will be disclosed to the 
+Noteholders as per the procedure prescribed with regard to sending notices of the Noteholders 
+Meeting, within 5 Business Days after the closing date of the meeting or the final date for 
+submitting the voting ballots in case of absentee voting. However, the failure to do so will not 
+invalidate the resolution. 
+The resolution will be binding on all the Noteholders, whether or not present at the Noteholders 
+Meeting and each of them will be bound to give effect to it accordingly.  
+18.3  
+Information on holding a Noteholders Meeting 
+The Issuer will notify the Noteholders about the Noteholders Meeting in accordance with the 
+procedure below.  
+A notice of the Noteholders Meeting (the Notice) will be given according to Condition 20 no later 
+than 10 days in advance.
+
+--- Page 47 ---
+46 
+ 
+The Notice will be given to the Noteholders registered on the date of the Notice in the electronic 
+register of Noteholders maintained by Mintos. 
+The Issuer may decide not to publish the Notice on the Platform. In such a case within the time 
+specified in this Condition 18.3 the Issuer will send the Notice to the Noteholders by email. 
+The Issuer may at its own discretion make available information to the Noteholders entitled to 
+participate in the Noteholders Meeting as part of preparations for the Noteholders Meeting.  
+18.4  
+Quorum at a Noteholders Meeting  
+A Noteholders Meeting will be deemed quorate if attended by Noteholders aggregately holding 
+more than 50% of: 
+(a) 
+the aggregate Principal Amount Outstanding of all Series of Notes on the date of the 
+Notice if the decision is related towards all Series of Notes outstanding; or 
+(b) 
+the aggregate Principal Amount Outstanding of the relevant Series of Notes on the date 
+of the Notice if the decision is related towards the relevant Series of Notes outstanding. 
+The number of votes for each Noteholder equals the Principal Amount Outstanding in the 
+respective Series on the date of the Notice. 
+When a Noteholders Meeting is held by attendance of the Noteholders to discuss the items on 
+the agenda and pass resolutions on the matters put to the vote, the Noteholders registered to 
+participate in the Noteholders Meeting and the Noteholders whose ballots have been received no 
+later than 2 days before the meeting will be deemed to have participated in the meeting.  
+When a Noteholders Meeting is held in the form of absentee voting, the Noteholders whose 
+ballots have been received before the final date for submitting the ballots will be deemed to have 
+participated in the meeting.  
+Where there is no quorum for a Noteholders Meeting, a second Noteholders Meeting will be held 
+with the same agenda. Such second Noteholders Meeting will be deemed quorate if attended by 
+Noteholders aggregately holding more than 30% of: 
+(a) 
+the aggregate Principal Amount Outstanding of all Series of Notes on the date of the 
+Notice if the decision is related towards all Series of Notes outstanding; or 
+(b) 
+the aggregate Principal Amount Outstanding of the relevant Series of Notes on the date 
+of the Notice if the decision is related towards the relevant Series of Notes outstanding. 
+Subject to the quorum being present, the decisions on the Noteholders Meeting agenda will be 
+adopted per each item of the agenda by the majority from the total number  of votes provided. 
+18.5 
+Voting ballots 
+Ballots for voting at a Noteholders Meeting will be sent together with the Notice according to 
+Condition 18.3.  
+Ballots for voting will be in the English language.  
+Voting could be convened as an e-voting through filling-out an electronic voting ballot through the 
+interface of the Platform.
+
+--- Page 48 ---
+47 
+ 
+Noteholders included in the list of those entitled to participate in the Noteholders Meeting other 
+than the Noteholders Meeting held in the form of absentee voting, or their representatives, may 
+register to participate or forward their completed ballots to the Issuer. Voting ballots will be 
+counted towards the calculation of the quorum and voting results if received by the company no 
+later than 2 days before the Noteholders Meeting. 
+The voting ballot will contain the information about the Noteholders Meeting including but not 
+limited to:  
+- 
+information about the Issuer, including address and contact person; 
+- 
+details identifying the Series of Notes; 
+- 
+form of the Noteholders Meeting (attendance or by absentee voting); 
+- 
+date, place and time of the Noteholders Meeting if it is held in the form of attendance of 
+the Noteholders; 
+- 
+Principal Amount Outstanding; and 
+- 
+voting options for each item on the agenda, expressed as “for”, “against”, or “abstained”, 
+and the indication that the voting ballot must be signed by a person entitled to participate 
+in the Noteholders Meeting or its representative unless convened by e-voting. 
+When voting by ballots, only those voting ballots are counted where for each item only one voting 
+option is selected. The voting ballots completed in breach of the aforementioned requirement will 
+be deemed invalid. However, if there are several items put to the vote on the voting ballot, breach 
+of the aforementioned requirement with respect to one or several items will not affect the validity 
+of the remaining ballot. If a voting ballot is rendered invalid with respect to voting on one, several 
+or all items included in such ballot, the votes so cast in such ballot will not be excluded from the 
+calculation of the quorum. If a voting ballot is rendered invalid, the votes on the items contained 
+in the voting ballot will not be counted. 
+18.6 
+Counting  
+The counting functions will be performed by Mintos, which will check the powers of, and register 
+the participants in a Noteholders Meeting, determine the quorum at a Noteholders Meeting, count 
+the votes and determine the voting results, draw up the voting minutes and hand over the voting 
+ballots to the archive. 
+19.  
+SUBSTITUTION 
+19.1 
+The Issuer or any previous substitute company may be substituted by any other company as 
+principal obligor under all of the Notes then outstanding provided that such substitution would not 
+be materially prejudicial to the interests of the Noteholders and subject to the other Terms and 
+Conditions being complied with, including with provisions of the Transaction Documents, and 
+further provided that NCA has given its prior consent to such substitution if any needed according 
+to the applicable law. 
+19.2 
+By subscribing to, or otherwise acquiring, the Notes, the Noteholders expressly consent to the 
+substitution of the Issuer and to the release of the Issuer from any and all obligations in respect 
+of the Notes and any relevant agreements and are expressly deemed to have accepted such 
+substitution and the consequences of such substitution.
+
+--- Page 49 ---
+48 
+ 
+19.3 
+Any such substitution will be notified to Noteholders in accordance with Condition 20. 
+20.  
+NOTICES AND PROVISION OF INFORMATION 
+20.1  
+Notices to the Noteholders will be given upon sole discretion of the Issuer in the English language 
+and/or any other language the Issuer deems fit for such purposes and will be given by using one 
+or several communication channels: 
+(a) 
+emailed to respective email addresses in the register of Noteholders and deemed to have 
+been given within 24 hours after the dispatch; and 
+(b) 
+delivered to Mintos for further communication to the Noteholder according to the services 
+provision agreement between Mintos and the Noteholder (including times when deemed 
+to have been duly given). 
+20.2 
+Any notices, demands, claims or other communication to the Issuer by any Noteholder will be in 
+the English language and will be given by using one of the following communication channels:  
+(a)  
+delivered by hand or courier and deemed to have been given on the same day of delivery; 
+and 
+(b) 
+delivered by registered mail and deemed to have been given on the 10th calendar day 
+following the date indicated on the stamp by the postal service provider on the 
+acceptance of a registered letter. 
+20.3.  
+For the purposes of Condition 20.2 notices or other communications addressed to the Issuer will 
+be given to Mintos, serving as an agent for this purpose: 
+AS Mintos Marketplace 
+50 Skanstes Street, Riga, LV-1013, Latvia 
+For the attention of SIA Mintos Finance No. 45 
+21.  
+AGENTS 
+21.1  
+Mintos acts solely as an agent of the Issuer and does not assume any obligation or duty to, or 
+any relationship of agency or trust for or with, any Noteholder. 
+21.2  
+The Issuer subject to the provisions of the Transaction Documents reserves the right at any time 
+to vary or terminate the appointment of Mintos and any other party to any of the Transaction 
+Documents. 
+21.3 
+Without prejudice to section 18 of these Terms and Conditions neither Mintos nor Issuer is 
+representing the Noteholders in regards to the Notes and on the basis of this Base Prospectus 
+there are no organisations representing the Investors and there are no provisions applying to 
+such representation.  
+22.  
+FORCE MAJEURE 
+Neither the Issuer nor Mintos will be responsible for any failure to perform any of its respective 
+obligations under these Terms and Conditions which is due to any reason that is independent of 
+that person’s will and has resulted from a force majeure event. A force majeure event will apply 
+only and solely if that person has taken all steps that depend on it in order to perform the 
+obligation. Once the force majeure event has finished, that person must immediately resume the 
+performance of the obligation. The following circumstances will be considered as force majeure
+
+--- Page 50 ---
+49 
+ 
+events: 
+(a) 
+extraordinary and unavoidable circumstances including natural disasters, fire, flood, 
+earthquake, warfare, terror acts, riots and strikes; 
+(b) 
+technical failures, delays or malfunctions; failure of computers, communications systems, 
+hardware and/or software; power supply malfunctions; or other critical infrastructure 
+malfunctions, which neither the Issuer nor Mintos could have prevented or predicted; 
+(c) 
+decisions and/or activities of local and/or foreign public authorities, and/or international 
+organisations; 
+(d) 
+entry into force, amendments and/or suspension of a statutory act binding on either the 
+issuer or Mintos affecting the performance of obligations under these Terms and 
+Conditions; and 
+(e) 
+any circumstance defined as a force majeure circumstance in any of the Transaction 
+Documents. 
+23.  
+GOVERNING LAW AND JURISDICTION 
+23.1 
+The Notes (and any non-contractual obligations arising out of or in connection with the Notes) are 
+governed by and will be construed in accordance with the law of the Republic of Latvia. 
+23.2 
+The courts of the Republic of Latvia are to have jurisdiction to settle any disputes which may arise 
+out of or in connection with the Notes (including any disputes relating to any non-contractual 
+obligations arising out of or in connection with the Notes) and accordingly any legal action or 
+proceedings arising out of or in conjunction with the Notes may be brought in such courts. The 
+Issuer and each of the Noteholders irrevocably submits to the jurisdiction of such courts. 
+24.  
+AMENDMENTS AND MODIFICATIONS 
+To comply with any applicable law, the Issuer may validly amend or supplement these Terms and 
+Conditions by publishing the changed Terms and Conditions on the Platform without the consent 
+of the Noteholders. 
+25.  
+LIMITATION OF LIABILITY, AND REPRESENTATION AND WARRANTIES OF THE 
+NOTEHOLDER  
+25.1 
+Notwithstanding anything in the Base Prospectus, other than with respect to gross negligence or 
+wilful misconduct by the Issuer and/or Mintos, neither the Issuer nor Mintos will be held liable by 
+any Noteholder for: 
+(a)  
+any material error, misrepresentation, omission or fraud by the Bonds’ Issuer; 
+(b)  
+failure of the Bonds’ Issuer for whatever reason to inform the Issuer and/or Mintos of the 
+Payment Event having occurred or for the information being inaccurate or wrong; 
+(c) 
+the Bonds’ Receivables; or 
+(d) 
+determinations and decisions when distributing amounts under the Notes, including, 
+when applying the Priority of Payments, deciding whether to defer payment or make a 
+partial payment, relying upon or deciding if and when there is no realistic prospect of 
+collecting further funds under issued Notes, including in the event of default of the Bonds’
+
+--- Page 51 ---
+50 
+ 
+Issuer. 
+25.2  
+In any and all cases liability of the Issuer and/or Mintos to any Noteholder under these Terms and 
+Conditions will be limited to the amount invested in the impacted Notes by the Noteholder. 
+25.3 
+Each Noteholder, on subscribing or buying any Note directly, through a portfolio management 
+service of the Platform or any other way, irrevocably accept and acknowledge that it is fully aware 
+that: 
+(a) 
+the Issuer and Mintos do not make any representation or warranty in respect of, or will 
+not at any time have any responsibility for, or, save as otherwise expressly provided in 
+these Terms and Conditions, liability or obligation in respect of the performance and 
+observance by the Bonds’ Issuer of its obligations under the Bonds’ Issuer Prospectus; 
+(b) 
+the Issuer and Mintos will not at any time have any responsibility for, or obligation or 
+liability in respect of, the condition, financial or otherwise, covenant, creditworthiness, 
+affairs, status or nature of the Bonds’ Issuer or any other person; 
+(c) 
+the Issuer and Mintos will not at any time be liable for any representation or warranty, or 
+any act, default or omission of the Bonds’ Issuer or other person; 
+(d) 
+the Issuer will not at any time have any responsibility for, or liability or obligation in respect 
+of, the performance and observance by Mintos of its obligations under the Transaction 
+Documents or any other agreement entered or to be entered into by and between the 
+Noteholders and Mintos;  
+(e) 
+financial servicing and performance of the terms of the Notes depend upon the 
+performance of the Bonds’ Issuer of its obligations under the Bonds’ Issuer Prospectus, 
+its duties to make payments under the terms of the Bonds’ Issuer Prospectus and its 
+credit and financial standing, and the performance of its guarantors (if any) and/or the 
+pledgors (if any) of their respective contractual obligations towards the Issuer and Mintos 
+as well as their respective credit and financial standing; 
+(f) 
+the Notes, which the Noteholder has or will acquire, reflect the performance of the Bonds. 
+The Noteholder has no direct recourse to any of the Bonds. Once the Bonds’ Receivables 
+have been realised according to these Terms and Conditions, the Noteholder is not 
+entitled to take any further steps against the Issuer or Mintos to recover any further sums 
+due and the right to receive any such sum will be extinguished. The Noteholder accepts 
+not to attach or otherwise seize any of the assets of the Issuer. In particular, the 
+Noteholder will not be entitled to petition or take any step for the winding-up, the 
+liquidation or the bankruptcy of the Issuer or any similar insolvency-related proceedings 
+and such petition or action will be treated as null and void as from its initiation time; and 
+(g) 
+the Investment Accounts will be opened and be held by the Noteholder fully operational 
+with Mintos while the Noteholder holds any Notes.
+
+--- Page 52 ---
+51 
+ 
+10. TAXATION 
+The information provided in this section will not be treated as legal or tax advice; and prospective investors 
+are advised to consult their own tax advisors as to the tax consequences of the subscription, ownership 
+and disposal of the Notes applicable to their particular circumstances. The following is a general summary 
+of certain tax considerations in the Republic of Latvia in relation to the Notes. It is not exhaustive and 
+does not purport to be a complete analysis of all tax consequences relating to the Notes, as well as does 
+not take into account or discuss the tax implications of any country other than the Republic of Latvia. 
+ 
+Tax laws of the Noteholder’s country of residence for taxation purposes and of the Issuer’s 
+country of residence may have an impact on the income received from the Notes. 
+This summary is based on the laws of Latvia as in force on the date of this Base Prospectus and is subject 
+to any change in the law that may take effect after such date, provided that such changes could apply 
+also retroactively. 
+Latvia has entered into a number of tax conventions on elimination of the double taxation (hereinafter - 
+DTT), which may provide a more favorable taxation regime. Therefore, if there is a valid DTT between 
+Latvia and the country of tax residence of a prospective Noteholder, it should be also examined. The 
+procedures for application of tax conventions are provided in the Republic of Latvia Cabinet of Ministers’ 
+Regulations No. 178 “Procedures for Application of Tax Relief Determined in International Agreements 
+for Prevention of Double Taxation and Tax Evasion”, adopted on 30 April 2001.  
+Taxation of the Issuer 
+The Issuer is a corporate income tax payer in Latvia. According to the Latvian tax law, the annual profit 
+earned by entities in Latvia is not taxed. Instead, corporate income tax is paid on dividends, fringe benefits, 
+gifts, donations, representation costs, non–business related disbursements and transfer pricing 
+adjustments. The tax rate applicable is 20%, however, the taxable base is divided by the coefficient 0.8, 
+thus the effective Corporate income tax rate is 25%.   
+Taxation of individual Noteholders 
+Resident individuals 
+An individual will be considered a resident of Latvia for taxation purposes if at least one of the following 
+requirements is met: 
+● 
+the declared place of residence of this person is in Latvia; 
+● 
+the person stays in Latvia for at least 183 days for a period of 12 consecutive calendar months; 
+● 
+the person is a Latvian citizen who is employed by the government of Latvia in a foreign country.   
+Following the Latvian tax laws the interest income received by the individual tax resident in Latvia is 
+subject to tax at the rate of 20%. The interest income from the Notes for resident individuals will be subject 
+to 20 % personal income tax that will be withheld by the Issuer before the Interest payment is made by 
+the Issuer to the Noteholder. The tax withheld by the Issuer is a final tax liability on the interest income 
+received.  
+The income from the sale of the Notes is treated as an income similar to the interest income for Latvian 
+personal income tax purposes and will be subject to 20% personal income tax and the tax is payable by 
+the individual him/herself. 
+Non-resident individuals 
+An individual would be considered a non-resident of Latvia for taxation purposes in all cases unless he/she 
+is a tax resident of Latvia. Interest income from the Notes received by the non-resident individual is subject 
+to a 5% withholding tax rate for investors who invest as private persons and are tax residents of the 
+EU/EEA. For other individual investors and those who have not confirmed tax residence and not investing
+
+--- Page 53 ---
+52 
+ 
+as a private person 20% withholding tax rate is applied. According to the general practice the tax withheld 
+in Latvia might be deducted from the tax payable by the investor in his/her residence country (as tax paid 
+abroad). However, we recommend consulting with the respective country's tax administration or tax 
+adviser to clarify the procedure and documents required to perform such a deduction (if any).  
+ 
+The tax rate might be reduced based on the Double Tax Treaty between Latvia and the respective country. 
+The list of the Double Tax Treaties concluded by Latvia is available here.  
+The income from the sale of the Notes will be subject to 20% tax and the tax would be payable by the 
+individual him/herself, if the buyer of the Notes is an individual or legal entity non-resident of Latvia.  
+Taxation of legal entity Noteholders 
+Resident legal entities 
+A legal entity would be considered a resident of Latvia for tax purposes, if established pursuant to Latvian 
+law. Interest payments on the Notes and proceeds from the disposal of the Notes received by Latvian 
+resident legal entities will not be subject to withholding tax in Latvia. Under the Latvian tax law retained 
+earnings are exempt from corporate income tax and only profit distributions are taxed. Distributed gross 
+profits are subject to the 20% profit tax. Corporate income tax on the net amount of profit distribution is 
+determined by dividing the net amount with a coefficient of 0.8 (i.e., the effective tax rate on net distributed 
+profit is 25%).   
+Non-resident legal entities 
+A legal entity would be considered a non-resident of Latvia for taxation purposes in all cases unless it is 
+a tax resident of Latvia. The interest income and capital gains from the sale of the Notes for non-resident 
+legal entities will not be taxable in Latvia (i.e. gross income will be paid), except if the income recipient is 
+located, registered, or incorporated in a no-tax or low-tax country (so-called “tax havens”; if this is the 
+case - 20% tax will be withheld by the Issuer in Latvia). The list of “tax havens” according to the Latvian 
+law includes UK Anguilla, Antigua and Barbuda, US Guam, US Samoa, US Virgin Islands, Belize, Russian 
+Federation, Commonwealth of the Bahamas, Republic of Fiji, Republic of Palau, Republic of Panama, 
+Independent State of Samoa, Republic of Seychelles, UK Turks and Caicos Islands, Republic of Trinidad 
+and Tobago, Republic of Vanuatu. The list of mentioned countries and territories may be amended from 
+time to time.
+
+--- Page 54 ---
+53 
+ 
+11. APPLICABLE FINAL TERMS 
+ 
+The form of Final Terms that will be issued in respect of each Series, subject only to the deletion of non-
+applicable provisions, is set out below. The completed Final Terms for each Series, which are described 
+in this Base Prospectus as the "Final Terms" will be published on the website: www.mintos.com. 
+ 
+Final Terms dated [...][...] [...] 
+SIA Mintos Finance No. 45 (the “Issuer”) 
+(incorporated as a limited liability company and registered in the Republic of Latvia with registration 
+number: 40203407882)  
+LEI: 98450059H090976DBC22 
+Series [...] EUR [...] Notes 
+relating to the Bonds with the ISIN number: 
+[...] 
+issued by AS Longo Group (Latvia) (the Bonds’ Issuer) 
+Terms used herein will be deemed to be as defined in the Base Prospectus dated [ ] [ ] [ ] for the purposes 
+of Prospectus Regulation, in respect of Notes issued by the Issuer. This document constitutes the Final 
+Terms of the Notes described herein for the purposes of Article 8 (4) of the Prospectus Regulation and 
+must be read in conjunction with the Base Prospectus. Full information on the Issuer and the offer of 
+Notes is only available on the basis of a combination of these Final Terms and the Base Prospectus [as 
+so supplemented]. The Base Prospectus [and the supplements, if any] is available for viewing on the 
+website [www.mintos.com/***]. The summary of the individual issue of the Notes is annexed to these Final 
+Terms as Appendix 1.  
+The Base Prospectus under which the Notes specified in these Final Terms are issued, loses its validity 
+on […] or by the publication of a new base prospectus for the Notes in the Programme currency related 
+to the Bonds immediately succeeding this Base Prospectus (the "New Base Prospectus") depending on 
+which event occurs earlier (the "Expiry Date of the Base Prospectus"). Notwithstanding the above, the 
+Notes specified in these Final Terms* shall continue to be subject to the terms and conditions of the Base 
+Prospectus. From the Expiry Date of the Base Prospectus, these Final Terms must be read in conjunction 
+with the New Base Prospectus. The New Base Prospectus will be available (no later than the Expiry Date 
+of the Base Prospectus) on the website [https://www.mintos.com/en/]. 
+ 
+*Notes, which Maturity Date specified in the Final Terms exceeds Expiry Date of the Base Prospectus. 
+Part 1 - Contractual terms 
+1.1. Information concerning the Notes to be offered to the public:  
+Number 
+Disclosure requirement 
+Details 
+1.1.1. 
+Series: 
+[...] 
+1.1.2. 
+ISIN Code: 
+LV[...] 
+1.1.3. 
+Specified Currency: 
+[...] 
+1.1.4. 
+Aggregate Nominal Amount: 
+[...]
+
+--- Page 55 ---
+54 
+ 
+1.1.5. 
+Specified Denominations: 
+The Series Aggregate Nominal Amount is divided 
+into [...] Notes. 
+ 
+Nominal amount of the Note is [...]. 
+1.1.6. 
+Issue Price: 
+[...] of the Notes nominal amount 
+1.1.7. 
+Offer Price of one Note: 
+[...] or Principal Amount Outstanding of one Note 
+1.1.8. 
+Issue Date: 
+[...] 
+1.1.9. 
+Maturity Date: 
+[...] 
+1.1.10. 
+Interest Rate: 
+[...]% per annum 
+1.1.11. 
+Interest Accrual Periods:         
+    From the Notes purchase date up to, but not 
+including the Interest Payment Date for the first 
+Interest payment. 
+From the previous Interest Payment Date up to, 
+but not including the next Interest Payment Date 
+or the last Interest Payment Date 
+1.1.12. 
+Interest Payment Date (s): 
+Up to 10 Business Days after the corresponding 
+Bonds’ Receivables Payment Date and subject to 
+the actual receipt by the Issuer of the relevant 
+payment in relation to the Bonds 
+1.1.13. 
+Redemption Date (s): 
+Up to 10 Business Days after the corresponding 
+Bonds maturity date and subject to the actual 
+receipt by the Issuer of the relevant payment in 
+relation to the Bonds 
+1.1.14. 
+Indication of Yield: 
+[...]% per annum
+
+--- Page 56 ---
+55 
+ 
+Part 2 - Responsibility and authorisation  
+The Management Board of the Issuer: 
+ 
+Title Name, surname 
+Chairman of the Management Board Martins Sulte 
+Member of the Management Board Martins Valters 
+ 
+accepts responsibility for the information contained in these Final Terms which, when read together with 
+the Base Prospectus referred to above, contains all information that is material to the issue of the Notes. 
+ 
+The limitation of the Issuer's and Mintos liability provided in the Subsection 9.25. “Limitation of a Liability” 
+in the Base Prospectus applies. 
+This Notes Series issue is authorised by [...] of the Issuer, Minutes No. [...] as of [...] [...] 202[...].

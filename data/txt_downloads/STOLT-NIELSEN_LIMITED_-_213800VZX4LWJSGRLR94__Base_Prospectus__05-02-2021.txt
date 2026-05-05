@@ -1,0 +1,3264 @@
+--- Page 1 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stolt-Nielsen Limited 
+ 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Joint Lead Managers & Bookrunners: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bermuda, 5 February 2021
+
+--- Page 2 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+2
+Important information 
+ 
+The Base Prospectus is based on sources such as annual reports and publicly available information and forward-
+looking information based on current expectations, estimates and projections about global economic conditions, as 
+well as the economic conditions of the regions and industries that are major markets for Stolt-Nielsen Limited’s (the 
+Company) lines of business. 
+ 
+A prospective investor should consider carefully the factors set forth in Chapter 2 Risk factors, and elsewhere in the 
+Prospectus, and should consult his or her own expert advisers as to the suitability of an investment in the bonds. 
+ 
+IMPORTANT – EEA AND UK RETAIL INVESTORS - If the Final Terms in respect of any bonds includes a legend 
+titled "Prohibition of Sales to EEA and UK Retail Investors", the bonds are not intended to be offered, sold or 
+otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in 
+the European Economic Area (‘EEA’) or in the United Kingdom (the “UK”). For these purposes, a retail investor 
+means a person who is one (or more) of: (i) a retail client as defined in point (11) of Article 4(1) of the Markets in 
+Financial Instruments Directive II (‘MiFID II’); or (ii) a customer within the meaning of Directive (EU) 2016/97 (the 
+“Insurance Distribution Directive”) where that customer would not qualify as a professional client as defined in point 
+(10) of Article 4(1) of MiFID II; or (iii) not a qualified investor as defined in the Prospectus Directive. Consequently 
+no key information document required by Regulation (EU) No 1286/2014 (as amended, the "Packaged Retail 
+Investment and Insurance-Based Products, PRIIPs Regulation") for offering or selling the bonds or otherwise 
+making them available to retail investors in the EEA or in the UK has been prepared and therefore offering or selling 
+the bonds or otherwise making them available to any retail investor in the EEA or in the UK may be unlawful under 
+the PRIIPS Regulation. 
+ 
+MiFID II product governance / target market – The Final Terms in respect of any bonds will include a legend titled 
+"MiFID II product governance" which will outline the target market assessment in respect of the bonds and which 
+channels for distribution of the bonds are appropriate. Any person subsequently offering, selling or recommending 
+the bonds (a “distributor”) should take into consideration the target market assessment; however, a distributor 
+subject to MiFID II is responsible for undertaking its own target market assessment in respect of the bonds (by 
+either adopting or refining the target market assessment) and determining appropriate distribution channels. 
+ 
+This Base Prospectus is subject to the general business terms of the Joint Lead Managers, available at their 
+websites (www.danskebank.no, www.dnb.no, www.nordea.no, www.seb.no).  
+ 
+The Joint Lead Managers and/or any of their affiliated companies and/or officers, directors and employees may be 
+a market maker or hold a position in any instrument or related instrument discussed in this Base Prospectus and 
+may perform or seek to perform financial advisory or banking services related to such instruments. The Joint Lead 
+Managers' corporate finance department may act as manager or co-manager for this Company in private and/or 
+public placement and/or resale not publicly available or commonly known.   
+ 
+Copies of this Base Prospectus are not being mailed or otherwise distributed or sent in or into or made available in 
+the United States. Persons receiving this document (including custodians, nominees and trustees) must not 
+distribute or send such documents or any related documents in or into the United States. 
+ 
+Other than in compliance with applicable United States securities laws, no solicitations are being made or will be 
+made, directly or indirectly, in the United States. Securities will not be registered under the United States Securities 
+Act of 1933 and may not be offered or sold in the United States without registration or an applicable exemption from 
+registration requirements. 
+ 
+The distribution of the Base Prospectus may be limited by law also in other jurisdictions, for example in non-EEA 
+countries. Approval of the Base Prospectus by Finanstilsynet (the Norwegian FSA) implies that the Base Prospectus 
+may be used in any EEA country. No other measures have been taken to obtain authorisation to distribute the Base 
+Prospectus in any jurisdiction where such action is required. 
+ 
+The Base Prospectus dated 5 February 2021 together with a Final Terms and any supplements to these documents 
+constitute the Prospectus. 
+ 
+The content of this Base Prospectus does not constitute legal, financial or tax advice and potential investors should 
+seek legal, financial and/or tax advice. 
+ 
+Unless otherwise stated, this Base Prospectus is subject to Norwegian law. In the event of any dispute regarding 
+the Base Prospectus, Norwegian law will apply.
+
+--- Page 3 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+3
+TABLE OF CONTENTS:  
+ 
+1 RISK FACTORS .................................................................................................................4 
+2 DEFINITIONS ...................................................................................................................9 
+3 PERSONS RESPONSIBLE .................................................................................................. 10 
+4 STATUTORY AUDITORS ................................................................................................... 11 
+5 INFORMATION ABOUT THE ISSUER ................................................................................... 12 
+6 BUSINESS OVERVIEW ..................................................................................................... 13 
+7 TREND INFORMATION ..................................................................................................... 17 
+8 ADMINISTRATIVE, MANAGEMENT AND SUPERVISORY BODIES ............................................. 18 
+9 MAJOR SHAREHOLDERS .................................................................................................. 22 
+10 FINANCIAL INFORMATION CONCERNING THE COMPANY'S ASSETS AND LIABILITIES, 
+FINANCIAL POSITION AND PROFITS AND LOSSES ...................................................... 23 
+11 REGULATORY DISCLOSURES .......................................................................................... 25 
+12 DOCUMENTS AVAILABLE ................................................................................................ 26 
+13 FINANCIAL INSTRUMENTS THAT CAN BE ISSUED UNDER THE BASE PROSPECTUS ................ 27 
+CROSS REFERENCE LIST .................................................................................................... 35 
+JOINT LEAD MANAGERS’ DISCLAIMER ................................................................................. 36 
+ANNEX 1 MEMORANDUM AND ARTICLES OF ASSOCIATION FOR STOLT-NIELSEN LIMITED ......... 37 
+ANNEX 2 TEMPLATE FOR FINAL TERMS FOR FIXED AND FLOATING RATE BONDS ...................... 38
+
+--- Page 4 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+4
+1 Risk factors  
+Investing in bonds issued by Stolt-Nielsen Limited involves inherent risks.   
+ 
+As the Company is the parent company of the Group, and primarily a holding company, the risk factors for the 
+Group are deemed to be equivalent for the purpose of this Base Prospectus. 
+ 
+The risks and uncertainties described in the Prospectus are risks of which the Company is aware and that the 
+Company considers to be material to its business. If any of these risks were to occur, the Company’s business, 
+financial position, operating results or cash flows could be materially adversely affected, and the Company could 
+be unable to pay interest, principal or other amounts on or in connection with the bonds.  Prospective investors 
+should carefully consider, among other things, the risk factors set out in this Base Prospectus and in the Final 
+Terms, before making an investment decision. The risk factors set out in the Base Prospectus and the Final 
+Terms cover the Company and the bonds issued by the Company, respectively. 
+ 
+An investment in the bonds is suitable only for investors who understand the risk factors associated with this type 
+of investment and who can afford a loss of all or part of their investment. 
+ 
+ 
+1.1 Risk factors related to the Company 
+1.1 Industry and market risks of the company 
+ 
+1.1.1 Tanker industry risk  
+The tanker industry is cyclical and volatile, which may lead to reductions and/or volatility in freight rates, volumes 
+and ship values. Fluctuations in the rates that Stolt Tankers can charge result from changes in the supply and 
+demand for ship capacity and changes in the supply and demand for the products carried, particularly the bulk 
+liquids, chemicals, edible oils, acids and other specialty liquids that are the majority of the products that the 
+Company transports. Factors influencing demand for ship capacity include supply of products shipped, economic 
+growth, industrial production, environmental development and the distances that products are moved by sea. 
+Factors influencing supply of ship capacity include the number of new ships and recycling of old ships, changes in 
+regulations, and availability of shipyards. Stolt Tankers mitigates this risk by actively managing the mix of 
+business between contracts of affreightment (“COA”) and spot business and utilises various tools to increase fleet 
+flexibility and decrease volatility in revenue. Contract business tends to be less volatile in terms of both rates and 
+volumes than spot business. Management endeavours to increase the contract percentage and lengthen contract 
+duration during periods of uncertainty or when management determines that market conditions are likely to 
+deteriorate. In general, Stolt Tankers earns around 70% of its revenue from contract business, while spot 
+contracts contributes the remaining 30%. However, maintaining high percentage of contract business can result in 
+a reduced benefit in revenue when spot freight rates are rising, and lower prices have been locked in. Historically, 
+it has been proven that a higher percentage of contracts of affreightment mitigates the risk of downturns in the 
+tanker industry. Additionally,Stolt Tankers also actively manages its charter periods to allow a certain number of 
+ships to be redelivered on short notice. Within the owned fleet, Stolt Tankers endeavours to maintain a balanced 
+age profile. Through this technique, fleet size can be managed by early retirement of older ships when demand is 
+soft and life extension of ships during periods of higher demand.  
+ 
+1.1.2 Bunker fuel and freight costs 
+Bunker fuel constitutes the major operating cost of the tanker fleet and price changes can have a material impact 
+on the company’s results. Although efforts are made to reduce the impact of price changes by passing bunker fuel 
+costs through to contract customers through fuel surcharge clauses in the contracts of affreightment or through 
+the Company’s bunker hedging programme, a significant portion is incurred solely by the Company. The majority 
+of the Contract portfolio now includes updated bunker surcharge clauses to compensate for the increased fuel 
+prices for compliant fuels. For Stolt Tank Containers, the impact of increased freight costs due to additional fuel 
+surcharges, and fluctuations in fuel prices can result in downward pressure on margins. Cost increases are 
+typically passed on to customers when possible. Given quoted rate validity periods to customers, there is a 
+negative impact on margins in periods of rising freight costs until rates can be increased and the rise in costs 
+recovered. 
+ 
+1.1.3 Terminal Projects Development Risk 
+Stolthaven Terminals is at various stages of designing and building tanks and jetties at some of its existing terminal 
+locations. The development of terminal operations and jetties involves significant up-front investments in 
+infrastructure and there are certain risks inherent to such developments, including political, regulatory, currency 
+exchange, environmental, liquidity, financial, environmental and contractual risks. Different countries carry varying 
+degrees of risk depending on social, cultural, political and financial development and stability. Stolthaven Terminals 
+attempts to mitigate these risks by employing local country and regional representatives to act as liaisons with local 
+authorities. While customer commitments are usually secured in advance for new capacity, securing such
+
+--- Page 5 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+5
+commitments is currently challenging. Experienced and dedicated commercial teams are in place globally, 
+regionally and locally to focus on marketing new capacity.  
+ 
+1.1.4 Value of biological assets at Stolt Sea Farm 
+All mature turbot and sole are held at fair value less costs to sell and costs related to harvest. A fair-value 
+adjustment is also made at the point when previously juvenile turbot and sole are considered to become mature, 
+which typically occurs when the fish reach a specified weight. Fair value is determined on the basis of market 
+prices, and gains and losses from changes in fair value are recognized in the income statement. 
+ 
+The fair value of these assets fluctuates significantly based upon the seasonality, competition, market conditions 
+and existing supply as well as the quality and condition of the fish. There is a risk that future fair-value 
+adjustments could negatively impact the company’s income statements. 
+ 
+1.1.5 Gas Carrier Industry Risk 
+The Company has an investment in Golar LNG Ltd. (“Golar”) who operates liquid natural gas (“LNG”) carriers, 
+and through its joint venture Avenir LNG Limited (“Avenir LNG”), is developing opportunities for the distribution of 
+LNG to off-the-grid small-scale customers. The gas carrier industry is volatile, which may lead to fluctuations in 
+freight rates, volumes and ship values. Fluctuations in the rates that can be charged result from changes in the 
+supply and demand for ship capacity and changes in the supply and demand for the products carried. Factors 
+influencing demand include supply of products shipped, the distances that products are moved by sea and 
+environmental developments. Factors influencing supply include the number of new ships being built, the number 
+of old ships being recycled, and the number of ships in lay-up or used for storage. As Golar operate most of its 
+ships in the spot market, the businesses are exposed to fluctuations in rates. Spot rates have historically been 
+very volatile, driven by short-term variations in export volume, which is reflected in the volatility in the share prices 
+of Golar. This resulted in a significant decrease in the Company’s other comprehensive income as the Golar 
+investment is marked-to-market.  
+ 
+1.1.6 Stolt Tank Containers  
+The tank container industry is cyclical and volatile, which may lead to reductions and/or volatility in freight rates 
+and shipment volumes. Fluctuations in the rates that Stolt Tank Containers can charge its customers result from 
+new competition attempting to aggressively grow market share combined with an over-supply of tank containers 
+in the market. Stolt Tank Containers mitigates this risk by actively managing customer relationships and pricing as 
+well as maintaining a balance of owned and leased tanks. Fleet size can be managed by the on-hire and off-hire 
+of leased tanks. 
+ 
+1.1.7 Regulatory risk 
+The company operates in a number of different jurisdictions and is subject to and affected by various types of 
+governmental regulations and standards of industry associations related to the protection of human health and the 
+environment. Any changes in government regulation can have a significant impact on production costs and on the 
+company’s ability to compete effectively in the regulated markets. 
+ 
+While environmental damage and pollution insurance is maintained, more stringent environmental regulations 
+may result in significant fines and penalties for non-compliance, and increased costs for, or the lack of availability 
+of, insurance against the risks of environmental damage or pollution. The U.S. Oil Pollution Act of 1990 may 
+impose virtually unlimited liability upon ship owners, operators, and certain charterers for certain oil pollution 
+incidents in the U.S., which has made liability insurance more expensive. Because the insurance is provided by 
+mutual insurance companies and supported by other shipping companies, the Company is subject to funding 
+requirements and coverage shortfalls in the event claims exceed available funds and reinsurance as 
+well as premiums increase based on prior loss experiences. Any such shortfalls could have a material adverse 
+impact on the Group. 
+ 
+The Comany's operations involve the use, storage and disposal of chemicals and other hazardous materials and 
+wastes. They are subject to applicable federal, state, and local health, safety and environmental laws relating to 
+the protection of human health and the environment, including those governing discharges of pollutants into the 
+air and water, the generation, management and disposal of hazardous materials and wastes and the clean-up of 
+contaminated sites. In addition, some environmental laws, such as the U.S. Comprehensive Environmental 
+Response Compensation and Liability Act, similar state statutes and common laws, can impose liability for the 
+clean-up of contaminated sites or for third-party claims for property damage and personal injury, regardless of 
+whether the current owner or operator owned or operated the site at the time of the release of contaminants or the 
+legality of the original disposal activities. 
+ 
+Stolt Sea Farm is subject to the laws and regulations of the individual countries, including the U.S., Spain, 
+Portugal, Norway, Iceland and France, in which their operations are situated, which strictly regulate various 
+aspects of their operations. The hatcheries, on growing sites, and processing plants are regulated by state 
+environmental laws and laws regarding treatment of, and protection from, fish diseases and pollution. A more
+
+--- Page 6 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+6
+strict application of environmental laws may affect Stolt Sea Farm operations delaying its new projects and 
+delaying the renewals of its permits on the existing sites. 
+ 
+1.1.8 Political and geopolitical risk 
+The Company has international operations, and the business, financial condition and results of operations may be 
+adversely affected by changing economic, political and government conditions in the countries and regions where 
+SNL’s ships and tank containers are employed, and terminals are located.  
+Although the Company is not expected to be significantly impacted by the decision by the United Kingdom to exit 
+the European Union (“Brexit”), the full consequence of Brexit is not yet known. As the Company is typically short 
+GBP, a weakening of the currency is typically good for the Company. Any negative impact on global trade due to 
+Brexit could be negative for the Company due to the increased risk of tariffs and trade barriers. 
+The recent adverse change of the security in the Straits of Hormuz, will lead to additional expenses in the short 
+term, but could also have very disruptive effects on trade volumes if the tension intensifies. 
+The Company is also exposed to geopolitical risks where territorial and other disputes between countries could 
+lead to the outbreak of war or the existence of international hostilities that could damage the world economy, 
+adversely affect the availability of, and demand for, petroleum and chemical products and adversely affect the 
+Company’s ability to operate ships, terminals or tank containers.  
+For an effective and competitive global chemical shipping business, managing geopolitical risk is a strategic 
+imperative. Cross-border expansion is a significant contributor to growth. In some cases, cargoes are located in, 
+or destined for, troubled or developing markets where considerable cultural, infrastructure, security or technology 
+challenges must be met. At the same time, economic and population growth, especially in Asia, is creating new 
+demand for petroleum and chemical products. Sufficient supply must be in place with supporting infrastructure 
+and distribution to meet demand in these high growth markets. 
+ 
+1.1.9 Disease outbreaks and pandemic risks 
+SNL operations are global in nature and rely on a significant number of operational staff and third-party suppliers 
+to run smoothly. As has been evidenced by the recent Coronavirus outbreak, disease outbreaks can put 
+significant restrictions on the movement of people and their ability to get to their place of work as well as 
+restrictions on the operations of our assets. Although SNL’s ship operations have continued mostly uninterrupted, 
+there has been a delay in the performance of shore-side support operations and delay in transferring crew to and 
+from the ships. Tank containers are dependent on SNL container depots for cleaning and pre-load preparations, 
+and the depots are reliant on the employees being able to come to work, and third party truckers and rail lines 
+being able to transport the containers. Where the movement of people and transport operations have been 
+restricted, this could limit SNL’s ability to meet commitments to customers and could impact financial results. 
+Likewise, SNL ships and terminals are dependent on people to operate. Any outbreak onboard our ships or at one 
+of our terminals could impact operations of individual assets. The severity of the impact of such disruptions 
+depend on the spread and duration of the disease. Furthermore, the reduction in economic activity following the 
+coronavirus outbreak will result in reduced movements of goods, which could have a direct impact on the demand 
+for SNL services, and could result in reduced utilisation and lower revenue. To the extent possible, business 
+continuity plans have been updated and implemented to mitigate any negative impact on the businesses from a 
+wide spread and long-lasting disease of the coronavirus type. 
+ 
+ 
+ 
+1.2 Risks related to the Group's business 
+ 
+ 
+1.2.1 Environmental risk and natural disasters  
+Safety for people and the environment are a top priority and a core value of the Company and its operating units. 
+The Company manages its activities to reduce incidents, minimise risk and promote excellence in operational 
+performance. Incidents can affect the Company’s “license to Operate” and therefore constitute the highest 
+potential business risk. The Safety, Health and Environmental policies, procedures and practices of SNL, 
+combined with rigorous training and the implementation of industry best practices, are aimed at maximising safety 
+and minimising risk. Even so, there could be environmental incidents in the form of spills, damage to marine life or 
+animal habitat. The consequence of such environmental damage could be significant costs related to the clean-up 
+of spills, salvage costs and fines, as well as costs related to reputational damage. Although SNL carries insurance 
+against such eventualities, the full cost could exceed the coverage afforded by the insurance. 
+ 
+1.2.4 Risks that construction of ships (newbuildings) is not completed  
+Stolt Tankers spends substantial sums during the construction of parcel tanker newbuildings without earning 
+revenue and without assurance that ships will be completed on time or at all. The risks with respect to 
+newbuildings arise because Stolt Tankers is typically required to pay substantial amounts as progress payments 
+during construction of a newbuilding, but does not derive any revenue from the ship until after its delivery. Stolt 
+Tankers’ receipt of newbuildings could be delayed temporarily or indefinitely because of:  
+a 
+Quality or engineering problems;  
+b 
+Work stoppages or other labour disturbances at the shipyard;  
+c 
+Bankruptcy or other financial crisis of the shipbuilder;
+
+--- Page 7 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+7
+d 
+A backlog of orders at the shipyard;  
+e 
+Stolt Tankers requests for changes to the original ship specifications; or  
+f 
+Shortages of, or delays in, the receipt of necessary equipment or construction materials, such as steel. 
+If the delivery of a ship is materially delayed, it could adversely affect the business, results of operations, cash 
+flow and financial condition. Stolt Tankers manages these risks by agreeing to industry-standard provisions 
+dealing with compensation for delays and rights to terminate the newbuilding contract. Any progress or down 
+payments made by the Company under the newbuilding contracts are secured by refund guarantees issued by 
+commercial banks or government institutions to cover the repayment obligation by the shipyards in case of a yard 
+default, but recovery under the refund guarantees could be substantially delayed if disputed, impacting liquidity. 
+ 
+1.2.2 Risk of diseases at Stolt Sea Farm 
+Stolt Sea Farm may be adversely affected by natural conditions such as pollution, disease and parasites. Stolt 
+Sea Farm uses farm management to control the impact of pollution and disease. If these precautions are not 
+successful, Stolt Sea Farm could suffer losses to its fish stock, thereby reducing its revenues and resulting in 
+possible losses. 
+ 
+1.2.3 Emerging market countries 
+Instability in the emerging market countries in which the Company operates could have a negative effect on the 
+operations of the Company in those countries (China, South America, South Africa, etc.). The risk profile of the 
+Company will therefore encompass the risks involved in each of the countries, industries or businesses that each 
+of the Company's subsidiaries operates in. 
+ 
+1.2.4 Legal proceedings 
+The Company and its subsidiaries are a party to various legal proceedings. The Company may note be able to 
+determine whether a negative outcome in the described legal proceedings is probable, and therefore unable to 
+estimate a range of possible losses. It is possible that the outcomes of any or all of these proceedings could have 
+a material adverse effect on the Company's financial condition, cash flows or results of operation. 
+Provisions are made to cover the expected outcome of the proceedings to the extent that negative outcomes are 
+likely and reliable estimates can be made. However, the final outcomes of these and other cases are subject to 
+uncertainties and resulting liabilities may exceed booked provisions. 
+ 
+ 
+1.3 Financial risks of the Company 
+1.3.1 Funding availability risk 
+Due to the capital-intensive nature of the industries in which the Company operates, it is dependent on steady 
+access to funding. Part of this funding comes from its ongoing cash from operations. However, as operating cash 
+flow fluctuates with the markets in which the Company operates, and the investments in fixed assets often 
+happen in stages rather than being evenly spread, the Company is also dependent on external funding from the 
+financial debt markets. To a great extent access to external financing is dependent on the Company's overall 
+financial performance including its cash flow, balance sheet, expected future return on investments, and the risk 
+perception of the industries in which the Company operates at any given time. 
+ 
+1.3.2 Currency risk 
+Most of the revenue earned by Stolt Tankers and Stolt Tank Containers is in US dollars, while a significant portion 
+of their operating expenses is incurred in other currencies, primarily the Euro, the Philippine peso, the Singapore 
+dollar, the Japanese yen and the British pound. Where there is an imbalance between revenues and expense 
+currencies, any depreciation of the revenue currency relative to the expense currency will decrease profit 
+margins. 
+ 
+1.3.3 Global financial markets risk 
+Global financial markets can be highly volatile resulting in shorter or longer periods of reduced liquidity in the 
+equity markets as well as the credit markets. The Company is from time to time dependent on external financing 
+of its assets and its operations, at which time it needs to obtain bank financing or be able to issue bonds or other 
+debt capital instruments. Volatility in the global credit markets could cause tightness in available liquidity and 
+hence limit the amount of financing the Company is able to obtain. 
+ 
+1.3.4 Cyber risk  
+Shipping and logistics companies have been targeted by hackers seeking financial gains or otherwise seeking to 
+gain from infiltrating logistic companies data, and the Company has in the past been a target of such attacks, but 
+successfully defended against such attacks. The Company devotes significant resources to network security, data 
+encryption and other security measures to protect its systems a nd data, but these security measures cannot 
+provide absolute security. To the extent, the Company was to experience a breach of its systems and was unable 
+to protect sensitive data, such a breach could negatively impact the Company’s financial position.
+
+--- Page 8 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+8
+1.4 Risks related to the Bonds  
+ 
+1.4.1 The Bonds are structurally subordinated to liabilities of the Company's subsidiaries  
+The Bonds are structurally subordinated to liabilities of the Company's subsidiaries. The Bonds are subject to 
+credit risk relating to the Company's ability to meet its payment obligations, which in turn is largely dependent 
+upon the performance of the Company's operations and its financial position. 
+ 
+1.4.2 Terms of Bond Agreement may be amended or waived 
+The terms and conditions of the Bond Agreement allows for modification of the Bonds or waivers or authorizations 
+of breaches and substitution of the Company which, in certain circumstances, may be affected without the 
+consent of bondholders The Bond Agreement contains provisions for calling meetings of bondholders to consider 
+matters affecting their interests generally. These provisions permit defined majorities to bind all bondholders, 
+including bondholders who did not attend and vote at the relevant meeting and bondholders who voted in a 
+manner contrary to the majority. Certain significant modifications may be made following approval of a quorum of 
+one or more persons holding or representing not less than two-thirds in aggregate nominal amount of the Bonds 
+for the time being outstanding, including modifying the date of maturity of the Bonds or any date for payment of 
+interest thereof, reducing or cancelling the amount of principal or the rate of interest payable in respect of the 
+Bonds or altering the currency of payment of the Bonds. The Bond Trustee may, without the consent of the 
+bondholders, agree to certain modifications of the Bond Agreement and other finance documents which, in the 
+opinion of the Bond Trustee, are proper to make.
+
+--- Page 9 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+9
+2 Definitions 
+ 
+Annual Report 2019 
+Stolt-Nielsen Limited's annual report of 2019, covering the period 
+1 December 2018 to 30 November 2019 
+ 
+Base Prospectus 
+This document dated 5 February 2021. 
+The Base Prospectus has been approved by the Norwegian FSA, as 
+competent authority under Regulation (EU) 2017/1129. The Norwegian 
+FSA only approves this Base Prospectus as meeting the standards of 
+completeness, comprehensibility and consistency imposed by Regulation 
+(EU) 2017/1129. Such approval shall not be considered as an 
+endorsement of the Issuer that is the subject of this Base Prospectus. The 
+Base Prospectus has been drawn up as part of a simplified prospectus in 
+accordance with Article 14 of Regulation (EU) 2017/1129. 
+ 
+Board or  
+Board of Directors 
+The board of directors of Stolt-Nielsen Limited 
+ 
+Bye-Laws 
+Bye-laws of Stolt-Nielsen Limited 
+ 
+Cbm 
+Cubic Meter 
+ 
+CPP 
+Clean petroleum product 
+ 
+COA 
+Contracts of Affreightment 
+ 
+Companies Registry 
+The Norwegian Registry of Business Enterprises (Foretaksregisteret) 
+ 
+Company/Issuer/ 
+Stolt-Nielsen Limted/SNL 
+Stolt-Nielsen Limited, an exempted limited liability company incorporated 
+under the Companies Act 1981, as amended, of Bermuda 
+ 
+Consolidated Financial 
+Statements 
+The consolidated financial statements and notes included in the Annual 
+Report 2019 
+ 
+EEA 
+European Economic Area 
+ 
+First half-year 2020 
+Stolt-Nielsen Limited's first half-year report of 2020, covering the period 
+30 November 2019 to 31 May 2020. 
+ 
+General Average 
+All parties in a sea venture proportionally share any losses resulting from a 
+voluntary sacrifice of part of the ship or cargo to save the whole in an 
+emergency 
+ 
+Group 
+The Company and its subsidiaries from time to time 
+ 
+IFRS 
+International Financial Reporting Standards 
+ 
+ISIN 
+International Securities Identification Number 
+ 
+NOK 
+Norwegian kroner 
+ 
+VLGC 
+Very large gas carriers 
+ 
+VPS or VPS System 
+The Norwegian Central Securities Depository, Verdipapirsentralen ASA
+
+--- Page 10 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+10
+3 Persons responsible  
+3.1 Persons responsible for the information 
+Persons responsible for the information given in the Base Prospectus are as follows: 
+Stolt-Nielsen Limited, Clarendon House, 2 Church Street, Hamilton HM11, Bermuda 
+ 
+3.2 Declaration by persons responsible 
+Stolt-Nielsen Limited declares that to the best of its knowledge, the information contained in the Base Prospectus 
+is in accordance with the facts and that the Base Prospectus makes no omission likely to affect its import.    
+ 
+ 
+Bermuda, 5 February 2021 
+ 
+ 
+ 
+Stolt-Nielsen Limited
+
+--- Page 11 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+11
+4 Statutory Auditors   
+The statutory auditor for the Issuer for the period covered by the historical financial information in this Base 
+Prospectus has been PricewaterhouseCoopers LLP, independent public accountants.  
+ 
+PricewaterhouseCoopers LLP is a Statutory Auditor registered by The Institute of Chartered Accountants in 
+England and Wales.
+
+--- Page 12 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+12
+5 Information about the Issuer 
+5.1 Legal and commercial name of the Issuer 
+The legal name of the Issuer is Stolt-Nielsen Limited, and the commercial name of the Issuer is Stolt-Nielsen. 
+ 
+5.2 Domicile and legal form 
+The Company is domiciled and incorporated in Bermuda. The Company is an exempted limited liability company 
+incorporated under the Companies Act 1981, as amended, of Bermuda.  
+ 
+The Company's registered address is Clarendon House, 2 Church Street, Hamilton HM11, Bermuda. The 
+Company’s LEI code is 213800VZX4LWJSGRLR94. The Company's telephone number is +441 292-7337. 
+ 
+The Company’s website is www.stolt-nielsen.com. The information on the website does not form part of the Base 
+Prospectus unless that information is incorporated by reference into the Base Prospectus.
+
+--- Page 13 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+13
+6 Business overview 
+ 
+Stolt-Nielsen is a long-term investor and manager of businesses focused on opportunities in logistics, distribution 
+and aquaculture. The Stolt-Nielsen portfolio consists of its three bulk-liquid and chemicals logistics businesses – 
+Stolt Tankers, Stolthaven Terminals and Stolt Tank Containers – Stolt Sea Farm and investments in LNG. 
+ 
+Stolt-Nielsen’s global footprint is shown below. 
+ 
+ 
+ 
+ 
+Stolt Tankers 
+Stolt Tankers operates a sophisticated ﬂeet of chemical and parcel tankers. Stolt Tankers’s assets are deployed 
+globally, with over 70 deep-sea ships that are seamlessly integrated with regional ﬂeets in Europe, Asia and the 
+Caribbean; with coastal ﬂeets in Asia; and with inland barging services in Europe and the U.S. Gulf. 
+ 
+This unrivalled coverage not only gives customers access to the quality and reliability for which Stolt Tankers is 
+well known, but also the ﬂexibility to adjust to the often-changing demands of dynamic global supply chains. 
+ 
+With global manufacturing weak overall and pressure on bottom lines throughout the industry, efﬁciency is a focus 
+for both ST and its customers. By leveraging synergies with Stolthaven Terminals and Stolt Tank Containers, Stolt 
+Tankers increasingly works collaboratively with its customers to create unique, integrated transportation and 
+storage solutions for the world’s premier manufacturers and users of chemicals and other bulk liquids. 
+ 
+Tanker Trading 
+Tanker Trading consists of the Chartering and Ship Operations teams at Stolt Tankers. The Chartering team 
+provides global commercial management services for the Stolt Tankers fleet. Recognised throughout the industry 
+for leadership, experience and dedication to customer service, the Chartering department is available to 
+customers 24/7 through our worldwide network of offices. 
+ 
+The Ship Operations team works closely with Chartering to ensure that each voyage is meticulously organised 
+down to the last detail. Ship operators at Stolt Tankers receive extensive in-house training in order to meet our 
+standards of performance. The global Operations team is widely acknowledged as being among the industry’s 
+best. Ship operators help to coordinate almost every facet of a voyage, from loading and discharging to port calls, 
+from transshipments and bunkering to tank cleaning and weather routing. By ensuring that the ships are fully 
+prepared for the cargoes that have been fixed for them, and by serving as the coordinator for critical 
+communication taking place among Ship Owning and Chartering, as well as third-party owners, agents, our ship-
+
+--- Page 14 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+14
+management teams and, of course, customers, Ship Operations ensures that each voyage proceeds smoothly 
+and in line with the expectations of both our customers and Stolt Tankers. 
+ 
+Ship Management 
+Stolt Tankers’ Ship Owning division provides technical-management services for all ships in the fleet, ensuring 
+that our fleet meets or exceeds the rigorous standards set by our customers, classification societies, flag 
+authorities and by Stolt Tankers itself. All of the key functions in Ship Owning—safety and marine services, 
+crewing, fleet management, risk and insurance, vetting, newbuilding and technical projects—work in unison 
+toward this goal. 
+ 
+We manage most of our ships throughout their complete life cycle, from design specification, through 
+construction, operational life, dry-docking, midlife modernisation, life extensions and, ultimately, recycling. This 
+approach allows us to achieve standards of operation, maintenance and repair well above industry averages. In 
+addition to managing ships owned by Stolt Tankers, we also manage ships for third-party owners and provide 
+assistance in quality assurance for third-party ship managers who manage Stolt Tankers-operated ships.  
+ 
+Ship Owning carefully monitors new developments and research in the field of ship management and ship 
+hardware. Our ships frequently serve as test beds for new equipment and systems and we encourage our 
+personnel to challenge existing procedures. Through this process of constant innovation we ensure that Stolt 
+Tankers remains at the forefront of the industry and the constantly changing demands that are placed upon us, 
+particularly with respect to safety and environmental performance. 
+ 
+Ship Owning’s key areas of responsibility are:  
+• 
+Meeting or exceeding the constantly rising standards of health, safety and environmental protection 
+• 
+Maintaining the highest levels of quality for our assets 
+• 
+Meeting or exceeding all customer requirements and applicable regulations 
+• 
+Manning of the ships 
+• 
+Monitoring, initiating and participating in industry innovation 
+• 
+Project management (i.e., newbuildings, acquisitions, conversions and retrofitting of equipment) 
+• 
+Purchasing and logistics for the ships 
+Ownership engenders pride, and pride drives performance. Our Ship Owning division is committed to ensuring 
+that the assets we manage meet or exceed the highest standards demanded by customers, regulators, 
+classification societies and the industry at large. 
+ 
+ 
+Stolthaven Terminals 
+Stolthaven’s global network of terminals provides high quality storage and distribution services to customers 
+worldwide. We operate a network of 16 owned and joint-venture bulk-liquid terminals with a total of 4.9 million M³ 
+of storage capacity. 
+ 
+Our mission is to deliver value to our stakeholders through operating state-of-the-art liquid bulk terminals 
+complementing the capabilities of Stolt Tankers and Stolt Tank Containers. Through these close relationships, we 
+aim to provide customers with integrated transportation solutions that facilitate agile and competitive supply 
+chains. All within an environment of assured quality, safety and environmental protection. 
+ 
+Our terminals are located in global shipping hubs such as US Gulf, Amsterdam/Rotterdam/Antwerp(ARA) 
+Singapore and Ulsan. The network is complemented by terminals in Brazil, Australasia, United Kingdom and 
+Malaysia to service the needs of the local markets.  
+ 
+Our wholly owned terminals are as follows: 
+Houston (USA) - located on the Houston Ship Channel in Houston, Texas. The terminal operates both as a 
+domestic bulk facility and as an international distribution hub with best in class ship-shore infrastructure for 
+deepsea ships and barges supported by onsite rail and truck facilities. 
+ 
+New Orleans (USA) - located on the Mississippi River in Braithwaite, Louisiana.  The terminal operates both as a 
+domestic break-bulk facility and as an international distribution hub with access for deepsea ships, barges and 
+rail. 
+ 
+Santos (Brazil) – located in the Port of Santos serving the state of São Paulo and areas beyond. The terminal 
+functions both as a break-bulk facility for domestic distribution and as a regional distribution hub. 
+ 
+Australia & New Zealand – 5 terminals being an essential part of the local economies, servicing the needs of our 
+fuel, chemical and bulk liquid customers.
+
+--- Page 15 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+15
+Singapore – located within the industrial area of Jurong Island, and serves as an industrial terminal for the large 
+and growing number of manufacturers and suppliers located there and an efficient hub for the Asia Pacific region 
+with best in class ship-shore infrastructure. 
+ 
+Dagenham (UK) -  located on the River Thames with close proximity to Central London with excellent hinterland 
+connections including direct access to the UK road network. 
+ 
+Moerdijk (Netherlands) – located between Antwerp and Rotterdam. Efficient rail services and congestion free 
+highway access complemented with an on-site Stolt Tank Container depot for the ARA region and a variety of 
+value added services (e.g. drum filling and blending) provides a versatile one-stop-shopping logistical solution. 
+ 
+Our joint-venture terminals comprise the following: 
+Ulsan (South Korea) – the largest terminal in our network, an efficient hub for North Asia and the domestic Korean 
+market. 
+ 
+Westport (Malaysia) – located in Port Klang the terminal functions as a break-bulk facility for domestic distribution, 
+a make bulk facility for export and as a regional distribution hub.  
+ 
+Lingang (China) – located in the Lingang Harbour of Tianjin port. The terminal operates as both an international 
+and domestic distribution hub for North China including the main cities of Tianjin, Beijing and the surrounding 
+chemical clusters. 
+ 
+Antwerp (Belgium) – a major hub in the ARA region with capabilities of storing multiple types of products (incl. 
+LPG), industrial pipeline connections and significant jetty capacity. 
+Stolt Tank Containers 
+Stolt Tank Containers (STC) is a provider of door-to-door transportation services for bulk-liquid chemicals and 
+food-grade products. With a fleet of more than 40,000 tank containers, STC is the only operator with its own 
+worldwide network of 22 owned and joint-venture depots. 
+ 
+This specialized network gives STC direct control over the handling, cleaning and maintenance of its fleet, 
+ensuring unrivalled quality, reliability, safety and environmental performance. With STC, customers know that 
+their cargoes and the tanks carrying them are continually under the watchful eye of STC and its globally applied 
+operating standards, ensuring reliability and safety for people and the environment. STC’s depot network enables 
+the division to deliver a demonstrably superior combination of quality, service and reliability to customers 
+worldwide. 
+Stolt Sea Farm  
+Stolt Sea Farm operates 11 land-based farms. Seven in Spain and one each in Iceland, France, Portugal and 
+Norway produce Prodemar™ turbot and sole. The farms have an annual production capacity of 5,700 tonnes of 
+turbot and 850 tonnes of sole. 
+ 
+Stolt Sea Farm delivers a continuous supply of high quality seafood to its customers worldwide.  
+ 
+Our success is a direct result of our proven ability to develop innovative technologies and techniques that enable 
+us to provide the best products the market has to offer, while minimising our impact on the environment.  
+ 
+We are proud of the pioneering role Stolt Sea Farm has played—and continues to play—in the development of 
+sustainable fish farming.  
+ 
+Stolt Sea Farm consists of eight operational units:  
+• 
+Hatcheries carry out the first and most delicate life phase of the Prodemar™ turbot and sole; all Stolt 
+Sea Farm hatcheries are located in Galicia, Spain.  
+• 
+Production takes place at the company’s 11 inland farms: seven in Galicia, Spain and one each in 
+Hafnir, Iceland; Tocha, Portugal; Anglet, France; and Oye, Norway.  
+• 
+Research, Development and Applied Innovation has always been key driver of our success. The 
+quality and performance systems on our farms are largely attributable to the innovative techniques 
+developed by our highly qualified R&D team.  
+• 
+Quality and Environment ensures that standards of quality and environmental safety are upheld at all 
+times and in every area of our business.    
+• 
+Commercial markets our Prodemar™ turbot and sole in different sizes to fish wholesalers and 
+supermarket chains based in Europe, particularly Spain, Italy, France, Scandinavia, Germany, 
+Switzerland and USA.
+
+--- Page 16 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+16
+• 
+Engineering of Projects oversees the development of new projects and facilitates the transfer of 
+technology among our production centres. Innovation is continuous. The latest example is the use of 
+tunnel boring machines for water inlets, which we applied for the first time in the industry and pioneered 
+through this department.  
+• 
+Logistics ensures all clients receive orders promptly and that a direct link is always maintained between 
+Production and our customers.      
+• 
+Administration and Finance has responsibility for general management, human resources, and 
+accounting and finance. 
+Stolt-Nielsen Gas 
+Avenir LNG Limited 
+Avenir LNG Limited is a Bermuda registered company established for the purpose of developing the small scale 
+global LNG market by sourcing, shipping, storing and distributing LNG to the end customer in areas of stranded 
+demand. Stolt-Nielsen is the largest shareholder of Avenir LNG Ltd with ownership of 45%. Golar LNG and Höegh 
+LNG each hold a 22.5% share and 10% of the Company is held by institutional and private investors. All 
+shareholding is listed on the Norwegian OTC market.  
+ 
+Avenir LNG also has an 80% share in Higas S.r.L, which is building an LNG terminal and distribution facility in the 
+port of Oristano, Sardinia. Avenir will source and ship LNG to the terminal via its own small LNG carriers, and 
+then distribute the natural gas to customers via and trucks and tank containers. The terminal is expected to be 
+completed in 2020.  
+ 
+Golar LNG 
+Golar is a large independent owner and operator of marine-based LNG midstream infrastructure – active in the 
+liquefaction, transportation and regasification of natural gas. 
+ 
+An independent owner and operator of LNG carriers and FSRUs, and a pioneer developer of FLNGVs, Golar's 
+flexible, low-cost, fast-track LNG-based solutions are designed to thrive in a low commodity price 
+environment. Stolt-Nielsen Gas has 2.3% ownership of Golar LNG.
+
+--- Page 17 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+17
+7 Trend information 
+7.1 Prospects and financial performance 
+There has been no material adverse change in the prospects of the Issuer since the date of its last published audited 
+financial statements.  
+ 
+There has been no significant change in the financial performance of the Group since the end of the last financial 
+period which financial information has been published to the date of the Base Prospectus. 
+ 
+7.2 Known trends, uncertainties, demands, commitments or events 
+ 
+Stolt Tankers 
+Although the outbreak of Covid-19 has had a significant impact in all markets, Stolt Tankers results improved in 
+2020.Stolt Tankers expects increased demand for tonnage in 2021, while strengthening chemical tanker will 
+continue. On the supply side, the order book for new tonnage remains low as the uncertainty around fuel and 
+propulsion systems, CO2 emissions, and ESG makes it riskier to invest in ships. That said, the potential for 
+further consolidation in the chemical tanker space may bring about unanticipated changes and opportunities. 
+Regardless, Stolt Tankers remains committed to the pursuit of competitively superior processes and solutions that 
+help to optimise supply-chain performance, regardless of market conditions. 
+ 
+Stolthaven Terminals 
+The impact of Covid-19 on the overall storage industry has been less severe than has been in other logistics 
+sector with utilisation remaining stable.  Stolthaven is predominantly focused on the storage of chemicals and 
+specialty liquids which have remained stable, and often reflect the GDPs of countries where facilities are located. 
+The demand for oil and petroleum products has been impacted in 2020, although the oil price war and contango 
+in the market did ensure good utilisation.  The demand for transport fuel is slowly returning to pre Covid-19 levels. 
+Ongoing actions to enhance Stolthaven’s global cost structure and improve operating efficiency should contribute 
+to improving performance and operating results. showing signs of recovery in all markets 
+ 
+Stolt Tank Containers 
+Facing challenging market conditions, Stolt Tank Containers remains focused on maintaining its industry 
+leadership by expanding its global scale, by utilizing technology to drive continuous improvements in operational 
+efficiency, and by operating in a manner that is safe for people and the environment—actions that drive both Stolt 
+Tank Containers’ competitive advantage, as well as the unrivaled service that it faithfully delivers to its customers. 
+ 
+Stolt Sea Farm 
+The outbreak of Covid-19 and the shutdown of main markets where Stolt Sea Farm operates had a severe impact 
+on 2020 results. However, the Company has been able to recover quickly in terms of sale volumes since the 
+beginning of summer, for both turbot and sole, and prices have been recovering following the re-opening of the 
+European southern markets. The strengthening of turbot and sole prices will continue, especially as sole 
+production in the new farms ramps up and as increasing numbers of customers in new markets are introduced to 
+SSF’s unique products. 
+ 
+Stolt-Nielsen Gas 
+First ship delivered in October 2020.Four additional ships under construction at SOE’s Nantong yard; all due for 
+delivery H2 2021. Sardinia onshore LNG import terminal commissioning December 2020; commercial operations 
+commencing February 2021.
+
+--- Page 18 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+18
+8 Administrative, management and supervisory bodies 
+8.1 Information about persons 
+ 
+Board  
+The table below set out the names of the members of the Board of the Company:  
+ 
+Name  
+Position  
+Business address  
+Samuel Cooperman 
+Chairman 
+Stolt-Nielsen Limited, Clarendon House, 2 Church Street, 
+Hamilton HM11, Bermuda 
+Niels G. Stolt-Nielsen 
+Director 
+Stolt-Nielsen Limited, Clarendon House, 2 Church Street, 
+Hamilton HM11, Bermuda 
+Jan Chr. Engelhardtsen 
+Director 
+Stolt-Nielsen Limited, Clarendon House, 2 Church Street, 
+Hamilton HM11, Bermuda 
+Rolf Habben Jansen 
+Director 
+Stolt-Nielsen Limited, Clarendon House, 2 Church Street, 
+Hamilton HM11, Bermuda 
+Håkan Larsson  
+Director 
+Stolt-Nielsen Limited, Clarendon House, 2 Church Street, 
+Hamilton HM11, Bermuda 
+Jacob B. Stolt-Nielsen 
+Director 
+Stolt-Nielsen Limited, Clarendon House, 2 Church Street, 
+Hamilton HM11, Bermuda 
+Tor Olav Trøim 
+Director 
+Stolt-Nielsen Limited, Clarendon House, 2 Church Street, 
+Hamilton HM11, Bermuda 
+ 
+Samuel Cooperman is an independent Board member and has served as Chairman of the Board of Directors 
+since 2016. He has been a Director of Stolt-Nielsen Limited since 2008 and Chairman of the Audit Committee of 
+the Board of Directors since 2009. He has been a member of the Compensation Committee since 2016. 
+ 
+Mr. Cooperman joined Stolt-Nielsen in 1974 and held a number of senior management positions, including 
+Chairman and Chief Executive Officer of Stolt-Nielsen Transportation Group. He retired from the Company in 
+2003. Mr. Cooperman was a member of the Executive Committee of the International Chamber of Shipping until 
+May 2010; he also served as Vice-Chairman for two years. He holds BS and MS degrees in Electrical 
+Engineering from Columbia University and from the Graduate School at the University of Pennsylvania, 
+respectively, and an MBA from Temple University. He is a citizen of the United States. 
+ 
+Mr Cooperman is the Chairman of New York Cruise Line and Chief Executive Officer of Cooperman Weiss 
+Consulting LLC. 
+ 
+Niels G. Stolt-Nielsen has served as Chief Executive Officer since November 2000. He has been a Director of 
+Stolt-Nielsen Limited since 1996. 
+ 
+Mr. Stolt-Nielsen joined Stolt Tankers in 1990 in Greenwich, Connecticut, US. In 1994 he relocated to China to 
+open and head Stolt-Nielsen Limited’s representative office in Shanghai. He was the President of Stolt Sea Farm 
+from 1996 until 2000 when he became Chief Executive Officer of Stolt-Nielsen Limited. From September 2002 
+until March 2003 he also served as Interim Chief Executive Officer of Stolt Offshore S.A. Mr. Stolt-Nielsen 
+graduated from Hofstra University in 1990 with a BS degree in Business and Finance. He is a Norwegian citizen. 
+ 
+Mr. Stolt-Nielsen is the Chairman of the Board of Avenir LNG and a Director of Golar LNG Ltd. 
+ 
+Jan Chr. Engelhardtsen was appointed to the Board of Directors in March 2018 and is a member of the Audit 
+Committee.  
+ 
+Mr. Engelhardtsen served as Chief Financial Officer of Stolt-Nielsen Limited for 26 years prior to his retirement in 
+March 2018. He has held numerous key positions during his career, including President of Stolt Tank Containers, 
+where he played an important role in the Company’s entry into tank containers, establishing what is today Stolt 
+Tank Containers. He also served as President of Stolthaven Terminals, Chief Financial Officer of Stolt Offshore 
+S.A., and President and General Manager of Stolt-Nielsen Singapore Pte. with overall responsibility for the 
+Company’s operations in South-East Asia. Mr. Engelhardtsen holds an MBA from the Sloan School at the 
+Massachusetts Institute of Technology, as well as undergraduate degrees in Business Administration and 
+Finance. He is a citizen of Norway. 
+ 
+Mr. Engelhardtsen is a Director of Avenir Limited. 
+ 
+Rolf Habben Jansen is an independent Board member and has served as a Director of Stolt-Nielsen Limited 
+since December 2015.
+
+--- Page 19 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+19
+ 
+Mr. Habben Jansen is a Dutch citizen and graduated from Rotterdam’s Erasmus University in 1991 with a degree 
+in Economics. He began his career at Royal Nedlloyd before joining Danzas, the Swiss logistics firm, which 
+merged with DHL in 1999. He was Head of Global Customer Solutions at DHL from 2006 until joining Damco as 
+Chief Executive Officer in 2009. 
+ 
+He joined the Hapag-Lloyd AG Executive Board in April 2014 and has been acting Chief Executive Officer since 
+July 1, 2014. 
+ 
+Håkan Larsson is an independent Board member and has served as Chairman of the Compensation Committee 
+since 2016 and a member of the Audit Committee since 2009. He joined the Board of Stolt-Nielsen Limited in 
+June 2007. 
+ 
+Mr. Larsson was Chief Executive Officer of Schenker AG from 2000 to 2003 and of Rederi AB Transatlantic from 
+2003 to 2007. He holds a Bachelor of Economics degree from the Gothenburg School of Economics and is a 
+Swedish citizen. 
+ 
+Mr. Larsson is Chairman of Valea Holding AB and Wallenius Wilhelmsen ASA, and is a Director of Viking Supply 
+Ships AS. He is also Chairman of the Board of InPension Holding AB and a member of the regional board of 
+Handelsbanken. 
+ 
+Jacob B. Stolt-Nielsen has served as a Director of Stolt-Nielsen Limited since 1995. 
+ 
+Mr. Jacob B. Stolt-Nielsen joined the Company in 1987 and served in various positions in Oslo, Singapore, 
+Greenwich, Connecticut, Houston, Texas and London. He was President, Stolthaven Terminals, from 1992 until 
+2000 with responsibility for the global tank storage business. In 2000, he founded and served as Chief Executive 
+Officer of SeaSupplier Ltd. until 2003 when he became Executive Vice President of Stolt-Nielsen Limited. In 2012 
+he founded Norterminal AS. Mr. Stolt-Nielsen graduated from Babson College in 1987 with a BS degree in 
+Finance and Entrepreneurial studies. He is a Norwegian citizen. 
+ 
+Mr. Stolt-Nielsen is Chief Executive Officer of Norterminal AS and is a board member of Stolt-Nielsen Holdings 
+AS, SN Terminal AS, Hydrogen Source AS, New York Cruise Lines, Inc. and Biomed Clinic AS. 
+ 
+Tor Olav Trøim is an independent Board member and has served as a Director of Stolt-Nielsen Limited since 
+April 2016. 
+ 
+Mr. Trøim was an equity portfolio manager with Storebrand ASA and Chief Executive Officer for the Norwegian 
+Oil Company DNO AS until 1995. He was employed by Seatankers Management Co. from 1995 to 2014. During 
+this period he was also, at various times, Chief Executive Officer of a number of related public companies, 
+including Frontline Limited, Knightsbridge Tankers, Ship Finance Ltd. and Seadrill Ltd. He has served as a 
+director on the Boards of Frontline, Marine Harvest ASA, Golden Ocean Group Limited, Seadrill Ltd, Archer 
+Limited and Aktiv Kapital ASA, among others. In 2014 he established Magni Partners UK, which focuses on 
+research and consultancy in the energy industry. Mr. Trøim graduated as M.Sc. Naval Architect from the 
+University of Trondheim, Norway in 1985 and is a Norwegian citizen. 
+ 
+Mr Trøim is Chairman of Golar LNG Ltd and Golar MLP, Vice-Chairman at Borr Drilling Ltd, Director at 
+Vaalerenga Fotball AS and owner of Magni Sport and Magni Partners UK, where he is also Managing Partner. 
+ 
+ 
+Management 
+The table below set out the names of the members of the Management of the Company: 
+ 
+Name  
+Position  
+Business address  
+Niels G. Stolt-Nielsen 
+ 
+Chief Executive Officer  
+Stolt-Nielsen Limited, Clarendon House, 2 
+Church Street, Hamilton HM11, Bermuda 
+Jens F. Grüner-Hegge 
+Chief Financial Officer 
+Stolt-Nielsen Limited, Clarendon House, 2 
+Church Street, Hamilton HM11, Bermuda 
+Lucas Vos 
+President, Stolt Tankers 
+Stolt-Nielsen Limited, Clarendon House, 2 
+Church Street, Hamilton HM11, Bermuda 
+Guy Bessant 
+President, Stolthaven Terminals 
+Stolt-Nielsen Limited, Clarendon House, 2 
+Church Street, Hamilton HM11, Bermuda 
+Michael Kramer 
+President, Stolt Tank Containers 
+Stolt-Nielsen Limited, Clarendon House, 2 
+Church Street, Hamilton HM11, Bermuda 
+Jordi Trias 
+President, Stolt Sea Farm 
+Stolt-Nielsen Limited, Clarendon House, 2 
+Church Street, Hamilton HM11, Bermuda
+
+--- Page 20 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+20
+Bill Bryant 
+Managing Director, AOAC and 
+MEA regions 
+Stolt-Nielsen Limited, Clarendon House, 2 
+Church Street, Hamilton HM11, Bermuda 
+Peter Koenders 
+Chief Information Officer 
+Stolt-Nielsen Limited, Clarendon House, 2 
+Church Street, Hamilton HM11, Bermuda 
+Anne van Dassen Müller 
+ 
+Chief Human Resources Officer 
+Stolt-Nielsen Limited, Clarendon House, 2 
+Church Street, Hamilton HM11, Bermuda 
+Nick Webb 
+General Counsel 
+Stolt-Nielsen Limited, Clarendon House, 2 
+Church Street, Hamilton HM11, Bermuda 
+ 
+Niels G. Stolt-Nielsen, see description under Board above. 
+ 
+Jens F. Grüner-Hegge was appointed Chief Financial Officer of Stolt-Nielsen Limited in April 2018. Prior to his 
+appointment he served as Vice President Corporate Finance from 2007. Earlier in his 28-year career at Stolt-
+Nielsen, he served as Director of Tanker Projects for Stolt-Nielsen Transportation Group in Rotterdam from 2004 
+to 2007, where he was responsible for capital investment projects. Before that he was General Manager, Stolt-
+Nielsen Asia-Pacific Service (SNAPS), a joint venture chemical tanker company based in Singapore. Grüner-
+Hegge received his MBA in Finance from The Wharton School of the University of Pennsylvania, and his 
+bachelor’s degree in Finance from the University of Massachusetts, Amherst. He is a citizen of Norway. 
+ 
+Lucas Vos was appointed President of Stolt Tankers in October 2019. He previously spent 12 years at Nedlloyd 
+Lines and subsequently P&O Nedlloyd in various management roles until it became a part of Maersk. From 2008 
+to 2013 he remained at Maersk Line, Denmark where he was the Executive Board member overseeing IT, HR, 
+strategy, and its global service centres. His most recent role at Maersk was as Chief Commercial Officer for 
+Maersk Line. In 2014, he joined the cooperative Royal FloraHolland and spent four years as CEO. In this role, he 
+was responsible for the creation and launch of a new digital ecosystem strategy. Vos is also Chairman of the 
+Supervisory Board at Royal Coster Diamonds and a member of the Supervisory Board at Jeroen Bosch 
+Ziekenhuis and Royal Wagenborg. He holds a degree in Economics and Corporate Finance from Groningen 
+University and in Strategy Deployment from Harvard. He is a Dutch citizen. 
+ 
+Guy Bessant was appointed President, Stolthaven Terminals in March 2015. He was previously Regional 
+Director for Stolthaven in Asia Pacific since 2013. Before that, he held senior management positions at Bayer 
+MaterialScience (Covestro) and Sasol. From 1996 to 2004, he was with Stolt-Nielsen, joining the company as a 
+shipbroker in Singapore before becoming manager of the Stolt-Nielsen Transportation Group with responsibility 
+for the marketing of the tanker, terminal and tank container business in China. He holds a BA in Modern Chinese 
+Studies with Management from the University of Leeds (UK), a postgraduate diploma in International Commercial 
+Law from Northumbria University (UK), and an MBA from the University of Strathclyde (UK). He is a citizen of the 
+UK. 
+ 
+Michael Kramer was appointed President of Stolt Tank Containers (STC) in January 2000. He was previously 
+Managing Director of STC, and before that, General Manager for North and South America. He joined STC in 
+1982 and subsequently held a number of positions of increasing responsibility, including Business Development 
+Manager (Japan), Business Development Manager (Singapore) and STC Budgeting Director (UK). He was 
+previously with B.D.P. International, Inc. Mike has a B.S. from Pennsylvania State University (US). He is a citizen 
+of the US. 
+ 
+Jordi Trias became President of Stolt Sea Farm in January 2018 after joining the business as Managing Director 
+in 2016. Prior to this he spent 14 years with GBFoods, where he held several positions in marketing, sales and 
+business unit management, located in Spain, Kazakhstan, Russia, Ukraine and Senegal. Jordi holds a degree in 
+Business Administration from the University of Barcelona, a masters degree in Marketing, and an MBA from the 
+Instituto de Empresa. He is a citizen of Spain. 
+ 
+Bill Bryant has served as Managing Director for the APAC and MEA regions since 2014, based in Singapore. 
+From 2011-2014 he was Managing Director of the MEA region, based in Dubai. Since December 2018, he has 
+also been managing the joint venture, Stolt NYK Asia Pacific Service (SNAPS). Prior to this, he held various 
+technical, commercial, marketing and management roles in a variety of companies in the petrochemical, chemical 
+and mining sectors. He served most of his early career in South Africa, later moving to and working in a variety of 
+commercial and management roles in Hong Kong, Dubai, Singapore, China, Germany and Indonesia. Bill 
+graduated from the University of the Witwatersrand with a B.SC (Eng.) degree in Chemical Engineering in 1985 
+and an MBA from Wits Business School in 1992. He is a citizen of South Africa. 
+ 
+Peter Koenders joined Stolt-Nielsen Limited as Chief Information Officer on April 1, 2007. He is responsible for 
+business technology at Stolt-Nielsen, based in Rotterdam. He has a master's degree in Information Management 
+from Tilburg University. He joined Stolt-Nielsen from Maersk, where he was Director of Architecture, Strategy and 
+Governance; before that, his career included a wide variety of IT management positions at Maersk, Sealand and 
+Asea Brown Boveri. He is a citizen of the Netherlands.
+
+--- Page 21 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+21
+Anne van Dassen Müller joined Stolt-Nielsen in September 2012 as Chief HR Officer, based in Rotterdam. She 
+joined Stolt-Nielsen from JohnsonDiversey, later acquired by Sealed Air Inc., where she was European HR 
+Director. Prior to this, she held a number of HR positions, including Corporate HR Director for Magasin du Nord in 
+Denmark. Anne holds a master’s degree in international business administration and organisational psychology. 
+She is a citizen of Denmark. 
+ 
+Nick Webb  was appointed General Counsel at Stolt-Nielsen Limited in November 2020. Prior to this he was 
+Global General Counsel of A-Gas International, the KKR owned gas and chemicals conglomerate and General 
+Counsel, Europe of Centrica plc. Nick started his career at law firms Herbert Smith Freehills and White & Case, 
+after which he also held senior positions at Barclays Capital and Freepoint Commodities. He holds a First Class 
+Law and Politics degree from the University of Birmingham, UK (LL.B) and an LL.M from Cambridge University. 
+ 
+8.2 Potential conflicts of interest 
+There are no potential conflicts of interest between any duties carried out on behalf of the Issuer by the persons 
+referred to in item 8.1 and their private interests and/or other duties.
+
+--- Page 22 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+22
+9 Major shareholders 
+9.1 Ownership  
+Stolt-Nielsen Limited has two classes of shares, Common Shares and Founder’s Shares. Except for matters 
+where applicable law requires the approval of both classes of shares voting as separate classes, Common 
+Shares and Founder’s Shares vote as a single class on all matters submitted to a vote of the shareholders, with 
+each share entitled to one vote. 
+ 
+The Company’s authorised share capital consists of 65,000,000 Common shares, par value of $1 per share and 
+16,250,000 Founder’s shares, par value of $0.001 per share. As of 31 ONovember 2020, 64,133,796 Common 
+Shares were issued, of which 53,523,796 were outstanding and 16,033,449 Founder’s Shares were issued, of 
+which 13,380,949,949 were outstanding.  
+ 
+Bye-law 74.1 of the Company’s Bye-Laws limit individual shareholdings of Common Shares to 20%, single U.S. 
+person shareholdings to 9.9% and shareholders of any single country in aggregate to 49.9%. 
+ 
+Below is the list of the 15 largest shareholders (other than the Company) as at 30 November 2020. 
+ 
+ 
+ 
+ 
+ 
+ 
+As of November 30, 20120, Fiducia Ltd., a company owned by a trust established for the benefit of the Stolt-
+Nielsen family, together with certain members of the Stolt-Nielsen family, controlled 64.67% of the outstanding 
+shares of SNL entitled to vote generally on matters brought to a vote of the shareholders of SNL. As a result, the 
+trustees of the family trust are currently able to directly and indirectly exercise a controlling influence over SNL’s 
+operations and have sufficient voting power to control the outcome of matters requiring shareholder approval 
+including: the composition of SNL’s Board of Directors, which has the authority to direct SNL’s business and to 
+appoint and remove SNL’s officers; approving or rejecting a merger, consolidation or other business combination; 
+raising future capital; and amending the Bye-Laws which govern the rights attached to SNL’s Common Shares. 
+This control may deter a third party from attempting to take control of SNL without the approval of the trustees of 
+the Stolt-Nielsen family trust. Additionally, the interests of the family trust may conflict with the interests of 
+SNL’s other shareholders. 
+ 
+9.2 Change of control of the company 
+There are no arrangements, known to the Company, the operation of which may at a subsequent date result in a 
+change in control of the Company. 
+Ref Shareholder
+%
+1 FIDUCIA LTD
+46.6%
+2 STOLT-NIELSEN LIMITED
+16.5%
+3 FOLKETRYGDFONDET
+2.5%
+4 State Street Bank and Trust Comp
+2.0%
+5 Jefferies LLC
+1.6%
+6 Brown Brothers Harriman & Co.
+1.4%
+7 Brown Brothers Harriman (Lux.) SCA
+1.3%
+8 Brown Brothers Harriman & Co.
+1.2%
+9 Citibank, N.A.
+0.9%
+10 BNP Paribas Securities Services
+0.9%
+11 A/S Skarv
+0.9%
+12 THE STONEHEDGE TRUST
+0.8%
+13 Citibank, N.A.
+0.8%
+14 STOREBRAND NORGE I VERDIPAPIRFO
+0.7%
+15 JPMorgan Chase Bank, N.A., London
+0.7%
+16 Others
+21.4%
+Total
+100%
+
+--- Page 23 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+23
+10 Financial information concerning the Company's assets 
+and liabilities, financial position and profits and losses 
+10.1 Financial statements 
+Stolt-Nielsen Limited's consolidated financial statements have been prepared using accounting policies consistent 
+with International Financial Reporting Standards as adopted by the European Union (“IFRS”) and interpretations 
+issued by the IFRS Interpretations Committee. The Company's accounting policies are shown in the Annual 
+Report 2019, note 2, pages 57–66. 
+ 
+Stolt-Nielsen Limited's financial statements have been prepared using accounting policies consistent with 
+International Financial Reporting Standards as adopted by the European Union (“IFRS”) and interpretations 
+issued by the IFRS Interpretations Committee. Stolt-Nielsen Limited's accounting policies are shown in the Annual 
+Report 2019, note 2, pages 119-120. 
+ 
+According to the Regulation (EU) 2017/1129 of the European Parliament and of the Council, information in a 
+prospectus may be incorporated by reference. Because of the complexity in the historical financial information 
+and financial statements this information is incorporated by reference to the Annual Report 2019 and First half-
+year 2020, see Cross Reference List for complete web address.  
+ 
+ 
+First half-year 
+Annual Report 
+ 
+2020 
+2019 
+ 
+ 
+ 
+Stolt-Nielsen Limited Consolidated 
+ 
+ 
+Consolidated Income Statement 
+12 
+52 
+ 
+Consolidated Balance Sheet  
+ 
+14 
+ 
+54 
+ 
+Consolidated Statement of Cash Flows 
+ 
+16 
+ 
+56 
+ 
+Notes to the Consolidated Financial Statements 
+ 
+17-31 
+ 
+57-112 
+ 
+ 
+ 
+Stolt-Nielsen Limited 
+ 
+ 
+Income Statement 
+--- 
+114 
+Balance Sheet  
+--- 
+116 
+ 
+Statement of Cash Flows 
+ 
+--- 
+ 
+118 
+ 
+Notes to the Financial Statements 
+ 
+--- 
+ 
+119-127 
+ 
+10.2 Auditing of historical annual financial information 
+The historical financial information for 2019 has been audited by PricewaterhouseCoopers LLP. The audit has 
+been conducted in accordance with International Standards on Auditing (UK) (“ISAs (UK)”) and applicable law. 
+ 
+A statement of audited historical financial information for the Company is given in the Annual Report 2019 pages 
+47-51. 
+ 
+The historical financial information for first half-year 2020 has not been audited. 
+ 
+10.3 Legal and arbitration proceedings   
+Legal Proceedings   
+The Group is party to various legal proceedings arising in the ordinary course of business and in cases where it 
+believes the likelihood of losses are probable and can be estimated, provisions would be recorded for those legal 
+cases. Disclosure of legal proceedings has been described in Note 29 of the Consolidated Financial Statements for 
+the year ended November 30, 2019. There have been no significant changes to any ongoing legal proceedings 
+since that time, except as discussed below. The Group believes that the ongoing legal proceedings are unlikely to 
+have a material adverse effect on its business or financial condition. 
+ 
+Stolt Tankers B.V. and Stolt Commitment B.V. (“Stolt”) are involved in various civil proceedings in multiple 
+jurisdictions brought by various claimants as a result of a December 2015 collision with the general cargo ship 
+Thorco Cloud whilst in the Singapore Strait. In June 2019 the direct action suit filed by the Thorco Cloud interests 
+against Stolt and its insurers in Norway was rejected by the Court of Appeals.   The Thorco Cloud interests have
+
+--- Page 24 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+24
+appealed the judgment of the Court of Appeals to the Supreme Court.  The Supreme Court heard oral arguments 
+during the first quarter of 2020, and decided in July  that Norway has jurisdiction over Stolt’s P&I insurer, GARD.   
+The case has been sent back to the Court of Appeals  for its formal decision on GARD’s jurisdiction.  The jurisdiction 
+over the Stolt companies on the back of Gard’s jurisdiction will also be decided by the Court of Appeals.  In addition, 
+the Supreme Court in The Netherlands has decided that it has jurisdiction to decide the limitation case.. With this 
+result, the enforcement of any final judgement in Norway will have to be made against the limitation fund(s) in The 
+Netherlands.. Nonetheless, allocation of fault for the collision has not yet been determined but any losses, repairs 
+and legal costs will be covered by insurance maintained by the Group, subject to deductibles and certain 
+unrecoverable expenses. At May 31, 2020, the Group has recorded a provision for the expected future liability, 
+along with a receivable for related insurance reimbursements. It is not expected that there will be a material adverse 
+effect on the Group’s business or financial condition. 
+ 
+Stolt Tank Containers BV is involved in a civil action as a result of a 2012 fire on the MSC Flaminia. The Phase 2 
+trial for this matter was completed in August 2018. The US District Court for the Southern District of New York 
+delivered a judgement on September 10, 2018, which held the Group jointly liable with Deltech for the incident 
+where the counterparties are alleging damages of $180.0 million, excluding interest. The claim is covered by 
+insurance and the Group has recorded a deductible of $0.3 million for this claim plus a provision for the expected 
+future liability, as well as a receivable for related insurance reimbursements. The judgement has been appealed by 
+the defendants, Stolt Tank Containers BV and Deltech. The hearing on appeal before the Court of Appeals in New 
+York was heard on May 15, 2020.  The final phase of the trial (Phase 3) to assess the quantum of damages shall 
+proceed in 2021. It is not expected that there will be a material adverse effect on the Group’s business or financial 
+condition. 
+ 
+Stolt Tankers B.V. and Stolt Groenland B.V. (“Stolt”) are involved in legal proceedings in South Korea arising out of 
+the September 28, 2019 explosion and fire aboard the Stolt Groenland while the ship was berthed in Ulsan.  There 
+was no loss of life and no pollution.  Stolt has and continues to fully cooperate with the relevant authorities in the 
+resulting incident investigation and with claimants to reach an early resolution of their respective proven 
+claims.  Stolt has applied to limit liability in the South Korea court and is defending certain ship officers who are 
+restricted from leaving the country until completion of the Ulsan Coast Guard investigation and a determination is 
+made by the public prosecutor as to whether the officers will be criminally prosecuted by the South Korean 
+prosecutor who is engaged in this case, and who awaits the conclusions of the enquiry.  The claims are fully covered 
+by insurance.  It is not expected that there will be a material adverse effect on the Group’s business or financial 
+condition. 
+ 
+General 
+The ultimate outcome of governmental and third-party legal proceedings is inherently difficult to predict. The Group’s 
+operations are affected by international and domestic environmental protection laws and regulations. Compliance 
+with such laws and regulations may entail considerable expense, including ship modifications and changes in 
+operating procedures. 
+ 
+Other than the above, there has been no governmental, legal or arbitration proceedings (including any such 
+proceedings which are pending or threatened of which the Issuer is aware), during a period covering at least the 
+previous 12 months which may have, or have had in the recent past, significant effects on the Issuer and/or Group's 
+financial position or profitability. 
+ 
+ 
+10.4 Significant change in the Issuer’s financial position 
+There has been no significant change in the financial position of the Group which has occurred since the end of 
+the last financial period for which interim financial information has been published.
+
+--- Page 25 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+25
+11 Regulatory disclosures 
+The below tables are a summary of the information disclosed by the Issuer under Regulation (EU) 596/2014 over 
+the last 12 months which is relevant at the date of the Base Prospectus. 
+ 
+Additional regulated information required to be disclosed under the laws of a member state 
+Date 
+Information 
+19.11.2020 
+Stolt-Nielsen Limited declares interim dividend of $0.25 per common share; 
+The Company's Board of Directors approved the payment of an interim dividend of $0.25 per 
+Common Share 
+16.06.2020 
+Stolt-Nielsen Limited completes issuance of bonds; 
+Successful placement of a new senior unsecured bond issue of NOK 1.25 
+billion with maturity date June 29, 2023. The bond carries a coupon of 3 months 
+NIBOR + 450 bps p.a. with quarterly interest payments. 
+16.04.2020 
+Stolt-Nielsen Limited holds 2020 Annual General Meeting; 
+All agenda items were approved, and all nominated Directors were elected at 
+its Annual General Meeting of shareholders 
+31.03.2020 
+Annual General Meeting; 
+Date and time for annual general meeting 
+31.03.2020 
+Stolt-Nielsen Limited distributes materials for the 2020 Annual General Meeting of 
+shareholders; 
+Materials have been sent to shareholders of record at close of business on March 18, 2020, 
+who will be entitled to vote at the meeting. 
+16.03.2020 
+Stolt-Nielsen Limited Board votes to withdraw recommendation of final dividend for 2019 in 
+response to coronavirus crisis; 
+The Board of Directors of Stolt-Nielsen Limited, acting in response to uncertainties created by 
+the ongoing coronavirus   pandemic, voted to withdraw its previously announced 
+recommendation of a final dividend for 2019 of $0.25 per Common Share 
+24.02.2020 
+Stolt-Nielsen Limited declares final dividend of $0.25 per common share; 
+The Company's Board of Directors recommended a final dividend for 2019 of $0.25 per 
+Common Share 
+05.02.2020 
+Stolt-Nielsen Limited completes issuance of bonds; 
+Successful placement of a new senior unsecured bond issue of NOK 1.3 billion with maturity 
+date February 20, 2024. The bond carries a coupon of 3 months NIBOR + 365 bps p.a. with 
+quarterly interest payments. 
+29.01.2020 
+Stolt-Nielsen Limited: Fixed income investor meetings; 
+Stolt-Nielsen Limited has mandated Danske Bank, DNB Markets, Nordea and SEB to arrange 
+a series of fixed income investor meetings commencing on Monday, February 3, 2020. 
+21.11.2019 
+Stolt-Nielsen Limited declares interim dividend of $0.25 per common share; 
+The Company's Board of Directors approved the payment of an interim dividend of $0.25 per 
+Common Share 
+ 
+ 
+Interim financial reports and audit reports / limited reviews 
+Date 
+Information 
+08.10.2020 
+Stolt-Nielsen Limited reports unaudited results for the third quarter and first nine months of 
+2020; 
+Unaudited results for the third quarter ended August 31, 2020 
+03.07.2020 
+Stolt-Nielsen Limited reports unaudited results for the second quarter of 2020; 
+Unaudited results for the second quarter ended May 31, 2020 
+16.04.2020 
+Stolt-Nielsen Limited reports unaudited results for the first quarter of 2020; 
+Unaudited results for the first quarter ended February 29, 2020 
+ 
+ 
+Annual financial and audit reports 
+Date 
+Information 
+19.03.2020 
+Stolt-Nielsen Limited publishes annual report 2019; 
+Annual Report for the financial year ended November 30, 2019 
+30.01.2020 
+Stolt-Nielsen Limited reports unaudited results for the fourth quarter and full year of 2019; 
+Unaudited results for the fourth quarter ended November 30, 2019
+
+--- Page 26 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+26
+12 Documents available  
+ 
+For the term of the Base Prospectus the following documents, where applicable, can be inspected at the Issuer's 
+website stated in clause 5.2: 
+ 
+(a) 
+the up to date memorandum and articles of association of the Issuer; 
+ 
+(b) 
+all reports, letters, and other documents, valuations and statements prepared by any expert at the Issuer's 
+request any part of which is included or referred to in the Base Prospectus.
+
+--- Page 27 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+27
+13 Financial instruments that can be issued under the Base 
+Prospectus 
+The Base Prospectus, as approved in accordance with the EU Prospectus Regulation 2017/1129, allows for the 
+issuance of Bonds.  
+ 
+This chapter describes the form, type, definitions, general terms and conditions, return and redemption 
+mechanisms, rating and template for Final Terms associated with the Bonds. 
+ 
+Risk factors related to the Bonds are described in Chapter 2 Risk Factors. 
+ 
+13.1 Securities Form 
+A Bond is a financial instrument as defined in Norwegian Securities Trading Act’s (Verdipapirhandellovens)  
+§ 2-2.  
+ 
+The Bonds are electronically registered in book-entry form with the Securities Depository.  
+13.2 Security Type 
+Borrowing limit – tap issue 
+The Loan may be either open or closed for increase of the Borrowing Amount during the tenor. A tap issue can 
+take place until five banking days before the Maturity Date. If the issue is open, the First Tranche and Borrowing 
+Limit will be specified in the Applicable Final Terms. 
+ 
+Return 
+Fixed Rate (FIX) 
+A Bond issue with a fixed Interest Rate will bear interest at a fixed rate as specified in the applicable Final Terms.  
+ 
+The Interest Rate will be payable annually or semi-annually on the Interest Payment Dates as specified in the 
+applicable Final Terms. 
+ 
+Floating Rate (FRN) 
+A Bond issue with a floating Interest Rate will bear interest equal to a Reference Rate plus a fixed Margin for a 
+specified period (3, 6 or 12 months). Interest Rate or Reference Rate may be deemed to be zero. The period 
+lengths are equal throughout the term of the Loan, but each Interest Payment Date is adjusted in accordance with 
+the Business Day Convention. The Interest Rate for each forthcoming period is determined two Business Days 
+prior to each Interest Payment Date based on the then current value of the Reference Rate plus the Margin. 
+ 
+The Interest Rate will be payable quarterly or semi-annually on the the Interest Payment Dates as specified in the 
+applicable Final Terms. 
+ 
+The relevant Reference Rate, the Margin, the Interest Payment Dates and the then current Interest Rate will be 
+specified in the applicable Final Terms. 
+ 
+Redemption 
+The Loan will mature in full at the Maturity Date at a price equal to 100 per cent. of the nominal amount.  
+ 
+The Issuer may have the option to prematurely redeem the Loan in full at terms specified in the applicable Final 
+Terms. The Loan may also be prematurely redeemed due to a tax event. 
+ 
+The Bondholders may have the right to require that the Issuer purchases all or some of the Bonds held by that 
+Bondholder at terms specified in the applicable Final terms. 
+ 
+Security 
+The Bonds may be either secured or unsecured. Details will be specified in the applicable Final Terms. 
+ 
+13.3 Definitions 
+These definitions supplement the definitions set out in any Bond Terms. If these definitions at any point in time no 
+longer represents the correct understanding of the definitions set out in the Bond Terms, the Bond Terms shall 
+prevail.
+
+--- Page 28 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+28
+Additional Bonds: 
+Means Bonds issued under a Tap Issue, including any Temporary Bonds as defined in the 
+Bond Terms. 
+ 
+ 
+Attachment: 
+Means any schedule, appendix or other attachment to the Bond Terms. 
+ 
+ 
+Base Prospectus: 
+This document. Describes the Issuer and predefined features of Bonds that can be listed under 
+the Base prospectus, as specified in the Prospectus Regulation (EU) 2017/1129. Valid for 12 
+months after it has been published. In this period, a prospectus may be constituted by the 
+Base Prospectus, any supplement(s) to the Base Prospectus and a Final Terms for each new 
+issue. 
+Bond Issue/Bonds/ 
+Notes/the Loan: 
+Means (i) the debt instruments issued by the Issuer pursuant to the Bond Terms, including any 
+Additional Bonds and (ii) any overdue and unpaid principal which has been issued under a 
+separate ISIN in accordance with the regulations of the CSD from time to time. 
+ 
+ 
+Bond Terms: 
+Means the terms and conditions, including all Attachments which shall form an integrated part 
+of the Bond Terms, in each case as amended and/or supplemented from time to time. 
+ 
+ 
+Bondholder: 
+Means a person who is registered in the CSD as directly registered owner or nominee holder 
+of a Bond, subject however to the clause for Bondholders’ rights in the Bond Terms. 
+ 
+ 
+Bondholders’ 
+decisions: 
+The Bondholders’ Meeting represents the supreme authority of the Bondholders community in 
+all matters relating to the Bonds and has the power to make all decisions altering the terms and 
+conditions of the Bonds, including, but not limited to, any reduction of principal or interest and 
+any conversion of the Bonds into other capital classes. 
+ 
+At the Bondholders’ meeting each Bondholder may cast one vote for each voting bond owned 
+at close of business on the day prior to the date of the Bondholders’ meeting in the records 
+registered in the Securities Depository.  
+ 
+In order to form a quorum, at least half (1/2) of the voting bonds must be represented at the 
+Bondholders' meeting. See also the clause for repeated Bondholders’ meeting in the Bond 
+Terms.  
+ 
+Resolutions shall be passed by simple majority of the votes at the Bondholders' Meeting, 
+however, a majority of at least 2/3 of the voting bonds represented at the Bondholders’ Meeting 
+is required for any waiver or amendment of any terms of the Bond Terms. 
+ 
+(For more details, see also the clause for Bondholders’ decisions in the Bond Terms) 
+ 
+ 
+Bondholders rights: 
+Bondholders' rights are specified in the Bond Terms.  
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with the CSD, the 
+Bondholders are bound by the Bond Terms. 
+ 
+ 
+Bond Trustee: 
+Nordic Trustee AS, Postboks 1470 Vika, 0116 Oslo, or its successor(s) Website: 
+https://nordictrustee.com 
+ 
+ 
+Borrowing Limit – Tap 
+Issue and Borrowing 
+Amount/First Tranche 
+Borrowing Limit is the maximum issue amount for an open Bond issue.  
+ 
+Borrowing Amount/First Tranche is the borrowing amount for a closed Bond Issue, eventually 
+the borrowing amount for the first tranche of an open Bond Issue. 
+ 
+Borrowing Limit – Tap Issue and Borrowing Amount/First Tranche will be specified in the Final 
+Terms. 
+ 
+ 
+Business Day: 
+Means any day on which both the relevant CSD settlement system is open, and the currency 
+settlement system is open in Oslo, London and New York. Unless otherwise specified in the 
+Final Terms. 
+ 
+ 
+Business Day 
+Conventon: 
+If the last day of any Interest Period originally falls on a day that is not a Business Day, the 
+Interest Payment Date will be as follow: 
+ 
+If Fixed Rate, the Interest Payment Date shall be postponed to the next day which is a 
+Business Day (Following Business Day convention).
+
+--- Page 29 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+29
+If FRN, the Interest Period will be extended to include the first following Business Day unless 
+that day falls in the next calendar month, in which case the Interest Period will be shortened to 
+the first preceding Business Day (Modified Following Business Day convention). 
+ 
+ 
+Calculation Agent: 
+The Bond Trustee, if not otherwise stated in the applicable Final Terms. 
+ 
+ 
+Call Option: 
+The Final Terms may specify that the Issuer may redeem all but not only some of the 
+Outstanding Bonds on any Business Day.  
+In such case the Call Date(s), the Call Price(s) and the Call Notice Period will be specified in 
+the Final Terms. 
+ 
+ 
+Call Option Repayment 
+Date: 
+Means the settlement date for the Call Option pursuant to the conditions specified in the Final 
+Terms for Call Option, Put Option Event or a date agreed upon between the Bond Trustee and 
+the Issuer in connection with such redemption of Bonds. 
+ 
+ 
+Change of Control 
+Event: 
+Means an event where (i) the Stolt-Nielsen family (including the Stolt-Nielsen family's 
+beneficially owned Fiducia Ltd.) ceases to maintain a beneficial ownership of minimum 33.4 
+per cent. of the Issuer, or (ii) ceases to remain the largest shareholder of the Issuer (in number 
+of shares or voting rights). 
+ 
+ 
+Currency: 
+The currency in which the bond issue is denominated. 
+ 
+Currency will be specified in the Final Terms. 
+ 
+ 
+Day Count Convention: The convention for calculation of payment of interest; 
+ 
+(a) If Fixed Rate, the payment of interest shall be calculated on basis of a 360-day year 
+comprised of twelve months of 30 days each and, in case of an incomplete month, the 
+actual number of days elapsed (30/360-days basis), unless: 
+ 
+(i) 
+the last day in the relevant Interest Period is the 31st calendar day but the first 
+day of that Interest Period is a day other than the 30th or the 31st day of a month, 
+in which case the month that includes that last day shall not be shortened to a 
+30-day month; or 
+ 
+(ii) 
+the last day of the relevant Interest Period is the last calendar day in February, in 
+which case February shall not be lengthened to a 30-day month. 
+ 
+(b) If FRN, the payment of interest shall be calculated on basis of the actual number of days 
+in the Interest Period in respect of which payment is being made divided by 360 
+(actual/360-days basis). 
+ 
+ 
+Decisive Influence: 
+Means a person having, as a result of an agreement or through the ownership of shares or 
+interests in another person (directly or indirectly):  
+(a) a majority of the voting rights in that other person; or  
+(b) a right to elect or remove a majority of the members of the board of directors of that other 
+person. 
+ 
+ 
+Denomination – Each 
+Bond: 
+The nominal amount of each Bond. 
+ 
+Denomination of each bond will be specified in the Final Terms. 
+ 
+ 
+Disbursement Date / 
+Issue Date 
+Date of bond issue.  
+ 
+On the Issue Date the bonds will be delivered to the Bondholder’s VPS-account against 
+payment or to the Bondholder’s custodian bank if the Bondholder does not have his/her own 
+VPS-account. 
+ 
+The Issue Date will be specified in the Final Terms. 
+ 
+ 
+Exchange: 
+Euronext Oslo or any regulated market as such term is understood in accordance with the 
+Markets in Financial Instruments Directive 2014/65/EU (MiFID II) and Regulation (EU) No. 
+600/2014 on markets in financial instruments (MiFIR).
+
+--- Page 30 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+30
+Final Terms: 
+Document describing securities as specified in Prospectus Regulation (EU) 2017/1129, 
+prepared as part of the Prospectus. Final Terms will be prepared for each new security as 
+specified in Prospectus Regulation (EU) 2017/1129, issued by the Issuer. 
+ 
+The template for Final Terms has been approved by the Norwegian FSA, as competent 
+authority under Regulation (EU) 2017/1129. The Norwegian FSA only approves the template 
+for Final Terms as meeting the standards of completeness, comprehensibility and consistency 
+imposed by Regulation (EU) 2017/1129. Such approval should not be considered as an 
+endorsement of the quality of the securities that are subject of the Final Terms. Investors 
+should make their own assessment as to the suitability of investing in the securities. 
+ 
+ 
+Interest Determination 
+Date(s): 
+In the case of NIBOR: Second Oslo business day prior to the start of each Interest Period. 
+ 
+Interest Determination Date(s) for other Reference Rates, see Final Terms. 
+ 
+ 
+Interest Payment 
+Date(s): 
+The Interest Rate is paid in arrears on the last day of each Interest Period.  
+ 
+Any adjustment will be made according to the Business Day Convention. 
+ 
+The Interest Payment Date(s) will be specified in the Final Terms. 
+ 
+ 
+Interest Period: 
+The first Interest Period runs from and including the Issue Date to but excluding the first 
+Interest Payment Date. The subsequent Interest Periods run from and including an Interest 
+Payment Date to but excluding the next Interest Payment Date. The last Interest Payment 
+Date corresponds to the Maturity Date. 
+ 
+ 
+Interest Rate: 
+Rate of interest applicable to the Bonds; 
+ 
+(i) 
+If Fixed Rate, the Bonds shall bear interest at the percentage rate per annum (based 
+on the Day Count Convention)  
+ 
+(ii) If FRN, the Bonds shall bear interest at a rate per annum equal to the Reference Rate 
+plus a Margin (based on the Day Count Convention). Interest Rate or Reference Rate 
+may be deemed to be zero. 
+ 
+The Interest Rate is specified in Final Terms. 
+ 
+ 
+Interest Rate 
+Adjustment Date: 
+Date(s) for adjusting of the interest rate for bond issue with floating interest rate. 
+ 
+The Interest Rate Adjustment Date will coincide with the Interest Payment Date. 
+ 
+ 
+ISIN: 
+International Securities Identification Number for the Bond Issue. ISIN is specified in Final 
+Terms. 
+ 
+ 
+Issuer: 
+Stolt-Nielsen Limited is the Issuer under the Base Prospectus. 
+ 
+ 
+Issuer’s Bonds: 
+Means any Bonds which are owned by the Issuer or any affiliate of the Issuer. 
+ 
+ 
+Issue Price: 
+The price in percentage of the Denomination, to be paid by the Bondholders at the Issue Date. 
+ 
+Issue price will be specified in Final Terms.  
+ 
+ 
+LEI-code: 
+Legal Entity Identifier (LEI), is a 20-character reference code to uniquely identify legally distinct 
+entities that engage in financial transactions. 
+ 
+LEI-code is specified in Final Terms. 
+ 
+ 
+Listing: 
+Listing of a bond issue on an Exchange is due to the Base Prospectus, any supplement(s) to 
+the Base Prospectus and a Final Terms. 
+ 
+An application for listing will be sent after the Disbursement Date and as soon as possible after 
+the Prospectus has been approved by the Norwegian FSA. 
+ 
+Bonds listed on an Exchange are freely negotiable. See also Market Making. 
+ 
+ 
+Manager(s): 
+The bond issue’s Manager(s), as specified in the Final Terms.
+
+--- Page 31 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+31
+ 
+ 
+Market Making: 
+For Bonds listed on an Exchange, a market-maker agreement between the Issuer and a 
+Manager may be entered into.  
+ 
+This will be specified in the Final Terms. 
+ 
+ 
+Margin: 
+The margin, specified in percentage points, to be added to the Reference rate. 
+ 
+Margin will be specified in the Final terms.  
+ 
+ 
+Maturity Date: 
+The date the bond issue is due for payment, if not already redeemed pursuant to Call Option or 
+Put Option. The Maturity Date coincides with the last Interest Payment Date and is adjusted in 
+accordance with the Business Day Convention.  
+ 
+The Maturity Date is specified in the Final Terms. 
+ 
+ 
+Outstanding Bonds: 
+Means any Bonds not redeemed or otherwise discharged. 
+ 
+The Issuer will issue on the Issue date the first tranche of the bond issue as specified in Final 
+Terms. During the term of the bond issue, new tranches may be issued up to the Borrowing 
+Limit, as specified in Final Terms. 
+ 
+ 
+Paying Agent: 
+The entity designated by the Issuer to manage (maintain the Issuer Account for) the bond 
+issue in the Securities Depository. 
+ 
+The Paying Agent is specified in the Final Terms. 
+ 
+ 
+Principal amount: 
+Outstanding amounts under the Loan from time to time. 
+ 
+ 
+Prospectus: 
+The Prospectus consists of the Base Prospectus, any supplement(s) to the Base Prospectus 
+and the relevant Final Terms prepared in connection with application for listing on an 
+Exchange.  
+ 
+ 
+Put Option: 
+The Final Terms may specify that upon the occurrence of a Put Option Event, each 
+Bondholder will have the right to require that the Issuer purchases all or some of the Bonds 
+held by that Bondholder. 
+ 
+In such case the exercise procedures, the repayment date and redemption price will be 
+specified in the Final Terms. 
+ 
+ 
+Put Option Event: 
+Means a Change of Control Event. 
+ 
+ 
+Redemption: 
+The Outstanding Bonds will mature in full on the Maturity Date and shall be redeemed by the 
+Issuer on the Maturity Date at a price equal to 100 per cent. of the Nominal Amount, if not 
+already redeemed pursuant to Call Option or Put Option.  
+ 
+ 
+Redemption Price: 
+The price determined as a percentage of the Denomination to which the bond issue is to be 
+redeemed at the Maturity Date.  
+ 
+Redemption Price is 100 per cent of Denomination – Each Bond. 
+ 
+ 
+Reference Rate:  
+For FRN, the Reference Rate shall be NIBOR or any other rate as specified in the Final Terms, 
+which appears on the Relevant Screen Page as at the specified time on the Interest 
+Determination Date in question. 
+ 
+The Reference Rate, the Relevant Screen Page, the specified time, information about the past 
+and future performance and volatility of the Reference Rate and any fallback provisions will be 
+specified in Final Terms.  
+ 
+ 
+Relevant Screen Page: For FRN, an internet address or an electronic information platform belonging to a renowed 
+provider of Reference Rates. 
+ 
+The Relevant Screen Page will be specified in the Final Terms. 
+ 
+ 
+Securities Depository 
+/CSD: 
+The securities depository in which the bonds are registered, in accordance with the Norwegian 
+Act of 2019 no. 6 regarding Securities depository.
+
+--- Page 32 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+32
+ 
+Unless otherwise specified in the Final Terms, the following Securities Depository will be used: 
+Norwegian Central Securities Depository (“Verdipapirsentralen” or ”VPS”), P.O. Box 4, 0051 
+Oslo. 
+ 
+ 
+Tap Issues: 
+The Issuer may, provided that the conditions set out in the Bond Terms are met, at one or 
+more occasions up until, but excluding, the Maturity Date or any earlier date when the Bonds 
+have been redeemed in full, issue Additional Bonds until the aggregate nminal amount of the 
+Bonds outstanding equals in aggregate the maximum issue amount (less the aggregate 
+nominal amount of any previously redeemed Bonds) 
+ 
+If N/A is specified in the Borrowing Limit in the Final Terms, the Issuer may not make Tap 
+issues under the Bond Terms. 
+ 
+ 
+Temporary Bonds: 
+If the Bonds are listed on an Exchange and there is a requirement for a supplement to the 
+Base Prospectus in order for the Additional Bonds to be listed together with the Bonds, the 
+Additional Bonds may be issued under a separate ISIN which, upon the approval of the 
+supplement, will be converted into the ISIN for the Bonds issued on the initial Issue Date. The 
+Bond Terms governs such Temporary Bonds. The Issuer shall inform the Bond Trustee, the 
+Exchange and the Paying Agent once such supplement is approved. 
+ 
+ 
+Yield: 
+Dependent on the Market Price for bond issue with floating rate. Yield for the first interest 
+period can be determined when the interest is known, normally two Business Days before the 
+Issue Date. 
+  
+For bond issue with fixed rate, yield is dependent on the market price and number of Interest 
+Payment Date. 
+ 
+The yield is calculated in accordance with «Anbefaling til Konvensjoner for det norske 
+sertifikat- og obligasjonsmarkedet» prepared by Norske Finansanalytikeres Forening in 
+January 2020: https://finansanalytiker.no/innlegg/januar-2020-oppdatert-konvensjon-for-det-
+norske-sertifikat-og-obligasjonsmarkedet/ 
+ 
+Yield is specified in Final Terms. 
+ 
+13.4 General terms and conditions 
+These general terms and conditions supplement the general terms and conditions set out in any Bond Terms. If 
+these general terms and conditions at any point in time no longer represents the correct understanding of the 
+general terms and conditions set out in the Bond Terms, the Bond Terms shall prevail. 
+ 
+13.4.1 Use of proceeds 
+The Issuer will use the net proceeds from the issuance of the Bonds for the general corporate purposes of the 
+Group (including, but not limited to, refinancing of existing debt). 
+ 
+Other use of proceeds will be specified in the Final Terms. 
+13.4.2 Publication 
+The Base Prospectus, any supplement(s) to the Base Prospectus and the Final Terms will be published on 
+Issuer’s website https://www.stolt-nielsen.com/en/investors/bonds/, or on the Issuer's visit address, Clarendon 
+House, 2 Church Street, Hamilton HM11, Bermuda, or their successor (s). 
+ 
+The Prospectus will be published by a stock exchange announcement. 
+ 
+13.4.3 Redemption 
+Matured interest and matured principal will be credited each Bondholder directly from the Securities Registry. 
+Claims for interest and principal shall be limited in time pursuant the Norwegian Act relating to the Limitation 
+Period Claims of 18 May 1979 no 18, p.t. 3 years for interest rates and 10 years for principal.
+
+--- Page 33 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+33
+13.4.4 Fees, Expenses and Tax legislation 
+The tax legislation of the investor’s Member State and of the Issuer’s country of incorporation may have an impact 
+on the income received from the securities. 
+ 
+The Issuer shall pay any stamp duty and other public fees in connection with the loan. Any public fees or taxes on 
+sales of Bonds in the secondary market shall be paid by the Bondholders, unless otherwise decided by law or 
+regulation. The Issuer is responsible for withholding any withholding tax imposed by Norwegian law. 
+ 
+13.4.5 Security Depository and secondary trading 
+The Bonds are electronically registered in book-entry form with the Securities Depository, see also the definition 
+of "Securities Depository". Securities Depository is specified in the Final Terms. 
+ 
+Secondary trading will be made over an Exchange for Bonds listed on a marketplace. See also definition of 
+“Market Making”. 
+ 
+Prospectus fee for the Base Prospectus including templates for Final Terms is NOK 84,000. In addition, there is a 
+listing fee for listing of the Bonds in accordance with the current price list of the Exchange. The listing fees will be 
+specified in the Final Terms.  
+ 
+13.4.6 Status of the Bonds and Security 
+The Bonds will constitute senior debt obligations of the Issuer. The Bonds will rank pari passu between 
+themselves and will rank at least pari passu with all other obligations of the Issuer (save for such claims which are 
+preferred by bankruptcy, insolvency, liquidation or other similar laws of general application). The Bonds shall rank 
+ahead of subordinated capital. 
+ 
+The Bonds are unsecured. 
+ 
+13.4.7 Bond Terms 
+The Bond Terms has been entered into between the Issuer and the Bond Trustee. The Bond Terms regulates the 
+Bondholders’ rights and obligations in relations with the bond issue. The Bond Trustee enters into the Bond 
+Terms on behalf of the Bondholders and is granted authority to act on behalf of the Bondholders to the extent 
+provided for in the Bond Terms. 
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with the CSD, the Bondholders are bound by 
+the Bond Terms and any other Finance Document, without any further action required to be taken or formalities to 
+be complied with by the Bond Trustee, the Bondholders, the Issuer or any other party. 
+ 
+The Bond Terms will be attached to the Final Terms for each Bond issue and is also available through the 
+Manager(s), Issuer and the Bond Trustee. 
+ 
+13.4.8 Legislation 
+The Bond Terms is governed by and construed in accordance with Norwegian law. The Issuer is domiciled and 
+incorporated in Bermuda. The Company is an exempted limited liability company incorporated under the 
+Companies Act 1981, as amended, of Bermuda. 
+ 
+13.4.9 Approvals 
+The Bonds will be issued in accordance with the Issuer’s Board of Directors approval. 
+ 
+The date of the Issuer’s Board of Directors approval will be specified in the Final Terms 
+ 
+The Base Prospectus has been submitted to the Norwegian Financial Supervisory Authority (Finanstilsynet) 
+before listing of the Bonds takes place. 
+ 
+Final Terms will be submitted to Finanstilsynet for information in connection with an application for listing of a 
+Bond Issue.
+
+--- Page 34 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+34
+The Base prospectus will not be the basis for offers for subscription in bonds that are not subject to a prospectus 
+obligation. 
+ 
+13.4.10 Restrictions on the free transferability of the securities 
+Any restrictions on the free transferability of the securities will be specified in the Final Terms. 
+ 
+13.5 Return and redemption 
+Bonds may have return and redemption mechanisms as explained below. The relevant Final Terms refer to these 
+mechanisms and provide relevant parameter values for the specific bond issue. 
+13.5.1 Bonds with floating rate 
+13.5.1.a Return (interest) 
+The Interest Rate is specified in Interest Rate ii). Payment of the Interest Rate is calculated on basis of the Day 
+Count Convention (b). 
+ 
+Interest Rate or Reference Rate may be deemed to be zero.  
+ 
+The period lengths are equal throughout the term of the Loan, but each Interest Payment Date is adjusted in 
+accordance with the Business Day Convention. The Interest Rate for each forthcoming period are determined two 
+Business Days prior to each Interest Payment Date based on the then current value of the Reference Rate plus 
+the Margin. 
+ 
+The Interest Rate is paid in arrears on each Interest Payment Date. The first Interest Period runs from and 
+including the Issue Date to but excluding the first Interest Payment Date. The subsequent Interest Periods run 
+from and including an Interest Payment Date to but excluding the next Interest Payment Date. The last Interest 
+Payment Date corresponds to the Maturity Date. 
+ 
+The relevant Reference Rate, the Margin, the Interest Payment Dates and the then current Interest Rate will be 
+specified in the applicable Final Terms. 
+ 
+Interest calculation method for secondary trading is given by act/360, modified following. 
+ 
+13.5.1.b Redemption 
+Redemption is made in accordance with Redemption. 
+ 
+13.5.2 Bonds with fixed rate 
+13.5.2.a Return (interest) 
+The interest rate is specified in Interest Rate (i). Payment of the the Interest Rate is calculated on basis of the Day 
+Count Convention (a).  
+ 
+The Interest Rate is paid in arrears on each Interest Payment Date. The first Interest Period runs from and 
+including the Issue Date to but excluding the first Interest Payment Date. The subsequent Interest Periods run 
+from and including an Interest Payment Date to but excluding the next Interest Payment Date. The last Interest 
+Payment Date corresponds to the Maturity Date. 
+ 
+The Interest Rate and the Interest Payment Dates will be specified in the applicable Final Terms. 
+ 
+Interest calculation method for secondary trading is given by act/365 for bond issue with fixed rate.  
+ 
+13.5.2.b Redemption 
+Redemption is made in accordance with Redemption. 
+ 
+13.6 Rating 
+There is no official rating of the Issuer.  
+ 
+ 
+13.7 Final Terms 
+Template for Final Terms for fixed and floating bond issue, see Appendix 2
+
+--- Page 35 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+35
+Cross reference list 
+Reference in 
+Base 
+Prospectus 
+Refers to 
+Details 
+10.1 Financial 
+statements 
+Annual Report 2019, available at 
+https://www.stolt-
+nielsen.com/en/investors/reports-
+presentations/ 
+Stolt-Nielsen Limited’s consolidated accounting 
+policies, pages 57-66 
+ 
+Stolt-Nielsen Limited’s accounting policies, 
+pages 119-120 
+ 
+ 
+Annual Report 2019, available at 
+https://www.stolt-
+nielsen.com/en/investors/reports-
+presentations/ 
+Stolt-Nielsen Limited Consolidated 
+Consolidated Income Statement page 52 
+Consolidated Balance Sheet page 54 
+Consolidated Statement of Cash Flows page 56 
+Notes to the Consolidated Financial Statements 
+pages 57-112 
+ 
+Stolt-Nielsen Limited 
+Income Statement page 114 
+Balance Sheet page 116 
+Statement of Cash Flows page 118 
+Notes to the Financial Statements pages 119-127 
+ 
+ 
+First half-year 2020 
+Stolt-Nielsen Limited Consolidated 
+Consolidated Income Statement page 12 
+Consolidated Balance Sheet page 14 
+Consolidated Statement of Cash Flows page 16 
+Notes to the Consolidated Financial Statements 
+pages 17-31 
+ 
+10.2 Auditing of 
+historical 
+annual financial 
+information 
+Annual Report 2019, available at 
+https://www.stolt-
+nielsen.com/en/investors/reports-
+presentations/ 
+Auditors report pages 47-51 
+ 
+ 
+ 
+ 
+ 
+References to the documents mentioned above are limited to information given in “Details”, e.g. that the non- 
+incorporated parts are either not relevant for the investor or covered elsewhere in the prospectus.
+
+--- Page 36 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+36
+Joint Lead Managers’ disclaimer 
+ 
+Danske Bank A/S, Norwegian Branch, DNB Bank ASA, Nordea Bank AB (publ), Norwegian Branch and 
+Skandinaviska Enskilda Banken AB (publ), the Joint Lead Managers, have assisted the Company in preparing the 
+Base Prospectus. The Joint Lead Managers have not verified the information contained herein. Accordingly, no 
+representation, warranty or undertaking, expressed or implied, is made and the Joint Lead Managers expressly 
+disclaim any legal or financial liability as to the accuracy or completeness of the information contained in this Base 
+Prospectus or any other information supplied in connection with the issuance or distribution of bonds by Stolt-
+Nielsen Limited. The statements made in this paragraph are without prejudice to the responsibility of the Company. 
+ 
+This Base Prospectus is subject to the general business terms of the Joint Lead Managers, available at their 
+websites. Confidentiality rules and internal rules restricting the exchange of information between different parts of 
+the Joint Lead Managers may prevent employees of the Joint Lead Managers who are preparing this Base 
+Prospectus from utilizing or being aware of information available to the Joint Lead Managers and/or any of its 
+affiliated companies and which may be relevant to the recipient's decisions. 
+ 
+Each person receiving this Base Prospectus acknowledges that such person has not relied on the Joint Lead 
+Managers, nor on any person affiliated with it in connection with its investigation of the accuracy of such information 
+or its investment decision. 
+ 
+Trondheim / Oslo, 5 February 2021 
+ 
+ 
+Joint Lead Managers: 
+ 
+ 
+Danske Bank A/S, 
+Norwegian branch 
+(www.danskebank.no) 
+DNB Bank ASA 
+(www.dnb.no) 
+Nordea Bank AB (publ), 
+Norwegian branch 
+(www.nordea.no) 
+Skandinaviska Enskilda 
+Banken AB (publ) 
+(www.seb.no)
+
+--- Page 37 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+37
+Annex 1 Memorandum and Articles of Association for Stolt-
+Nielsen Limited
+
+--- Page 38 ---
+FORMNO.6 
+Registration No. 44330 
+BERMUDA 
+CERTIFICATE OF INCORPORATION 
+I hereby in accordance with section 14 of the Companies Act 1981 issue this 
+Certificate of Incorporation and do certify that on the 11th day of June 2010 
+Stolt-Nielsen Limited 
+was registered by me in the Register maintained by me under the provisions of 
+the said section and that the status of the said company is that of a exempted 
+company. 
+Given under my hand and the Seal of 
+the REGISTRAR OF COMPANIES 
+this rs" day of June 2010 
+egistrar of Companie
+
+--- Page 39 ---
+FORM NO. 2 
+BERMUDA 
+THE COMPANIES ACT 1981 
+MEMORANDUM OF ASSOCIATION OF 
+COMPANY LIMITED BY SHARES 
+(Section 7(1) and (2)) 
+MEMORANDUM OF ASSOCIATION 
+OF 
+Stolt-Nielsen Limited 
+(hereinafter referred to as "the Company") 
+1. 
+The liability of the members of the Company is limited to the amount (if any) for the time 
+being unpaid on the shares respectively held by them. 
+2. 
+We, the undersigned, namely, 
+NAME 
+ADDRESS 
+BERMUDIAN 
+NATIONALITY 
+NUMBER OF 
+STATUS 
+SHARES 
+(Yes/No) 
+SUBSCRIBED 
+Alison R. Guilfoyle Clarendon House 
+No 
+British 
+One 
+2 Church Street 
+Hamilton HM 11 
+Bermuda 
+David J. Doyle 
+" 
+Yes 
+British 
+One 
+Christopher G. Garrod " 
+Yes 
+British 
+One 
+do hereby respectively agree to take such number of shares of the Company as may be allotted to us 
+respectively by the provisional directors of the Company, not exceeding the number of shares for 
+which we have respectively subscribed, and to satisfy such calls as may be made by the directors, 
+provisional directors or promoters of the Company in respect of the shares allotted to us respectively.
+
+--- Page 40 ---
+3. 
+The Company is to be an exempted company as defined by the Companies Act 1981 (the 
+"Act"). 
+4. 
+The Company, with the consent of the Minister of Finance, has power to hold land situate in 
+Bermuda not exceeding_ 
+in all, including the following parcels:- NIA 
+5. 
+The authorised share capital of the Company is US$100.00 divided into shares of US$1.00 
+each. 
+6. 
+The objects for which the Company is formed and incorporated are unrestricted. 
+7. 
+The following are provisions regarding the powers of the Company- 
+Subject to paragraph 4, the Company may do all such things as are incidental or conducive to 
+the attainment of its objects and shall have the capacity, rights, powers and privileges of a 
+natural person, and: - 
+(i) 
+pursuant to Section 42 of the Act, the Company shall have the power to issue 
+preference shares which are, at the option of the holder, liable to be redeemed; 
+(ii) pursuant to Section 42A of the Act, the Company shall have the power to purchase its 
+own shares for cancellation; and 
+(iii) pursuant to Section 42B of the Act, the Company shall have the power to acquire its 
+own shares to be held as treasury shares.
+
+--- Page 41 ---
+bscriber in the presence of at least one witness attesting the signature thereof 
+.................................................................. 
+(Subscribers) 
+(Witnesses) 
+SUBSCRIBED this II""~ 
+'J J~ 
+Ullo
+
+--- Page 42 ---
+Stolt-Nielsen Limited, 5 February 2021 
+ 
+Base Prospectus 
+ 
+ 
+38
+Annex 2 Template for Final Terms for fixed and floating rate 
+Bonds
+
+--- Page 43 ---
+[Annex 2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Base prospectus 
+ 
+ 
+ 
+ 
+ 
+Final Terms 
+ 
+for 
+ 
+[Title of the bond issue] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bermuda, [Date]
+
+--- Page 44 ---
+Stolt-Nielsen Limited 
+ 
+Final Terms - [Title of the Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+2  
+Terms used herein shall be deemed to be defined as such for the purpose of the conditions set forth in the Base 
+Prospectus clauses 2 Definitions and 13.3 Definitions, these Final Terms and the attached Bond Terms. 
+ 
+ 
+[In case MiFID II identified target group are professional investors and eligible counterparties, insert the following:] 
+MiFID II product governance / Professional investors and ECPs only target market – Solely for the purposes 
+of [the/each] manufacturer’s product approval process, the target market assessment in respect of the Bonds has 
+led to the conclusion that: (i) the target market for the Bonds is eligible counterparties and professional clients 
+only, each as defined in Directive 2014/65/EU (as amended, “MiFID II”); and (ii) all channels for distribution of the 
+Bonds to eligible counterparties and professional clients are appropriate. [Consider any negative target market]. 
+Any person subsequently offering, selling or recommending the Bonds (a “distributor”) should take into 
+consideration the manufacturer[’s/s’] target market assessment; however, a distributor subject to MiFID II is 
+responsible for undertaking its own target market assessment in respect of the Bonds (by either adopting or 
+refining the manufacturer[‘s/s’] target market assessment) and determining appropriate distribution channels. 
+ 
+[PROHIBITION OF SALES TO EEA AND UK RETAIL INVESTORS - The Bonds are not intended to be offered, 
+sold or otherwise made available to and should not be offered, sold or otherwise made available to any retail 
+investor in the European Economic Area (“EEA”) or in the United Kingdom (the “UK”). For these purposes, a retail 
+investor means a person who is one (or more) of: (i) a retail client as defined in point (11) of Article 4(1) of MiFID 
+II; or (ii) a customer within the meaning of Directive (EU) 2016/97 (the “Insurance Distribution Directive”) where 
+that customer would not qualify as a professional client as defined in point (10) of Article 4(1) of MiFID II; or (iii) 
+not a qualified investor as defined in the Prospectus Directive. Consequently no key information document 
+required by Regulation (EU) No 1286/2014 (the “PRIIPs Regulation”) for offering or selling The Bonds or 
+otherwise making them available to retail investors in the EEA or in the UK has been prepared and therefore 
+offering or selling The Bonds or otherwise making them available to any retail investor in the EEA or in the UK 
+may be unlawful under the PRIIPs Regulation.] 
+ 
+[In case MiFID II identified target group are retail investors, professional investors and eligible counterparties, 
+insert the following:] 
+MiFID II product governance / Retail investors, professional investors and ECPs target market – Solely for 
+the purposes of each manufacturer’s product approval process, the target market assessment in respect of the 
+Bonds has led to the conclusion that: (i) the target market for the Bonds is eligible counterparties, professional 
+clients and retail clients each as defined in Directive 2014/65/EU (as amended, “MiFID II”); (ii) all channels for 
+distribution to eligible counterparties and professional clients are appropriate; and (iii) the following channels for 
+distribution of the Bonds to retail clients are appropriate – investment advice, portfolio management, non-advised 
+sales and pure execution services – subject to the distributor’s suitability and appropriateness obligations under 
+MiFID II, as applicable.  Any person subsequently offering, selling or recommending the Bonds (a “distributor”) 
+should take into consideration the manufacturers’ target market assessment; however, a distributor subject to 
+MiFID II is responsible for undertaking its own target market assessment in respect of the Bonds (by either 
+adopting or refining the manufacturers’ target market assessment) and determining appropriate distribution 
+channels, subject to the distributor’s suitability and appropriateness obligations under MiFID II, as applicable. 
+ 
+This document constitutes the Final Terms of the Bonds described herein pursuant to the Regulation (EU) 
+2017/1129 and must be read in conjunction with the Base Prospectus dated 5 February 2021 and [the 
+supplement[s] to the Base Prospectus dated [date]].  
+ 
+The Base Prospectus dated 5 February 2021 [and the supplement[s] to the Base Prospectus dated [date]] 
+[together] constitute[s] a base prospectus for the purposes of the Regulation (EU) 2017/1129 ([together,] the 
+“Base Prospectus”). 
+ 
+Final Terms include a summary of each Bond Issue. 
+ 
+These Final Terms and the Base Prospectus [and the supplement[s] to the Base Prospectus] are available on the 
+Issuer's website https://www.stolt-nielsen.com/en/, or on the Issuer's visit address, Clarendon House, 2 Church 
+Street, Hamilton HM11, Bermuda, or their successor (s).
+
+--- Page 45 ---
+Stolt-Nielsen Limited 
+ 
+Final Terms - [Title of the Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+3  
+1 Summary  
+The below summary has been prepared in accordance with the disclosure requirements in Article 7of in the 
+Regulation (EU) 2017/1129 as of 14 June 2017. 
+ 
+Introduction and warning 
+Disclosure requirement 
+Disclosure 
+Warning 
+This summary should be read as introduction to the Base 
+Prospectus. Any decision to invest in the securities should be 
+based on consideration of the Base Prospectus as a whole by the 
+investor. The investor could lose all or part of the invested capital.  
+Where a claim relating to the information contained in the Base 
+Prospectus is brought before a court, the plaintiff investor might, 
+under the national law, have to bear the costs of translating the 
+Base Prospectus before the legal proceedings are initiated. Civil 
+liability attaches only to those persons who have tabled the 
+summary including any translation thereof, but only where the 
+summary is misleading, inaccurate or inconsistent, when read 
+together with the other parts of the Base Prospectus, or where it 
+does not provide, when read together with the other parts of the 
+prospectus, key information in order to aid investors when 
+considering whether to invest in such securities. 
+Name and international securities 
+identification number (‘ISIN’) of the 
+securities. 
+[●] 
+Identity and contact details of the issuer, 
+including its legal entity identifier (‘LEI’). 
+Stolt-Nielsen Limited, Clarendon House, 2 Church Street, 
+Hamilton HM11, Bermuda.  
+Telephone number is +441 292-7337.  
+Registration number EC44330. 
+LEI-code ((legal entity identifier): 213800VZX4LWJSGRLR94. 
+Identity and contact details of the offeror or 
+of the person asking for admission to trading 
+on a regulated market. 
+There is no offeror, the Base Prospectus has been produced in 
+connection with listing of the securities on an Exchange. The 
+Issuer is going to ask for admission to trading on a regulated 
+market. 
+Identity and contact details of the competent 
+authority that approved the prospectus 
+Financial Supervisory Authority of Norway (Finanstilsynet), 
+Revierstredet 3, 0151 Oslo.   
+Telephone number is +47 22 83 39 50.  
+E-mail: prospekter@finanstilsynet.no. 
+Date of approval of the prospectus. 
+The Base Prospectus was approved on 5 February 2021. 
+ 
+Key information on the Issuer 
+Disclosure requirements 
+Disclosure 
+Who is the issuer of the securities 
+ 
+Domicile and legal form 
+The Company is domiciled and incorporated in Bermuda. The 
+Company is an exempted limited liability company incorporated 
+under the Companies Act 1981, as amended, of Bermuda. 
+Principal activities 
+The Issuer is a long-term investor and manager of businesses 
+focused on opportunities in logistics, distribution and aquaculture. 
+The Stolt-Nielsen portfolio consists of its three bulk-liquid and 
+chemicals logistics businesses – Stolt Tankers, Stolthaven 
+Terminals and Stolt Tank Containers – Stolt Sea Farm and 
+investments in LNG.  
+Major shareholders 
+ 
+ 
+List of 15 major shareholders as of 31 October 2020:
+
+--- Page 46 ---
+Stolt-Nielsen Limited 
+ 
+Final Terms - [Title of the Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+4  
+ 
+ 
+There are no arrangements, known to the Company, the operation of which may at a subsequent date result in a 
+change in control of the Company.  
+ 
+Management 
+Name  
+Position  
+ 
+Niels G. Stolt-Nielsen 
+Chief Executive Officer  
+ 
+Jens F. Grüner-Hegge 
+Chief Financial Officer 
+ 
+Lucas Vos 
+President, Stolt Tankers 
+ 
+Guy Bessant 
+President, Stolthaven Terminals 
+ 
+Michael Kramer 
+President, Stolt Tank Containers 
+ 
+Jordi Trias 
+President, Stolt Sea Farm 
+ 
+Bill Bryant 
+Managing Director, AOAC and 
+MEA regions 
+ 
+Peter Koenders 
+Chief Information Officer 
+ 
+Anne van Dassen 
+Müller 
+ 
+Chief Human Resources Officer 
+ 
+Nick Webb 
+General Counsel 
+ 
+Statutory auditors 
+PwC 
+ 
+What is the key financial information 
+regarding the issuer 
+ 
+Key financial information
+
+--- Page 47 ---
+Stolt-Nielsen Limited 
+ 
+Final Terms - [Title of the Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+5  
+Stolt-Nielsen Limited Consolidated 
+Amounts in USD thousand 
+First half-year 2020 
+2019 
+Operating profit 
+66,977 
+175,082 
+Net financial debt (long term debt plus 
+short term debt minus cash) 
+2,337,762 
+2,209,375 
+Net Cash flows from operating activities 
+169,341 
+277,723 
+Net Cash flows from financing activities 
+14,750 
+-77,521 
+Net Cash flow from investing activities 
+-82,108 
+-122,895 
+ 
+Stolt-Nielsen Limited 
+Amounts in USD thousand 
+2019 
+Operating profit 
+-1,808 
+Net financial debt (long term debt plus 
+short term debt minus cash) 
+1,514,850 
+Net Cash flows from operating activities 
+213,221 
+Net Cash flows from financing activities 
+-212,923 
+Net Cash flow from investing activities 
+-300 
+ 
+2019 covers the period 1 December 2018 – 30 November 2019. 
+First half-year 2020 covers the period 1 December 2019 – 31 May 2020. 
+   
+There is no description of any qualifications in the audit report for the Annual Report 2019. 
+ 
+What are the key risk factors that are specific 
+to the issuer 
+ 
+Most material key risk factors  
+ 
+ 
+1 Tanker industry risk 
+ 
+2 Bunker fuel and freight costs 
+ 
+3 Terminal Projects Development Risk 
+ 
+4 Value of biological assets at Stolt Sea Farm 
+ 
+5 Gas Carrier Industry Risk 
+.  
+6 Stolt Tank Containers 
+ 
+7 Regulatory risk. 
+ 
+8 Political and geopolitical risk 
+ 
+9 Disease outbreaks and pandemic risks 
+ 
+10 Market and global economic risk 
+ 
+ 
+Key information on the securities 
+Disclosure requirements 
+Disclosure 
+What are the main features of the securities 
+ 
+Description of the securities, including ISIN 
+code. 
+[●] 
+Currency for the bond issue 
+[●] 
+Borrowing Limit and Borrowing Amount  
+ [● tranche] 
+[●] 
+Denomination – Each Bond 
+[●] 
+Any restrictions on the free transferability of 
+the securities. 
+[●] 
+Description of the rights attached to the 
+securities, limitations to those rights and 
+ranking of the securities. 
+[●] 
+Information about Issue and Maturity Date, 
+interest rate, instalment and representative 
+[●]
+
+--- Page 48 ---
+Stolt-Nielsen Limited 
+ 
+Final Terms - [Title of the Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+6  
+of the bondholders 
+Status of the bonds and security 
+[●] 
+Where will the securities be traded 
+ 
+Indication as to whether the securities 
+offered are or will be the object of an 
+application for admission to trading. 
+[●]  
+What are the key risks that are specific to the 
+securities 
+ 
+Most material key risks 
+ 
+General risks 
+Modification and Waiver  
+The conditions of the Bonds contain provisions for calling meetings of bondholders to consider matters affecting 
+their interests generally. These provisions permit defined majorities to bind all bondholders including bondholders 
+who did not attend and vote at the relevant meeting and bondholders who voted in a manner contrary to the 
+majority. 
+ 
+ 
+Key information on the admission to trading on a regulated marked 
+Disclosure requirements 
+Disclosure 
+Under which conditions and timetable can I 
+invest in this security? 
+ [●] 
+ 
+The estimate of total expenses related to the admission to 
+trading, please see clause 13.4.5 in the Base Prospectus. 
+ 
+[/ Other: (specify)] 
+ 
+Listing fee Euronext Oslo [●] 
+Registration fee Euronext Oslo [●] 
+ 
+Why is the prospectus being produced 
+In connection with listing of the securities on the Euronext 
+Oslo. 
+Reasons for the admission to trading on a 
+regulated marked and use of. 
+Use of proceeds [●] 
+ 
+Estimated net amount of the proceeds [●] 
+ 
+Description of material conflicts of interest to 
+the issue including conflicting interests. 
+[●]
+
+--- Page 49 ---
+Stolt-Nielsen Limited 
+ 
+Final Terms - [Title of the Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+7  
+2 Detailed information about the security 
+ 
+Generally: 
+ 
+ISIN code: 
+[ISIN] 
+ 
+ 
+The Loan/The Bonds: 
+[Title of the bond issue] 
+ 
+ 
+Borrower/Issuer: 
+Stolt-Nielsen Limited, a company incorporated under the laws of 
+Bermuda with registration number EC44330, and with LEI 
+number 213800VZX4LWJSGRLR94 
+ 
+ 
+Group: 
+Means the Issuer and its subsidiaries from time to time. 
+ 
+Security Type: 
+[Secured/unsecured] [open] bond issue with [fixed/floating] rate 
+ 
+Borrowing Limit – Tap Issue: 
+[Currency]  
+[Amount borrowing limit]  
+ 
+ 
+Borrowing Amount [●] tranche: 
+[Currency]   
+ [Amount [●] tranche]  
+ 
+ 
+  
+Denomination – Each bond: 
+[Currency] 
+[Amount denomination] - each and ranking pari 
+passu among themselves 
+ 
+ 
+Securities Form: 
+As set out in the Base Prospectus clause 13.1. 
+ 
+ 
+Publication: 
+As specified in the Base Prospectus section 13.4.2. 
+ 
+ 
+Issue Price: 
+[As defined in the Base Prospectus section 13.3 
+ 
+[Issue price] % 
+ 
+ 
+Disbursement Date/Issue Date: 
+[As defined in the Base Prospectus section 13.3 
+ 
+[Issue date] 
+ 
+ 
+Maturity Date: 
+[As defined in the Base Prospectus section 13.3 
+ 
+[Maturity Date] 
+ 
+ 
+Interest Rate: 
+ 
+Interest Bearing from and Including: 
+[Issue date 
+ 
+/ Other: (specify)] 
+ 
+ 
+Interest Bearing To: 
+[As defined in the Base Prospectus section 13.3 
+ 
+[Maturity Date] 
+ 
+/ Other: (specify)] 
+ 
+ 
+Reference Rate: 
+[As defined in the Base Prospectus section 13.3 
+ 
+Floating rate: [NIBOR / EURIBOR] [3 / 6 / 12] months  
+ 
+[description of Reference Rate] 
+ 
+Relevant Screen Page: [Relevant Screen Page] 
+ 
+Specified time: [specified time] 
+ 
+Information about the past and future performance and volatility of the 
+Reference Rate is available at [Relevant Screen Page / other: (specify)] 
+ 
+Fallback provisions: [Provisions] 
+ 
+/ Other: (specify)]
+
+--- Page 50 ---
+Stolt-Nielsen Limited 
+ 
+Final Terms - [Title of the Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+8  
+ 
+/ Fixed Rate: N/A] 
+ 
+ 
+Margin: 
+[As defined in the Base Prospectus section 13.3 
+ 
+Floating Rate: [Margin] % p.a. 
+ 
+/ Fixed Interest: N/A 
+ 
+/ Other: (specify)] 
+ 
+ 
+Interest Rate: 
+[Bond issue with floating rate (as defined in the Base Prospectus section 
+13.3): [Reference Rate + Margin] % p.a. 
+ 
+Current Interest Rate: [current interest rate] 
+ 
+/ Bond Issue with fixed rate (as defined in the Base Prospectus section 
+13.3): [Interest rate] % p.a. 
+ 
+ 
+ 
+Day Count Convention: 
+[Floating Rate: As defined in the Base Prospectus section 13.3 
+/ Fixed Rate: As defined in the Base Prospectus section 13.3 
+ 
+ 
+ 
+Day Count Fraction – Secondary 
+Market: 
+[Floating Rate: As specified in the Base Prospectus section 13.5.1.a 
+/ Fixed Rate: As specified in the Base Prospectus section 13.5.2.a  
+ 
+ 
+ 
+Interest Determination Date: 
+[Floating Rate: As defined in the Base Prospectus section 13.3.  
+ 
+Interest Rate Determination Date: [Interest Rate Determination Date(s)] 
+each year.  
+ 
+/ Fixed rate: N/A 
+ 
+/ Other: (specify)] 
+ 
+ 
+Interest Rate Adjustment Date: 
+[Floating Rate: As defined in the Base Prospectus section 13.3.  
+ 
+/ Fixed rate: N/A] 
+ 
+ 
+Interest Payment Date: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.5.1 (FRN) / section 13.5.2 (fixed rate) 
+ 
+Interest Payment Date: [Date(s)] each year.  
+ 
+The first Interest Payment Date is [Date].  
+ 
+ 
+#Days first term: 
+[Number of interest days] days 
+ 
+ 
+Yield: 
+As defined in the Base Prospectus section 13.3. 
+ 
+The Yield is [yield]  
+ 
+ 
+Business Day: 
+As defined in the Base Prospectus section 13.3. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Amortisation and Redemption: 
+ 
+Redemption: 
+As defined in the Base Prospectus section 13.3 and as specified in the 
+Base Prospectus section 13.4.3, 13.5.1.b and 13.5.2.b. 
+ 
+The Maturity Date is [maturity date] 
+ 
+ 
+Call Option: 
+As defined in the Base Prospectus section 13.3. 
+ 
+[terms of the call option]
+
+--- Page 51 ---
+Stolt-Nielsen Limited 
+ 
+Final Terms - [Title of the Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+9  
+ 
+Call Date(s): [call date(s)] 
+ 
+Call Price(s): [call price(s)] 
+ 
+Call Notice Period: [call notice period] 
+ 
+Put Option: 
+As defined in the Base prospectus section 13.3. 
+ 
+[terms of the put option] 
+ 
+ 
+Obligations: 
+ 
+Issuer’s special obligations during the 
+term of the Bond Issue: 
+As specified in the Base Prospectus section 13.4.6. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Listing: 
+ 
+Listing of the Bond Issue/Marketplace: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.5. 
+ 
+Exchange for listing of the Bonds: [Exchange] 
+ 
+/ The Bonds will not be applied for listing on any Exchange. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Any restrictions on the free 
+transferability of the securities: 
+ 
+As specified in the Base prospectus section 13.4.10. 
+ 
+Restrictions on the free transferability of the securities: [specify] 
+ 
+ 
+Purpose/Use of proceeds: 
+As specified in the Base Prospectus section 13.4.1. 
+ 
+Estimated total expenses related to the offer: [specify] 
+ 
+Estimated net amount of the proceeds: [specify] 
+ 
+Use of proceeds: [specify] 
+ 
+[Other: (specify)] 
+ 
+ 
+Prospectus and Listing fees: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.5. 
+ 
+Listing fees: [specify] 
+ 
+/ Other: (specify)] 
+ 
+ 
+Market-making: 
+As defined in the Base Prospectus section 13.3. 
+ 
+[A market-making agreement has been entered into between the Issuer 
+and [name of market maker]] 
+ 
+/ Other: (specify)] 
+ 
+ 
+Approvals: 
+As specified in the Base Prospectus section 13.4.9. 
+ 
+Date of the Board of Directors’ approval: [date] 
+ 
+/ Other: (specify)] 
+ 
+ 
+Bond Terms: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.7.  
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with 
+the CSD, the Bondholders are bound by the Bond Terms and any other 
+Finance Document, without any further action required to be taken or 
+formalities to be complied with by the Bond Trustee, the Bondholders,
+
+--- Page 52 ---
+Stolt-Nielsen Limited 
+ 
+Final Terms - [Title of the Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+10  
+the Issuer or any other party. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Status and security: 
+As specified in the Base Prospectus section 13.4.5.  
+ 
+/ Other: (specify)] 
+ 
+ 
+Bondholders’ meeting/ 
+Voting rights: 
+As defined in the Base Prospectus section 13.3. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Availability of the Documentation: 
+https://www.stolt-nielsen.com/en/investors/bonds/   
+ 
+ 
+Manager(s): 
+[name of manager[s]] as [type of manager] 
+ 
+ 
+Bond Trustee: 
+As defined in the Base prospectus section 13.3. 
+ 
+Paying Agent: 
+As defined in the Base prospectus section 13.3. 
+ 
+The Paying Agent is [name of the Paying Agent] 
+ 
+ 
+Securities Depository / CSD: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.5 
+ 
+/ Other: (specify)] 
+ 
+ 
+Calculation Agent: 
+[As defined in the Base Prospectus section 13.3 
+ 
+/ Other: (specify)]  
+ 
+ 
+Listing fees: 
+Prospectus fee for the Base Prospectus including template for Final 
+Terms is NOK 88,000. 
+ 
+[Listing and other fees at the Exchange: (specify)  
+ 
+/ No listing: N/A]
+
+--- Page 53 ---
+Stolt-Nielsen Limited 
+ 
+Final Terms - [Title of the Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+11  
+3 Additional information 
+Advisor 
+The Issuer has mandated [name of manager[s]] as [type of manager] for the issuance of the Loan. The [type of 
+manager] [has/have] acted as advisor[s] to the Issuer in relation to the pricing of the Loan. 
+ 
+The [type of manager] will be able to hold position in the Loan.  
+ 
+/ Other: (specify)] 
+ 
+Interests and conflicts of interest 
+[The involved persons in the Issuer or offer of the Bonds have no interest, nor conflicting interests that are 
+material to the Bond Issue. 
+ 
+/ Other: (specify)] 
+ 
+Rating 
+[There is no official rating of the Loan. 
+ 
+/ Other: (specify)]  
+ 
+Listing of the Loan: 
+[As defined in the Base Prospectus section 13.3] 
+ 
+The Prospectus will be published in [country]. An application for listing at [Exchange] will be sent as soon as 
+possible after the Issue Date. Each bond is negotiable. 
+ 
+Statement from the [type of manager]: 
+[name of manager[s]] [has/have] assisted the Issuer in preparing the prospectus. The [type of manager] 
+[has/have] not verified the information contained herein. Accordingly, no representation, warranty or undertaking, 
+express or implied, is made, and the [type of manager] expressively disclaim[s] any legal or financial liability as to 
+the accuracy or completeness of the information contained in this prospectus or any other information supplied in 
+connection with bonds issued by the Issuer or their distribution. The statements made in this paragraph are 
+without prejudice to the responsibility of the Issuer. Each person receiving this prospectus acknowledges that 
+such person has not relied on the [type of manager] nor on any person affiliated with them in connection with its 
+investigation of the accuracy of such information or its investment decision. 
+ 
+[place], [date] 
+ 
+ 
+[name of manager[s]] 
+[web address of manager[s]]

@@ -1,0 +1,2491 @@
+--- Page 1 ---
+1 
+Datum för Finansinspektionens 
+godkännande av Prospektet: 
+29 november 2023 
+ 
+Diarienummer: 
+ 
+23-29137  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Swedbank Hypotek AB (publ) 
+”Bolaget” 
+Program för bostadsobligationer 
+”Programmet” 
+ 
+ 
+ 
+Emissionsinstitut: 
+Danske Bank 
+Handelsbanken Capital Markets 
+Nordea 
+SEB 
+Swedbank AB 
+ 
+ 
+ 
+Detta grundprospekt är daterat och godkänt av Finansinspektionen den 29 november 2023 och är 
+giltigt under en period om 12 månader efter dagen för godkännandet. Skyldigheten att tillhandahålla 
+tillägg till grundprospektet i fall av nya omständigheter av betydelse, sakfel eller väsentliga 
+felaktigheter gäller inte efter det att grundprospektets giltighetstid har löpt ut.
+
+--- Page 2 ---
+2 
+VIKTIG INFORMATION 
+Detta prospekt tillsammans med eventuella tillägg till det och varje dokument som blivit del av det genom 
+hänvisning (“Prospektet”) utgör ett grundprospekt och har godkänts och registrerats av Finansinspektionen i 
+enlighet med artikel 20 i Europaparlamentets och Rådets förordning (EU) 2017/1129 av den 14 juni 2017 om 
+prospekt som ska offentliggöras när värdepapper erbjuds till allmänheten eller tas upp till handel på en 
+reglerad marknad, och om upphävande av direktiv 2003/71/EG. Prospektet gäller i 12 månader efter den dag 
+som Prospektet godkändes av Finansinspektionen. 
+Ord och uttryck som används i detta Prospekt har den innebörd som framgår av avsnittet Allmänna Villkor 
+nedan (”Allmänna Villkor”) om inte annat framgår av sammanhanget. Prospektet ska läsas tillsammans med 
+eventuella tillägg till Prospektet, varje dokument som blivit en del av Prospektet genom hänvisning samt 
+slutliga villkor (”Slutliga Villkor”) för aktuellt lån. Prospektet inklusive eventuella tillägg och de dokument som 
+blivit 
+en 
+del 
+av 
+Prospektet 
+genom 
+hänvisning 
+finns 
+tillgängliga 
+på 
+Bolagets 
+hemsida, 
+http://hypotek.swedbank.se.  
+Detta Prospekt utgör inte ett erbjudande att förvärva Obligationer och får inte vidarebefordras, reproduceras 
+eller göras tillgängligt i eller till något land där sådan publicering eller distribution skulle förutsätta att någon 
+ytterligare dokumentation upprättas eller registrering sker eller att någon annan åtgärd företas utöver vad 
+som krävs enligt svensk rätt, eller där detta skulle strida mot tillämpliga lagar eller regleringar i sådant land. 
+Personer som får tillgång till detta dokument är skyldiga att informera sig om, och iaktta, sådana 
+begränsningar. Åtgärder i strid med restriktionerna kan utgöra brott mot tillämplig värdepapperslagstiftning. 
+Obligationer emitterade under Prospektet har inte registrerats, och kommer inte att registreras, enligt United 
+States Securities Act 1933. Obligationer får inte överlåtas eller erbjudas till försäljning i USA eller till person 
+med hemvist där eller för sådan persons räkning. 
+Investerare får endast förlita sig på informationen i detta Prospekt samt eventuella tillägg till detta Prospekt. 
+Ingen person involverad i något erbjudande i enlighet med detta Prospekt har fått tillstånd att lämna någon 
+annan information eller göra några andra uttalanden än de som finns i detta Prospekt och, om så ändå sker, 
+ska sådan information eller sådana uttalanden inte anses ha godkänts av Bolaget och Bolaget ansvarar inte 
+för sådan information eller sådana uttalanden. 
+Obligationerna som ges ut av Bolaget under detta Program (”Obligationerna”) är inte en lämplig investering 
+för alla investerare. Varje investerare bör därför anlita sina egna professionella rådgivare och utvärdera 
+lämpligheten av en investering i Obligationerna mot bakgrund av sina förutsättningar. Varje investerare bör 
+särskilt: (a) ha tillräcklig kunskap och erfarenhet för att kunna göra en ändamålsenlig utvärdering av (i) de 
+relevanta Obligationerna, (ii) möjligheter och risker i samband med en investering i de relevanta 
+Obligationerna samt (iii) informationen som finns i, eller är infogad genom hänvisning till, detta Prospekt eller 
+eventuella tillägg; (b) ha tillgång till, och kunskap om, lämpliga analytiska verktyg för att, mot bakgrund av sin 
+egen finansiella situation, kunna utvärdera en investering i de relevanta Obligationerna samt den inverkan 
+som en sådan investering kommer att ha på investerarens totala investeringsportfölj; (c) ha tillräckliga 
+finansiella medel och likvida tillgångar för att kunna bära de risker som en investering i de relevanta 
+Obligationerna medför, inbegripet när valutan för lånebelopp eller ränta avviker från investerarens valuta; (d) 
+till fullo förstå villkoren för Obligationerna och vara väl förtrogen med beteendet hos relevanta index och 
+finansiella marknader; samt (e) vara kapabel att utvärdera (själv eller med hjälp av finansiell rådgivare) möjliga 
+scenarion för ekonomiska, räntenivårelaterade eller andra faktorer som kan påverka investeringen och 
+möjligheterna att bära riskerna. 
+Prospektet innehåller viss framåtriktad information som återspeglar Bolagets aktuella syn på framtida 
+händelser samt finansiell och operativ utveckling. Alla indikationer eller förutsägelser avseende framtida 
+utveckling eller trender utgör framåtriktad information. Framåtriktad information är till sin natur förenad med 
+såväl kända som okända risker och osäkerhetsfaktorer eftersom den är avhängig framtida händelser och 
+omständigheter. Framåtriktad information utgör inte någon garanti avseende framtida resultat eller utveckling 
+och verkligt utfall kan komma att väsentligen skilja sig från vad som uttalas. Framåtriktad information i detta 
+Prospekt gäller endast per dagen för Prospektets offentliggörande. Bolaget lämnar inga utfästelser om att 
+offentliggöra uppdateringar eller revideringar av framåtriktad information till följd av ny information, framtida 
+händelser eller liknande omständigheter annat än vad som följer av tillämplig lagstiftning.
+
+--- Page 3 ---
+3 
+INNEHÅLL 
+1. 
+Beskrivning av Programmet ........................................................................................ 4 
+2. 
+Riskfaktorer .................................................................................................................. 7 
+3. 
+Säkerställda obligationer ........................................................................................... 14 
+4. 
+Allmänna Villkor ......................................................................................................... 18 
+5. 
+Mall för Slutliga Villkor ............................................................................................... 29 
+6. 
+Allmänt om Bolaget ................................................................................................... 34 
+7. 
+Övrig information ....................................................................................................... 43
+
+--- Page 4 ---
+4 
+1. 
+Beskrivning av Programmet 
+1.1 
+ÄNDAMÅL 
+Programmet gör det möjligt för Bolaget att löpande ge ut Obligationer på de villkor och enligt de metoder 
+som beskrivs i detta Prospekt i syfte att låna upp medel för att användas i Bolagets verksamhet. 
+1.2 
+OBLIGATIONSVILLKOREN 
+1.2.1 Allmänt 
+De fullständiga villkoren för en Obligation består av de Allmänna Villkor för bostadsobligationer som 
+återges i detta Prospekt tillsammans med individuellt bestämda villkor för ett visst obligationslån vilka 
+framgår av en handling benämnd ”Slutliga Villkor” och som utgör en del av detta Prospekt. Obligationer 
+ges antingen ut i enlighet med lagen (2003:1223) om utgivning av säkerställda obligationer (”LUSO”) 
+och omfattas av särskild förmånsrätt enligt 3 a § förmånsrättslagen (1970:979), eller som icke-
+säkerställda obligationer utan förmånsrätt enligt 18 § förmånsrättslagen med rätt till betalning jämsides 
+med Bolagets övriga icke säkerställda och icke efterställda betalningsförpliktelser i den mån inte annat 
+är föreskrivet i lag.  
+1.2.2 Senarelagd Återbetalningsdag 
+För Obligationer som ges ut enligt LUSO kan, om ”Senarelagd Återbetalningsdag” anges som 
+”tillämpligt” i Slutliga Villkor för en Obligation, Bolaget senarelägga Återbetalningsdagen till att infalla 
+tolv (12) månader eller annan sådan tidpunkt efter den ursprungliga Återbetalningsdagen under 
+förutsättning att i) Finansinspektionen lämnat godkännande avseende Senarelagd Återbetalningsdag 
+på den grunden att Finansinspektionen bedömt det som sannolikt att en förlängning av löptiden kan 
+motverka att Bolaget kommer på obestånd eller på annan rättslig grund som framgår av LUSO; och ii) 
+den Senarelagda Återbetalningsdagen anges i Slutliga Villkor. 
+1.2.3 Ändring av villkor under Obligationernas löptid 
+Fordringshavare som tillsammans representerar viss andel av utestående lånebelopp avseende viss 
+Obligation kan i enlighet med de Allmänna Villkoren för Obligationerna under vissa förutsättningar 
+besluta om att träffa avtal med Bolaget om förändringar i de ursprungliga villkoren som är bindande för 
+alla Fordringshavare.  
+1.3 
+OM OBLIGATIONERNA 
+1.3.1 Ränteberäkning 
+För Obligationer med räntekonstruktion FRN fastställer Bolaget räntesatsen för respektive Ränteperiod 
+på respektive Räntebestämningsdag och räntan utgörs av STIBOR, eller någon referensränta som 
+ersätter STIBOR i enlighet med de Allmänna Villkoren för Obligationerna, med tillägg av 
+Räntemarginalen för samma period. För Obligationer med Fast ränta löper lånet med ränta enligt 
+Räntesatsen.  
+1.3.2 Avkastning 
+Avkastning på en Obligation följer av det pris som Obligationen förvärvas, den räntesats som gäller för 
+obligationslånet samt eventuellt courtage eller andra kostnader för köpet av Obligationen. Eftersom 
+priset för en Obligation bestäms genom överenskommelse mellan parterna vid varje köp eller annan 
+transaktion går avkastningen inte att fastställa i förväg.
+
+--- Page 5 ---
+5 
+1.4 
+MARKNAD, EMISSIONSBELOPP, PRISSÄTTNING MM 
+1.4.1 Marknad och målgrupp 
+Obligationerna är avsedda för den svenska kapitalmarknaden. Det finns inga villkor i Obligationerna 
+som hindrar fordringshavaren från att fritt överlåta dessa. 
+I förhållande till varje emission av Obligationer kommer en målmarknadsbedömning att göras för 
+Obligationerna samt lämpliga distributionskanaler för Obligationerna bestämmas. En person som 
+senare erbjuder, säljer eller rekommenderar Obligationerna (en ”distributör”) bör beakta 
+målmarknadsbedömningen. En distributör som träffas av direktiv 2014/65/EU (”MiFID II”) är dock skyldig 
+att genomföra sin egen målmarknadsbedömning för Obligationerna (genom att antingen tillämpa eller 
+anpassa producentens målmarknadsbedömning) och att fastställa lämpliga distributionskanaler. 
+Enligt 
+MiFID:s 
+produktstyrningskrav 
+under 
+det 
+delegerade 
+direktivet 
+2017/593 
+(”MiFID:s 
+produktstyrningskrav”), ska det i förhållande till varje emission fastställas huruvida Swedbank AB (publ) 
+(”Ledarbanken”) eller något Emissionsinstitut som medverkar vid emissionen av Obligationerna är en 
+producent av sådana Obligationer. Varken Ledarbanken, Emissionsinstituten eller någon av deras 
+respektive dotterbolag som inte medverkar vid en emission, kommer att anses vara producenter enligt 
+MiFID:s produktstyrningskrav. 
+1.4.2 Emissionsbelopp och emissionsperiod 
+När Bolaget ger ut Obligationer under Programmet sker detta genom att Obligationerna ges ut i 
+varierande antal och i den valör i SEK som anges i Slutliga Villkor eller i hela multiplar därav, vid ett eller 
+flera tillfällen under lånets löptid beroende bland annat på Bolagets upplåningsbehov och efterfrågan på 
+Obligationerna. Det finns vanligen ingen i förväg bestämd övre beloppsgräns för ett obligationslån. Dock 
+fastställs kapitalbeloppet för Obligation som ges ut och kan handlas under respektive obligationslån.  
+Bolaget äger under obligationslånets löptid kontinuerligt ge ut säkerställda obligationer i angiven valör 
+och enligt de övriga villkor som gäller för respektive obligationslån. Säkerställda obligationer som ges ut 
+under visst obligationslån har identiska villkor (samma lånenummer, återbetalningsdag, ränta, 
+ränteförfallodag, ISIN-kod etc) och är i alla avseenden likställda (fungibla) med övriga obligationer som 
+givits ut under lånet (”tap-emissioner”).  
+Det totala antalet säkerställda obligationer som ges ut under ett visst obligationslån kan komma att 
+öka som en följd av tap-emissioner varför emitterad volym och totalt antal obligationer som tas upp till 
+handel under ett obligationslån inte på förhand är känt för Bolaget och kan slutligen fastställas först 
+när försäljningen av nya obligationer under obligationslånet har upphört. 
+Aktuell uppgift om emitterat belopp avseende ett visst obligationslån publicerar Ledarbanken löpande 
+på sin hemsida (https://www.swedbank.com/investor-relations/debt-investors/debt-issues/covered-
+bonds.html (informationen på hemsidan utgör inte en del av detta Prospekt)). Utestående volymer 
+offentliggörs för närvarande även på Nasdaq och Bloomberg.  
+Bolaget förbehåller sig rätten att när som helst avsluta eller göra uppehåll med emissionerna. 
+1.4.3 Prissättning 
+Priset för Obligationerna bestäms genom överenskommelse mellan parterna när Obligationerna ges ut 
+av Bolaget eller distribueras via Emissionsinstituten. Eftersom säkerställda obligationer kan komma att 
+ges ut löpande under en längre tid under samma obligationslån är det inte möjligt att ange en enhetlig 
+försäljningskurs eller något annat fast pris för dessa obligationer.  
+Priset räknas ut vid varje tap-tillfälle genom att med aktuell marknadsränta diskontera alla framtida 
+kassaflöden baserat på obligationens kupongränta. Hänsyn tas då också till upplupen kupongränta (jfr. 
+Riksgäldens räkneexempel för nominella obligationer:
+
+--- Page 6 ---
+6 
+https://www.riksgalden.se/globalassets/dokument_sve/skuld/rakneexempel/nominella-obligationer-
+2023.pdf (informationen på hemsidan utgör inte en del av detta Prospekt)). 
+Eftersom Obligationer som ges ut under en tap-emission är fungibla med redan utgivna 
+skuldförbindelser under obligationslånet erhåller investeraren i en tap-emission samma rätt till 
+räntebetalning på följande ränteförfallodag som övriga investerare i Obligationen, även om Obligationen 
+är utestående endast en del av ränteperioden. Detta förhållande reflekteras i priset på en Obligation 
+under en tap-emission. 
+1.4.4 Betalning och leverans 
+Tider och eventuella andra villkor för betalning och leverans bestäms genom överenskommelse mellan 
+parterna när Obligationerna ges ut av Bolaget eller distribueras via Emissionsinstituten.
+
+--- Page 7 ---
+7 
+2. 
+Riskfaktorer 
+Innan en investerare beslutar sig för att förvärva Obligationer emitterade av Bolaget är det viktigt att 
+noggrant analysera de riskfaktorer som bedöms vara av betydelse för Bolagets och Obligationernas 
+framtida utveckling. Nedan beskrivs de riskfaktorer som bedöms vara väsentliga för Bolaget. Det finns 
+risker både vad avser omständigheter som är hänförliga till Bolaget eller branschen och risker förenade 
+med Obligationerna. Bolagets bedömning av väsentligheten för varje riskfaktor baseras på 
+sannolikheten för deras inträffande och den förväntade omfattningen av deras negativa effekter. 
+Redogörelsen nedan är baserad på information som är tillgänglig per dagen för detta Prospekt.  
+Riskfaktorerna presenteras i kategorier där de mest väsentliga riskfaktorerna i en kategori presenteras 
+först under den kategorin. Efterföljande riskfaktorer i samma kategori rangordnas inte efter väsentlighet 
+eller sannolikhet för inträffande. Då en riskfaktor kan kategoriseras i mer än en kategori visas en sådan 
+riskfaktor endast en gång och i den mest relevanta kategorin för en sådan riskfaktor. 
+2.1 
+RISKER RELATERADE TILL BOLAGETS FÖRMÅGA ATT INFRIA SINA FÖRPLIKTELSER I 
+ENLIGHET MED OBLIGATIONERNA 
+ 
+2.1.1 Makroekonomiska och andra omvärldsrisker 
+Risker relaterade till Sverige och den svenska bolånemarknaden 
+Under ett flertal år har Sverige haft låga räntor med realräntor på bolån som sjunkit från 8,8 procent till 
+0,5 procent mellan 1995 och 2021, en historiskt låg inflation de senaste tio åren, stigande bostadspriser 
+och ökade disponibla hushållsinkomster, vilket har lett till en stabil tillväxt i efterfrågan på lån, särskilt på 
+bostadslånemarknaden. Efterfrågan på bostäder har ökat snabbt i Sverige, delvis till följd av snabb 
+befolkningstillväxt men också en urbanisering som bidragit till en ökad efterfrågan på bostäder i 
+storstadsområden och andra tillväxtregioner. Bostadspriserna har följt med i denna utveckling, även om 
+covid-pandemin initialt innebar ett hack i kurvan, och har mer än tredubblats sedan 2000. Under andra 
+kvartalet 2022 bröts dock den uppåtgående trenden då bostadspriserna började sjunka. Efter en mindre 
+uppgång första halvåret 2023 är bostadspriserna ned med -13 procent i juni jämfört med toppnoteringen 
+i mars 2022. Samtidigt som bostadspriserna sjunkit har även antalet bostadstransaktioner och 
+efterfrågan på bolån minskat. Nedgången har skett mot bakgrund av stigande priser på bland annat mat 
+och energi vilket har lett till väsentligt högre inflation. För att motverka den höga inflationen har den 
+svenska centralbanken i snabb takt höjt styrräntan vilket på kort tid har lett till kraftigt stigande 
+bolåneräntor. Bolåneräntorna har ökat från i genomsnitt ungefär 1,5 procent i januari 2022 till drygt 3 
+procent i juni 2023 och under samma period har räntan för nya bolån stigit från i genomsnitt ungefär 1,4 
+procent till drygt 4 procent. De stigande kostnaderna för hushållen var initialt ett resultat av hög 
+efterfrågan efter att pandemin bedarrat och samhällen öppnats upp. Problematiken med stigande priser 
+och inflation eskalerade sedan när Ryssland startade sitt anfallskrig mot Ukraina. Som svar på 
+invasionen införde västvärlden en mängd sanktioner gentemot Ryssland, vilka Ryssland besvarade med 
+egna sanktioner på vissa råvaror. Denna sanktionspolitik har resulterat i bland annat stigande 
+energipriser, vilket har resulterat i volatila och stundtals mycket höga priser på el och drivmedel i Sverige.   
+Trots den osäkra bostadsmarknaden och höga kostnader för bland annat energi och mat, vilket inte har 
+kompenserats av stigande löner, och osäkra framtidsutsikter så tar köpare fortfarande bostadslån och 
+köper bostäder, om än i lägre omfattning än tidigare. Delmarknaden för nyproducerade 
+bostadsrättslägenheter har bromsat in kraftigt under 2022 och 2023 och förväntas vara fortsatt svag de 
+närmsta åren. Bostadspriserna drivs till stor del av en långsiktig stark underliggande efterfrågan i 
+kombination med många år av låg nyproduktion av bostäder i Sverige. Hushållens skuldsättning sjönk 
+till 195 procent av den disponibla inkomsten jämfört med 199 procent i slutet av 2021, enligt Sveriges 
+centralbanks stabilitetsrapport från andra kvartalet 2023. Lägre genomsnittlig skuldsättning beror
+
+--- Page 8 ---
+8 
+framför allt på en kombination av sjunkande efterfrågan på nya bolån och en högre amorteringstakt på 
+bolån.   
+De svenska hushållen är för närvarande pessimistiska om utsikterna för sin egen privatekonomi. Ett par 
+viktiga faktorer framöver för bostadspriserna och hushållens ekonomi är energiprisernas, i synnerhet 
+priset på el, samt bolåneräntornas utveckling. En annan mycket viktig faktor för hushållens ekonomi är 
+arbetslösheten som förväntas stiga något i ett läge där svensk ekonomi för närvarande befinner sig i en 
+lågkonjunktur. Svensk ekonomi är i grunden stark och många svenska företag redovisar fortfarande 
+goda resultat och med en efterfrågan på kompetent arbetskraft. 
+Nya legala och fiskala krav, såsom ytterligare ökade amorteringskrav, höga krav på dyrbara 
+energieffektiviseringar av bostäder eller högre beskattning av fastigheter, riskerar att ha en negativ 
+inverkan på bostadspriserna, särskilt i storstadsområden där fastigheternas marknadsvärden är högre, 
+och bidra till en minskning av utlåningstillväxten. Vidare kan en potentiell åtstramning av 
+penningpolitiken förväntas hålla tillbaka bostadsprisutvecklingen. Alla sådana förändringar kan 
+medverka till en minskad efterfrågan på nya lån i allmänhet, inklusive lån som kan komma från Bolaget. 
+Bolaget hade per den 30 juni 2023 en marknadsandel på drygt 22 procent av Sveriges 
+bostadslånemarknad. Om marknadsräntorna skulle höjas utan att Bolaget kan överföra höjningen till 
+kunderna skulle det ha en negativ inverkan på Bolagets resultat. Om de legala kraven på 
+bolånekunderna ökar i den omfattning att efterfrågan på nya lån understiger den årliga 
+amorteringstakten skulle det ha en negativ inverkan på Bolagets verksamhet. Om räntorna skulle höjas, 
+de legala kraven skulle öka och efterfrågan på nya lån, som en följd av detta, skulle minska avsevärt, 
+skulle detta ha en negativ inverkan på dess verksamhet och dess resultat. 
+Risker relaterade till störningar i den internationella kapitalmarknaden 
+Som långivare är Bolaget utsatt för risker relaterade till de globala kapitalmarknaderna och ekonomin, 
+eftersom långivare, både i Sverige och globalt, är beroende av att den globala kapitalmarknaden och 
+ekonomin är välfungerande, så att människor är villiga och har möjlighet ta lån. För Bolaget är risken 
+specifikt kopplad till framför allt kundernas vilja och förmåga att köpa nya bostäder med hjälp av lån från 
+Bolaget. Varje störning eller nedgång på de globala kapitalmarknaderna och ekonomin riskerar att 
+påverka Bolaget negativt, både avseende på finansiella resultat och tillväxtmöjligheter. Varje nedgång i 
+ekonomin tillsammans med en ökning av arbetslöshet bidrar till en ökning av risken. 
+Kapitalmarknaderna är vidare föremål för perioder av hög volatilitet som kan påverka Bolagets 
+möjligheter att finna finansiering. Sådana störningar medför ofta ökade kreditspreadar och minskad 
+likviditet i marknaderna med delvis bristande öppenhet i prissättningen som följd. Förändringar på de 
+internationella marknaderna, såsom ändrade räntor eller valutakurser, minskande avkastning från 
+aktier, fastigheter och andra investeringar, riskerar att få en negativ påverkan på Bolagets verksamhet 
+och resultat. Dessutom kan Bolagets finansiella utveckling påverkas negativt av försämrade allmänna 
+ekonomiska förhållanden på de marknader där Bolaget verkar.  
+2.1.2 Risker relaterade till Bolagets verksamhet 
+Som ett resultat av den löpande affärsverksamheten är Bolaget exponerat mot ett antal olika risker, av 
+vilka de väsentliga och specifika är kreditrisk, likviditetsrisk, marknadsrisk, operativ risk, och ESG-risk 
+samt Bolagets beroende av Banken. Banken tillsammans med sina dotterbolag benämns häri som 
+(”Koncernen”) för sin verksamhet. Riskerna beskrivs i detalj nedan. 
+Kreditrisk 
+Som ett resultat av att Bolaget bedriver bolåneverksamhet är Bolaget exponerat för kreditrisk. Kreditrisk 
+är risken för att en kredittagare inte fullgör sina förpliktelser mot Bolaget samt risken för att ställda 
+säkerheter inte täcker fordran. Kreditrisk inkluderar även motpartsrisk, koncentrationsrisk och
+
+--- Page 9 ---
+9 
+avvecklingsrisk. Motpartsrisk är risken för att en motpart i en finansiell transaktion inte fullgör sina 
+finansiella åtaganden gentemot Bolaget och att säkerheter som erhållits inte är av tillräcklig storlek för 
+att täcka utestående fordran på motparten. Med finansiell transaktion avses här repor och derivat. 
+Koncentrationsrisken utgörs bland annat av stora exponeringar eller koncentration i kreditportföljen till 
+specifika motparter, sektorer eller geografier. Avvecklingsrisk är risken att en motpart inte fullgör sitt 
+åtagande innan Bolaget fullgör sitt i samband med att en transaktion går till förfall (leverans/betalning).  
+Om ovan angivna kreditrisker förverkligas i en betydande omfattning kan det leda till kreditförluster för 
+Bolaget. De totala kreditförlusterna under 2022 hade en negativ effekt om 303 SEKm i resultaträkningen. 
+Första halvåret 2023 hade Bolagets totala kreditförluster en negativ effekt om 274 SEKm, motsvarande 
+en kreditförlustnivå om 0,02 procent. Trots rådande lågkonjunktur med hög inflation och stigande räntor 
+är Bolagets kreditförluster och osäkra fordringar ännu kvar på låga nivåer, vilka dock kan komma att 
+öka i händelse av att en lågkonjunktur eller andra komplikationer uppstår i samhället. 
+Risker relaterade till förändringar av Bolagets utsikter att få tillbaka investerade medel vid lån och andra 
+fordringar på motparter är inneboende risker i affärsverksamheten. Negativa förändringar av 
+kreditkvaliteten hos Bolagets låntagare och motparter på grund av en generell ekonomisk nedgång, 
+systemrisker i det finansiella systemet eller på grund av fallande värden på säkerheter, påverkar värdet 
+på Bolagets tillgångar och därmed också möjligheterna att få tillbaka investeringen. Sådana förändringar 
+skulle kunna påverka Bolagets finansiella resultat. 
+En konjunkturförsämring på de marknader där Bolaget är verksamt påverkar kreditkvaliteten i Bolagets 
+exponeringar mot företagskunder negativt. Återbetalningsförmågan för privatpersoner påverkas främst 
+av ökad arbetslöshet. De faktiska kreditförlusterna varierar över en konjunkturcykel. Högre nivåer av 
+kreditförluster över konjunkturcykeln än vad som historiskt kunnat påvisas kan uppstå. Vid en sådan 
+situation skulle en nödvändig ökning av Bolagets reserveringar för befarade kreditförluster och 
+konstaterade kreditförluster utöver vad som redan reserverats få en väsentlig påverkan på Bolagets 
+affärsverksamhet, finansiella ställning och resultat. 
+I värsta fall kan detta leda till att Bolaget hamnar på obestånd och inte kan betala tillbaka sin skuld till 
+Fordringshavarna i enlighet med villkoren för Obligationen. 
+Likviditetsrisk 
+Likviditetsrisk är risken för att Bolaget inte kan uppfylla sina betalningsförpliktelser vid respektive 
+förfallotidpunkt. Ett kreditinstituts, inklusive Bolagets, oförmåga att förutse och förbereda sig för en 
+oväntad minskning eller förändring i upplåningskällor kan få konsekvenser för dess förmåga att uppfylla 
+sina betalningsförpliktelser vid förfall. 
+Bolagets upplåningsmöjligheter och andra möjligheter att finansiera sig påverkas av ett flertal faktorer. 
+Exempelvis skulle en faktisk eller förväntad försämring av Bolagets kreditbetyg, stora finansiella 
+förluster, rykten eller marknadsprisförändringar som påverkar storleken på likviditetsreserverna 
+försämra Bolagets upplåningsmöjligheter. Vissa av dessa faktorer kommer även öka Bolagets 
+upplåningsbehov eftersom Bolagets motparter kräver högre säkerheter för att genomföra transaktioner 
+med Bolaget. Utöver detta skulle volymen på Bolagets upplåningskällor, huvudsakligen avseende 
+långfristig upplåning, komma att begränsas under perioder av ansträngd likviditet. Turbulens i den 
+globala ekonomin och finansiella marknader skulle påverka Bolagets likviditet och vissa motparters vilja 
+att genomföra affärer med Bolaget, vilket kommer leda till negativ påverkan på Bolagets 
+affärsverksamhet, finansiella ställning och resultat. Vilken del som påverkas mest givet materialisering 
+av ett sådant scenario beror på om motparternas förändrade vilja att göra affärer med Bolaget resulterar 
+i en dyrare långfristig upplåning, vilket påverkar den finansiella ställningen eller att motparter inte längre 
+vill köpa långfristiga obligationer, vilket får en påverkan på affärsverksamheten.
+
+--- Page 10 ---
+10 
+Bolagets utlåning, det vill säga lån som beviljas till Bolagets kunder, har vanligtvis avtalat förfall bortom 
+förfall på motsvarande upplåning, vilket gör Bolaget beroende av dess möjligheter att löpande 
+refinansiera förfallande skulder med ny upplåning. 
+Marknadsrisk 
+Med marknadsrisk avses risken för att Bolagets resultat, eget kapital eller värde minskar på grund av 
+förändringar i prisnivåer på finansiella marknader. Marknadsrisk inkluderar ränterisk, valutakursrisk, 
+aktiekursrisk och råvarurisk samt risker från förändringar i volatiliteter och korrelationer. Bolagets 
+marknadsrisker utgörs av ränte- och valutakursrisker. 
+Ränterisken i Bolagets verksamhet uppkommer som en följd av skillnaden i utlåningsportföljens och 
+upplåningens genomsnittliga räntebindningsperiod. Bolagets fasträntetillgångar består huvudsakligen 
+av lån. Bolagets valutarisk uppkommer i samband med att Bolagets utlåning i SEK delvis finansieras 
+med upplåning i andra valutor.  
+Om för Bolaget relevanta marknadsriskfaktorer förändras på ett ofördelaktigt sätt kan detta ha en 
+potentiell inverkan på Bolagets affärsverksamhet, finansiella ställning och resultat. Exempelvis kan 
+förändrade räntor och valutakurser leda till dyrare upplåning i andra valutor. Ett annat exempel är att 
+förändrade räntor kan påverka räntenettot. Ränterisken uttryckt som känsligheten på ekonomiskt värde 
+för ett ränteskifte upp med 1 procent har under 2022 varierat mellan 435 SEKm och 1986 SEKm mätt 
+på daglig basis. 
+Operativ risk 
+I Bolaget definieras operativ risk som risken för förluster, avbrott i affärsprocesser, negativ 
+ryktespåverkan till följd av otillräckliga eller bristfälliga interna processer, mänskliga fel, felaktiga system 
+eller externa händelser. I operativa risker inkluderas också risk för externa händelser som inte täcks av 
+något annat riskslag. Operativa risker är indelade i undergruppen. En incident definieras som en 
+avvikelse i en affärsprocess som resulterar i ett oväntat resultat av en affär. En incident kan vara 
+potentiell eller reell; påverka liv och hälsa, ryktesspridning, störning i affärsprocess, ha finansiell 
+påverkan eller vara negativ för en eller flera privatpersoner. En operativ förlust definieras som den 
+kvantifierbara finansiella påverkan incidenten kan ha på Bolagets vinst och, förlust och/eller på 
+aktieägarnas kapital i Bolaget. 
+De operativa riskerna är framför allt IT och informationssäkerhetsrisk, inklusive risken för att IT-system 
+fallerar, risken för att Banken och sparbankerna inte kan fullgöra sina åtaganden mot extern part och 
+risken för att externa hot begränsar tillgängligheten.  
+Ett allvarligt avbrott i IT-systemen skulle ha en väsentlig negativ påverkan på Bolagets möjlighet att 
+fullgöra åtaganden i bolagsspecifika system, såsom ett reskontrasystem och system för registerföring 
+avseende Bolagets säkerhetsmassa, vilket används för rapportering, uppföljning och administration. Om 
+data från reskontran skulle försenas, påverkas bokföringsprocessen och myndighetsrapportering. Om 
+uppdateringen från systemet för registerföring skulle försenas avsevärt finns det risk att Bolaget inte fullt 
+kan leverera på kraven i LUSO. Bolaget skulle då anses kunna ha allvarligt åsidosatt sina skyldigheter 
+enligt LUSO eller andra författningar som reglerar dess verksamhet och då finns det ytterst en risk att 
+Finansinspektionen återkallar Bolagets tillstånd att ge ut säkerställda obligationer.  
+Bolaget är beroende av Banken för sin verksamhet 
+Bolaget har anlitat Banken för utförande av stora delar av Bolagets verksamhet. Ansvaret för utförande 
+av dessa uppgifter har lagts på Banken genom outsourcing och utförandet av uppgifterna har integrerats 
+i Bankens övriga verksamhet. Exempelvis har Bolaget inget eget försäljningsnätverk utan utlåningen 
+sker via Bankens och sparbankernas kontorsnätverk. Vidare har Bolaget ingen egen funktion för 
+upplåning utan Bolagets finansiering hanteras av Bankens centrala upplåningsfunktion. Om Banken
+
+--- Page 11 ---
+11 
+skulle sluta att utföra dessa tjänster eller på annat sätt brista i sina åtaganden gentemot Bolaget, eller 
+om en försämring av Bankens namn och rykte också skulle försämra den allmänna uppfattningen om 
+Bolaget, så skulle det kunna få negativ inverkan på Bolagets verksamhet, finansiella ställning och 
+resultat samt dess förmåga att infria sina åtaganden gentemot innehavare av Obligationerna.
+
+--- Page 12 ---
+12 
+2.2 
+RISKER RELATERADE TILL OBLIGATIONERNA 
+ 
+2.2.1 Risker förknippade med Obligationerna 
+Benchmarkförordningen 
+STIBOR och andra referensräntor har varit föremål för lagstiftarens uppmärksamhet. Detta har resulterat 
+i ett antal lagstiftningsåtgärder varav vissa redan har implementerats och andra är på väg att 
+implementeras. Europaparlamentets och Rådets förordning (EU) 2016/1011 av den 8 juni 
+(”Benchmarkförordningen”) trädde ikraft den 1 januari 2018 och reglerar tillhandahållande av 
+referensvärden, rapportering av dataunderlag för referensvärden och användningen av referensvärden 
+inom EU. I och med att förordningen inte tillämpats i sin helhet kan inte dess effekter fullt ut bedömas 
+vid tidpunkten för upprättande av Prospektet. Det finns dock en påtaglig risk att Benchmarkförordningen 
+kommer påverka hur vissa referensräntor bestäms och utvecklas. Vidare kan de ökade administrativa 
+kraven och de därtill kopplade regulatoriska kraven leda till att aktörer inte vill medverka vid bestämning 
+av referensräntor eller att vissa referensräntor helt upphör att publiceras. Om så sker för en 
+referensränta som tillämpas för viss Obligation skulle det kunna ha väsentligt negativ effekt på 
+avkastningen på en innehavares Obligationer. 
+Enligt vad som framgår av Allmänna Villkor kan STIBOR komma att ersättas för det fall en 
+Triggerhändelse inträffar, vilket inkluderar att STIBOR upphör att beräknas eller administreras. 
+Investerarens marknadsrisk 
+Investerarens marknadsrisk utgörs främst av ränterisk för Obligationer med fast ränta. Investeringar i 
+Obligationer med fast ränta innebär en risk för att en förändring av marknadsräntan väsentligt påverkar 
+värdet på Obligationerna negativt, eftersom värdet av fastränteinstrumentet delvis är en funktion av 
+instrumentets kupongränta i förhållande till den rådande marknadsräntan. Detta innebär att om 
+marknadsräntan ökar, så minskar värdet av en Obligation med fasträntekonstruktion och om 
+marknadsräntan minskar, så ökar värdet av en Obligation med fasträntekonstruktion. Om värdet på 
+Obligationer med fast ränta väsentligen påverkas negativt, kan en sådan investerare förlora en stor del 
+av sin investering. 
+Nedskrivning eller konvertering och andra konsekvenser av resolution 
+Lagen (2015:1016) om resolution (”resolutionslagen”) trädde ikraft den 1 februari 2016 och införlivar 
+Europaparlamentets och Rådets direktiv 2014/59/EU (”krishanteringsdirektivet”) i svensk rätt samt de 
+ändringar som började gälla 2021 genom Europaparlamentets och Rådets direktiv 2019/879/EU. 
+Resolutionslagen innehåller regler som ger Riksgäldskontoret (”resolutionsmyndigheten”) rätt att 
+försätta en systemviktig bank eller annat kreditinstitut, som bedöms vara - eller snart komma - på 
+obestånd, i så kallad resolution. Resolution är ett nytt sätt att hantera en kris i ett systemviktigt 
+kreditinstitut, vilket innebär att Riksgäldskontoret tar kontroll över institutet och rekonstruerar det. Under 
+rekonstruktionsprocessen har Riksgäldskontoret vidsträckta befogenheter som bland annat innefattar 
+att skriva ner Bolagets skulder eller konvertera dem till eget kapital, med den följden att innehavare av 
+Obligationer och andra fordringsbevis inte längre kan göra sin fordran gällande. Säkerställda 
+obligationer som Bolaget ger ut, bland annat under detta Program, är dock undantagna från sådan 
+nedskrivning eller konvertering till den del sådana obligationer täcks av tillgångarna i säkerhetsmassan. 
+Dock är eventuella restskulder i säkerställda obligationer eller obligationslån som inte har status av 
+säkerställda obligationer inte undantagna från nedskrivning eller konvertering. Utöver nedskrivning och 
+konvertering kan Riksgäldskontoret också stoppa betalningar från Bolaget, hindra dess avtalsparter från 
+att säga upp avtal eller göra kvittningar samt ändra förfallodagar, räntesatser och andra villkor i Bolagets 
+upplåning. I vilken grad resolutionslagen eller ändringar i lagen genom Rådets direktiv 2019/879/EU kan 
+påverka Obligationerna är oviss och skulle kunna ha en betydande negativ effekt på Obligationerna.
+
+--- Page 13 ---
+13 
+2.2.2 Riskfaktorer som endast gäller säkerställda obligationer 
+Säkerställda obligationer har särskild förmånsrätt i de tillgångar som ingår i Bolagets säkerhetsmassa 
+enligt LUSO. Säkerställda obligationer har dessutom under vissa förutsättningar rätt att erhålla betalning 
+vid de tidpunkter och med de belopp som framgår av obligationsvillkoren även om Bolaget skulle gå i 
+konkurs.  
+Bristande uppfyllande av matchningsreglerna 
+Enligt LUSO måste Bolaget uppfylla vissa matchningskrav avseende säkerhetsmassan och utgivna 
+säkerställda obligationer. För att uppfylla dessa matchningskrav får Bolaget ingå derivatavtal. För att 
+ingå derivatavtal är Bolaget beroende av tillgängligheten av derivatmotparter med tillräckligt högt 
+kreditbetyg och att derivatmotparter fullföljer sina kontraktuella åtaganden. 
+Bristande uppfyllelse av matchningsreglerna innebär vid Bolagets konkurs att tillgångarna i 
+säkerhetsmassan inte längre hålls åtskilda, utan vanliga regler för konkursförfarande tillämpas. 
+Betalning utgår då inte längre enligt obligationsvillkoren utan istället enligt konkurslagens regler. Detta 
+kan medföra att innehavare inte får full betalning, samt att betalning kan ske såväl i förtid som med 
+dröjsmål. Dock kvarstår förmånsrätten i säkerhetsmassan. I den mån säkerhetsmassan inte täcker 
+säkerställda obligationer och derivatavtal kvarstår fordringarna i konkursen och kan bevakas som 
+oprioriterade fordringar. Kvarstående fordringar rankas lika (pari passu) med övriga oprioriterade, icke 
+efterställda fordringar. 
+Försämring av belåningsgraden  
+Om värdet på den egendom som utgör säkerhet för tillgångarna i säkerhetsmassan minskar avsevärt, 
+till exempel genom fallande bostadspriser, och Bolaget inte vidtar åtgärder för att återställa förhållandet 
+mellan säkerställda obligationer och säkerhetsmassan, finns det risk att Bolaget inte kan erlägga full 
+betalning till innehavarna av de säkerställda obligationerna.  
+Senarelagd Återbetalningsdag 
+För Obligationer som ges ut enligt LUSO kan Senarelagd Återbetalningsdag, för det fall det framgår av 
+Slutliga Villkor för ett Lån, vara tillämpligt. Om Senarelagd Återbetalningsdag är tillämpligt kan 
+återbetalningsdagen för hela Lånet skjutas upp till att infalla tolv (12) månader eller annan sådan 
+tidpunkt efter den ursprungliga Återbetalningsdagen. För investerare innebär detta att löptiden för ett 
+Lån i vissa fall kan komma att förlängas, vilket kan få negativa effekter för berörda investerare.
+
+--- Page 14 ---
+14 
+3. 
+Säkerställda obligationer 
+Avsnittet gäller endast för säkerställda obligationer. Nedan ges en kort sammanfattning av vissa delar 
+av LUSO, enligt dess lydelse vid tidpunkten för offentliggörandet av detta Prospekt. Framställningen är 
+inte avsedd att vara en uttömmande beskrivning av LUSO eller dess tolkning eller tillämpning. Se även 
+avsnitt 2.2.2 (Riskfaktorer som endast gäller säkerställda obligationer).  
+3.1. 
+INLEDNING 
+Sedan LUSO trädde i kraft den 1 juli 2004 kan svenska banker, kreditmarknadsföretag och emittenter 
+som har Finansinspektionens tillstånd ge ut säkerställda obligationer. 
+I LUSO definieras säkerställda obligationer som obligationer och andra jämförbara skuldförbindelser 
+som är förenade med förmånsrätt i vissa av emittentens tillgångar (”Säkerhetsmassan”), vilka ska 
+noteras i ett register som förs av emittenten. Förmånsrätten gäller, i händelse av emittentens konkurs, 
+till förmån för innehavare av säkerställda obligationer och omfattar tillgångarna i Säkerhetsmassan. 
+Även motparter i derivatavtal, med vilka avtal ingåtts i syfte att uppfylla de i LUSO föreskrivna 
+matchningskraven (se avsnitt 3.7 Matchningsregler nedan), omfattas av förmånsrätten. 
+Säkerhetsmassan utgör en rörlig tillgångsmassa såtillvida att emittenten kan lägga till eller byta ut 
+tillgångar i Säkerhetsmassan. 
+Ytterligare regler som gäller för utgivning av säkerställda obligationer finns i de av Finansinspektionen, 
+med stöd av förordningen (2004:332) om utgivning av säkerställda obligationer, utfärdade detaljerade 
+föreskrifter och allmänna råd rörande säkerställda obligationer (FFFS 2013:1), senast uppdaterade 
+genom FFFS 2022:12. 
+Regleringen av säkerställda obligationer finns framförallt i LUSO och i förmånsrättslagen (1970:979). 
+Det finns ingen rättspraxis att tillgå vad gäller LUSO. Förändringar och tillägg i nämnda lagar kan komma 
+att inverka på villkoren för säkerställda obligationer. 
+Som en del i den s.k. kapitalmarknadsunionen har ett nytt direktiv, direktiv (EU) 2019/2162 och en 
+förordning med ändringar i Europaparlamentets och rådets förordning (EU) nr 575/2013 av den 26 juni 
+2013 avseende säkerställda obligationer antagits. Direktivet trädde i kraft den 8 januari 2020 och 
+implementerades genom ändringar i LUSO vilka trädde i kraft den 8 juli 2022. Avsikten med ett 
+gemensamt regelverk på EU-nivå är att harmonisera marknaden för säkerställda obligationer i EU, bland 
+annat genom att introducera en enhetlig definition av säkerställda obligationer.  
+Benämningen svensk säkerställd obligation får endast användas som beteckning för skuldförbindelse 
+som uppfyller kraven i LUSO. Sådan skuldförbindelse får även benämnas europeisk säkerställd 
+obligation, europeisk säkerställd obligation (premium) eller motsvarande utländska officiella 
+beteckningar inom EES. 
+3.2. 
+REGISTER 
+Emittenten ska föra register (”Registret”) över säkerställda obligationer, Säkerhetsmassan och, i 
+förekommande fall, derivatavtal. Registret ska vid varje tidpunkt visa det nominella värdet av de 
+säkerställda obligationerna och Säkerhetsmassan. Registret ska också utvisa de medel som härrör från 
+Säkerhetsmassan och derivatavtal. För att kunna säkerställa ett rättvisande nominellt värde kan 
+regelbunden justering av bland annat räntenivåer, räntebindningsperioder och kapitalbelopp vara 
+nödvändig. Vidare måste marknadsvärdet på egendom som utgör säkerhet för kredit i Säkerhetsmassan 
+framgå av Registret. 
+Notering i Registret är en förutsättning för att skapa förmånsrätt i Säkerhetsmassan, detta innebär även 
+att endast tillgångar som är upptagna i Registret anses ingå i Säkerhetsmassan.
+
+--- Page 15 ---
+15 
+3.3. 
+SÄKERHETSMASSAN 
+Säkerhetsmassan kan bestå av hypotekskrediter (krediter som har lämnats mot säkerhet i 
+bostadsfastigheter och kommersiella fastigheter) och offentliga fordringar i enlighet med 3 kap. 1 § 
+LUSO. Säkerheter i bostadsfastigheter och kommersiella fastigheter ska uppfylla kraven i artikel 208.2, 
+208.4 och 208.5 i Europaparlamentet och rådets förordning (EU) nr 575/2013 av den 26 juni 2013 om 
+tillsynskrav för kreditinstitut och värdepappersföretag och om ändring av förordning (EU) nr 648/2012 
+(tillsynsförordningen) och ska bestå av inteckning i fast egendom eller tomträtt, av pant i bostadsrätt 
+eller av motsvarande utländska säkerheter. 
+Offentliga fordringar ska uppfylla kraven i artikel 129.1 a och b i tillsynsförordningen och kan bestå av 
+exponeringar mot eller garanterade av nationella regeringar, ECBS-centralbanker, offentliga organ, 
+regionala regeringar eller lokala myndigheter i unionen, samt, i enlighet med vad som framgår av 
+tillsynsförordningen, motsvarande offentliga rättssubjekt i tredjeländer. 
+I Säkerhetsmassan får det även ingå fordringar mot kreditinstitut och utländska kreditinstitut inom EES, 
+i enlighet med 3 kap. 2 § LUSO. Fordringar mot kreditinstitut får inte överstiga de andelar som anges i 
+artikel 129.1a i tillsynsförordningen. 
+I Registret antecknade medel enligt 3 kap. 10 § andra stycket andra meningen och 4 kap.4 § LUSO 
+ingår även i Säkerhetsmassan. 
+3.4. 
+BELÅNINGSGRADER OCH ANDRA BEGRÄNSNINGAR 
+För hypotekskrediter som ingår i Säkerhetsmassan gäller vissa högsta belåningsgrader: 
+- 
+80 procent av marknadsvärdet för bostadsfastigheter: fastighet, tomträtt eller bostadsrätt som 
+är avsedd för bostadsändamål och exempelvis innefattar enfamiljshus, bostadsrätt, 
+flerfamiljshus, jord- eller skogsbruk; och 
+- 
+60 procent av marknadsvärdet för kommersiella fastigheter: fastighet, tomträtt eller bostadsrätt 
+som är avsedd för exempelvis affärs- och kontorsändamål eller jord- eller skogsbruk. 
+Enligt artikel 129.1 f i tillsynsförordningen kan en belåningsgrad om upp till maximalt 70 procent av 
+marknadsvärdet tillåtas för kommersiella fastigheter. Det förutsätter att värdet av de totala tillgångar 
+som ställts som säkerhet för de säkerställda obligationerna överstiger det nominella utestående 
+beloppet på den säkerställda obligationen med minst 10 procent och att obligationsinnehavarnas fordran 
+uppfyller de krav på rättslig förutsebarhet som anges i artikel 208.2 i tillsynsförordningen. 
+Hypotekskrediter som har lämnats mot säkerhet i kommersiella fastigheter får utgöra högst 10 procent 
+av Säkerhetsmassan. Det gäller dock inte för hypotekskrediter som har lämnats mot säkerhet i 
+kommersiella fastigheter som huvudsakligen används för jordbruks- eller skogsbruksändamål. 
+Fordringar mot kreditinstitut får inte överstiga de andelar som anges i artikel 129.1a i 
+tillsynsförordningen. 
+Om en hypotekskredit överstiger den föreskrivna belåningsgraden, räknas endast den del av 
+hypotekskrediten som ligger inom den föreskrivna belåningsgraden in i Säkerhetsmassan. 
+Det finns ingen bestämmelse i LUSO eller någon annanstans som reglerar hur löpande betalningar ska 
+fördelas för hypotekskrediter som endast delvis ingår i Säkerhetsmassan. Sannolikt ska lagen tolkas så 
+att räntebetalningar fördelas proportionerligt mellan delarna medan amorteringar (förutsatt att den 
+underliggande säkerheten inte är föremål för utmätning) i första hand ska hänföras till den del som inte 
+ingår i Säkerhetsmassan. Försäljningslikvid vid exekutiv försäljning av en underliggande säkerhet ska 
+dock sannolikt i första hand hänföras till den del av krediten som ingår i Säkerhetsmassan. Regler 
+saknas även för fördelning av inflytande medel (inklusive likvid vid ianspråktagande av 
+hypotekssäkerhet) om en och samma hypotekssäkerhet ställts för två eller fler krediter och endast en
+
+--- Page 16 ---
+16 
+av dessa krediter innefattas i Säkerhetsmassan. Avsaknaden av vägledning kan ge utrymme för 
+oprioriterade borgenärer i konkursen att hävda att endast en proportionerlig del av betalningarna ska 
+anses hänförlig till krediten som innefattas i Säkerhetsmassan. 
+3.5. 
+KONTROLL AV BELÅNINGSGRADEN 
+Emittenten ska följa förändringar i marknadsvärdet för egendom som utgör säkerhet för hypotekskrediter 
+i Säkerhetsmassan, i enlighet med artikel 129.3 i tillsynsförordningen. Om marknadsvärdet minskat 
+avsevärt, får i Säkerhetsmassan endast inräknas den del av krediten som ligger inom den i 3 kap. 3 § 
+LUSO föreskrivna belåningsgraden. Om marknadsvärdet sjunker efter det att emittenten försatts i 
+konkurs anses det dock inte medföra att Säkerhetsmassan minskas med avseende på förmånsrätten. 
+Minskningen av marknadsvärdet kan dock leda till att Säkerhetsmassan inte längre uppfyller 
+matchningsreglerna. 
+3.6. 
+LIKVIDITETSBUFFERT 
+Vad gäller säkerställda obligationer för vilka Allmänna Villkor för Bostadsobligationer version 2022-11-
+29 tillämpas, ska Bolaget i vissa fall tillse att Säkerhetsmassan innehåller en likviditetsbuffert som täcker 
+Bolagets högsta dagliga ackumulerade nettolikviditetsutflöde avseende en säkerställd obligation för de 
+närmast följande 180 dagarna. För en säkerställd obligation som uppfyller kraven i 3 kap. 15 § andra 
+stycket 2 i LUSO behöver likviditetsbufferten täcka kapitalbeloppet endast i förhållande till 
+avtalsvillkorens senare förfallodag. Av 3 kap. 9 a § i LUSO framgår vad likviditetsbufferten ska utgöras 
+av. 
+Kravet på likviditetsbuffert infördes genom den lag om ändring i LUSO som trädde i kraft den 8 juli 2022. 
+Kravet gäller inte för säkerställda obligationer som vid tidpunkten för ikraftträdandet enligt 
+övergångsreglerna i denna lag var utestående. 
+3.7. 
+MATCHNINGSREGLER 
+Emittenten måste, i enlighet med LUSO, säkerställa att det nominella värdet på Säkerhetsmassan alltid 
+med minst 2 procent överstiger det sammanlagda nominella värdet på de fordringar som kan göras 
+gällande mot emittenten med anledning av säkerställda obligationer och tillhörande derivatavtal. Enligt 
+3 kap. 8 § 2 st. LUSO ska värdet av Säkerhetsmassan även täcka kostnader för förvaltning och 
+avveckling av säkerställda obligationer under konkurs. Dessa kostnader får bestämmas till ett 
+schablonbelopp. 
+Villkor för tillgångarna i Säkerhetsmassan vad gäller valuta, räntesatser, räntebindningsperioder och 
+förfallodagar ska vara sådana att det upprätthålls en god balans gentemot motsvarande villkor för de 
+säkerställda obligationerna. God balans anses föreligga om nuvärdet av tillgångarna i 
+Säkerhetsmassan, med avdrag för schablonbelopp enligt 3 kap. 8 § 2 st. LUSO, vid varje tidpunkt med 
+minst 2 procent överstiger nuvärdet av skulderna avseende säkerställda obligationer. Vid beräkning av 
+nuvärdet ska även nuvärdet av derivatavtal beaktas. 
+Betalningsflödena avseende tillgångarna i Säkerhetsmassan, derivatavtal och säkerställda obligationer 
+måste medge fullgörande av löpande betalningsförpliktelser gentemot innehavare av säkerställda 
+obligationer och motparter i derivatavtal. 
+Tillgångar i Säkerhetsmassan som är oreglerade sedan 60 dagar får inte räknas med i 
+Säkerhetsmassan vid matchningsbedömningen. 
+3.8. 
+OBEROENDE GRANSKARE 
+Utöver Finansinspektionens ordinarie tillsyn ska Finansinspektionen enligt LUSO utse en oberoende 
+granskare. Den oberoende granskaren ska övervaka att Registret förs i enlighet med LUSO. Granskaren
+
+--- Page 17 ---
+17 
+har rätt att genomföra undersökning hos emittenten och ska rapportera regelbundet till 
+Finansinspektionen. 
+3.9. 
+FÖRMÅNSRÄTT I EMITTENTENS KONKURS 
+Enligt LUSO och förmånsrättslagen (1970:979) tillförsäkras innehavare av säkerställda obligationer 
+särskild förmånsrätt om emittenten försätts i konkurs. Förmånsrätten tillkommer även motparterna i 
+sådana derivatavtal som ingåtts i syfte att uppfylla matchningskraven enligt LUSO.  
+Den särskilda förmånsrätten innebär att innehavare av säkerställda obligationer och derivatmotparter 
+har prioritet framför emittentens samtliga andra borgenärer såvitt avser tillgångarna i Säkerhetsmassan 
+(med undantag för konkurskostnaderna till den del de hänför sig till konkursförvaltarens förvaltning av 
+Säkerhetsmassan och fordringar med anledning av avtal som ingåtts av konkursförvaltaren för att 
+upprätthålla matchningen efter konkursbeslutet). Dessutom gäller förmånsrätt i de medel som vid 
+tidpunkten för konkursbeslutet finns hos emittenten och som har sitt ursprung i Säkerhetsmassan eller 
+derivatavtal och som antecknats i Registret. 
+3.10. HANTERING AV TILLGÅNGAR I SÄKERHETSMASSAN VID KONKURS 
+Om tillgångarna i Säkerhetsmassan, de säkerställda obligationerna samt aktuella derivatavtal vid 
+konkurstidpunkten, uppfyller villkoren i LUSO ska de under konkursförfarandet hållas åtskilda från 
+emittentens övriga tillgångar och skulder. Konkursförvaltaren är under dessa förutsättningar skyldig att 
+fortsätta avtalsenliga betalningar med medel ur Säkerhetsmassan till innehavare av säkerställda 
+obligationer och motparter i derivatavtal. 
+Om Säkerhetsmassan vid konkurstidpunkten eller senare upphör att uppfylla matchningsreglerna eller 
+övriga villkor enligt LUSO, ska Säkerhetsmassan inte längre hållas åtskild, utan vanliga regler för 
+konkursförfarande tillämpas. Detta innebär att löpande avtalsenliga betalningar upphör. Dock kvarstår 
+förmånsrätten i Säkerhetsmassan och betalning utgår ur de realiserade tillgångarna. I den mån 
+Säkerhetsmassan inte täcker säkerställda obligationer och derivatavtal kvarstår fordringarna mot 
+konkursboet och kan bevakas som oprioriterade fordringar. Kvarstående fordringar rankas därvid lika 
+(pari passu) med övriga oprioriterade, icke efterställda, fordringar. 
+Genom en ändring i LUSO som trädde i kraft den 1 juni 2010 har konkursförvaltarens befogenheter vid 
+en emittents konkurs förtydligats. Konkursförvaltaren har givits ett uttryckligt mandat att för konkursboets 
+räkning exempelvis uppta lån och ingå andra avtal i syfte att upprätthålla matchningen mellan den så 
+kallade Säkerhetsmassan, säkerställda obligationer och derivatavtal.
+
+--- Page 18 ---
+18 
+4. 
+Allmänna Villkor 
+ 
+ALLMÄNNA VILLKOR FÖR BOSTADSOBLIGATIONER 
+ 
+version 2022-11-29 
+ 
+Följande allmänna villkor (”Allmänna Villkor”) ska gälla för lån som Swedbank Hypotek AB (publ) 
+(org nr 556003-3283) (”Bolaget”) tar upp på kapitalmarknaden under detta program för 
+bostadsobligationer avsedda för den svenska kapitalmarknaden (”Programmet”) genom att utge 
+obligationer i svenska kronor. För varje lån upprättas slutliga villkor (”Slutliga Villkor”), vilka 
+tillsammans med dessa Allmänna Villkor utgör fullständiga villkor för lånet. Referenserna nedan till 
+”Dessa Villkor” ska således med avseende på ett visst lån anses inkludera bestämmelserna i 
+aktuella Slutliga Villkor. 
+1.    Definitioner 
+I föreliggande villkor ska följande benämningar ha den innebörd som anges nedan. Ord och 
+uttryck som anges med stor begynnelsebokstav i dessa Allmänna Villkor men som inte definieras 
+nedan har den betydelse som framgår av Slutliga Villkor för ett visst Lån.  
+ 
+ 
+”Avstämningsdag” 
+den femte (5) Bankdagen före respektive förfallodag, eller den 
+Bankdag närmare respektive förfallodag som generellt kan 
+komma att tillämpas på den svenska obligationsmarknaden; 
+”Bankdag” 
+dag som inte är söndag eller annan allmän helgdag eller 
+som beträffande betalning av skuldebrev inte är likställd med 
+allmän helgdag; 
+”Bolaget” 
+Swedbank Hypotek AB (publ), org nr 556003-3283; 
+”Dessa Villkor” 
+dessa Allmänna Villkor och de individuellt bestämda villkor 
+som framgår av Slutliga Villkor avseende ett visst Lån; 
+”Emissionsinstitut” 
+de 
+värdepappersinstitut som 
+vid 
+var 
+tid 
+har 
+träffat 
+överenskommelse 
+med 
+Bolaget 
+om 
+distribution 
+av 
+obligationer.  Emissionsinstituten är för närvarande Swedbank 
+AB (publ), Skandinaviska Enskilda Banken AB (publ), Svenska 
+Handelsbanken AB (publ), Danske Bank A/S, Danmark, 
+Sverige Filial, och Nordea Bank  Abp; 
+”Euroclear Sweden” 
+Euroclear Sweden AB, org nr 556112-8074; 
+”Fordringshavare” 
+den som är antecknad på VP-konto som borgenär eller som 
+berättigad att i andra fall ta emot betalning under en Obligation; 
+”Justerat Lånebelopp” 
+det 
+sammanlagda 
+nominella 
+beloppet 
+av 
+utestående 
+Obligationer avseende visst Lån med avdrag för Obligationer 
+som innehas av Bolaget eller av Bolaget helägt bolag; 
+”Kapitalbelopp” 
+enligt Slutliga Villkor – det belopp varmed Lån ska återbetalas 
+på Återbetalningsdagen;
+
+--- Page 19 ---
+19 
+”Kontoförande Institut” 
+bank eller annan som har medgivits rätt att vara kontoförande 
+institut enligt lagen (1998:1479) om värdepapperscentraler 
+och kontoföring av finansiella instrument och hos vilken 
+Fordringshavare öppnat VP-konto avseende Obligation; 
+”Ledarbank" 
+Swedbank AB (publ), org nr 502017-7753, eller annat sådant 
+Emissionsinstitut vilket enligt överenskommelse med Bolaget 
+kan komma att överta denna roll; 
+”Lån” 
+varje lån, omfattande en eller flera Obligationer, som Bolaget 
+upptar enligt Dessa Villkor; 
+”Obestånd” 
+Bolaget kan inte rätteligen betala sina skulder och att denna 
+oförmåga inte är endast tillfällig (1 kap 2 § andra stycket 
+konkurslagen (1987:672)); 
+”Obligation” 
+skuldförbindelse enligt 1 kap 3 § lagen (1998:1479) om 
+värdepapperscentraler 
+och 
+kontoföring 
+av 
+finansiella 
+instrument utfärdad av Bolaget i enlighet med Dessa Villkor 
+och som enligt vad som anges i  Slutliga Villkor antingen (i) 
+ges ut i enlighet med lagen (2003:1223) om utgivning av 
+säkerställda obligationer och omfattas av särskild förmånsrätt 
+enligt 3 a § förmånsrättslagen (1970:979) eller (ii) inte har 
+status av säkerställda obligationer utan medför rätt till 
+betalning jämsides med Bolagets övriga icke säkerställda och 
+icke efterställda betalningsförpliktelser i den mån inte annat är 
+föreskrivet i lag; 
+”Referensbanker” 
+Nordea Bank Abp, filial i Sverige, Skandinaviska Enskilda 
+Banken AB (publ), Svenska Handelsbanken AB (publ), 
+Danske Bank A/S, Danmark, Sverige Filial och Swedbank AB 
+(publ); 
+”Räntebas” 
+avseende Lån med rörlig ränta räntebasen STIBOR, eller 
+någon referensränta som ersätter STIBOR i enlighet med 
+punkt 4 (Byte av Räntebas); 
+”Räntebestämningsdag” 
+räntebestämningsdag som anges i Slutliga Villkor; 
+”Ränteförfallodag” 
+ränteförfallodag som anges i Slutliga Villkor; 
+”Räntemarginal” 
+den räntemarginal som anges i Slutliga Villkor; 
+”Ränteperiod” 
+den ränteperiod som anges i Slutliga Villkor; 
+”Räntesats” 
+den räntesats som anges i Slutliga Villkor; 
+”SEK” 
+svenska kronor; 
+”Senarelagd 
+Återbetalningsdag” 
+en Återbetalningsdag som senareläggs till att infalla tolv (12) 
+månader eller annan sådan tidpunkt efter den ursprungliga 
+Återbetalningsdagen, enligt vad som närmare framgår av punkt 
+8 (Senarelagd Återbetalningsdag); 
+”Slutliga Villkor” 
+handling med rubriken ”Slutliga Villkor” som innehåller uppgift 
+om exempelvis Räntebas, Räntesats, Återbetalningsdag och 
+andra individuellt bestämda villkor för Obligation, vilka
+
+--- Page 20 ---
+20 
+tillsammans 
+med 
+dessa 
+Allmänna 
+Villkor 
+för 
+bostadsobligationer utgör fullständiga villkor för ett Lån; 
+”STIBOR” 
+a) den 
+räntesats 
+som 
+administrerats, 
+beräknats 
+och 
+distribuerats av Swedish Financial Benchmark Facility AB 
+(eller ersättande administratör eller beräkningsombud) för 
+aktuell dag och publiceras på informationssystemet 
+Refinitivs sida ”STIBOR=” (eller genom sådant annat 
+system eller på sådan annan sida som ersätter nämnda 
+system eller sida) för SEK under en period jämförbar med 
+den relevanta Ränteperioden; eller 
+ 
+b) om ingen sådan räntesats anges för den relevanta 
+Ränteperioden enligt punkten (a), medelvärdet (avrundat 
+uppåt till fyra decimaler) av den räntesats som 
+Referensbankerna (eller sådana ersättande banker som 
+utses av Ledarbanken) anger till Ledarbanken på dennes 
+begäran för depositioner av SEK 100 000 000 för den 
+relevanta Ränteperioden; eller 
+ 
+c) om ingen räntesats anges enligt punkterna (a) och (b), den 
+räntesats som enligt Ledarbankens skäliga uppskattning 
+bäst motsvarar räntesatsen för depositioner i SEK på 
+internbankmarknaden i Stockholm, för den relevanta 
+Ränteperioden; 
+”VP-konto” 
+värdepapperskonto där respektive Fordringshavares innehav 
+av Obligation är registrerat; 
+”Återbetalningsdag” 
+enligt Slutliga Villkor - dag då Lånet ska återbetalas. 
+2.    Kapitalbelopp, valör och betalningsförbindelse 
+Kapitalbeloppet fastställs när försäljningen av Obligationerna avslutats och representeras av 
+Obligationer i den valör i SEK som anges i Slutliga Villkor eller hela multiplar därav. Bolaget förbinder 
+sig härmed att i enlighet med Dessa Villkor återbetala Lånet och erlägga ränta. 
+3.    Ränta 
+I Slutliga Villkor anges relevant konstruktion för beräkning av ränta enligt följande alternativ: 
+a) Fast ränta 
+Lånet löper med ränta enligt Räntesatsen från Lånedatum till och med Återbetalningsdagen. Räntan 
+erläggs i efterskott på respektive Ränteförfallodag och beräknas på 360/360-dagars basis. 
+b) FRN (Floating Rate Notes) 
+Lånet löper med ränta från Lånedatum till och med Återbetalningsdagen. Räntesatsen för 
+respektive Ränteperiod fastställs av Bolaget på respektive Räntebestämningsdag och utgörs av 
+Räntebasen för aktuell Ränteperiod med tillägg av Räntemarginalen för samma period, justerat med 
+hänsyn till punkt 4 (Byte av Räntebas). 
+Kan Räntesats inte beräknas på grund av sådant hinder som avses i punkt 16 (Ansvarsbegränsning 
+m.m.) första stycket ska Lånet fortsätta att löpa med den Räntesats som gäller för den löpande 
+Ränteperioden. Så snart hindret upphört ska Bolaget beräkna ny Räntesats att gälla från den 
+andra Bankdagen efter dagen för beräknandet till utgången av den då löpande Ränteperioden.
+
+--- Page 21 ---
+21 
+Räntan erläggs i efterskott på varje Ränteförfallodag och beräknas på faktiskt antal dagar/360, eller 
+enligt annan sådan beräkningsmetod som tillämpas för aktuell Räntebas.  
+Om Senarelagd Återbetalningsdag är tillämpligt enligt Slutliga Villkor utgår ränta till och med den 
+Senarelagda Återbetalningsdagen, enligt vad som närmare framgår av de Slutliga Villkoren. 
+4.    Byte av Räntebas 
+Om en Triggerhändelse som framgår i efterföljande stycke nedan har inträffat ska Bolaget i samråd 
+med Ledarbanken initiera åtgärder för att, så snart det rimligen är möjligt, bestämma Ersättande 
+Räntebas, Spreadjustering samt vidta åtgärder för att bestämma nödvändiga administrativa, 
+tekniska och operativa ändringar av Dessa Villkor för att tillämpa beräkna och slutligt fastställa den 
+tillämpliga Räntebasen. Det föreligger ingen skyldighet för Ledarbanken att medverka till sådant 
+samråd eller bestämmande enligt ovan. Om Ledarbanken inte medverkar i sådant samråd eller 
+bestämmande ska Bolaget, på Bolagets bekostnad, snarast utse en Oberoende Rådgivare för att 
+initiera åtgärder för att, så snart det rimligen är möjligt, bestämma det nämnda. Förutsatt att 
+Ersättande Räntebas, Spreadjustering och övriga ändringar har slutligt fastställts senast innan den 
+relevanta Räntebestämningsdagen ska ändringarna tillämpas från och med nästkommande 
+Ränteperiod, dock alltid med beaktande av eventuella tekniska begränsningar hos Euroclear 
+Sweden och beräkningsmetoder som är tillämpliga i förhållande till sådan Ersättande Räntebas. 
+En triggerhändelse är en eller flera av följande händelser (”Triggerhändelse”) som innebär: 
+a) att Räntebasen (för den relevanta Ränteperioden för aktuellt Lån) har upphört att existera 
+eller upphört att tillhandahållas i minst fem (5) på varandra följande Bankdagar till följd av 
+att Räntebasen (för den relevanta Ränteperioden för aktuellt Lån) upphör att beräknas eller 
+administreras; 
+ 
+b) ett offentligt uttalande eller publikt publicerad information från (i) tillsynsmyndigheten för 
+Administratören av Räntebasen eller (ii) Administratören av Räntebasen med information 
+om att Administratören av Räntebasen inte längre tillhandahåller aktuell Räntebas (för den 
+relevanta Ränteperioden för aktuellt Lån) permanent eller på obestämd tid och att vid 
+tidpunkten för uttalandet eller publiceringen ingen efterträdande administratör har utsetts 
+eller förväntas utses att fortsätta tillhandahålla Räntebasen; 
+ 
+c) ett offentligt uttalande eller publikt publicerad information i vardera fall från 
+tillsynsmyndigheten för Administratören av Räntebasen att Räntebasen (för den relevanta 
+Ränteperioden för aktuellt Lån) inte längre är representativ för den underliggande 
+marknaden som Räntebasen är avsedd att representera och Räntebasens representativitet 
+kommer inte att kunna återställas, enligt tillsynsmyndigheten för Administratören för 
+Räntebasen; 
+ 
+d) ett offentligt uttalande eller publikt publicerad information i vardera fall från 
+tillsynsmyndigheten för Administratören av Räntebasen med konsekvensen att det är 
+olagligt för Bolaget eller Ledarbanken att beräkna betalning till Fordringshavare genom att 
+använda aktuell Räntebas (för den relevanta Ränteperioden för aktuellt Lån) eller att det av 
+annan orsak blivit förbjudet att använda aktuell Räntebas (för den relevanta Ränteperioden 
+för aktuellt Lån); 
+ 
+e) ett offentligt uttalande eller publikt publicerad information från i vardera fall 
+konkursförvaltaren för Administratören för Räntebasen eller från förvaltaren enligt 
+krishanteringsregelverket med information enligt (b) ovan; eller
+
+--- Page 22 ---
+22 
+f) 
+ett Offentliggörande har gjorts varpå den offentliggjorda Triggerhändelsen som anges i (b) 
+till (e) ovan kommer att inträffa inom sex (6) månader.  
+Om ett Offentliggörande har gjorts får Bolaget (utan att någon skyldighet föreligger), om det är 
+möjligt att vid sådan tidpunkt bestämma Ersättande Räntebas, Spreadjustering och övriga 
+ändringar, i samråd med Ledarbanken eller genom att utse en Oberoende Rådgivare, initiera 
+åtgärder som framkommer av första stycket ovan i denna punkt 4 för att slutligt fastställa Ersättande 
+Räntebas, Spreadjustering och övriga ändringar, för att övergå till Ersättande Räntebas vid en 
+tidigare tidpunkt. 
+Om en Triggerhändelse som anges i någon av (a) till (e) i definitionen av Triggerhändelse har 
+inträffat men ingen Ersättande Räntebas och Spreadjustering har slutligen fastställts senast innan 
+efterföljande Räntebestämningsdag eller om sådan Ersättande Räntebas och Spreadjustering har 
+slutligen fastställts men inte kan tillämpas i samband med efterföljande Räntebestämningsdag på 
+grund av tekniska begränsningar hos Euroclear Sweden, ska räntan för nästkommande 
+Ränteperiod vara: 
+a) om tidigare Räntebas är tillgänglig så ska den bestämmas enligt villkoren som skulle gälla 
+för Räntebasen om ingen Triggerhändelse hade inträffat; eller 
+ 
+b) om tidigare Räntebas inte är tillgänglig eller inte längre kan användas i enlighet med 
+tillämplig lag eller reglering, den ränta som fastställts för senast föregående Ränteperiod. 
+Denna bestämmelse är tillämplig på ytterligare efterföljande Ränteperioder förutsatt att alla 
+relevanta åtgärder har vidtagits avseende tillämpningen av och de justeringar som framkommer av 
+denna punkt 4 inför varje sådan efterföljande Räntebestämningsdag, men utan framgång. 
+Innan Ersättande Räntebas, Spreadjustering och övriga ändringar blir effektiva ska Bolaget 
+meddela Fordringshavare, Emissionsinstitut samt Euroclear Sweden i enlighet med punkt 12 
+(Meddelanden) omedelbart efter att Bolaget i samråd med Ledarbanken eller den Oberoende 
+Rådgivaren slutligt fastställt Ersättande Räntebas, Spreadjustering och nödvändiga ändringar och 
+av informationen ska även framgå när ändringarna blir tillämpliga. Om Obligationer är upptagna till 
+handel på reglerad marknad ska Bolaget även informera börsen om ändringarna. 
+Ledarbanken och Oberoende Rådgivare som utför åtgärder i enlighet med denna punkt 4 ansvarar 
+inte för någon skada eller förlust som orsakas av beslut, åtgärder som vidtas eller utelämnas av 
+denne i samband med bestämmande och slutligt fastställande av Ersättande Räntebas, 
+Spreadjustering eller därtill efterföljande ändringar av Dessa Villkor, såvida inte direkt orsakad av 
+grov vårdslöshet eller uppsåtligt handlande. Ledarbanken och den Oberoende Rådgivaren ansvarar 
+aldrig för indirekt skada eller följdförlust när denne utför åtgärder enligt denna punkt 4. 
+I denna punkt 4 har följande definierade termer den betydelse som anges nedan. 
+”Administratör av Räntebas” är Swedish Financial Benchmark Facility AB (SFBF) i förhållande till 
+STIBOR eller någon aktör som ersätter som administratör av Räntebasen. 
+”Ersättande Räntebas” är: 
+(a) den skärm- eller referensränta, och den metod för beräkning av löptid samt 
+beräkningsmetoder med hänsyn till skuldinstrument med liknande räntevillkor som 
+obligationslån, som formellt rekommenderas av Relevant Nomineringsorgan som 
+efterträdare eller ersättare till Räntebasen; eller
+
+--- Page 23 ---
+23 
+(b) om sådan ränta inte kunnat utses enligt (a), sådan annan ränta som Bolaget i samråd med 
+Ledarbanken eller den Oberoende Rådgivaren bestämmer är mest jämförbar med 
+Räntebasen. 
+För undvikande av missförstånd, om Ersättande Räntebas skulle upphöra att finnas ska denna 
+definition tillämpas mutatis mutandis på sådan ny Ersättande Räntebas. 
+”Oberoende Rådgivare” är ett oberoende finansinstitut eller väl ansedd rådgivare på 
+obligationsmarknaderna där Räntebasen vanligen används. 
+”Offentliggörande” är ett offentligt uttalande eller publikt publicerad information enligt vad som anges 
+i (b) till (e) i definitionen av Triggerhändelse om att händelser eller omständigheter som anges däri 
+kommer att inträffa. 
+”Relevant Nomineringsorgan” är, med förbehåll för tillämplig lagreglering, i första hand relevant 
+tillsynsmyndighet och i andra hand tillämplig centralbank, eller arbetsgrupp eller kommitté på 
+uppdrag av någon av dessa. 
+”Spreadjustering” är en justeringsmarginal eller en formel eller metod för beräkning av en 
+justeringsmarginal som ska tillämpas på Ersättande Räntebas och som: 
+a) är formellt rekommenderad av Relevant Nomineringsorgan i förhållande till den ersatta 
+Räntebasen; eller 
+ 
+b) om punkt (a) inte är tillämplig, den justeringsmarginal som Bolaget i samråd med 
+Ledarbanken eller den Oberoende Rådgivaren anser skälig att använda i syfte att i 
+möjligaste mån eliminera eventuella värdeöverföringar mellan parterna till följd av ett 
+ersättande av Räntebasen och som vanligen tillämpas vid liknande transaktioner på 
+obligationsmarknaden. 
+5.    Registrering av Obligationerna 
+Obligationerna ges ut i dematerialiserad form och ska för Fordringshavares räkning registreras på 
+VP-konto, varför inga fysiska värdepapper kommer att utges. Begäran om viss registreringsåtgärd 
+avseende Obligation ska riktas till Kontoförande Institut. 
+Den som på grund av uppdrag, pantsättning, bestämmelserna i föräldrabalken, villkor i testamente 
+eller gåvobrev eller eljest förvärvat rätt att ta emot betalning under en Obligation ska låta registrera 
+sin rätt till betalning. 
+6.    Återbetalning samt betalning av ränta 
+Lån förfaller till betalning på Återbetalningsdagen eller, i tillämpliga fall, på den Senarelagda 
+Återbetalningsdagen. 
+Infaller 
+Återbetalningsdag 
+eller, 
+i 
+tillämpliga 
+fall, 
+Senarelagd 
+Återbetalningsdag på dag som inte är Bankdag ska betalning ske först närmast följande Bankdag.  
+Återbetalning av Lån och betalning av ränta ska ske till den som är Fordringshavare på 
+Avstämningsdagen. 
+Har Fordringshavaren genom Kontoförande Institut låtit registrera att kapital- respektive 
+räntebelopp ska insättas på visst bankkonto, sker insättning genom Euroclear Swedens försorg 
+på vederbörande förfallodag.  
+Infaller Ränteförfallodag för Lån med fast ränta på dag som inte är Bankdag insätts respektive 
+översänds aktuellt belopp först närmast följande Bankdag; ränta utgår härvid dock endast till och 
+med den ursprungliga Ränteförfallodagen. Infaller Ränteförfallodag för Lån med FRN-konstruktion 
+inte på en Bankdag ska som Ränteförfallodag anses närmast följande Bankdag, förutsatt att sådan
+
+--- Page 24 ---
+24 
+Bankdag inte infaller i en ny kalendermånad, i vilket fall Ränteförfallodagen ska anses vara 
+föregående Bankdag. Ränta utgår till och med respektive Ränteförfallodag.  
+Skulle Euroclear Sweden på grund av dröjsmål från Bolagets sida eller på grund av annat hinder 
+inte kunna betala ut belopp enligt ovan, betalas detta ut av Euroclear Sweden så snart hindret 
+upphört till den som på Avstämningsdagen var registrerad som Fordringshavare. 
+Om Bolaget ej kan fullgöra betalningsförpliktelse genom Euroclear Sweden enligt ovan på grund 
+av hinder för Euroclear Sweden som avses i punkt 16 (Ansvarsbegränsning m.m.) första stycket 
+nedan, ska Bolaget ha rätt att skjuta upp betalningsförpliktelsen tills dess hindret har upphört. I 
+sådant fall ska ränta utgå enligt punkt 7 (Dröjsmålsränta) andra stycket nedan. 
+Visar det sig att den som tillställts belopp enligt vad ovan sagts saknade rätt att mottaga detta, ska 
+Bolaget och Euroclear Sweden likväl anses ha fullgjort sina ifrågavarande skyldigheter. Detta gäller 
+dock ej om Bolaget respektive Euroclear Sweden hade kännedom om att beloppet kom i orätta 
+händer eller åsidosatt den aktsamhet som efter omständigheterna skäligen bort iakttas. 
+Utöver avdrag för skatt enligt lag förbehåller sig Bolaget rätt att vid betalning avseende Obligation 
+göra avdrag för skatt i enlighet med överenskommelse mellan Bolaget eller Ledarbanken och 
+utländsk myndighet. 
+7.    Dröjsmålsränta 
+Vid betalningsdröjsmål avseende kapital och/eller ränta utgår dröjsmålsränta på det förfallna 
+beloppet från förfallodagen till och med den dag, då betalning erläggs efter en räntesats som 
+motsvarar en veckas STIBOR första Bankdagen i varje vecka varunder dröjsmålet varar med tillägg 
+av fyra procentenheter. Dröjsmålsränta enligt detta stycke ska dock aldrig utgå efter lägre 
+räntesats än som motsvarar den som gällde för Lån på förfallodagen ifråga med tillägg av två 
+procentenheter. Dröjsmålsräntan kapitaliseras ej. 
+Beror dröjsmålet enbart av sådant hinder för Emissionsinstitut respektive Euroclear Sweden som 
+avses i punkt 16 (Ansvarsbegränsning m.m.) första stycket, ska dröjsmålsränta dock ej utgå efter 
+högre räntesats än den som gällde för Lån på förfallodagen ifråga. 
+8.    Senarelagd Återbetalningsdag 
+Om ”Senarelagd Återbetalningsdag” anges som ”tillämpligt” i Slutliga Villkor för en Obligation, kan 
+Bolaget senarelägga Återbetalningsdagen till att infalla tolv (12) månader eller annan sådan tidpunkt 
+efter den ursprungliga Återbetalningsdagen under förutsättning att: 
+a) Finansinspektionen lämnat godkännande avseende Senarelagd Återbetalningsdag på den 
+grunden att Finansinspektionen bedömt det som sannolikt att en förlängning av löptiden 
+kan motverka att Bolaget kommer på obestånd eller på annan rättslig grund som framgår 
+av vid var tid gällande lag (2003:1223) om utgivning av säkerställda obligationer; och 
+ 
+b) den Senarelagda Återbetalningsdagen anges i Slutliga Villkor. 
+Om Finansinspektionen godkänt en Senarelagd Återbetalningsdag ska Bolaget underrätta 
+Fordringshavarna så snart som möjligt därefter, i enlighet med punkt 12 (Meddelanden). En 
+utebliven underrättelse påverkar dock inte giltigheten av den Senarelagda Återbetalningsdagen. 
+För löptid efter den ursprungliga Återbetalningsdagen ska Lånet löpa med räntekonstruktion FRN 
+(Floating Rate Notes) enligt följande: 
+(a) Lånet löper med FRN ränta från den ursprungliga Återbetalningsdagen till och med den dag 
+som anges i punkt 1.4 (i) i Slutliga Villkor. Räntesatsen FRN för respektive Ränteperiod
+
+--- Page 25 ---
+25 
+FRN beräknas av Ledarbanken på respektive Räntebestämningsdag och utgörs av 
+Räntebasen med tillägg av Räntemarginalen för samma period, justerat med hänsyn till 
+tillämpning av punkt 4 (Byte av Räntebas) 
+ 
+(b) Kan Räntesats FRN inte beräknas på grund av sådant hinder som avses i punkt 16 
+(Ansvarsbegränsning m.m.) ska Lånet fortsätta löpa med den Räntesats eller Räntesats 
+FRN (såsom tillämpligt) som gäller för den innevarande perioden. Så snart hindret har 
+upphört ska Ledarbanken beräkna ny Räntesats FRN att gälla från den andra Bankdagen 
+efter dagen för beräknandet till utgången av den innevarande perioden. 
+ 
+(c) Räntan erläggs i efterskott för varje Ränteförfallodag FRN och beräknas på faktiskt antal 
+dagar/360 för Obligationer i respektive Ränteperiod FRN, eller enligt sådan annan 
+beräkningsgrund som tillämpas för aktuell Räntebas. 
+För löptid efter den ursprungliga Återbetalningsdagen gäller Ränteförfallodag FRN, Ränteperiod 
+FRN, Räntebas, Räntemarginal och Räntebestämningsdag som anges i punkt 1.4 (ii) i Slutliga 
+Villkor. 
+Det faktum att Bolaget senarelägger Återbetalningsdagen ska inte anses stå i strid med punkt 6 
+(Återbetalning samt betalning av ränta) eller punkt 9 (Fördelning) och ska inte medföra någon 
+skyldighet att betala dröjsmålsränta enligt punkt 7 (Dröjsmålsränta). 
+9. Fördelning 
+Har såväl Kapitalbelopp som ränta förfallit till betalning och förslår tillgängliga medel inte till full 
+betalning därav ska medlen i första hand användas till betalning av räntan och i andra hand till 
+betalning av Kapitalbeloppet. 
+10.   Preskription 
+Rätten till betalning av Kapitalbelopp preskriberas tio år efter Återbetalningsdagen (i 
+förekommande fall Senarelagd Återbetalningsdag). Rätten till räntebetalning preskriberas tre år 
+efter respektive Ränteförfallodag. De medel som avsatts för betalning men preskriberats 
+tillkommer Bolaget. 
+Om preskriptionsavbrott sker löper ny preskriptionstid om tio år i fråga om Kapitalbelopp och tre år 
+beträffande räntebelopp, i båda fallen räknat från dag som framgår av preskriptionslagens 
+(1981:130) bestämmelser om verkan av preskriptionsavbrott. 
+11.   Fordringshavarmöte 
+Emissionsinstitut har rätt att, och ska efter skriftlig begäran från Bolaget eller från Fordringshavare 
+som på dagen för begäran representerar minst en tiondel av Justerat Lånebelopp, kalla till 
+fordringshavarmöte (”Fordringshavarmöte”). Kallelsen ska minst tio Bankdagar i förväg tillställas 
+Bolaget och berörda Fordringshavare i enlighet med punkt 12 (Meddelanden). 
+Kallelsen till Fordringshavarmöte ska ange tidpunkt och plats för mötet samt dagordning för mötet. 
+För det fall deltagande vid Fordringshavarmötet kan ske via telefon eller genom program för 
+videokonferens, eller för det fall att röstning kan ske via ett elektroniskt röstningsförfarande, ska 
+de närmare detaljerna för detta tydligt framgå av kallelsen. Vidare ska i kallelsen anges de ärenden 
+som ska behandlas och beslutas vid mötet. Ärendena ska vara numrerade. Det huvudsakliga 
+innehållet i varje framlagt förslag ska anges. Endast ärenden som upptagits i kallelsen får beslutas 
+vid Fordringshavarmötet. För det fall att förtida anmälan krävs för att Fordringshavare ska ha rätt 
+att delta i Fordringshavarmöte ska detta tydligt framgå av kallelsen. Till kallelsen ska bifogas 
+ett fullmaktsformulär.
+
+--- Page 26 ---
+26 
+Mötet ska inledas med att ordförande, protokollförare och justeringsmän utses. 
+Vid Fordringshavarmöte har, utöver Fordringshavare samt deras respektive ombud och biträden, 
+även styrelseledamöter, verkställande direktör och andra högre befattningshavare inom Bolaget 
+samt Bolagets revisorer och Bolagets juridiska rådgivare samt Emissionsinstituten, rätt att delta. 
+Ombud ska visa upp behörigen utfärdad fullmakt som ska godkännas av ordföranden. 
+Bolaget ska tillse att det vid Fordringhavarmötet finns en utskrift av det av Euroclear Sweden 
+förda avstämningsregistret från slutet av femte Bankdagen före dagen för Fordringshavarmötet. 
+Ordföranden ska upprätta en förteckning över närvarande röstberättigade Fordringshavare med 
+uppgift om den andel av Justerat Lånebelopp varje Fordringshavare företräder (”Röstlängd”). 
+Fordringshavare som avgett sin röst via elektroniskt röstningsförfarande, röstsedel eller 
+motsvarande, ska vid tillämpning av dessa bestämmelser anses såsom närvarande vid 
+Fordringshavarmötet. Endast de som på femte Bankdagen före dagen för Fordringshavarmöte var 
+Fordringshavare, respektive ombud för sådan Fordringshavare och som omfattas av Justerat 
+Lånebelopp, är röstberättigade och ska tas upp i Röstlängden. Därefter ska Röstlängden 
+godkännas av Fordringshavarmötet. 
+Vid Fordringshavarmötet ska föras protokoll, vari ska antecknas dag och ort för mötet, vilka som 
+närvarat, vad som avhandlats, hur omröstning har utfallit och vilka beslut som har fattats. 
+Röstlängden ska nedtecknas i eller biläggas protokollet. Protokollet ska undertecknas av 
+protokollföraren. Det ska justeras av ordföranden om denne inte fört protokollet samt av minst en 
+på Fordringshavarmötet utsedd justeringsman. Därefter ska protokollet överlämnas till Bolaget. 
+Senast tio (10) Bankdagar efter Fordringshavarmötet ska protokollet tillställas Fordringshavarna 
+enligt punkt 12 (Meddelanden). Nya eller ändrade Allmänna Villkor ska biläggas protokollet och 
+tillställas Euroclear Sweden genom Bolagets eller annan av Bolaget utsedd parts försorg. 
+Protokollet ska på ett betryggande sätt förvaras av Bolaget. 
+Fordringshavarmötet är beslutsfört om Fordringshavare representerande minst en femtedel av 
+Justerat Lånebelopp är närvarande vid Fordringshavarmötet. I följande slag av ärenden erfordras 
+dock att Fordringshavare representerande minst hälften av Justerat Lånebelopp är närvarande vid 
+Fordringshavarmötet (”Extraordinärt Beslut”): 
+a) 
+godkännande av överenskommelse med Bolaget eller annan om ändring av 
+Återbetalningsdagen, nedsättning av lånebeloppet, ändring av föreskriven valuta för 
+Obligationerna (om ej detta följer av lag) samt ändring av Ränteförfallodag eller annat 
+räntevillkor (annat än enligt vad som följer av Dessa Villkor, inkluderat vad som följer av 
+tillämpningen av punkt 4 (Byte av Räntebas)); 
+b)  godkännande av gäldenärsbyte; och 
+c)  godkännande av ändring av denna punkt 11. 
+Om Fordringshavarmöte sammankallats och den för beslutsförhet erforderliga andel av Justerat 
+Lånebelopp som Fordringshavarna representerar inte har uppnåtts inom trettio (30) minuter från 
+utsatt tid för Fordringshavarmötet, ska mötet ajourneras till den dag som infaller en vecka senare 
+(eller - om den dagen inte är en Bankdag - nästföljande Bankdag). Om mötet nått beslutsförhet för 
+vissa men inte alla frågor som ska beslutas vid mötet ska mötet ajourneras efter det att beslut fattats 
+i frågor för vilka beslutsförhet föreligger. Meddelande om att Fordringshavarmöte ajournerats och 
+uppgift om tid och plats för fortsatt möte ska snarast tillställas Fordringshavarna genom Euroclear 
+Swedens försorg. När ajournerat Fordringshavarmöte återupptas ska kravet på beslutsförhet i 
+sjunde och åttonde styckena ovan inte gälla. Det återupptagna mötet ska inledas med att 
+ordföranden upprättar en ny röstlängd (enligt samma principer som anges i femte stycket och på 
+grundval av nämnda utskrift av avstämningsregistret) Endast Fordringshavare som upptas i sådan
+
+--- Page 27 ---
+27 
+ny röstlängd är röstberättigade vid mötet. Ett Fordringshavarmöte kan inte ajourneras mer än en 
+gång. 
+Beslut vid Fordringshavarmöte fattas genom omröstning om någon Fordringshavare begär det. 
+Varje röstberättigad Fordringshavare ska vid votering ha en röst per Obligation (som utgör del av 
+samma obligationslån) som innehas av denne. 
+Extraordinärt Beslut är giltigt endast om det har biträtts av minst nio tiondelar av de avgivna 
+rösterna. För samtliga övriga beslut gäller den mening som fått mer än hälften av de avgivna 
+rösterna. 
+Vid tillämpningen av denna punkt 11 ska innehavare av förvaltarregistrerad Obligation betraktas 
+som Fordringshavare istället för förvaltaren om innehavaren uppvisar ett intyg från förvaltaren 
+som utvisar att vederbörande per den femte Bankdagen före Fordringshavarmöte var innehavare 
+av Obligation och storleken på dennes innehav. Förvaltare av förvaltarregistrerade Obligationer 
+ska anses närvarande vid Fordringshavarmöte med det antal Obligationer som förvaltaren fått 
+i uppdrag att företräda. 
+Beslut som har fattats vid ett i behörig ordning sammankallat och genomfört Fordringshavarmöte 
+är bindande för samtliga Fordringshavare oavsett om de har varit närvarande vid, och oberoende 
+av om och hur de har röstat på mötet. Fordringshavare som biträtt på Fordringshavarmöte fattat 
+beslut ska inte kunna hållas ansvarig för den skada som beslutet kan komma att åsamka annan 
+Fordringshavare. 
+Samtliga 
+Euroclear 
+Swedens 
+och 
+Emissionsinstitutens 
+(dock 
+ej 
+Fordringshavarnas) skäliga kostnader i samband med Fordringshavarmöte ska betalas av Bolaget. 
+Emissionsinstituten och Bolaget har, i samband med tillämpningen av denna punkt 11, rätt till 
+utdrag ur det av Euroclear Sweden förda avstämningsregistret för aktuellt obligationslån. 
+Begäran om Fordringshavarmöte ska tillställas Emissionsinstitut. Försändelsen ska ange att 
+ärendet är brådskande. 
+12.  Meddelanden 
+Meddelanden rörande Lånet ska tillställas Fordringshavare på dennes hos Euroclear Sweden på 
+Avstämningsdagen 
+registrerade 
+adress. 
+Meddelande 
+ska 
+tillställas 
+Ledarbanken 
+och 
+Emissionsinstitut på den adress som är registrerad hos Bolagsverket på Avstämningsdagen före 
+avsändandet. 
+13.  Ändring av Allmänna Villkor m m 
+Bolaget och Emissionsinstituten får komma överens om att justera klara och uppenbara fel i 
+Dessa Villkor, samt överenskomma om ändringar av teknisk eller administrativ karaktär. 
+Bolaget och Ledarbanken eller den Oberoende Rådgivaren får, utan Fordringshavares medgivande, 
+komma överens om justeringar i Dessa Villkor och genomföra sådana ändringar i Dessa Villkor i 
+enlighet med vad som framgår av punkt 4 (Byte av Räntebas), vilka blir bindande för de som omfattas 
+av Dessa Villkor. 
+Ändring av Dessa Villkor kan i andra fall ske genom beslut vid Fordringshavarmöte enligt punkt 
+11 (Fordringshavarmöte) under förutsättning att Bolaget skriftligen godkänner sådan ändring. 
+Ändring av villkoren ska snarast meddelas Fordringshavarna i överensstämmelse med punkt 12 
+(Meddelanden) och gäller från det datum då meddelande till Fordringshavare skett i enlighet med 
+punkt 12 (Meddelanden) eller vid sådant senare datum som framgår av meddelandet.
+
+--- Page 28 ---
+28 
+Med ändring av Dessa Villkor avses i denna paragraf även avvikelse eller undantag från Dessa 
+Villkor. 
+14.  Upptagande till handel på reglerad marknad 
+Bolaget ska ansöka om upptagande till handel av Lånet vid Nasdaq Stockholm och vidta de 
+åtgärder som kan erfordras för att bibehålla registreringen så länge någon del av Lånet är 
+utestående, dock längst till och med Återbetalningsdagen (i förekommande fall Senarelagd 
+Återbetalningsdag). 
+15.  Förvaltarregistrering 
+För Obligation som är förvaltarregistrerad enligt lag (1998:1479) om värdepapperscentraler och 
+kontoföring av finansiella instrument ska vid tillämpningen av Dessa Villkor förvaltaren betraktas 
+som Fordringshavare. 
+16.  Ansvarsbegränsning m.m. 
+I fråga om de på Emissionsinstituten, Bolaget respektive Euroclear Sweden ankommande 
+åtgärderna gäller – beträffande Euroclear Sweden med beaktande av bestämmelserna i lag 
+(1998:1479) om värdepapperscentraler och kontoföring av finansiella instrument – att ansvarighet 
+inte kan göras gällande för skada som beror av svenskt eller utländskt lagbud, svensk eller utländsk 
+myndighetsåtgärd, krigshändelse, strejk, blockad, bojkott, lockout eller annan liknande 
+omständighet. Förbehållet i fråga om strejk, blockad, bojkott och lockout gäller även om 
+Emissionsinstitut respektive Bolaget självt eller Euroclear Sweden själv är föremål för eller vidtar 
+sådan konfliktåtgärd. 
+Skada som uppkommit i andra fall ska inte ersättas av Emissionsinstitut, Bolaget eller Euroclear 
+Sweden om de varit normalt aktsamma. De svarar inte i något fall för indirekt skada. 
+Föreligger hinder för Emissionsinstitut, Bolaget eller Euroclear Sweden på grund av sådan 
+omständighet som anges i första stycket att vidta åtgärd enligt Dessa Villkor får åtgärden 
+uppskjutas tills hindret har upphört. 
+17.  Lag- och forumval 
+Svensk lag ska tillämpas vid tolkning av Dessa Villkor. Tvist ska avgöras i första instans vid 
+Stockholms tingsrätt.
+
+--- Page 29 ---
+29 
+5. Mall för Slutliga Villkor 
+ 
+Datum för Slutliga Villkor: [●] 
+ 
+Slutliga Villkor 
+För obligationslån nr [●] utgivet av Swedbank Hypotek AB (publ) (”Bolaget”) under dess 
+program för bostadsobligationer (”Programmet”) 
+ 
+För Lånet ska gälla Bolagets ”Allmänna Villkor för Bostadsobligationer version [2016-11-04”] [2022-11-
+29”] jämte nedan angivna Slutliga Villkor. De Allmänna Villkoren återges i Bolagets grundprospekt, 
+godkänt och registrerat av Finansinspektionen den [•] jämte från tid till annan publicerade 
+tilläggsprospekt (”Prospektet”) som upprättats för Programmet i enlighet med Europaparlamentets och 
+Rådets förordning (EU) 2017/1129 (”Prospektförordningen”). Ord och uttryck som anges med stor 
+begynnelsebokstav i dessa Slutliga Villkor men som inte definieras nedan har den betydelse som 
+framgår av enligt ovan tillämpliga Allmänna Villkor eller av Prospektet. De Slutliga Villkoren har 
+utarbetats enligt artikel 8.4 i Prospektförordningen. Fullständig information om Bolaget och 
+Obligationerna erhålls genom att läsa dessa Slutliga Villkor tillsammans med Prospektet jämte tillägg [•] 
+och eventuella ytterligare tillägg till Prospektet samt varje dokument som införlivats i Prospektet genom 
+hänvisning. En sammanfattning av emissionen bifogas dessa Slutliga Villkor.  
+Prospektet och eventuella tillägg samt de dokument som införlivats i Prospektet genom hänvisning finns 
+tillgängliga på Bolagets hemsida https://hypotek.swedbank.se/. 
+[Dessa Slutliga Villkor ersätter Slutliga Villkor daterade den [datum].] 
+ 
+1. VILLKOR FÖR OBLIGATIONEN 
+ 
+1.1. 
+Lånedatum: 
+[●] 
+ 
+1.2. 
+Lånenummer: 
+ 
+[●] 
+ 
+1.3. 
+Återbetalningsdag: 
+[●] 
+ 
+1.4. 
+Senarelagd Återbetalningsdag 
+ 
+ 
+ 
+ 
+(i) 
+Datum för Senarelagd 
+Återbetalningsdag 
+(ii) 
+Räntevillkor för 
+Senarelagd 
+Återbetalningsdag 
+[Tillämpligt/Ej tillämpligt]  
+(Endast valbart för Lån utgivna under 
+Allmänna Villkor version 2022-11-29 Om ej 
+tillämpligt, radera resterande underrubriker i 
+denna punkt.) 
+ 
+[Ange datum] 
+ 
+Ränteperiod FRN: Tiden från den [ange 
+ursprungliga Återbetalningsdagen] till och 
+med 
+den 
+[ange 
+datum] 
+(den 
+första 
+Ränteperioden) och därefter varje tidsperiod 
+om ca [ange] månader med slutdag på en 
+Ränteförfallodag.
+
+--- Page 30 ---
+30 
+Räntebas: [●]-månaders STIBOR 
+Räntemarginal: +/- [●]%  
+Ränteförfallodag FRN: Sista dagen i varje 
+Ränteperiod FRN, den [●], den [●], den [●] 
+och den [●], första gången den [●] och sista 
+gången på [ange datum för Senarelagd 
+Återbetalningsdag], dock att om sådan dag 
+inte är en Bankdag ska som Ränteförfallodag 
+FRN anses närmsta påföljande Bankdag, 
+förutsatt att sådan Bankdag inte infaller i en 
+ny 
+kalendermånad, 
+i 
+vilket 
+fall 
+Ränteförfallodag FRN ska anses vara 
+föregående Bankdag. 
+Räntebestämningsdag: [Två] Bankdagar före 
+varje Ränteperiod, första gången den [●]. 
+1.5. 
+Valör: 
+ 
+SEK [●] 
+ 
+1.6. 
+Kapitalbelopp/Löpande 
+emissioner: 
+[SEK [●]] [ELLER] [Obligationerna emitteras 
+och 
+säljs 
+fortlöpande 
+till 
+rådande 
+marknadskurs. Lånebeloppet fastställs när 
+försäljningen 
+av 
+de 
+säkerställda 
+obligationerna avslutats.] 
+ 
+1.7. 
+Räntekonstruktion: 
+[Fast ränta/FRN (Floating Rate Notes)] 
+ 
+1.8. 
+Fast Ränta: 
+[Tillämpligt/Ej tillämpligt] (om ej tillämpligt, 
+radera resterande underrubriker till denna 
+paragraf) 
+ 
+ 
+(i) 
+Räntesats: 
+[●] % per annum 
+ 
+ 
+(ii) 
+Ränteperiod: 
+Tiden från den [●] till och med den [●] (den 
+första Ränteperioden) och därefter varje 
+tidsperiod om ca [●] månader med slutdag på 
+en Ränteförfallodag. 
+ 
+ 
+(iii) 
+Ränteförfallodagar: 
+Årligen den [●], första gången den [●] och 
+sista gången den [●], dock att om sådan dag 
+inte är Bankdag utbetalas ränta först 
+påföljande Bankdag. Ränta beräknas och 
+utgår 
+dock 
+endast 
+till 
+och 
+med 
+Ränteförfallodagen. 
+ 
+1.9. 
+FRN (Floating Rate Notes): 
+[Tillämpligt/Ej tillämpligt] (om ej tillämpligt, 
+radera resterande underrubriker till denna 
+paragraf)
+
+--- Page 31 ---
+31 
+ 
+(i) 
+Räntebas: 
+Räntebas: [●]-månaders STIBOR 
+ 
+(ii) 
+Räntemarginal: 
+[+/-] [●] % 
+ 
+ 
+(iii) 
+Räntebestämningsdag: 
+[Två] Bankdagar före varje Ränteperiod, 
+första gången den [●]. 
+ 
+ 
+(iv) 
+Ränteperiod: 
+Tiden från den [●] till och med den [●] (den 
+första Ränteperioden) och därefter varje 
+tidsperiod om ca [●] månader med slutdag på 
+en Ränteförfallodag. 
+ 
+ 
+(v) 
+Ränteförfallodagar: 
+Sista dagen i varje Ränteperiod, första 
+gången den [●] och sista gången på 
+Återbetalningsdagen, dock att om sådan dag 
+inte är Bankdag ska som Ränteförfallodag 
+anses närmast följande Bankdag, förutsatt 
+att sådan Bankdag inte infaller i en ny 
+kalendermånad, 
+i 
+vilket 
+fall 
+Ränteförfallodagen 
+ska 
+anses 
+vara 
+föregående Bankdag. 
+ 
+1.10. Obligationernas 
+ställning 
+i 
+förmånsrättshänseende: 
+[Obligationerna ges ut i enlighet med lagen 
+(2003:1223) om utgivning av säkerställda 
+obligationer 
+och 
+omfattas 
+av 
+särskild 
+förmånsrätt enligt 3 a § förmånsrättslagen 
+(1970:979).] 
+ 
+[ELLER] 
+ 
+[Obligationerna 
+har 
+inte 
+status 
+av 
+säkerställda obligationer utan medför rätt till 
+betalning jämsides med Bolagets övriga icke 
+säkerställda 
+och 
+icke 
+efterställda 
+betalningsförpliktelser i den mån inte annat 
+är föreskrivet i lag.] 
+ 
+2. ÖVRIG INFORMATION 
+ 
+2.1. 
+[Tillämpliga specifika risker] 
+[Samtliga riskfaktorer, som finns beskrivna i 
+prospektet under avsnittet Riskfaktorer, är 
+tillämpliga för dessa Obligationer:] [Samtliga 
+riskfaktorer som finns beskrivna i prospektet 
+under avsnittet Riskfaktorer är tillämpliga för 
+dessa Obligationer, utom de som finns i 
+avsnitt 2.2.2, ”Riskfaktorer som endast gäller 
+säkerställda obligationer”] 
+ 
+2.2. 
+ISIN-kod: 
+[●]
+
+--- Page 32 ---
+32 
+ 
+ 
+2.3. 
+Euroclear common code: 
+[●][Ej tillämpligt] 
+ 
+2.4. 
+Kreditbetyg: 
+[Bolaget har ansökt om att Obligationerna 
+ska åsättas kreditbetyg. Vid tidpunkten för 
+dessa Slutliga Villkor är Bolagets förväntan 
+att kreditbetyget blir [Aaa/Aa2] från Moody’s 
+Investors Service (Nordics) AB och [AAA/AA-
+] från S&P Global Ratings Europe Limited 
+(S&P), ett dotterbolag till S&P Global 
+ 
+ 
+Ovanstående 
+kreditvärderingsinstitut 
+är 
+etablerade inom EU och är registrerat i 
+enlighet med Europaparlamentets och rådets 
+förordning (EG) nr 1060/2009 av den 16 
+september 2009 om kreditvärderingsinstitut.] 
+ 
+[ELLER] 
+ 
+[Ej tillämpligt] 
+ 
+2.5. 
+Annan 
+begränsning 
+av 
+samtycke till användning av 
+Prospektet: 
+ 
+[●] 
+ 
+2.6. 
+Intressen som har betydelse 
+för emissionen: 
+[Förutom den ersättning som betalas till 
+Emissionsinstituten med anledning av deras 
+deltagande 
+i 
+Programmet 
+och 
+denna 
+emission, så känner Bolaget inte till att någon 
+inblandad person har något intresse av 
+betydelse för emissionen.] 
+ 
+[ELLER] 
+ 
+[Beskrivning av intressen som har betydelse 
+för emissionen bland någon eller några 
+fysiska eller juridiska personer som är 
+inblandade 
+i 
+emissionen, 
+inklusive 
+intressekonflikter.] 
+  
+2.7. 
+Tidigaste 
+dagen 
+för 
+värdepapprens 
+upptagande 
+till handel: 
+ 
+ 
+ 
+[●][Ej tillämpligt]
+
+--- Page 33 ---
+33 
+ 
+2.8. 
+Volym av värdepapper 
+ 
+ 
+(i) 
+ Utökad 
+volym 
+av 
+värdepapper som tas 
+upp till handel: 
+[●] 
+ 
+(ii) 
+ Total 
+volym 
+av 
+värdepapper som tas 
+upp till handel: 
+[●] 
+2.9. 
+Användning av de medel som 
+tillförs 
+Bolaget 
+efter 
+emissionen: 
+[Allmän 
+finansiering 
+av 
+Bolagets 
+verksamheter] [Specificera detaljer] 
+______________________ 
+ 
+Bolaget bekräftar härmed att ovanstående Slutliga Villkor är gällande för Lånet tillsammans med de 
+Allmänna Villkoren. 
+ 
+Stockholm den [●] 
+ 
+SWEDBANK HYPOTEK AB (publ) 
+ 
+ 
+__________________________________ 
+Namn: 
+__________________________________ 
+Namn:
+
+--- Page 34 ---
+34 
+6. Allmänt om Bolaget 
+Detta avsnitt innehåller information avseende Bolaget, dess affärsverksamhet samt legala ramverk och 
+förutsättningar. 
+6.1 
+VERKSAMHETSBESKRIVNING 
+6.1.1 Bolagsbildning och historia 
+Bolagets firma och kommersiella beteckning är Swedbank Hypotek AB, med registrerad parallellfirma 
+Swedbank Mortgage AB. Bolaget är ett publikt aktiebolag registrerat hos Bolagsverket med 
+organisationsnummer 556003-3283, med styrelsens säte i Stockholm och med registrerad adress, SE-
+105 34 Stockholm, telefon +46 (0) 8 5859 0000. Bolagets LEI-kod är 549300TJREQ7GHIXWR36. 
+Adressen till Bolagets hemsida är http://hypotek.swedbank.se, informationen på hemsidan utgör inte en 
+del av detta Prospekt. 
+Bolaget bildades i Sverige den 19 februari 1885 som ett regionalt bolåneinstitut, specialiserat på 
+nybyggnationslån i Malmöområdet. Aktierna i Bolaget köptes av Banken 1958 och Bolaget har sedan 
+dess varit ett helägt dotterbolag till Banken. 
+Enligt sin nuvarande bolagsordning ska bolagets aktiekapital vara minst SEK 4 000 000 000 och högst 
+SEK 16 000 000 000, uppdelat i inte mindre än 8 000 000 aktier och högst 32 000 000 aktier. Bolagets 
+registrerade aktiekapital är SEK 11 500 000 000, uppdelat på 23 000 000 aktier. Alla bolagets aktier är 
+av samma aktieklass och det finns ingen skillnad i rösträtt bland aktierna. Aktierna är till fullo betalda.  
+Bolaget belånar fastigheter och enskilda bostadsrätter upp till 85 procent av bedömt marknadsvärde. 
+Bolaget lämnar även lån till kommuner eller andra kredittagare med kommunal borgen som säkerhet 
+samt till jord- och skogsbruk under bifirman Jordbrukskredit. Av Bolagets totala utlåningsvolym utgör 
+drygt 90 procent lån till privatboende. 
+6.1.2 Rättslig miljö 
+Bolagsform, tillstånd och liknande 
+Bolaget är bildat och registrerat i enlighet med aktiebolagslagen (2005:551) och driver verksamhet som 
+kreditmarknadsbolag med tillstånd från Finansinspektionen enligt lagen (2004:297) om bank- och 
+finansieringsrörelse. 
+Bolagets säkerställda obligationer ges ut med tillstånd av Finansinspektionen i enlighet med LUSO. 
+Utöver detta följer Bolaget bland annat även tillsynsförordningen samt lagen (2014:968) om särskild 
+tillsyn över kreditinstitut och värdepappersbolag enligt vilken vissa krav som ska uppfyllas av 
+kreditmarknadsbolag anges. 
+Den 1 januari 2017 infördes ett nytt EU-direktiv i svensk lag, det så kallade Bolånedirektivet. Syftet med 
+direktivet är bland annat att kunder lättare ska förstå innehållet i sina bolåneerbjudanden. Vidare innebär 
+direktivet att nya regler om rådgivning, krav på kunskap och kompetens, ersättning till låneförmedlare 
+och värdering av säkerheter blir tillämpliga på Bolagets verksamhet. Bolånedirektivet har 
+implementerats i Sverige genom lag (2016:1024) om verksamhet med bostadskrediter. 
+Rättslig miljö för affärsverksamheten 
+Sverige är i grunden en marknadsekonomi baserad på privat ägande och avtalsfrihet och Bolagets 
+låneavtal har oftast formen av en ensidig revers utställd av låntagaren till långivaren vilken innehåller 
+lånevillkoren, inklusive löfte om återbetalning av lånet, betalning av ränta och pantsättning av viss 
+egendom som säkerhet för lånet. Ett lån upptaget i syfte att finansiera låntagarens bostad är lagligt sett
+
+--- Page 35 ---
+35 
+en konsumentkredit enligt konsumentkreditlagen (2010:1846) vilket innebär att det finns vissa 
+obligatoriska regler som skyddar låntagaren genom att reglera låneavtalet. 
+Låntagarens pantsättning av fast egendom kommer till uttryck genom pantsättning av ett eller flera 
+pantbrev som säkerhet för lånet och fullbordas genom leverans av pantbreven till långivaren eller, vilket 
+är vanligare, om det är ett datapantbrev genom elektronisk registrering i inskrivningsmyndighetens 
+datapantbrevsregister. Ett pantbrev är i sig inget skuldinstrument utan motsvarar en inteckning av 
+fastigheten. Pantbrevet utvisar det maximala belopp som på grund av pantbrevet kan betalas ut till en 
+fordringshavare vid en exekutiv auktion och förmånsrätten i relation till andra inteckningar av fastigheten. 
+Inteckningen är inte tidsbegränsad. 
+Eftersom svenska bostadsrättslägenheter inte är fast egendom i laglig bemärkelse är det inte möjligt att 
+ställa ut pantbrev på dessa och deras användning som säkerhet är annorlunda utformad. Pantsättningen 
+uttrycks istället som en pantsättning av själva bostadsrätten och fullbordas genom formell underrättelse 
+till bostadsrättsföreningen som äger fastigheten. 
+En långivare som önskar driva in betalning av ett obetalt lån kan ansöka till kronofogdemyndigheten om 
+ett så kallat betalningsföreläggande eller till tingsrätten om stämning. Ett beslut innebär vanligtvis både 
+fastställande av långivarens betalningskrav samt rätten för långivaren att sälja fastigheten på exekutiv 
+auktion i enlighet med låneavtalet. Efter beslut kan långivaren ansöka om verkställighet av beslutet, 
+inklusive försäljning av fastigheten. Sådan försäljning hålls vanligtvis som öppen auktion. Om det högsta 
+budet inte täcker sökandens fordran och andra fordringar med företrädesrätt framför sökanden, måste 
+sökanden godkänna budet för att försäljningen av fastigheten ska verkställas. 
+Eventuell återstående skuld efter avräkning efter exekutiv auktion fortsätter att vara en fordran på 
+låntagaren för vilket låntagaren är återbetalningsskyldig till dess att skulden är helt avbetalad eller 
+långivaren accepterar nedsättning av skuldbeloppet eller låntagaren beviljas skuldsanering enligt 
+nedan. 
+I de relativt ovanliga situationer där enskilda bolånekunder begärs i personlig konkurs behandlas lånet 
+och säkerheten i enlighet med konkurslagen (1987:672) vilket i korthet innebär att säkerheten säljs av 
+konkursförvaltaren och att försäljningssumman används för att återbetala skulderna. Om 
+försäljningssumman inte räcker till att återbetala hela fordran kan överskjutande fordran återkrävas med 
+samma förmånsrätt som tillkommer andra oprioriterade borgenärer, alternativt kan skuldsanering 
+beviljas vilket beskrivs nedan. 
+En begäran från låntagaren till Kronofogdemyndigheten om skuldsanering kan godkännas med stöd av 
+skuldsaneringslagen (2016:675) i situationer där en låntagare är så pass skuldsatt att det är osannolikt 
+att återbetalning kan ske inom en överskådlig framtid. Utöver detta måste skuldsanering vara rättvis och 
+rimlig med hänsyn till låntagarens personliga och finansiella förhållanden. Bolån kan vara en del av en 
+skuldsaneringsplan. 
+6.1.3 Affärsverksamheten 
+Tjänster och produkter 
+Bolaget bedriver sin verksamhet i Sverige och dess huvudsakliga affärsverksamhet är utlåning till 
+långsiktig finansiering av bostads-, jordbruks-, samt affärs- och kontorsfastigheter. Med 
+bostadsfastigheter avses här både fastigheter och bostadsrätter för ägarens eget boende samt 
+flerfamiljshus. Dessa lån kräver säkerhet i form av fastigheter eller bostadsrätter och får inte överstiga 
+en viss andel av värdet på säkerheterna. Lån lämnas endast mot säkerheter som finns i Sverige. Bolaget 
+erbjuder även lån till offentlig sektor och lån mot borgen av stat och kommun.
+
+--- Page 36 ---
+36 
+De lån Bolaget erbjuder har antingen bunden eller rörlig ränta och återbetalas med rak amortering, 
+serieplan eller som en enda återbetalning. Återbetalningstiden på lånen varierar från 10 till 60 år och 
+faktiskt genomsnittlig vägd lånetid har historiskt varit 5 till 8 år, beroende på beräkningsmetod. 
+Ränte- och återbetalningsstrukturen för ett vanligt låneavtal som används av Bolaget är upplagd som 
+ett antal på varandra efterföljande räntebindningsperioder. Den första räntebindningsperioden och 
+andra avtalsvillkor under den perioden bestäms vid utbetalning av lånet. Villkor och tidpunkter för 
+framtida räntebindningsperioder fastställs enligt en förutbestämd mekanism vilket gör det enkelt för 
+Bolaget och låntagaren att byta mellan olika räntebindningsperioder i takt med att dessa löper ut och att 
+växla mellan olika amorteringsplaner. 
+Distribution, kreditbeslut och prissättning 
+Bolagets lån distribueras via Bankens lokala kontor och genom de samarbetande sparbankernas kontor 
+runt om i landet, samt via Bankens telefon- och internetkanaler. Kundens egenskaper, uppgifter i 
+låneansökan, inhämtad information om kunden och säkerheten för lånet ligger till grund för låneansökan. 
+Beroende på relevant beslutsnivå, godkänner eller avslår en kredithandläggare, områdeschef eller 
+kreditkommitté ansökan. Dessutom får automatiska beslut fattas för privatärenden under förutsättning 
+att beredning skett via Swedbanks helautomatiserade kreditberednings- och beslutssystem. Vid 
+godkännande av ansökan godkänns också priset på lånet baserat på en internprismodell. Modellen tar 
+hänsyn till faktorer som upplåningskostnaden för Bolaget, kundens affärsvolym, skuldsättningsgrad, 
+geografi, belåningsgrad samt om kunden amorterar eller inte. Detta pris kan från tid till annan justeras 
+för att konkurrera med priserbjudanden från andra aktörer på marknaden. Lånedokumentationen skapas 
+automatiskt efter godkännande av låneansökan. 
+Utvärdering av låntagarens återbetalningsförmåga 
+Låntagarens återbetalningsförmåga utvärderas utifrån insamlad information, ett stressat scenario samt 
+genom en standardiserad kreditvärderingsprocess. 
+Utvärderingen av låntagarens återbetalningsförmåga baseras på information om bl.a. låntagarens 
+inkomster, utgifter, befintliga tillgångar och skulder, ålder, arbete och civilstånd. För företagskunder 
+inhämtas information om företagets finansiella ställning genom årsredovisningar, delårsrapporter, 
+budgetar och prognoser samt information om låntagarens betalningshistorik, såväl inom som utom 
+Koncernen. 
+I ett stressat scenario utvärderas hushållets nettoinkomster och utgifter, med hänsyn tagen till en 
+ansträngd privatekonomisk situation inklusive en betydande räntehöjning för närvarande två 
+procentenheter över den nuvarande femårsräntan, dock minst 6 procent. Om räntan för en del av 
+krediten är bunden i åtminstone fem år kan kalkylräntan sättas till listränta för kredit i Swedbank Hypotek 
+med fem års bindningstid jämte ett tillägg av 1 procentenhet, dock lägst 5 procent. Vidare ska låntagare 
+amortera 1 procent på bolån med en belåningsgrad över 50 procent till och med 70 procent och 2 
+procent på bolån med en belåningsgrad över 70 procent, vilket är ett lagkrav sedan 1 juni 2016. Sedan 
+1 mars 2018 gäller Finansinspektionens skärpta amorteringskrav vilket innebär att ytterligare en 
+procentenhet ska amorteras oberoende av amorteringskrav baserat på belåningsgrad om nya 
+bolånetagare lånar mer än 4,5 gånger sin bruttoinkomst. En låneansökan ges rekommendationen 
+avrådes om utfallet av dessa tester inte uppfyller koncernens minimikrav, vilka baseras bland annat på 
+uppgift om Socialstyrelsens existensminimum med tillägg för en marginal adderad av Banken. 
+Återbetalningsförmågan utvärderas även genom en standardiserad kreditvärderingsprocess med data 
+från en intern databas över betalningshistorik samt kontoinformation tillsammans med extern data. 
+Informationen bearbetas med en algoritm där varje kund erhåller en ”sannolikhet för fallissemang”-
+poäng (eng. ”probability of default percentage”, ”PD”) som anger risken för att kunden inte ska kunna 
+fullfölja sina åtaganden. En hög PD leder normalt till att en låneansökan avslås.
+
+--- Page 37 ---
+37 
+Ett liknande stresstest genomförs även för företagskunder. 
+Värdering av säkerheter 
+Värdering av bostadsfastigheter som ställs som säkerhet för bostadslån baseras oftast på priset för 
+fastigheten. I de fall när en fastighet köps på en öppen marknad, anses priset vara en tillräckligt säker 
+indikation på värdet, om en intern eller extern värderingsman godkänt värderingen. När ett nytt bolån 
+lämnas utan samband med en försäljning av fastigheten ska en värdering göras av en oberoende källa, 
+vilket kan vara en intern eller extern värderingsman med god lokal marknadskännedom. Den oberoende 
+värderingen av fast egendom är ett lagkrav enligt svensk lagstiftning om säkerställda obligationer. 
+Lagkravet omfattar även dokumentation av vem och under vilka förutsättningar värderingen har utförts. 
+Exempelvis kan det ha gjorts genom transaktionsvärdes-, inkomst- eller marknadsanalys. 
+Låneadministration 
+Majoriteten av bolånekunderna betalar ränta och amortering genom automatisk överföring från 
+transaktionskonton de har i Banken. De som inte använder automatisk överföring får en pappersfaktura 
+som betalas av kunden på sedvanligt vis, vanligen genom girobetalning. Alla lån bokförs direkt i Bolagets 
+balansräkning. 
+Bolån med fast ränta har oftast en räntebindningsperiod på mellan 1-10 år. Ramverket för räntesättning 
+bestäms av Bolaget, medan det slutliga priset till kunden förhandlas på lokal nivå och därmed sätts av 
+det lokala kontoret eller den förmedlande sparbanken. 
+Skuldindrivning och utmätning 
+Bolaget bevakar obetalda lånefordringar på daglig basis. Obetalda lånefordringar hanteras i enlighet 
+med en standardiserad och automatiserad rutin som följer svensk lag. En första påminnelse skickas till 
+kunden 5 dagar efter betalningens ordinarie förfallodag med information om att ytterligare avgifter 
+kommer att debiteras. En andra påminnelse skickas 12 dagar efter förfallodagen till kredittagare samt 
+borgensmän.  
+Inkassokrav/uppsägning skickas automatiskt till kredittagare 5 dagar efter tredje obetalda förfallodagen 
+där kunden informeras om att fordran sägs upp och kommer att skickas vidare till inkassobolag med 
+ytterligare tillkommande avgifter om skulden inte betalas. Konsumentkrediter sägs i samband med 
+inkassokravet upp i enlighet med reglerna i Konsumentkreditlagen (2010:1846).  
+Efter 60 dagar markeras krediten som oreglerad/osäker i Bolagets system. Efter 90 dagar markeras 
+fordringarna som reserverade. 
+Dröjsmålsränta debiteras för obetalda utestående belopp och är begränsad enligt svensk lag. 
+6.1.4 Upplåning och säkring 
+Säkerställda obligationer och övrig upplåning 
+Under 2008 övergick Bolaget till säkerställda obligationer som primär upplåningsform och konverterade 
+utestående långfristig upplåning till säkerställda obligationer. Sedan dess har samtliga emissioner av 
+Obligationer med lång löptid emitterats som säkerställda obligationer under olika nationella och 
+internationella upplåningsprogram eller under fristående dokumentation. De säkerställda obligationerna 
+har förmånsrätt till en säkerhetsmassa som huvudsakligen innehåller hypotekslån med 
+bostadsfastigheter och kommersiella fastigheter som säkerhet. I säkerhetsmassan får det även ingå 
+offentliga fordringar och fordringar mot kreditinstitut och utländska kreditinstitut inom EES. Möjligheten 
+till Senarelagd Återbetalningsdag, s.k. löptidsförlängning enligt LUSO, lades in i Prospektet under 2022.
+
+--- Page 38 ---
+38 
+Bolaget tar inte emot inlåning från allmänheten. Dess kortfristiga upplåning säkerställs huvudsakligen 
+genom kortfristiga lån från Banken, men kan även ske genom emissioner av företagscertifikat under 
+olika nationella och internationella program.  
+Bolaget kan även löpande sätta upp nya upplåningsprogram, emittera skuldinstrument under fristående 
+dokumentation och ta upp lån under bilaterala eller multilaterala låneavtal. 
+Vissa av Bolagets skuldinstrument är noterade på Nasdaq Stockholm, London Stock Exchange, 
+Euronext Dublin, SIX Swiss Exchange, Oslo Børs eller Oslo ABM. 
+Säkringsarrangemang och annan riskhantering 
+För att säkra ränte-, valuta- eller andra finansiella risker som uppstår i affären ingår Bolaget olika typer 
+av derivatkontrakt. Om derivatet i fråga avser upplåning via säkerställda obligationer sker detta via 
+Banken eller andra externa motparter.  
+6.1.5 Beroende av koncernbolag 
+Bolaget har anlitat Banken för utförande av stora delar av Bolagets verksamhet. Ansvaret för utförande 
+av dessa uppgifter har lagts på Banken genom outsourcing och utförandet av uppgifterna har integrerats 
+i Bankens övriga verksamhet. Exempelvis har Bolaget inget eget försäljningsnätverk utan utlåningen 
+sker via Bankens och sparbankernas kontorsnätverk. Vidare har Bolaget ingen egen funktion för 
+upplåning utan Bolagets finansiering hanteras av Bankens centrala upplåningsfunktion. 
+6.2 
+RISKHANTERING 
+Inom Bolaget mäts, redovisas och hanteras risker i enlighet med de riktlinjer och policyer som är 
+fastställda inom Koncernen. Inom Bolaget är de huvudsakliga riskerna kreditrisker, finansiella risker, 
+operativa risker och ESG-risker. 
+6.3 
+STYRELSE, LEDANDE BEFATTNINGSHAVARE OCH REVISORER 
+6.3.1 Bolagets styrelse och verkställande direktör 
+Vid en extra bolagsstämma den 22 december 2021 valdes Johan Smedman som ny styrelseordförande. 
+Bolagets ordinarie årsstämma ägde rum den 30 mars 2023.  
+  
+Namn 
+Födelseår  Befattning 
+Ledamot 
+sedan 
+Övriga väsentliga uppdrag* 
+Johan Smedman 
+1964 
+Styrelseordförande 
+2010 
+Swedbank Försäkring AB, Ordförande 
+Jennifer Barck  
+1980 
+Ledamot 
+2020 
+Swedbank Fastighetsbyrå AB, Ledamot 
+Elizabet Jönsson 
+1976 
+Ledamot 
+2021 
+Mattias Persson 
+1970 
+Ledamot 
+2021 
+Fredrik Nilzén 
+1978 
+Ledamot 
+2023 
+Mats Lindgren 
+1972 
+Ledamot 
+2023 
+. 
+ 
+Den 1 mars 2023 tillträdde Thomas Åhman som verkställande direktör.
+
+--- Page 39 ---
+39 
+Verkställande direktören har inrättat ett ledningsorgan som består av nedanstående personer. Samtliga 
+personer i ledningsorganet är tillika anställda i Bolaget. Ingen av dessa personer har några övriga 
+sysselsättningar utanför Bolagets verksamhet som är att anses som betydande i förhållande till Bolaget.  
+Namn 
+Befattning 
+Thomas Åhman 
+Chief Executive Officer 
+Pasi Toikkanen 
+Head of Governance and Control, 
+CIO och CISO 
+Joakim Lind 
+Chief Risk Officer 
+Urban Alsholm  
+Chief Financial Officer 
+Carl Rydell 
+Chief Credit Officer 
+Natalie Kling 
+Chief Compliance Officer 
+Rebecka Valdemarsson Head of Mortgage Administration & 
+Operational Risk 
+Eva Sundberg Laigar 
+Head Product Manager 
+ 
+Adress till styrelseledamöterna, verkställande direktören och ledamöterna i ledningsorganet är 
+densamma som Bolagets adress. 
+Såvitt Bolaget känner till har varken styrelseledamöterna, verkställande direktören eller ledamöterna i 
+ledningsorganet några privata eller andra intressen som kan stå i strid med Bolagets intressen. 
+6.3.2 Organisation 
+Bolagets samtliga affärsfunktioner har utlokaliserats till Banken genom avtal varvid Banken åtagit sig att 
+sköta alla nödvändiga därtill relaterade processer. Denna modell skapar synergieffekter eftersom 
+Banken i stora delar tillämpar samma rutiner och system för sin egen upplåning och utlåning som för 
+Bolaget. Detta gör dock Bolaget i hög grad beroende av Banken för den löpande verksamheten, se mer 
+om detta i avsnitt 2 (Riskfaktorer). 
+6.3.3 Revisorer 
+Vid Bolagets årsstämma 2023 utsågs PwC Sverige AB till Bolagets revisor fram tills slutet av Bolagets 
+årsstämma 2024. Anneli Granqvist är huvudansvarig revisor och är även medlem i FAR. 
+6.4 
+LEGALA FRÅGOR 
+6.4.1 Väsentliga avtal 
+Bolaget har inga avtal utanför den löpande affärsverksamheten som kan innebära att ett bolag inom 
+Koncernen tilldelas en rättighet eller åläggs en skyldighet som väsentligt kan påverka Bolagets förmåga 
+att uppfylla sina förpliktelser i enlighet med Obligationerna. 
+6.4.2 Myndighetsförfaranden, rättsliga förfaranden och skiljeförfaranden 
+Bolaget är för närvarande inte föremål för eller part i några myndighetsförfaranden, rättsliga förfaranden 
+eller förlikningsförfaranden (inklusive ännu icke avgjorda ärenden och ärenden som Bolaget är medvetet 
+om kan uppkomma) som väsentligen påverkar eller enligt Bolagets bedömning skulle kunna komma att
+
+--- Page 40 ---
+40 
+väsentligen påverka Bolagets finansiella ställning eller lönsamhet och Bolaget har inte heller varit 
+föremål för eller part i ett sådant förfarande under de tolv månader som föregått offentliggörandet av 
+detta Prospekt. 
+6.5 
+KREDITBETYG 
+6.5.1 Kreditbetyg (rating) 
+Bolaget och vissa skuldinstrument utgivna av Bolaget har kreditbetyg från Moody’s Investors Service 
+(Nordics) AB (etablerat inom EU och registrerat i enlighet med Europaparlamentets och rådets 
+förordning (EG) nr 1060/2009 av den 16 september 2009 om kreditvärderingsinstitut) (‘‘Moody’s’’) och 
+från S&P Global Ratings Europe Limited (etablerat inom EU och registrerat i enlighet med 
+Europaparlamentets och rådets förordning (EG) nr 1060/2009 av den 16 september 2009 om 
+kreditvärderingsinstitut) (‘‘Standard & Poor’s’’). 
+Vid publiceringen av detta Prospekt har samtliga säkerställda obligationer utgivna av Bolaget tilldelats 
+kreditbetyget Aaa från Moody’s och AAA från Standard & Poor’s. Kreditbetyg Aaa respektive AAA är 
+högsta kreditbetyg från Moody’s och Standard & Poor’s. För att bibehålla denna nivå har Bolaget åtagit 
+sig att om dess kortsiktiga kreditbetyg från Standard & Poor’s faller under A-1, inom 30 kalenderdagar 
+tillföra ytterligare likvida tillgångar till säkerhetsmassan eller agera på ett annat lämpligt sätt för att 
+bibehålla tillräcklig likviditetsnivå för att behålla de säkerställda obligationernas kreditbetyg. Bolaget kan 
+dock komma att emittera säkerställda obligationer utan kreditbetyg eller med lägre kreditbetyg än Aaa 
+från Moody’s och/eller AAA från Standard & Poor’s. 
+Bolaget självt och andra skuldinstrument som emitteras av Bolaget kan på begäran av Bolaget komma 
+att erhålla ett kreditbetyg från kreditvärderingsinstitut vilket publiceras i dokumentation tillhörande 
+sådana skuldinstrument. 
+Ett kreditbetyg avseende Bolaget eller ett av Bolaget utgivet Obligationslån kan när som helst ändras 
+eller bortfalla. En faktisk eller förväntad förändring av kreditbetyg avseende en viss Obligation kan 
+innebära en minskning i dess marknadsvärde. 
+ 
+6.5.2 Tabell över kreditbetyg 
+ 
+ 
+Standard & Poor’s1 
+Moody’s2 
+ 
+Kort-upplåning 
+Lång-upplåning 
+Kort-upplåning 
+Lång-upplåning 
+ 
+ 
+ 
+ 
+ 
+Bolaget 
+A-1 
+A+  
+P-1 
+Aa3  
+ 
+ 
+ 
+ 
+ 
+Långfristiga icke säkerställda 
+obligationer 
+ 
+A+  
+ 
+Aa3  
+ 
+ 
+ 
+ 
+ 
+Säkerställda obligationer 
+ 
+AAA  
+ 
+Aaa 
+ 
+ 
+ 
+ 
+ 
+1 För mer information om rating, se webbplats www.standardandpoors.com (informationen på hemsidan 
+utgör inte en del av detta Prospekt). 
+2 För mer information om rating, se webbplats www.moodys.com (informationen på hemsidan utgör inte 
+en del av detta Prospekt).
+
+--- Page 41 ---
+41 
+Nedan följer en uppställning över respektive kreditvärderingsinstituts skala gällande kreditbetyg: 
+S&P 
+Moody's 
+Långfristig 
+Kortfristig 
+Långfristig 
+Kortfristig 
+Investment grade ratings 
+AAA 
+A-1+ 
+Aaa 
+P-1 
+AA+ 
+A-1+ 
+Aa1 
+P-1 
+AA 
+A-1+ 
+Aa2 
+P-1 
+AA- 
+A-1+ 
+Aa3 
+P-1 
+A+ 
+A-1+/A-1 
+A1 
+P-1 
+A 
+A-1 
+A2 
+P-1 
+A- 
+A-1/A-2 
+A3 
+P-1/P-2 
+BBB+ 
+A-2 
+Baa1 
+P-2 
+BBB 
+A-2/A-3 
+Baa2 
+P-2/P-3 
+BBB- 
+A-3 
+Baa3 
+P-3 
+Non-investment grade ratings 
+BB+ 
+B 
+Ba1 
+Not prime 
+BB 
+B 
+Ba2 
+Not prime 
+BB- 
+B 
+Ba3 
+Not prime 
+B+ 
+C 
+B1 
+Not prime 
+B 
+C 
+B2 
+Not prime 
+B- 
+C 
+B3 
+Not prime 
+CCC+ 
+C 
+Caa1 
+Not prime 
+CCC 
+C 
+Caa2 
+Not prime 
+CCC- 
+C 
+Caa3 
+Not prime 
+CC 
+C 
+Ca 
+Not prime 
+C 
+C 
+C 
+Not prime 
+D 
+D 
+D 
+  
+ 
+ 
+Kreditbetyg - Lång upplåning 
+Moody's 
+Aaa 
+Obligationer med kreditbetyg Aaa bedöms vara av högsta kvalitet och föremål för 
+den lägsta nivån av kreditrisk. 
+Moody's 
+Aa 
+Obligationer med kreditbetyg Aa bedöms vara av hög kvalitet och föremål för 
+mycket låg kreditrisk. 
+Standard and Poor's 
+AAA 
+En obligation med kreditbetyg AAA har det högsta kreditbetyg som tilldelas av 
+Standard and Poor's. Gäldenärens förmåga att uppfylla sina finansiella åtaganden 
+i relation till obligationen är extremt stark. 
+Standard and Poor's 
+AA 
+En obligation med kreditbetyg AA skiljer sig bara i liten utsträckning från 
+obligationer med högsta kreditbetyg. Gäldenärens förmåga att uppfylla sina 
+finansiella åtaganden i relation till obligationen är mycket stark. 
+ 
+Moody's bifogar numeriska tillägg 1, 2 och 3 till varje kreditbetygsklass från Aa till Caa. Tilläggen 
+indikerar hur obligationen rankas inom respektive kreditbetygsklass. Kreditbetyg från AA till CCC kan 
+av Standard and Poor's bifogas ett plustecken eller minustecken för att indikera kreditbetygets relativa 
+ställning inom respektive kreditbetygsklass.
+
+--- Page 42 ---
+42 
+6.6 
+VÄSENTLIG FÖRÄNDRING 
+Det har inte skett någon väsentlig negativ förändring av Bolagets framtidsutsikter sedan den 31 
+december 2022. 
+Det har inte skett någon betydande förändring avseende Bolagets finansiella ställning sedan den 30 juni 
+2023, vilket motsvarar perioden från utgången av den senaste räkenskapsperiod för vilken finansiell 
+information har offentliggjorts fram till datumet för detta Prospekt.
+
+--- Page 43 ---
+43 
+7. 
+Övrig information 
+7.1    BENCHMARKFÖRORDNINGEN ART 29.2 OCH ART 36 
+Obligation med rörlig ränta under detta Prospekt kommer att ha STIBOR som räntebas. Vid tidpunkten 
+för upprättande av detta Prospekt är administratören för STIBOR, Swedish Financial Benchmark Facility 
+(”SFBF”) registrerad i det register över administratörer och referensvärden som tillhandahålls av ESMA 
+i enlighet med art 36 i Benchmarkförordningen.  
+7.2    DISTRIBUTION – SAMTYCKE TILL ANVÄNDNING AV PROSPEKTET 
+Per datumet för detta Prospekt är följande institut Emissionsinstitut under Programmet: Danske Bank 
+A/S, Nordea Bank Abp, Skandinaviska Enskilda Banken AB (publ), Svenska Handelsbanken AB (publ) 
+och Swedbank AB (publ). Antalet emissionsinstitut kan komma att reduceras eller utökas genom avtal 
+mellan Bolaget och nämnda Emissionsinstitut. Information om detta kommer i så fall att lämnas genom 
+meddelande på Bankens hemsida www.swedbank.com (information på hemsidan utgör inte del av detta 
+Prospekt). 
+Obligationerna distribueras endast via Emissionsinstituten. Vid intresse av att förvärva Obligation 
+hänvisas potentiella investerare till Emissionsinstituten. Emissionsinstituten har i avtal med Bolaget bl. a 
+åtagit sig att under vissa förutsättningar utbjuda Obligationerna på kapitalmarknaden, verka för handel 
+med Obligationerna på andrahandsmarknaden och fortlöpande ange köp- och säljkurser. 
+Emissionsinstitutens åtaganden att ange köp- och säljkurser gäller endast för sådana Obligationer som 
+givits särskild status, s.k. benchmarklån. Sådan status ges för ett begränsat antal obligationslån och 
+under förutsättning att den totala volymen av Obligationer under respektive obligationslån uppgår till ett 
+belopp motsvarande det belopp som angivits i avtalet med Emissionsinstituten och att obligationslånet 
+har en återstående löptid om minst ett år. Vid tidpunkten för Prospektet har obligationslån nr 195, 196, 
+197, 198 och 199 status av benchmarklån. Ett obligationslån upphör att vara ett benchmarklån vid den 
+tidpunkt återstående löptid uppgår till cirka ett år. 
+Bolaget samtycker till att Prospektet används i samband med ett erbjudande avseende Obligationerna 
+och påtar sig ansvaret för Prospektets innehåll i samband med sådan användning, endast i enlighet 
+med följande villkor: 
+(i) 
+samtycket gäller endast erbjudanden som kräver att ett prospekt upprättas; 
+(ii) 
+samtycket gäller endast under giltighetstiden för detta Prospekt; 
+(iii) 
+de enda finansiella mellanhänder som får använda Prospektet för erbjudanden är 
+Emissionsinstituten; 
+(iv) 
+samtycket berör endast användningen av Prospektet för erbjudanden i Sverige; och 
+(v) 
+samtycket kan för en enskild emission vara begränsat av ytterligare förbehåll som i så fall anges 
+i punkt 2.5 i de tillämpliga Slutliga Villkoren. 
+ 
+Prospektet innehåller ingen information om villkoren för ett Emissionsinstituts eventuella 
+erbjudanden 
+avseende 
+Obligationer. 
+Sådan 
+information 
+kommer 
+att 
+lämnas 
+av 
+Emissionsinstitutet när erbjudandet lämnas. Bolaget ansvarar inte för sådan information.
+
+--- Page 44 ---
+44 
+7.3    AVDRAG FÖR SKATT 
+Euroclear Sweden verkställer om inte annat anges i Slutliga Villkor avdrag för preliminär skatt, för 
+närvarande 30 procent på utbetald ränta, för fysisk person bosatt i Sverige och för svenskt dödsbo. 
+Ingen kupongskatt utgår för begränsat skattskyldiga personer.  
+7.4 INFORMATION OM BESKATTNING 
+Skattelagstiftningen i en investerares medlemsstat och Bolagets registreringsland kan inverka på 
+inkomsterna från värdepappren. 
+7.5    BESLUT, BEMYNDIGANDEN OCH TILLSTÅND 
+Beslut om att ge ut Obligationer under Programmet fattas med stöd av bemyndigande från Bolagets 
+styrelse. Bolagets upplåning har genom styrelsebeslut utlokaliserats till Banken. Banken har delegerat 
+ansvaret för upplåningen i enlighet med Bankens interna beslutsprocess. Bolaget har tillstånd från 
+Finansinspektionen att ge ut säkerställda obligationer. 
+7.6    GODKÄNNANDE FRÅN FINANSINSPEKTIONEN 
+Detta Prospekt har godkänts av Finansinspektionen som behörig myndighet enligt Europaparlamentets 
+och Rådets förordning (EU) 2017/1129 av den 14 juni 2017 om prospekt som ska offentliggöras när 
+värdepapper erbjuds till allmänheten eller tas upp till handel på en reglerad marknad, och om 
+upphävande av direktiv 2003/71/EG (”Prospektförordningen”). Finansinspektionen godkänner detta 
+Prospekt enbart i så måtto att det uppfyller de krav på fullständighet, begriplighet och konsekvens som 
+anges i Prospektförordningen. Detta godkännande ska inte betraktas som något slags stöd för den 
+emittent eller kvaliteten på de värdepapper som avses i detta Prospekt. Investerare bör göra sin egen 
+bedömning av huruvida det är lämpligt att investera i dessa värdepapper. Prospektet är giltigt i tolv 
+månader efter datumet för godkännandet. Skyldigheten att tillhandahålla tillägg till Prospektet i fall av 
+nya omständigheter av betydelse, sakfel eller väsentliga felaktigheter gäller inte efter det att Prospektets 
+giltighetstid har löpt ut. 
+7.7    ANSVARSFÖRSÄKRAN 
+Bolaget ansvarar för innehållet i Prospektet och enligt Bolagets kännedom överensstämmer den 
+information som finns i Prospektet med sakförhållandena och ingen uppgift som sannolikt skulle kunna 
+påverka dess innebörd har utelämnats. I den omfattning som följer av lag ansvarar även Bolagets 
+styrelse för innehållet i Prospektet och enligt styrelsens kännedom överensstämmer den information 
+som finns i Prospektet med sakförhållandena och ingen uppgift som sannolikt skulle kunna påverka 
+dess innebörd har utelämnats. 
+7.8    INFÖRLIVANDE GENOM HÄNVISNING 
+Följande information som har offentliggjorts tidigare och som har getts in till Finansinspektionen i 
+samband med ansökan om godkännande av detta Prospekt och ska införlivas genom hänvisning och 
+utgöra en del av detta Prospekt. De delar i respektive finansiell rapport som det ej hänvisas till innehåller 
+information som återfinns i andra delar av Prospektet eller som inte bedöms relevant för investerare i 
+Obligationer. 
+(i) 
+Följande delar av Bolagets reviderade och konsoliderade årsredovisningar per den 
+31 december 2021 och 31 december 2022: 
+Bolagets årsredovisning för 2022  
+ 
+Sida 
+I. 
+Resultaträkning 
+ 
+13 
+II. 
+Balansräkning  
+ 
+14
+
+--- Page 45 ---
+45 
+III. 
+Förändringar i eget kapital 
+ 
+15 
+IV. 
+Kassaflödesanalys 
+ 
+16 
+V. 
+Redovisningsprinciper 
+ 
+17-23 
+VI. 
+Noter 
+ 
+ 
+17-59 
+VII. 
+Revisionsberättelse 
+ 
+63-68 
+Bolagets årsredovisning för 2021  
+ 
+Sida 
+I. 
+Resultaträkning 
+ 
+12 
+II. 
+Balansräkning  
+ 
+13 
+III. 
+Förändringar i eget kapital 
+ 
+14 
+IV. 
+Kassaflödesanalys 
+ 
+15 
+V. 
+Redovisningsprinciper 
+ 
+16-23 
+VI. 
+Noter 
+ 
+ 
+16-56 
+VII. 
+Revisionsberättelse 
+ 
+60-65 
+ 
+Uppgifterna i Bolagets årsredovisningar är granskade av Bolagets revisorer och upprättade i 
+enlighet med International Financial Reporting Standards såsom de antagits av EU (”IFRS”); 
+(ii) 
+Följande delar av Bolagets delårsrapport per den 30 juni 2023: 
+Bolagets delårsrapport för perioden 
+ 
+Sida 
+1 januari 2023 – 30 juni 2023 
+I. 
+Resultaträkning 
+ 
+8 
+II. 
+Balansräkning 
+ 
+9 
+III. 
+Förändringar i eget kapital  
+10 
+IV. 
+Kassaflödesanalys 
+ 
+11 
+V. 
+Redovisningsprinciper 
+ 
+12 
+VI. 
+Noter 
+ 
+ 
+12-31 
+VII. 
+Revisorsgranskning 
+ 
+34 
+Delårsrapporten är översiktligt granskad av Bolagets revisorer. 
+Bolagets årsredovisningar, delårsrapport och tidigare prospekt för Programmet finns 
+tillgängliga på Bolagets hemsida, http://hypotek.swedbank.se. Utöver de handlingar som 
+införlivas genom hänvisning utgör inte informationen på hemsidan en del av detta Prospekt 
+och har inte granskats eller godkänts av Finansinspektionen. 
+ 
+(iii) 
+I syfte att möjliggöra utökningar av Lån utgivna under Bolagets tidigare Allmänna Villkor 
+daterade 4 november 2016 införlivas de Allmänna Villkoren vilka återfinns på sidorna 14-21 i 
+Bolagets grundprospekt daterat den 29 november 2021. 
+ 
+ 
+7.9      TILLGÄNGLIGA HANDLINGAR 
+Följande 
+handlingar 
+finns 
+tillgängliga 
+i 
+elektronisk 
+form 
+på 
+Bolagets 
+hemsida 
+(http://hypotek.swedbank.se): 
+a) 
+Bolagets registreringsbevis och bolagsordning;
+
+--- Page 46 ---
+46 
+b) 
+Bolagets reviderade årsredovisningar per den 31 december 2021 och 2022; 
+c) 
+Bolagets delårsrapport för perioden 1 januari – 30 juni 2023; och 
+d) 
+Prospektet, eventuella tillägg till Prospektet, Slutliga Villkor samt tidigare prospekt och Slutliga 
+Villkor. 
+ 
+7.10 
+ADRESSER 
+ 
+7.10.1   Emittent 
+Swedbank Hypotek AB (publ) 
+Registrerad adress: SE-105 34 Stockholm 
+Besöksadress: Landsvägen 40, 172 63 
+Sundbyberg 
+Telefon +46 (0) 8 585 900 00 
+ 
+ 
+ 
+7.10.2    Emissionsinstitut 
+Danske Bank A/S, 
+Danmark, Sverige Filial 
+Norrmalmstorg 1 
+Box 7523 
+SE-103 92 Stockholm 
+Telefon:  
++46 (0) 8 568 805 77 
+Svenska Handelsbanken AB (publ) 
+Handelsbanken Capital Markets 
+Blasieholmstorg 11 
+SE-106 70 Stockholm 
+Telefon: 
++46 (0) 8 463 46 50 
+ 
+ 
+Swedbank AB (publ) 
+Corporates & Institutions 
+SE-105 34 Stockholm 
+Telefon: 
+Penningmarknad: +46 (0) 8 700 99 00 
+Stockholm: +46 (0) 8 700 99 99 
+Göteborg: +46 (0) 31 739 78 20 
+Nordea Bank Abp 
+Nordea Markets 
+SE-105 71 Stockholm 
+Telefon: 
++46 (0) 8 407 90 85 
++46 (0) 8 407 91 11 
++46 (0) 8 407 92 03 
+ 
+ 
+ 
+Skandinaviska Enskilda Banken AB (publ) 
+Large Corporates & Financial Institutions 
+Kungsträdgårdsgatan 8 
+SE-106 40 Stockholm 
+Telefon: 
++46 (0) 8 506 232 19 
++46 (0) 8 506 234 20
+
+--- Page 47 ---
+47 
+Information om de finansiella mellanhänder som vid var tid har träffat överenskommelse med Bolaget 
+om distribution av Obligationer finns tillgänglig på Bolagets hemsida http ://hypotek  .swedbank.se. 
+7.10.3    Emittentens revisor 
+För räkenskapsåret som slutar den 31 
+december 2019 och framåt 
+PwC Sverige AB 
+Huvudansvarig revisor Anneli Granqvist 
+Torsgatan 21 
+SE-113 97 Stockholm 
+ 
+7.10.4    Oberoende granskare säkerställda obligationer 
+2019-2023 
+Deloitte AB 
+Petter Hildingson 
+Rehnsgatan 11 
+SE-113 79 Stockholm 
+ 
+ 
+7.10.5    Central värdepappersförvarare 
+Euroclear Sweden AB 
+Box 191 
+SE-101 23 Stockholm 
+Telefon +46 (0) 8 402 90 00

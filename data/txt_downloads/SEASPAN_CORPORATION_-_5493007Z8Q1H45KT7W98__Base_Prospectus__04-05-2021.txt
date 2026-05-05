@@ -1,0 +1,3556 @@
+--- Page 1 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Seaspan Corporation 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Joint Bookrunners: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vancouver, 4 May 2021
+
+--- Page 2 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+2
+Important information 
+ 
+The Base Prospectus is based on sources such as annual reports and publicly available information and forward-
+looking information based on current expectations, estimates and projections about global economic conditions, as 
+well as the economic conditions of the regions and industries that are major markets for Seaspan Corporation (the 
+“Company”, “Seaspan” or “we”). 
+ 
+A prospective investor should consider carefully the factors set forth in Chapter 2 Risk factors, and elsewhere in the 
+Prospectus, and should consult his or her own expert advisers as to the suitability of an investment in the bonds. 
+ 
+IMPORTANT – EEA AND UK RETAIL INVESTORS - If the Final Terms in respect of any bonds includes a legend 
+titled "Prohibition of Sales to EEA and UK Retail Investors", the bonds are not intended to be offered, sold or 
+otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in 
+the European Economic Area (“EEA”) or in the United Kingdom (the “UK”). For these purposes, a retail investor 
+means a person who is one (or more) of: (i) a retail client as defined in point (11) of Article 4(1) of the Markets in 
+Financial Instruments Directive II (‘MiFID II’); or (ii) a customer within the meaning of Directive (EU) 2016/97 (the 
+“Insurance Distribution Directive”) where that customer would not qualify as a professional client as defined in point 
+(10) of Article 4(1) of MiFID II; or (iii) not a qualified investor as defined in the Prospectus Directive. Consequently 
+no key information document required by Regulation (EU) No 1286/2014 (as amended, the "Packaged Retail 
+Investment and Insurance-Based Products, PRIIPs Regulation") for offering or selling the bonds or otherwise 
+making them available to retail investors in the EEA or in the UK has been prepared and therefore offering or selling 
+the bonds or otherwise making them available to any retail investor in the EEA or in the UK may be unlawful under 
+the PRIIPS Regulation. 
+ 
+MiFID II product governance / target market – The Final Terms in respect of any bonds will include a legend titled 
+"MiFID II product governance" which will outline the target market assessment in respect of the bonds and which 
+channels for distribution of the bonds are appropriate. Any person subsequently offering, selling or recommending 
+the bonds (a “distributor”) should take into consideration the target market assessment; however, a distributor 
+subject to MiFID II is responsible for undertaking its own target market assessment in respect of the bonds (by 
+either adopting or refining the target market assessment) and determining appropriate distribution channels. 
+ 
+This Base Prospectus is subject to the general business terms of the Joint Bookrunners, available at their websites 
+(www.dnb.no and www.fearnleysecurities.com).  
+ 
+The Joint Bookrunners and/or any of their affiliated companies and/or officers, directors and employees may be a 
+market maker or hold a position in any instrument or related instrument discussed in this Base Prospectus and may 
+perform or seek to perform financial advisory or banking services related to such instruments. The Joint 
+Bookrunners' corporate finance department may act as manager or co-manager for this Company in private and/or 
+public placement and/or resale not publicly available or commonly known.   
+ 
+Copies of this Base Prospectus are not being mailed or otherwise distributed or sent in or into or made available in 
+the United States. Persons receiving this document (including custodians, nominees and trustees) must not 
+distribute or send such documents or any related documents in or into the United States. 
+ 
+Other than in compliance with applicable United States securities laws, no solicitations are being made or will be 
+made, directly or indirectly, in the United States. Securities will not be registered under the United States Securities 
+Act of 1933 and may not be offered or sold in the United States without registration or an applicable exemption from 
+registration requirements. 
+ 
+The distribution of the Base Prospectus may be limited by law also in other jurisdictions, for example in non-EEA 
+countries. Approval of the Base Prospectus by Finanstilsynet (the Norwegian FSA) implies that the Base Prospectus 
+may be used in any EEA country and the UK. No other measures have been taken to obtain authorisation to 
+distribute the Base Prospectus in any jurisdiction where such action is required. 
+ 
+The Base Prospectus dated 4 May 2021 together with a Final Terms and any supplements to these documents 
+constitute the Prospectus. 
+ 
+The content of this Base Prospectus does not constitute legal, financial or tax advice and potential investors should 
+seek legal, financial and/or tax advice. 
+ 
+Unless otherwise stated, this Base Prospectus is subject to Norwegian law. In the event of any dispute regarding 
+the Base Prospectus, Norwegian law will apply.
+
+--- Page 3 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+3
+TABLE OF CONTENTS:  
+ 
+1 RISK FACTORS .................................................................................................................4 
+2 DEFINITIONS ................................................................................................................. 12 
+3 PERSONS RESPONSIBLE .................................................................................................. 13 
+4 STATUTORY AUDITORS ................................................................................................... 14 
+5 INFORMATION ABOUT THE ISSUER ................................................................................... 15 
+6 BUSINESS OVERVIEW ..................................................................................................... 17 
+7 ORGANIZATIONAL STRUCTURE ........................................................................................ 20 
+8 TREND INFORMATION ..................................................................................................... 21 
+9 ADMINISTRATIVE, MANAGEMENT AND SUPERVISORY BODIES ............................................. 22 
+10 MAJOR SHAREHOLDERS ................................................................................................ 24 
+11 FINANCIAL INFORMATION CONCERNING THE COMPANY'S ASSETS AND LIABILITIES, 
+FINANCIAL POSITION AND PROFITS AND LOSSES ...................................................... 25 
+12 MATERIAL CONTRACTS .................................................................................................. 27 
+13 DOCUMENTS AVAILABLE ................................................................................................ 29 
+14 FINANCIAL INSTRUMENTS THAT CAN BE ISSUED UNDER THE BASE PROSPECTUS ................ 30 
+15 THIRD PARTY INFORMATION AND STATEMENT BY EXPERTS AND DECLARATIONS OF 
+ANY INTEREST ....................................................................................................... 39 
+CROSS REFERENCE LIST .................................................................................................... 40 
+JOINT BOOKRUNNERS' DISCLAIMER .................................................................................... 41 
+ANNEX 1 SEASPAN CORPORATION ...................................................................................... 42 
+ANNEX 2 TEMPLATE FOR FINAL TERMS FOR FIXED AND FLOATING RATE BONDS ...................... 43
+
+--- Page 4 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+4
+1 Risk factors   
+Investing in bonds issued by Seaspan Corporation involves inherent risks.   
+ 
+The risks and uncertainties described in the Prospectus are risks of which the Company is aware and that the 
+Company considers to be material to its business. If any of these risks were to occur, the Company’s business, 
+financial position, operating results or cash flows could be materially adversely affected, and the Company could 
+be unable to pay interest, principal or other amounts on or in connection with the bonds.  Prospective investors 
+should carefully consider, among other things, the risk factors set out in this Base Prospectus, before making an 
+investment decision. The risk factors set out in this Base Prospectus and the Final Terms cover the Company and 
+the bonds issued by the Company, respectively. 
+ 
+The risks and uncertainties discussed below are risks that the Company's management currently views as most 
+material and are (in each category), in the assessment of the Company, after making due and reasonable efforts, 
+aspired to be set out in order of priority taking into account the negative impact on the Company should such risks 
+materialize, and the likelihood of their occurrence. 
+ 
+An investment in the bonds is suitable only for investors who understand the risk factors associated with this type 
+of investment and who can afford a loss of all or part of their investment. Any investor must conduct its own 
+investigations and analysis of the Company and should consult his or her own expert advisors as to the suitability 
+of any investment. 
+  
+Risks related to our Business 
+Adverse economic conditions and other developments may affect the ability of our charterers, shipbuilders 
+and relevant refund guarantors to fulfill their obligations under agreements with us. 
+Our vessels are primarily chartered to customers under long-term time charters and payments to us under 
+those charters account for the vast majority of our revenue. Many of our customers finance their activities through 
+cash flow from operations, the incurrence of debt or the issuance of equity. Any significant financial and economic 
+disruption, or any other negative developments that reduce the ability of our customers to make charter payments 
+to us (such as the COVID-19 pandemic, bankruptcy of a customer, decline in global trade, industry over-capacity 
+of containerships, low freight rates, asset write-downs or incurring losses) could materially harm our business, 
+results of operations and financial condition.  
+Similarly, shipbuilders that we engage to construct newbuilding vessels may be affected by future instability 
+of the financial markets and other market conditions or developments, including the fluctuating price of commodities 
+and currency exchange rates and global disruptions to markets and supply chains (including due to COVID-19). In 
+addition, the refund guarantors under shipbuilding contracts (which are banks, financial institutions and other credit 
+agencies that guarantee, under certain circumstances, the repayment of installment payments we make to the 
+shipbuilders) may also be negatively affected by adverse market conditions and, as a result, may be unable or 
+unwilling to meet their obligations due to their own financial condition. We have entered into shipbuilding contracts 
+for the construction of 37 vessels. If any of our shipbuilders or the refund guarantors are unable or unwilling to meet 
+their obligations to us, this may harm our business, results of operations and financial condition. 
+Over time, containership values and charter rates may fluctuate substantially, which could adversely affect 
+our operating results. 
+Containership values can fluctuate substantially over time due to a number of different factors, including, but 
+not limited to: 
+• 
+prevailing economic conditions in the market in which the containership trades; 
+• 
+a substantial or extended decline in world trade; 
+• 
+increases or decreases in containership capacity; and 
+• 
+the cost of retrofitting or modifying existing ships, as a result of technological advances in vessel 
+design or equipment, changes in applicable environmental or other regulations or standards, or 
+otherwise. 
+If a charter terminates, we may be unable to re-deploy the vessel at attractive rates, or at all, and rather 
+than continue to incur costs to maintain and finance the vessel, may seek to dispose of it. Our inability to dispose 
+of the containership at a reasonable price, or at all, could result in a loss on its sale and harm our business, results 
+of operations and financial condition. Further, if we determine at any time that a vessel’s future useful life and 
+earnings require us to impair its value on our financial statements, we may need to recognize a significant charge 
+against our earnings.
+
+--- Page 5 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+5
+If a more active short-term or spot containership market develops, we may have more difficulty entering 
+into long-term, fixed-rate time charters and our existing customers may begin to pressure us to reduce 
+charter rates. 
+One of our principal strategies is to enter into long-term, fixed-rate time charters. As more vessels become 
+available for the short-term or spot market, we may have difficulty entering into additional long-term, fixed-rate time 
+charters for our vessels due to the increased supply of vessels. As of March 1, 2021, 51 of our vessels are subject 
+to short-term charter market rates. For our vessels that are or will be off-charter, there is no assurance that 
+replacement charters will be secured and if secured, at what rates or for what duration. As a result, our cash flow 
+may be subject to instability in the long-term.  
+A more active short-term or spot containership market may require us to enter into charters based on 
+changing market prices, which could result in a decrease in our cash flow in periods when the market price for 
+containerships is depressed or insufficient funds are available to cover our financing costs for related vessels. In 
+recent years, the rates in the short term or spot market have been lower than the rates we have obtained under our 
+long-term, fixed rate charters due to oversupply. In addition, the development of an active short-term or spot 
+containership market could affect rates under our existing time charters as our current customers may begin to 
+pressure us to reduce our rates.  
+We derive our charter revenue from a limited number of customers. The loss of any of our customers and 
+their associated long-term charters or any material decrease in payments under such charters could 
+materially harm our business, results of operations and financial condition. 
+As at December 31, 2020, Seaspan had nine customers. The following table shows the number of vessels 
+in Seaspan’s operating fleet that were chartered to such customers and the percentage of its total revenue 
+attributable to the charters with such customers for the year ended December 31, 2020: 
+ 
+Customer 
+ 
+Number of Vessels in our 
+Operating Fleet Chartered 
+to Such Customer 
+ 
+Percentage of 
+Total Revenue 
+for the Year Ended 
+December 31, 2020  
+COSCO 
+ 
+39   
+32.8 % 
+Yang Ming Marine 
+ 
+16   
+20.9 % 
+ONE 
+ 
+25   
+19.4 % 
+Other 
+ 
+47   
+26.9 % 
+ 
+ 
+127   
+100.0 % 
+ 
+Under some circumstances, Seaspan could lose a time charter or payments under the charter if: 
+• 
+the customer fails to make charter payments because of financial inability or distress, disagreements 
+with Seaspan, defaults on a payment or otherwise; 
+• 
+at the time of delivery, the vessel subject to the time charter differs in its specifications from those 
+agreed upon under the shipbuilding contract; or 
+• 
+the customer exercises certain limited rights to terminate the charter, including (1) if the ship fails to 
+meet certain guaranteed speed and fuel consumption requirements and Seaspan is unable to rectify 
+the situation or otherwise reach a mutually acceptable settlement and (2) under some charters if the 
+vessel is unavailable for operation for certain reasons for a specified period of time, or if delivery of 
+a newbuilding vessel is delayed for a prolonged period of time. 
+Any such circumstance could lead to significant reductions in Seaspan’s revenues, commercial disputes, 
+receivable collection issues, and other negative consequences that could have a material adverse impact on its 
+results of operations, financial condition and cash flows. Further, as liner companies (including existing customers) 
+consolidate through merger, joint ventures or alliances, Seapsan’s risk relative to the concentration of its customers 
+may increase. The loss of any customer contracts, particularly long-term charters, or customers could materially 
+harm Seaspan’s business, results of operations and financial condition. 
+The growth of our containership business and our ability to recharter our vessels depend on our ability to 
+expand relationships with existing customers and develop relationships with new customers, for which we 
+will face substantial competition. 
+We intend to acquire additional containerships as market conditions allow in conjunction with entering 
+primarily into additional fixed-rate time charters for such ships, and to recharter our existing vessels following the 
+expiration of their current long-term time charters to the extent we retain those vessels in our fleet. The process of 
+obtaining new time charters is highly competitive and generally involves an intensive screening process and 
+competitive bids, and often extends for several months in regard to newbuilding containerships. Containership 
+charters are awarded based upon a variety of factors relating to the vessel operator, including, among others: 
+• 
+shipping industry relationships and reputation for customer service and safety;
+
+--- Page 6 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+6
+• 
+container shipping experience and quality of ship operations, including cost effectiveness; 
+• 
+quality and experience of seafaring crew; 
+• 
+the ability to finance containerships at competitive rates and the shipowner’s financial stability 
+generally; 
+• 
+relationships with shipyards and the ability to get suitable berths; 
+• 
+construction management experience, including the ability to obtain on-time delivery of new ships 
+according to customer specifications; 
+• 
+willingness to accept operational risks pursuant to the charter, such as allowing termination of the 
+charter for force majeure events; and 
+• 
+competitiveness of the bid in terms of overall price. 
+Competition for providing new containerships for chartering purposes comes from a number of experienced 
+shipping companies, including direct competition from other independent charter owners and indirect competition 
+from state-sponsored and other major entities with their own or leased fleets. Some of our peers have significantly 
+greater financial resources than we do and may be able to offer better charter rates. Some of our peers have entered 
+into joint ventures to charter their containerships, and may be able to better satisfy customer demands. An 
+increasing number of marine transportation companies have entered the containership sector, including many with 
+strong brand recognition and extensive resources and experience in the marine transportation industry. This 
+increased competition may cause greater price competition for time charters. As a result of these factors, we may 
+be unable to expand our relationships with existing customers or develop relationships with new customers on a 
+profitable basis, if at all, which would harm our business, results of operations and financial condition. These risks 
+will be heightened to the extent that we enter into newbuilding or other vessel acquisition contracts prior to entering 
+into charters for such vessels. 
+Delays in deliveries of our newbuilding containerships could harm our business, results of operations and 
+financial condition. 
+We are currently under contract to purchase 37 newbuilding containerships, which are scheduled to be 
+delivered at various times through 2024. The delivery of these containerships, or any other containerships we may 
+order, could be delayed, which would delay our receipt of revenue under the charters for the containerships and, if 
+the delay is prolonged, could permit our customers to terminate the newbuilding containership charter. Delivery of 
+newbuilds could be delayed temporarily or indefinitely because of, among others, quality or engineering problems, 
+work stoppages or other labour disturbances at the shipyard (including COVID-19), bankruptcy or other financial 
+crisis of the shipbuilder, a backlog of orders at the shipyard, changes in governmental regulations or maritime self-
+regulatory organization standards, our requests for changes to the original containership specifications, shortages 
+of or delays in the receipt of necessary construction materials, such as steel, our failure to obtain financing for the 
+vessels or any failure of our banks to provide debt financing, or a disruption to the financial markets. If delivery of a 
+containership is materially delayed or if a shipbuilding contract is terminated, it could harm our business, results of 
+operations and financial condition.   
+Risks inherent in the operation of ocean-going vessels could harm our reputation, business, results of 
+operation and financial condition. 
+The operation of ocean-going vessels carries inherent risks, including dangers associated with potential 
+marine disasters, environmental accidents, collisions, cargo and property losses or damage, and business 
+interruptions caused by mechanical failure, human error, war, terrorism, political action in various countries, labor 
+strikes or adverse weather conditions. Such occurrences could result in death or injury to persons, loss of property 
+or environmental damage, delays in the delivery of cargo, loss of revenue from or termination of charter contracts, 
+governmental fines, penalties or restrictions on conducting business, higher insurance rates, and damage to our 
+reputation and customer relationships generally. The involvement of our vessels in an environmental disaster could 
+harm our reputation as a safe and reliable vessel owner and operator. Any of these circumstances or events could 
+harm our business, results of operations and financial condition. 
+Piracy is an inherent risk in the operation of ocean-going vessels and has historically affected vessels trading 
+in certain regions of the world. We may not be adequately insured to cover losses from these incidents, which could 
+harm our business, results of operations and financial condition. In addition, crew costs, including for employing 
+onboard security guards, could increase in such circumstances. Any of these events, or the loss of use of a vessel 
+due to piracy, may harm our customers, impairing their ability to make payments to us under our charters, which 
+would harm our business, results of operations and financial condition. 
+Public health threats, influenza and other highly communicable diseases or viruses, outbreaks of which have 
+from time to time occurred in various parts of the world in which we operate could adversely impact our operations 
+as well as the operations of our customers. The outbreak of COVID-19, for example, delayed completion of repairs 
+and significant projects on drydocked vessels in some instances, resulting in additional costs, due to restrictions on 
+access to shipyards and limitations on the supply chain generally.
+
+--- Page 7 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+7
+The smuggling of drugs or other contraband onto our vessels may lead to governmental claims against us. 
+ 
+We expect that our vessels will call in ports in South America and other areas where smugglers attempt to 
+hide drugs and other contraband on vessels, with or without the knowledge of crew members. To the extent our 
+vessels are found with contraband, whether inside or attached to the hull of our vessel and whether with or without 
+the knowledge of any of our crew, we may face governmental or other regulatory claims, which could have an 
+adverse effect on our business, results of operations and financial condition. 
+Disruptions and security threats to our technology systems could negatively impact our business.  
+In the ordinary course of business, we rely on the security of information and operational technology systems, 
+including those of our business partners and other third parties, to manage or support a variety of business activities 
+including operating and navigating our containership fleet; tracking container contents and delivery; maintaining 
+vessel infrastructure; communicating with personnel, management, customers and business partners; collecting, 
+processing, transmitting and storing electronic information, including personal, employee, business, financial and 
+operational data; facilitating business and financial transactions; and providing services to our customers. A cyber-
+attack on us or our business partners could significantly disrupt these and other commercial activities and business 
+functions resulting in a loss of revenue and customer relationships.  For operational technology in particular, a 
+cyber-attack could result in physical damage to assets and infrastructure, injury or loss of life and environmental 
+harm.  Further, as the methods of cyber-attacks continue to evolve, we will likely be required to expend additional 
+resources to enhance and supplement our existing protective measures. Any successful cyber-attack could also 
+result in significant costs associated with the investigation and remediation of our technology systems, as well as 
+increased regulatory and legal liability.  
+Increased technological innovation in competing vessels could reduce our charter hire rates and the value 
+of our vessels. 
+The charter hire rates and the value and operational life of a vessel are determined by a number of factors, 
+including the vessel’s efficiency, operational flexibility and physical life. Efficiency includes speed, fuel economy 
+and the ability to be loaded and unloaded quickly. Flexibility includes the ability to enter harbors, utilize related 
+docking facilities and pass through canals and straits. Physical life is related to the original design and construction, 
+maintenance and the impact of the stress of operations. If new containerships are built that are more efficient or 
+flexible or have longer physical lives than our vessels, competition from these more technologically advanced 
+containerships could adversely affect the amount of charter hire payments we receive for our vessels once their 
+initial charters end and the resale value of our vessels. As a result, our business, results of operations and financial 
+condition could be harmed. 
+ 
+Risks related to our Indebtedness 
+We may not be able to repurchase our debt securities upon the occurrence of a change of control or in 
+connection with the exercise by the holders of such securities of their right to call for early redemption. 
+Under the terms of certain of our debt securities upon the occurrence of a change of control (as defined in 
+the relevant indentures), we may be required to purchase all or a portion of such securiites then outstanding at a 
+purchase price equal to 101% of the principal amount thereof plus accrued and unpaid interest. If a change of 
+control were to occur, we may not have sufficient funds to pay the purchase price for the outstanding securites 
+tendered and, in such case, expect that we would require third-party financing; however, we may not be able to 
+obtain such financing on favorable terms, if at all. In addition, the occurrence of a change of control may result in 
+an event of default under, or require us to purchase, our other existing or future senior indebtedness. Moreover, the 
+exercise by the holders of their right to require us to purchase the Notes could cause a default under our existing 
+or future senior indebtedness, even if the occurrence of a change of control itself does not, due to the financial 
+effect of such purchase on us and our subsidiaries. Our failure to purchase tendered Notes at a time when the 
+purchase is required by the indenture would constitute an event of default under the indenture, which, in turn, may 
+constitute an event of default under future debt. 
+In addition, each holder of the Fairfax Notes has the right once a year, at its option, to require us to purchase 
+some or all of the Fairfax Notes held by such holder at a purchase price of 100% of the principal amount thereof 
+plus accrued and unpaid interest. On December 10, 2020, Fairfax Financial Holdings Limited, on behalf of itself and 
+its affiliates (“Fairfax”), undertook not to exercise its right to call for early redemption of the Fairfax Notes on their 
+respective anniversary dates in 2022. Thus, the Fairfax Notes are not puttable to us until 2023. However, should 
+Fairfax exercise its put right in future, we may not have sufficient funds to pay the purchase price for any part of the 
+Fairfax Notes tendered.  As stated above, if this were to happen, it could cause a default under our existing or future 
+senior indebtedness, even if the exercise of that right itself does not, due to the financial effect of such purchase on 
+us and our subsidiaries, and our failure to purchase tendered Fairfax Notes would constitute an event of default 
+under the indenture, which, in turn, may constitute an event of default under existing or future debt.  
+Our substantial debt levels and vessel lease and other financing obligations may limit our flexibility in
+
+--- Page 8 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+8
+obtaining additional financing and in pursuing other business opportunities. 
+As of December 31, 2020, we had $3.5 billion in aggregate principal amount of debt outstanding under our 
+credit facilities and Notes, and vessel lease and other arrangements of approximately $1.8 billion. In February 2021, 
+we issued $200.0 million of the Bonds, and we have been actively pursuing other sources of financing, including 
+debt financing. In particular, we expect to incur substantial additional indebtedness to finance the 37 newbuilding 
+and four secondhand containerships that we have contracted to purchase, having an aggregate purchase price of 
+approximately $4.7 billion. 
+Our level of debt and vessel lease and other financing obligations could have important consequences to us, 
+including the following: 
+• 
+our ability to obtain additional financing, if necessary, for working capital, capital expenditures, 
+acquisitions or other purposes, may be impaired or such financing may not be available on favorable 
+terms, or at all; 
+• 
+we may need to use a substantial portion of our cash from operations to make principal and interest 
+payments on our debt or make our lease payments, reducing the funds that would otherwise be 
+available for operation and future business opportunities; 
+• 
+our debt level could make us more vulnerable to competitive pressures, a downturn in our business 
+or the economy generally than our competitors with less debt; and 
+• 
+our debt level may limit our flexibility in responding to changing business and economic conditions. 
+Our ability to service our debt and vessel lease and other arrangements will depend upon, among other 
+things, our financial and operating performance, which will be affected by prevailing economic, financial, business 
+and regulatory conditions, as well as other factors, some of which are beyond our control. If our results of operations 
+are not sufficient to service our current or future indebtedness and vessel lease and other obligations, we will be 
+forced to take actions such as reducing or delaying our business activities, acquisitions, investments or capital 
+expenditures, selling assets, restructuring or refinancing our debt, or seeking additional equity capital or bankruptcy 
+protection. We may not be able to effect any of these remedies on satisfactory terms, or at all. 
+Disruptions in global capital markets and economic conditions or changes in lending practices may harm 
+our ability to obtain financing on acceptable terms, which could hinder or prevent us from meeting our 
+capital needs. 
+We rely on the global capital markets, especially the credit markets, to satisfy a significant portion of our 
+capital requirements. Beginning in February 2020, due in part to fears associated with the spread of COVID-19, 
+global capital markets experienced significant volatility and a steep and abrupt downturn. Although the U.S. markets 
+rebounded during the latter half of 2020, ending 2020 at all-time highs, and vaccine programs are being 
+administered worldwide, we cannot be certain when the COVID-19 pandemic will be over or that subsequently 
+waves or variants of the virus will not again disrupt global markets and economic activity. Significant instability or 
+disruptions of the capital markets or deterioration of our financial position due to internal or external factors could 
+restrict or eliminate our access to, and/or significantly increase the cost of, various financing sources, including 
+bank credit facilities and issuance of corporate bonds. This could occur because our lenders could become unwilling 
+or unable to meet their funding obligations or we may not be able to obtain funds at the interest rate agreed to in 
+our credit facilities due to market disruption events or increased funding costs. Such instability or disruptions in the 
+capital markets may also cause lenders to be unwilling to provide us with new financing to the extent needed to 
+fund our ongoing operations and growth. In recent years, the number of lenders for shipping companies has 
+decreased and ship-funding lenders have generally lowered their loan-to-value ratios, shortened loan terms and 
+accelerated repayment schedules. These factors may hinder our ability to access financing.   
+ 
+Risks related to Regulation and Tax 
+Failure to comply with applicable anti-bribery and corruption laws could result in fines, criminal penalties, 
+terminations of charters and other significant contracts, and an adverse effect on our business. 
+We operate in a number of countries throughout the world, including countries known to have a reputation 
+for corruption. We are committed to doing business in accordance with applicable anti-bribery and corruption laws 
+and have adopted a Standards of Business Conduct Policy which is consistent and in full compliance with the UK 
+Bribery Act 2010 and the U.S. Foreign Corrupt Practices Act of 1977 (the “FCPA”). We train our personnel 
+concerning anti-bribery and corruption laws and issues, and also inform our partners, subcontractors, suppliers, 
+agents and others who work for us or on our behalf that they must comply with anti-bribery and corruption law 
+requirements. We are subject, however, to the risk that we, our affiliated entities or our or their respective officers, 
+directors, employees and agents, or the third parties with which we do business, may take actions determined to 
+be in violation of such anti-bribery and corruption laws, including the UK Bribery Act and FCPA. Any such violation 
+could result in substantial fines, sanctions, civil and/or criminal penalties and curtailment of operations in certain 
+jurisdictions, as well as potential default under our charters, debt instruments and other significant contracts. Actual 
+or alleged violations could also damage our reputation and ability to do business, all of which could adversely impact 
+our results of operations and financial condition.
+
+--- Page 9 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+9
+We are subject to complex laws and regulations, including environmental regulations that can adversely 
+affect the cost, manner or feasibility of doing business. 
+ 
+Our operations are subject to numerous national and international regulations which may significantly 
+affect the cost and risk of ownership and operation of our vessels. These regulations include, but are not limited to: 
+U.S. Oil Pollution Act of 1990; the Comprehensive Environmental Response, Compensation and Liability Act; the 
+U.S. Clean Air Act of 1970 (including its amendments of 1977 and 1990); the U.S. Clean Water Act; requirements 
+of the United States Coast Guard; requirements of the U.S. Environmental Protection Agency; regulations of the 
+International Maritime Organization ("IMO"), including the International Convention for the Prevention of Pollution 
+from Ships, 1973, as modified by the Protocol of 1978 relating thereto, as from time to time amended including 
+designation of Emission Control Areas thereunder; the International Convention for the Safety of Life at Sea, as 
+from time to time amended; the IMO's International Management Code for the Safe Operation of Ships and Pollution 
+Prevention; the International Convention on Load Lines of 1966, as from time to time amended; the IMO 
+International Convention on Civil Liability for Oil Pollution Damage of 1969, as from time to time amended and 
+replaced by the 1992 protocol; the IMO International Convention on Civil Liability for Bunker Oil Pollution Damage 
+of 2001; and EU regulations. A failure to comply with applicable laws and regulations may result in administrative 
+and civil penalties, criminal sanctions or the suspension or termination of our business. 
+Compliance with safety and other vessel requirements imposed by classification societies may be costly 
+and could harm our business, results of operations and financial condition. 
+Every commercial vessel must be classed by a classification society and surveyed on a regular basis. 
+Classification and surveys may result in significant expenses which will affect the Group's profits and business. If 
+any vessel does not maintain its class or fails any annual, intermediate or special survey, the vessel will may be 
+unable to trade between ports and will be unemployable and uninsurable, which could negatively impact the Group's 
+results of operations and financial condition. 
+We, or any of our subsidiaries, may become subject to income tax in jurisdictions in which we are organized 
+or operate, including the United States, Hong Kong and the People’s Republic of China, which would reduce 
+our earnings and potentially cause certain shareholders to be subject to tax in such jurisdictions. 
+We intend that our affairs and the business of each of our subsidiaries will be conducted and operated in a 
+manner that minimizes income taxes imposed upon us and our subsidiaries. However, there is a risk that we will 
+be subject to income tax in one or more jurisdictions, including the United States, Hong Kong and China, if under 
+the laws of any such jurisdiction, we or such subsidiary is considered to be carrying on a trade or business there or 
+earn income that is considered to be sourced there and we do not or such subsidiary does not qualify for an 
+exemption or reduced taxation under local taxation rules or applicable tax treaties.  
+The legal system in China is not fully developed and has inherent uncertainties that could limit the legal 
+protections available to us, and the geopolitical risks associated with chartering vessels to Chinese 
+customers, constructing vessels in China and obtaining financing from Chinese financial institutions could 
+harm our business, results of operations and financial condition. 
+We conduct a substantial amount of business in China and with Chinese counterparties. As of March 1, 
+2021, a total of 39 of the 127 vessels in our current fleet were chartered to Chinese customers and our revenues in 
+2020 from Chinese customers represented 32.8% of our total revenue in 2020. Many of our vessels regularly call 
+to ports in China. In additional, we have entered into financing arrangements with certain Chinese financial 
+institutions.  
+The Chinese legal system is based on written statutes and their legal interpretation by the standing 
+Committee of the National People’s Congress. However, because these laws and regulations are relatively new, 
+and because of the limited volume of published cases and their non-binding nature, interpretation and enforcement 
+of these laws and regulations involve uncertainties. Our vessels that are chartered to Chinese customers are subject 
+to various risks as a result of uncertainties in Chinese law, including (1) the risk of loss of revenues, property or 
+equipment as a result of expropriation, nationalization, changes in laws, exchange controls, war, insurrection, civil 
+unrest, strikes or other political risks and (2) being subject to foreign laws and legal systems and the exclusive 
+jurisdiction of Chinese courts and tribunals. 
+Although our charterparties and many of our financing arrangements are governed by English law, if we are 
+required to commence legal proceedings against a customer, a charter guarantor or a lender based in China with 
+respect to the provisions of a time charter, a time charter guarantee or a credit agreement, we may have difficulties 
+in enforcing any judgment rendered by an English court (or other non-Chinese court) in China. Similarly, our 
+shipbuilders based in China provide warranties against certain defects for the vessels that they will construct for us 
+and we have refund guarantees from a Chinese financial institution for installment payments that we will make to 
+the shipbuilders. Although the shipbuilding contracts and refund guarantees are governed by English law, if we are 
+required to commence legal proceedings against these shipbuilders or against the refund guarantor, we may have 
+difficulties enforcing in China any judgment obtained in such proceeding.
+
+--- Page 10 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+10
+A decrease in the level of export of goods or an increase in trade protectionism will harm our customers’ 
+business and, in turn, harm our business, results of operations and financial condition. 
+Most of our customers’ containership business revenue is derived from the shipment of goods from the Asia 
+Pacific region, primarily China.  Any reduction in or hindrance to the output of China-based exporters could 
+negatively affect the growth rate of China’s exports and our customers’ business. For instance, the Chinese 
+government has implemented economic policies aimed at increasing domestic consumption of Chinese-made 
+goods and which may have the effect of reducing the supply of goods available for export and may, in turn, result 
+in decreased demand for cargo shipping. 
+Our containership operations are exposed to the risk of trade protectionism. Governments may use trade 
+barriers to protect their domestic industries against foreign imports, thereby depressing demand for container 
+shipping services. In recent years, increased trade protectionism in the markets that our customers serve, 
+particularly in China, where a significant portion of their business originates, has caused, and may continue to 
+cause, increases in the cost of goods exported, the length of time required to deliver goods and the risks associated 
+with exporting goods as well as a decrease in the quantity of goods shipped. China’s import and export of goods 
+may continue to be affected by trade protectionism, specifically the ongoing U.S.-China trade dispute, which has 
+been characterized by escalating tariffs between the U.S. and China, as well as by trade relations among other 
+countries. These risks may have a direct impact on demand in the container shipping industry. While a trade 
+agreement was reached between China and the U.S. in January 2020 aimed at easing the trade tensions between 
+the two countries, there can be no assurance that there will not be any further escalation. The U.S. has also been 
+threatening to introduce higher tariffs on EU imports. 
+On January 31, 2020, following an affirmative vote by national referendum, the United Kingdom (the “U.K.”) 
+withdrew from the European Union (the “EU”), an event commonly referred to as “Brexit.”  In December 2020, the 
+EU and the U.K. agreed a trade deal, which went into effect on January 1, 2021. While the trade agreement provides 
+for tariff-free trade in goods and limited mutual market access in services, some specifics of the deal related to 
+financial services have not been agreed upon. Additionally, the end of free movement could significantly disrupt the 
+exchange of people and services between the U.K. and the EU, resulting in the imposition of impediments to trade. 
+Any increased trade barriers or restrictions on global trade would harm our customers’ business, results of 
+operations and financial condition and could thereby affect their ability to make timely charter hire payments to 
+Seaspan and to renew and increase the number of their time charters with Seaspan. This could harm our business, 
+results of operations and financial condition.   
+ 
+ 
+Risks relating to the Bonds  
+An investment in the bonds is subject to Seaspan’s credit risk. 
+The bonds will be unsubordinated unsecured general obligations of Seaspan and are not, directly or indirectly, 
+an obligation of a third party. The bonds will rank on par with all of Seaspan’s other unsecured and unsubordinated 
+debt obligations, except as such obligations may be preferred by operation of law. Any payment to be made on the 
+bonds, including the return of the principal amount at maturity or any redemption or repurchase date, as applicable, 
+depends on Seaspan’s ability to satisfy its obligations as they come due. As a result, Seaspan’s actual and 
+perceived creditworthiness may affect the market value of the Bonds and, in the event Seaspan were to default on 
+its obligations, holders of the Bonds may not receive the amounts owed to them under the terms of the Bonds. 
+We and our subsidiaries have the ability to incur substantial additional debt, which may increase the risks 
+associated with our substantial existing debt, including our ability to service the bonds and other debt. 
+Our and our subsidiaries’ credit agreements and other debt instruments, including the Bond Terms, will permit 
+us, subject to compliance with certain covenants, to incur a substantial amount of additional indebtedness, including 
+senior secured indebtedness. As of December 31, 2020, our subsidiaries had commitments available to be 
+borrowed under their existing credit facilities and other financing arrangements of $2,703.1 million. If we incur 
+additional debt above the levels in effect as at the date of this Base Prospectus, the risks associated with our 
+substantial existing debt, including our ability to service our debt, could increase. 
+Our subsidiaries conduct a portion of our operations and own certain of our operating assets, and a 
+holder’s right to receive payments on the bonds is effectively subordinated to the rights of the lenders of 
+our subsidiaries, none of which are guarantors of the bonds. 
+Our subsidiaries conduct a portion of our operations and own certain of our operating assets. As a result, our 
+ability to make required payments on the bonds depends in part on the operations of our subsidiaries and our 
+subsidiaries’ ability to distribute funds to us. To the extent our subsidiaries are unable to distribute, or are restricted 
+from distributing, funds to us, we may be unable to fulfill our obligations under the bonds. Our subsidiaries are 
+separate and distinct legal entities and have no obligation, contingent or otherwise, to pay amounts due on the 
+bonds or to make funds available for that purpose. The bonds will not be guaranteed by any of our subsidiaries.
+
+--- Page 11 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+11
+The rights of holders of the bonds will be structurally subordinated to the rights of our subsidiaries’ lenders. 
+For example, a default by one of our subsidiaries under its debt obligations would result in a block on the ability of 
+the affected subsidiary to distribute funds to us to be used to make payments on the bonds. Certain of our operating 
+subsidiaries have entered into credit facilities or other financing arrangements that require a minimum amount of 
+cash to be retained in bank accounts to cover minimum debt service payments for future periods and in some cases, 
+amounts for future operating costs. In addition, four subsidiaries, each of which owns one of our operating vessels, 
+require the lender’s consent to distribute funds to us from the distribution accounts under their respective credit 
+agreements. This dividend restriction could impact the timing and amount of dividends ultimately distributed and 
+available to us. The bonds will also be effectively junior to all existing and future liabilities of our subsidiaries. In the 
+event of a bankruptcy, liquidation or reorganization of any of our subsidiaries, creditors of our subsidiaries will 
+generally be entitled to payment of their claims from the assets of those subsidiaries before any assets are made 
+available for distribution to us. Our subsidiaries generated approximately 51.68% of our consolidated revenue and 
+incurred 50.68% of our consolidated ship operating expenses for the year ended December 31, 2020. As of 
+December 31, 2020, our subsidiaries had $2.286.1 million of outstanding indebtedness, including other financing 
+arrangements, and excluding trade payables and intercompany liabilities and other liabilities. 
+The Bonds are unsecured obligations and effectively subordinated to our secured debt. 
+The Bonds will be unsecured and therefore will be effectively subordinated to any secured debt we maintain 
+or may incur to the extent of the value of the assets securing the debt. In the event of a bankruptcy or similar 
+proceeding involving us, the assets that serve as collateral will be available to satisfy the obligations under any 
+secured debt before any payments are made on our Notes. As of December 31, 2020, we had an aggregate of 
+approximately $3,518 million of secured debt and other financing arrangements outstanding. We will continue to 
+have the ability to incur additional secured debt, subject to limitations in our credit facilities and the indentures 
+relating to our notes. 
+The bonds do not have an established trading market, which may negatively affect their market value and 
+your ability to transfer or sell the bonds. 
+ 
+The bonds are a new issuance of securities with no established trading market. Even if the bonds are 
+approved for listing, an active trading market on the Oslo Exchange for the bonds may not develop or, even if it 
+develops, may not last, in which case the trading price of the bonds could be adversely affected and your ability to 
+transfer your bonds will be limited.
+
+--- Page 12 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+12
+2 Definitions 
+ 
+Annual Report 2020 
+The annual consolidated financial statements of Seaspan Corporation for 
+the year ended December 31, 2020, which are presented in Atlas Corp.’s 
+Report on Form 6-K furnished to the SEC on March 30, 2021 
+ 
+Annual Report 2019 
+The annual consolidated financial statements of Seaspan Corporation for 
+the year ended December 31, 2019, which are presented in Atlas Corp.’s 
+Annual Report on Form 20-F filed with the SEC on April 13, 2020 
+ 
+Atlas 
+Atlas Corp., a corporation orgranised under the laws of the Republic of the 
+Marshall Islands and the parent company of the Issuer  
+ 
+Bareboat Charter 
+Means a contract for the chartering of a vessel, pursuant to which the 
+respective charterer is responsible for all crewing and related provisions. 
+ 
+Base Prospectus 
+ This document dated 4 May 2021. 
+ 
+ 
+ The Base Prospectus has been approved by the Norwegian FSA, as 
+competent authority under Regulation (EU) 2017/1129. The Norwegian 
+FSA only approves this Base Prospectus as meeting the standards of 
+completeness, comprehensibility and consistency imposed by Regulation 
+(EU) 2017/1129. Such approval should not be considered as an 
+endorsement of the Issuer that is the subject of this Base Prospectus.  
+ 
+Company/Issuer/Seaspan 
+Seaspan Corporation, a corporation orgranised under the laws of the 
+Republic of the Marshall Islands 
+ 
+Final Terms 
+Document to be prepared for each new issue of bonds under the 
+Prospectus. The template for Final Terms is included in the Base 
+Prospectus as Annex 2. 
+ 
+The template for Final Terms has been approved by the Norwegian FSA, 
+as competent authority under Regulation (EU) 2017/1129. The Norwegian 
+FSA only approves this template for Final Terms as meeting the standards 
+of completeness, comprehensibility and consistency imposed by 
+Regulation (EU) 2017/1129. Such approval should not be considered as an 
+endorsement of the quality of the securities that are the subject of this 
+template for Final Terms. Investors should make their own assessment as 
+to the suitability of investing in the securities. 
+ 
+GAAP 
+U.S. generally accepted accounting principles 
+ 
+Group 
+Seaspan Corporation its subsidiaries from time to time 
+ 
+Joint Bookrunners 
+DNB Bank ASA and Fearnley Securities AS 
+ 
+PCAOB 
+Public Company Accounting Oversight Board 
+ 
+SEC 
+United States Securities and Exchange Commission 
+ 
+TEU 
+Twenty-foot equivalent unit 
+ 
+Time Charter 
+Means a contract for the chartering of a vessel for a pre-agreed fixed period 
+of time.
+
+--- Page 13 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+13
+3 Persons responsible  
+3.1 Persons responsible for the information 
+Persons responsible for the information given in the Base Prospectus are as follows: 
+ 
+Seaspan Corporation 
+Unit 2 – 16th Floor, W668 Building  
+Nos. 668 Castle Peak Road, Cheung 
+Sha Wan, Kowloon, Hong Kong 
+China 
+ 
+3.2 Declaration by persons responsible 
+Seaspan Corporation declares that, to the best of its knowledge, the information contained in the Base Prospectus 
+is in accordance with the facts and that the Base Prospectus makes no omission likely to affect its import.    
+ 
+ 
+Vancouver, 4 May 2021 
+ 
+ 
+ 
+Seaspan Corporation
+
+--- Page 14 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+14
+4 Statutory Auditors   
+The Company’s auditor for the fiscal years ended December 31, 2019 and 2020 was KPMG LLP, independent 
+registered public accounting firm, located at 777 Dunsmuir Street, Suite 900, PO Box 10426, Vancouver, British 
+Columbia V7Y 1K3, Canada. 
+ 
+KPMG LLP is an independent registered public accounting firm with the Public Company Accounting Oversight 
+Board. KPMG LLP has not audited, reviewed or produced any report on any information provided in this Base 
+Prospectus, except with respect to its audit reports on the Company’s consolidated financial statements for the 
+fiscal years ended December 31, 2019 and 2020, incorporated by reference as per Section 11 of this Base 
+Prospectus. 
+ 
+The consolidated financial statements of the Company have been prepared in conformity with GAAP and include 
+the accounts of the Company and the accounts of its wholly owned subsidiaries.
+
+--- Page 15 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+15
+5 Information about the Issuer 
+5.1 History and development of the Company 
+5.1.1 Name and contact details 
+The legal name of the Issuer is Seaspan Corporation, the commercial name is Seaspan. 
+ 
+The address, telephone number and website of the Issuer’s principal place of business is as follow: 
+Seaspan Corporation,  
+Unit 2 – 16th Floor, W668 Building,  
+Nos. 668 Castle Peak Road, Cheung 
+Sha Wan, Kowloon, Hong Kong 
+China 
+Telephone: (852) 3588-9400 
+ 
+Website www.seaspancorp.com 
+ 
+The information on the website mentioned above does not form part of the Base Prospectus unless that information 
+is incorporated by reference into the Base Prospectus. 
+ 
+5.1.2 Place of registration, registration number and LEI code 
+The Company is registered in the Marshall Islands Register of Companies with registration number 14582. The 
+Company’s LEI code is 5493007Z8Q1H45KT7W98. 
+ 
+5.1.3 Incorporation, domicile and legal form  
+The Company is a corporation orgranised under the laws of the Republic of the Marshall Islands. Seaspan was 
+incorporated on 3 May 2005.   
+ 
+The Company operates under the provisions of the Marshall Islands Business Corporations Act.  
+ 
+5.1.4 Objects and purposes  
+ 
+Pursuant to Section 1.2 of its Second Amended and Restated Articles of Incorporation, as amended, the Company 
+is empowered to engage in any lawful act or activity relating to the business of chartering or rechartering 
+containerships to others as well as any act or activity customarily conducted in conjunction therewith, and any other 
+lawful act or activity approved by the board of directors of the Company. Since its formation, the Company has been 
+engaged in the business of owning, managing and chartering containerships. 
+ 
+5.1.5 Changes in borrowing and funding structure since the last financial 
+year 
+ 
+No material recent events. The Issuer finances its business and vessel acquisitions through credit facilities, debt 
+securities, vessel lease and other financing arrangements, either directly or through its vessel-owning subsidiaries. 
+ 
+5.1.6 Expected financing of activities 
+ 
+Seaspan has recently entered into shipbuilding contracts for the construction of 37 newbuild containerships.  
+Seaspan is currently at varying stages of financing payments related to these newbuilds through new credit facilities, 
+vessel lease and other financing arrangements and/or notes. Such financings are expected to be completed by 
+Seaspan Corporation directly and/or at its subsidiary levels. 
+ 
+Seaspan has recently entered into agreements to acquire four second-hand vessels. Seaspan expects to finance 
+the acquisition of these vessels with cash and draws on existing credit facilities.
+
+--- Page 16 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+16
+5.1.7 Credit rating 
+ 
+On August 11, 2020, the Company announced that it had received a Senior Secured rating of BBB- from Kroll Bond 
+Rating Agency (KBRA) and a BB corporate rating. 
+ 
+According to the rating agency the ratings have the following meaning: 
+BBB:  
+Determined to be of medium quality with some risk of loss due to credit-related events. Such issuers and 
+obligations may experience credit losses during stressed environments. 
+ 
+BB: 
+Determined to be of low quality with moderate risk of loss due to credit-related events. Such issuers and 
+obligations have fundamental weaknesses that create moderate credit risk.
+
+--- Page 17 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+17
+6 Business Overview    
+6.1.1 Main categories of services performed and principal markets 
+Seaspan is a leading independent charter owner and manager of containerships. It primarily deploys its vessels on 
+long-term, fixed-rate time charters to take advantage of the stable cash flow and high utilization rates that are 
+typically associated with long-term time charters. As at March 1, 2021, Seaspan operated a fleet of 127 vessels 
+that have an average age of approximately eight years, on a TEU weighted basis. 
+As of March 1, 2021, the charters on the 127 vessels in Seaspan’s operating fleet had an average remaining lease 
+period of approximately four years, on a TEU weighted basis, excluding the effect of charterers’ options to extend 
+certain time charters. 
+Customers for Seaspan’s operating fleet as of March 1, 2021 were as follows: 
+  
+  
+Customers for Current Fleet 
+Number of vessels 
+under charter 
+TEUs under 
+charter  
+ 
+CMA CGM 
+15 
+ 
+126,700 
+ 
+COSCO 
+37 
+ 
+267,500 
+ 
+Hapag-Lloyd 
+13 
+ 
+109,250 
+ 
+KMTC 
+1 
+ 
+4,250 
+ 
+Maersk 
+13 
+ 
+69,500 
+ 
+MSC 
+6 
+ 
+67,000 
+ 
+ONE 
+25 
+ 
+204,750 
+ 
+Yang Ming Marine 
+16 
+ 
+220,000 
+ 
+ZIM 
+1 
+ 
+4,250 
+ 
+ 
+Seaspan’s primary objective is to continue to grow its containership leasing business through accretive vessel 
+acquisitions as market conditions allow. Most of its customers’ containership business revenues are derived from 
+the shipment of goods from the Asia Pacific region, primarily China, to various overseas export markets in the 
+United States and in Europe.  
+Seaspan Fleet 
+The following table summarizes key facts regarding our 127 operating vessels as of 31 December 2020: 
+Vessel Class 
+(TEU) 
+# Vessels 
+(Total 
+fleet) 
+# Vessels (of 
+which are 
+unencumbered) 
+Average 
+Age 
+(Years)(7) 
+Average 
+Remaining 
+Charter 
+Period 
+(Years)(1)(7) 
+Average 
+Daily 
+Charter 
+Rate (in 
+thousands 
+of USD) 
+Days Off-
+Hire(5) 
+Total 
+Ownership 
+Days(6) 
+2500-3500 
+14 
+ 
+6 
+ 
+12.6 
+ 
+2.0 
+ 
+11.0 
+129 
+ 
+5,124 
+4250-5100(2) 
+33 
+ 
+18 
+ 
+13.6 
+ 
+1.2 
+ 
+14.9 
+315 
+ 
+12,078 
+8500-9600(3) 
+16 
+ 
+2 
+ 
+10.9 
+ 
+2.9 
+ 
+33.8 
+112 
+ 
+5,741 
+10000-
+11000(4) 
+33 
+ 
+3 
+ 
+5.2 
+ 
+4.7 
+ 
+31.2 
+90 
+ 
+12,078 
+12000-13100 
+16 
+ 
+- 
+ 
+6.9 
+ 
+3.5 
+ 
+46.8 
+5 
+ 
+4,355 
+14000+ 
+15 
+ 
+2 
+ 
+5.1 
+ 
+4.9 
+ 
+48.3 
+61 
+ 
+5,490 
+Total/Average 
+127 
+31 
+ 
+7.6 
+ 
+3.7 
+ 
+29.1 
+712 
+ 
+44,866  
+ (1)    Excludes options to extend charter. 
+ (2) 
+Includes 1 vessel on bareboat charter. 
+ (3) 
+Includes 3 vessels on bareboat charter. 
+ (4) 
+Includes 8 vessels on bareboat charter.  
+ (5) 
+Days Off-Hire includes scheduled and unscheduled days related to vessels being off-charter during the year 
+ended December 31, 2020. 
+ (6) 
+Total Ownership Days for the year ended December 31, 2020 includes time charters and bareboat charters and 
+excludes days prior to the initial charter hire date. 
+ (7) 
+Averages shown are weighted by TEU.  
+ 
+The full list of Seapsan’s fleet of vessels can be found on its website at www.seaspancorp.com.
+
+--- Page 18 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+18
+The following table indicates the number of vessels Seaspan took delivery of during 2020 and the total TEU capacity 
+of its fleet as at 31 December 2020: 
+ 
+Vessels owned and leased as of January 1, 2020 
+  
+117  
+Deliveries during 2020 
+  
+10  
+Total Fleet as of December 31, 2020 
+  
+127  
+Total Capacity (TEU) 
+  
+1,073,200  
+ 
+Charters 
+Seaspan charters its vessels primarily under long-term, fixed-rate time charters. The following table presents the 
+number of vessels chartered by each of Seaspan’s customers as of March 1, 2021. 
+Charterer 
+ 
+Number of Vessels in 
+Our Current Operating 
+Fleet 
+ 
+CMA CGM 
+ 
+ 
+9 
+ 
+COSCO 
+ 
+ 
+37 
+ 
+Hapag-Lloyd 
+ 
+ 
+12 
+ 
+KMTC 
+ 
+ 
+1 
+ 
+Maersk 
+ 
+ 
+13 
+ 
+ONE 
+ 
+ 
+25 
+ 
+Yang Ming Marine 
+ 
+ 
+16 
+ 
+ZIM 
+ 
+ 
+1 
+ 
+Total time charters 
+ 
+ 
+114 
+ 
+MSC (bareboat charters) 
+ 
+ 
+6 
+ 
+CMA CGM (bareboat charters) 
+ 
+ 
+6 
+ 
+Hapag-Lloyd (bareboat charter) 
+ 
+ 
+1 
+ 
+Total fleet 
+ 
+ 
+127 
+ 
+ 
+Time Charters and Bareboat Charters 
+ 
+A time charter is a contract for the use of a vessel with crew for a fixed period of time at a specified daily rate. A 
+bareboat charter is a contract for the use of a vessel without crew where the charterer also assumes responsibility 
+for drydocking of the vessel, if needed. See “Definitions.” 
+ 
+As of March 1, 2021, five 11000 TEU vessels are chartered by MSC, three 10700 TEU vessels and three 9200 TEU 
+vessels are chartered by CMA CGM, one 12000 TEU vessel is chartered by MSC and one 4250 TEU vessel is 
+chartered by Hapag-Lloyd under bareboat charters. Under the MSC 11000 TEU bareboat charters, the charterer 
+has agreed to purchase each vessel for a pre-determined fixed price at the end of their respective bareboat charter 
+terms, whereas under the CMA CGM bareboat charters, the charterer has the option to purchase the vessels at a 
+purchase price equivalent to the fair value within a pre-determined range based on the contract terms, at the end 
+of their respective bareboat charter terms. Under the MSC 12000 TEU bareboat charter, the charterer has the 
+option to purchase the vessel at a pre-determined purchase price at the end of the bareboat charter term. There 
+are no options or obligations to purchase the vessel under the terms of the bareboat charter with Hapag-Lloyd. 
+ 
+The initial term for a time or bareboat charter commences when the charterer obtains the right to use the asset 
+under the relevant lease arrangement. Under all of our time charters, the charterer may also extend the term for 
+periods in which the vessel is off-hire. A summary of average remaining charter periods is included above under 
+“Seaspan Fleet.”   
+ 
+Ship Management and Maintenance   
+ 
+Under each of Seaspan’s time charters, Seaspan is responsible for the operation and management of the vessel, 
+including maintaining the vessel, periodic dry-docking, cleaning and painting and performing work required by 
+regulations. 
+ 
+Seaspan focuses on risk reduction, operational reliability and safety.  Seaspan believes it achieves high standards 
+of technical ship management by, among other methods: 
+ 
+• 
+developing a minimum competency standard for seagoing staff; 
+• 
+standardizing equipment used throughout the fleet, thus promoting efficiency and economies of scale; 
+• 
+implementing a voluntary vessel condition and maintenance monitoring program; 
+• 
+maintaining a high retention rate for the senior officers on our vessels; 
+• 
+a cadet training program; and
+
+--- Page 19 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+19
+• 
+recruiting and retaining highly-skilled and talented people in our technical ship management offices in 
+Vancouver and Hong Kong. 
+ 
+Seaspan’s staff has skills in all aspects of ship management and experience in overseeing new vessel construction, 
+vessel conversions and general marine engineering, and has previously worked in various companies in the 
+international ship management industry. A number of senior managers also have sea-going experience, having 
+served aboard vessels at a senior rank. In all training programs, Seaspan places an emphasis on safety and 
+regularly trains its crew members and other employees to meet its high standards. Shore-based personnel and 
+crew members are trained to be prepared to respond to emergencies related to life, property or the environment. 
+ 
+Competition 
+ 
+Seaspan operates in markets that are highly competitive and based primarily on supply and demand of 
+containerships. It competes for charters based upon price, customer relationships, operating and technical 
+performance, professional reputation and size, age and condition of the vessel. 
+ 
+Competition for providing new containerships for chartering purposes comes from a number of experienced shipping 
+companies, including direct competition from shipping and lease financing companies, other independent charter 
+owners and indirect competition from state-sponsored and other major entities with their own fleets. Some of our 
+competitors may have greater financial resources than we do and can operate larger fleets and may be able to offer 
+better charter rates. An increasing number of marine transportation companies have entered the containership 
+sector, including many with positive reputations and extensive resources and experience. This increased 
+competition may cause greater price competition for time charters. 
+ 
+Containership market conditions 
+ 
+Containerships play an integral role in global trade, facilitating the movement of goods around the world. GDP is an 
+important measure of global trade, and global GDP growth is positively correlated with growth in container 
+throughput. Container throughput has varied significantly since 2000 and was greater than 10% per annum in most 
+years prior to the global credit crisis. In 2009, global container throughput declined by over 8% compared to the 
+prior year, and after growing sharply in 2010 and 2011, ranged between 1.4% and 5.7% per annum between 2012 
+and 2017, as the global economy gradually recovered. In 2020, due to the impact of COVID-19, global economic 
+expansion was halted in the first half of the year, but swiftly recovered in the latter half of the year. Container 
+throughput decrease for the year was approximately 1.4%. With the recovery from COVID-19, both charter rates 
+and idle rates improved significantly. The idle fleet at the end of December 2020 was approximately 1.3% of the 
+global fleet, as measured by TEU, compared to approximately 10.6% of the global fleet at the end of December 
+2019. Charter rates for 4250 TEU Panamax vessels, for example, were approximately $19,000 per day in December 
+2020, compared to approximately $11,000 per day in December 2019.  
+ 
+The orderbook to global fleet rate was 10.9% at the end of December 2020, compared with 10.4% at the end of 
+December 2019. Approximately 86% (in terms of TEU capacity) of the current containership orderbook is for vessels 
+greater than 10000 TEU in size. Vessels less than 4000 TEU represent approximately 14% of the global 
+containership orderbook, with only 3 vessels being on-order in the segments between 4000 TEU and 9999 TEU. 
+ 
+6.1.2 Indication of any significant new activities 
+ 
+Apart from its current activities relating to the chartering of containerships, the Company does not anticipate entering 
+into new products or activities.
+
+--- Page 20 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+20
+7 Organizational structure 
+7.1 Description of Issuer  
+ 
+Seaspan was incorporated in the Republic of the Marshall Islands in May 2005 to acquire all of the containership 
+business of Seaspan Container Lines Limited. In August 2005, Seaspan completed its initial public offering under 
+United States securities laws and listed its common shares on the New York Stock Exchange (the “NYSE”). From 
+an initial operating fleet of 10 vessels, Seaspan has grown to an operating fleet of 127 vessels as of 30 March 2021. 
+ 
+On February 27, 2020, Seaspan completed a holding company, pursuant to which it became a direct, wholly owned 
+subsidiary of Atlas Corp. (the “Reorganization”). The business operations of Seaspan did not change as a result of 
+the Reorganization. 
+ 
+In the Reorganization, holders of Seaspan common shares and Seaspan preferred shares became holders of Atlas 
+common shares and Atlas preferred shares, as applicable, on a one-for-one basis with the same number of shares 
+and same ownership percentage of the same corresponding class of Seaspan shares as they held immediately 
+prior to the Reorganization. Atlas assumed all of the Company’s rights and obligations under certain common share 
+purchase warrants held by Fairfax and its affiliates, as well as sponsorship of all of our equity plans. 
+ 
+In connection with the Reorganization, the Company’s common and preferred shares ceased trading on the NYSE 
+after markets closed on February 27, 2020, and Atlas’s common and preferred shares commenced trading on the 
+NYSE on February 28, 2020. On March 10, 2020, the Company filed all necessary forms with the SEC to terminate 
+its reporting obligations under the Securities Exchange Act of 1934, as amended, and cease to be a U.S. reporting 
+issuer. 
+ 
+The company structure is shown below. 
+ 
+                                   
+                                          
+ 
+          
+     
+ 
+ 
+ 
+ 
+7.2 Dependence upon other entities  
+Seaspan owns its containerships either directly or through wholly owned subsidiaries. The Company derives 
+revenue from the charter of its containership vessels. Therefore, the Company is dependent on the results of the 
+operations of its subsidiaries. 
+ 
+Seaspan’s wholly owned subsidiary, Seaspan Management Services Ltd., is the manager of Seaspan’s vessels, 
+other than vessels on bareboat charter.  Seaspan Management Services Ltd. subcontracts the provision of certain 
+services to Seaspan Ship Management Ltd., Seaspan’s ship management entity, and Seaspan Crew Management 
+Ltd., Seaspan’s crew management entity. Therefore, Seaspan is dependent on Seaspan Management Services 
+Ltd. 
+Atlas Corp. 
+(Listed Holding Company) 
+NYSE: ATCO 
+(Marshall Islands)
+
+--- Page 21 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+21
+8 Trend information  
+8.1 Prospects and financial performance 
+There has been no material adverse change in the prospects of the Issuer since the date of its last published audited 
+financial statements.  
+ 
+There has been no significant change in the financial performance of the Group since the end of the last financial 
+period for which financial information has been published to the date of the Base Prospectus. 
+ 
+8.2 Known trends, uncertainties, demands, commitments or events 
+ 
+Global COVID-19 Pandemic 
+The spread of the COVID-19 virus in 2020 has caused substantial disruptions in the global economy and the 
+shipping industry, as well as significant volatility in the financial markets. That said, the container shipping industry 
+has already begun to reverse some of the negative impacts from COVID-19 suffered in the first half of 2020, during 
+which period the industry saw decreased container trade and therefore decreased charter rates. Container trade 
+and charter rates significantly improved in the latter half of the year. Seaspan believes future significant downside 
+risk to its business is mitigated by its longstanding business relationships and the long-term contracts securing the 
+majority of its fleet. 
+ 
+The duration and full effects of this global health emergency and related disruptions are uncertain, although 
+expected to continue for the near future as the success and timing of COVID-19 vaccination programs and 
+containment strategies are also uncertain. Negative impacts of COVID-19 are expected to reverberate beyond the 
+duration of the pandemic itself. We continuously monitor the developing situation, as well as our customers’ 
+response thereto, and make all necessary preparations to address and mitigate, to the extent possible, the impact 
+of COVID-19 to our company.
+
+--- Page 22 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+22
+9 Administrative, management and supervisory bodies 
+9.1 Information about persons 
+ 
+Directors and Executive Officers of Seaspan  
+ 
+Name  
+Position  
+Business address  
+Bing Chen 
+Director, Chairman and 
+President & CEO 
+See clause 5.1.1 
+John C. Hsu 
+Director 
+See clause 5.1.1 
+Graham Talbot 
+Chief Financial Officer 
+See clause 5.1.1 
+Karen Lawrie 
+General Counsel 
+See clause 5.1.1 
+Peter Curtis 
+Chief Commercial Officer 
+See clause 5.1.1 
+Tina Lai 
+Chief Human Resources Officer 
+See clause 5.1.1 
+Torsten Holst Pedersen 
+Chief Operating Officer 
+See clause 5.1.1 
+ 
+Bing Chen has served as a director and president and chief executive officer of Seaspan since January 2018. In 
+February 2020, Mr. Chen was appointed as chairman of the board of Seaspan. Mr. Chen also currently serves as 
+a director and as president and chief executive officer of Atlas. Over his 25 year career, Mr. Chen has held executive 
+positions in Asia, Europe and North America. Most recently, he served as chief executive officer of BNP Paribas 
+(China) Ltd. leading the bank’s growth strategy in China. From 2011 to 2014, Mr. Chen was the director and general 
+manager for Trafigura Investment (China), where he was responsible for the P&L of domestic and international 
+commodities trading in the country. Between 2009 and 2011, he was in charge of building the greater China 
+investment banking practice at Houlihan Lokey, Inc. as the managing director and head of Asia financial advisory. 
+Between 2001 and 2009, Mr. Chen held executive roles across Europe, including chief executive officer and chief 
+financial officer of industrial leasing and aircraft chartering businesses. Between 1999 and 2001, he worked as a 
+director, business strategy at Deutsche Bank in New York. Mr. Chen is a certified public accountant (inactive), and 
+received a B.S., Accountancy (Magna Cum Laude) (Honors) from Bernard Baruch College, and an MBA (Honors) 
+from Columbia Business School. 
+ 
+John Hsu has served as a director of Seaspan since April 2008. He is also a director of Atlas. For generations, Mr. 
+Hsu’s family have owned and operated bulkers, tankers and specialized ships through entities such as Sincere 
+Navigation Corp. (Taiwan-listed) and Oak Maritime Group. Currently, Mr. Hsu is a director of Atlas Corp., a director 
+of the family’s single family office, OSS Capital, as well as a director of Isola Capital, a multifamily office based in 
+Hong Kong that manages direct investments in private equity. From 2008 to 2012, he was the chairman of TSSI 
+Inc. (a Taiwan-based surveillance IC solutions provider). From 2003 to 2010, Mr. Hsu was a partner of Ajia Partners, 
+a prominent privately-owned alternative asset investment firm. From 1998 to 2002, he was chief investment officer 
+of Matrix Global Investments, a hedge fund of US-listed technology companies. Mr. Hsu received his Bachelor of 
+Arts degree from Colgate University and his Master of Business Administration degree from Columbia University. 
+He is fluent in Japanese and Mandarin. 
+ 
+Graham Talbot has served as a chief financial officer of Seaspan Corporation since January 2021. Mr. Talbot has 
+worked in asset-intensive industries, primarily in the energy sector, for more than 30 years. He has held executive 
+finance roles in Abu Dhabi Power Corporation and Maersk Energy based in Copenhagen. Prior to his time with 
+Maersk, Mr. Talbot was regional finance director for BG Group, in his native Australia, where his responsibilities 
+included the $20bn Queensland Curtis LNG project. Prior to this, he spent 23 years with Shell in senior international 
+finance roles based in Guam, United Kingdom, Netherlands, Kazakhstan, U.A.E., and Australia. In addition to his 
+core functional strengths in Finance and Governance, Mr. Talbot is passionate about value management, leading 
+and delivering sustainable change, enabling energy transition, and mentoring of senior talent. Throughout his 
+career, Mr. Talbot has held a broad range of functional accountabilities including - Finance, Strategy, Trading, 
+Procurement, Technology, Commercial and Business Integration/Separation. In addition, he has held numerous 
+Board positions in various jurisdictions. Mr. Talbot holds an MBA from Melbourne Business School, is a Fellow of 
+CPA Australia, a Fellow of the Governance Institute of Australia, a Fellow of the Energy Institute, and a Graduate 
+Member of the Institute of Company Directors. 
+ 
+Karen Lawrie was appointed as general counsel in February 2020. Karen has held senior leadership positions in 
+the maritime, energy and financial services sectors and has extensive transactional experience across Europe, the 
+US, Mexico, Brazil, Southeast Asia and Africa. She is experienced in both commercial and corporate law including 
+corporate governance and compliance, treasury, mergers and acquisitions, litigation, marine and energy law. Most 
+recently, Karen was general counsel with Bumi Armada, in Malaysia. Prior to Bumi Armada, Karen worked both in-
+house and in private practice with JP Morgan Securities, Goldman Sachs, State Street Bank, AET Tankers, Subsea 
+7, EDF Energy and Dentons. Karen has a B.A. (Magna cum laude) from Seattle University and a M.A. Honours
+
+--- Page 23 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+23
+from the University of Cambridge. Karen is a solicitor with the Law Society of England and Wales and a licensed 
+attorney with the State Bar of Texas. 
+ 
+Peter Curtis was appointed as chief commercial officer in June 2020 and is responsible for the commercial 
+management of our owned and management vessels. Prior to this he served as executive vice president in July 
+2017 and as chief commercial and technical officer in March 2018, as well as chief operating officer from February 
+2012 to February 2018 where he had responsibility for our ship building programs. From 2001 to 2012, Mr. Curtis 
+was vice president of Seaspan Ship Management Limited. Prior to joining the company in 2001, he was based in 
+Cyprus for two years with Columbia Ship Management as technical director. From 1991 to 1999, Mr. Curtis was 
+with Safmarine, where he was responsible for the operations of a mixed fleet of containerships, handysize and 
+capesize bulkcarriers and also oversaw a number of new building programs. From 1989 to 1991, he was an 
+associate with a firm of engineering consultants in Cape Town, working on offshore and naval architectural projects, 
+such as offshore oil and gas, as well as other marine projects. From 1981 to 1989, Mr. Curtis served in the South 
+African Navy, where he attained the rank of Lt. Commander in charge of the submarine maintenance facility and 
+design office. In 1981, he obtained a B.Sc. Mechanical Engineering degree at Natal University in Durban, South 
+Africa. Mr. Curtis also obtained his Master’s degree in Naval Architecture from University College in London, 
+England and his B.Sc. in business from Stellenbosch University in South Africa. 
+ 
+Tina Lai was appointed as chief human resources officer in July 2018. Ms. Lai also currently serves as chief human 
+resources officer of Atlas Corp. This position provides leadership to all functions relating to human capital, including 
+talent acquisition, communications, training & development, and total performance rewards. Prior to joining 
+Seaspan, Ms. Lai spent five years at Metrie, the largest supplier and manufacturer of solid wood and composite 
+molding in North America. As vice president, human resources, she was part of the senior leadership team there, 
+playing a key role in building out the human resources function, which focused on bringing talent to the forefront of 
+the company’s business strategy. Ms. Lai has 20 years of experience as a results-oriented human resources 
+professional within a number of industries, serving in leadership positions with broad oversight responsibilities, 
+including sales and customer service, channel marketing, corporate communications, culture transformation, and 
+organizational effectiveness. Ms. Lai is a chartered professional in human resources, and holds a Bachelor of Arts 
+from the University of British Columbia and is a graduate of the Human Resources Management program at the 
+British Columbia Institute of Technology. 
+ 
+Torsten Holst Pedersen was appointed as chief operating officer in June 2020, and served as executive vice 
+president, ship management from November 2018 to May 2020. Mr. Pedersen has over 20 years of experience in 
+shipping, logistics and infrastructure, during which he held senior leadership roles and board positions across 
+Europe, Asia, Middle East and Africa. He started his career with the Maersk Group in 1996 and worked in several 
+of the group’s business entities, holding C-level positions in Finance and HR. In 2016, Mr. Pedersen joined Inchcape 
+Shipping Service as regional CEO for Middle East, Africa and South Asia. He then worked as head of operations 
+for V Group, leading the transformation of the global operations organization of more than 45,000 employees. Prior 
+to joining Seaspan, Mr. Pedersen worked as a strategy consultant, assisting companies with strategy execution 
+and M&A due diligence in the Middle East and South Asia. He holds a Master of Economics from Aalborg University, 
+Denmark, and a Master of International Economics (with Distinction) from University of Essex, U.K. These have 
+been complemented by executive programs at Wharton and London Business School. 
+ 
+9.2 Administrative, management and supervisory bodies conflicts of 
+interest  
+ 
+Seaspan’s directors, Bing Chen and John Hsu, are also directors of Seaspan’s parent company Atlas, as well as 
+various of Seaspan’s subsidiaries. Bing Chen is also President & Chief Executive Officer of each of Seaspan and 
+Atlas, and President of various of Seaspan’s subsidiaries. 
+ 
+Other than stated above there are no potential conflicts of interest between any duties to the issuing entity of the 
+persons referred to in item 9.1 and their private interests and/or other duties.
+
+--- Page 24 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+24
+10 Major shareholders 
+10.1 Ownership  
+ 
+Seaspan Corporation is wholly owned by Atlas Corp.  
+ 
+The authorized share capital of Seaspan consists of 425,000,100 common shares and 150,000,000 preferred 
+shares. In February 2020, the Company completed a Reorganization whereupon it became a wholly owned 
+subsidiary of Atlas, a newly formed entity, to establish a holding company structure. Holders of the Company’s 
+common and preferred shares became holders of Atlas common and preferred shares, as applicable, on a one-for-
+one basis, maintaining the same number of shares, ownership percentage and associated rights and privileges as 
+they held of Seaspan immediately prior to the Reorganization. The Company’s common shares and preferred 
+shares were cancelled and re-issued to Atlas as common shares. All outstanding common shares held in treasury 
+were cancelled. 
+ 
+As at December 31, 2020, there were 249,219,800 common shares (par value US$0.01 per share) issued and 
+outstanding, all held by Atlas Corp., and no preferred shares issued or outstanding. 
+ 
+10.2 Change of control of the company 
+There are no arrangements, known to the Company, the operation of which may at a subsequent date result in a 
+change in control of the Company.
+
+--- Page 25 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+25
+11 Financial information concerning the Company's assets 
+and liabilities, financial position and profits and losses 
+ 
+11.1 Historical Financial Information for the Company 
+The Company’s consolidated financial statements have been prepared in accordance with United States generally 
+accepted accounting principles (or GAAP) and the following accounting policies have been consistently applied in 
+the preparation of the consolidated financial statements.  
+ 
+A summary of the Company’s significant accounting policies is set forth in Note 2 of the Notes to the Consolidated 
+Financial Statements in the Annual Report 2020, pages 11 to 16. 
+ 
+According to the Regulation (EU) 2017/1129 of the European Parliament and of the Council, information in a 
+prospectus may be incorporated by reference. Accordingly, the historical financial information and financial 
+statements are incorporated by reference to the Annual Report 2020 and Annual Report 2019, see Cross Reference 
+List for complete web address. 
+ rly Report  
+ 
+Annual Report 
+ 
+2020 
+2019 
+ 
+Page(s) 
+Page(s) 
+ 
+ 
+Seaspan Corporation  
+Consolidated Financial Statements 
+ 
+ 
+Consolidated Balance Sheets 
+ 
+3 
+ 
+S-4 
+ 
+Consolidated Statements of Operations  
+ 
+4 
+ 
+S-5 
+ 
+Consolidated Statements of Cash Flows 
+9 
+S-10 
+Notes to the consolidated financial statements 
+10 – 37 
+S-11 – S-39 
+ 
+ 
+ 
+11.2 Auditing of historical annual financial information 
+ 
+The Company’s annual financial statements for the years ended December 31, 2019 and 2020 were audited by 
+KPMG LLP. Please see Section 4. The audits were conducted in accordance with the standards of the Public 
+Company Accounting Oversight Board (United States) and in accordance with GAAP. 
+ 
+A statement of audited historical financial information is given in the the Annual Report 2019, pages S-4 to S-10, 
+and Annual Report 2020, pages 3 to 9. 
+ 
+The auditor’s report is included in the Annual Report 2019 at pages S-1 to S-3, and in the Annual Report 2020 at 
+pages 1 and 2. The auditor’s report includes a critical audit matter which is a matter arising from the 2020 audit of 
+the consolidated financial statements that was communicated or required to be communicated by the auditor to the 
+audit committee and that: (1) relates to accounts or disclosures that are material to the consolidated financial 
+statements and (2) involved Seaspan Corporation’s especially challenging, subjective, or complex judgment:    
+ 
+“Assessment of indicators of impairment for vessels 
+ 
+As discussed in Note 2(e) to the consolidated financial statements, the Company evaluates property, plant and 
+equipment that are held for use for impairment when events or circumstances indicate that their carrying amounts 
+may not be recoverable from future undiscounted cash flows. Examples of such events or changes in circumstances 
+for vessels (“impairment indicators”) include, among others, a significant adverse change in the extent or manner 
+in which the vessel is being used or in its physical condition, a current-period operating or cash flow loss combined 
+with a history of operating or cash flow losses; or a projection or forecast that demonstrates continuing losses 
+associated with the vessel’s use; or a general decline in the market value of a vessel.  The determination of whether 
+impairment indicators exist requires significant judgment in evaluating underlying significant assumptions including 
+charter rates, utilization rates, operating costs and current vessel market values.  The Company did not identify any 
+indicators of impairment related to the vessels for the year ended December 31, 2020.  As disclosed in Notes 5 & 
+6 to the consolidated financial statements, the carrying value of the Company’s vessels, including right of use 
+vessels, was $7,410.5 million as of December 31, 2020.”
+
+--- Page 26 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+26
+11.3 Legal and arbitration proceedings 
+ 
+There has been no governmental, legal or arbitration proceedings (including any such proceedings which are 
+pending or threatened of which the issuer is aware), during a period covering at least the previous 12 months which 
+may have, or have had in the recent past, significant effects on the Issuer and/or Group's financial position or 
+profitability. 
+ 
+ 
+11.4 Significant change in the Group’s financial position  
+ 
+There has not occurred any significant change in the financial position of the Group since the end of the last financial 
+period for which interim financial information has been published.
+
+--- Page 27 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+27
+12 Material Contracts 
+ 
+Management Agreements 
+ 
+Seaspan is party to an Amended and Restated Management Agreement among Seaspan Corporation, Seaspan 
+Management Services Limited, Seaspan Advisory Services Limited, Seaspan Ship Management Ltd. and Seaspan 
+Crew Management Ltd. dated as of May 4, 2007, as amended, pursuant to which Seaspan Management Services 
+Ltd. and its subsidiaries provide management services, including vessel management, newbuild supervision and 
+crewing as well as administrative (including corporate maintenance) and accounting and reporting related services.  
+See Section 7.2. 
+ 
+Investments by Fairfax Financial Holdings Limited 
+ 
+During 2018, 2019 and 2020, Seaspan completed a series of private placements with Fairfax Financial Holdings 
+Limited (“Fairfax”) involving the issuance of an aggregate $600.0 million aggregate principal amount of 5.50% senior 
+notes of the Issuer to Fairfax and certain of its affiliates, comprised of $250.0 million of notes due 2025 (the “2025 
+Notes”), $250 million of notes due 2026 (the “2026 Notes”), and $100 million of notes due to 2027 (the “2027 Notes” 
+and together with the 2025 Notes and the 2026 Notes, the “Fairfax Notes”). 
+ 
+The 2025 Notes, 2026 Notes and 2027 Notes mature on February 14, 2025, January 15, 2026 and March 1, 2027, 
+respectively. The Fairfax Notes bear interest at a fixed rate of 5.50% per year, payable quarterly in arrears and are 
+guaranteed by certain of Seaspan’s subsidiaries. In addition, Seaspan has pledged its ownership interest in certain 
+subsidiaries as collateral for the notes. At any time on or after February 14, 2023, January 15, 2024 and January 
+15, 2025, we may elect to redeem all or any portion of the 2025 Notes, 2026 Notes and 2027 Notes, respectively. 
+The redemption price will equal 100.0% of the principal amount being redeemed, plus accrued and unpaid interest, 
+if any, to the redemption date and any certain additional amounts. Fairfax has the right to call for an early redemption 
+on the anniversary date of each issuance, by providing notice between 150 and 120 days prior to the applicable 
+anniversary date. In December 2020, Fairfax undertook not to exercise its right to call for early redemption of the 
+Fairfax Notes on their respective anniversary dates in 2023. Fairfax has previously undertaken not to exercise the 
+put right for the anniversary dates in 2022.  With the undertaking, the Fairfax Notes are not puttable until their 
+respective anniversary dates in 2023. 
+ 
+In the event of certain changes in withholding taxes, at our option, we may redeem the Fairfax Notes in whole, but 
+not in part, at a redemption price equal to 100.0% of the outstanding principal amount, plus accrued and unpaid 
+interest, if any. Upon the occurrence of a Change of Control (as defined in the applicable notes), each holder of 
+such notes will have the right to require us to purchase all or a portion of such holder’s notes at a purchase price 
+equal to 101.0% of the principal amount thereof plus accrued and unpaid interest, if any. 
+ 
+The indentures relating to the 2025 Notes and the 2026 Notes provide Fairfax with the right to designate (and 
+Fairfax has so designated in the case of the Atlas board of directors) (i) two members of the Atlas board of directors 
+and one member of the Seaspan board of directors if at least $125.0 million aggregate principal amount of the 2025 
+Notes and 2026 Notes remains outstanding, or (ii) one member of the Atlas board of directors if at least $50.0 
+million but less than $125.0 million aggregate principal amount of the 2025 Notes and 2026 Notes remains 
+outstanding. The indenture relating to the 2027 Fairfax Notes provides Fairfax with the right to designate (i) two 
+members of the Atlas board of directors and one member of the Seaspan board of directors if at least $100.0 million 
+aggregate principal amount of the 2027 Fairfax Notes remains outstanding, or (ii) one member of the Atlas board 
+of directors if at least $50.0 million but less than $100.0 million aggregate principal amount of the 2027 Fairfax 
+Notes remains outstanding. Notwithstanding the foregoing, in no event shall the rights under the indentures 
+governing the Fairfax Notes allow Fairfax to designate more than two members to the Atlas board of directors and 
+one member to the Seaspan board of directors if the thresholds described in clause (i) of the preceding sentences 
+is reached, or to designate more than one member to the Atlas board of directors if the thresholds described in 
+clause (ii) of the preceding sentences is reached. 
+ 
+As at March 1, 2021, Fairfax and its affiliates hold approximately 40.4% of the issued and outstanding common 
+shares of Atlas, or 45.9% taking into account 25,000,000 Atlas common share issuable to Fairfax and its affiliates 
+upon the exercise of warrants held by Fairfax.  Fairfax is Atlas’s largest shareholder. 
+ 
+Vessel Portfolio Financing Program 
+ 
+Seaspan is party to three credit agreements dated May 15, 2019, December 30, 2019 and October 14, 2020, 
+respectively, amongst (inter alia) Seapsan’s wholly owned subsidiary, Seaspan Holdco III Ltd., as borrower (the 
+“Borrower”), Seaspan Corporation as guarantor, the lenders from time to time party thereto, and Citibank, N.A. as 
+administrative agent.  The three credit agreements, together with an intercreditor and proceeds agreement dated 
+May 15, 2019 (the “Intercreditor Agreement”), are collectively referred to as the “Portfolio Financing Program”.
+
+--- Page 28 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+28
+The Portfolio Financing Program provides for (i) a $300 million revolving credit facility and (ii) three term loan 
+facilities in the aggregate amount of $1,705 million. The Portfolio Financing Program is secured by a portfolio of 
+vessels (comprised of 48 vessels as at December 31, 2020, the “Collateral Pool”), and the Borrower has the ability 
+to add, substitute and remove vessels from the Collateral Pool during the term, subject to a borrowing base, portfolio 
+concentration limits, absence of defaults and compliance with financial covenants and certain negative covenants. 
+ 
+Each vessel in the Collateral Pool is owned by a direct wholly owned subsidiary of the Borrower, and each such 
+subsidiary is also a guarantor under the Portfolio Financing Program. 
+ 
+Pursuant to the Intercreditor Agreement, the Borrower may, subject to the terms and conditions set out in the 
+Intercreditor Agreement, incur additional secured indebtedness by way of issuing private placement notes or 
+entering into further secured loan facilities (“Additional Secured Debt”), which Additional Secured Debt would be 
+secured by the same Collateral Pool. 
+ 
+As at December 31, 2020, $1,582,470,000 was outstanding under the Portfolio Financing Program and a $250 
+million term loan remained undrawn. The Borrower drew the $250 million term loan in March 2021.
+
+--- Page 29 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+29
+13 Documents available  
+ 
+For the term of the Base Prospectus, the following documents (or copies thereof) can be inspected at the offices of 
+Seaspan Ship Management Ltd., 2600-200 Granville Street, Vancouver, British Columbia, Canada V6C 1S4 or on 
+the Issuer’s website at www.seaspancorp.com: 
+ 
+(a) the Certificate of Incorporation, Second Amended and Restated Articles of Incorporation dated June 12, 2018, 
+as amended by Articles of Amendment dated March 25, 2020, and Second Amended and Restated Bylaws 
+dated June 12, 2018, 2018 of the Issuer; and 
+ 
+(b) all reports, letters and other documents, valuations and statements prepared by any expert at the Issuer's 
+request, any part of which is included or referred to in the Base Prospectus.
+
+--- Page 30 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+30
+14 Financial instruments that can be issued under the Base 
+Prospectus 
+The Base Prospectus, as approved in accordance with the EU Prospectus Regulation 2017/1129, allows for the 
+issuance of Bonds.  
+ 
+This chapter describes the form, type, definitions, general terms and conditions, return and redemption 
+mechanisms, rating and template for Final Terms associated with the Bonds. 
+ 
+Risk factors related to the Bonds are described in Chapter 1 Risk Factors. 
+ 
+14.1 Securities Form 
+A Bond is a financial instrument as defined in the Norwegian Securities Trading Act (Verdipapirhandelloven)  
+§ 2-2.  
+ 
+The Bonds are electronically registered in book-entry form with the Securities Depository.  
+14.2 Security Type 
+Borrowing limit – tap issue 
+The Loan may be either open or closed for increase of the Borrowing Amount during the tenor. A tap issue can take 
+place until five banking days before the Maturity Date. If the issue is open, the First Tranche and Borrowing Limit 
+will be specified in the Applicable Final Terms. 
+ 
+Return 
+Fixed Rate (FIX) 
+A Bond issue with a fixed Interest Rate will bear interest at a fixed rate as specified in the applicable Final Terms.  
+ 
+The Interest Rate will be payable annually or semi-annually on the Interest Payment Dates as specified in the 
+applicable Final Terms. 
+ 
+Floating Rate (FRN) 
+A Bond issue with a floating Interest Rate will bear interest equal to a Reference Rate plus a fixed Margin for a 
+specified period (3 or 6 months). Interest Rate or Reference Rate may be deemed to be zero. The period lengths 
+are equal throughout the term of the Loan, but each Interest Payment Date is adjusted in accordance with the 
+Business Day Convention. The Interest Rate for each forthcoming period is determined two Business Days prior to 
+each Interest Payment Date based on the then current value of the Reference Rate plus the Margin. 
+ 
+The Interest Rate will be payable quarterly or semi-annually on the the Interest Payment Dates as specified in the 
+applicable Final Terms. 
+ 
+The relevant Reference Rate, the Margin, the Interest Payment Dates and the then current Interest Rate will be 
+specified in the applicable Final Terms. 
+ 
+Redemption 
+The Loan will mature in full at the Maturity Date at a price equal to 100 per cent. of the nominal amount, or at the 
+Redemption Price as specified in the Final Terms if the Issuer does not, on or before the Target Observation Date, 
+deliver written evidence (to the Bond Trustee's satisfaction) that the Sustainability Performance Target has been 
+met, as confirmed by the External Verifier in accordance with customary procedures. 
+ 
+The Issuer may have the option to prematurely redeem the Loan in full at terms specified in the applicable Final 
+Terms. 
+ 
+The Bondholders may have the right to require that the Issuer purchases all or some of the Bonds held by that 
+Bondholder at terms specified in the applicable Final terms. 
+ 
+Security 
+The Bonds may be either secured or unsecured. Details will be specified in the applicable Final Terms. 
+ 
+Negative pledge 
+The Bonds may have negative pledge clause. Details will be specified in the applicable Final Terms.
+
+--- Page 31 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+31
+ 
+14.3 Definitions 
+This section includes a summary of the definitions set out in any Bond Terms as well as certain other definitions 
+relevant for this Prospectus. If these definitions at any point in time no longer represents the correct understanding 
+of the definitions set out in the Bond Terms, the Bond Terms shall prevail. 
+ 
+Additional Bonds: 
+Means Bonds issued under a Tap Issue, including any Temporary Bonds as defined in the Bond 
+Terms. 
+ 
+ 
+Attachment: 
+Means any schedule, appendix or other attachment to the Bond Terms. 
+ 
+ 
+Base Prospectus: 
+This document. Describes the Issuer and predefined features of Bonds that can be listed under 
+the Base prospectus, as specified in the Prospectus Regulation (EU) 2017/1129. Valid for 12 
+months after it has been published. In this period, a prospectus may be constituted by the Base 
+Prospectus, any supplement(s) to the Base Prospectus and a Final Terms for each new issue. 
+ 
+ 
+Bond Issue/Bonds/ 
+Notes/the Loan: 
+Means (i) the debt instruments issued by the Issuer pursuant to these Bond Terms, and (ii) any 
+overdue and unpaid principal which has been issued under a separate ISIN in accordance with 
+the regulations of the CSD from time to time. 
+ 
+ 
+Bond Terms: 
+The agreement including any attachments thereto, and any subsequent amendments and 
+additions agreed between the parties thereto. 
+ 
+ 
+Bond Trustee: 
+Nordic Trustee AS, Postboks 1470 Vika, 0116 Oslo, or its successor(s) Website: 
+https://nordictrustee.com 
+ 
+The Bond Trustee has power and authority to act on behalf of, and/or represent, the Bondholders 
+in all matters, including but not limited to taking any legal or other action, including enforcement 
+of the Bond Terms, and the commencement of bankruptcy or other insolvency proceedings 
+against the Issuer, or others. 
+ 
+The Bond Trustee shall represent the Bondholders in accordance with the finance documents. 
+The Bond Trustee is not obligated to assess or monitor the financial condition of the Issuer or 
+any other obligor unless to the extent expressly set out in the Bond Terms, or to take any steps 
+to ascertain whether any event of default has occurred. The Bond Trustee is entitled to take such 
+steps that it, in its sole discretion, considers necessary or advisable to protect the rights of the 
+Bondholders in all matters pursuant to the terms of the finance documents. 
+ 
+ 
+Bondholder: 
+A person who is registered in the CSD as directly registered owner or nominee holder of a Bond, 
+subject however to the Bondholders’ rights in the Bond Terms. 
+ 
+ 
+Bondholders’ 
+decisions: 
+The Bondholders’ Meeting represents the supreme authority of the Bondholders community in 
+all matters relating to the Bonds and has the power to make all decisions altering the terms and 
+conditions of the Bonds, including, but not limited to, any reduction of principal or interest and 
+any conversion of the Bonds into other capital classes. 
+ 
+At the Bondholders’ meeting each Bondholder may cast one vote for each voting bond owned 
+at close of business on the day prior to the date of the Bondholders’ meeting in the records 
+registered in the Securities Depository.  
+ 
+In order to form a quorum, at least half (1/2) of the voting bonds must be represented at the 
+Bondholders' meeting. See also the clause for repeated Bondholders’ meeting in the Bond 
+Terms.  
+ 
+Resolutions shall be passed by simple majority of the votes at the Bondholders' Meeting, 
+however, a majority of at least 2/3 of the voting bonds represented at the Bondholders’ Meeting 
+is required for any waiver or amendment of any terms of the Bond Terms. 
+ 
+(For more details, see also the clause for Bondholders’ decisions in the Bond Terms) 
+ 
+ 
+Bondholders rights: 
+Bondholders' rights are specified in the Bond Terms.  
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with the CSD, the 
+Bondholders are bound by the Bond Terms.
+
+--- Page 32 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+32
+ 
+ 
+Borrowing Limit – Tap 
+Issue and Borrowing 
+Amount/First Tranche 
+Borrowing Limit is the maximum issue amount for an open Bond issue.  
+ 
+Borrowing Amount/First Tranche is the borrowing amount for a closed Bond Issue, eventually 
+the borrowing amount for the first tranche of an open Bond Issue. 
+ 
+Borrowing Limit – Tap Issue and Borrowing Amount/First Tranche will be specified in the Final 
+Terms. 
+ 
+ 
+Business Day: 
+A day on which both the relevant CSD settlement system and the USD settlement system are 
+open, and banks generally are open for business in Oslo and New York. 
+ 
+ 
+Business Day 
+Conventon: 
+If the last day of any Interest Period originally falls on a day that is not a Business Day, the 
+Interest Payment Date will be as follow: 
+ 
+If Fixed Rate, the Interest Payment Date shall be postponed to the next day which is a Business 
+Day (Following Business Day convention). However, no adjustment will be made to the Interest 
+Period. 
+ 
+If FRN, the Interest Period will be extended to include the first following Business Day unless 
+that day falls in the next calendar month, in which case the Interest Period will be shortened to 
+the first preceding Business Day (Modified Following Business Day convention). The Interest 
+Period is adjusted accordingly. 
+ 
+ 
+Calculation Agent: 
+The Bond Trustee, if not otherwise stated in the applicable Final Terms. 
+ 
+ 
+Call Option: 
+The Final Terms may specify that the Issuer is entitled to redeem (all or some of) the Outstanding 
+Bonds prior to the Maturity Date. 
+ 
+In such case the Call Date(s), the Call Price(s) and the Call Notice Period will be specified in the 
+Final Terms. 
+ 
+ 
+Change of Control 
+Event: 
+Means a person or group of persons (other than an Excluded Person) acting in concert gaining 
+Decisive Influence over the Issuer. 
+ 
+ 
+Currency: 
+The currency in which the bond issue is denominated. 
+ 
+Currency will be specified in the Final Terms. 
+ 
+ 
+Day Count Convention: The convention for calculation of payment of interest; 
+a) If Fixed Rate, the interest shall be calculated on the basis of a 360-day year comprised of 
+twelve months of 30 days each and, in case of an incomplete month, the actual number of 
+days elapsed (30/360-days basis), unless: 
+(i) the last day in the relevant Interest Period is the 31st calendar day but the first day of 
+that Interest Period is a day other than the 30th or the 31st day of a month, in which 
+case the month that includes that last day shall not be shortened to a 30–day month; 
+or 
+(ii) the last day of the relevant Interest Period is the last calendar day in February, in which 
+case February shall not be lengthened to a 30-day month. 
+(b) If FRN, the interest shall be calculated on the basis of the actual number of days in the 
+Interest Period in respect of which payment is being made divided by 360 (actual/360-days 
+basis). 
+ 
+ 
+De-Listing Event: 
+Means if the Parent’s common shares are delisted from New York Stock Exchange and, 
+simultaneously, neither the Parent’s nor the Issuer’s common shares are listed on the New York 
+Stock Exchange or another recognized stock exchange. 
+ 
+ 
+Decisive Influence: 
+A person having, as a result of an agreement or through the ownership of shares, units or other 
+equity instruments in another person (directly or indirectly): 
+(a) 
+a majority of the voting rights in that other person; or 
+(b) 
+a right to elect or remove a majority of the members of the board of directors of that 
+ 
+other person. 
+ 
+ 
+Denomination – Each 
+Bond / Nominal 
+Amount: 
+The nominal amount of each Bond. 
+ 
+Denomination of each bond will be specified in the Final Terms.
+
+--- Page 33 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+33
+ 
+ 
+Disbursement Date / 
+Issue Date 
+Date of bond issue. 
+ 
+On the Issue Date the bonds will be delivered to the Bondholder’s VPS-account against payment 
+or to the Bondholder’s custodian bank if the Bondholder does not have his/her own VPS-account. 
+ 
+The Issue Date will be specified in the Final Terms. 
+ 
+ 
+Exchange: 
+Means: 
+(a) Oslo Børs (the Oslo Stock Exchange); or 
+(b) any regulated market as such term is understood in accordance with the Markets in Financial 
+Instruments Directive 2014/65/EU (MiFID II) and Regulation (EU) No. 600/2014 on markets 
+in financial instruments (MiFIR). 
+ 
+ 
+Excluded Person: 
+(a) any of Kyle Washington, Kevin Washington, Dennis Washington or any of their estate, 
+spouse, and/or descendants; 
+(b) any trust for the benefit of the persons listed in (a); 
+(c) Fairfax Financial Holdings Limited; 
+(d) an Affiliate of any of the persons listed in (a), (b) or (c); or 
+(e) a combination of the foregoing. 
+ 
+ 
+External Verifier: 
+Means any qualified provider of third-party assurance or attestation services appointed by the 
+Issuer (acceptable to the Bond Trustee) to review and confirm the Issuer’s performance against 
+the Sustainability Performance Target. 
+ 
+ 
+Final Terms: 
+Document describing securities as specified in Prospectus Regulation (EU) 2017/1129, 
+prepared as part of the Prospectus. Final Terms will be prepared for each new security as 
+specified in Prospectus Regulation (EU) 2017/1129, issued by the Issuer. 
+ 
+The template for Final Terms has been approved by the Norwegian FSA, as competent authority 
+under Regulation (EU) 2017/1129. The Norwegian FSA only approves the template for Final 
+Terms as meeting the standards of completeness, comprehensibility and consistency imposed 
+by Regulation (EU) 2017/1129. Such approval should not be considered as an endorsement of 
+the quality of the securities that are subject of the Final Terms. Investors should make their own 
+assessment as to the suitability of investing in the securities. 
+ 
+ 
+Interest Determination 
+Date(s): 
+In the case of NIBOR: Second Oslo business day prior to the start of each Interest Period. 
+In the case of USD LIBOR: Second London business day prior to the start of each Interest 
+Period. 
+ 
+Interest Determination Date(s) for other Reference Rates, see Final Terms. 
+ 
+ 
+Interest Payment 
+Date(s): 
+The Interest Rate is paid in arrears on the last day of each Interest Period.  
+ 
+Any adjustment will be made according to the Business Day Convention. 
+ 
+The Interest Payment Date(s) will be specified in the Final Terms. 
+ 
+ 
+Interest Period: 
+The first Interest Period runs from and including the Issue Date to but excluding the first Interest 
+Payment Date. The subsequent Interest Periods run from and including an Interest Payment 
+Date to but excluding the next Interest Payment Date. The last Interest Payment Date 
+corresponds to the Maturity Date. 
+ 
+ 
+Interest Rate: 
+Rate of interest applicable to the Bonds; 
+ 
+(i) 
+If Fixed Rate, the Bonds shall bear interest at the percentage rate per annum (based 
+on the Day Count Convention)  
+ 
+(ii) If FRN, the Bonds shall bear interest at a rate per annum equal to the Reference Rate 
+plus a Margin (based on the Day Count Convention). Interest Rate or Reference Rate 
+may be deemed to be zero. 
+ 
+The Interest Rate is specified in Final Terms. 
+ 
+ 
+Interest Rate 
+Adjustment Date: 
+Date(s) for adjusting of the interest rate for bond issue with floating interest rate.
+
+--- Page 34 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+34
+The Interest Rate Adjustment Date will coincide with the Interest Payment Date. 
+ 
+ 
+ISIN: 
+International Securities Identification Number for the Bond Issue. ISIN is specified in Final 
+Terms. 
+ 
+ 
+Issuer: 
+Seaspan Corporation is the Issuer under the Base Prospectus. 
+ 
+ 
+Issuer’s Bonds: 
+Means any Bonds which are owned by the Issuer or any affiliate of the Issuer. 
+ 
+ 
+Issue Price: 
+The price in percentage of the Denomination, to be paid by the Bondholders at the Issue Date. 
+ 
+Issue price will be specified in Final Terms.  
+ 
+ 
+Joint Bookrunner: 
+The bond issue’s joint bookrunner(s), as specified in the Final Terms. 
+ 
+ 
+LEI-code: 
+Legal Entity Identifier (LEI), is a 20-character reference code to uniquely identify legally distinct 
+entities that engage in financial transactions. 
+ 
+LEI-code is specified in Final Terms. 
+ 
+ 
+Listing: 
+Listing of a bond issue on an Exchange is due to the Base Prospectus, any supplement(s) to 
+the Base Prospectus and a Final Terms. 
+ 
+An application for listing will be sent after the Disbursement Date and as soon as possible after 
+the Prospectus has been approved by the Norwegian FSA. 
+ 
+Bonds listed on an Exchange are freely negotiable. See also Market Making. 
+ 
+ 
+Market Making: 
+For Bonds listed on an Exchange, a market-maker agreement between the Issuer and a Joint 
+Bookrunner may be entered into.  
+ 
+This will be specified in the Final Terms. 
+ 
+ 
+Margin: 
+The margin, specified in percentage points, to be added to the Reference rate. 
+ 
+Margin will be specified in the Final terms.  
+ 
+ 
+Maturity Date: 
+The date the bond issue is due for payment, if not already redeemed pursuant to Call Option or 
+Put Option. The Maturity Date coincides with the last Interest Payment Date and is adjusted in 
+accordance with the Business Day Convention.  
+ 
+The Maturity Date is specified in the Final Terms. 
+ 
+ 
+Outstanding Bonds: 
+Means any Bonds not redeemed or otherwise discharged. 
+ 
+The Issuer will issue on the Issue date the first tranche of the bond issue as specified in Final 
+Terms. During the term of the bond issue, new tranches may be issued up to the Borrowing 
+Limit, as specified in Final Terms. 
+ 
+ 
+Parent: 
+Atlas Corp., a company existing under the laws of the Republic of the Marshall Islands with 
+registration number 102657, and is the 100 per cent. direct owner of the Issuer. 
+ 
+ 
+Paying Agent: 
+The entity designated by the Issuer to manage (maintain the Issuer Account for) the bond issue 
+in the Securities Depository. 
+ 
+The Paying Agent is specified in the Final Terms. 
+ 
+ 
+Prospectus: 
+The Prospectus consists of the Base Prospectus, any supplement(s) to the Base Prospectus 
+and the relevant Final Terms prepared in connection with application for listing on an Exchange.  
+ 
+ 
+Put Option: 
+The Final Terms may specify that upon the occurrence of a Put Option Event, each Bondholder 
+will have the right to require that the Issuer purchases all or some of the Bonds held by that 
+Bondholder. 
+ 
+In such case the exercise procedures, the repayment date and put price will be specified in the 
+Final Terms.
+
+--- Page 35 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+35
+ 
+ 
+Put Option Event: 
+ Means a Change of Control Event or a De-Listing Event 
+ 
+ 
+Redemption: 
+The Outstanding Bonds will mature in full on the Maturity Date and shall be redeemed by the 
+Issuer on the Maturity Date (if not already redeemed pursuant to Call Option or Put Option) at  
+(a) a price equal to 100 per cent. of the Nominal Amount; or 
+(b) the Redemption Price if the Issuer does not, on or before the Target Observation Date, deliver 
+written evidence (to the Bond Trustee's satisfaction) that the Sustainability Performance Target 
+has been met, as confirmed by the External Verifier in accordance with customary procedures. 
+ 
+ 
+Redemption Price: 
+The price determined as a percentage of the Denomination to which the bond issue is to be 
+redeemed, as specified in the Final Terms. 
+ 
+ 
+Reference Rate:  
+For FRN, the Reference Rate shall be NIBOR or USD LIBOR or any other rate as specified in 
+the Final Terms, which appears on the Relevant Screen Page as at the specified time on the 
+Interest Determination Date in question. 
+ 
+The Reference Rate, the Relevant Screen Page, the specified time, information about the past 
+and future performance and volatility of the Reference Rate and any fallback provisions will be 
+specified in Final Terms.  
+ 
+ 
+Relevant Screen Page: For FRN, an internet address or an electronic information platform belonging to a renowed 
+provider of Reference Rates. 
+ 
+The Relevant Screen Page will be specified in the Final Terms. 
+ 
+ 
+Securities Depository 
+/CSD: 
+The securities depository in which the bonds are registered, in accordance with the Norwegian 
+Act of 2019 no. 6 regarding Securities depository. 
+ 
+Unless otherwise specified in the Final Terms, the following Securities Depository will be used: 
+Norwegian Central Securities Depository (“Verdipapirsentralen” or ”VPS”), P.O. Box 4, 0051 
+Oslo. 
+ 
+ 
+Sustainability Linked 
+Bond Framework: 
+Means the Issuer's Sustainability Linked Bond Framework adopted by the Issuer in January 
+2021 establishing the Issuer's sustainability strategy priorities and goals with respect to the 
+Sustainability Performance Target. 
+ 
+ 
+Sustainability 
+Performance Target: 
+Means the sustainability performance target set out in the Sustainability Linked Bond 
+Framework. 
+ 
+ 
+Tap Issues: 
+The Issuer may, provided that the conditions set out in the Bond Terms are met, at one or more 
+occasions up until, but excluding, the Maturity Date or any earlier date when the Bonds have 
+been redeemed in full, issue Additional Bonds until the aggregate nominal amount of the Bonds 
+outstanding equals in aggregate the maximum issue amount (less the aggregate nominal 
+amount of any previously redeemed Bonds) 
+ 
+If N/A is specified in the Borrowing Limit in the Final Terms, the Issuer may not make Tap issues 
+under the Bond Terms. 
+ 
+ 
+Target Observation 
+Date: 
+Means the date falling one month prior to the Maturity Date, provided that if such date is not a 
+Business Day, it shall mean the next proceeding Business Day. 
+ 
+ 
+Temporary Bonds: 
+If the Bonds are listed on an Exchange and there is a requirement for a supplement to the Base 
+Prospectus in order for the Additional Bonds to be listed together with the Bonds, the Additional 
+Bonds may be issued under a separate ISIN which, upon the approval of the supplement, will 
+be converted into the ISIN for the Bonds issued on the initial Issue Date. The Bond Terms 
+governs such Temporary Bonds. The Issuer shall inform the Bond Trustee, the Exchange and 
+the Paying Agent once such supplement is approved. 
+ 
+ 
+Yield: 
+Dependent on the Market Price for bond issue with floating rate. Yield for the first interest period 
+can be determined when the interest is known, normally two Business Days before the Issue 
+Date. 
+  
+For bond issue with fixed rate, yield is dependent on the market price and number of Interest 
+Payment Date.
+
+--- Page 36 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+36
+The yield is calculated in accordance with «Anbefaling til Konvensjoner for det norske sertifikat- 
+og obligasjonsmarkedet» prepared by Norske Finansanalytikeres Forening in January 2020: 
+https://finansanalytiker.no/innlegg/januar-2020-oppdatert-konvensjon-for-det-norske-sertifikat-
+og-obligasjonsmarkedet/   
+ 
+Yield is specified in Final Terms. 
+ 
+14.4 General terms and conditions 
+These general terms and condtions summarize and describe the general terms and conditions set out in any Bond 
+Terms. If these general terms and conditions at any point in time no longer represents the correct understanding of 
+the general terms and conditions set out in the Bond Terms, the Bond Terms shall prevail. 
+ 
+14.4.1 Use of proceeds 
+The Issuer will use the net proceeds from the Bond Issue for the general corporate purposes of the Group. 
+ 
+Other use of proceeds will be specified in the Final Terms. 
+14.4.2 Publication 
+This Base Prospectus, any supplement(s) to this Base Prospectus and the Final Terms will be available for 
+inspection at the offices of Seaspan Ship Management Ltd., 2600-200 Granville Street, Vancouver, British 
+Columbia, Canada V6C 1S4 or on the Issuer’s website at www.seaspancorp.com. 
+ 
+The Prospectus will be published by a stock exchange announcement. 
+ 
+14.4.3 Redemption 
+Matured interest and matured principal will be credited each Bondholder directly from the Securities Registry. 
+Claims for interest and principal shall be limited in time pursuant the Norwegian Act relating to the Limitation Period 
+Claims of 18 May 1979 no 18, p.t. 3 years for interest rates and 10 years for principal. 
+ 
+14.4.4 Fees, Expenses and Tax legislation 
+The tax legislation of the investor’s Member State and of the Issuer’s country of incorporation may have an impact 
+on the income received from the securities. 
+ 
+The Issuer shall pay any stamp duty and other public fees in connection with the loan. Any public fees or taxes on 
+sales of Bonds in the secondary market shall be paid by the Bondholders, unless otherwise decided by law or 
+regulation. The Issuer is responsible for withholding any withholding tax imposed by Norwegian law. 
+ 
+14.4.5 Security Depository and secondary trading 
+The Bonds are electronically registered in book-entry form with the Securities Depository, see also the definition of 
+"Securities Depository". Securities Depository is specified in the Final Terms. 
+ 
+Secondary trading will be made over an Exchange for Bonds listed on a marketplace. See also definition of “Market 
+Making”. 
+ 
+Prospectus fee for the Base Prospectus including templates for Final Terms is NOK 101,000. In addition, there is a 
+listing fee for listing of the Bonds in accordance with the current price list of the Exchange. The listing fees will be 
+specified in the Final Terms.  
+ 
+14.4.6 Status of the Bonds and Security 
+The Bonds will constitute senior unsecured debt obligations of the Issuer. The Bonds will rank pari passu between 
+themselves and will rank at least pari passu with all other senior unsecured obligations of the Issuer (save for such 
+claims which are preferred by bankruptcy, insolvency, liquidation or other similar laws of general application) and 
+shall rank ahead of subordinated debt. 
+ 
+The Bonds are unsecured.
+
+--- Page 37 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+37
+ 
+14.4.7 Bond Terms 
+The Bond Terms has been entered into between the Issuer and the Bond Trustee. The Bond Terms regulates the 
+Bondholders’ rights and obligations in relations with the bond issue. The Bond Trustee enters into the Bond Terms 
+on behalf of the Bondholders and is granted authority to act on behalf of the Bondholders to the extent provided for 
+in the Bond Terms. 
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with the CSD, the Bondholders are bound by 
+the Bond Terms and any other Finance Document, without any further action required to be taken or formalities to 
+be complied with by the Bond Trustee, the Bondholders, the Issuer or any other party. 
+ 
+The Bond Terms will be attached to the Final Terms for each Bond issue and is also available through the Joint 
+Bookrunner(s), Issuer and the Bond Trustee. 
+ 
+14.4.8 Legislation 
+The Bond Terms are governed by and construed in accordance with Norwegian law. The Company is a corporation 
+organized under the laws of The Republic of The Marshall Islands.  The Company operates under the provisions of 
+the Marshall Islands Business Corporations Act. 
+ 
+14.4.9 Approvals 
+The Bonds will be issued in accordance with the Issuer’s Board of Directors approval. 
+ 
+The date of the Issuer’s Board of Directors approval will be specified in the Final Terms. 
+ 
+The Base Prospectus has been submitted to the Norwegian Financial Supervisory Authority (Finanstilsynet) before 
+listing of the Bonds takes place. 
+ 
+Final Terms will be submitted to Finanstilsynet for information in connection with an application for listing of a Bond 
+Issue. 
+ 
+The Base prospectus will not be the basis for offers for subscription in bonds that are not subject to a prospectus 
+obligation. 
+ 
+14.4.10 Restrictions on the free transferability of the securities 
+Any restrictions on the free transferability of the securities will be specified in the Final Terms. 
+ 
+14.5 Return and redemption 
+Bonds may have return and redemption mechanisms as explained below. The relevant Final Terms refer to these 
+mechanisms and provide relevant parameter values for the specific bond issue. 
+14.5.1 Bonds with floating rate 
+13.5.1.a Return (interest) 
+The Interest Rate is specified in Interest Rate ii). Payment of the Interest Rate is calculated on basis of the Day 
+Count Convention (b). 
+ 
+Interest Rate or Reference Rate may be deemed to be zero.  
+ 
+The period lengths are equal throughout the term of the Loan, but each Interest Payment Date is adjusted in 
+accordance with the Business Day Convention. The Interest Rate for each forthcoming period are determined two 
+Business Days prior to each Interest Payment Date based on the then current value of the Reference Rate plus the 
+Margin. 
+ 
+The Interest Rate is paid in arrears on each Interest Payment Date. The first Interest Period runs from and including 
+the Issue Date to but excluding the first Interest Payment Date. The subsequent Interest Periods run from and 
+including an Interest Payment Date to but excluding the next Interest Payment Date. The last Interest Payment 
+Date corresponds to the Maturity Date.
+
+--- Page 38 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+38
+The relevant Reference Rate, the Margin, the Interest Payment Dates and the then current Interest Rate will be 
+specified in the applicable Final Terms. 
+ 
+Interest calculation method for secondary trading is given by act/360, modified following. 
+ 
+13.5.1.b Redemption 
+Redemption is made in accordance with Redemption. 
+ 
+14.5.2 Bonds with fixed rate 
+13.5.2.a Return (interest) 
+The interest rate is specified in Interest Rate (i). Payment of the the Interest Rate is calculated on basis of the Day 
+Count Convention (a).  
+ 
+The Interest Rate is paid in arrears on each Interest Payment Date. The first Interest Period runs from and including 
+the Issue Date to but excluding the first Interest Payment Date. The subsequent Interest Periods run from and 
+including an Interest Payment Date to but excluding the next Interest Payment Date. The last Interest Payment 
+Date corresponds to the Maturity Date. 
+ 
+The Interest Rate and the Interest Payment Dates will be specified in the applicable Final Terms. 
+ 
+Interest calculation method for secondary trading is given by act/365 for bond issue with fixed rate.  
+ 
+13.5.2.b Redemption 
+Redemption is made in accordance with Redemption. 
+ 
+14.6 Rating 
+The Issuer has been rated by Kroll.  See Section 5.1.8 of this Base Prospectus. 
+ 
+The Bonds have not been rated. 
+ 
+ 
+14.7 Final Terms 
+Template for Final Terms for fixed and floating bond issue, see Appendix 2.
+
+--- Page 39 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+39
+15 Third party information and statement by experts and 
+declarations of any interest 
+15.1 Third party information 
+Part of the information given in this Base Prospectus has been sourced from a third party. It is hereby confirmed 
+that the information has been accurately reproduced and that as far as Seaspan Corporation is aware and is able 
+to ascertain from information published by that third party, no facts have been omitted which would render the 
+reproduced information inaccurate or misleading. The following table lists such third parties:  
+ 
+Kind of information 
+Publicly 
+available 
+Name of third party 
+Business 
+address 
+Qualifications 
+Material 
+interest in 
+the 
+Company 
+Section 6.1.1, 
+Main categories of 
+services performed 
+and principal markets 
+– Containership 
+market conditions 
+Yes, against 
+a fee 
+ 
+Alphaliner Monthly 
+Monitor Newsletter 
+Alphaliner 
+S.A.R.L., 
+CB21, 16 
+place de 
+l’Iris, 92040 
+Paris La 
+Défense 
+Cedex, 
+FRANCE 
+Knowledge 
+base 
+None
+
+--- Page 40 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+40
+Cross reference list 
+ 
+Reference in 
+Registration 
+Document 
+Refers to 
+Details 
+11.1 Historical 
+Financial 
+Information for 
+the Company 
+Annual Report 2020, available at 
+https://ir.atlascorporation.com/sec-filings 
+(filed as an Atlas Corp. Report on Form 
+6-K, dated March 30, 2020) 
+Consolidated Balance Sheets, page 3 
+Consolidated Statements of Operations, page 4 
+Consolidated Statements of Cash Flows, page 9 
+Notes to the consolidated financial statements, 
+pages 10 – 37 
+ 
+Annual Report 2019, available at 
+https://ir.atlascorporation.com/annual-
+reports (filed as part of Atlas Corp.’s 
+Annual Report on Form 20-F for the 
+year ended December 31, 2019) 
+Consolidated Balance Sheets, page S-4 
+Consolidated Statements of Operations, page S-5 
+Consolidated Statements of Cash Flows, page S-10 
+Notes to the consolidated financial statements, 
+pages S-11 – S-39 
+11.2 Auditing of 
+historical 
+annual financial 
+information 
+Annual Report 2020, available at 
+https://ir.atlascorporation.com/sec-filings 
+(filed as an Atlas Corp. Report on Form 
+6-K, dated March 30, 2020) 
+Auditors’ report, pages 1 – 2  
+ 
+Annual Report 2019, available at 
+https://ir.atlascorporation.com/annual-
+reports (filed as part of Atlas Corp.’s 
+Annual Report on Form 20-F for the 
+year ended December 31, 2019) 
+Auditors’ report, page S-2 – S-3 
+ 
+ 
+References to the documents mentioned above are limited to information given in “Details”, e.g. that the non- 
+incorporated parts are either not relevant for the investor or covered elsewhere in the prospectus.
+
+--- Page 41 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+41
+Joint Bookrunners' disclaimer 
+ 
+DNB Bank ASA and Fearnley Securities AS as Joint Bookrunners, have assisted the Company in preparing this 
+Base Prospectus. The Joint Bookrunners have not verified the information contained herein. Accordingly, no 
+representation, warranty or undertaking, express or implied, is made and the Joint Bookrunners expressly disclaim 
+any legal or financial liability as to the accuracy or completeness of the information contained in this Base 
+Prospectus or any other information supplied in connection with the issuance or distribution of bonds by Seaspan 
+Corporation.  
+ 
+This Base Prospectus is subject to the general business terms of the Joint Bookrunners, available at their respective 
+websites. Confidentiality rules and internal rules restricting the exchange of information between different parts of 
+the Joint Bookrunners may prevent employees of the Joint Bookrunners who are preparing this Base Prospectus 
+from utilizing or being aware of information available to the Joint Bookrunners and/or any of their affiliated 
+companies and which may be relevant to the recipient's decisions. 
+ 
+Each person receiving this Base Prospectus acknowledges that such person has not relied on the Joint 
+Bookrunners, nor on any person affiliated with it in connection with its investigation of the accuracy of such 
+information or its investment decision. 
+ 
+Oslo, 4 May 2021 
+ 
+DNB Bank ASA 
+(www.dnb.no) 
+ 
+ 
+Fearnley Securities AS 
+(www.fearnleysecurities.com)
+
+--- Page 42 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+42
+Annex 1 Seaspan Corporation 
+ 
+Certificate of Incorporation of Seaspan Corporation 
+ 
+Second Amended and Restated Articles of Incorporation of Seaspan Corporation dated June 12, 2018, as amended 
+by Articles of Amendment dated as of March 25, 2020 
+ 
+Second Amended and Restated Bylaws of Seaspan Corporation dated June 12, 2018
+
+--- Page 82 ---
+Seaspan Corporation, 4 May 2021 
+ 
+Base Prospectus 
+ 
+ 
+43
+Annex 2 Template for Final Terms for fixed and floating rate 
+Bonds
+
+--- Page 83 ---
+[Annex 2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Final Terms 
+ 
+for 
+ 
+[Title of the bond issue] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vancouver, [Date]
+
+--- Page 84 ---
+Seaspan Corporation 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+2  
+Terms used herein shall be deemed to be defined as such for the purpose of the conditions set forth in the Base 
+Prospectus clauses 2 Definitions and 14.3 Definitions, these Final Terms and the attached Bond Terms. 
+ 
+ 
+[In case MiFID II identified target group are professional investors and eligible counterparties, insert the following:] 
+MiFID II product governance / Professional investors and ECPs only target market – Solely for the purposes 
+of [the/each] manufacturer’s product approval process, the target market assessment in respect of the Bonds has 
+led to the conclusion that: (i) the target market for the Bonds is eligible counterparties and professional clients 
+only, each as defined in Directive 2014/65/EU (as amended, “MiFID II”); and (ii) all channels for distribution of the 
+Bonds to eligible counterparties and professional clients are appropriate. [Consider any negative target market]. 
+Any person subsequently offering, selling or recommending the Bonds (a “distributor”) should take into 
+consideration the manufacturer[’s/s’] target market assessment; however, a distributor subject to MiFID II is 
+responsible for undertaking its own target market assessment in respect of the Bonds (by either adopting or 
+refining the manufacturer[‘s/s’] target market assessment) and determining appropriate distribution channels. 
+ 
+[PROHIBITION OF SALES TO EEA OR UK RETAIL INVESTORS - The Bonds are not intended to be offered, 
+sold or otherwise made available to and should not be offered, sold or otherwise made available to any retail 
+investor in the European Economic Area (“EEA”) or in the United Kingdom (the “UK”). For these purposes, a retail 
+investor means a person who is one (or more) of: (i) a retail client as defined in point (11) of Article 4(1) of MiFID 
+II; (ii) a customer within the meaning of Directive (EU) 2016/97 (the "Insurance Distribution Directive"), where that 
+customer would not qualify as a professional client as defined in point (10) of Article 4(1) of MiFID II; or (iii) not a 
+qualified investor as defined in the Prospectus Regulation. Consequently no key information document required 
+by Regulation (EU) No 1286/2014 (the “PRIIPs Regulation”) for offering or selling the Bonds or otherwise making 
+them available to retail investors in the EEA or in the UK has been prepared and therefore offering or selling the 
+Bonds or otherwise making them available to any retail investor in the EEA or in the UK may be unlawful under 
+the PRIIPs Regulation.] 
+ 
+[In case MiFID II identified target group are retail investors, professional investors and eligible counterparties, 
+insert the following:] 
+MiFID II product governance / Retail investors, professional investors and ECPs target market – Solely for 
+the purposes of [the/each] manufacturer’s product approval process, the target market assessment in respect of 
+the Bonds has led to the conclusion that: (i) the target market for the Bonds is eligible counterparties, professional 
+clients and retail clients each as defined in Directive 2014/65/EU (as amended, “MiFID II”); (ii) all channels for 
+distribution to eligible counterparties and professional clients are appropriate; and (iii) the following channels for 
+distribution of the Bonds to retail clients are appropriate – investment advice, portfolio management, non-advised 
+sales and pure execution services – subject to the distributor’s suitability and appropriateness obligations under 
+MiFID II, as applicable.  Any person subsequently offering, selling or recommending the Bonds (a “distributor”) 
+should take into consideration the manufacturer[’s/s’] target market assessment; however, a distributor subject to 
+MiFID II is responsible for undertaking its own target market assessment in respect of the Bonds (by either 
+adopting or refining the manufacturer[‘s/s’] target market assessment) and determining appropriate distribution 
+channels, subject to the distributor’s suitability and appropriateness obligations under MiFID II, as applicable. 
+ 
+This document constitutes the Final Terms of the Bonds described herein pursuant to the Regulation (EU) 
+2017/1129 and must be read in conjunction with the Base Prospectus dated 4 May 2021 and [the supplement[s] 
+to the Base Prospectus dated [date]].  
+ 
+The Base Prospectus dated 4 May 2021 [and the supplement[s] to the Base Prospectus dated [date]] [together] 
+constitute[s] a base prospectus for the purposes of the Regulation (EU) 2017/1129 ([together,] the “Base 
+Prospectus”). 
+ 
+Final Terms include a summary of each Bond Issue. 
+ 
+These Final Terms and the Base Prospectus [and the supplement[s] to the Base Prospectus] are available on the 
+Issuer's website https://www.seaspancorp.com , or on the Issuer's visit address, Seaspan Ship Management Ltd., 
+2600 – 200 Granville St., Vancouver, BC V6C 1S4, Canada, or their successor (s).
+
+--- Page 85 ---
+Seaspan Corporation 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+3  
+1 Summary  
+The below summary has been prepared in accordance with the disclosure requirements in Article 7in the 
+Regulation (EU) 2017/1129 as of 14 June 2017. 
+ 
+Introduction and warning 
+Disclosure requirement 
+Disclosure 
+Warning 
+This summary should be read as introduction to the Base 
+Prospectus. Any decision to invest in the securities should be 
+based on consideration of the Base Prospectus as a whole by the 
+investor. The investor could lose all or part of the invested capital.  
+Where a claim relating to the information contained in the Base 
+Prospectus is brought before a court, the plaintiff investor might, 
+under the national law, have to bear the costs of translating the 
+Base Prospectus before the legal proceedings are initiated. Civil 
+liability attaches only to those persons who have tabled the 
+summary including any translation thereof, but only where the 
+summary is misleading, inaccurate or inconsistent, when read 
+together with the other parts of the Base Prospectus, or where it 
+does not provide, when read together with the other parts of the 
+prospectus, key information in order to aid investors when 
+considering whether to invest in such securities. 
+Name and international securities 
+identification number (‘ISIN’) of the 
+securities. 
+[●] 
+Identity and contact details of the issuer, 
+including its legal entity identifier (‘LEI’). 
+Seaspan Corporation 
+Unit 2 – 16th Floor, W668 Building 
+Nos. 668 Castle Peak Road, Cheung 
+Sha Wan, Kowloon, Hong Kong 
+China 
+ 
+Telephone (852) 3588-9400 
+Registration number 14582 in the Marshall Islands Register of 
+Companies. 
+LEI-code ((legal entity identifier): 5493007Z8Q1H45KT7W98. 
+Identity and contact details of the offeror or 
+of the person asking for admission to trading 
+on a regulated market. 
+There is no offeror, the Base Prospectus has been produced in 
+connection with listing of the securities on an Exchange. The 
+Issuer is going to ask for admission to trading on a regulated 
+market. 
+Identity and contact details of the competent 
+authority that approved the prospectus 
+Financial Supervisory Authority of Norway (Finanstilsynet), 
+Revierstredet 3, 0151 Oslo.   
+Telephone number is +47 22 93 98 00.  
+E-mail: prospekter@finanstilsynet.no. 
+Date of approval of the prospectus. 
+The Base Prospectus was approved on 4 May 2021. 
+ 
+Key information on the Issuer 
+Disclosure requirements 
+Disclosure 
+Who is the issuer of the securities 
+Seaspan Corporation 
+Domicile and legal form 
+The Company is a corporation incorporated under the Republic of 
+the Marshall Islands. The Company operates under the provisions 
+of the Marshall Islands Business Corporations Act. 
+Principal activities 
+Seaspan is an independent owner and operator of containerships. 
+Major shareholders 
+ 
+Seaspan Corporation is a wholly owned subsidiary of Atlas Corp. 
+ 
+There are no arrangements, known to the Company, the operation of which may at a subsequent date result in a 
+change in control of the Company.  
+ 
+Management 
+ 
+ 
+Name  
+Position  
+Bing Chen 
+President and Chief Executive Officer  
+Graham Talbot 
+Chief Financial Officer 
+Karen Lawrie 
+General Counsel
+
+--- Page 86 ---
+Seaspan Corporation 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+4  
+Peter Curtis 
+Chief Commercial Officer 
+Tina Lai 
+Chief Human Resources Officer 
+Torsten Holst Pedersen 
+Chief Operating Officer 
+Statutory auditors 
+KPMG LLP 
+ 
+What is the key financial information 
+regarding the issuer 
+ 
+Key financial information 
+ 
+ 
+Seaspan Corporation consolidated financial statements 
+ 
+Amounts in USD million 
+Annual Report 
+Annual Report 
+ 
+2020 
+2019 
+Operating income 
+522.3 
+687.0 
+Net financial debt (long term debt plus 
+short term debt minus cash) 
+4,155.9 
+3,562.9 
+Net Cash flows from operating 
+activities 
+627.4 
+783.0 
+Net Cash flows from financing 
+activities 
+310.3 
+-481.5 
+Net Cash flow from investing activities 
+-891.5 
+-475.6 
+There is no description of any qualifications in the audit report for the Annual Report 2020. 
+ 
+The auditor’s report in the Annual Report 2020 contains a critical audit matter. 
+What are the key risk factors that are specific 
+to the issuer  
+Adverse economic conditions and other developments may affect 
+the ability of our charterers, shipbuilders and relevant refund 
+guarantors to fulfill their obligations under agreements with us. 
+ 
+We derive our charter revenue from a limited number of 
+customers, and the loss of any of our customers and their 
+associated long-term charters or any material decrease in 
+payments under our customer contracts could materially harm our 
+business, results of operations and financial condition. 
+ 
+ 
+ 
+ 
+The Company may not have sufficient funds to pay the purchase 
+price should the holders of the Fairfax Notes (as defined in the 
+Base Prospectus) exercise their right to call for early redemption 
+of the Fairfax Notes. 
+ 
+The Company is unable to obtain additional financing and/or 
+pursue business opportunities due to its already substantial debt 
+levels. 
+ 
+ 
+The Company fails to obtain financing on favorable terms or at all 
+to finance its business, including the acquisition of the newbuild 
+and second-hand vessels that it has contracted to purchase, as 
+well as future acquisitions. 
+ 
+ 
+The Company fails to comply with all applicable legal and 
+regulatory requirements, including anti-bribery and corruption and 
+environmental laws and marine regulations.  Also, that the 
+Company is a victim or perpetrator of illegal, unethical or 
+unprofessional actions. 
+ 
+ 
+The business becomes taxable and/or significant tax liabilities 
+result. 
+ 
+ 
+Risks inherent in the shipping business, including dangers 
+associated with potential marine disasters, environmental 
+accidents, collisions, cargo and property losses or damage, crew 
+injuries or fatalities, and business interruptions caused by 
+mechanical failure, human error, war, terrorism, political action in
+
+--- Page 87 ---
+Seaspan Corporation 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+5  
+various countries, labor strikes or adverse weather conditions. 
+ 
+Disruptions and security threats to the Company’s technology 
+systems, particularly its operational technology. 
+ 
+ 
+Loss of vessel and/or cargo due to piracy. 
+ 
+The Company’s growth strategy is adversely affected by 
+competition and/or material disruptions to global economic 
+activities, including due to any prolonged disruption created by the 
+COVID-19 virus. 
+ 
+Key information on the securities 
+Disclosure requirements 
+Disclosure 
+What are the main features of the securities 
+ 
+Description of the securities, including ISIN 
+code. 
+[●] 
+Currency for the bond issue 
+[●] 
+Borrowing Limit and Borrowing Amount  
+ [● tranche] 
+[●] 
+Denomination – Each Bond 
+[●] 
+Any restrictions on the free transferability of 
+the securities. 
+[●] 
+Description of the rights attached to the 
+securities, limitations to those rights and 
+ranking of the securities. 
+[●] 
+Information about Issue and Maturity Date, 
+interest rate, instalment and representative 
+of the bondholders 
+[●] 
+Status of the bonds and security 
+[●] 
+Where will the securities be traded 
+ 
+Indication as to whether the securities 
+offered are or will be the object of an 
+application for admission to trading. 
+[●]  
+What are the key risks that are specific to the 
+securities 
+ 
+Most material key risks 
+An investment in the bonds is subject to Seaspan’s credit risk. 
+ 
+The Company and its subsidiaries have the ability to incur 
+substantial additional debt, which may increase the risks 
+associated with its substantial existing debt, including its ability to 
+service the bonds and other debt. 
+ 
+ 
+ 
+The Company’s subsidiaries conduct a portion of its operations 
+and own certain of its operating assets, and a holder’s right to 
+receive payments on the bonds is effectively subordinated to the 
+rights of the lenders of the Company’s subsidiaries, none of which 
+are guarantors of the bonds. 
+ 
+The Bonds are unsecured obligations and effectively subordinated 
+to the Company’s secured debt. 
+ 
+ 
+ 
+The bonds do not have an established trading market, which may 
+negatively affect their market value and a holder’s ability to 
+transfer or sell the bonds. 
+ 
+Key information on the admission to trading on a regulated marked 
+Disclosure requirements 
+Disclosure 
+Under which conditions and timetable can I 
+invest in this security? 
+ [●] 
+ 
+The estimate of total expenses related to the admission to 
+trading is as follow: [●] . 
+ 
+[/ Other: (specify)]
+
+--- Page 88 ---
+Seaspan Corporation 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+6  
+Listing fee Oslo Børs [●] 
+Registration fee Oslo Børs [●] 
+ 
+Why is the prospectus being produced 
+In connection with listing of the securities on the Oslo Børs. 
+Reasons for the admission to trading on a 
+regulated marked and use of. 
+Use of proceeds [●] 
+ 
+Estimated net amount of the proceeds [●] 
+ 
+Description of material conflicts of interest to 
+the issue including conflicting interests. 
+[●]
+
+--- Page 89 ---
+Seaspan Corporation 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+7  
+2 Detailed information about the security 
+ 
+Generally: 
+ 
+ISIN code: 
+[ISIN] 
+ 
+ 
+The Loan/The Bonds: 
+[Title of the bond issue] 
+ 
+ 
+Borrower/Issuer: 
+Seaspan Corporation is registered in the Marshall Islands Register of 
+Companies with registration number 14582. The Company’s LEI code is 
+5493007Z8Q1H45KT7W98. 
+ 
+ 
+Group: 
+Means the Issuer and its subsidiaries from time to time. 
+ 
+Security Type: 
+Unsecured [open] bond issue with [fixed/floating] rate 
+ 
+Borrowing Limit – Tap Issue: 
+[Currency]  
+[Amount borrowing limit]  
+ 
+ 
+Borrowing Amount [●] tranche: 
+[Currency]   
+ [Amount [●] tranche]  
+ 
+ 
+  
+Denomination – Each bond: 
+[Currency] 
+[Amount denomination] - each and ranking pari 
+passu among themselves 
+ 
+ 
+Securities Form: 
+As set out in the Base Prospectus clause 14.1. 
+ 
+ 
+Publication: 
+As specified in the Base Prospectus section 14.4.2. 
+ 
+ 
+Issue Price: 
+[As defined in the Base Prospectus section 14.3 
+ 
+[Issue price] % 
+ 
+ 
+Disbursement Date/Issue Date: 
+[As defined in the Base Prospectus section 14.3 
+ 
+[Issue date] 
+ 
+ 
+Maturity Date: 
+[As defined in the Base Prospectus section 14.3 
+ 
+[Maturity Date] 
+ 
+ 
+Interest Rate: 
+ 
+Interest Bearing from and Including: 
+[Issue date 
+ 
+/ Other: (specify)] 
+ 
+ 
+Interest Bearing To: 
+[As defined in the Base Prospectus section 14.3 
+ 
+[Maturity Date] 
+ 
+/ Other: (specify)] 
+ 
+ 
+Reference Rate: 
+[As defined in the Base Prospectus section 14.3 
+ 
+Floating rate: [NIBOR / USD LIBOR] [3 / 6 / 12] months  
+ 
+[description of Reference Rate] 
+ 
+Relevant Screen Page: [Relevant Screen Page] 
+ 
+Specified time: [specified time] 
+ 
+Information about the past and future performance and volatility of the 
+Reference Rate is available at [Relevant Screen Page / other: (specify)] 
+ 
+Fallback provisions: [Provisions] 
+ 
+/ Other: (specify)]
+
+--- Page 90 ---
+Seaspan Corporation 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+8  
+ 
+/ Fixed Rate: N/A] 
+ 
+ 
+Margin: 
+[As defined in the Base Prospectus section 14.3 
+ 
+Floating Rate: [Margin] % p.a. 
+ 
+/ Fixed Interest: N/A 
+ 
+/ Other: (specify)] 
+ 
+ 
+Interest Rate: 
+[Bond issue with floating rate (as defined in the Base Prospectus section 
+14.3): [Reference Rate + Margin] % p.a. 
+ 
+Current Interest Rate: [current interest rate] 
+ 
+/ Bond Issue with fixed rate (as defined in the Base Prospectus section 
+14.3): [Interest rate] % p.a. 
+ 
+ 
+ 
+Day Count Convention: 
+[Floating Rate: As defined in the Base Prospectus section 14.3 
+/ Fixed Rate: As defined in the Base Prospectus section 14.3 
+ 
+ 
+ 
+Day Count Fraction – Secondary 
+Market: 
+[Floating Rate: As specified in the Base Prospectus section 14.5.1.a 
+/ Fixed Rate: As specified in the Base Prospectus section 14.5.2.a  
+ 
+ 
+ 
+Interest Determination Date: 
+[Floating Rate: As defined in the Base Prospectus section 14.3.  
+ 
+Interest Rate Determination Date: [Interest Rate Determination Date(s)] 
+each year.  
+ 
+/ Fixed rate: N/A 
+ 
+/ Other: (specify)] 
+ 
+ 
+Interest Rate Adjustment Date: 
+[Floating Rate: As defined in the Base Prospectus section 14.3.  
+ 
+/ Fixed rate: N/A] 
+ 
+ 
+Interest Payment Date: 
+As defined in the Base Prospectus section 14.3 and specified in the 
+Base Prospectus section 14.5.1 (FRN) / section 14.5.2 (fixed rate) 
+ 
+Interest Payment Date: [Date(s)] each year.  
+ 
+The first Interest Payment Date is [Date].  
+ 
+ 
+#Days first term: 
+[Number of interest days] days 
+ 
+ 
+Yield: 
+As defined in the Base Prospectus section 14.3. 
+ 
+The Yield is [yield]  
+ 
+ 
+Business Day: 
+As defined in the Base Prospectus section 14.3. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Amortisation and Redemption: 
+ 
+Redemption: 
+As defined in the Base Prospectus section 14.3 and as specified in the 
+Base Prospectus section 14.4.3, 14.5.1.b and 14.5.2.b. 
+ 
+The Maturity Date is [maturity date] 
+ 
+Redemption Price is [redemption price] % 
+ 
+ 
+Call Option: 
+As defined in the Base Prospectus section 14.3.
+
+--- Page 91 ---
+Seaspan Corporation 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+9  
+ 
+[terms of the call option] 
+ 
+Call Date(s): [call date(s)] 
+ 
+Call Price(s): [call price(s)] 
+ 
+Call Notice Period: [call notice period] 
+ 
+Put Option: 
+As defined in the Base Prospectus section 14.3. 
+ 
+[terms of the put option] 
+ 
+ 
+Obligations: 
+ 
+Issuer’s special obligations during the 
+term of the Bond Issue: 
+As specified in the Base Prospectus section 14.4.7. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Listing: 
+ 
+Listing of the Bond Issue/Marketplace: 
+As defined in the Base Prospectus section 14.3 and specified in the 
+Base Prospectus section 14.4.5. 
+ 
+Exchange for listing of the Bonds: [Exchange] 
+ 
+/ The Bonds will not be applied for listing on any Exchange. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Any restrictions on the free 
+transferability of the securities: 
+ 
+As specified in the Base prospectus section 14.4.10. 
+ 
+Restrictions on the free transferability of the securities: [specify] 
+ 
+ 
+Purpose/Use of proceeds: 
+As specified in the Base Prospectus section 14.4.1. 
+ 
+Estimated total expenses related to the offer: [specify] 
+ 
+Estimated net amount of the proceeds: [specify] 
+ 
+Use of proceeds: [specify] 
+ 
+[Other: (specify)] 
+ 
+ 
+Prospectus and Listing fees: 
+As defined in the Base Prospectus section 14.3 and specified in the 
+Base Prospectus section 14.4.5. 
+ 
+Listing fees: [specify] 
+ 
+/ Other: (specify)] 
+ 
+ 
+Market-making: 
+As defined in the Base Prospectus section 14.3. 
+ 
+[A market-making agreement has been entered into between the Issuer 
+and [name of market maker]] 
+ 
+/ Other: (specify)] 
+ 
+ 
+Approvals: 
+As specified in the Base Prospectus section 14.4.9. 
+ 
+Date of the Board of Directors’ approval: [date] 
+ 
+/ Other: (specify)] 
+ 
+ 
+Bond Terms: 
+As defined in the Base Prospectus section 14.3 and specified in the 
+Base Prospectus section 14.4.7.  
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with 
+the CSD, the Bondholders are bound by the Bond Terms and any other
+
+--- Page 92 ---
+Seaspan Corporation 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+10  
+Finance Document, without any further action required to be taken or 
+formalities to be complied with by the Bond Trustee, the Bondholders, 
+the Issuer or any other party. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Status and security: 
+As specified in the Base Prospectus section 14.4.5.  
+ 
+/ Other: (specify)] 
+ 
+ 
+Bondholders’ meeting/ 
+Voting rights: 
+As defined in the Base Prospectus section 14.3. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Availability of the Documentation: 
+https://www.seaspancorp.com  
+ 
+ 
+Joint Bookrunners: 
+[name of joint bookrunners] as [type of bookrunner] 
+ 
+ 
+Bond Trustee: 
+As defined in the Base prospectus section 14.3. 
+ 
+Paying Agent: 
+As defined in the Base prospectus section 14.3. 
+ 
+The Paying Agent is [name of the Paying Agent] 
+ 
+ 
+Securities Depository / CSD: 
+As defined in the Base Prospectus section 14.3 and specified in the 
+Base Prospectus section 14.4.5 
+ 
+/ Other: (specify)] 
+ 
+ 
+Calculation Agent: 
+[As defined in the Base Prospectus section 14.3 
+ 
+/ Other: (specify)]  
+ 
+ 
+Listing fees: 
+Prospectus fee for the Base Prospectus including template for Final 
+Terms is NOK 101,000. 
+ 
+[Listing and other fees at the Exchange: (specify)  
+ 
+/ No listing: N/A]
+
+--- Page 93 ---
+Seaspan Corporation 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+11  
+3 Additional information 
+Advisor 
+The Issuer has mandated [name of joint bokrunners] as [type of bookrunner] for the issuance of the Loan. The 
+[type of bookrunner] [has/have] acted as advisor[s] to the Issuer in relation to the pricing of the Loan. 
+ 
+The [type of bookrunner] will be able to hold position in the Loan.  
+ 
+/ Other: (specify)] 
+ 
+Interests and conflicts of interest 
+[The involved persons in the Issuer or offer of the Bonds have no interest, nor conflicting interests that are 
+material to the Bond Issue. 
+ 
+/ Other: (specify)] 
+ 
+Rating 
+[There is no official rating of the Loan. 
+ 
+The Issuer is rated as follows: 
+Standard & Poor’s: [•] 
+Moody’s: [•] 
+ 
+/ Other: (specify)]  
+ 
+Listing of the Loan: 
+[As defined in the Base Prospectus section 14.3] 
+ 
+The Prospectus will be published in [country]. An application for listing at [Exchange] will be sent as soon as 
+possible after the Issue Date. Each bond is negotiable. 
+ 
+Statement from the [type of bookrunner]: 
+[name of joint bookrunners] have assisted the Issuer in preparing the prospectus. The [type of bookrunners] have 
+not verified the information contained herein. Accordingly, no representation, warranty or undertaking, express or 
+implied, is made, and the [type of bookrunner] expressively disclaim[s] any legal or financial liability as to the 
+accuracy or completeness of the information contained in this prospectus or any other information supplied in 
+connection with bonds issued by the Issuer or their distribution. The statements made in this paragraph are 
+without prejudice to the responsibility of the Issuer. Each person receiving this prospectus acknowledges that 
+such person has not relied on the [type of bookrunner] nor on any person affiliated with them in connection with its 
+investigation of the accuracy of such information or its investment decision. 
+ 
+[place], [date] 
+ 
+ 
+[name of joint bookrunners] 
+[web address of joint bookrunners]
