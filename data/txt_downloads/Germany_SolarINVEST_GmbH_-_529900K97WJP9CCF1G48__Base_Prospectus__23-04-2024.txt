@@ -1,0 +1,2757 @@
+--- Page 1 ---
+E2024
+BASE PROSPECTUS
+for Bearer Bonds
+of
+Germany SolarINVEST GmbH
+Lindenallee 8
+D-04158 Leipzig
+Germany
+pursuant to Article 8 of Regulation (EU) 2017/1129 of the European Parliament and of the 
+Council of June 14, 2017 (“Prospectus Regulation”) in conjunction with Articles 25 and 
+26 and Annexes 6, 14, 22 and 28 of Commission Delegated Regulation (EU) 2019/980 of 
+March 14, 2019 (“Delegated Regulation”).
+as of April 23, 2024
+This Base Prospectus shall cease to be valid upon the expiry of April 22, 2025. The obligation to prepare 
+a prospectus supplement in case of important new circumstances, material misstatements or material 
+inaccuracies shall cease to exist as of the date of expiry of the validity of the Base Prospectus.
+
+--- Page 2 ---
+2
+Germany SolarINVEST GmbH | Base Prospectus
+Introduction and Notes
+Germany SolarINVEST GmbH, a limited liability company under German law, Lindenallee 8, 04158 
+Leipzig, Germany, registered with the Commercial Register of the Local Court of Leipzig (Germany) 
+under registration number HRB 42463 (hereinafter also referred to as the “Issuer”), is preparing this 
+document (the “Prospectus”) for the purpose of publicly offering Bearer Bonds ( hereinafter referred to 
+as “Bearer Bonds” or “Bonds” or “Securities”) under an offering program. The Bonds are governed by 
+German law. It is not intended to apply for admission of the Bonds to trading.
+Investors should bear in mind that an investment in the Bonds involves various risks. If certain 
+risks materialize, in particular those described in more detail in section “II. Risks and Warnings”, 
+investors may lose parts or all of their investment, including the interest claim (total loss risk). 
+Each investor should make his investment decision only after his own thorough examination, 
+taking into account his financial and other circumstances, and should seek individual and 
+professional investment, legal and tax advice in connection with the subscription for Bearer 
+Bonds of the Issuer before making any investment.
+This Prospectus is a Base Prospectus of Germany SolarINVEST GmbH within the meaning of Article 
+8 of Regulation (EU) at 2017/1129 of the European Parliament and of the Council of June 14, 2017 
+on the Prospectus to be published when securities are offered to the public or admitted to trading 
+on a regulated market (“EU Prospectus Regulation”) and in accordance with the requirements of 
+that Regulation, Commission Delegated Regulation (EU) 2019/980 of March 14, 2019 (“Delegated 
+Regulation (EU) 2019/980”), Commission Delegated Regulation (EU) 2019/979 of March 14, 2019 
+(“Delegated Regulation (EU) at 2019/979”) and the Act of May 10, 2019 implementing Regulation 
+(EU) 2017/1129 on the prospectus to be published when securities are offered to the public and 
+admitted to trading on a regulated market (“EEA Securities Prospectus Implementation Act”). It must 
+be read in conjunction with all documents incorporated by reference in the Prospectus (see the section 
+headed “VII. Documents Incorporated by Reference”), which also form part of this Prospectus.
+Bearer Bonds issued under this Base Prospectus are governed by German law.
+This Prospectus contains all the information required by the provisions of the EU Prospectus Regulation 
+and the Implementing Regulations (including, in the case of a supplement, the amending and 
+supplementary information) relating to the Issuer and the Bearer Bonds to be offered to the public. It 
+consists of the following sections:
+I.	
+General Description of the Offer Program
+II.	
+Risks and Warnings
+III.	
+Registration Document, General Information, Information on the Issuer
+IV.	
+Information on Non-Equity Securities - Securities Description
+V.	
+Form for the Final Terms
+VI.	
+Consent of the Issuer to the Use of the Prospectus
+VII.	
+Documents incorporated by Reference
+The information contained in section “IV. Information on Non-Equity Securities - Securities 
+Description” of the Prospectus will be completed and adjusted upon the issue of the respective Bonds 
+in the relevant section of the applicable Final Terms including the Annex to the Final Terms (the terms 
+and conditions of issue provided for Non-Equity Securities in each case).
+This Prospectus has been approved by the Austrian Financial Market Authority (“FMA”) and may be 
+notified to other authorities at any time.
+This Base Prospectus has been approved by the Financial Market Authority Austria (FMA), as 
+competent authority under Regulation (EU) 2017/1129. 
+Financial Market Authority Austria (FMA) only approves this Base Prospectus as meeting the 
+standards of completeness, comprehensibility and consistency imposed by Regulation (EU) 
+2017/1129.
+
+--- Page 3 ---
+Germany SolarINVEST GmbH | Base Prospectus
+3
+Such approval should not be considered as an endorsement of (i) the quality of the securities 
+that are the subject of this Base Prospectus and (ii) endorsement of the Issuer that is the subject 
+of this Base Prospectus.
+Investors should make their own assessment as to the suitability of investing in the securities.
+The Prospectus was made available in due time and thus prior to the commencement of 
+the public offering. The Prospectus is freely accessible to anyone on the Issuer’s website 
+(www.germany-solarinvest.com). Upon request, the Issuer will provide any potential investor with a 
+version of the Prospectus on a durable medium free of charge. A printed version of the Prospectus is 
+also available free of charge.
+The validity of this Prospectus is limited to 12 months after approval of the Prospectus. After this 
+period, the Prospectus is invalid. The obligation to prepare a supplement to the Prospectus no 
+longer exists in the event of important new circumstances, material misstatements or material 
+inaccuracies when the Prospectus has become invalid.
+The Prospectus has been prepared for the purpose of the public offering of the Bearer Bonds in Austria, 
+Germany, France, Belgium, Italy, Estonia, Latvia, Lithuania, Hungary, Luxembourg, Netherlands, Finland 
+and Sweden. The Issuer will request the FMA to provide the supervisory authorities of each of the 
+aforementioned countries with a certificate of approval of this Prospectus. In the aforementioned 
+countries, the Bearer Bonds may then be offered and/or sold in accordance with the applicable national 
+and international provisions.
+Pursuant to Art. 54 para. 2 of the Federal Financial Services Act (FIDLEG) in conjunction with Art. 70 
+para. 2 of the Swiss Financial Services Ordinance (FinSO), the Prospectus Review Board may provide 
+that prospectuses approved in certain foreign jurisdictions are also deemed approved in Switzerland. 
+The review bodies in Switzerland have recognized Austria and the Financial Market Authority of Austria. 
+Accordingly, the Prospectus is deemed approved in Switzerland.
+The invitation to submit a tender is generally not addressed to a specific or limited target group or 
+category of investors. The Bonds may be acquired by any natural person or legal entity resident or 
+domiciled in the EU.
+The distribution of this Prospectus and the distribution of the Bearer Bonds may be restricted 
+or prohibited in other jurisdictions. This Prospectus does not constitute an offer to sell or the 
+solicitation of an offer to buy the Bonds in any jurisdiction in which such offer or solicitation is 
+unlawful. Persons subject to any such jurisdiction who come into possession of this Prospectus 
+or of non-equity securities of the Issuer must inform themselves about and observe any such 
+restrictions and prohibitions on their own responsibility.
+The Bearer Bonds have not been and will not be registered under the United States Securities 
+Act of 1933, as amended (the “U.S. Securities Act”), or under any other regulation relating to 
+the registration or distribution of securities in the United States, in connection with this offering. 
+They may not be offered or sold within the United States or to, or for the account or benefit of, 
+U.S. persons (as defined in Regulation S under the U.S. Securities Act).
+In addition, the Bearer Bonds offered by this Prospectus may not be sold to a Politically Exposed 
+Person (“PEP”).
+
+--- Page 4 ---
+4
+Germany SolarINVEST GmbH | Base Prospectus
+Responsibility for the Content of the Prospectus and General Information
+Germany SolarINVEST GmbH, with its registered office at Lindenallee 8, 04158 Leipzig, Germany, 
+entered in the Commercial Register of the District Court of Leipzig under registration number 42463, 
+assumes responsibility for the information provided in this Prospectus.
+The Issuer is solely responsible for the accuracy and completeness of the information contained in the 
+Prospectus.
+Germany SolarINVEST GmbH declares that, to the best of its knowledge, the information contained in 
+this Prospectus is in accordance with the facts and that no facts have been omitted which are likely to 
+alter or distort the import of this Prospectus, and that it has taken all reasonable care to ensure that 
+such is the case.
+This Prospectus contains forward-looking statements or statements that may be interpreted as such. 
+These statements include certain objectives that the Issuer intends to achieve, but are not predictions. 
+They involve known and unknown risks and uncertainties relating to events and circumstances that 
+may or may not occur in the future.
+Forward-looking statements are no guarantees of future performance or value. Potential investors 
+should therefore not place any reliance on these forward-looking statements. Should one or more of 
+the risks described in this Prospectus materialize, or should any of the underlying assumptions prove 
+incorrect, actual results may vary substantially from those described in this Prospectus as expected, 
+believed or estimated, or may not be realized at all. The Issuer does not intend to update the 
+information contained in this Prospectus after the end of the Offering.
+All information contained in this Prospectus, in particular with respect to the Issuer and with respect to 
+the rights attaching to the Non-Equity Securities, relates to the date of approval of this Prospectus. The 
+delivery of the Prospectus or the offer, sale or delivery of the Bonds does not under any circumstances 
+imply that the information contained in the Prospectus is accurate as of the date on which the 
+Prospectus was published or last amended or supplemented or that there has been no deterioration 
+in the financial condition of the Issuer since the date of the Prospectus or since the date of the last 
+amendment or supplement to the Prospectus, and that any other information provided in connection 
+with the Issuance Programme continues to be accurate after the date on which it is made available or 
+(if different) the date on the document containing the information that is accurate at the relevant time. 
+In any event, the validity of this Prospectus is limited to 12 months from the date of approval of this 
+Prospectus.
+The most complete possible information about the Issuer and the offer of the Bonds of the Issuer 
+is only given if this Prospectus, supplemented by any supplements, is read in conjunction with the 
+respective Final Terms of the respective Non-Equity Security.
+This Prospectus contains all statements and information made by the Issuer in connection with the 
+offer of Bonds. An offer of Bonds is made solely on the basis of this Prospectus.
+The Issuer has not authorized any other person to give any information or to make any representation 
+not contained in this Prospectus or in any other information given by the Issuer or contained in or 
+inconsistent with publicly available information. Any information given or representations made shall 
+be deemed not to have been authorized by the Issuer. No person is authorized to give any information 
+or to make any representation not contained in this Prospectus. Such statements may not be relied 
+upon under any circumstances.
+
+--- Page 5 ---
+Germany SolarINVEST GmbH | Base Prospectus
+5
+Table of Contents
+Introduction and Notes....................................................................................................................................................................................................................2
+Responsibility for the Content of the Prospectus and General Information.......................................................................................4
+I. 
+General Description of the Offer Program......................................................................................................................................................8
+1.	
+Content of the Offer Program......................................................................................................................................8
+II. 
+Risks and Warnings...........................................................................................................................................................................................................9
+1.	
+General Risk Considerations.........................................................................................................................................9
+2.	
+Risks Specific to the Issuer.............................................................................................................................................9
+2.1.	
+Risks Relating to the Issuer’s Financial Position...................................................................................9
+2.2.	
+Risks Relating to the Issuer’s Business Activities and Industry.....................................................13
+2.3.	
+Legal and Regulatory Risks.......................................................................................................................15
+2.4.	
+Risks Relating To Internal Control...........................................................................................................16
+3.	
+Risks Specific To The Bearer Bonds...........................................................................................................................18
+3.1.	
+Risks relating to the Nature of the Bearer Bonds..............................................................................18
+III. 
+Registration Document, General Information, Information on the Issuer........................................................................21
+1.	
+Responsible Persons, Information from Third Parties, Expert Reports and Approval 
+by the Competent Authority......................................................................................................................................21
+1.1.	
+Responsibility for the Information Provided in the Prospectus...................................................21
+1.2.	
+Statement of the Issuer..............................................................................................................................21
+1.3.	
+Approval of this Prospectus......................................................................................................................21
+2.	
+Auditor................................................................................................................................................................................21
+2.1.	
+Name and Address of the Issuer’s Auditor...........................................................................................21
+3.	
+Risk Factors.......................................................................................................................................................................21
+4.	
+Information on the Issuer............................................................................................................................................21
+4.1.	
+Business History and Development of the Issuer.............................................................................21
+5.	
+Overview of Business Activities.................................................................................................................................22
+5.1.	
+Main Areas of Activity of the Issuer........................................................................................................22
+5.2.	
+Basis for any disclosures by the Issuer on its competitive position............................................23
+6.	
+Organizational Structure.............................................................................................................................................23
+6.1.	
+Position of the Issuer in a Group.............................................................................................................23
+7.	
+Trend Information..........................................................................................................................................................23
+7.1.	
+Statement on material deterioration of the Issuer’s prospects since the date 
+of its incorporation.......................................................................................................................................23
+7.2.	
+Information on Trends, etc........................................................................................................................23
+8.	
+Earning Forecasts or Earning Estimates.................................................................................................................23
+9.	
+Administrative, Management and Supervisory Bodies....................................................................................24
+9.1.	
+Information on members of the administrative, management and supervisory bodies...24
+9.2.	
+Conflicts of interest of administrative, management and supervisory bodies......................24
+10.	
+Principal Shareholder....................................................................................................................................................25
+10.1.	
+Direct and indirect shareholdings and control relationships as well as 
+measures to prevent abuse of such control........................................................................................25
+11.	
+Financial information on the net assets, financial position and results of operations of the Issuer.25
+11.1.	
+Historical Financial Information..............................................................................................................25
+11.2.	
+Review of Historical Financial Information..........................................................................................26
+11.3.	
+Court and Arbitration Proceedings........................................................................................................26
+11.4.	
+Significant changes in the Issuer’s financial position or trading position................................26
+12.	
+More Details.....................................................................................................................................................................26
+12.1.	
+Share Capital...................................................................................................................................................26
+12.2.	
+Articles of Association and Bylaws of the Company........................................................................26
+
+--- Page 6 ---
+6
+Germany SolarINVEST GmbH | Base Prospectus
+13.	
+Material Contracts..........................................................................................................................................................27
+13.1.	
+Participatory Loans and Subordinated Loans....................................................................................27
+13.2.	
+Issuance of Bearer Bonds ..........................................................................................................................27
+13.3.	
+Exclusive Distribution Agreement with Largamus Financial GmbH..........................................27
+14.	
+Available Documents....................................................................................................................................................27
+IV.	
+Information on Non-Equity Securities - Securities Description................................................................................................28
+1.	
+Responsible persons, information from third parties, expert reports and approval by 
+the competent authority.............................................................................................................................................28
+1.1.	
+Responsibility for the Information provided in the Prospectus...................................................28
+1.2.	
+Declaration by the Persons Responsible for the Bearer Bonds....................................................28
+1.3.	
+Approval of the Prospectus.......................................................................................................................28
+2.	
+Risk Factors.......................................................................................................................................................................28
+3.	
+Basic Data..........................................................................................................................................................................28
+3.1.	
+Interests of natural or legal persons involved in the issue/offer.................................................28
+3.2.	
+Reasons for the Offer as well as use of Proceeds...............................................................................29
+4.	
+Information on the Securities to be Offered.........................................................................................................30
+4.1.	
+Description of the Type and Class of Securities.................................................................................30
+4.2.	
+Legislation on the basis of which the Securities were created....................................................30
+4.3.	
+Securitization and Denomination..........................................................................................................30
+4.4.	
+Total issue volume of Securities to be offered ..................................................................................30
+4.5.	
+Currency of the Securities issue .............................................................................................................30
+4.6.	
+Rank of Securities.........................................................................................................................................30
+4.7.	
+Description of the rights attached to Securities, including any restrictions 
+and the procedure for exercising these rights...................................................................................31
+4.8.	
+Interest rate and Interest Debt.................................................................................................................31
+4.9.	
+Maturity Date and Repayment Terms....................................................................................................31
+4.10.	
+Yield...................................................................................................................................................................32
+4.11.	
+Representation of the Holders of Bearer Bonds ...............................................................................32
+4.12.	
+Details of the resolutions, authorizations and approvals pursuant to which 
+the Securities are to be created and/or issued..................................................................................32
+4.13.	
+Indication of the expected issue date...................................................................................................32
+4.14.	
+Description of any restrictions on the transferability of the Securities.....................................32
+4.15.	
+Cautionary note on the effect of tax legislation on contracts from the Securities...............33
+5.	
+Conditions of the Public Offering of Securities...................................................................................................33
+5.1.	
+Terms and conditions, bid statistics, expected timeline and required actions 
+for application................................................................................................................................................33
+5.2.	
+Distribution and Allocation Plan.............................................................................................................34
+5.3.	
+Pricing...............................................................................................................................................................35
+5.4.	
+Placement and Acquisition ......................................................................................................................35
+6.	
+Admission to Trading and Trading Modalities.....................................................................................................35
+7.	
+More Details.....................................................................................................................................................................35
+7.1.	
+Advisors named in the Bearer Bonds who are involved in the issue.........................................35
+7.2.	
+Audited Data..................................................................................................................................................35
+7.3.	
+Ratings..............................................................................................................................................................36
+V.	
+Form for the Final Terms............................................................................................................................................................................................37
+1.	
+Sample Conditions Sheet............................................................................................................................................37
+2.	
+Sample Bond Conditions.............................................................................................................................................40
+VI.	
+Consent of the Issuer to the Use of the Prospectus..............................................................................................................................45
+1.	
+Information regarding the consent of the Issuer or the person responsible for 
+drawing up the Prospectus.........................................................................................................................................45
+1.1.	
+Express Consent and Declaration...........................................................................................................45
+1.2.	
+Indication of the period for which consent to use the Prospectus is given............................45
+1.3.	
+Indication of the offer period during which the subsequent resale or final
+
+--- Page 7 ---
+Germany SolarINVEST GmbH | Base Prospectus
+7
+placement of the non-equity Securities through financial intermediaries 
+may take place...............................................................................................................................................45
+1.4.	
+Indication of the Member States in which the financial intermediaries may 
+use the Prospectus for a subsequent resale or final placement of the non-
+equity Securities............................................................................................................................................45
+1.5.	
+Any other conditions to which the consent is bound.....................................................................45
+1.6.	
+Notice to investors that in the event that a financial intermediary makes 
+an offer to them, they must inform you of the terms and conditions of the 
+offer at the time of submission................................................................................................................46
+2.	
+Additional Information.................................................................................................................................................46
+2.1.	
+Note for Investors.........................................................................................................................................46
+VII.	
+Documents Incorporated by Reference..........................................................................................................................................................47
+1.	
+Commercial register excerpt of Germany SolarINVEST GmbH......................................................................48
+2.	
+Opening balance sheet of Germany SolarINVEST GmbH as of January 17, 2024...................................50
+3.	
+Audit report on the opening balance sheet as of January 17, 2024............................................................52
+4.	
+Audited Interim Financial Statement as of February 29, 2024.......................................................................54
+
+--- Page 8 ---
+8
+Germany SolarINVEST GmbH | Base Prospectus
+I.	
+General Description of the Offer Program
+1.	
+Content of the Offer Program
+The Base Prospectus published by the Issuer contains information on Securities that may be offered 
+under the Program. These are Bearer Bonds. The Base Prospectus does not contain all the information 
+required for an investment decision, as the structure of the relevant Securities has not yet been 
+determined at the time of publication of the Base Prospectus, but will only be described in the 
+applicable Final Terms.
+An investment decision can therefore only be made after the investor has carefully read and assessed 
+the Final Terms for the relevant Securities as well as the Base Prospectus and any supplements in 
+connection with each other. The Final Terms will be published on the Issuer’s website, www.germany-
+solarinvest.com.
+The following general description of the program does not claim to be complete.
+Issuer
+Germany SolarINVEST GmbH, Lindenallee 8, 04158 Leipzig, Germany, registered in the 
+Commercial Register of the District Court of Leipzig (Germany) under the registration number 
+HRB 42463, telephone: +49 341 2252541
+Description
+Offer program for Bearer Bonds
+Issue volume
+The aggregate amount of the respective issues of Bearer Bonds under this Program will be 
+specified in the Final Terms.
+Types and forms 
+of Securities
+Under the Program, the Issuer may issue immediate, unsubordinated, unsecured Bearer 
+Bonds.
+The Bearer Bonds are not included in a clearing system; they are securitized in physical 
+individual certificates.
+Currency
+The Securities are denominated in CHF or EUR, the final currency will be specified in the Final 
+Terms.
+Paying agent
+The Issuer itself performs the function of paying agent.
+Trade approval
+Securities issued under this program will not be admitted to trading.
+Applicable law
+Subject to any mandatory consumer protection provisions, the Bonds shall be governed by 
+German law, to the exclusion of the provisions of private international law to the extent that 
+this would result in the application of foreign law.
+Jurisdiction
+The exclusive place of jurisdiction for all actions against the Issuer shall be Leipzig, Germany, 
+subject, however, to any mandatory consumer protection provisions to the contrary.
+
+--- Page 9 ---
+Germany SolarINVEST GmbH | Base Prospectus
+9
+II.	
+Risks and Warnings
+1.	
+General Risk Considerations
+Terms defined in the Terms and Conditions or elsewhere in this Prospectus have the same meaning in 
+this section. Investors are exposed to Issuer-related and Securities-related risks in connection with the 
+Bonds described in this Prospectus. Investors should therefore carefully read and consider the following 
+risk factors and the other information contained in this Prospectus in making their investment decision 
+before deciding to purchase the Bonds of the Issuer described in this Prospectus.
+The risks which the Issuer considers to be material are set out below. However, there is a possibility that 
+the risks listed below, when considered retrospectively, may not prove to be conclusive, in particular 
+because risks which the Issuer did not consider to be material at the time of the preparation of the 
+Prospectus become material and the Issuer is unable to make interest and/or principal payments on or 
+in connection with the Bonds for reasons other than those set out herein. Such other reasons cannot be 
+foreseen at the time of the preparation of the Prospectus and therefore cannot be currently assessed 
+by the Issuer as material risks.
+The realization of one or more risks may have material adverse effects on the Issuer’s net assets, 
+financial position and/or results of operations and, in extreme cases, may lead to a total loss of the 
+interest payable to investors and/or a total loss of the amount invested. The investor should consider 
+and be able to cope economically with such a conceivable total loss against the background of his 
+personal financial circumstances and investment objectives.
+Investors should have experience with regard to Securities transactions of this kind. In any event, they 
+should read the risks set out in detail in this Prospectus carefully and evaluate them accordingly in 
+order to be able to assess the risk of the Bonds offered here. From the Issuer’s point of view, individual 
+advice by a knowledgeable expert is in any case indispensable prior to the purchase decision.
+The selected order of the risk factors represents a statement about their probability of occurrence and 
+about the significance or severity of the respective risk or the extent of the potential impairment of 
+the Issuer’s business and financial position. On the basis of applicable law, the Issuer is entitled to 
+classify risks according to the categories “low”, “medium” and “high” and to present them accordingly. 
+In this respect, the description of the risks in the following section is structured under the respective 
+risk category as “risk class high”, “risk class medium” and “risk class low”. Where a risk class is not 
+mentioned or is marked “Not applicable”, the Issuer does not currently consider a risk class to exist for 
+the respective risk category. Within the risk categories, too, the order chosen is to be understood as a 
+statement about the probability of occurrence and about the significance or severity of the respective 
+risk or the extent of the potential impairment of the Issuer’s business and financial position.
+The materialization of any of the following risks, either individually or in combination, may have a 
+negative impact on the Issuer’s net assets, financial position and/or results of operations, which in the 
+worst case may even lead to the Issuer’s insolvency. With regard to all risks, there is a risk for investors 
+that interest payments will not be made or that they will lose parts and/or the entire investment 
+amount (risk of total loss).
+2.	
+Risks Specific to the Issuer
+2.1.	
+Risks Relating to the Issuer’s Financial Position
+2.1.1.	
+Risk Class High
+Insolvency risk and risk of access by other creditors of the Issuer 
+If the Issuer’s business model should prove to be unsustainable for any reason whatsoever, or if the 
+Issuer should experience financial difficulties that are not merely minor and persistent, the Issuer’s 
+continued existence as a going concern would be jeopardized. If the Issuer does not have sufficient 
+funds available to make repayments and/or interest payments to investors or to cover other liabilities,
+
+--- Page 10 ---
+10
+Germany SolarINVEST GmbH | Base Prospectus
+this may lead to insolvency for the Issuer. As a result, investors will not receive interest payments and 
+will lose part or all of their investment.
+If the borrowed capital is no longer covered by current and non-current assets, the Issuer is 
+arithmetically overindebted. As the Issuer itself only has a low level of operating activities, arithmetical 
+overindebtedness can quickly occur when Bearer Bonds are issued. Under German law, arithmetical 
+overindebtedness is not in itself sufficient to open insolvency proceedings. In order for insolvency 
+proceedings to be opened against the Issuer, a negative going concern forecast must be added to 
+the calculated overindebtedness. When preparing a going concern forecast, future receivables must 
+also be included and the risk of future illiquidity must be taken into account. As soon as there is a 
+negative outlook, insolvency proceedings must be opened against the assets of the Issuer. In such a 
+case, investors are exposed to the immediate risk of non-payment of interest and partial or total loss of 
+the investment amount.
+Any adverse effect on the Issuer’s net assets, financial position or results of operations that has a 
+negative impact on its liquidity position may increase or realize the risk of insolvency and the resulting 
+risks for investors, consisting in the failure to make interest payments and the partial or total loss of the 
+investment amount.
+Since the Issuer plans to build and operate photovoltaic systems itself, but does not engage in any 
+other independent operating activities beyond that, the Issuer’s liable share capital is only EUR 
+25,000.00. The share capital is subsequently matched by significantly higher liabilities to the investors 
+and other contractual partners. Therefore, investors are exposed to a significantly higher credit risk 
+when purchasing the Bonds compared to an Issuer with a significantly higher capitalization.
+The claims of the creditors under the Bonds are not secured. Accordingly, the assets in which the 
+Issuer invests or which are owned by the Issuer do not rank pari passu with the bondholders. Rather, 
+other creditors of the Issuer may access these assets to satisfy their claims against the Issuer by way of 
+compulsory enforcement.
+In the event of insolvency proceedings relating to the assets of the Issuer, the claims of these other 
+unsecured creditors against the Issuer would rank pari passu with the claims under the Bonds. As a 
+result, other creditors of the Issuer are in a competitive relationship with the bondholders with respect 
+to the assets of the Issuer. If the Issuer’s assets are not sufficient to satisfy the claims of all creditors, 
+there is thus a risk that the bondholders may default in part or in full on their claims under the Bonds. In 
+addition, it is possible that the Issuer will issue further Bonds during the term of the Bonds in question, 
+which may rank pari passu with or higher than the investors in the Bonds in question. It is therefore to 
+be expected that further creditors with substantial claims will be added.
+Secured creditors can satisfy themselves from the assets of the Issuer on a priority basis and their 
+claims take precedence over those of the investors in the Bond in question. The priority of secured 
+claims means that these must be satisfied before the investors and subsequently reduce the Issuer’s 
+assets available for satisfying the investors. This may result in investors defaulting on their claims under 
+the Bonds in whole or in part.
+Liquidity risk
+Liquidity is the ability to meet existing payment obligations on time at all times. The existence of 
+liquidity therefore requires that sufficient liquid funds are available. The Issuer’s liquid funds originate 
+from the issuance of Bearer Bonds, including the present issue as well as subordinated and/or 
+participating loans taken out in the future, the utilization of existing or yet to be acquired investments 
+or - in relation to investments in the field of photovoltaics - also from current income generated from 
+investments. If the Issuer does not succeed in meeting its earnings expectations, in drawing down the 
+corresponding financial resources and in obtaining sufficient liquid funds, the liquidity situation of the 
+Issuer will deteriorate and there is consequently a risk that the Issuer will not be able to satisfy liabilities 
+due on time or at all.
+The Issuer plans to build and operate photovoltaic plants itself. Since the Issuer does not engage in any
+other independent operating activities beyond that, the Issuer is significantly dependent on the
+
+--- Page 11 ---
+Germany SolarINVEST GmbH | Base Prospectus
+11
+business success of its investments in photovoltaic systems. The liquidity risk may therefore materialize 
+in particular if the profits from the Issuer’s investment activities do not materialize as expected or if the 
+Issuer is not in a position to call the necessary funds from its investors. It is also possible that the Issuer 
+lacks liquid funds even after receiving the proceeds from the issue of the Bonds and therefore does not 
+succeed in acquiring or purchasing suitable investments. This is conceivable, in particular, against the 
+background that the proceeds of the Bearer Bonds issues are also used to cover the issue costs. If the 
+proceeds of the issue therefore do not meet the Issuer’s earning expectations, there is a risk that the 
+proceeds will have to be used in whole or in part to cover the costs of the issue and that no more liquid 
+funds will be available for investments.
+The risk of insufficient available cash to meet liabilities on time may also materialize if revenues are 
+lower than forecast or if no revenues are generated at all, if cash is used for purposes other than those 
+for which it was intended, if unexpected expenses are incurred, or if material contracting parties default 
+in whole or in part and fail to meet their obligations to the Issuer on time or at all.
+Start-up risk
+The Issuer is a newly founded company. It was only founded at the beginning of 2024. Accordingly, the 
+Issuer has no business history that investors could use to assess the Issuer. There is also no historical 
+data available regarding the Issuer’s business model or the Issuer’s financial situation.
+Investors therefore have only very limited information at their disposal. All information in the Base 
+Prospectus and Business Plan on the Issuer’s planned business activities is based exclusively on the 
+Issuer’s plans and forecasts. As the Issuer has no business experience in the business model envisaged 
+here, there is a risk that the Issuer’s plans and forecasts may prove to be incorrect. This may lead to the 
+failure of the business model and thus to the partial or complete loss of the amount invested and the 
+investors’ interest claim.
+Risk of the absence of profits
+The Issuer’s ability to service its liabilities is limited by the low level of its own operating activities. 
+It is dependent on profits from investment activities in order to be able to service its liabilities to its 
+creditors, including the bondholders. The economic success of the Issuer is fundamentally dependent 
+on the success of its business and on the net assets, financial position and results of operations of its 
+own operation of photovoltaic systems. Only if the photovoltaic plants built and operated by the Issuer 
+generate corresponding income and generates sustainable revenues there can be a significant inflow 
+of funds to the Issuer.
+If through the operation of photovoltaic systems, no or only low revenues are generated, the Issuer 
+will also receive no revenues and thus no liquidity. This may have a negative impact on the Issuer’s net 
+assets, financial position and results of operations and may lead to a failure of interest payments and to 
+a partial or complete loss of the investment amount for the investors. 
+Risk of insufficient subscriptions by investors
+Specific investors have not yet been determined; rather, they have yet to be recruited. The corporate 
+concept of the Issuer is based in the first years on financing the planned investments through 
+subordinated loans and/or participating loans. However, this financing is to be replaced in later years 
+by the net proceeds from the Bearer Bonds offered with this Prospectus. Accordingly, the business 
+concept of the Issuer is dependent on the total amount of the Bearer Bonds being subscribed and paid 
+up at least to a large extent. Only if the capital to be invested by the investors is actually available to 
+the Issuer, the economic objectives of the Issuer can be achieved.
+If the total amount of Bearer Bonds is not subscribed at least for the most part as forecast, there are 
+nevertheless fixed payment obligations of the Issuer that must be met, so that, for example, the issue 
+costs would be significantly higher in percentage terms - in relation to the sums actually subscribed 
+by investors - than forecast. This may result in the Issuer not having sufficient net proceeds available 
+to acquire investment objects in the photovoltaic sector as intended and thus also not being able to 
+generate sufficient proceeds from the exploitation of the investments to meet its payment obligations
+
+--- Page 12 ---
+12
+Germany SolarINVEST GmbH | Base Prospectus
+to the investors.
+The materialization of the risks described above may have a negative impact on the Issuer’s net assets, 
+financial position and results of operations, which may lead to a failure of interest payments and a 
+partial or complete loss of the investment amount for the investors.
+2.1.2.	
+Risk Class Medium
+Debt financing by the Issuer
+The Issuer plans to finance its business activities, the construction of three photovoltaic plants, which 
+the Issuer will build and operate itself, initially through debt capital, namely the raising of subordinated 
+loans and/or participating loans. This financing is to be replaced in later years by the net issue proceeds 
+from the Bearer Bonds offered with this Prospectus. These also represent debt capital for the Issuer.
+It is possible that due to changes in general conditions or unforeseen events, or due to investors 
+deploying less capital under the Bonds offered here than planned, losses may be incurred by the Issuer 
+which may result in the funds to be raised under subordinated loans and/or participating loans as well 
+as the net proceeds not being sufficient in the future to realize the investment objective of the Bonds 
+offered with this Prospectus and the raising of further debt capital becoming necessary.
+In such a case, it depends primarily on the Issuer’s net assets, financial position and/or results of 
+operations whether and to what extent the Issuer succeeds in obtaining external financing. There is no 
+assurance that the necessary financing can be obtained in all cases in a timely manner, to the extent 
+required and/or on the desired terms. This may mean that further investments cannot be made or 
+other liabilities cannot be met, which may have a material adverse effect on the Issuer’s net assets, 
+financial position and results of operations, and may even lead to the Issuer’s insolvency.
+However, even if the necessary debt capital can be obtained in a timely manner, this will result in 
+the Issuer having to raise additional funds to service and repay the debt capital. If it fails to meet its 
+obligations in this regard, in particular its interest and repayment obligations, this will have a negative 
+impact on the Issuer’s net assets, financial position and results of operations and may lead to its 
+insolvency and thus, for investors, to a failure of interest payments and to a partial or complete loss of 
+the investment amount.
+Exchange rate and currency risk
+There is always a risk of unfavorable exchange rate developments (currency risk). The currency risk 
+consists of fluctuations in the value of balance sheet items (e.g. receivables and payables) and/or cash 
+flows as a result of exchange rate fluctuations. This risk exists in particular where business transactions 
+in a currency other than the local currency (foreign currency) exist or may arise in the course of business 
+as planned.
+This risk is significant for the Issuer as it issues Bonds in both Swiss Francs (CHF) and Euros (EUR). 
+This means that a large part of its obligations is in a foreign currency. If a currency risk materializes, 
+in particular due to the EUR/CHF or CHF/EUR exchange rates, this may have a negative impact on the 
+Issuer’s net assets, financial position and/or results of operations. For the investors, this may lead to a 
+failure to receive interest payments and to a partial or complete loss of the investment amount.
+2.1.3.	
+Risk Class Low
+Not applicable.
+
+--- Page 13 ---
+Germany SolarINVEST GmbH | Base Prospectus
+13
+2.2.	
+Risks Relating to the Issuer’s Business Activities and Industry
+2.2.1.	
+Risk Class High
+Risk of the Issuer’s investment in self-operated photovoltaic systems
+The Issuer’s planned investments in self-operated photovoltaic systems are subject to considerable 
+risks. In addition to other risks, this includes the risk that the systems will be considerably more 
+expensive to manufacture, operate and maintain than calculated by the Issuer. It also includes the 
+risk of structural faults and/or technical defects that lead to significantly lower electricity production 
+than forecast by the Issuer. This also includes the risk of significant damage and/or destruction of the 
+systems or significant parts thereof and the associated downtime for a longer period of time due to 
+force majeure, environmental events or unlawful interference by third parties. If the spare parts and/
+or skilled workers required to restore the system are not available and/or the damage and downtime 
+are not adequately covered by insurance, this can lead to considerable loss of income or losses for the 
+Issuer.
+Such unforeseeable developments may have a negative impact on the net assets, financial position 
+and/or results of operations of these companies. The deterioration in the net assets, financial position 
+and/or results of operations of a company means that it is unable to meet its contractual obligations 
+to the Issuer or is only able to do so in part. This will consequently have a negative impact on the net 
+assets, financial position and/or results of operations of the Issuer. For investors, this may lead to a 
+failure of interest payments and to a partial or complete loss of the investment amount.
+Semi blind pool character
+The Issuer plans to build and operate photovoltaic plants itself. The Issuer intends to construct three 
+plants, two if them with capacities of 5 MWh each, one with a capacity of 20 MWh on the leased 
+property of KVG Kiesgewinnungsgesellschaft mbH, Schönauer Straße 13, D-95615 Marktredwitz. The 
+Issuer has not yet started to implement the project. Corresponding contracts have also not yet been 
+concluded. Further projects have not yet been determined.
+Since, against this background, it is largely open how the individual investments and projects of the 
+Issuer will be structured and who the individual contractual partners will be, a so-called “semi blind 
+pool” exists.
+The time and financial expenditure behind the investments in operation of photovoltaic systems and 
+the economic development of the investments cannot be conclusively determined and forecast. There 
+is a risk that planned photovoltaic projects may not be realized in their entirety or in part or on the 
+planned terms and may have to be replaced by other photovoltaic projects. In this context, a significant 
+negative impact on the Issuer’s net assets, financial position and/or results of operations is possible.
+In particular, the type, nature and specific value development of investment objects in the photovoltaic 
+sector, which play a major role in an investment decision, are not transparent. It cannot be ruled out 
+that - for the investor - incomprehensible business decisions will be made which result in the Issuer’s 
+net assets, financial position and/or results of operations being negatively affected. The realization of 
+even individual risks mentioned in this section may lead to a failure of interest payments and to a 
+partial or complete loss of the investment amount for the investors.
+2.2.2.	
+Risk Class: Medium
+Risk of dependence on regulatory framework and government subsidies for photovoltaics
+As a (future) operator of photovoltaic plants, the Issuer is dependent on the economic development 
+of the market. The rapid growth in the field of photovoltaics in Germany and other countries in recent 
+years is largely based on the current regulatory framework and government subsidies. Thus, the Issuer’s 
+business activities are also dependent on the continuation of government subsidies for photovoltaics.
+With regard to this aspect of the Issuer’s business activities, there is a risk that the framework
+
+--- Page 14 ---
+14
+Germany SolarINVEST GmbH | Base Prospectus
+conditions for government subsidies could change rapidly and incalculably, and that subsidies for 
+future projects could be reduced or denied altogether. This could lead to the abandonment of projects 
+under development due to the lack of a profitability forecast.
+This may have a material adverse effect on the net assets, financial position and/or results of operations 
+of the Issuer. For investors, this may lead to a failure of interest payments and to a partial or complete 
+loss of the investment amount, including the interest claim.
+Risk of dependence on price developments in the sales and procurement market for 
+photovoltaic systems
+The growing demand for electricity from renewable sources is due to several factors. Energy demand 
+is rising rapidly due to global technological progress. Conventional, fossil energy sources are only 
+available in sufficient quantities for a limited time and are increasingly ecologically unacceptable. 
+Alternative power generation from renewable energy sources is being increasingly promoted 
+worldwide. Supply and demand for electricity and their price developments are closely interrelated 
+and determine both sales and purchase prices in the photovoltaic market. Due to the high global 
+demand for resources such as solar modules, aluminum or steel and associated electronic components, 
+the current upward trend in component prices may continue or increase further or lose momentum 
+only slightly. The aforementioned dependencies could result in risks of declining profitability in the 
+operation of photovoltaic systems for the Issuer.
+This may have a material adverse effect on the net assets, financial position and/or results of operations 
+of the Issuer. For investors, this may lead to a failure of interest payments and to a partial or complete 
+loss of the investment amount, including the interest claim.
+Risk of dependencies on suppliers in the photovoltaic market
+The Issuer purchases all components for the construction and operation of photovoltaic plants from 
+external manufacturers. There is a risk of supply bottlenecks on the part of these external manufacturers 
+for plants that are already in the planning stage or in the future for plants that require renovation. There 
+is also a risk of rising prices for these components. This can lead to the Issuer being forced to purchase 
+(considerably) more expensive than calculated. There is also a risk of supplier default. The realization 
+of the Issuer’s photovoltaic projects is highly dependent on the reliable availability of suppliers due to 
+time and cost pressures. Further restrictions can also arise for the Issuer if components are purchased 
+from abroad and these are subject to considerable delivery delays, for example due to a pandemic.
+The realization of one or more of these risks may have a material adverse effect on the Issuer’s net 
+assets, financial position and/or results of operations. For investors, this may lead to a failure to make 
+interest payments and to a partial or complete loss of the investment amount, including the interest 
+claim.
+Risks in the planning, approval and construction of photovoltaic systems
+The Issuer plans to generate its revenues from the operation of its own photovoltaic plants.
+This can be influenced by various negative factors, for example, by the Issuer’s own planning and 
+costing errors, by obstacles in the building permit process, by ordering and delivery problems with 
+components and construction services, by delays in the direct construction process, by weather 
+conditions, or by delays on the part of service-providing subcontractors or energy suppliers in 
+connecting to or expanding the power grid. These factors may have an economic and thus financially 
+negative impact on the Issuer due to the time delay and increased costs, especially if supplier liabilities 
+and/or interim financing have been entered into.
+This may have a material adverse effect on the net assets, financial position and/or results of operations 
+of the Issuer. For investors, this may lead to a failure of interest payments and to a partial or complete 
+loss of the investment amount, including the interest claim.
+
+--- Page 15 ---
+Germany SolarINVEST GmbH | Base Prospectus
+15
+Risks from warranty claims, claims for damages, and litigation
+Since the Issuer purchases the components for the photovoltaic systems to be built from external 
+manufacturers and also has them assembled, it is subject to the risk that systems or components 
+may be defective in planning, approval and/or construction or otherwise not fully compliant with the 
+contract and the Issuer must assert warranty claims or claims for damages. Any warranty obligations of a 
+supplier depend to a large extent on its acceptance of defects, the contractually agreed manufacturer’s 
+warranties and its future creditworthiness to also be able to rectify the defects. If warranties or 
+performance promises are not met or defects are not remedied, the Issuer may be subject to claims for 
+damages against third parties as well as of third parties against the Issuer and/or litigation, which could 
+have a material adverse effect on the profitability of the Issuer’s projects.
+This may have a material adverse effect on the net assets, financial position and/or results of operations 
+of the Issuer. For investors, this may lead to a failure of interest payments and to a partial or complete 
+loss of the investment amount, including the interest claim.
+2.2.3.	
+Risk Class: Low
+Risks in national and international competition on the photovoltaic market
+As the photovoltaic market is economically attractive at present and in the coming years, the Issuer is 
+in competition with other companies in the acquisition of projects. In building permit procedures, in 
+contractual and technical grid connections, in securing insurance for the photovoltaic plants and others, 
+the requirements and processing times are increasing for all market participants due to the growing 
+volume of photovoltaic projects. The increase of legal and technological requirements combined with 
+the corresponding documentation, certificates and legal and technical opinions, all competitors have to 
+face. This may lead to delays in project realization.
+Reputational risks
+There is a risk that negative publicity about the Issuer’s business conduct and business relationships, 
+whether accurate or not, could have a material adverse effect on confidence in the integrity of the 
+Issuer. Reputational risk includes, above all, a loss of image of the Issuer in the eyes of the public, 
+business partners and customers of the Issuer. Reputational risks thus affect specific actions and 
+reactions of the Issuer’s stakeholders and may lead to losses in market value. The materialization of 
+reputational risks would result in the Issuer’s net assets, financial position and/or results of operations 
+being negatively affected. For investors, this may lead to a failure of interest payments and to a partial 
+or complete loss of the investment amount.
+2.3.	
+Legal and Regulatory Risks
+2.3.1.	
+Risk Class High
+Legal risks
+Legal risks include the dangers of a lack of enforceability of contractual or legal claims and the costs 
+associated with legal disputes, as well as risks of changes in the law. This risk can materialize in all areas 
+of the Issuer’s business activities as a result of changes in the legal situation due to legislation or case 
+law, particularly if these affect contracts that have already been concluded.
+In addition, a change in case law, legislation or administrative practice may result in the Issuer incurring 
+further, unforeseen costs, with the consequence for the investor that he will receive only low or no 
+interest payments and/or his invested amount only partially or not at all. Against this background, it 
+should be noted in particular that the legal situation in various areas is constantly changing both at 
+a European level and in the most important target markets. Not only national legal changes, but also 
+European legal acts and their implementation in national law, can lead to a change in the legal situation 
+that is significant for the Issuer.
+There may also be changes in regulatory, commercial or tax law and ordinances that have to be
+
+--- Page 16 ---
+16
+Germany SolarINVEST GmbH | Base Prospectus
+implemented at short notice and whose implementation would entail high additional costs for the 
+Issuer or have consequences for the investors personally. In particular, there is also the risk of a change 
+in the tax framework in Germany and/or in the country to which the investor is subject. In addition, 
+there is the risk of a change in the tax situation in the relationship between the relevant countries, as 
+well as the risk of a change due to the modification of the relationship under international law between 
+the relevant countries. All these factors may lead to adverse changes to the detriment of the investors. 
+These risks are borne exclusively by the investors.
+2.3.2.	
+Risk Class Medium
+Risk of changes in the terms and conditions of the contract or investment or in the Issuer’s 
+activities
+It is conceivable that either the contractual or investment conditions will be changed in such a way or 
+that the activities of the Issuer will change in such a way that it operates a business subject to licensing. 
+In this case, the FMA or other Financial Authorities may order supervisory measures, whereby the FMA 
+or other Financial Authorities are authorized in this regard to make all orders necessary to restore the 
+proper state of affairs and to remedy the deficiencies and, in particular, to order the reversal of the 
+transactions of the Issuer of the Bonds.
+It cannot be ruled out that the Issuer will have to repay the investment amounts received to the 
+investors, or that the investors may in turn have to repay to the Issuer interest paid to them. Since in 
+this case all amounts paid would in principle have to be repaid immediately by the Issuer, this may 
+lead to over-indebtedness or insolvency of the Issuer. It may even be the case that investors in the 
+insolvency proceedings receive either no or only a small portion of the amounts they have paid back, 
+but would have to repay any interest already paid to them in full to the insolvency administrator. This 
+can lead to insolvency for investors. Regulatory authorities in the distribution states may also take 
+similar measures.
+Risks associated with notification and/or placement
+The Issuer and its business activities are not subject to any governmental supervision or control.
+To ensure that the capital to be raised is actually available to the Issuer, it must, among other things, 
+also be possible for the offering to take place abroad as planned. The prerequisites for this, in particular 
+in terms of regulatory law, are to be assessed in accordance with the law applicable in the respective 
+foreign country and have yet to be created. (Legal) changes may occur at any time, both in Germany 
+and abroad, which may make the offering more difficult, result in unforeseen costs and/or personnel 
+expenses for the Issuer and/or have consequences for the investors personally.
+2.3.3.	
+Risk Class Low
+Not applicable.
+2.4.	
+Risks Relating To Internal Control
+2.4.1.	
+Risk Class High
+Operational Risks
+Operational risk is the risk that adverse effects may occur as a result of human error, flawed 
+management processes, natural and/or other disasters, force majeure, technology failure or changes in 
+the external environment. The Issuer, its business activities and its internal organization are not subject 
+to government supervision or control.
+The internal processes at the Issuer and at commissioned third parties involve a large number of 
+operational risks. This includes, for example, risks in connection with the unlawful conduct of individual 
+employees or business partners, for example in connection with corruption. The organization and 
+controlling of the Issuer or of commissioned third parties could fail. In addition, operational risks may 
+arise in connection with employees, the safety of the working environment, social and cultural diversity,
+
+--- Page 17 ---
+Germany SolarINVEST GmbH | Base Prospectus
+17
+and discrimination. In addition, criminal acts such as theft, fraud or other impairments of system 
+security by employees or third parties may occur to the detriment of the Issuer.
+Risks arising from the use of operating assets include, in addition to those relating to land and 
+buildings, also risks relating to the Issuer’s information and communications systems (e.g. IT networks, 
+power or telephone networks) and infrastructure. The Issuer and appointed third parties are dependent 
+on technology systems and rely on information technology systems that may fail, suffer disruptions or 
+be subject to illegal attacks or fraudulent activities.
+The realization of any one of these risks on its own or in combination with other risks may have a 
+negative impact on the Issuer’s overall net assets, financial position and/or results of operations and 
+may result in a failure of interest payments and a partial or total loss of the investment amount for 
+investors.
+2.4.2.	
+Risk Class Medium
+Risks associated with the concentration of all company shares in one person
+Mr. Hardy Chandra Pönisch holds 100% of the Issuer’s shares. This position as sole shareholder gives 
+Mr. Hardy Chandra Pönisch controlling influence over the Issuer.
+All decisions requiring a shareholders’ resolution are therefore made solely by Mr. Hardy Chandra 
+Pönisch. These decisions include in particular, but are not limited to, the election, dismissal and 
+discharge of additional managing directors of the Issuer and of the auditing company, the timing 
+and amount of distributions, decisions on the annual budget, the approval of the annual financial 
+statements, the adoption of resolutions on the appropriation of the annual result, regulations on the 
+subscription amount of shares in the company, amendments to the Issuer’s Articles of Association, 
+resolutions on the dissolution of the company, and resolutions on the relocation of the registered 
+office or conversions.
+The interests of Mr. Hardy Chandra Pönisch could conflict with those of the Issuer in individual cases, 
+which could lead to conflicts of interest. The Issuer has not taken any specific measures or precautions 
+to avoid conflicts of interest and their consequences. If Mr. Hardy Chandra Pönisch does not exercise 
+his controlling influence for the benefit of the Issuer, this may lead to a failure of interest payments and 
+to the total or partial loss of the investment amount for the investors.
+Key person risk
+Currently, the Issuer has only one managing director, Mr. Hardy Chandra Pönisch, and no other 
+employees. The economic success of the Issuer therefore depends on its management and qualified 
+contractors. The specific knowledge (“know-how”) of the Issuer and its protection are decisive factors 
+for the economic development of the Issuer. The departure of Mr. Hardy Chandra Pönisch from the 
+company may impair or endanger the Issuer’s competitiveness. There is also a risk that the Issuer may 
+not be able to contractually bind qualified contractual partners. The economic development of the 
+Issuer depends, among other things, on its success in finding qualified and experienced contractual 
+partners in the area of investments in photovoltaic systems, as well as in binding important contractual 
+partners.
+If the Issuer is unable in the future to recruit and retain qualified contractual partners and to recruit 
+further qualified personnel if needed, or if the managing director takes wrong personnel decisions, 
+this may have a material adverse effect on the Issuer’s net assets, financial position and/or results of 
+operations. For investors, this may lead to a failure of interest payments and to a partial or complete 
+loss of the investment amount.
+Risk of conflicts of interest
+The sole shareholder and sole member of the management of the Issuer is Mr. Hardy Chandra Pönisch. 
+Mr. Hardy Chandra Pönisch holds the following positions in addition to his position with the Issuer:
+
+--- Page 18 ---
+18
+Germany SolarINVEST GmbH | Base Prospectus
+Mr. Hardy Chandra Pönisch is 100% shareholder and member of the management of the following 
+companies:
+	»
+MT Performa Anstalt with registered office at Landstrasse 63, 9490 Vaduz, Liechtenstein
+	»
+MT Performa II Anstalt with registered office at Landstrasse 63, 9490 Vaduz, Liechtenstein
+	»
+MT Performa III Anstalt with registered office at Landstrasse 63, 9490 Vaduz, Liechtenstein
+	»
+Ranzow Verwaltungs UG with registered office at Windmühlenweg 24, 04159 Leipzig, Germany
+	»
+MR Sun GmbH with registered office at Lindenallee 8, 04158 Leipzig, Germany
+	»
+Germany Sun AG with registered office at Landstrasse 63, 9490 Vaduz, Liechtenstein
+Mr. Hardy Chandra Pönisch is a member of the management of the following companies:
+	»
+Multitalent Investment GmbH with registered office at Rosenau 54, 87437 Kempten im Allgäu, 
+Germany
+	»
+Multitalent Investment II GmbH with registered office at Rosenau 54, 87437 Kempten im Allgäu, 
+Germany
+	»
+Lindenkern GmbH located at Rosenau 52, 87437 Kempten im Allgäu, Germany
+	»
+MR Projektentwicklungsgesellschaft mbH with registered office at Lindenallee 8, 04158 Leipzig, 
+Germany
+	»
+Golf Apartment GmbH & Co KG located at Rosenau 52, 87437 Kempten im Allgäu, Germany.
+	»
+Maritime Residence GmbH & Co. KG located at Rosenau 52, 87437 Kempten im Allgäu, Germany
+	»
+NPL Verwaltungs GmbH with registered office at Windmühlenweg 24, 04159 Leipzig, Germany
+Mr. Hardy Chandra Pönisch is a member of the Supervisory Board of the following company:
+	»
+VIVAT Multitalent AG with registered office in Rosenau 54, 87437 Kempten im Allgäu, Germany
+MR Sun GmbH, Leipzig, is itself an Issuer of bonds and invests in the construction and 
+operation of photovoltaic plants. MR Sun GmbH also indirectly holds a 50% stake in KVG 
+Kiesgewinnungsgesellschaftsgesellschaft mbH, which subleases land to the Issuer for the construction 
+of photovoltaic systems. MR Sun GmbH also installs photovoltaic systems on part of this land. 
+Accordingly, situations are conceivable in which MR Sun GmbH makes decisions that are detrimental to 
+the Issuer.
+This could be the case, for example, if the municipality of Barnim/Wessin OT Crivitz does not approve 
+sufficient land for the operation of photovoltaic systems.
+2.4.3.	
+Risk Class Low
+Not applicable.
+3.	
+Risks Specific To The Bearer Bonds
+3.1.	
+Risks relating to the Nature of the Bearer Bonds
+3.1.1.	
+Risk Class High
+Total loss of the paid-in capital and interest claims
+The Issuer cannot guarantee or provide any assurance to investors that it will be able to achieve 
+its economic objectives and that its expectations will be met. If the Bonds in question are not fully 
+subscribed within the subscription period, this could have a negative impact on the Company’s 
+financial position, as it must generate sufficient liquid funds in the course of its business operations or 
+through refinancing measures. If it fails to do so or incurs substantial losses in the course of its business 
+operations, this may result in the Issuer being unable to meet all of its liabilities and/or being prohibited 
+from repaying all or part of the investment amount to the investors and in insolvency proceedings 
+being instituted against the assets of the Issuer in accordance with the applicable laws.
+The Bonds described in this Prospectus are not subject to any statutory deposit insurance. Thus, the
+
+--- Page 19 ---
+Germany SolarINVEST GmbH | Base Prospectus
+19
+insolvency of the Issuer may affect the amount and timing of payments to investors. In the event of the 
+Issuer’s insolvency, investors may also suffer a total loss.
+In the event of the Issuer’s insolvency, the investors shall be treated in the same way as the Issuer’s other 
+non-preferential creditors in accordance with the applicable insolvency regulations. In the insolvency 
+proceedings, the assets will be realized and distributed to the respective creditors in proportion to their 
+claim to the total liabilities of the Issuer in order to satisfy them. Investors run the risk of losing some or 
+even all of the investment amount and any interest claims. It is conceivable that insolvency proceedings 
+may be instituted against the Issuer or that other measures may be taken that could affect the timing 
+or amount of payments to investors.
+This can even lead to the investor’s personal insolvency.
+Risk of exclusion of ordinary termination
+The investors’ ordinary right of termination is excluded for the term of the Bond. There is thus a risk that 
+investors will remain bound by their investment decision even if they have other capital requirements 
+during the term of the Registered Bonds. They cannot then draw on the money they have invested and 
+may be forced to take out a bank loan to cover their capital requirements elsewhere. If it is not possible 
+to take out a bank loan, this may also lead to the investor’s personal insolvency.
+Risk of further and/or senior creditors
+The Bonds offered under this Prospectus are fixed rate, unsecured securities. The Issuer is free to issue 
+further Bonds or other Securities of the same rank in any amount. In particular, the Issuer is also free 
+to increase the issue volume of the Bonds issued under this Base Prospectus by unilaterally amending 
+the Final Terms. In particular, the Issuer is also entitled to issue secured securities and to take on senior 
+obligations. Such secured creditors of the Issuer may be satisfied from the assets of the Issuer with 
+priority in relation to the bondholders of these Bonds. Consequently, there is a risk for the investors 
+that the raising of additional debt capital of the Issuer is accompanied by a reduction or even the loss 
+of the repayment and/or interest payment claim in the event of liquidation or insolvency of the Issuer.
+Risk of capital commitment, no admission to trading
+The Bonds are subject to a term specified in the Final Terms. The investment amount is generally not 
+available to investors during the term of the Bonds.
+The offered Bearer Bonds will not be admitted to trading. The Bearer Bonds offered with this 
+Prospectus are transferable by handing over the Bearer Bond certificate to the acquirer. Thus, a transfer 
+of the Bonds offered with this Prospectus is in fact dependent on whether the respective investors find 
+interested parties for the acquisition of the Bonds and whether these are also willing to pay a price 
+that is reasonable from the perspective of the respective investor. If an interested party is found for 
+a transfer of the Bonds but is not willing to pay an appropriate price, the investor will receive a price 
+from the interested party that falls short of his original investment amount. If investors do not succeed 
+at all in finding an interested party for a transfer of the Bearer Bond, the investors remain bound to the 
+Bearer Bonds at the contractual conditions.
+Inflation risk
+Particularly in the case of high inflation rates, there is a risk that the inflation-adjusted return will deviate 
+significantly from the nominal return. If the inflation rate is higher than the nominal return less taxes, 
+the inflation-adjusted return is negative. The interest rate on a Bond shows the nominal yield, in which 
+tax deductions must also be taken into account in economic terms.
+This may result in the investor receiving significantly lower redemptions and interest payments than 
+forecast.
+Furthermore, the high inflation rate at the time the Prospectus was prepared may mean that the Issuer’s 
+calculations for current and future projects will have to be revised and that the use of liquidity will be
+
+--- Page 20 ---
+20
+Germany SolarINVEST GmbH | Base Prospectus
+(significantly) higher than originally assumed.
+This may have a negative impact on the Issuer’s overall net assets, financial position and/or results 
+of operations and may result in a failure of interest payments and a partial or complete loss of the 
+investment amount for investors.
+3.1.2.	
+Risk Class Medium
+No influence of the investors on the decisions of the Issuer
+The Bonds do not convey any participation under corporate or entrepreneurial law. Investors do 
+not acquire any voting rights, membership rights, management powers or co-determination rights. 
+Bondholders are also not entitled to demand that the Issuer provide them with access to documents, 
+in particular relating to the investments acquired, to be acquired or to be sold by the Issuer. Therefore, 
+investors cannot influence the Issuer’s decisions.
+In cosequence, they are also unable to prevent incorrect decisions. This may result in the Issuer making 
+decisions contrary to the will or even the benefit of the investors that have a negative impact on the 
+Issuer’s net assets, financial position and/or results of operations. This may lead to a failure of interest 
+payments and to a partial or complete loss of the investment amount for the investors.
+Risks associated with the legal standardization of a creditors’ association
+The German Bond Act (“SchVG”) is applicable to these Bearer Bonds. According to the German 
+Bond Act,  terms and conditions of the Bonds may be amended with the consent of a majority of 
+the bondholders. There is a risk that individual investors may be outvoted by the relevant majority of 
+bondholders with binding effect. In this way, investors’ rights may also be amended, restricted or even 
+completely revoked.
+In such a case, it cannot be ruled out that investors will achieve lower income or returns from the 
+Bearer Bonds than originally expected.
+3.1.3.	
+Risk Class Low
+Tax risks and risks relating to a reduction in pension payments and social benefits
+The tax consequences and risks arising from an investment in the Bond for the individual investor 
+essentially depend on the country in which the investor is subject to tax. Each of the investors has to 
+bear his personal tax burden from his own assets. The Issuer bears no responsibility for this and the 
+investors have no recourse against it.
+Changes and developments in tax law and/or in its interpretation may result in a reduction of the 
+expected return or even in a taxation of the substance. Tax disadvantages may also arise due to 
+changes in any double taxation agreements or/and lead to a higher tax burden for the Issuer. Changes 
+in tax legislation may lead to a higher tax burden for the Issuer. For investors, this may lead to a failure 
+to receive interest payments and to a partial or complete loss of the investment amount.
+The risk of changes in the tax framework is borne exclusively by the respective investors.
+In individual cases, the acquisition of the Bonds may give rise to interactions with other areas of law. 
+Insofar as investors are natural persons and receive pension payments or social security benefits, it 
+should be noted that investors take the risk of a reduction in or reclaim of their pension payments or 
+social security benefits if certain additional earning limits are exceeded. Investors would have to accept 
+reductions or make repayments from their own assets. This and/or the reductions for the future may 
+lead to financial difficulties or even insolvency of the respective investor.
+
+--- Page 21 ---
+Germany SolarINVEST GmbH | Base Prospectus
+21
+III.	
+Registration Document, General Information, Information on the 
+Issuer
+1.	
+Responsible Persons, Information from Third Parties, Expert Reports and Approval by the 
+Competent Authority
+1.1.	
+Responsibility for the Information Provided in the Prospectus
+The Issuer, Germany SolarINVEST GmbH, with its registered office at Lindenallee 8, 04158 Leipzig, 
+Germany, is responsible for the information provided in this section (Registration Document). Managing 
+Director of the Issuer is Mr. Hardy Chandra Pönisch.
+1.2.	
+Statement of the Issuer
+The Issuer declares that it has taken all reasonable care to ensure that the information given in this 
+section is, to the best of its knowledge, complete and correct and that no facts have been omitted 
+which may alter or distort the import of this section.
+1.3.	
+Approval of this Prospectus
+This Prospectus has been approved by the Financial Market Authority Austria (“FMA”) as competent 
+authority under the EU Prospectus Regulation, whereby the FMA reviews and approves the Prospectus 
+solely with regard to its completeness, comprehensibility and consistency in accordance with the EU 
+Prospectus Regulation. Such approval shall therefore expressly not be deemed to be an endorsement 
+of the Issuer, or the Bearer Bonds issued by the Issuer, which is the subject of this Prospectus.
+2.	
+Auditor
+2.1.	
+Name and Address of the Issuer’s Auditor
+The auditor of the Issuer is UStB GmbH Wirtschaftsprüfungsgesellschaft, Wägnerstraße 14, 01309 
+Dresden, Germany. UStB GmbH Wirtschaftsprüfungsgesellschaft is a member of the Berlin Chamber of 
+Auditors (Germany).
+3.	
+Risk Factors
+With regard to the risk factors that are likely to affect the Issuer’s ability to meet its obligations under 
+the Bearer Bonds to investors, reference is made to Chapter II of this Base Prospectus, in particular 
+subchapter 2 (“Risks Specific to the Issuer”).
+4.	
+Information on the Issuer
+4.1.	
+Business History and Development of the Issuer
+4.1.1.	
+Legal and Commercial Name of the Issuer
+The name of the Issuer is Germany SolarINVEST GmbH. The Issuer acts under the business name 
+“Germany SolarINVEST GmbH”, which is identical to the company name. No other commercial 
+designations are used by the Issuer.
+4.1.2.	
+Place of Registration and Registration Number, Legal Entity Identifier (LEI)
+The Issuer is registered in the Commercial Register of the Local Court of Leipzig (Germany) under the 
+registration number HRB 42463. The LEI is: 529900K97WJP9CCF1G48.
+4.1.3.	
+Date of Incorporation and Duration of Existence of the Issuer
+The Issuer was incorporated for an unlimited period of time by its Articles of Association as of January
+
+--- Page 22 ---
+22
+Germany SolarINVEST GmbH | Base Prospectus
+17, 2024 and was entered in the Commercial Register of the Local Court of Leipzig (Germany) on 
+February 6, 2024 under the registration number HRB 42463. The extract from the commercial register is 
+attached to this Prospectus.
+4.1.4.	
+Registered Office and Legal Form of the Issuer, Legal System, Country of Incorporation, 
+Address and Telephone Number of tthe Registered Office
+The Issuer is a limited liability company incorporated and existing under the laws of Germany for 
+an indefinite period. The business address of the Issuer is Lindenallee 8, 04158 Leipzig, Germany, its 
+telephone number is +49 341 2252541
+The website of the Issuer is available at www.germany-solarinvest.com. The information on the Issuer’s 
+website is only part of the Prospectus if it has been included in the Prospectus by means of a reference.
+4.1.5.	
+Recent Events that are materially relevant to the assessment of the Issuer’s Solvency
+From the date of incorporation to the date of preparation of the Prospectus, no events have occurred 
+that are materially relevant to the assessment of the Issuer’s solvency.
+4.1.6.	
+Details of Credit Ratings prepared for the Issuer on its behalf or in cooperation with the 
+Issuer at Rating the Proceedings
+No ratings have been prepared for the Issuer.
+4.1.7.	
+Information on significant changes in the Issuer’s debt and financial structure since the last 
+financial year
+The Issuer is a newly established company, its opening balance sheet was prepared on January 17, 
+2024. The Issuer’s interim financial statement was prepared on February 29, 2024. At the time of 
+the preparation of the Prospectus, no changes in the debt and financial structure of the Issuer have 
+occurred.
+4.1.8.	
+Description of the Expected Financing of the Activities of the Issuer
+The Issuer intends to finance the commencement of its business activities by raising Participating Loans 
+and/or Subordinated Loans and by issuing the present Bearer Bonds.
+5.	
+Overview of Business Activities
+5.1.	
+Main Areas of Activity of the Issuer
+The main activity of the company is 
+	»
+the planning, development, financing and marketing of projects in the field of renewable energy, 
+including the purchase and sale, lease and rental of land, 
+	»
+the construction, acquisition, renovation, sale, purchase and rental of buildings, the financing, 
+construction and 
+	»
+participation in as well as operation of plants in the field of renewable energies, the purchase, 
+sale and leasing of technical components for the operation of plants in the field of renewable 
+energies 
+	»
+as well as any form of use and sale of renewable energies generated therefrom.
+The Issuer plans to build and operate photovoltaic plants on the leased property or parts of the leased 
+property of KVG Kiesgewinnungsgesellschaft mbH, Schönauer Straße 13, D-95615 Marktredwitz itself 
+and to generate profits from this.
+The leased property of KVG Kiesgewinnungsgesellschaft mbH, Schönauer Straße 13, D-95615 
+Marktredwitz is suitable for obtaining permits to build and operate photovoltaic systems on this land. A 
+corresponding permit has not yet been obtained by the Issuer.
+
+--- Page 23 ---
+Germany SolarINVEST GmbH | Base Prospectus
+23
+The Issuer will sublease land from KVG Kiesgewinnungsgesellschaft mbH, D-95615 Marktredwitz for 
+the operation of photovoltaic plants. It will then construct photovoltaic plants on this land, which it 
+will build and operate independently. Initially, it is planned to construct three photovoltaic plants, two 
+of which will have a capacity of 5 MWh each and the other one will have a capacity of 20 MWh. The 
+investment costs for the modules and their construction until putting them into operation amount to 
+EUR 900,000.00 per megawatt hour. This results in an investment volume for the plant with 5 MWh in 
+the amount of EUR 4.5 million each and for the plant of 20 MWh in the amount of EUR 18,000,000.00.
+Upon formation, the Issuer has subscribed and paid-in capital in the amount of EUR 25,000.00. The 
+shareholder paid the capital into the Company in full and at its free disposal on February 2, 2024. After 
+approval of the prospectus, the shareholder will pay in an additional EUR 300,000.00 in equity capital at 
+the Company’s free disposal and add it to the capital reserves.
+The financing of the projects is to be secured on the basis of a financing mix; this consists of the Bearer 
+Bonds offered as well as subordinated loans and/or participating loans. The initial investments in the 
+investment company will be financed exclusively with subordinated loans and/or participating loans. In 
+later years, this financing will be replaced by the net proceeds from the Bearer Bonds.
+The future business development of the Issuer will largely depend on the success of its investment 
+activities and thus on the success of the construction and operation of plants from the field of 
+renewable energies.
+The company does not employ its own staff and does not plan to employ its own staff in the future. The 
+investment decisions and strategic decisions are made by the management of Germany SolarINVEST 
+GmbH.
+The Issuer will operate in the renewable energy market in accordance with its corporate purpose.
+5.2.	
+Basis for any disclosures by the Issuer on its competitive position
+The Issuer does not provide any information on its competitive position.
+6.	
+Organizational Structure
+6.1.	
+Position of the Issuer in a Group
+The Issuer is currently not part of a group. However, in line with its investment strategy, it may take over 
+or represent other companies in Germany or abroad of the same or a similar kind; it may participate in 
+such companies, also as a general partner. In addition, the Issuer may establish branches in Germany or 
+abroad under the same or a different name, as well as establish, manage or participate in subsidiaries in 
+Germany or abroad, and acquire or pre-extend shares in third-party companies in Germany or abroad. 
+The Company may limit its activities to the administration of its shareholdings.
+7.	
+Trend Information
+7.1.	
+Statement on material deterioration of the Issuer’s prospects since the date of its 
+incorporation
+As of the date of this Prospectus, there have been no material adverse changes in the prospects of the 
+Issuer since the date of its incorporation.
+7.2.	
+Information on Trends, etc.
+The Issuer has no information about any known trends, uncertainties, demands, commitments or events 
+that are likely to have a material effect on the Issuer’s prospects for at least the current fiscal year.
+8.	
+Earning Forecasts or Earning Estimates
+The Issuer does not provide any profit forecast or profit estimates.
+
+--- Page 24 ---
+24
+Germany SolarINVEST GmbH | Base Prospectus
+9.	
+Administrative, Management and Supervisory Bodies
+9.1.	
+Information on members of the administrative, management and supervisory bodies
+The sole member of the management of the Issuer is Mr. Hardy Chandra Pönisch. Mr. Hardy Chandra 
+Pönisch holds the following positions in addition to his position with the Issuer:
+Mr. Hardy Chandra Pönisch is 100% shareholder and member of the management of the following 
+companies:
+	»
+MT Performa Anstalt with registered office at Landstrasse 63, 9490 Vaduz, Liechtenstein
+	»
+MT Performa II Anstalt with registered office at Landstrasse 63, 9490 Vaduz, Liechtenstein
+	»
+MT Performa III Anstalt with registered office at Landstrasse 63, 9490 Vaduz, Liechtenstein
+	»
+Ranzow Verwaltungs UG with registered office at Windmühlenweg 24, 04159 Leipzig, Germany
+	»
+Mr Sun GmbH with registered office at Lindenallee 8, 04158 Leipzig, Germany
+	»
+Germany Sun AG with registered office at Landstrasse 63, 9490 Vaduz, Liechtenstein
+Mr. Hardy Chandra Pönisch is a member of the management of the following companies:
+	»
+Multitalent Investment GmbH with registered office at Rosenau 54, 87437 Kempten im Allgäu, 
+Germany
+	»
+Multitalent Investment II GmbH with registered office at Rosenau 54, 87437 Kempten im Allgäu, 
+Germany
+	»
+Lindenkern GmbH located at Rosenau 52, 87437 Kempten im Allgäu, Germany
+	»
+MR Projektentwicklungsgesellschaft mbH with registered office at Lindenallee 8, 04158 Leipzig, 
+Germany
+	»
+Golf Apartment GmbH & Co KG located at Rosenau 52, 87437 Kempten im Allgäu, Germany.
+	»
+Maritime Residence GmbH & Co. KG located at Rosenau 52, 87437 Kempten im Allgäu, Germany
+	»
+NPL Verwaltungs GmbH with registered office at Windmühlenweg 24, 04159 Leipzig, Germany
+Mr. Hardy Chandra Pönisch is a member of the Supervisory Board of the following company:
+	»
+VIVAT Multitalent AG with registered office in Rosenau 54, 87437 Kempten im Allgäu, Germany
+9.2.	
+Conflicts of interest of administrative, management and supervisory bodies
+MR Sun GmbH, Multitalent Investment II GmbH an Germany Sun AG also issue Bonds. Situations are 
+therefore conceivable, such as a shortage of investment objects in the photovoltaic sector, in which the 
+Issuer’s management could make decisions on their behalf that are made for the predominant benefit 
+of MR Sun GmbH, Multitalent Investment II GmbH or Germany Sun AG and are therefore contrary to 
+the Issuer’s best interests. Such decisions may result in a negative development of the Issuer’s net 
+assets, financial position and/or results of operations. This may result in investors losing some or all of 
+their bond capital and interest entitlement.
+MR Sun GmbH, Leipzig, is itself an Issuer of bonds and invests in the construction and 
+operation of photovoltaic plants. MR Sun GmbH also indirectly holds a 50% stake in KVG 
+Kiesgewinnungsgesellschaftsgesellschaft mbH, which subleases land to the Issuer for the construction 
+of photovoltaic systems. MR Sun GmbH also installs photovoltaic systems on part of this land. 
+Accordingly, situations are conceivable in which MR Sun GmbH makes decisions that are detrimental to 
+the Issuer.
+This could be the case, for example, if the municipality of Barnim/Wessin OT Crivitz does not approve 
+sufficient land for the operation of photovoltaic systems.
+The Issuer has not taken any measures to prevent negative effects on the Issuer resulting from the 
+described potential conflicts of interest.
+
+--- Page 25 ---
+Germany SolarINVEST GmbH | Base Prospectus
+25
+10.	
+Principal Shareholder
+10.1.	
+Direct and indirect shareholdings and control relationships as well as measures to prevent 
+abuse of such control
+The sole shareholder of the Issuer is Mr. Hardy Chandra Pönisch at Lindenallee 8, 04158 Leipzig 
+(Germany).
+All decisions requiring a shareholders’ resolution are therefore made solely by Mr. Hardy Chandra 
+Pönisch. These include in particular, but are not limited to, the election, dismissal and discharge of 
+additional managing directors of the Issuer and of the auditing company, the timing and amount of 
+distributions, decisions on the annual budget, the approval of the annual financial statements, the 
+adoption of resolutions on the appropriation of the annual result, regulations on the subscription 
+amount of shares in the company, amendments to the Issuer’s Articles of Association, resolutions on the 
+dissolution of the company, and resolutions on the relocation of the registered office or conversions.
+In individual cases, the interests of Mr. Hardy Chandra Pönisch could conflict with those of the Issuer. 
+Germany SolarINVEST GmbH has not taken any measures to prevent the abuse of such control.
+11.	
+Financial information on the net assets, financial position and results of operations of the 
+Issuer
+11.1.	
+Historical Financial Information
+The Issuer was incorporated by registration in the Commercial Register of the Local Court of Leipzig 
+(Germany) on February 6, 2024 and has a share capital in the amount of EUR 25,000.00. The extract 
+from the commercial register is attached as an annex to this Prospectus.
+As the Issuer is a newly established company, no key figures on the Issuer’s financial position and 
+results of operations from previous years or comparative periods or historical financial information are 
+available or are limited to the opening balance sheet:
+Opening Balance Sheet as of January 17, 2024
+Germany SolarINVEST GmbH, Leipzig
+Assets
+Liabilities
+EUR
+EUR
+A. Current Assets
+25,000.00
+A. Shareholders Equity
+25,000.00
+- thereof receivables from shareholders 
+Euro 25,000.00
+25,000.00
+25,000.00
+Up to the date of the Prospectus, expenses were only incurred for the establishment and start-up of 
+the Company.
+The financial information selected below should be read only in conjunction with the documents and 
+materials incorporated by reference in this Prospectus (see Section “VII. Documents Incorporated by 
+Reference”).
+
+--- Page 26 ---
+26
+Germany SolarINVEST GmbH | Base Prospectus
+Interim Financial Statement as of February 29, 2024
+Germany SolarINVEST GmbH, Leipzig
+Assets
+Liabilities
+Financial Year 
+Date of 
+Formation
+Financial Year
+Date of 
+Formation
+A. Current Assets
+EUR
+EUR
+A. Shareholders 
+Equity
+EUR
+EUR
+I. Accounts 
+receivable and 
+other assets
+0.00
+25,000.00
+I. Subscribed capital
+25,000.00
+25,000.00
+1. Capital 
+contributions 
+called in but still 
+outstanding
+17,158.66
+0.00
+II. Cash on hand, 
+Bundesbank 
+balances, bank 
+balances and 
+checks
+17,158.66
+25,000.00
+II. Net loss for 
+the year
+7,841.34
+0.00
+Total current 
+assets
+17,158.66
+25,000.00
+Total Equity
+17,158.66
+25,000.00
+The opening balance sheet of the Issuer was prepared on January 17, 2024, the interim financial 
+statement was prepared on February 29, 2024. Financial Information is therefore not older than 18 
+months as of the date of the Prospectus.
+11.2.	
+Review of Historical Financial Information
+The opening balance sheet of the Issuer as of January 17, 2024 and the interim financial statement as 
+of February 29, 2024 have been prepared in accordance with international accounting standards as 
+adopted by the Union pursuant to Regulation (EC) No. 1606/2002.
+11.3.	
+Court and Arbitration Proceedings
+No governmental interventions or legal or arbitration proceedings have been instituted in the past 12 
+months in which the Issuer is a party or which could have or have had a significant effect on the Issuer’s 
+financial position or profitability. Moreover, the Issuer has no knowledge that such proceedings have 
+been initiated.
+11.4.	
+Significant changes in the Issuer’s financial position or trading position
+As the Issuer is a newly established company, there is no previous financial year. Therefore, there have 
+been no material changes in the Issuer’s financial position or trading position as of the date of this 
+Prospectus. The Issuer is not part of a group at the date of this Prospectus. Therefore, no information 
+on changes in the financial position of the group is provided.
+12.	
+More Details
+12.1.	
+Share Capital
+The Company’s share capital amounts to EUR 25,000.00. The capital was paid up in full and in cash. The 
+Articles of Association do not contain any authorized or conditional capital increase. Furthermore, no 
+profit participation certificates have been issued.
+The share capital is divided into one share with a nominal value of EUR 25,000.00. The company share is 
+in the name of the sole shareholder, Mr. Hardy Chandra Pönisch.
+12.2.	
+Articles of Association and Bylaws of the Company
+The Issuer is registered in the Commercial Register of the Local Court of Leipzig (Germany) under
+
+--- Page 27 ---
+Germany SolarINVEST GmbH | Base Prospectus
+27
+the registration number HRB 42463. The corporate purpose of the Issuer is set forth in the Articles of 
+Association of the Issuer under § 2 as follows:
+“§ 2 Object of the Company
+(1) The object of the Company is the planning, development, financing and marketing of projects in the 
+field of renewable energies, including the purchase and sale, lease and rental of land, the construction, 
+acquisition, renovation, sale as well as the lease and rental of buildings, the financing, construction and 
+participation in as well as operation of plants in the field of renewable energies, the purchase, sale of the 
+lease and rental of technical components for the operation of plants in the field of renewable energies as 
+well as any form of use and sale of renewable energies generated therefrom.
+(2) The company is authorized to acquire interests in other companies and to establish branch offices. The 
+company may take all measures that serve to promote the purpose of the company.
+13.	
+Material Contracts
+The Company has entered into the following contracts that are outside the ordinary course of business:
+13.1.	
+Participatory Loans and Subordinated Loans
+The Issuer intends to take up participatory loans and subordinated loans from other companies in 
+the future. To date, the Issuer has not yet taken up any participatory loans or subordinated loans or 
+concluded any corresponding agreements.
+13.2.	
+Issuance of Bearer Bonds 
+In order to finance the commencement of its business activities, the Issuer intends to issue Bearer 
+Bonds under this Base Prospectus in several different forms at a total issue volume specified in the Final 
+Terms. As of the date of this Prospectus, the Issuer has not yet issued any Bearer Bonds.
+13.3.	
+Exclusive Distribution Agreement with Largamus Financial GmbH
+The Issuer has entered into an exclusive distribution agreement for the brokerage of financial 
+instruments with Largamus Financial GmbH in order to offer the Bearer Bonds to interested investors. 
+Largamus Financial GmbH is a licensed securities institution. Largamus Financial GmbH has received 
+its permission in accordance with § 15 WpIG (Wertpapierinstitutsgesetz) for investment advice and 
+investment brokerage from the Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) with notice as 
+of January 31, 2022. The permission became effective with the entry of Largamus Financial GmbH in the 
+Commercial Register on April 7, 2022. It is possible that the permission of Largamus Financial GmbH as 
+a licensed securities institution will be notified to other states and accordingly the activity of Largamus 
+Financial GmbH will be extended to other states. So far this is not the case.
+Outside Germany, Largamus Financial GmbH will enter into contractual relationships with investment 
+advisors licensed to sell securities in the respective country. However, these have not yet been 
+determined.
+14.	
+Available Documents
+Until the expiry of the validity of this section (Registration Document), copies of the following 
+documents may be inspected at the Issuer’s business address, Lindenallee 8, 04158 Leipzig (Germany):
+	»
+Articles of Association of the Issuer
+	»
+Bond Conditions
+	»
+Opening balance sheet of the Issuer as of January 17, 2024 including audit report.
+	»
+Interim financial statement as of February 29, 2024.
+
+--- Page 28 ---
+28
+Germany SolarINVEST GmbH | Base Prospectus
+IV.	
+Information on Non-Equity Securities - Securities Description
+1.	
+Responsible persons, information from third parties, expert reports and approval by the 
+competent authority
+1.1.	
+Responsibility for the Information provided in the Prospectus
+The Issuer, Germany SolarINVEST GmbH, with its registered office at Lindenallee 8, 04158 Leipzig 
+(Germany), is responsible for the information provided in this section. The Company is represented by 
+its Managing Director, Mr. Hardy Chandra Pönisch.
+1.2.	
+Declaration by the Persons Responsible for the Bearer Bonds
+The Issuer, as responsible for the information given in this section, declares that it has taken all 
+reasonable care to ensure that the information given in this section is, to the best of its knowledge, in 
+accordance with the facts and contains no omission likely to alter or distort its import.
+1.3.	
+Approval of the Prospectus
+This Prospectus has been approved by the Austrian Financial Market Authority (“FMA”) as competent 
+authority in accordance with the EU Prospectus Regulation, whereby the FMA approves the Prospectus 
+solely with regard to its completeness, comprehensibility and consistency in accordance with the EU 
+Prospectus Regulation. Such approval should therefore not be taken as an endorsement of the quality 
+of the Securities which are the subject of this Prospectus. Investors should make their own assessment 
+of the suitability of these Securities for their individual investment.
+2.	
+Risk Factors
+With regard to risk factors that are material to the Securities to be offered, in particular with regard to 
+the effects of insolvency or similar proceedings on the expected amount or timing of payments, see 
+section “II./3.Risks specific to the Bearer Bonds”. With respect to those risks that are likely to affect the 
+Issuer’s ability to meet its obligations under the Securities to investors, see section “II./2. Risks Specific 
+to the Issuer”.
+3.	
+Basic Data
+3.1.	
+Interests of natural or legal persons involved in the issue/offer
+The issuance of Bonds under this Offering Program is primarily in the interest of the Issuer.
+The sole member of the management of the Issuer is Mr. Hardy Chandra Pönisch. Mr. Hardy Chandra 
+Pönisch holds the following positions in addition to his position with the Issuer:
+Mr. Hardy Chandra Pönisch is 100% shareholder and member of the management of the following 
+companies:
+	»
+MT Performa Anstalt with registered office at Landstrasse 63, 9490 Vaduz, Liechtenstein
+	»
+MT Performa II Anstalt with registered office at Landstrasse 63, 9490 Vaduz, Liechtenstein
+	»
+MT Performa III Anstalt with registered office at Landstrasse 63, 9490 Vaduz, Liechtenstein
+	»
+Ranzow Verwaltungs UG with registered office at Windmühlenweg 24, 04159 Leipzig, Germany
+	»
+Mr Sun GmbH with registered office at Lindenallee 8, 04158 Leipzig, Germany
+	»
+Germany Sun AG with registered office at Landstrasse 63, 9490 Vaduz, Liechtenstein
+Mr. Hardy Chandra Pönisch is a member of the management of the following companies:
+	»
+Multitalent Investment GmbH with registered office at Rosenau 54, 87437 Kempten im Allgäu, 
+Germany
+	»
+Multitalent Investment II GmbH with registered office at Rosenau 54, 87437 Kempten im Allgäu,
+
+--- Page 29 ---
+Germany SolarINVEST GmbH | Base Prospectus
+29
+Germany
+	»
+Lindenkern GmbH with registered office at Rosenau 52, 87437 Kempten im Allgäu, Germany
+	»
+MR Projektentwicklungsgesellschaft mbH with registered office at Lindenallee 8, 04158 Leipzig, 
+Germany
+	»
+Golf Apartment GmbH & Co KG located at Rosenau 52, 87437 Kempten im Allgäu, Germany.
+	»
+Maritime Residence GmbH & Co. KG located at Rosenau 52, 87437 Kempten im Allgäu, Germany
+	»
+NPL Verwaltungs GmbH with registered office at Windmühlenweg 24, 04159 Leipzig, Germany
+Mr. Hardy Chandra Pönisch is a member of the Supervisory Board of the following company:
+	»
+VIVAT Multitalent AG with registered office in Rosenau 54, 87437 Kempten im Allgäu, Germany
+MR Sun GmbH, Leipzig, is itself an Issuer of bonds and invests in the construction and 
+operation of photovoltaic plants. MR Sun GmbH also indirectly holds a 50% stake in KVG 
+Kiesgewinnungsgesellschaftsgesellschaft mbH, which subleases land to the Issuer for the construction 
+of photovoltaic systems. MR Sun GmbH also installs photovoltaic systems on part of this land. 
+Accordingly, situations are conceivable in which MR Sun GmbH makes decisions that are detrimental to 
+the Issuer.
+This could be the case, for example, if the municipality of Barnim/Wessin OT Crivitz does not approve 
+sufficient land for the operation of photovoltaic systems.
+In individual cases, the interests of Mr. Hardy Chandra Pönisch could conflict with those of the Issuer. 
+Germany SolarINVEST GmbH has not taken any measures to prevent the abuse of such control.
+3.2.	
+Reasons for the Offer as well as use of Proceeds
+The proceeds generated by way of this Securities issue will be used by the Issuer for:
+The Issuer plans to build and operate photovoltaic plants on the leased property or parts of the leased 
+property of KVG Kiesgewinnungsgesellschaft mbH, Schönauer Straße 13, D-95615 Marktredwitz itself 
+and to generate profits from this. The land is suitable for obtaining permits to build and operate 
+photovoltaic systems on this land. A corresponding permit has not yet been obtained by the Issuer.
+The Issuer will sublease land from KVG Kiesgewinnungsgesellschaft mbH, D-95615 Marktredwitz for 
+the operation of photovoltaic plants. It will then construct photovoltaic plants on this land, which it 
+will build and operate independently. Initially, it is planned to construct three photovoltaic plants, 
+two of which will have a capacity of 5 MWh and the other one will have a capacity of 20 MWh. The 
+investment costs for the modules and their construction until putting them into operation amount to 
+EUR 900,000.00 per megawatt hour. This results in an investment volume for a plant with 5 MWh in the 
+amount of EUR 4.5 million each and for the plant of 20 MWh in the amount of EUR 18,000,000.00.
+Upon formation, the Company has subscribed and paid-in capital in the amount of EUR 25,000.00. The 
+shareholder paid the capital into the Company in full and at its free disposal on February 2, 2024. After 
+approval of the prospectus the shareholder will pay in an additional EUR 300,000.00 in equity capital at 
+the Company’s free disposal and add it to the capital reserves.
+The financing of the projects is to be secured on the basis of a financing mix; this consists of the Bearer 
+Bonds offered as well as subordinated loans and/or participating loans. The initial investments in the 
+ownership company will be financed exclusively with subordinated loans and/or participating loans. In 
+later years, this financing will be replaced by the net proceeds from the Bearer Bonds.
+The Issuer will receive, upon issuance of all of the Bonds at an issue amount equal to 100% of the 
+principal amount thereof, anticipated net proceeds from the total proceeds realized from the issuance, 
+less the expenses described below:
+The total costs are 20% in relation to the entire term and the nominal amount of this issue. The costs 
+are attributable to sales commissions, conception expenses, marketing expenses, administrative 
+expenses, training expenses and expenses for sales coordination. the total costs are spread evenly over
+
+--- Page 30 ---
+30
+Germany SolarINVEST GmbH | Base Prospectus
+the term of the respective Bonds. The annual costs are therefore calculated by dividing the total costs 
+by the (full) years of the relevant term of the Bond. A detailed breakdown of the costs can be found in 
+the respective Final Terms. The net issue proceeds are therefore the total proceeds generated by the 
+issue less the costs described above. The Issuer will take the costs of commencing its business activities 
+from the issue proceeds.
+4.	
+Information on the Securities to be Offered
+4.1.	
+Description of the Type and Class of Securities
+The Securities issued on the basis of this Prospectus are fixed rate Bearer Bonds. The respective 
+Securities identification number (“ISIN”) is specified in the Final Terms.
+4.2.	
+Legislation on the basis of which the Securities were created
+The Bonds issued under this Prospectus are governed by German law to the exclusion of the provisions 
+of private international law to the extent that this would result in the application of foreign law. The 
+Bonds are fixed-income Securities within the meaning of §§ 793 et seq. BGB, which are made out to the 
+bearer. The German Bond Act (“SchVG”) is applicable to these Securities.
+4.3.	
+Securitization and Denomination
+The Bearer Bonds are not included in a clearing system, but physical individual certificates are issued.
+Upon receipt and acceptance of the subscription form, the Issuer shall confirm acceptance of the 
+subscription to the bondholder. Effective certificates (physical individual certificates) are issued in 
+respect of the Bearer Bonds subscribed for by the investor. Investors will receive their individual Bearer 
+Bond certificates by mail within 20 banking days at the latest.
+In the event of an intended transfer of the Bearer Bonds, the respective investor shall inform the Issuer 
+of the intended transfer, at the same time naming the acquirer (including his or her account details).
+4.4.	
+Total issue volume of Securities to be offered 
+The maximum aggregate issue size of all Bonds issued under this Prospectus will be the sum of the 
+specific issue sizes set forth in the respective Terms and Conditions (see Final Terms), as the individual 
+issues made under the Offering Program will be subject to an upper limit on the issue size.
+The total costs are 20% in relation to the entire term and the nominal amount of this issue. The costs 
+are attributable to sales commissions, conception expenses, marketing expenses, administrative 
+expenses, training expenses and expenses for sales coordination. The total costs are distributed evenly 
+over the term of the respective Bonds. The annual costs are therefore calculated by dividing the total 
+costs by the (full) years of the relevant term of the Bond. A detailed breakdown of the costs can be 
+found in the respective Final Terms. The net issue proceeds are therefore the total proceeds generated 
+by this issue less the costs described above. The Issuer will take the costs of commencing its business 
+activities from the issue proceeds.
+4.5.	
+Currency of the Securities issue 
+The Bearer Bonds are issued in Euros (EUR) or Swiss Francs (CHF). The currencies in relation to the 
+individual financial products result from the Final Terms of the respective issue.
+4.6.	
+Rank of Securities
+Unless mandatory legal provisions provide otherwise, the Bonds constitute direct, unconditional, 
+unsubordinated and unsecured liabilities of the Issuer ranking pari passu with each other and with all 
+present and future unsecured and unsubordinated liabilities of the Issuer. Those liabilities that rank 
+senior under applicable mandatory law include, for example, the costs of insolvency proceedings or 
+employees’ claims for payment of current remuneration after the opening of insolvency proceedings.
+
+--- Page 31 ---
+Germany SolarINVEST GmbH | Base Prospectus
+31
+The Issuer is free to enter into further liabilities of unlimited amount ranking pari passu with those of 
+the investors, but also secured liabilities of unlimited amount ranking prior to the investors’ claims.
+4.7.	
+Description of the rights attached to Securities, including any restrictions and the procedure 
+for exercising these rights
+The Bonds issued under this offering program grant the respective security holder a claim against the 
+Issuer for interest payments and repayment of the principal at the nominal amount on a date specified 
+in the respective terms and conditions sheet (Final Terms). The rights and obligations of the Issuer shall 
+otherwise be governed by the laws of the Federal Republic of Germany.
+All Bonds issued under this Bond are Bearer Bonds, which are securitized in physical individual 
+certificates for the entire term of the Bond.
+The Bonds may be transferred in compliance with the statutory provisions by handing over the Bearer 
+Bond certificate to the acquirer. The Bearer Bonds are not included in a clearing system or in trading on 
+a regulated market. The transferability of the Bonds is therefore limited in this respect.
+The bondholders have no membership rights, and in particular no rights to attend, participate in, 
+or vote at the General Meeting of the Company. In principle, investors have no rights to inspect the 
+Issuer’s documents.
+During the term of the respective Bond, the ordinary right of termination for the security holder of 
+the Bearer Bond is irrevocably excluded. The bondholders’ extraordinary right of termination remains 
+unaffected. The Issuer is not obliged to pay the investor any early redemption compensation.
+All amounts payable under the terms and conditions of the Bonds shall be paid by the Issuer itself to 
+the bondholders in the respective currency of the respective Bond. All payments, in particular principal 
+repayments and interest payments, shall be made without deduction and withholding of taxes, duties 
+and other charges, unless the Issuer is required by law to make such deduction and/or withholding. The 
+Issuer assumes no responsibility for the fulfillment of tax obligations by the bondholders. The Issuer 
+shall not be obligated to pay any additional amounts to the bondholders as compensation for any 
+amounts so deducted or withheld. To the extent that the Issuer is not legally obligated to deduct and/
+or withhold taxes, duties or other charges, it shall have no obligation whatsoever with respect to any 
+obligations of the bondholders under tax law.
+4.8.	
+Interest rate and Interest Debt
+The Bonds grant the right to payment of interest in the amount specified in the Final Terms. The 
+interest rate is fixed and interest payments are due quarterly in arrears on the first day of the following 
+quarter. If this day is not a bank working day on which German banks settle payment transactions, the 
+interest receivable falls due on the bank working day following the actual due date on which German 
+banks settle payment transactions. Interest is calculated on the basis of the nominal value of the Bond. 
+Interest is calculated using the ICMA (Actual/Actual) interest calculation method.
+The date from which interest is due is specified in the Final Terms.
+Claims from interest due become time-barred after three years, claims from Bonds due after thirty 
+years. “Banking days” are days, other than Saturdays, Sundays or public holidays, on which German 
+banks settle payment transactions.
+4.9.	
+Maturity Date and Repayment Terms
+The right to repayment is associated with the Bonds. The Issuer undertakes to redeem the Bonds at the 
+nominal amount on the maturity date, unless it has already redeemed or repurchased and cancelled 
+the Bonds prematurely. The redemption price for all Bonds issued under this offering program is equal 
+to the nominal amount.
+The Issuer’s Bonds each have a specific term. The term of a Bond shall commence on the calendar
+
+--- Page 32 ---
+32
+Germany SolarINVEST GmbH | Base Prospectus
+day specified in the Final Terms (start of term) and shall end on the end of term, which shall also be 
+specified in the Final Terms. The start of the term of the Bond coincides with the (first) value date and/
+or the first day of interest payment (start of interest payment) and the end of the term coincides with 
+the last day of interest payment (end of interest payment).
+The maturity date will be specified in the Final Terms for all Bonds issued under this Offering Program.
+Subject to applicable tax and other legal rules and regulations, the payment of principal and interest 
+shall be made by the Issuer to the credit of the respective investors. Repayment shall be made without 
+separate application or submission by the investor.
+During the term of the respective Bond, the ordinary right of termination for the security holder of 
+the Bearer Bond is irrevocably excluded. The bondholders’ extraordinary right of termination remains 
+unaffected.
+4.10.	
+Yield
+Yield is generally defined as the total return on a cash or capital investment, measured as the actual 
+percentage increase in the value of the capital invested. The annual yield, before deduction of any 
+taxes and other levies, of the Bonds based on the issue amount of 100% of the principal amount and 
+redemption at maturity is equal to the nominal yield and is specified in the Final Terms. The total 
+yield in respect of the Bearer Bonds  results from the issue price, the interest rate, the term and the 
+redemption rate.
+4.11.	
+Representation of the Holders of Bearer Bonds 
+The terms and conditions of the Bonds do not regulate any special form of representation of the 
+security holders of the Bonds. In principle, all rights arising from the Bonds in question must be asserted 
+by the individual bondholders themselves or by the legal representative appointed by them directly 
+against the Issuer at its registered office in writing (by registered mail) or by ordinary legal proceedings.
+The Issuer does not provide for organized representation of the bondholders. However, the community 
+of creditors is established on the basis of the German Bond Act (SchVG). The German Bond Act provides 
+that the creditors of the same Bond may approve amendments to the terms and conditions of the 
+Bond by majority resolution and appoint a joint representative to safeguard their rights. In this case, a 
+bondholder can no longer address the Issuer independently of the other creditors. See section “II. / 3. 
+Risks specific to the Bearer Bonds”.
+4.12.	
+Details of the resolutions, authorizations and approvals pursuant to which the Securities are 
+to be created and/or issued
+The relevant resolutions, authorizations and approvals result from the Final Terms.
+4.13.	
+Indication of the expected issue date
+The expected issue date is specified in the Final Terms.
+4.14.	
+Description of any restrictions on the transferability of the Securities
+The Bonds may in principle be freely transferred in accordance with the statutory provisions by handing 
+over the Bearer Bond certificate to the acquirer. However, there is no admission to a regulated market 
+or other trading venue, multilateral trading facility or organized trading facility, which may constitute a 
+de facto restriction on tradability.
+Consequently, transferability is not legally restricted, but in fact always depends on whether there is a 
+purchaser who, from the perspective of the transferring investor, is willing to pay an adequate price for 
+the Bearer Bond.
+The Bonds may be purchased by any natural person or legal entity resident or domiciled in the EU and
+
+--- Page 33 ---
+Germany SolarINVEST GmbH | Base Prospectus
+33
+Switzerland. This offer is only addressed to investors in Austria, Germany, France, Belgium, Italy, Estonia, 
+Latvia, Lithuania, Hungary, Luxembourg, Netherlands, Finland and Sweden. However, the Issuer is free 
+to request the FMA to notify the competent authorities of other EEA member states of the Prospectus 
+and to extend its offer to these states.
+Pursuant to Art. 54 para. 2 of the Federal Financial Services Act (FIDLEG) in conjunction with Art. 70 
+para. 2 of the Swiss Financial Services Ordinance (FinSO), the Prospectus Review Board may provide 
+that prospectuses approved in certain foreign jurisdictions are also deemed approved in Switzerland. 
+The review bodies in Switzerland have recognized Austria and the Financial Market Authority of Austria. 
+Accordingly, the Prospectus is deemed approved in Switzerland.
+The invitation to submit a tender is generally not addressed to a specific or limited target group or 
+category of investors. The Bonds may be acquired by any natural person or legal entity resident or 
+domiciled in the EU. The Bearer Bonds may not be offered in the United States of America or acquired 
+by U.S. persons or politically exposed persons.
+4.15.	
+Cautionary note on the effect of tax legislation on contracts from the Securities
+In accordance with the EU Prospectus Regulation as well as the Delegated Regulation (EU) 2019/980, 
+investors are expressly warned and explicitly advised that the tax legislation of the investor’s country of 
+origin and the Issuer’s country of incorporation may affect the income from the security.
+Investors should therefore always consult their own tax advisors regarding individual tax consequences 
+resulting from the subscription for, purchase, holding and disposition of the Bonds, including the 
+application and effect of state, regional and foreign or other tax laws and the possible effect of changes 
+in the respective tax laws.
+The Issuer cannot be held responsible for the individual tax consequences to the investor arising from 
+the purchase, holding or sale of the Bonds.
+4.15.1.	
+General information on the tax situation
+All amounts payable on the Bearer Bonds shall be paid without withholding or deduction of any 
+present or future taxes or other duties of any kind, unless such withholding or deduction is required by 
+law. The Issuer is not obligated to fulfill the tax obligations of the bondholders unless such obligation is 
+provided for by law under German law.
+5.	
+Conditions of the Public Offering of Securities
+5.1.	
+Terms and conditions, bid statistics, expected timeline and required actions for application
+5.1.1.	
+Offer Conditions
+The Terms and Conditions Sheet (including the annexed Terms and Conditions of the respective Bond) 
+completes and amends the Securities description contained in Section IV. of this Prospectus with 
+respect to the individual Bonds. The relevant Final Terms, including the annexes thereto, must always 
+be read in conjunction with this Prospectus and any supplements thereto.
+The relevant Final Terms including its annexes will be available free of charge on the Issuer’s website at 
+www.germany-solarinvest.com and upon request during normal business hours at the Issuer’s business 
+address, Lindenallee 8, 04158 Leipzig (Germany).
+5.1.2.	
+Time limit within which the offer is valid, description of the application procedure.
+The relevant offer period for the respective Bond will be specified in the Final Terms.
+5.1.3.	
+Rejection or Reduction of Drawings
+The Issuer reserves the right to reject offers for subscription made by potential investors at any time
+
+--- Page 34 ---
+34
+Germany SolarINVEST GmbH | Base Prospectus
+and without giving reasons or to execute them only in part.
+5.1.4.	
+Details of the minimum and/or maximum amount of the subscription
+The minimum subscription amounts and the maximum subscription amounts for the Bonds are 
+specified in the respective Final Terms.
+5.1.5.	
+Method and deadlines for servicing the Securities and their delivery
+The investor makes a binding offer to the Issuer in writing or online to acquire Bonds with the desired 
+nominal amount by signing a subscription form. The acquisition of the Bond is effected by the 
+acceptance of the offer by the Issuer. The Issuer reserves the right not to accept a subscription offer. 
+No reasons need to be given for non-acceptance. The closing of the issue is possible on the 1st and 
+15th day of each month. Subscription to the issue must be made at least 14 days before the desired 
+start of the contract. 
+Subsequently, the investor transfers the subscription amount, including any surcharges and fees, to the 
+Issuer’s subscription account.
+An additional requirement for a successful conclusion of the contract is the receipt of the subscription 
+amount on the account of the Issuer at least one day before the start of the contract. The Issuer 
+reserves the right to reject an offer in the course of which the subscription amount is received late, 
+without giving reasons.
+The Issuer shall confirm receipt of payment to the investor on the basis of the contract concluded and 
+shall issue the investor with a physical individual certificate for the Bearer Bonds acquired.
+Effective certificates (physical indivdual certificates) are issued in respect of the Bearer Bonds subscribed 
+for by the investor. Investors will receive their indivdual Bearer Bond certificates by mail within 20 
+banking days at the latest.
+In the event of transfer of the Bearer Bonds, the respective investor shall inform the Issuer of the 
+transfer, at the same time naming the acquirer (including its account details).
+5.1.6.	
+Comprehensive description of the modalities and the date for the public announcement of 
+the bid results
+The Final Terms will be published on the Issuer’s website, available at www.germany-solarinvest.com, 
+and will be made available in printed form free of charge upon request during normal business hours at 
+the Issuer’s business address. The publication of other results of an offering under this Base Prospectus 
+is not intended.
+5.1.7.	
+Information on Preferential Subscription Rights
+There are no preferential or subscription rights for the subscription of Bonds issued under the Offering 
+Program, therefore information on this point is omitted.
+5.2.	
+Distribution and Allocation Plan
+5.2.1.	
+Indication of the different categories of potential investors to whom the Securities are 
+offered
+The Bonds issued under this Offering Program may be offered to investors in Austria. The Issuer plans 
+to have the Bonds notified by the FMA in the following countries: Germany, France, Belgium, Italy, 
+Estonia, Latvia, Lithuania, Hungary, Luxembourg, Netherlands, Finland and Sweden.
+The Issuer is free to offer the Bonds to the public in other EEA Member States after having notified the 
+Prospectus accordingly. If tranches of the Securities remain reserved for certain markets, these will be 
+specified in the Final Terms.
+
+--- Page 35 ---
+Germany SolarINVEST GmbH | Base Prospectus
+35
+Pursuant to Art. 54 para. 2 of the Federal Financial Services Act (FIDLEG) in conjunction with Art. 70 
+para. 2 of the Swiss Financial Services Ordinance (FinSO), the Prospectus Review Board may provide 
+that prospectuses approved in certain foreign jurisdictions are also deemed approved in Switzerland. 
+The review bodies in Switzerland have recognized Austria and the Financial Market Authority of Austria. 
+Accordingly, the Prospectus is deemed approved in Switzerland.
+The invitation to submit a tender is generally not addressed to a specific or limited target group or 
+category of investors. The Bonds may be acquired by any natural person or legal entity resident or 
+domiciled in the EU. The Bearer Bonds may not be offered in the United States of America or acquired 
+by U.S. persons or politically exposed persons.
+A procedure for reporting the amount allocated to subscribers does not apply. No indication is given as 
+to whether trading can commence prior to notification.
+5.3.	
+Pricing
+The issue price of a particular Bond is specified in the relevant conditions sheet. The issue price may 
+include various incidental costs of the Bond (commissions, markups, expenses or third-party costs), 
+accrued interest, as well as follow-up costs.
+Otherwise, no expenses or charges will be imposed on the investors by the Issuer.
+5.4.	
+Placement and Acquisition 
+The Issuer has entered into an exclusive distribution agreement for the brokerage of financial 
+instruments with Largamus Financial GmbH in order to offer the Bearer Bonds to interested investors. 
+Largamus Financial GmbH is a licensed securities institution. Largamus Financial GmbH has received 
+this permission in accordance with § 15 WpIG (Wertpapierinstitutsgesetz) for investment advice and 
+investment brokerage from the Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) with notice as 
+of January 31, 2022. The permission became effective with the entry of Largamus Financial GmbH in the 
+Commercial Register on April 7, 2022. It is possible that the permission of Largamus Financial GmbH 
+as a value institution will be notified to other states and accordingly the activity of Largamus Financial 
+GmbH will be extended to other states. So far this is not the case.
+Outside Germany, Largamus Financial GmbH will enter into contractual relationships with investment 
+advisors licensed to sell securities in the respective country. However, these have not yet been 
+determined.
+The Issuer and Largamus Financial GmbH do not declare any placement guarantee or underwriting of 
+the Securities. 
+6.	
+Admission to Trading and Trading Modalities
+The Securities offered are not the subject of an application for admission to trading and are not 
+intended to be placed on a regulated market, other third country markets, SME growth market or MTF. 
+The submission of an application for admission to trading on any of the above-mentioned markets, 
+trading venues and systems is therefore not intended.
+7.	
+More Details
+7.1.	
+Advisors named in the Bearer Bonds who are involved in the issue
+The Bearer Bonds do not name any advisors involved in an offering.
+7.2.	
+Audited Data
+The opening balance of the Issuer and the interim balance have been audited or reviewed by auditors.
+
+--- Page 36 ---
+36
+Germany SolarINVEST GmbH | Base Prospectus
+7.3.	
+Ratings
+No rating has been prepared for either the Issuers or the Bonds.
+
+--- Page 37 ---
+Germany SolarINVEST GmbH | Base Prospectus
+37
+V.	
+Form for the Final Terms
+1.	
+Sample Conditions Sheet
+Sample conditions sheet
+April 23, 2024
+Conditions sheet
+[name of the relevant series of non-equity Securities]
+[ISIN]
+issued under the
+Program for the issuance of non-equity Securities
+as of April 23, 2024.
+of 
+Germany SolarINVEST GmbH
+Lindenallee 8, 04158 Leipzig (Germany)
+The content of the Final Terms is governed by the EU Prospectus Regulation and the implementing 
+regulations. They must always be read in conjunction with the Prospectus and any supplements 
+thereto, because complete information about the Issuer and the offer of non-equity Securities or the 
+obtaining of all information is only possible if the Final Terms and the Prospectus - supplemented by 
+any supplements - are read together. Terms and definitions contained in the Prospectus shall, in case of 
+doubt, be given the same meaning in the Final Terms together with any supplements.
+The Prospectus and any supplements thereto will be published on the Issuer’s website, www.germany-
+solarinvest.com, in accordance with the provisions of Article 21 of the EU Prospectus Regulation. In 
+addition, they may be inspected by the public in printed form at the registered office of the Issuer 
+during normal business hours. The publication or provision of the Prospectus is free of charge.
+The Final Terms contain a summary for the respective Bond. This is attached to the Final Terms as Annex 
+1. The Terms and Conditions of the non-equity Securities form Annex 2 to the Final Terms and, together 
+with the present Final Terms, supplement or specify the terms and conditions of the individual issues 
+under this Prospectus, which is why they should be read in conjunction with the present Final Terms. 
+The completed Final Terms and its two annexes together constitute the complete Final Terms of the 
+respective Bond.
+All provisions of the Final Terms which are not completed or deleted shall be deemed to have been 
+deleted from the Terms of Issue applicable to the non-equity Securities.
+The Issuer is not subject to EU Directive 2014/65/EU of the European Parliament and of the Council of 
+May 15, 2014 on markets in financial instruments, as amended (“MiFID II”). Therefore, the Issuer has not 
+conducted a target market assessment.
+Notwithstanding a target market determination, investors may lose all or part of the investment 
+amount. The target market determination is made without prejudice to contractual, statutory or 
+regulatory sales restrictions relating to the Bonds offered.
+Any person who subsequently offers, sells or recommends the Bonds should conduct an independent 
+assessment. A distributor subject to MiFID II is responsible for conducting its own target market 
+assessment in relation to the Bonds and for determining the appropriate distribution channels, subject 
+to the distributor’s applicable suitability and adequacy obligations under MiFID II. The Issuer assumes 
+no responsibility in this regard.
+
+--- Page 38 ---
+38
+Germany SolarINVEST GmbH | Base Prospectus
+The conditions sheet has the same structure as the Prospectus. This means that all the 
+information to be provided in the individual chapters of the Prospectus is listed under the 
+same chapter heading as in the Prospectus. Since not all chapters of the Prospectus require 
+information in, or concretization by, the Final Terms for individual issues, the numbering of the 
+Final Terms only starts with item 3.2. and is not consecutive.
+Complete information is only available if the Prospectus and the Final Terms are read in context.
+Notes:
+Optional fields ☐ are only considered applicable if they are marked as follows: ☒ If no information is 
+provided for certain items, they do not apply.
+IV. Information on the Non-Equity Securities to be offered
+3. Basic Data
+3.2. Reasons for the Offer as well as use of Proceeds
+Detailed breakdown of the costs
+[detailed breakdown of the costs]
+4. Information on the Non-Equity Securities to be offered
+4.1 ISIN/Securities Identification Number
+[ISIN]
+4.3.Nominal amount
+[nominal amount]
+4.4 Total issue volume of the non-
+equity Securities to be offered
+[Amount in EUR / CHF]
+4.5. Currency of the Securities issue
+☐ Euro (EUR)
+☐ Swiss Franc (CHF)
+4.8 Interest Rate and Interest Debt
+i) Nominal interest rate
+[Interest rate]
+Interest is calculated using the ICMA (Actual/Actual) interest 
+calculation method.
+ii) Interest due dates
+Interest shall be paid quarterly in arrears, in each case on the 
+1st day of the following quarter, thus for the first time on 
+[date] and for the last time on the due date, provided that 
+this is a banking day on which German banks settle payment 
+transactions, otherwise interest shall be due on the banking 
+day following the due date on which German banks settle 
+payment transactions.
+4.9 Maturity Date and Repayment Terms
+i) Interest/maturity start and
+interest/maturity end dates
+[Date]
+[Date]
+ii) Maturity date
+[Date]
+4.10. Yield
+The annual return is equal to the nominal interest rate and is 
+therefore [percentage] %.
+4.13. Details of the expected issue date
+[Date]
+5. Conditions of the Public Offering of Non-Equity Securities
+5.1. Conditions, offer statistics, expected schedule and required actions for the application.
+5.1.2. Period within which the offer is valid
+April 22, 2025
+5.1.4. Details of the minimum and/or maximum amount 
+of the subscription (expressed as the number of non-
+equity Securities or accredited investment amount).
+[Minimum number of non-equity Securities /accredited 
+investment amount]
+[Maximum number of non-equity Securities /accredited 
+investment amount]
+5.1.5. Method and deadlines of servicing the 
+non-equity Securities and their delivery
+[First value date]
+
+--- Page 39 ---
+Germany SolarINVEST GmbH | Base Prospectus
+39
+5.2. Distribution and Allocation Plan
+5.2.1. Indication of the different categories of poten-
+tial investors to whom the Securities are offered
+Austria, Germany, France, Belgium, Italy, Estonia, Latvia, 
+Lithuania, Hungary, Luxembourg, Netherlands, Finland and 
+Sweden. Pursuant to Art. 54 para. 2 of the Federal Financial 
+Services Act (FIDLEG) in conjunction with Art. 70 para. 
+2 of the Swiss Financial Services Ordinance (FinSO), the 
+Prospectus Review Board, may provide that prospectuses 
+approved in certain foreign jurisdictions are also deemed 
+approved in Switzerland.
+The invitation to submit a tender is generally not addressed 
+to a specific or limited target group or category of investors. 
+The Bonds may be acquired by any natural person or legal 
+entity resident or domiciled in the EU. The Bearer Bonds may 
+not be offered in the United States of America or acquired by 
+U.S. persons or politically exposed persons.
+5.3. Pricing
+Issue price
+[Amount CHF/EUR]
+5.4 Placement and Acquisition
+Name and address of the coordinator(s) 
+of the entire offer or individual parts of 
+the offer, as well as information on the 
+placements in the individual countries
+Largamus Financial GmbH, Rosenau 52, 87435 Kempten, 
+Germany (exclusive distribution agreement)
+Outside Germany, Largamus Financial GmbH will enter into 
+contractual relationships with investment advisors licensed 
+to sell securities in the respective country. However, these 
+have not yet been determined. The Issuer and Largamus 
+Financial GmbH do not declare any placement guarantee or 
+subscription of the securities.
+
+--- Page 40 ---
+40
+Germany SolarINVEST GmbH | Base Prospectus
+2.	
+Sample Bond Conditions
+The Issuer will prepare Bond Terms and Conditions for each issue of Bonds made under the Offering 
+Program on the basis of the following model Bond Terms and Conditions. Conditions requiring 
+completion, specified design alternatives and adjustments indicated by a placeholder will be specified 
+in the Terms and Conditions of the respective Bond.
+References to the Bearer Bonds shall be understood as references to the section “IV. Information on 
+Non-Equity Securities - Securities Description“ of the Base Prospectus.
+The terms and conditions of the Bond are attached as Annex 2 to the Terms and Conditions Sheet.
+This Prospectus, including all documents incorporated by reference and all supplements, together with 
+the Final Terms consisting of the relevant Final Terms including all annexes, constitutes a Prospectus 
+within the meaning of Art. 6 of the EU Prospectus Regulation.
+Sample Bond Conditions
+April 23, 2024
+Bond Conditions
+[Bearer Bonds]
+[ISIN]
+issued under the Base Prospectus
+for the issue of Bearer Bonds 
+of
+Germany SolarINVEST GmbH
+Leipzig, Germany 
+First value date: [date]
+Maturity date: [date]
+This document contains the terms and conditions of an issue of Bearer Bonds (the “Bearer Bonds” 
+or “Bonds” or “Securities”) of Germany SolarINVEST GmbH issued under the Base Prospectus for the 
+issue of Bonds of Germany SolarINVEST GmbH as of April 23, 2024 (the “Prospectus”).
+In order to obtain all information on the Bonds, these Terms and Conditions, the Prospectus and any 
+supplements to the Prospectus, and the Final Terms together with its annexes must be read together.
+The Prospectus and any supplements thereto as well as documents referred to in these Terms and 
+Conditions or in the Prospectus may be obtained free of charge at any time from the Issuer’s website, 
+www.germany-solarinvest.com, or from the Issuer during normal business hours.
+An issue-related summary of the Bonds is attached to the Final Terms as Annex 1. The present Terms 
+and Conditions constitute Annex 2 to the Final Terms. Together, the Final Terms and the annexes 
+thereto constitute the Final Terms of the Bond.
+1.	
+Issue and Issue Price (Offer Price)
+1.1.	
+Germany SolarINVEST GmbH, Lindenallee 8, D-04158 Leipzig, registered in the Commercial 
+Register of the Local Court of Leipzig (Germany) under registration number HRB 42463 (the 
+“Issuer”), issues in accordance with these Terms and Conditions (the “Terms and Conditions”) 
+the Bonds “[name of the Bonds]” in an aggregate principal amount of up to [currency] [amount] 
+([amount and currency in words]), divided into up to [number] of Bearer Bonds bearing the same 
+fixed rate of interest (the “Bearer Bonds” or the “Bonds” or “Securities”), each in the principal 
+amount of [currency] [principal amount] (in words: [nominal amount and currency]).
+1.2.	
+The initial issue price (issue price) is [currency] [nominal amount] per Bond. A premium will not
+
+--- Page 41 ---
+Germany SolarINVEST GmbH | Base Prospectus
+41
+be charged. The Bearer Bonds shall mature for the first time on [date] (“First Value Date”). After 
+the First Value Date, the Bearer Bonds shall mature on each first or 15th day of each calendar 
+month. The Issuer shall have the right to increase or reduce the aggregate principal amount at 
+any time.
+1.3.	
+The bondholders have no membership rights, in particular no participation, involvement or 
+voting rights in the Company’s Annual General Meeting. In principle, the bondholders are also 
+not entitled to demand from the Issuer at any time to inspect documents, in particular regarding 
+the investments acquired, to be acquired or to be sold by the Issuer.
+1.4.	
+The subscription period shall commence on [date] and end upon full placement, but no later 
+than 12 months after the date of approval of this Prospectus, unless the Issuer terminates the 
+issue earlier. The Issuer is entitled to terminate or extend the offer/subscription period earlier 
+without giving reasons.
+2.	
+Form, Nominal Value, Denomination, Minimum Subscription
+2.1.	
+The Bonds “[name of the Bonds]” have an aggregate principal amount of up to [currency] 
+[aggregate principal amount of the Bond] (the “Aggregate Principal Amount”). The Issuer has 
+the right to increase or decrease the aggregate principal amount at any time. The Bonds shall be 
+divided into up to [number] Bonds.
+2.2.	
+The denomination is [currency] [nominal amount]. The minimum subscription amount is 
+[currency] [minimum subscription amount], i.e. [number] of Bonds with a nominal value of 
+[currency] [nominal amount]. There is no maximum value for the respective subscription.
+2.3.	
+The Bonds are evidenced by individual Bearer Bond certificates. The investor will receive his 
+individual Bearer Bond certificates by mail within 20 banking days at the latest.
+3.	
+Status
+The Bearer Bonds constitute unsecured, direct, unconditional and unsubordinated obligations of 
+the Issuer ranking pari passu among themselves and pari passu with all other present or future 
+unsecured and unsubordinated obligations of the Issuer to the extent such other obligations do 
+not rank senior under applicable mandatory law.
+4.	
+Term
+The term of the Bearer Bonds shall begin on [date] (inclusive) and end on [date] (inclusive). 
+The Bearer Bonds thus have a term of [number] years and [number] months and are due for 
+redemption on [date].
+5.	
+Interest
+5.1.	
+Subject to clause 5.2, the Bearer Bonds shall bear interest from [date] at [interest rate] % p.a. of 
+the relevant nominal amount. The calculation of quarterly interest shall mean the period from 
+the respective value date (inclusive) to the respective next value date (exclusive). If an investor 
+subscribes for Bearer Bonds during the interest period, he shall receive only the interest for the 
+pro rata period for that interest period.
+5.2.	
+Interest shall be paid quarterly in arrears. Interest shall be payable on [interest date], [interest 
+date], [interest date] and [interest date] of each year (interest days). The first Interest Payment 
+Date shall be [date]. Interest shall be paid on or before the 20th day of the month in which it 
+becomes due. If the Bearer Bonds are called prior to such date, interest accrued since the last 
+Interest Payment Date shall be paid at the time of redemption of principal.
+5.3.	
+Interest is calculated on the basis of the interest method in accordance with the ICMA (actual/
+actual) rule. Interest for a period shorter than one quarter is calculated on the basis of the actual 
+number of days in that period divided by the actual number of days in the relevant interest year. 
+This also applies in the case of Bearer Bonds issued after the value date.
+5.4.	
+The Issuer undertakes to pay the principal of and interest on the Bearer Bonds at maturity in 
+[currency] to the respective account notified to the Issuer by the relevant investor. The Issuer
+
+--- Page 42 ---
+42
+Germany SolarINVEST GmbH | Base Prospectus
+will be discharged from its corresponding payment obligation by payments to the bondholders 
+under the Bearer Bonds. A payment under the Bearer Bonds is timely if it has been received in 
+the bank account of the relevant bondholder on the Maturity Date. If a redemption date or other 
+payment date in connection with the Bearer Bonds falls on a day that is not a Banking Day, the 
+bondholders shall not be entitled to payment of principal and interest until the next Banking Day. 
+bondholders shall not have the right to demand further payment of interest or other payments 
+as a result of such delay. “Banking Day” means a day on which banks are generally open for 
+business at the registered office of the Issuer and which is a TARGET 2 Business Day. “TARGET 2 
+Business Day” means a day on which the Trans-European Automated Real-time Gross settlement 
+Express Transfer system - TARGET 2 is in operation.
+5.5.	
+If the Issuer does not redeem the Bearer Bonds at maturity, interest shall not be payable on the 
+day before the maturity of the Bearer Bonds but only on the day before the actual redemption of 
+the Bearer Bonds.
+6.	
+Transferability of the Bearer Bonds
+The Bearer Bonds are transferable by handing over the Bearer Bond certificate to the acquirer. In 
+the event of a transfer of the Bearer Bonds, the respective investor shall inform the Issuer of the 
+transfer, at the same time naming the acquirer (including its account details).
+7.	
+Repayment
+Subject to Clause 9 hereof, the Bearer Bonds shall become due for payment on [date] at the 
+principal amount of the Bearer Bonds plus interest. Repayment shall be made by [date].
+8.	
+Paying Agent
+A paying agent has not been appointed. All payments by the Issuer will be made directly by the 
+Issuer to the respective investor.
+9.	
+Taxes
+All amounts payable on the Bearer Bonds are payable without withholding or deduction of 
+any present or future taxes or other duties of any kind unless such withholding or deduction 
+is required by law. The Issuer is not obligated to fulfill any tax obligations of the bondholders 
+unless such obligation is provided for by law under German law.
+10.	
+Termination of the Bond
+10.1.	 The bondholders have no ordinary right of termination before the end of the term.
+10.2.	 The Issuer has an ordinary right of termination at any time with a notice period of 6 months, in 
+each case as of December 31 of each year. If the Issuer of the Bonds gives notice of termination, 
+such notice shall be given in respect of all outstanding Bearer Bonds, subject to the following 
+provisions. The Issuer is entitled, but not obliged, in justified individual cases to accept notices 
+of termination from bondholders prior to the expiry of the notice-free period and to redeem the 
+respective Bearer Bonds of individual bondholders. The Bearer Bond shall be redeemed at the 
+nominal amount plus accrued pro rata interest up to the date of redemption.
+10.3.	 Each bondholder is entitled to give extraordinary notice of termination of its Bearer Bond and 
+demand its immediate repayment at the nominal amount plus accrued pro rata interest up to 
+the date of repayment if there is good cause. If a bondholder gives notice of termination, such 
+notice shall be given only in respect of the Bearer Bonds held by the respective bondholders; the 
+Bearer Bonds held by other bondholders shall remain unaffected thereby. Good cause shall be 
+deemed to exist in particular if:
+a.	 the Issuer fails to pay principal or interest within 30 days after the respective maturity date;
+b.	 the Issuer breaches any other obligation under the Bearer Bonds or the Terms and Conditions 
+of the Bonds and the breach continues for more than 30 days after receipt of the notice 
+despite a written request to do so;
+c.	 the opening of insolvency proceedings against the assets of the Issuer is applied for and - if 
+the application has been filed by a third party - such application is not withdrawn within 60 
+days or rejected for reasons other than lack of assets to cover costs (or the equivalent in
+
+--- Page 43 ---
+Germany SolarINVEST GmbH | Base Prospectus
+43
+another jurisdiction);
+d.	 the Issuer goes into liquidation, ceases all or most of its business activities or sells or 
+otherwise disposes of substantial parts of its assets.
+10.4.	 The right of termination shall expire if the circumstance giving rise to the right of termination 
+ceases to exist before the right of termination is exercised.
+10.5.	 A termination of the Bearer Bonds by a bondholder must be declared to the Issuer in writing 
+in German or English and with reference to the respective Bearer Bonds held. In addition, 
+each bondholder is obliged to state the reason for termination asserted in each case. Any 
+extraordinary termination by the Issuer must be notified to the respective bondholder by the 
+Issuer in writing.
+11.	
+Limitation Period
+Claims for payment of interest become time-barred after three years from the due date, claims 
+for payment of principal become time-barred after thirty years from the due date.
+12.	
+Stock Exchange Listing
+There is no stock exchange listing or other possibility of systematized trading of the Bearer 
+Bonds.
+13.	
+Issue of further Bearer Bonds, purchase of Bearer Bonds
+13.1.	 The Issuer is entitled at any time, without the consent of the bondholders, to issue further Bearer 
+Bonds with essentially the same features (if applicable, with the exception of the issue date, 
+the interest commencement date and/or the issue price) in such a way that they form a single 
+Bond with the Bearer Bonds. In such case, the aggregate principal amount of the Bonds shall be 
+increased by the principal amount of the newly issued Bearer Bonds and the newly issued Bearer 
+Bonds shall fall within the definition of “Bearer Bonds”. There is no obligation on the part of the 
+Issuer to issue such further series nor any right of the bondholders to subscribe for Bonds from 
+such series.
+13.2.	 The Issuer is also authorized to issue further financial instruments.
+13.3.	 The Issuer has the right to purchase Bearer Bonds in any form and at any price. The Bearer Bonds 
+acquired by the Issuer may be held, resold or cancelled at the Issuer’s option.
+14.	
+Announcements
+All notices to the bondholders concerning Bearer Bonds shall be published on the website of the 
+Issuer (www.germany-solarinvest.com). Such notice shall be deemed to have been effected on 
+the 5th day. In addition, investors will receive an individual notification by letter or e-mail.
+15.	
+Changes to the Terms and Conditions of the Bearer Bond
+15.1.	 The Issuer shall be entitled to amend or supplement in these Terms and Conditions
+(i)	
+obvious printing or calculation errors,
+(ii)	
+other obvious errors or
+(iii)	 contradictory or incomplete provisions
+without the consent of the bondholders, whereby in the cases mentioned under (iii) only such 
+amendments or additions may be made which, taking into account the interests of the Issuer, 
+are reasonable for the bondholders, i.e. which do not or only insignificantly worsen the financial 
+situation of the bondholders.
+15.2.	 The Issuer is entitled to amend the terms and conditions of the Bond at any time without the 
+consent of the bondholders in their favor, in particular to provide additional security or to 
+strengthen creditors’ rights.
+15.3.	 Other amendments to the terms and conditions are permissible. They require the approval of the 
+creditors’ meeting in accordance with the statutory provisions.
+
+--- Page 44 ---
+44
+Germany SolarINVEST GmbH | Base Prospectus
+15.4.	 Any amendments or supplements to these Terms and Conditions shall be published in 
+accordance with Section 13.
+16.	
+Applicable Law, Place of Performance and Jurisdiction
+16.1.	 All legal relationships arising for the acquisition of the Bearer Bonds and/or with these Terms 
+and Conditions of the investors (including any disputes in connection with non-contractual 
+obligations arising out of or in connection with the Bearer Bonds and/or with these Terms and 
+Conditions) shall be governed by German law, to the exclusion of the provisions of private 
+international law to the extent that this would result in the application of foreign law. The place 
+of performance shall be the registered office of the Issuer. In all other respects, the place of 
+jurisdiction for all disputes arising from this Agreement shall be the registered office of the 
+Issuer, to the extent permitted by law.
+16.2.	 Any legal disputes of a consumer arising out of or in connection with the Bonds and/or these 
+Terms and Conditions (including any disputes in connection with non-contractual obligations 
+arising out of or in connection with the Bonds and/or these Terms and Conditions) against the 
+Issuer shall, at the option of the consumer, be subject to the jurisdiction of the court having 
+subject-matter jurisdiction and local jurisdiction at the domicile of the consumer or at the 
+domicile of the Issuer or any other court having jurisdiction on the basis of statutory provisions. 
+The agreement on the place of jurisdiction does not restrict the statutory right of bondholders 
+(in particular consumers) to bring an action before another court with statutory jurisdiction. 
+Similarly, the bringing of actions in one or more jurisdictions does not preclude the bringing of 
+actions in another jurisdiction (whether concurrently or not) if and to the extent permitted by 
+law.
+17.	
+	Severability Clause
+If any provisions of these Terms and Conditions of Bonds are or become invalid or unenforceable 
+in whole or in part, the remaining provisions of these Terms and Conditions of Bonds shall 
+remain in force. Legally invalid or unenforceable provisions shall be replaced in accordance 
+with the spirit and purpose of these Terms and Conditions of Bonds by legally valid and 
+enforceable provisions that come as close as possible in economic terms to the legally invalid or 
+unenforceable provisions, insofar as this is legally possible.
+
+--- Page 45 ---
+Germany SolarINVEST GmbH | Base Prospectus
+45
+VI.	
+Consent of the Issuer to the Use of the Prospectus
+1.	
+Information regarding the consent of the Issuer or the person responsible for drawing up the 
+Prospectus
+1.1.	
+Express Consent and Declaration
+The Issuer grants its consent to the use of this Prospectus for the subsequent resale or final placement 
+of the Bonds during the subscription period to those licensed and supervised financial intermediaries 
+which operate in accordance with the legal requirements of the country in which the Bonds are 
+domiciled or distributed and which it expressly permits to do so in individual cases. The placement of 
+the issue will be carried out by the Issuer itself or by organizations or intermediaries appointed by the 
+Issuer.
+However, the consent expressly does not release from compliance with the selling restrictions 
+applicable to the respective offer and all applicable regulations. A financial intermediary shall not be 
+released from compliance with the statutory provisions applicable to it. The Issuer shall not be liable for 
+any acts or omissions of the financial intermediaries.
+1.2.	
+Indication of the period for which consent to use the Prospectus is given
+The approval is granted for a maximum of the respective duration of the validity of the Prospectus 
+or the issue-related offer period - if this ends earlier - and thus up to a maximum of 12 months after 
+approval of the Prospectus.
+1.3.	
+Indication of the offer period during which the subsequent resale or final placement of the 
+non-equity Securities through financial intermediaries may take place.
+Consent shall be granted for the respective period of validity of the Prospectus. The offer period during 
+which the final placement of the Bonds may take place will be specified in the Final Terms. Consent shall 
+further be granted only for the duration of the offer period, thus for a maximum of 12 months after 
+approval of the Prospectus. The consent does not release from compliance with the selling restrictions 
+applicable to the respective offer and all applicable regulations.
+Beyond this, consent is not subject to any other conditions, but may be revoked or limited at any time.
+1.4.	
+Indication of the Member States in which the financial intermediaries may use the 
+Prospectus for a subsequent resale or final placement of the non-equity Securities
+The Issuer’s consent to the use of the Prospectus by financial intermediaries is limited to Austria, 
+Germany, France, Belgium, Italy, Estonia, Latvia, Lithuania, Hungary, Luxembourg, Netherlands, Finland 
+and Sweden.
+Following appropriate notification of the Prospectus, the Issuer is also free to offer the Bonds to the 
+public in further EEA member states. The Issuer declares that it accepts liability for the content of the 
+Prospectus even in the event of a subsequent resale or final placement of non-equity Securities by 
+financial intermediaries who have received consent to use the Prospectus.
+Pursuant to Art. 54 para. 2 of the Federal Financial Services Act (FIDLEG) in conjunction with Art. 70 
+para. 2 of the Swiss Financial Services Ordinance (FinSO), the Prospectus Review Board may provide 
+that prospectuses approved in certain foreign jurisdictions are also deemed approved in Switzerland. 
+The review bodies in Switzerland have recognized Austria and the Financial Market Authority of Austria. 
+Accordingly, the Prospectus is deemed approved in Switzerland.
+1.5.	
+Any other conditions to which the consent is bound
+Furthermore, the Issuer’s consent is not subject to any other conditions, but may be revoked or limited 
+at any time.
+
+--- Page 46 ---
+46
+Germany SolarINVEST GmbH | Base Prospectus
+1.6.	
+Notice to investors that in the event that a financial intermediary makes an offer to them, 
+they must inform you of the terms and conditions of the offer at the time of submission.
+A financial intermediary must provide potential investors with information on the terms and conditions 
+of the Bonds at the time of the offering. Furthermore, this Prospectus may only be provided to 
+potential investors together with any supplements. Financial intermediaries must provide investors with 
+comprehensive information on the terms and conditions of the offer at the time the offer is made. The 
+Issuer shall not be liable for any acts or omissions of the financial intermediaries.
+2.	
+Additional Information
+2.1.	
+Note for Investors
+Investors are expressly informed that any financial intermediary using this Prospectus must indicate on 
+its website that it is using the Prospectus with consent and in accordance with the conditions to which 
+such consent is bound.
+
+--- Page 47 ---
+Germany SolarINVEST GmbH | Base Prospectus
+47
+VII.	
+Documents Incorporated by Reference
+This Prospectus incorporates by reference the information contained in the following table (together 
+with an indication of the document and the relevant pages of the document in which the information 
+referred to is to be found). The referenced documents are available on the Issuer’s website, www.
+germany-solarinvest.com, and may be inspected at the Issuer’s office during business hours. 
+Specifically, these are the following documents:
+Documents
+Reference on the following pages
+Commercial register excerpt of Germany SolarINVEST GmbH
+page 48-49
+Opening balance sheet of Germany SolarINVEST 
+GmbH, as of January 17, 2024
+page 50-51
+Audit report on the opening balance 
+sheet as of January 17, 2024
+page 52-53
+Audited interim financial statement as of February 29, 2024
+page 54-63
+Information not expressly set forth in the above table is not incorporated by reference in this Prospectus 
+and does not form an integral part of this Prospectus. Such unquoted information is provided for 
+informational purposes only.
+signed Hardy Chandra Pönisch
+Hardy Chandra Pönisch
+Managing Director of Germany SolarINVEST GmbH
+
+--- Page 48 ---
+48
+Germany SolarINVEST GmbH | Base Prospectus
+1.	
+Commercial register excerpt of Germany SolarINVEST GmbH
+Handelsregister B des
+Amtsgerichts Leipzig
+Abteilung B
+Wiedergabe des aktuellen
+Registerinhalts
+Nummer der Firma:
+HRB 42463
+Seite 1 von 2
+1.
+Anzahl der bisherigen Eintragungen:
+1
+2.
+a) Firma:
+Germany SolarINVEST GmbH
+b) Sitz, Niederlassung, inländische Geschäftsanschrift, empfangsberechtigte Person, Zweigniederlassungen:
+Leipzig
+Geschäftsanschrift: Lindenallee 8, 04158 Leipzig
+c) Gegenstand des Unternehmens:
+Die Planung, Entwicklung, Finanzierung und Vermarktung von Projekten aus dem Bereich der erneuerbaren Energien
+einschließlich des Kaufs und Verkaufs, der Pacht und Verpachtung von Grundstücken, der Errichtung, des Erwerbs, der
+Sanierung, der Veräußerung sowie der An- und Vermietung von Gebäuden, der Finanzierung, Errichtung und Beteiligung
+an sowie Betrieb von Anlagen aus dem Bereich der erneuerbaren Energien, des Ankaufs, der Veräußerung, der An- und
+Vermietung und Verpachtung technischer Komponenten zum Betrieb von Anlagen im Bereich der erneuerbaren Energien
+sowie jedwede Form der Nutzung und Veräußerung hieraus erzeugter erneuerbarer Energien
+3.
+Grund- oder Stammkapital:
+25.000,00 EUR
+4.
+a) Allgemeine Vertretungsregelung:
+Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die
+Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten.
+b) Vorstand, Leitungsorgan, geschäftsführende Direktoren, persönlich haftende Gesellschafter, Geschäftsführer,
+Vertretungsberechtigte und besondere Vertretungsbefugnis:
+Einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter
+eines Dritten Rechtsgeschäfte abzuschließen:
+Geschäftsführer: Pönisch, Chandra Hardy, Leipzig, *07.11.1964
+5.
+Prokura:
+---
+6.
+a) Rechtsform, Beginn, Satzung oder Gesellschaftsvertrag:
+Gesellschaft mit beschränkter Haftung
+Gesellschaftsvertrag vom 17.01.2024
+b) Sonstige Rechtsverhältnisse:
+Abruf vom 07.02.2024 11:19
+
+--- Page 49 ---
+Germany SolarINVEST GmbH | Base Prospectus
+49
+Handelsregister B des
+Amtsgerichts Leipzig
+Abteilung B
+Wiedergabe des aktuellen
+Registerinhalts
+Nummer der Firma:
+HRB 42463
+Seite 2 von 2
+---
+7.
+a) Tag der letzten Eintragung:
+06.02.2024
+Abruf vom 07.02.2024 11:19
+
+--- Page 50 ---
+50
+Germany SolarINVEST GmbH | Base Prospectus
+2.	
+Opening balance sheet of Germany SolarINVEST GmbH as of January 17, 2024
+Digitales Exemplar vom Wirtschaftsprüfer
+
+--- Page 51 ---
+Germany SolarINVEST GmbH | Base Prospectus
+51
+Digitales Exemplar vom Wirtschaftsprüfer
+
+--- Page 52 ---
+52
+Germany SolarINVEST GmbH | Base Prospectus
+3.	
+Audit report on the opening balance sheet as of January 17, 2024
+Digitales Exemplar vom Wirtschaftsprüfer
+
+--- Page 53 ---
+Germany SolarINVEST GmbH | Base Prospectus
+53
+Digitales Exemplar vom Wirtschaftsprüfer
+
+--- Page 54 ---
+54
+Germany SolarINVEST GmbH | Base Prospectus
+4.	
+Audited Interim Financial Statement as of February 29, 2024
+
+--- Page 55 ---
+Germany SolarINVEST GmbH | Base Prospectus
+55
+
+--- Page 56 ---
+56
+Germany SolarINVEST GmbH | Base Prospectus
+
+--- Page 57 ---
+Germany SolarINVEST GmbH | Base Prospectus
+57
+
+--- Page 58 ---
+58
+Germany SolarINVEST GmbH | Base Prospectus
+
+--- Page 59 ---
+Germany SolarINVEST GmbH | Base Prospectus
+59
+
+--- Page 60 ---
+60
+Germany SolarINVEST GmbH | Base Prospectus
+
+--- Page 61 ---
+Germany SolarINVEST GmbH | Base Prospectus
+61
+
+--- Page 62 ---
+62
+Germany SolarINVEST GmbH | Base Prospectus
+
+--- Page 63 ---
+Germany SolarINVEST GmbH | Base Prospectus
+63
+
+--- Page 64 ---
+64
+Germany SolarINVEST GmbH | Base Prospectus
+GLOSSARY
+Actual/Actual - ICMA
+Interest calculation method: Interest is calculated on the basis of the days elapsed 
+in an interest period and the actual number of days in a year in accordance with 
+the provisions of ICMA Rule 251 (Actual/Actual).
+Auditor
+Those natural or legal persons who audit the annual financial statements of a 
+company with regard to the formal correctness of the accounting and the factual 
+accuracy and completeness of the annual reports. In Germany: auditors.
+Banking Day
+Any day, other than Saturdays, but not Saturdays or public holidays, on which 
+German banks process payment transactions.
+Bond
+Non-equity securities
+Bondholders
+See "Investor“
+Going Concern Forecast
+A forecast with regard to the Company's solvency, showing whether the Company 
+will be able to meet its payment obligations due in the current and following 
+financial year or whether insolvency is imminent. In the event of a negative going 
+concern forecast, insolvency proceedings must be opened against the company.
+Debt Financing
+Raising debt capital, by taking out a loan from a bank or a third party or by 
+issuing bonds.
+Delegated Regulation (EU) 2019/979
+Commission Delegated Regulation (EU) 2019/979 of March 14, 2019 
+supplementing Regulation (EU) 2017/1129 of the European Parliament and 
+of the Council with regulatory technical standards on key financial information 
+contained in the summary prospectus, the publication and classification of 
+prospectuses, the advertising of securities, supplements to the prospectus and 
+the notification portal, and repealing Commission Delegated Regulation (EU) No 
+382/2014 and Commission Delegated Regulation (EU) 2016/301.
+Delegated Regulation (EU) 2019/980
+Commission Delegated Regulation (EU) 2019/980 of March 14, 2019 
+supplementing Regulation (EU) 2017/1129 of the European Parliament and of 
+the Council as regards the presentation, content, scrutiny and approval of the 
+prospectus to be published when securities are offered to the public or admitted 
+to trading on a regulated market and repealing Commission Regulation (EC) 
+809/2004.
+End of Term
+The calendar day specified in the Final Terms, which is the last day on which 
+interest is payable on the Bonds.
+EU Prospectus Regulation
+Regulation (EU) 2017/1129 of the European Parliament and of the Council of June 
+14, 2017 on the prospectus to be published when securities are offered to the 
+public or admitted to trading on a regulated market and repealing Directive (EC) 
+2003/71.
+FIDLEG
+Swiss Federal Law on Financial Services (Financial Services Act); The FIDLEG 
+applies to all professional financial service providers, including banks, creators 
+and providers of financial instruments in Switzerland.
+FinSO
+Swiss Financial Services Ordinance; This Ordinance applies to persons who 
+provide financial services on a professional basis in Switzerland or for clients in 
+Switzerland.
+Final Terms
+The condition sheet completed for the respective Bond, including its annexes.
+FMA
+Austrian Financial Market Authority, Otto-Wagner-Platz 5, 1090 Vienna, Austria
+Insolvency
+The situation of a debtor who can no longer meet his payment obligations to his 
+creditor. Insolvency is therefore characterized by an acute or imminent inability 
+to pay.
+Issuer
+Germany SolarINVEST GmbH, Lindenallee 8, 04158 Leipzig (Germany) entered in 
+the Commercial Register at Leipzig District Court under registration number HRB 
+42463
+Investor
+The holders of the Bonds in question; persons who hold the Bonds in their own 
+name and for their own account.
+ISIN
+International numbering system for securities identification (International 
+Securities Identification Number).
+LEI
+Globally unique identifier for legal entities in the financial market (Legal Entity 
+Identifier).
+
+--- Page 65 ---
+Germany SolarINVEST GmbH | Base Prospectus
+65
+Liquidation
+The aim of a liquidation is the termination of a company. This is usually done by 
+selling all assets, settling all liabilities and distributing the remaining funds to the 
+shareholders.
+Maturity Date
+The date on which the Issuer must redeem the Bonds at 100% of the nominal 
+amount, insofar as the Bonds have not previously been redeemed in whole or in 
+part.
+MWh
+The megawatt hour is an extended unit of measurement for energy, abbreviated 
+MWh, often used in industry or other areas where large amounts of electrical 
+power are quantified. 1 MWh is equal to 1,000 kWh
+Nominal Amount
+Amount that the Issuer must repay to the security holder on the maturity date.
+Photovoltaic System
+A photovoltaic system converts sunlight into electricity using solar cells. A system 
+consists of the solar cells, inverters, a bidirectional meter to record the amount of 
+electricity going in and out, and a substructure for mounting the solar cells on a 
+roof or even on an open area.
+Politically Exposed Person
+A person to be classified as a politically exposed person (PEP) under each 
+applicable anti-money laundering and anti-terrorist financing regulation.
+Prospectus
+This Base Prospectus, including any supplements thereto, including the 
+documents incorporated by reference and attached as annexes hereto.
+Semi-Blind Pool
+At the time of the preparation of the prospectus, there is only one concrete 
+project of the Issuer. For further projects, only the asset class has been 
+determined so far, but not the concrete object of investment. This is a so-called 
+"semi-blind pool" Therefore, in particular the type, the nature and the concrete 
+value development possibilities of investment objects, which play a major role for 
+an investment decision, are not transparent.
+Start of Term
+The calendar day specified in the Final Terms.
+U.S. Person
+Persons who are deemed to be U.S. persons under Regulation S under the U.S. 
+Securities Act and who are therefore not permitted to acquire or hold the Bonds 
+in question and persons who are subject to U.S. tax.
+U.S. Securities Act
+United States Securities Act of 1933, as amended.
+
+--- Page 66 ---
+Germany SolarINVEST GmbH
+Lindenallee 8
+D-04158 Leipzig
+Germany
+Tel: +49 341 2252541
+info@germany-solarinvest.com
+www.germany-solarinvest.com
+
+--- Page 67 ---
+Signaturwert
+Ul1x/m3h1BCrjomgzRng/kue4ajscGJrWnbOpMTvqB6kOzsCG95MAzpLochBQ2yw9sK8iaG+EFOGAPOJnQUG
+sqbiM7FHK4/8d2NfQzgOczmvZqDqpBZMmAi1w7wz/2pv1C37IPjq0OqjSU8Z6VIatsGtzcXm9Rvzs1RJ24PQ
+5Hus1CZUzfJjpf3t19mwc5/hQfsHmX25DuIaYl3gGO/IDkwsKo1sXDm7qJIteJyL1urq9eHC3JqP8QJxU/vr
+G9Ni7VkZgJ8TgvsfSMerajFkGfsUsnUHhHFYfsSY7co+6w7Ffo7J+Lee4kZ7/zaCadzFLGI3MG1p6ehAWwfA
+M87zUQ==                                                                            
+                                                                                    
+                                                                                    
+  
+Unterzeichner
+Österreichische Finanzmarktaufsichtsbehörde                        
+                                                             
+Datum/Zeit-UTC
+2024-04-23T06:44:34Z                                               
+   
+Aussteller-Zertifikat
+CN=a-sign-corporate-07,OU=a-sign-corporate-07,O=A-Trust Ges. f.    
+Sicherheitssysteme im elektr. Datenverkehr GmbH,C=AT               
+                
+Serien-Nr.
+676111463                                                          
+   
+Methode
+urn:pdfsigfilter:bka.gv.at:binaer:v1.1.0
+Prüfinformation
+Informationen zur Prüfung des elektronischen Siegels bzw. der elektronischen
+Signatur finden Sie unter: https://www.signaturpruefung.gv.at 
+Informationen zur Prüfung des Ausdrucks finden Sie unter:
+https://www.fma.gv.at/amtssignatur 
+Hinweis
+Dieses Dokument wurde amtssigniert. Auch ein Ausdruck dieses Dokuments hat gemäß §
+20 E-Government-Gesetz die Beweiskraft einer öffentlichen Urkunde.

@@ -1,0 +1,2671 @@
+--- Page 1 ---
+This base prospectus was approved by the Swedish Financial Supervisory Authority on 13 June 2024 and is valid 
+for twelve months after the date of the approval provided that this base prospectus is supplemented in accordance 
+with Article 23 of Regulation (EU) 2017/1129. The obligation to supplement this base prospectus in the event of 
+significant new factors, material mistakes or material inaccuracies does not apply when the base prospectus in no 
+longer valid. 
+ 
+ 
+ 
+DANSKE HYPOTEK AB (publ) 
+ 
+PROGRAMME FOR CONTINUOUS ISSUANCE OF SWEDISH COVERED BONDS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Arranger 
+Danske Bank A/S, Danmark, Sverige Filial 
+ 
+Dealers 
+Danske Bank A/S, Danmark, Sverige Filial, Nordea Bank Abp, Skandinaviska Enskilda 
+Banken AB (publ), Svenska Handelsbanken AB (publ), Swedbank AB (publ)
+
+--- Page 2 ---
+2(51) 
+ 
+Important information 
+Definitions and references 
+In this base prospectus (the “Prospectus”), the “Issuer” means Danske Hypotek AB (publ) and the “Parent” means Danske Bank A/S. The “Group” means the Parent with all its 
+subsidiaries from time to time (each a “Group company”). The “Swedish Branch” means Danske Bank A/S, Danmark, Sverige Filial, with registration number 516401-9811. 
+The “Arranger” means Danske Bank A/S, Danmark, Sverige Filial. 
+“Euroclear Sweden” refers to Euroclear Sweden AB. “Nasdaq Stockholm” refers to the regulated market of Nasdaq Stockholm AB. “SEK” refers to Swedish kronor, “EUR” 
+refers to Euro. “Cover Pool”, “Non-Primary Assets” and “Public Credits” have the meaning as set out in the section “Summary of the Swedish Covered Bond Legislation”. The 
+“Issuer Cover Pool” means the Issuer’s Cover Pool from time to time.  
+This Prospectus shall be read in conjunction with any documents incorporated by reference (see the section “Legal Considerations and Supplementary Information” and its sub-
+section “Documents incorporated by reference”), the Final Terms for each Covered Bond Loan (as defined below) and any supplements to this Prospectus. 
+Words and expressions defined in the General Terms and Conditions for Covered Bond Loans (the “General Terms and Conditions”) have the same meanings when used in the 
+Prospectus, unless expressly stated or otherwise follows from the context. 
+Background 
+The Issuer has in accordance with this Prospectus and the programme herein for continuous issuance of Swedish covered bonds (svenska säkerställda obligationer) (the 
+“Programme”), resolved to continuously issue covered bond loans (säkerställda obligationslån) (the “Covered Bond Loans” or, when referred to individually a “Covered Bond 
+Loan”) in SEK or EUR in accordance with the Swedish Issuance of Covered Bonds Act (Lag (2003:1223) om utgivning av säkerställda obligationer) (the “Covered Bonds Act”) 
+(the “Covered Bonds” or, when referred to individually, a “Covered Bond”).  
+The Issuer obtained a licence by the Swedish Financial Supervisory Authority (Finansinspektionen) (the “SFSA”) on 26 June 2017 to conduct financing operations under the 
+Swedish Banking and Financing Business Act (Lag (2004:297) om bank- och finansieringsrörelse) (the “Banking and Financing Business Act”) and to issue covered bonds in 
+accordance with the Covered Bonds Act. Decisions to raise Covered Bond Loans are made by persons who are authorised by the board of directors, or such person(s) authorised 
+by them, to sign for the Issuer. The loan amount under each Covered Bond Loan is determined once the sale of such Covered Bond Loan has been closed, i.e. on the relevant 
+maturity date of each Covered Bond Loan. The minimum Nominal Amount for each Covered Bond will be EUR 100,000 or the corresponding amount in SEK. 
+This Prospectus has been approved and registered by the SFSA pursuant to the provisions of Article 20 in Regulation (EU) 2017/1129 of the European Parliament and of the 
+Council of 14 June 2017 (the “Prospectus Regulation”). Approval and registration by the SFSA do not imply that the SFSA guarantees that the information provided in the 
+Prospectus is correct and complete. This Prospectus is a base prospectus in accordance with Article 8 of the Prospectus Regulation. 
+This Prospectus is not a recommendation to subscribe for or to acquire Covered Bonds issued under the Programme. Any recipients of this Prospectus and/or any Final Terms, 
+must make their own assessment of the Issuer and the Covered Bonds based on this Prospectus, the documents incorporated by reference (see the section “Legal Considerations 
+and Supplementary Information” and its sub-section “Documents incorporated by reference”), the Final Terms of each Covered Bond Loan and any supplements to this Prospectus. 
+Restrictions 
+This Prospectus may not be distributed in any jurisdiction where such distribution would require any additional prospectus, registration or measures other than those required under 
+Swedish law, or otherwise would conflict with regulations in such jurisdiction. Persons into whose possession this Prospectus may come are required to inform themselves about, 
+and comply with such restrictions. Any failure to comply with such restrictions may result in a violation of applicable securities regulations. Subject to certain exemptions, the 
+Covered Bonds may not be offered, sold or delivered within the United States or to, or for the account or benefit of, U.S. persons. The Covered Bonds have not been, and will not 
+be, registered under the United States Securities Act of 1933 (the “Securities Act”) or the securities laws of any state or other jurisdiction outside Sweden. 
+No person has been authorised to provide any information or make any statements other than those contained in this Prospectus. Should such information or statements nevertheless 
+be furnished, it/they must not be relied upon as having been authorised or approved by the Issuer and the Issuer assumes no responsibility for such information or statements. 
+Neither the publication of this Prospectus nor the offering, sale or delivery of any Covered Bonds implies that the information in this Prospectus is correct and current as at any 
+date other than the date of this Prospectus or that there have not been any changes in the Issuer’s or the Group’s business since the date of this Prospectus. If the information in this 
+Prospectus becomes subject to any material change, such material change will be made public in accordance with the provisions governing the publication of supplements to 
+prospectuses in the Prospectus Regulation. 
+MiFID II Product Governance 
+In respect of each issue of Covered Bonds, each Issuing House (as defined in the General Terms and Conditions) will undertake a target market assessment in respect of such 
+Covered Bonds and determine the appropriate channels for distribution for such Covered Bonds. Any person subsequently offering, selling or recommending such Covered Bonds 
+(a “distributor”) should take into consideration the target market assessment. However, a distributor subject to Directive 2014/65/EU (as amended, “MiFID II”) is responsible 
+for undertaking its own target market assessment in respect of such Covered Bonds (either by adopting or refining the target market assessment) and determining the appropriate 
+distribution channels. For the purpose of the MiFID Product Governance rules under EU Delegated Directive 2017/593 (the “MiFID Product Governance Rules”), a determination 
+will be made in relation to each issue as to whether any Issuing House participating in the issue of Covered Bonds is a manufacturer in respect of such Covered Bonds. Neither the 
+Arranger nor the Dealers nor any of their respective affiliates that do not participate in an issue will be a manufacturer for the purpose of the MiFID Product Governance Rules. 
+Forward-looking statements and market data 
+The Prospectus contains certain forward-looking statements that reflect the Issuer’s current views or expectations with respect to future events and financial and operational 
+performance. The words “intend”, “estimate”, “expect”, “may”, “plan”, “anticipate” or similar expressions regarding indications or forecasts of future developments or trends, 
+which are not statements based on historical facts, constitute forward-looking information. Although the Issuer believes that these statements are based on reasonable assumptions 
+and expectations, the Issuer cannot give any assurances that such statements will materialise. Because these forward-looking statements involve known and unknown risks and 
+uncertainties, the outcome could differ materially from those set out in the forward-looking statement. 
+Factors that could cause the Issuer’s and the Group’s actual operations, result or performance to differ from the forward-looking statements include, but are not limited to, those 
+described in the section “Risk Factors”. The forward-looking statements included in this Prospectus apply only as of the date of the Prospectus. The Issuer undertakes no obligation 
+to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, other than as required by law. Any subsequent 
+forward-looking information that can be ascribed to the Issuer and/or the Group or persons acting on behalf of the Issuer is subject to the reservations in or referred to in this 
+section. 
+The Prospectus contains market data and industry forecasts, including information related to the sizes of the markets in which the Group operates. The information has been 
+extracted from a number of sources. Although the Issuer regards these sources as reliable, the information contained in them has not been independently verified and therefore it 
+cannot be guaranteed that this information is accurate and complete. However, as far as the Issuer is aware and can assure by comparison with other information made public by 
+these sources, no information has been omitted in such a way as to render the information reproduced incorrect or misleading. In addition to the above, certain data in the Prospectus 
+is also derived from estimates made by the Issuer. 
+General information 
+The issue price of the Covered Bonds issued under each Covered Bond Loan is presently unknown. The price for the Covered Bonds is variable and depends, among other things, 
+on the effective market interest rate for investments with a corresponding duration and coupon. 
+Each Covered Bond will be registered in the account based system of Euroclear Sweden or of any other clearing organisation. Bearer notes representing Covered Bonds will 
+therefore not be issued. Euroclear Sweden deducts for preliminary withholding-tax, presently at 30 per cent., on interest paid to private individuals residing in Sweden and to 
+Swedish estates of inheritance. This Prospectus does not purport to give an exhaustive description of all tax consequences from an investment in Covered Bonds and any tax 
+consequences are subject to changes in laws and regulations. Each potential investor should therefore consult a tax adviser before investing in Covered Bonds. 
+For further information regarding this Prospectus reference is made to Issuer. The Prospectus is available via www . danskehypotek.se. A copy of this Prospectus will be made 
+available by the Issuer upon request during the term of the Prospectus. 
+This Prospectus is governed by Swedish law. The courts of Sweden have exclusive jurisdiction to settle any dispute arising out of or in connection with this Prospectus.
+
+--- Page 3 ---
+3(51) 
+ 
+TABLE OF CONTENTS  
+GENERAL DESCRIPTION OF THE PROGRAMME AND METHOD OF ISSUANCE ....................... 5 
+Description of the Programme ........................................................................................................ 5 
+Method of issuance ......................................................................................................................... 6 
+Credit rating .................................................................................................................................... 7 
+Use of proceeds .............................................................................................................................. 7 
+RISK FACTORS ....................................................................................................................................... 8 
+Risks relating to the mortgage loan business and the relevant real estate market and economy .... 8 
+Risks relating to the Issuer and the Group ...................................................................................... 8 
+Legal and regulatory risks............................................................................................................. 11 
+Risks related with Covered Bonds issued under the Programme.................................................. 15 
+GENERAL TERMS AND CONDITIONS FOR COVERED BOND LOANS ....................................... 19 
+FORM OF FINAL TERMS ..................................................................................................................... 33 
+DESCRIPTION OF THE ISSUER .......................................................................................................... 37 
+Introduction .................................................................................................................................. 37 
+Relevant legislation and supervision ............................................................................................ 37 
+Principal activity ........................................................................................................................... 37 
+Business strategy and funding structure ....................................................................................... 38 
+Principal shareholder .................................................................................................................... 38 
+Dependency on the Parent ............................................................................................................ 39 
+Board of Directors ........................................................................................................................ 39 
+Senior Management ...................................................................................................................... 39 
+Business address ........................................................................................................................... 40 
+Auditors ........................................................................................................................................ 40 
+Conflicts of interest....................................................................................................................... 40 
+DESCRIPTION OF THE GROUP  ......................................................................................................... 41 
+Litigations ..................................................................................................................................... 41 
+SUMMARY OF THE SWEDISH COVERED BOND LEGISLATION ................................................ 42 
+Introduction .................................................................................................................................. 42 
+Swedish implementation of the EU covered bond legislation ...................................................... 42 
+Registration ................................................................................................................................... 42 
+Eligible assets in the Cover Pool .................................................................................................. 43 
+Loan-to-value ratios and certain other restrictions ....................................................................... 43 
+Matching requirements ................................................................................................................. 44 
+Liquidity buffer ............................................................................................................................. 44 
+Maturity extensions ...................................................................................................................... 44 
+Supervision by the SFSA and the independent inspector ............................................................. 45 
+Information, monitoring and supervision ..................................................................................... 45 
+Benefit of a priority right in the Cover Pool ................................................................................. 46
+
+--- Page 4 ---
+4(51) 
+ 
+Administration of the Cover Pool in the event of bankruptcy ...................................................... 46 
+Label ............................................................................................................................................. 47 
+LEGAL CONSIDERATIONS AND SUPPLEMENTARY INFORMATION ........................................ 48 
+Information about the Prospectus ................................................................................................. 48 
+Authorisations and responsibility ................................................................................................. 48 
+Material contracts ......................................................................................................................... 48 
+Legal Proceedings ......................................................................................................................... 48 
+Trend information ......................................................................................................................... 49 
+Significant Changes since 31 December 2023 .............................................................................. 49 
+Documents incorporated by reference .......................................................................................... 49 
+Documents on display ................................................................................................................... 49 
+ADDRESSES ........................................................................................................................................... 51 
+The Issuer ..................................................................................................................................... 51 
+Arranger ........................................................................................................................................ 51 
+Dealers .......................................................................................................................................... 51 
+Legal Adviser to the Issuer ........................................................................................................... 51 
+Auditor to the Issuer ..................................................................................................................... 51 
+Account Operator.......................................................................................................................... 51
+
+--- Page 5 ---
+5(51) 
+ 
+GENERAL DESCRIPTION OF THE PROGRAMME AND METHOD OF ISSUANCE 
+Description of the Programme 
+Introduction 
+Under the Programme, the Issuer may continuously issue Covered Bond Loans in SEK or EUR with 
+different maturities and with a fixed or a floating rate interest. The minimum Nominal Amount for each Covered 
+Bond will be EUR 100,000 or the corresponding amount in SEK. The Programme is the Issuer’s main funding 
+source and is primarily aimed for investors in the Nordic capital markets. 
+The complete terms and conditions for a Covered Bond Loan will consist of the General Terms and 
+Conditions and the relevant Final Terms (prepared for each Covered Bond Loan) (see the sections “General Terms 
+and Conditions for Covered Bond Loans” and “Form of Final Terms”). Each Covered Bond Loan will be governed 
+by Swedish law. 
+Status 
+Covered Bond Loans constitute covered bonds under the Covered Bonds Act and the Rights of Priority 
+Act (see the section “Summary of the Swedish Covered Bond Legislation”). The assets comprising the Issuer Cover 
+Pool will change from time to time. The Issuer will make portfolio information available to investors on a quarterly 
+basis. Such information will be available on the Issuer’s website at www . danskehypotek.se. 
+Label 
+Swedish covered bond (Sw. svensk säkerställd obligation). A covered bond that is qualified for the label 
+“Swedish covered bond” also qualifies to be labelled “europeisk säkerställd obligation (premium)” 
+(Eng. European Covered Bond (premium)) and corresponding foreign official labels within the EEA. 
+Clearing 
+Covered Bonds are unilateral dematerialised promissory notes, which are issued for public trading and 
+which are freely transferable. Covered Bond Loans will be registered with Euroclear Sweden and its online 
+account-based system (the VPC system) and, thus, no physical securities will be issued. Clearing and settlement, 
+as well as payment of interest and redemption of principal amounts, will take place in the VPC system and is 
+reliant on the functioning of such system. 
+Listing 
+If listing is specified in the relevant Final Terms, the Issuer shall apply to list the Covered Bond Loan at 
+the specified listing venue. 
+Extended maturity 
+The applicable Final Terms may provide that an Extended Maturity Date may apply to a Loan. For such 
+Loan, the Maturity Date may be extended to the Extended Maturity Date, in each case, subject to such extension 
+being permitted by the SFSA as a result of (i) the SFSA deeming it likely that the extension will prevent insolvency 
+(Sw. obestånd (insolvens)) of the Issuer or otherwise as a result of a trigger of the maturity event(s) stipulated in 
+the Covered Bonds Act or any other legislation that implements Article 17.1 (a) of the Covered Bond Directive 
+and (ii) the Final Terms specifies the date being the Extended Maturity Date. An extension of the maturity will not 
+be affected by the insolvency or resolution of the Issuer. 
+Furthermore, an extension of the maturity will not result in any right of the Bondholders to accelerate 
+payments or take action against the Issuer and no payment will be payable to the Bondholders in that event other 
+than as set out in the General Terms and Conditions. 
+Bondholders’ meeting 
+The General Terms and Conditions include certain provisions regarding a Bondholders’ meeting, which 
+may be held in order to resolve on matters relating to Bondholders’ interests. Such provisions allow for designated 
+majorities to bind all Bondholders, including Bondholders who have not participated in or voted at the actual 
+meeting or who have voted differently than the required majority, to decisions that have been taken at a duly 
+convened and conducted Bondholders’ meeting. See also the risk factor “Majority decisions by Bondholders” 
+below.
+
+--- Page 6 ---
+6(51) 
+ 
+Method of issuance 
+The role of the Dealers 
+The Issuer will not normally manage the selling of Covered Bonds itself, but will normally sell its issued 
+bonds via the appointed Dealers.  
+The Issuer has appointed Danske Bank A/S, Danmark, Sverige Filial, Nordea Bank Abp, Skandinaviska 
+Enskilda Banken AB (publ), Svenska Handelsbanken AB (publ) and Swedbank AB (publ) as Dealers 
+(emissionsinstitut) under the Programme. Additional Dealers may be appointed and a Dealer may withdraw from 
+its appointment. 
+The Dealers have, by arrangements with the Issuer, made certain commitments to the Issuer including, 
+inter alia, to (subject to certain conditions) offer Covered Bond Loans in the capital market and promote trading 
+of Covered Bonds in the secondary market. The Dealers will, subject to certain conditions, post rates of trade with 
+respect to all or some Covered Bond Loans. 
+Pricing 
+Since Covered Bonds under a Covered Bond Loan may be issued continuously for an extended period, it 
+is not possible to set one market price for all Covered Bonds. The price is determined for each transaction by 
+agreement between the buyer and the seller.  
+Interest 
+The interest applicable to a Covered Bond Loan depends on several factors, one of which is the interest 
+applicable to other investments with a corresponding term. Interest may be set at a floating interest rate based on 
+EURIBOR or STIBOR (or any reference rate replacing STIBOR or EURIBOR in accordance with section 6 
+(Replacement of Base Rate) of the General Terms and Conditions), plus a margin, or at a fixed interest rate. The 
+interest structure applicable to a specific Covered Bond Loan will be stated in the Final Terms. 
+European Benchmark Regulation 
+The benchmarks EURIBOR and STIBOR are provided by the European Money Market Institute 
+(EURIBOR) and the Swedish Financial Benchmark Facility (STIBOR). The Swedish Financial Benchmark 
+Facility was registered on 21 April 2023 as an administrator in the register provided by the European Securities 
+and Markets Authority (“ESMA”) pursuant to Article 36 of Regulation (EU) 2016/1011 on indices used as 
+benchmarks in financial instruments and financial contracts or to measure the performance of investment funds 
+(the “Benchmarks Regulation”). The European Money Market Institute was registered on 2 July 2019.  
+Tap issues, determination of loan amount and repurchases 
+The Nominal Amount for each Covered Bond will be specified in the relevant Final Terms. The Total 
+Nominal Amount for all Covered Bonds under a Covered Bond Loan will be determined when the sale of the 
+Covered Bonds has been completed. Such sale may be carried out up until the Maturity Date of the Covered Bond 
+Loan. 
+During the term of a Covered Bond Loan, the Issuer may continuously issue Covered Bonds (“Tap 
+Issuance”). Covered Bonds issued under Tap Issuance are in every respect equal to Covered Bonds already issued 
+under the relevant Covered Bond Loan (except as regards the issue price). Consequently, a Bondholder will on the 
+following Interest Payment Date have the same right to payment of interest as the other Bondholders in the relevant 
+Covered Bonds. Final Terms will be separately prepared on a weekly basis (total volume for the whole week) in 
+connection with Tap Issuance made after the Issue Date for the Covered Bond Loan. The fact that a Covered Bond 
+may be outstanding only for part of an interest period is reflected in the issue price. 
+Tap Issuance is normally made only via the Dealers which thereby price the newly issued Covered Bonds 
+based on at the time existing levels in the secondary market.  
+Repurchases 
+The Issuer may repurchase Covered Bonds at any time and at any price in the open market or otherwise 
+provided that this is compatible with applicable law. Covered Bonds owned by the Issuer may be retained, resold 
+or cancelled at the Issuer’s discretion.
+
+--- Page 7 ---
+7(51) 
+ 
+Credit rating 
+The Programme has been rated AAA by Standard & Poor’s Global Ratings Europe Limited (“S&P”). 
+The Covered Bonds issued under the Programme has been rated AAA by Nordic Credit Rating AS (“NCR”). 
+S&P and NCR are both established in the European Union and registered under Regulation (EC) No. 
+1060/2009 (as amended) (the “CRA Regulation”). A credit rating is not a recommendation to buy, sell or hold 
+securities and may be subject to suspension, change or withdrawal at any time by the assigning credit rating agency. 
+Credit ratings are a way of evaluating credit risk. However, the credit ratings assigned to the Programme and the 
+Covered Bonds do not always reflect the risks associated with individual Covered Bond Loans under the 
+Programme. For more information regarding the credit ratings, visit https://www.spglobal.com/ratings/en/ and 
+www.nordiccreditrating.com. 
+ 
+The following table sets out the possible long-term ratings assigned by S&P and NCR. 
+S&P’s long-term rating scale 
+NCR’s long-term rating scale 
+AAA 
+AAA 
+AA+ 
+AA+ 
+AA 
+AA 
+AA- 
+AA- 
+A+ 
+A+ 
+A 
+A 
+A- 
+A- 
+BBB+ 
+BBB+ 
+BBB 
+BBB 
+BBB- 
+BBB- 
+BB+ 
+BB+ 
+BB 
+BB 
+BB- 
+BB- 
+B+ 
+B+ 
+B 
+B 
+B- 
+B- 
+CCC+ 
+CCC 
+CCC 
+CC 
+CCC- 
+C 
+CC 
+D/SD 
+C 
+ 
+D 
+ 
+Use of proceeds  
+The net proceeds from each issue of Covered Bonds will be applied by the Issuer to meet part of its 
+general financing requirements.
+
+--- Page 8 ---
+8(51) 
+ 
+RISK FACTORS 
+In this section, material risk factors are illustrated and discussed, including the Issuer’s economic and 
+market risks, business risks, legal and regulatory risks, as well as risks relating to Covered Bonds. The Issuer’s 
+assessment of the materiality of each risk factor is based on the probability of their occurrence and the expected 
+magnitude of their negative impact. The description of the risk factors below is based on information available 
+and estimates made on the date of this Prospectus. The risk factors are presented in categories where the most 
+material risk factors in a category are presented first under that category. Subsequent risk factors in the same 
+category are not ranked in order of materiality or probability of occurrence. Where a risk factor may be 
+categorised in more than one category, such risk factor appears only once and in the most relevant category for 
+such risk factor. 
+Risks relating to the mortgage loan business and the relevant real estate market and economy 
+The location of the mortgaged properties is concentrated to Sweden 
+The residential properties mainly securing the Covered Bonds issued under the Programme are located 
+only in Sweden. The geographic distribution of the Issuer Cover Pool is concentrated to metropolitan and growth 
+areas with most of the underlying residential properties located in Sweden’s three largest cities. Such residential 
+properties may be concentrated in certain locations such as densely populated and highly industrialised areas and 
+any deterioration in prices in the residential real estate markets and any deterioration in the economic conditions 
+in such areas may adversely affect the ability of the borrowers to make payments on the loans. The concentration 
+of loans secured by residential properties in such areas may therefore result in a greater risk of non-payment than 
+if such concentration had not been present. 
+To the extent that specific geographic regions have experienced or may experience in the future regional 
+economic conditions and a residential real estate market that is weaker than other regions, a concentration of loans 
+in such region may increase the risk to the mortgage loans described herein. Moreover, such factors may have an 
+impact on the value of the properties. If the residential real estate market in Sweden experiences an overall decline 
+in property values the value of the relevant pool of assets maintained by the Issuer could be significantly reduced, 
+which would affect the availability and quality of eligible assets in the Cover Pool, and may ultimately result in 
+credit losses to the Issuer and affect the covered bond holders negatively. 
+Economic conditions in Sweden could have an adverse effect 
+As the Issuer conducts all its business in Sweden and the assets which make up the Issuer Cover Pool 
+include mortgage loans secured by properties located in Sweden, the values of the assets and the ability of the 
+Issuer to continue to make timely payments on the relevant Covered Bonds could be adversely affected by adverse 
+economic developments in Sweden.  
+If the risks described above would materialise, the Issuer assesses that it could have a negative effect on 
+house prices, which would affect the availability and quality (higher loan-to-value ratio (“LTV”)) of eligible assets 
+in the Cover Pool. The Issuer assesses the probability of the risks described above to materialise at a level having 
+significant negative effect on the Cover Pool to be low.  
+Risks relating to the Issuer and the Group 
+The Issuer is exposed to credit risk 
+The main risks related to the Swedish residential mortgage market are the credit risk associated with 
+borrowers’ creditworthiness, their ability to pay the mortgage loan and the value of the mortgaged properties. 
+Should there be a general downturn in the value of property in Sweden, it may result in a deterioration of credit 
+quality and the recoverability of mortgage loans of the Issuer. House prices may be negatively affected should, for 
+example, interest rates or the unemployment level rise quickly. Adverse changes in the credit quality of the Issuer’s 
+borrowers and counterparties could affect the recoverability and value of its assets and require an increase in the 
+Issuer’s provisions for bad and doubtful debts and other provisions which in turn may have a material adverse 
+effect on the Issuer’s business, financial condition and/or results of operations. At the end of 2023, the Issuer’s 
+provisions for expected credit losses amounted to MSEK 251. 
+The Issuer is dependent upon other Group companies, their business and the brand value of the Group 
+The Issuer regularly acquires mortgage loans from the Swedish Branch (during 2023, the Issuer acquired 
+mortgage loans to the extent that the mortgage loan balance increased with roughly SEK 11 billion), but may in
+
+--- Page 9 ---
+9(51) 
+ 
+the future also acquire mortgage loans from other Group companies. Accordingly, the Issuer is dependent on the 
+business of the Swedish Branch and other Group companies to originate loans to be acquired by the Issuer. The 
+Issuer will therefore be affected by general economic and business conditions which may affect not only the Issuer 
+but also the Swedish Branch and the other Group companies. If the Group, for instance, faces a negative impact 
+on the Danske Bank brand it could potentially lead to decreased growth in its mortgage lending as well as 
+customers leaving the Group. This would in turn affect the Issuer’s over-collateralisation negatively and present a 
+risk to the Issuer’s fulfilment of its planned funding activities or to the Issuer’s ability to meet its over-
+collateralisation requirements. 
+In addition, the Issuer is dependent on other Group companies for the performance of certain services in 
+accordance with an outsourcing agreement. Such services include, amongst others, IT-services, administration of 
+mortgage loans, accounting, regulatory reporting, liquidity management, funding (issuance of covered bonds), risk 
+management, compliance, legal and internal audit. The Issuer is dependent on other Group companies’ ability to 
+fulfil their obligations under the outsourcing agreement in order for the Issuer to carry out its business and for the 
+Issuer’s business operations to function properly. The Issuer considers outsourcing as one of its largest risks given 
+its dependency on outsourced activities. 
+The Issuer also uses, and is heavily dependent on, the established Danske Bank brand in its covered bond 
+issuances and relies on the positive perception by investors of the brand. The Issuer will thus be dependent on 
+certain Group companies in order to succeed in its business. 
+The degree to which disruptions and/or negative impact to any Group companies and/or their ability to 
+fulfil their obligations under an outsourcing agreement entered into with the Issuer and/or substantial deterioration 
+to the brand value of the Group may occur is uncertain and presents a significant risk to the Issuer’s business, 
+financial condition and/or results of operations. 
+If the risks described above would materialise, the Issuer assesses the potential negative impact for the 
+investors in the Programme to be high. The Issuer assesses the probability of the risks described above 
+materialising at a level giving rise to significant negative impact for investors to be low. 
+The Issuer is exposed to liquidity risk 
+The Issuer funds itself from the covered bond markets and complementary financing from the Group. 
+Turbulence in the global economy and financial markets could have a negative impact on the Issuer’s liquidity 
+position, and also reduce the willingness of the Issuer’s counterparties to enter into transactions with the Issuer. 
+This could affect the Issuer’s business as well as financial position and result. Furthermore structural liquidity risk 
+arises due to mismatch between the Issuer’s contractual commitment against its mortgage loan customers and the 
+contractual maturity of the issued Covered Bonds. The contractual commitment against the customers is normally 
+longer than the Issuer’s funding profile, which means that the Issuer is continuously required to refinance its debt 
+with new issuances. The inability of the Issuer to anticipate and provide for unforeseen decreases or changes in 
+funding sources presents a significant risk to the Issuer’s ability to meet its payment obligations when they fall due 
+and could result in an investor not being paid in a timely manner. Furthermore, if the Issuer’s inability to meet its 
+payment obligations when they fall due is not temporary, it could mean that the Issuer might be considered as 
+insolvent. 
+If the risks described above would materialise, the Issuer assesses the potential negative impact for the 
+investors in the Programme to be high. The Issuer assesses the probability of the risks described above 
+materialising to be low. 
+The Issuer’s funding costs and its access to the debt capital markets depend significantly on its credit ratings 
+Any downgrade of the credit rating of the Parent or any downgrade of the credit ratings of the Issuer’s 
+Covered Bonds could, in each case, increase the Issuer’s borrowing costs, adversely affect the liquidity position 
+of the Issuer, limit the Issuer’s access to the capital markets, undermine confidence in (and the competitive position 
+of) the Issuer, trigger obligations under certain bilateral terms in some of the Issuer’s trading and collateralised 
+financing contracts (including requiring the provision of additional collateral) and/or limit the range of 
+counterparties willing to enter into transactions with the Issuer. Any of the events above could have a material 
+adverse effect on the Issuer’s business, financial condition and/or results of operations. 
+The Issuer is exposed to market risk 
+Currency risks arise when the present value or cash flow of assets and liabilities, including derivative 
+positions, in a foreign currency are mismatched. Since the Issuer may have parts of its financing in currencies 
+other than SEK, it may be exposed to currency risks. A liquid derivative market enabling the Issuer to swap foreign
+
+--- Page 10 ---
+10(51) 
+ 
+currencies is therefore essential. The Issuer’s business also contains interest rate risk, primarily due to differences 
+between the terms of the interest periods for funding and for lending. The interest rate risk, expressed as an interest 
+rate shift up by 100bp, has during 2023 been up to MSEK 159 (as a maximum) measured on a daily basis. The 
+Issuer is dependent on a well-functioning hedging market to mitigate its foreign exchange and interest rate risks. 
+The Issuer has a liquidity buffer bond portfolio and may have Non-Primary Assets, which both have market risk. 
+The degree to which the Issuer will be successful in hedging its foreign exchange and interest risks is uncertain 
+and presents a significant risk to the Issuer’s financial performance and reputation. 
+The Issuer is exposed to operational risk 
+The Issuer’s business is dependent on the ability to process a very large number of transactions efficiently 
+and accurately. Operational risk and losses can result from fraud or other external or internal crime, errors by 
+employees or service providers, failure to document transactions properly or to obtain proper internal authorisation, 
+failure to comply with regulatory requirements and conduct of business rules, equipment failures, natural disasters 
+or the failure of internal or external systems, for example, those of the Issuer’s suppliers or counterparties. Any 
+material disruptions in relation to any operational factors, in particular outsourced services, as set out above may 
+have a material adverse effect on the Issuer’s business, financial condition and/or results of operations. A major 
+disruption in the Issuer’s IT-systems could affect the Issuer’s ability to fulfil its commitments in accordance with 
+the Covered Bonds Act and other regulations. For example, if the systems holding the Issuer’s Cover Pool register 
+is disrupted in such way that it significantly would affect the possibility to maintain the Cover Pool register, the 
+Issuer may not be able to fulfil its obligations under the Covered Bonds Act. If such event occurs the Issuer could 
+be considered to have seriously breached its obligations and could ultimately risk its license. 
+The Issuer is exposed to the risk of failure or interruption to the Parent’s IT and other systems 
+The Parent’s, and in turn the Issuer’s, business is dependent on the ability to keep a large amount of 
+customer information and to process a large number of transactions as well as on internal and external systems for 
+its loan distribution. The Issuer’s business is thus dependent on the Parent’s information and communication 
+technology systems to serve customers, support the Issuer’s business processes, ensure complete and accurate 
+processing of financial transactions and support the overall internal control framework. Disruptions in the Parent’s 
+IT infrastructure or other systems may, for example, be caused by internal factors such as larger projects for 
+replacing or upgrading existing IT platforms and/or systems, which, if replaced or upgraded inappropriately, risks 
+resulting in IT platforms and/or systems that do not function as expected and result in, among other things, 
+unreliable data processing with impact on financial reporting. There is also a risk for disruptions caused by external 
+factors such as the availability of experts required for technical support or completion of ongoing IT projects. Due 
+to the Issuer’s dependency on the Parent’s information and communication technology systems and due to an IT 
+order from the Danish financial supervisory authority (the “DFSA”) to the Parent, the SFSA decided in 2019 to 
+increase the Issuer’s capital requirements by an additional Pillar II capital add-on of SEK 59 million. Further, 
+disruptions in the IT infrastructure could cause interruptions in the Issuer’s business, ineffective processes, loss of 
+sensitive information, or the Issuer not being able to meet regulatory requirements and thus become subject to 
+sanctions. The degree to which the Issuer will be exposed to interruptions or failure of the Parent’s IT systems is 
+uncertain and presents a significant risk to the Issuer’s business, financial condition and/or results of operations. 
+The Issuer and the Group may be affected by general economic and geopolitical conditions 
+The financial services industry generally prospers in conditions of economic growth, stable geopolitical 
+conditions, capital markets that are transparent, liquid and buoyant, and positive investor sentiment. Each of the 
+Group’s operating segments is affected by general economic and geopolitical conditions, which can cause the 
+Group’s results of operations and financial position to fluctuate from year to year as well as on a long-term basis. 
+Economies have displayed moderate performance, with the US avoiding recession and a decrease in 
+inflation in certain regions. Future interest rate cuts are projected, reflecting the ongoing economic challenges. The 
+world continues to be beset by violent conflicts such as in Ukraine and the Middle East where conflicts often affect 
+the global economy. Geopolitical tensions between great powers continue, and elections – such as in the US - add 
+to the instability of the world's political order. 
+Rising bond yields, driven by stronger economic data, have been positively received by equity markets. 
+However, in Europe and the Nordic countries, economic growth was slow, yet less severe than feared, given the 
+inflation and interest rate shocks. 
+Central banks' concerns about wage pressure reigniting inflation, especially in Europe, where productivity 
+and wages are inversely related. A gradual recovery of real wages could lead to cost pressure and slightly higher 
+inflation.
+
+--- Page 11 ---
+11(51) 
+ 
+In Sweden, there has been a modest recovery in residential construction and a decline in sector costs. The 
+housing market has started recovering but has low activity and high supply which could delay the recovery in 
+housing prices. 
+There has been a relative stagnation of Nordic economies combined with a period of high inflation. Also, 
+there has been moderate wage increases although the job market has remained strong. 
+The factors described above could, together or individually, have a material adverse effect on the business, 
+results of operations, financial position and liquidity of the Group and the Issuer.  
+Legal and regulatory risks 
+Regulatory changes could materially affect the Group’s and/or the Issuer’s business 
+The Group’s and the Issuer’s operations are subject to financial services laws, regulations, administrative 
+actions and policies. As a Swedish credit institution the Issuer is subject to the supervision of the SFSA. The Issuer 
+is also subject to applicable EU regulations and EU directives that are implemented through local legislation. 
+Significant failures to comply with applicable laws and regulations could expose the Issuer to monetary and other 
+penalties, damages and/or the voiding of contracts and affect the Group’s and/or the Issuer’s reputation. Ultimately, 
+the Issuer’s licence to conduct financing operations could be revoked and the Issuer could hence be required to 
+discontinue its business operations. 
+Changes in supervision and regulation, could materially affect the Group’s and/or the Issuer’s own funds 
+requirements (as described below in The Issuer and the Group face a possible increase in own funds and liquidity 
+requirements as a result of the finalisation of the Basel III framework), business, the products and services offered 
+and/or the value of each of their assets.  
+The Issuer is unable to predict with certainty which regulatory changes can be imposed in the future as a 
+result of regulatory initiatives in the EU, by the SFSA or by other national authorities and agencies. Such changes 
+risk having a material adverse effect on, among other things, the Group’s and/or the Issuer’s product range and 
+activities, the sales and pricing of the Group’s and/or the Issuer’s products, the value of the Group’s and/or the 
+Issuer’s assets as well as the Group’s and/or the Issuer’s profitability and capital adequacy, and can give rise to 
+increased costs of compliance. In addition, there is a risk that the Group and/or the Issuer misinterprets or 
+misapplies new or amended law and regulations, especially due to the increasing quantity and complexity of 
+legislation, which, in case of significant misinterpretations, could lead to adverse consequences for the Group 
+and/or the Issuer. 
+Risks relating to regulatory capital and liquidity requirements 
+The Issuer is subject to capital adequacy and liquidity regulations, which aim to put in place a 
+comprehensive and risk-sensitive legal framework to ensure enhanced risk management among financial 
+institutions. Regulations which have impacted the Issuer and are expected to continue to impact the Issuer include, 
+inter alia, the Basel III framework, the EU Capital Requirements Directive 2013/36/EU (“CRD IV”), as amended 
+by Directive (EU) 2019/878 (“CRD V”), and the EU Capital Requirements Regulation (EU) No. 575/2013 
+(“CRR”), as amended by Regulation (EU) 2019/876 (“CRR II”) and, by Regulation (EU) 2020/873. The CRR 
+and the CRD IV are supported by a set of binding technical standards developed by the European Banking 
+Authority (the “EBA”). In addition, in October 2021, the European Union adopted a proposal to further amend the 
+CRR and CRD IV as the final elements of the implementation of the Basel III framework. The proposals, more 
+commonly known as CRR3 and CRD VI, are in the final stages and the legal texts have been published, but are 
+still subject to legal review and final vote before their intended entry into force which is 1 January 2025 for CRR3 
+and, for CRD VI, once transposed by Member States. Until such time as the CRR3 and CRD VI proposals are 
+incorporated into European Union law, the Issuer is unable to determine their final impact on its own financial 
+performance. 
+The capital adequacy framework includes, inter alia, minimum capital requirements for the components 
+in the capital base with the highest quality, common equity tier 1 (“CET1”) capital, additional tier 1 capital and 
+tier 2 capital. The CRR II also introduced a binding leverage ratio requirement (i.e. a capital requirement 
+independent from the riskiness of the exposures, as a backstop to risk-weighted capital requirements) for all 
+institutions subject to the CRR. In addition to the minimum capital requirements, the CRD IV provides for further 
+capital buffer requirements that are required to be satisfied with CET1 capital. The combined buffer requirement 
+consists of the total CET1 capital required to meet the requirement for the capital conservation buffer extended by 
+an institution-specific countercyclical capital buffer, a G-SII buffer, an O-SII buffer and a systemic risk buffer, as 
+applicable as defined in Article 128 of CRD IV. Certain buffers may be applicable to the Issuer as determined by
+
+--- Page 12 ---
+12(51) 
+ 
+the SFSA. The countercyclical buffer rate is a capital requirement which varies over time and is to be used to 
+support credit supply in adverse market conditions. On 16 March 2020, the countercyclical capital buffer for 
+Sweden was lowered from the previous 2.5 per cent to 0 per cent as a pre-emptive measure to avoid a credit crunch 
+due to the developments surrounding the coronavirus pandemic and the spread of coronavirus and its impact on 
+the economy. On 29 September 2021, the SFSA communicated that the lower buffer rate will be applied until 28 
+September 2022. As of 22 June 2023, the buffer rate is 2 per cent, which is its neutral level. A breach of the 
+combined buffer requirements is likely to result in restrictions on certain discretionary capital distributions by the 
+Issuer, for example, dividends on CET1 and coupon payments on tier 1 capital instruments. 
+Furthermore, there is a degree of uncertainty concerning future capital requirements due to recent and 
+forthcoming regulatory changes. On 27 October 2021, for example, the EU-commission submitted a proposal for 
+finalising the implementation of the Basel III agreement in the EU which, among other things includes an output 
+floor (OF) to the risk-based capital requirements that sets a lower limit to the capital requirements that are produced 
+by institutions’ IRB models. As a result of EBA’s regulatory review of the IRB-approach, they released new 
+technical standards and guidelines aimed at reducing unwanted variation in risk weights and estimated risk 
+parameter. In order to meet the new requirements, the institutions have had to make material changes to their 
+models and submit new applications to their supervisors. The SFSA has announced that they are delayed regarding 
+the approval of the applications and the impact for Swedish banks, including the Issuer, are therefore uncertain. 
+Banks are also asked to maintain an extra capital buffer, called Pillar 2 guidance (“P2G”), which is 
+determined as part of the Supervisory Review and Evaluation Process (SREP) and is a bank-specific 
+recommendation. The P2G is a non-binding supervisory recommendation and a violation of the P2G does not 
+automatically lead to consequences such as restrictions in dividends. If the P2G is breached, the SFSA has the 
+possibility to intensify its supervision or decide on a Pillar 2 requirement. 
+The conditions of the Issuer’s business as well as external conditions are constantly changing and the full 
+set of capital adequacy rules applicable to Swedish financial institutions continues to evolve. For the foregoing 
+reasons, the Issuer is potentially required to raise additional capital in the future. Such capital, whether in the form 
+of debt financing, hybrid capital or additional equity, is not always available on attractive terms, or at all. If the 
+Issuer is required to make additional provisions, increase its reserves or capital, or exit or change its approach to 
+certain operations as a result of, for example, the initiatives to strengthen the regulation of credit institutions, this 
+would adversely affect its results of operations or financial condition or increase its costs, all of which may 
+adversely affect the Issuer’s abilities to raise additional capital and make payments under instruments such as 
+Covered Bonds issued under this Programme. 
+Serious or systematic deviations by the Issuer from the above regulations would most likely lead to the 
+SFSA determining that the Issuer’s business does not satisfy the statutory soundness requirement for credit 
+institutions and thus result in the SFSA imposing sanctions against the Issuer. Further, any increase in the capital 
+and liquidity requirements could have a negative effect on the Issuer’s funding (should it not be able to raise capital 
+on attractive terms, or at all), financial condition (should liquidity and funding be negatively affected) and results 
+of operations (should its costs increase). The degree to which regulatory capital and liquidity requirements risks 
+may affect the Issuer is uncertain and presents a significant risk to the Issuer’s funding and liquidity position. 
+Risks relating to the Bank Recovery and Resolution Directive 
+As a financial institution, the Issuer is subject to the Bank Recovery and Resolution Directive (“BRRD”) 
+(which was amended by Directive (EU) 2019/879 (“BRRD II”) on 27 June 2019). The BRRD legislative package 
+establishes a framework for the recovery and resolution of credit institutions and, inter alia, requires EU credit 
+institutions (such as the Issuer) to produce and maintain recovery plans setting out the arrangements that are to be 
+taken to restore the long-term viability of the institution in the event of a material deterioration of its financial 
+condition. Accordingly, the requirements under the BRRD are comprehensive, and require the Issuer to take 
+extensive measures to ensure compliance. 
+The BRRD contains a number of resolution tools and powers which may be applied by the resolution 
+authority upon certain conditions for resolution being fulfilled. These tools and powers (used alone or in 
+combination) include, inter alia, a general power to write-down all or a portion of the principal amount of, or 
+interest on, certain eligible liabilities, whether subordinated or unsubordinated, of the institution in resolution 
+and/or to convert certain unsecured debt claims including senior notes and subordinated notes into other securities, 
+including CET1 instruments of the surviving entity, which equity could also be subject to any further application 
+of the general bail-in tool. This means that most of such failing institution’s debt could be subject to bail-in, except 
+for certain classes of debt, such as certain deposits and secured liabilities (such as the Covered Bonds). In addition 
+to the general bail-in tool, the BRRD provides for relevant authorities to have the power, before any other
+
+--- Page 13 ---
+13(51) 
+ 
+resolution action is taken, to permanently write-down or convert into equity relevant capital instruments at the 
+point of non-viability. Ultimately, the authority has the power to take control of a failing institution and, for 
+example, transfer the institution to a private purchaser or to a publicly controlled entity pending a private sector 
+arrangement. All these actions can be taken without any prior shareholder approval or any approval by holders of 
+debt. 
+It is not possible to predict exactly how the powers and tools of the Swedish resolution authority (the 
+Swedish National Debt Office (Sw. Riksgäldskontoret)) provided in the BRRD (as implemented into Swedish law) 
+will affect the Issuer. However, in order to, among other things, ensure the effectiveness of bail-in and other 
+resolution tools, all in-scope institutions must have sufficient own funds and eligible liabilities available to absorb 
+losses and contribute to recapitalisation if the bail-in tool were to be applied. Each institution must meet an 
+individual minimum requirement for own funds and eligible liabilities (“MREL”) set by the relevant resolution 
+authorities on a case by case basis. 
+In early June 2021, the Swedish legislator approved legislation attributable to the Swedish implementation 
+of BRRD II. The new legislation entered into force on 1 July 2021, including, inter alia, amendments to the 
+applicable minimum MREL requirement. Amongst other things, the legislation stipulates that the new MREL 
+requirements shall be fully complied with from 1 January 2024. This includes a minimum Pillar 1 subordination 
+requirement for “top-tier” banks. This Pillar 1 subordination requirement is to be satisfied with own funds and 
+other eligible MREL instruments meeting the applicable CRR requirements, including MREL instruments 
+constituting senior non-preferred debt. If the Issuer was to experience difficulties in maintaining such eligible 
+liabilities, it would have to reduce its lending or investments in other operations. This is likely to lead to a decrease 
+in the Issuer’s revenue which, if its costs remain unchanged, would decrease its operating result. Furthermore, 
+non-compliance with such requirements could result in the relevant authority withdrawing the Issuer’s licence. 
+For institutions and groups with operations in more than one jurisdiction (such as the Group), cross-border 
+cooperation and coordination between relevant authorities is necessary for an effective resolution and resolution 
+planning. For these purposes, the BRRD provides for the establishment of resolution colleges. Resolution planning, 
+joint decisions and cross-border implications are also of significance in relation to MREL. While the group-level 
+resolution authority sets its proposal on MREL for the parent and at the consolidated level, the proposal needs to 
+be reconciled with and assessed against MREL set for each subsidiary. The links between MREL and the resolution 
+plan have also been addressed in the draft regulatory technical standards issued by EBA, with the two joint 
+decisions – the joint decision on the group resolution plan and resolvability assessment, and the joint decision on 
+MREL – running in parallel. It is not possible to predict how, in relation to the Issuer and the Group, the cooperation 
+between the Swedish National Debt Office, the DFSA (being the Danish authority in charge of MREL and 
+resolution planning) and other relevant authorities will function in practice. 
+Further, given that the new MREL requirements must be met by all EU credit institutions, there is a risk 
+that there is not a sufficient investor appetite in the debt markets for the aggregate volume of eligible liabilities 
+that must be maintained, which would have a negative effect on the price and value of such instruments. The 
+degree to which the price and value of such instruments may vary is uncertain and presents a highly significant 
+risk to the Issuer’s revenue.  
+The degree to which amendments to the BRRD or application of BRRD may affect the Issuer is uncertain 
+and presents a significant risk to the Issuer’s funding and compliance costs. 
+Risks relating to changes in accounting standards 
+From time to time, the International Accounting Standards Board (“IASB”), the EU and other regulatory 
+bodies change the financial accounting and reporting standards that govern the preparation of the Issuer’s financial 
+statements. These changes are sometimes difficult to predict and could materially impact how the Issuer record 
+and report their results of operations and financial condition. 
+In July 2014, the IASB issued a new accounting standard, International Financial Reporting Standard 9 
+(Financial Instruments) (“IFRS 9”), which became effective from 1 January 2018 and replaced IAS 39. IFRS 9 
+provides principles for classification of financial instruments, and provisioning for expected credit losses which 
+are mandatory, and were therefore fully implemented by the Issuer, as of 1 January 2018. IFRS 9 also provides a 
+new general hedge accounting model which is not yet mandatory as there is an option in IFRS 9 to continue to 
+apply the hedge accounting rules in IAS39. The Issuer has not yet implemented the hedge accounting models of 
+IFRS 9, which is why it is currently not possible to determine the extent of the financial impact that the 
+implementation of the hedge accounting model will have.
+
+--- Page 14 ---
+14(51) 
+ 
+As a consequence of the new general hedge accounting model under IFRS 9, and the uncertainty regarding 
+its implementation, there is a risk that the Issuer will be required to obtain additional capital in the future. There 
+is, however, a risk that new equity capital or debt financing qualifying as regulatory capital will not be available 
+on attractive terms, or at all. The degree to which further changes in accounting standards may affect the Issuer is 
+uncertain and presents a risk to the Issuer’s provisions and CET 1 capital. Fully phased-in, IFRS 9 will have a 
+limited effect on the Issuer’s capital ratios. 
+Risks relating to tax legislation 
+The Issuer’s business and transactions are conducted in accordance with the Issuer’s and Group’s 
+interpretation of applicable laws, tax treaties, regulations, case law and requirements of the tax authorities. There 
+is a risk that the Issuer’s and Group’s interpretation of such tax legislation, tax treaties, regulations, case law or 
+requirements of the tax authorities is incorrect, or that such rules or practice will change, potentially with 
+retroactive effect. For example, a new law regarding risk tax (Sw. riskskatt) for certain credit institutions entered 
+into force on 1 January 2022. The new legislation applies to Swedish credit institutions and Swedish branches of 
+foreign credit institutions with liabilities in excess of SEK 184 billion (pursuant to the 2024 threshold). In general, 
+the tax is based on each credit institution’s opening balance of liabilities and the tax is 0.06 per cent of the taxable 
+basis. The Issuer’s debt is above the threshold since the Issuer is part of the same Group as the Swedish Branch. 
+In 2023, the Issuer’s reported tax expenses totalled SEK 144,662,648 and its effective tax rate was 20.6 
+per cent. Should the Issuer’s or Group’s tax situation for previous, current and future years change, as a result of 
+legislative changes and decisions made by the tax authorities or as a result of changed laws, it could have a material 
+adverse effect on the Issuer’s business (should taxes imposed on its products and services negatively impact the 
+demand for such products and services), financial condition (should taxes negatively impact the value of its assets) 
+and results of operations (should taxes increase its costs and thus decrease, among other things, its operating 
+profits). 
+The Group operates in a legal and regulatory environment that exposes it to potentially significant litigation and 
+regulatory risks 
+The Group and the Issuer may become involved in various disputes and legal proceedings in different 
+jurisdictions, including litigation and regulatory investigations. The Group’s banking and other operations have 
+been the subject of regulatory scrutiny from time to time. For example, the Group and the Issuer are subject to 
+applicable anti-money laundering and terrorist financing laws. The supervisory authorities conduct on-going 
+inspections from time to time of the Group’s compliance with anti-money laundering (“AML”) legislation, 
+sanctions, and terrorist financing laws, which can potentially lead to supervisory actions.  
+Estonian AML matter 
+As announced on 13 December 2022, the Parent has reached final coordinated resolutions with the US 
+Department of Justice (“DoJ”), the US Securities and Exchange Commission (“SEC”) and the Danish Special 
+Crime Unit (“SCU”) following the investigations into failings and misconduct related to the non-resident portfolio 
+at the Parent’s former Estonia branch. The aggregate amounts payable to the US and Danish authorities were paid 
+in January 2023.  
+As part of the Parent’s agreement with DoJ, the Parent was placed on corporate probation for three years 
+from 13 December 2022 until 13 December 2025 and the Parent committed to continue improving its compliance 
+programs. The Parent has taken extensive remediation action to address those failings to prevent any similar 
+occurrences, and the Parent remains in contact with DoJ as a matter of post-resolution obligations set forth in the 
+agreement with DoJ. The coordinated resolution marks the end of the criminal and regulatory investigations into 
+the Parent by the authorities in Denmark and the United States. The Parent remains subject to a criminal 
+investigation by authorities in France and has posted bail in the amount of DKK 80 million. The Parent continues 
+to cooperate with the authorities.  
+The Parent is also subject to ongoing litigation in relation to the Estonian AML matter. This includes, 
+inter alia, an action filed against the Parent in the United States District Court for the Eastern District of New York 
+and a number of court cases initiated against the Parent in Denmark. The civil claims were not included in the 
+coordinated resolutions with DoJ, SEC, and SCU. The Parent will continue to defend itself vigorously against 
+these claims. The timing of completion of such civil claims (pending or threatening) and their outcome are 
+uncertain and could be material. 
+The impact on the Issuer may entail that the refinancing costs may be higher and/or that its mortgage 
+lending volumes become lower.
+
+--- Page 15 ---
+15(51) 
+ 
+Risks relating to EU General Data Protection Regulation  
+As a lender in the Swedish residential mortgage market aimed primarily at individuals, the Group 
+processes large quantities of personal data on its customers. Such processing of personal data is subject to extensive 
+regulation and scrutiny following the implementation of the general data protection regulation 2016/679/EU 
+(“GDPR”), applicable as of 25 May 2018. Efforts to continuously ensure compliance with the GDPR is time-
+consuming and costly. Any administrative and monetary sanctions (including administrative fines of up to the 
+greater of EUR 20 million or 4.0 per cent. of the Group’s total global annual turnover) or reputational damage due 
+to incorrect implementation or breach of the GDPR would adversely impact the Group’s business, financial 
+condition and results of operations. Non-compliance also risks having substantial effect on customer’s and the 
+general public’s trust in the Group. 
+Risks related with Covered Bonds issued under the Programme 
+The regulation and reform of “benchmarks” may adversely affect the value of Covered Bonds linked to or 
+referencing such “benchmarks” 
+Interest rates and indices which are deemed to be “benchmarks” (such as STIBOR or EURIBOR) are the 
+subject of recent and ongoing national and international regulatory guidance and proposals for reform. Some of 
+these reforms are already effective whilst others are still to be implemented. These reforms may cause such 
+“benchmarks” to perform differently than in the past, to disappear entirely, or have other consequences which 
+cannot be predicted. Any such consequence could have a material adverse effect on any Covered Bonds referencing 
+such a “benchmark”. 
+The Benchmarks Regulation (EU) No. 2016/1011 (the “Benchmarks Regulation”) was published in the 
+Official Journal of the EU on 29 June 2016 and was applied as of 1 January 2018. The Benchmarks Regulation 
+applies, subject to certain transitional provisions, to the provision of “benchmarks”, the contribution of input data 
+to a “benchmark” and the use of a “benchmark” within the EU. Among other things, it: (i) requires “benchmark” 
+administrators to be authorised or registered (or, if non-EU based, to be subject to an equivalent regime or 
+otherwise recognised or endorsed); and (ii) prevents certain uses by EU supervised entities (such as the Issuer) of 
+“benchmarks” of administrators that are not authorised or registered (or, if non-EU-based, not deemed equivalent 
+or recognised or endorsed). The Benchmarks Regulation could have a material impact on any Covered Bonds 
+linked to or referencing a “benchmark”, in particular, if the methodology or other terms of the “relevant 
+benchmark” are changed in order to comply with the requirements of the Benchmarks Regulation. Such changes 
+could, among other things, have the effect of reducing, increasing or otherwise affecting the volatility of the 
+published rate or level of the “relevant benchmark”.  
+More broadly, any of the national or international reforms, or the general increased regulatory scrutiny of 
+“benchmarks”, could increase the costs and risks of administering or otherwise participating in the setting of a 
+“benchmark” and complying with any such regulations or requirements. Such factors may have (without 
+limitation) the following effects on certain “benchmarks”: (i) discouraging market participants from continuing to 
+administer or contribute to a “benchmark”; (ii) triggering changes in the rules or methodologies used in the 
+“benchmark”; and/or (iii) leading to the disappearance of the “benchmark”. Any of the above changes or any other 
+consequential changes as a result of national, international or other proposals for reform or other initiatives or 
+investigations, could have a material adverse effect on the value of and return on any Covered Bonds linked to a 
+“benchmark” and the trading market for such Covered Bonds. 
+The Swedish Bankers’ Association has on 16 December 2021 published a recommendation regarding a 
+fallback rate for STIBOR, normally referred to as SWESTR (Swedish krona Short Term Rate). On 13 December 
+2021, Bloomberg Index Services Limited began publishing official ISDA IBOR Fallbacks for five additional 
+IBORS including SEK STIBOR.The Swedish Central Bank (Sveriges Riksbank) announced on 22 June 2021 that 
+SWESTR can be used in financial transactions from 2 September 2021. SWESTR could thereby, in the event of 
+STIBOR no longer being published or administrated by the Swedish Financial Benchmark Facility, work as a 
+replacement rate for STIBOR from such date. The General Terms and Conditions provide that the interest rate 
+“benchmark” STIBOR and EURIBOR, which applies for the Covered Bonds, can be replaced as set out therein, 
+upon the occurrence of a Base Rate Event which includes if STIBOR or EURIBOR ceases to be calculated or 
+administered. Such replacement shall be made in good faith and in a commercially reasonable manner. There is a 
+risk that such replacement is not made in an effective manner and consequently, if STIBOR or EURIBOR ceases 
+to be calculated or administered, an investor in the Covered Bonds would be adversely affected. The degree to 
+which amendments to and application of the Benchmarks Regulation may affect the Bondholders is uncertain and 
+presents a significant risk to the return on the Bondholder’s investment.
+
+--- Page 16 ---
+16(51) 
+ 
+An active secondary market in respect of the Covered Bonds may never be established or may be illiquid and this 
+would adversely affect the value at which an investor could sell its Covered Bonds 
+Covered Bonds may have no established trading market when issued, and one may never develop. If a 
+market does develop, it may not be liquid. Therefore, investors may not be able to sell their Covered Bonds easily 
+or at prices that will provide them with a yield comparable to similar investments that have a developed secondary 
+market. This is particularly the case for Covered Bonds that are especially sensitive to interest rate, currency or 
+market risks, are designed for specific investment objectives or strategies, are being issued to a single investor or 
+a limited number of investors or have been structured to meet the investment requirements of limited categories 
+of investors. These types of Covered Bonds generally would have a more limited secondary market and more price 
+volatility than conventional debt securities. Illiquidity may have a material adverse effect on the market value of 
+Covered Bonds. 
+If an investor holds Covered Bonds which are not denominated in the investor’s home currency, it will be exposed 
+to movements in exchange rates adversely affecting the value of its holding. In addition, the imposition of exchange 
+controls in relation to any Covered Bonds could result in an investor not receiving payments on those Covered 
+Bonds 
+The Issuer will pay principal and interest on the Covered Bonds in the currency set out in the Final Terms 
+for each Covered Bond Loan (the “Specified Currency”). This presents certain risks relating to currency 
+conversions if an investor’s financial activities are denominated principally in a currency or currency unit (the 
+“Investor’s Currency”) other than the Specified Currency. These include the risk that exchange rates may 
+significantly change (including changes due to devaluation of the Specified Currency or revaluation of the 
+Investor’s Currency) and the risk that authorities with jurisdiction over the Investor’s Currency or Specified 
+Currency may impose or modify exchange controls. An appreciation in the value of the Investor’s Currency 
+relative to the Specified Currency would decrease (i) the Investor’s Currency-equivalent yield on Covered Bonds, 
+(ii) the Investor’s Currency-equivalent value of the principal payable on Covered Bonds and (iii) the Investor’s 
+Currency-equivalent market value of Covered Bonds. 
+Government and monetary authorities may impose (as some have done in the past) exchange controls that 
+could adversely affect an applicable exchange rate or the ability of the Issuer to make payments in respect of the 
+Covered Bonds. As a result, investors may receive less interest or principal than expected, or no interest or principal 
+as measured in the Investor’s Currency. 
+Decrease of underlying asset value 
+If the value of the underlying properties securing the loans which constitute the collateral for the Issuer 
+Cover Pool decreases materially and the Issuer does not take action to restore the ratio between Covered Bonds 
+and the Issuer Cover Pool, there will be a risk that the Issuer will not be able to fully repay Bondholders. 
+Conflicting interests of other creditors 
+In the event of the Issuer’s bankruptcy, the Covered Bonds Act does not give clear guidance on certain 
+issues, which may lead to a conflict between Bondholders, and the derivative contract parties on the one hand, and 
+other creditors of the Issuer or the Parent on the other hand. Examples of such issues are (a) how proceeds from a 
+loan partly registered to the Issuer Cover Pool should be distributed between the portion of such loan registered to 
+the Issuer Cover Pool and the portion of such loan not registered to the Issuer Cover Pool and (b) how the proceeds 
+of enforcement of a mortgage certificate should be distributed if this serves as collateral for two different loans 
+ranking pari passu in the mortgage certificate where one such loan is not wholly or partly registered to the Issuer 
+Cover Pool. The lack of clear guidance on these and similar issues may lead to unsecured creditors arguing that 
+part of the proceeds from a loan and/or mortgage certificate should not be included in the Issuer Cover Pool or to 
+any creditors with loans that rank pari passu in a mortgage certificate which also serves as collateral for a loan 
+registered to the Issuer Cover Pool arguing that part of the proceeds from such mortgage certificate should not be 
+included in the Issuer Cover Pool.  
+Non-compliance with matching rules 
+The Covered Bonds Act contains matching rules which, among other things, require that the present value 
+of the Cover Pool exceeds by at least two per cent. the present value of the liabilities relating to Covered Bonds. 
+In order to comply with these requirements, the Issuer may enter into and shall take into account the effect of 
+relevant derivative contracts. The present value of the derivative contracts shall be included when determining 
+whether the present value of the Cover Pool exceeds the present value of the liabilities relating to Covered Bonds.
+
+--- Page 17 ---
+17(51) 
+ 
+The Issuer is dependent on the availability of derivative counterparties with sufficient credit rating and also on 
+such counterparties fulfilling their contractual obligations. 
+A breach of the matching requirements prior to the Issuer’s bankruptcy in the circumstances where no 
+additional assets are available to the Issuer or the Issuer lacks the ability to acquire additional assets could result 
+in the Issuer being unable to issue further Covered Bonds. If, following the Issuer’s bankruptcy, the Issuer Cover 
+Pool ceases to meet the requirements of the Covered Bonds Act (including the matching requirements), and the 
+deviations are not just temporary and minor, the Issuer Cover Pool may no longer be maintained as a unit and the 
+continuous payment under the terms and conditions of the Covered Bonds and derivative contracts will cease. 
+Bondholders would in such case instead benefit from a priority right in the proceeds of a sale of the assets in the 
+Issuer Cover Pool in accordance with general bankruptcy rules. This could result in Bondholders receiving 
+payment according to a schedule that is different from that contemplated by the terms and conditions of the 
+Covered Bonds (with accelerations as well as delays) or that Bondholders are not paid in full. However, 
+Bondholders and the derivative contract parties would retain the benefit of the right of priority in the assets 
+comprising the Issuer Cover Pool. Any residual claims of Bondholders and the derivative contract parties would 
+remain valid claims against the Issuer, but would rank pari passu with other unsecured and unsubordinated 
+creditors of Issuer. 
+Majority decisions by Bondholders 
+The General Terms and Conditions include certain provisions regarding a Bondholders’ meeting, which 
+may be held in order to resolve on matters relating to Bondholders’ interests. Such provisions allow for designated 
+majorities to bind all Bondholders, including Bondholders who have not participated in or voted at the actual 
+meeting or who have voted differently than the required majority, to decisions that have been taken at a duly 
+convened and conducted Bondholders’ meeting. The degree to which any such decisions may affect the 
+Bondholders is uncertain and presents a significant risk that the actions of the majority in such matters can impact 
+the Bondholder’s rights in a manner that can be undesirable for some Bondholders. 
+The EU covered bond framework and the Covered Bonds Act 
+The European Union’s covered bond directive (EU) 2019/2162 and regulation (EU) 2019/2160 (together, 
+the “EU Covered Bond Legislation”) came into effect on 7 January 2020 and on 8 July 2022, the EU Covered 
+Bond Legislation was implemented in Sweden by amendments to the Covered Bonds Act. The Covered Bonds 
+Act contains, inter alia, maturity extensions, provisions with regards to which assets may be included in the Cover 
+Pool and a requirement of a certain liquidity buffer (see also “Summary of the Swedish covered bonds legislation”).  
+For a covered bond that has been issued before 8 July 2022, the previous version of the Covered Bonds 
+Act as in force until 8 July 2022 will, as a main principle, continue to apply during the remaining part of such 
+covered bond’s maturity. However, to ensure a smooth transition to the new rules, statements made in the 
+preparatory work to the amended Covered Bonds Act indicates that issuers with covered bonds issued under the 
+previous version of the Covered Bonds Act that benefit from the same Cover Pool as covered bonds issued under 
+the Covered Bonds Act may apply certain provisions of the new legislation to the Cover Pool in its entirety, but 
+that this shall be determined by the application of the law. As of the date of this Prospectus, legal practice from 
+the SFSA relating to the new rules is limited. On 8 July 2022, the maximum allowable loan-to-value ratio pursuant 
+to the Covered Bonds Act was increased from 75 per cent. to 80 per cent. for credits collateralised by residential 
+properties that are included in the Cover Pool for covered bonds. On 15 February 2024, the SFSA published a 
+legal position stating that the 80 per cent. limit also applies to the Cover Pool for covered bonds issued before 8 
+July 2022. For tap issues made after 8 July 2022, certain transitional provisions will apply.  
+In addition to the Covered Bonds Act the SFSA has issued regulations and recommendations under the 
+authority conferred on it by the Covered Bonds Act (Finansinspektionens föreskrifter och allmänna råd om 
+säkerställda obligationer (FFFS 2013:1), most recently updated through FFFS 2022:12) (the “SFSA 
+Regulations”) (see also “Summary of the Swedish covered bonds legislation”).  
+Any failure by the Issuer to comply with the Covered Bonds Act or the SFSA Regulations may have a 
+material adverse effect on the Issuer. 
+Risks related to interest rate constructions 
+Covered Bonds with a fixed interest rate bear the interest at a fixed rate until the Maturity Date (or if 
+applicable, the Extended Maturity Date) for such Covered Bond. The market value of such Covered Bond is highly 
+influenced by the market interest rate level. As the market interest rate level changes, the market value of the 
+Issuer’s Covered Bond with a fixed interest rate typically changes in the opposite direction, i.e. if the market
+
+--- Page 18 ---
+18(51) 
+ 
+interest rate level increases, the market value of such Covered Bond falls and if the general interest rate level falls, 
+the market value of such Covered Bonds increases. Since the price of Covered Bonds is adversely affected by 
+changes in the market interest rate level, there is a risk that Bondholders may lose all or a significant part of their 
+investment in such Covered Bonds. 
+A Bondholder of a floating rate Covered Bond is exposed to the risk of fluctuating interest levels and 
+uncertain interest income. Fluctuating interest rate levels make it impossible to determine the yield of floating rate 
+Covered Bonds in advance. In the event that the reference rate used to calculate the applicable interest rate turns 
+negative, the interest rate will be below the margin, if any, and may be zero and accordingly, the Bondholders of 
+the Issuer’s floating rate Covered Bonds may not be entitled to interest payments for certain, or all, interest periods. 
+The maturity of the Covered Bonds may be extended 
+An Extended Maturity Date may be specified in the applicable Final Terms and apply to a Loan. 
+If an Extended Maturity Date has been specified as applicable in the Final Terms and the Issuer has 
+received approval from the SFSA to extend the maturity, the maturity of the relevant Covered Bonds will be 
+extended to the Extended Maturity Date. 
+The extension of the maturity of the nominal amount outstanding of the relevant Covered Bonds from the 
+Maturity Date to the Extended Maturity Date will not result in any right of the Bondholders to accelerate payments 
+or take action against the Issuer and no payment will be payable to the Bondholders in that event other than as set 
+out in the General Terms and Conditions.
+
+--- Page 19 ---
+19(51) 
+ 
+GENERAL TERMS AND CONDITIONS FOR COVERED BOND LOANS 
+The following general terms and conditions (the “General Terms and Conditions”) apply for Covered Bonds 
+that Danske Hypotek AB (publ) (Reg. No. 559001-4154) (the “Issuer”), issues in the capital market under an 
+agreement with the Dealers in respect of a Swedish programme for the continuous issuance of covered bonds (the 
+“Programme”). For each Loan, final terms are prepared that include supplementary terms and conditions, which 
+together with these General Terms and Conditions constitute the complete terms and conditions for the relevant 
+Loan. Final Terms for Loans that are offered to the public will be published on the Issuer’s website 
+(www . danskehypotek.se) and made available at the office of the Issuer. For as long as a Loan is outstanding, the 
+Issuer will keep the General Terms and Conditions and the Final Terms for such Loan available on its website. 
+1. 
+DEFINITIONS 
+1.1 
+In the Conditions, the following expressions shall have the meaning ascribed to them below. 
+“Account Operator” means a bank or other party duly authorised to operate as an account operator 
+(kontoförande institut) pursuant to the Swedish Financial Instruments Accounts Act and through 
+which a Bondholder has opened a VP-account in respect of its Covered Bonds; 
+“Adjusted Loan Amount” means, with respect to a specific Loan, the Total Nominal Amount of 
+outstanding Covered Bonds excluding Covered Bonds held by the Issuer and any other member of the 
+Group, irrespective of whether such entity is registered by name as the Bondholder of such Covered 
+Bonds; 
+“Administrative Agent” means (i) if a Loan is issued through two or more Issuing Houses, the Issuing 
+House appointed by the Issuer to be responsible for certain administrative tasks in respect of the Loan 
+as set out in the relevant Final Terms; and (ii) if a Loan is issued through only one Issuing House, the 
+Issuing House; 
+“Arranger” means Danske Banks A/S, Danmark, Sverige Filial or any Dealer replacing it as 
+Arranger; 
+”Base Rate” means in regards to Loans with Floating Rate, the base rate STIBOR or EURIBOR as 
+described in the Final Terms or any reference rate replacing STIBOR or EURIBOR in accordance 
+with section 6 (Replacement of Base Rate); 
+“Bondholder” means the person recorded on a VP-account as direct registered owner (ägare) or 
+nominee (förvaltare) of a Covered Bond; 
+“Bondholders’ Meeting” means a meeting of the Bondholders in respect of a Loan as described in 
+Section 11 (Bondholders’ Meeting); 
+“Business Day” means a day which is not a Sunday or other public holiday in Sweden or which is 
+not treated as a public holiday for the purpose of payment of promissory notes. In this definition, 
+Saturdays, Midsummer’s Eve (midsommarafton), Christmas Eve (julafton) and New Year’s Eve 
+(nyårsafton) shall be deemed public holidays; 
+“Conditions” for a particular Loan means these General Terms and Conditions and the Final Terms 
+for such Loan; 
+“Covered Bond” means a unilateral promissory note which is registered in accordance with the 
+Swedish Financial Instruments Accounts Act and issued by the Issuer in accordance with the 
+Conditions and coupled with rights of priority in the Issuer’s covered pool pursuant to the Swedish 
+Covered Bonds Act; 
+“Covered Bonds Act” means the Swedish covered bonds issuance act (Sw. lagen (2003:1223) om 
+utgivning av säkerställda obligationer) as amended; 
+“Covered Bond Directive” means Directive 2019/2162/EU on the issue of covered bonds and 
+covered bond public supervision and amending Directives 2009/65/EC and 2014/59/EU; 
+“Day Count Convention” means, when determining an amount for a certain determination period, 
+the counting basis stated in the Final Terms, and;
+
+--- Page 20 ---
+20(51) 
+ 
+(a) 
+if the counting basis “30/360” is stated as being applicable, the amount shall be calculated 
+using a year of 360 days comprising twelve months of 30 days each, and in the case of a 
+fraction of a month using the actual number of days of the month that have passed; and 
+(b) 
+if the counting basis “Actual/360” is stated as being applicable, the amount shall be 
+calculated using the actual number of days in the relevant period divided by 360; 
+“Dealers” means Danske Bank A/S, Danmark, Sverige Filial, Nordea Bank Abp, Skandinaviska 
+Enskilda Banken AB (publ), Svenska Handelsbanken AB (publ) and Swedbank AB (publ) and such 
+other dealer (emissionsinstitut) appointed in accordance with Section 13.4, but only for so long as 
+such dealer has not withdrawn as a dealer; 
+“Euro” and “EUR” means the single currency of the participating member states in accordance with 
+the legislation of the European Community relating to the European Economic and Monetary Union; 
+“European Reference Banks” means four leading commercial banks that quotes EURIBOR at the 
+time in question and that are appointed by the Dealers; 
+“Euroclear Sweden” means Euroclear Sweden AB, Reg. No. 556112-8074; 
+”EURIBOR” means: 
+(a) the interest rate as displayed as of or around 11.00 a.m. on the relevant day on page 
+EURIBOR01 of the Refinitiv screen (or through such other system or on such other page as 
+replaces the said system or page) for EUR for a period comparable to the relevant Interest 
+Period; or 
+(b) if no such interest rate is available for the relevant Interest Period as described in paragraph 
+(a), the arithmetic mean of the rates (rounded upwards to four decimal places) as supplied 
+to the Administrative Agent at its request quoted by the European Reference Banks for 
+deposits of EUR 10,000,000 for the relevant Interest Period; or 
+(c) if no interest rate as described in paragraph (a) or (b) is available, the interest rate which, 
+according to the reasonable assessment of the Administrative Agent, best reflects the 
+interest rate for deposits in EUR offered for the relevant Interest Period. 
+“Extended Maturity Date” has the meaning set out in Clause 10 (Extended Maturity) and as further 
+specified in the Final Terms for Covered Bonds issued on, or following, 8 July 2022, and which is a 
+date falling twelve months after the Maturity Date or any other date falling after the Maturity Date 
+of a Covered Bond; 
+“Final Terms” means the final terms prepared for a particular Loan; 
+“Group” means Danske Bank A/S and its subsidiaries from time to time; 
+“Interest Base” means, for a Loan with floating interest rate, the interest base (STIBOR or 
+EURIBOR) stated in the relevant Final Terms or any reference rate replacing STIBOR or EURIBOR 
+in accordance with section 6 (Replacement of Base Rate); 
+“Interest Determination Date” means, for a Loan with floating interest rate, the date specified in the 
+relevant Final Terms; 
+“Interest Payment Date” means, for a Loan, the date specified in the relevant Final Terms; 
+“Interest Period” means, for a Loan, the period specified in the relevant Final Terms; 
+“Interest Rate” means  
+(a) 
+until (and including) the Maturity Date (i) for a Loan with fixed interest rate, the interest 
+rate specified in the relevant Final Terms and (ii) for a Loan with floating interest rate, the 
+interest rate calculated in accordance with Section 5.1(b); and 
+(b) 
+if applicable, from (but excluding) the Maturity Date to (and including) the Extended 
+Maturity Date, a floating interest rate calculated in accordance with Section 5.2;
+
+--- Page 21 ---
+21(51) 
+ 
+“IPA” means Danske Bank A/S, Danmark, Sverige Filial or such other issuing and paying agent (IPA) 
+appointed by the Issuer for the functions set out in Section 4.3, but only for so long as such issuing 
+and paying agent has not withdrawn as a issuing and paying agent or been replaced in accordance with 
+Section 13.5; 
+“Issue Date” means, for a Loan, the date specified in the relevant Final Terms; 
+“Issuing House” means the Dealer(s) through which a particular Loan is issued; 
+“Loan” means each loan, comprising of one or more Covered Bonds with the same ISIN, raised by 
+the Issuer under this Programme; 
+“Margin” means, for a Loan with floating interest rate, the margin specified in the relevant Final 
+Terms; 
+“Maturity Date” means, for a Loan, the date specified in the relevant Final Terms; 
+“Nominal Amount” means the amount for each Covered Bond that is stated in the relevant Final 
+Terms less any amount repaid; 
+“Record Date” means  
+(a) 
+the Business Day before the payment date in respect of principal amounts payable under 
+the Conditions; and 
+(b) 
+the fifth Business Day before (i) the payment date in respect of interest amounts payable 
+under the Conditions, (ii) another date when payment is to be made to Bondholders (other 
+than payment of principal), (iii) the date of a Bondholders’ Meeting, or (iv) another 
+relevant date (other than a payment date for principal amounts payable under the 
+Conditions), 
+or, in each case, such other Business Day falling prior to a relevant date if generally applicable on 
+the Swedish bond market; 
+“Reference Banks” means Nordea Bank Abp, filial i Sverige, Skandinaviska Enskilda 
+Banken AB (publ), Svenska Handelsbanken AB (publ) and Swedbank AB (publ); 
+“Regulated Market” means a regulated market for the purposes of Directive 2014/65/EU; 
+“STIBOR” means: 
+(a) the interest rate administered, calculated and distributed by the Swedish Financial 
+Benchmark Facility AB (or the replacing administrator or calculation agent) for the 
+relevant day and published on the information system Refinitiv’s page ”STIBOR=” (or 
+through such other system or on such other page as replaces the said system or page) for 
+SEK for a period comparable to the relevant Interest Period; or  
+(b) if no such interest rate is available for the relevant Interest Period as described in paragraph 
+(a), the arithmetic mean of the rates (rounded upwards to four decimal places) as supplied 
+to the Administrative Agent at its request quoted by the Reference Banks for deposits of 
+SEK 100,000,000 for the relevant Interest Period; or 
+(c) if no such interest rate as described in paragraph (a) or (b) is available, the interest rate 
+which, according to the reasonable assessment of the Administrative Agent, best reflects 
+the interest rate for deposits in SEK offered in the Stockholm interbank market for the 
+relevant Interest Period. 
+“Swedish 
+Financial 
+Instruments 
+Accounts 
+Act” 
+means 
+lagen 
+(1998:1479) 
+om 
+värdepapperscentraler och kontoföring av finansiella instrument; 
+“Swedish Kronor” and “SEK” means the lawful currency of Sweden; 
+“Total Nominal Amount” means, for a Loan, the total aggregate Nominal Amount of the Covered 
+Bonds outstanding at the relevant time;
+
+--- Page 22 ---
+22(51) 
+ 
+“VP-account” means a securities account (VP-konto) under the Swedish Financial Instruments 
+Accounts Act maintained by Euroclear Sweden in which (i) an owner of such security is directly 
+registered or (ii) an owner’s holding of securities is registered in the name of a nominee. 
+1.2 
+When ascertaining whether a limit or threshold specified in Swedish Kronor has been attained or 
+broken, an amount in another currency shall be counted on the basis of the rate of exchange for such 
+currency against Swedish Kronor for the previous Business Day, as published by the Swedish 
+Central Bank (Sw. Riksbanken) on its website (www . riksbank.se). If no such rate is available, the 
+most recently published rate shall be used instead. 
+1.3 
+Further definitions are contained (where relevant) in the relevant Final Terms. 
+1.4 
+The definitions contained in these General Terms and Conditions shall also apply to the relevant 
+Final Terms. 
+2. 
+RAISING OF LOANS, LOAN AMOUNT, DENOMINATION AND PAYMENT 
+COMMITMENT 
+2.1 
+Under this Programme the Issuer may issue Covered Bonds in Swedish Kronor or Euro with a 
+minimum term of one year. Under a Loan, Covered Bonds may be issued in more than one tranche. 
+2.2 
+The Total Nominal Amount will be determined when the sale of the Covered Bonds has been 
+completed and shall be represented by Covered Bonds in the denomination in SEK or EUR 
+specified in the relevant Final Terms or in whole multiples thereof. 
+2.3 
+The Issuer undertakes to repay the principal and to pay interest in respect of each Loan in 
+accordance with these Conditions. 
+2.4 
+In subscribing for Covered Bonds each initial Bondholder accepts that its Covered Bonds shall have 
+the rights and be subject to the conditions stated in the Conditions. In acquiring Covered Bonds each 
+new Bondholder confirms such acceptance. 
+3. 
+REGISTRATION OF COVERED BONDS 
+3.1 
+Covered Bonds shall be registered in a VP-account on behalf of the Bondholder, and accordingly no 
+physical notes representing the Covered Bonds will be issued. 
+3.2 
+A request concerning the registration of a Covered Bond shall be made to the Account Operator. 
+3.3 
+Any person who acquires the right to receive payment under a Covered Bond through a mandate, a 
+pledge, regulations in the Code on Parents and Children (Föräldrabalken), conditions in a will or 
+deed of gift or in some other way shall register her or his right to payment. 
+3.4 
+For Covered Bonds registered in the name of a nominee in accordance with the Swedish Financial 
+Instruments Accounts Act, the nominee shall be regarded as the Bondholder under these Conditions. 
+3.5 
+The Administrative Agent shall, for the purpose of carrying out its tasks under Section 11 and, with 
+Euroclear’s permission, at all other times be entitled to obtain information from the debt register 
+(skuldbok) kept by Euroclear Sweden in respect of the Covered Bonds. 
+3.6 
+The Administrative Agent may use the information referred to in Section 3.5 only for the purposes 
+of carrying out their duties and exercising their rights in accordance with the Conditions and shall 
+not disclose such information to any Bondholder or third party unless necessary for such purposes.
+
+--- Page 23 ---
+23(51) 
+ 
+4. 
+PAYMENTS 
+4.1 
+A Loan falls due on the Maturity Date, (or if applicable, the Extended Maturity Date). Interest shall 
+be paid on each Interest Payment Date in accordance with the relevant Final Terms. On the Maturity 
+Date (or if applicable, the Extended Maturity Date), the Loan shall be repaid together with accrued 
+interest (if any). If the Maturity Date or the Extended Maturity Date, as applicable, falls on a day 
+that is not a Business Day, the Loan (and accrued interest (if any)) shall not be repaid until the 
+following Business Day. 
+4.2 
+Repayment of principal and payment of interest shall be made to the person who is Bondholder on 
+the Record Date prior to such payment date, or to such other person who is registered with 
+Euroclear Sweden on such date as being entitled to receive the relevant payment, repayment or 
+repurchase amount. 
+4.3 
+The Issuer has appointed the IPA to administrate payments under Covered Bonds and the IPA has 
+accepted this appointment on the condition that the Issuer provides the IPA with the necessary 
+means.  
+4.4 
+Where the Bondholder has arranged for an Account Operator to record that the principal and interest 
+are to be credited to a particular bank account, the payments will be made through Euroclear 
+Sweden on the relevant due dates. If no such instructions have been given, Euroclear Sweden will 
+send the amount on such dates to the Bondholder at the address registered on the Record Date with 
+Euroclear Sweden. If the due date falls on a day which is not a Business Day, the amount will be 
+credited to an account or made available to the payee on the next following Business Day. However, 
+interest in this regard is only paid up to and including the Interest Payment Date for Loans with 
+fixed interest rate. Should the Interest Payment Date for Loans with floating interest rate occur on a 
+day that is not a Business Day, the Interest Payment Date shall be on the next following Business 
+Day, provided that such Business Day does not occur in a new month in which case the Interest 
+Payment Date shall be the first preceding Business Day instead. 
+4.5 
+If the IPA or Euroclear Sweden is unable to pay the amount in the manner stated above as a result of 
+some delay on the part of the Issuer or because of some other obstacle, then, as soon as the obstacle 
+has been removed, the amount shall be paid by the IPA or Euroclear Sweden, as applicable, to the 
+person registered as Bondholder on the Record Date. 
+4.6 
+If the Issuer is unable to carry out its obligations to pay through the IPA or Euroclear Sweden in the 
+manner stated above due to obstacles for the IPA or Euroclear Sweden as stated in Section , the 
+Issuer shall have a right to postpone the obligation to pay until the obstacle has been removed. In 
+such case, interest will be paid in accordance with Section 7.2. 
+4.7 
+In the event that the person to whom the amount was paid in the manner stated above was not 
+entitled to receive it, the Issuer, the IPA and Euroclear Sweden, as applicable, shall nevertheless be 
+regarded as having fulfilled their obligations. However, this does not apply if the Issuer, the IPA or 
+Euroclear Sweden, as applicable, was aware that the person to whom the amount was paid was not 
+entitled to receive it or if the Issuer, the IPA or Euroclear Sweden, as applicable, neglected to show 
+the necessary care given the circumstances. 
+5. 
+INTEREST 
+5.1 
+The relevant Final Terms shall state the relevant interest structure using one of the following 
+alternatives: 
+(a) 
+Fixed interest rate 
+If a Loan is specified as a Loan with fixed interest rate, the Loan shall bear interest on its 
+Nominal Amount at the Interest Rate from (but excluding) the Interest Commencement 
+Date up to (and including) the Maturity Date. Interest accrued during an Interest Period is
+
+--- Page 24 ---
+24(51) 
+ 
+paid in arrears on the relevant Interest Payment Date and is calculated using the Day Count 
+Convention 30/360 for Loans in SEK and EUR. 
+(b) 
+Floating interest rate 
+(i) 
+If a Loan is specified as a Loan with floating interest rate, the Loan shall bear 
+interest on its Nominal Amount from (but excluding) the Interest Commencement 
+Date up to (and including) the Maturity Date. The Interest Rate applicable to each 
+respective Interest Period is determined by the Administrative Agent on the 
+respective Interest Determination Date as the Interest Base plus the Margin for 
+such period, adjusted for the application of section 6 (Replacement of Base Rate). 
+(ii) 
+Notwithstanding paragraph (i) above and subject to paragraph (iii) below, if the 
+Interest Base plus the Margin for the relevant period is below zero (0), the floating 
+interest rate shall be deemed to be zero (0). 
+(iii) 
+If any Maximum Interest Rate or Minimum Interest Rate is specified in the 
+relevant Final Terms, then the Interest Rate shall in no event be greater than the 
+maximum or be less than the minimum so specified. 
+(iv) 
+If the Interest Rate is not determined on the Interest Determination Date because 
+of an obstacle such as is described in Section 16.1, the Loan shall continue to bear 
+interest at the rate that applied to the immediately preceding Interest Period. As 
+soon as the obstacle has been removed the Administrative Agent shall calculate a 
+new Interest Rate to apply from the second Business Day after the date of 
+calculation until the end of the current Interest Period. Interest accrued during an 
+Interest Period is paid in arrears on the relevant Interest Payment Date and is 
+calculated using the Day Count Convention Actual/360 for Loans in SEK and 
+EUR, or by using such other method of calculation as is applied for the relevant 
+Base Rate. 
+5.2 
+If an Extended Maturity Date is specified in the relevant Final Terms as applying to a Loan and the 
+maturity of such Loan is extended beyond the Maturity Date in accordance with Section 10.1 
+(Extended Maturity):  
+(a) 
+the Loan shall bear interest from (but excluding) the Maturity Date to (and including) the 
+Extended Maturity Date or, if the Covered Bonds are repaid prior to the Extended Maturity 
+Date, the Interest Payment Date on which they are repaid. The final Interest Payment Date 
+shall fall no later than the Extended Maturity Date; and 
+(b) 
+the rate of interest payable from time to time under Section 5.2(a) will be a floating interest 
+rate calculated in accordance Section 5.1(b) but on the basis of the Interest Base, Margin, 
+Interest Determination Date(s), Interest Period(s) and Interest Payment Date(s) specified as 
+applying in relation to the period from (but excluding) the Maturity Date to (and including) 
+the Extended Maturity Date in the relevant Final Terms and, where applicable, determined 
+by the Administrative Agent, three (3) Business Days after the Maturity Date in respect of 
+the first such Interest Period and thereafter as specified in the relevant Final Terms. 
+6. 
+REPLACEMENT OF BASE RATE 
+6.1 
+If a Base Rate Event as described in Clause 6.2 below has occurred, the Issuer shall, in consultation 
+with the Arranger, initiate the procedure to, as soon as reasonably possible, determine a Successor 
+Base Rate, Adjustment Spread, as well as initiate the procedure to determine upon necessary 
+administrative, technical and operative amendments to the Conditions in order to apply, calculate 
+and finally decide the applicable Base Rate. The Arranger is not obligated to participate in such 
+consultation or determination as described above. Should the Arranger not participate in such 
+consultation or determination, the Issuer shall, at the Issuer’s expense, as soon as possible appoint 
+an Independent Adviser to initiate the procedure to, as soon as reasonably possible, determine upon 
+the mentioned. Provided that the Successor Base Rate, the Adjustment Spread and other
+
+--- Page 25 ---
+25(51) 
+ 
+amendments have been finally decided no later than prior to the relevant Interest Determination 
+Date in relation to the next succeeding Interest Period, they shall become effective with effect from 
+and including the commencement of the next succeeding Interest Period, always subject to any 
+technical limitations of Euroclear Sweden and any calculations methods applicable to such 
+Successor Base Rate. 
+6.2 
+A base rate event is an event where one or more of the following events occur (”Base Rate Event”) 
+which means:  
+(a) the Base Rate (for the relevant Interest Period of the relevant Loan) has ceased to exist or 
+ceased to be published for at least five (5) consecutive Business Days as a result of the 
+Base Rate (for the relevant Interest Period of the relevant Loan) ceasing to be calculated or 
+administered;  
+ 
+(b) a public statement or publication of information by (i) the supervisor of the Base Rate 
+Administrator or (ii) the Base Rate Administrator that the Base Rate Administrator ceases to 
+provide the applicable Base Rate (for the relevant Interest Period of the relevant Loan) 
+permanently or indefinitely and, at the time of the statement or publication, no successor 
+administrator has been appointed or is expected to be appointed to continue to provide the Base 
+Rate; 
+ 
+(c) a public statement or publication of information in each case by the supervisor of the Base Rate 
+Administrator that the Base Rate (for the relevant Interest Period of the relevant Loan) is no 
+longer representative of the underlying market which the Base Rate is intended to represent and 
+the representativeness of the Base Rate will not be restored in the opinion of the supervisor of 
+the Base Rate Administrator; 
+ 
+(d) a public statement or publication of information in each case by the supervisor of the Base Rate 
+Administrator with the consequence that it is unlawful for the Issuer or the Administrative 
+Agent to calculate any payments due to be made to any Bondholder using the applicable Base 
+Rate (for the relevant Interest Period of the relevant Loan) or it has otherwise become 
+prohibited to use the applicable Base Rate (for the relevant Interest Period of the relevant 
+Loan); 
+ 
+(e) a public statement or publication of information in each case by the bankruptcy trustee of the 
+Base Rate Administrator or by the trustee under the bank recovery and resolution framework 
+(Sw. krishanteringsregelverket), or in respect of EURIBOR, from the equivalent entity with 
+insolvency or resolution powers over the Base Rate Administrator, containing the information 
+referred to in (b) above; or 
+ 
+(f) a Base Rate Event Announcement has been made and the announced Base Rate Event as set out 
+in (b) to (e) above will occur within six (6) months. 
+6.3 
+Upon a Base Rate Event Announcement, the Issuer may (but are not obligated to), if it is possible at 
+such time to determine the Successor Base Rate, Adjustment Spread and other amendments, in 
+consultation with the Arranger or through the appointment of an Independent Adviser, initiate the 
+procedure as described in Clause 6.1 above to finally decide the Successor Base Rate, the 
+Adjustment Spread and other amendments, in order to change to the Successor Base Rate at an 
+earlier time. 
+6.4 
+If a Base Rate Event set out in any of the paragraphs (a) to (e) of the Base Rate Event definition has 
+occurred but no Successor Base Rate and Adjustment Spread have been finally decided at the latest 
+prior to the relevant Interest Determination Date or if such Successor Base Rate and Adjustment
+
+--- Page 26 ---
+26(51) 
+ 
+Spread have been finally decided but due to technical limitations of Euroclear Sweden, cannot be 
+applied in relation to the relevant Interest Determination Date, the interest applicable to the next 
+succeeding Interest Period shall be: 
+(a) if the previous Base Rate is available, determined pursuant to the terms that would apply to the 
+determination of the Base Rate as if no Base Rate Event had occurred; or 
+ 
+(b) if the previous Base Rate is no longer available or cannot be used in accordance with applicable 
+law or regulation, equal to the interest determined for the immediately preceding Interest 
+Period. 
+The provisions set out in this clause are applicable on subsequent Interest Periods, provided that all 
+relevant measures have been carried out regarding the application of and the adjustments described 
+in this section 6 (Replacement of Base Rate) prior to every such subsequent Interest Determination 
+Date, but without success. 
+6.5 
+Prior to the Successor Base Rate, Adjustment Spread and any other amendments becoming 
+effective, the Issuer shall promptly, following the final decision by the Issuer in consultation with 
+the Arranger or the Independent Adviser of any Successor Base Rate, Adjustment Spread and any 
+other amendments, give notice thereof to the Bondholders, the Administrative Agent and Euroclear 
+Sweden in accordance with section 15 (Notices). The notice shall also include information about the 
+effective date of the amendments. If the Covered Bonds are admitted to trading on a Regulated 
+Market, the Issuer shall also give notice of the amendments to the relevant stock exchange. 
+6.6 
+The Arranger, the Independent Adviser and the Administrative Agent that carries out measures in 
+accordance with this section 6 shall not be liable whatsoever for any damage or loss caused by any 
+determination, action taken or omitted by it in conjunction with the determination and final decision 
+of the Successor Base Rate, Adjustment Spread and any amendments thereto to the Conditions, 
+unless directly caused by its gross negligence or wilful misconduct. The Arranger, the Independent 
+Adviser and the Administrative Agent shall never be responsible for indirect or consequential loss. 
+6.7 
+In this section 6 the following definitions have the meaning described below: 
+”Adjustment Spread” means a spread or a formula or methodology for calculating a spread to be 
+applied to a Successor Base Rate and that is: 
+(i) formally recommended by any Relevant Nominating Body in relation to the replacement of 
+the Base Rate; or 
+(ii) if (i) is not applicable, the adjustment spread that the Issuer in consultation with the 
+Arranger or the Independent Adviser determines is reasonable to use in order to eliminate, 
+to the extent possible, any transfer of economic value from one party to another as a result 
+of a replacement of the Base Rate and is customarily applied in comparable debt capital 
+market transactions. 
+”Base Rate Administrator” means Swedish Financial Benchmark Facility AB (SFBF) in relation 
+to STIBOR and European Money Markets Institute (EMMI) in relation to EURIBOR or any person 
+replacing it as administrator of the Base Rate. 
+”Base Rate Event Announcement” means a public statement or published information as set out in 
+paragraph 6.2 (b) to 6.2 (e) that any event or circumstance specified therein will occur. 
+”Independent Adviser” means an independent financial institution or adviser of repute in the debt 
+capital markets where the Base Rate is commonly used. 
+”Relevant Nominating Body” means, subject to applicable law, firstly any relevant supervisory 
+authority, secondly any applicable central bank, or any working group or committee of any of them, 
+or thirdly the Financial Stability Council (Finansiella stabilitetsrådet) or any part thereof. 
+”Successor Base Rate” means:  
+(i) a screen or “benchmark” rate, including the methodology for calculating term structure and 
+calculation methods in respect of debt instruments with similar interest rate terms as
+
+--- Page 27 ---
+27(51) 
+ 
+Covered Bonds, which is formally recommended as a successor to or replacement of the 
+Base Rate by a Relevant Nominating Body; or 
+(ii) if there is no such rate as described in paragraph (i), such other rate as the Issuer in 
+consultation with the Arranger or the Independent Adviser determines is most comparable 
+to the Base Rate. 
+For the avoidance of doubt, in the event that a Successor Base Rate ceases to exist, this definition 
+shall apply mutatis mutandis to such new Successor Base Rate. 
+7. 
+PENALTY INTEREST 
+7.1 
+In the event of delay in payment relating to principal and/or interest, penalty interest shall be paid on 
+the amount due from the maturity date (except, for the avoidance of doubt, in relation to any 
+Maturity Date extended to an Extended Maturity Date, in which case penalty interest shall be paid 
+on the amount due from such Extended Maturity Date) up to and including the day on which 
+payment is made, at an interest rate which corresponds to one week’s STIBOR (for Loans 
+denominated in SEK) or EURIBOR (for Loans denominated in EUR) applicable on the first 
+Business Day in each calendar week during the course of delay plus two percentage points. 
+However, penalty interest according to this Section 7.1 shall never be lower than the Interest Rate at 
+the maturity date plus one percentage point. Penalty interest is not compounded with the principal 
+amount. 
+7.2 
+If the delay is due to an obstacle of the kind set out in Section 16.1 on the part of the Issuing 
+House(s), the IPA or Euroclear Sweden, no penalty interest shall apply, in which case the rate of 
+interest which applied to the relevant Loan on the relevant due date shall apply instead. 
+8. 
+LISTING ON REGULATED MARKET 
+If listing is specified in the relevant Final Terms for a Loan, the Issuer shall apply to list the Loan at 
+the specified listing venue. As long as such Loan amount is outstanding, but not beyond the Maturity 
+Date (or Extended Maturity Date, if applicable) or the last day on which the listing reasonably can, 
+pursuant to the then applicable regulations, subsist, the Issuer shall take such practicably possible 
+measures that may be required to maintain the listing at the specified listing venue or any other 
+Regulated Market. 
+9. 
+REPURCHASE OF COVERED BONDS 
+The Issuer may repurchase Covered Bonds at any time and at any price in the open market or 
+otherwise provided that this is compatible with applicable law. Covered Bonds owned by the Issuer 
+may be retained, resold or cancelled at the Issuer’s discretion. 
+10. 
+EXTENDED MATURITY 
+10.1 
+An extended Maturity Date may be specified as applicable to a Loan in the Final Terms and may, in 
+such case, extend the Maturity Date to the Extended Maturity Date, in each case subject to such 
+extension being permitted by the SFSA (Sw. Finansinspektionen) as a result of 
+(i) the SFSA deeming it likely that the extension will prevent insolvency (Sw. obestånd 
+(insolvens)) of the Issuer or otherwise as a result of the maturity event(s) stipulated in the 
+Covered Bonds Act or any other legislation that implements Article 17.1 (a) of the Covered 
+Bond Directive; and  
+(ii) the Final Terms specifies the date being the Extended Maturity Date. 
+10.2 
+If the SFSA has approved to extend the Maturity Date to an Extended Maturity Date, the Issuer shall 
+as soon as possible notify the Administrative Agent (and instruct the Administrative Agent to notify 
+Euroclear Sweden) and the Bondholders of such extension. However, failure to make such
+
+--- Page 28 ---
+28(51) 
+ 
+notification shall not in any event affect the validity or effectiveness of the extension nor constitute 
+an event of default or acceleration of payment for any purpose or give any Bondholder any right to 
+receive any payment of interest, principal or otherwise on the relevant Loan other than as expressly 
+set out in the General Terms and Conditions. 
+10.3 
+Any extension of the maturity of a Covered Bond under Clause 10.1 shall be irrevocable. Where 
+Clause 10.1 applies, any extension of the maturity of a Covered Bond shall not for any purpose or 
+give any Bondholder any right to receive any payment of interest, principal or otherwise on the 
+relevant Covered Bond other than as expressly set out in the General Terms and Conditions.  
+10.4 
+In the event of the extension of the maturity of a Loan under this Section 10, interest shall be 
+determined and payable in accordance with Section 5.2.  
+10.5 
+In the case of any partial repayment of a Loan, such repayment shall be made to the Bondholders 
+pro rata in proportion to the aggregate outstanding amount of Covered Bonds held by each such 
+Bondholder. 
+11. 
+BONDHOLDERS’ MEETING 
+11.1 
+The Administrative Agent may and, at the request of another Issuing House with respect to a 
+specific Loan, the Issuer or Bondholders that at the time of such request represent at least ten (10) 
+per cent. of the Adjusted Loan Amount under a particular Loan (such a request can only be made by 
+Bondholders entered in the securities register on the Business Day occurring immediately after the 
+date that the request was received by the Administrative Agent and must, if made by a number of 
+Bondholders, be made jointly), shall, convene a Bondholders’ Meeting for the Bondholders under 
+the relevant Loan. 
+11.2 
+The Administrative Agent shall convene a Bondholders’ Meeting by sending notice of this to each 
+Bondholder within five (5) Business Days of having received a request from another Issuing House, 
+the Issuer or Bondholders as described in Section 11.1 (or a later date if this is required for technical 
+or administrative reasons). 
+11.3 
+The Administrative Agent may refrain from convening a Bondholders’ Meeting if (i) the proposed 
+decision has to be approved by any party in addition to the Bondholders and this party has notified 
+the Administrative Agent that such approval will not be given, or (ii) the proposed decision is not 
+compatible with applicable law. 
+11.4 
+The notice of the meeting described in Section 11.2 shall include (i) time for the meeting, (ii) place 
+for the meeting, (iii) a specification of the Business Day on which a person must be registered as a 
+Bondholder in order to be entitled to exercise voting rights, (iv) a form of power of attorney, and (v) 
+the agenda for the meeting. The background and contents of each proposal as well as any applicable 
+conditions and conditions precedent shall be set out in the notice in sufficient detail. If a proposal 
+concerns an amendment to the Conditions, such proposed amendment must always be set out in 
+precise detail. Should prior notification by the Bondholders be required in order to attend the 
+Bondholders’ Meeting, such requirement shall be included in the notice. 
+11.5 
+The Bondholders’ Meeting shall be held on a date that is between ten (10) and thirty (30) Business 
+Days after the date of the notice of the meeting. Bondholders’ Meetings for several Loans under the 
+Covered Bond Programme may be held on the same occasion. 
+11.6 
+Without deviating from the provisions of these General Terms and Conditions, the Administrative 
+Agent may prescribe such further provisions relating to the convention of and holding of the 
+Bondholders’ Meeting as it considers appropriate. Such provisions may include, among other things, 
+the possibility of Bondholders voting without attending the meeting in person. 
+11.7 
+The meeting shall be initiated by the appointment of a chairman. The Administrative Agent shall 
+appoint the chairman unless the Bondholders’ Meeting decides differently. Board members, the 
+chief executive officer and other senior officials of the Issuer as well as the Issuer’s auditors and
+
+--- Page 29 ---
+29(51) 
+ 
+advisors have the right to participate at the Bondholders’ Meeting in addition to the Bondholders 
+and their representatives and advisors. A transcript of the debt register (skuldbok) that is kept by 
+Euroclear Sweden and relevant for determining Bondholders eligible to exercise voting rights shall 
+be available at the Bondholders’ Meeting. The chairman shall compile a list of present Bondholders 
+with voting rights that includes information on the share of the Adjusted Loan Amount that each 
+Bondholder represents (“voting list”). The voting list shall be approved by the Bondholders’ 
+Meeting. Only persons who on the Record Date for the Bondholders’ Meeting were Holders, or who 
+have been authorised in accordance with Section 12 (Right to act on behalf of Bondholders) by 
+persons who were Bondholders on the Record Date, may exercise voting rights at the Bondholders’ 
+Meeting, provided that the relevant Covered Bonds are included in the Adjusted Loan Amount, and 
+only such Bondholders and authorised persons, as applicable, shall be included in the voting list. 
+11.8 
+The chairman shall ensure that minutes are kept at the Bondholders’ Meeting. The minutes shall 
+include notes as to the participants, the issues dealt with, the voting results and the decisions that 
+were made. The minutes shall be signed by the chairman and at least one person appointed at the 
+Bondholders’ Meeting to approve the minutes and shall thereafter be delivered to the Administrative 
+Agent. The minutes shall be available at the Issuer’s website no later than five (5) Business Days 
+after the Bondholders’ Meeting. New or revised General Terms and Conditions or Final Terms shall 
+be appended to the minutes and sent to Euroclear Sweden by the Administrative Agent or by any 
+party appointed by the Administrative Agent. 
+11.9 
+Decisions on the following matters require the approval of Bondholders representing at least ninety 
+(90) per cent of that part of the Adjusted Loan Amount for which Bondholders are voting under the 
+relevant Loan at the Bondholders’ Meeting: 
+(a) 
+a change of Maturity Date (but not the Extended Maturity Date), reduction of Nominal 
+Amount, changes in terms relating to interest or amount to be repaid (other than in 
+accordance with what is stated in the Conditions, including what follows from the 
+application of section 6 (Replacement of Base Rate)) and change in the specified Currency 
+of the Loan; 
+(b) 
+a transfer by the Issuer of its rights and obligations under the Loan; 
+(c) 
+a change to the terms of this Section 11 (Bondholders’ Meeting); and 
+(d) 
+a mandatory exchange of Covered Bonds for other securities. 
+11.10 
+Matters that are not covered by Section 11.9, other than provisions regarding the Extended Maturity 
+Date (which for the avoidance of doubt may not be changed other than in accordance with Clause 
+10.1), require the approval of Bondholders representing more than fifty (50) per cent of that part of 
+the Adjusted Loan Amount for which Bondholders are voting under the relevant Loan at the 
+Bondholders’ Meeting. This includes, but is not limited to, changes to and waivers of rights related 
+to the Conditions that do not require a greater majority (other than changes as described in Section 
+13 (Changes to terms, etc.)). 
+11.11 
+A Bondholders’ Meeting is quorate if Bondholders representing at least fifty (50) per cent of the 
+Adjusted Loan Amount under the relevant Loan in respect of a matter in Section 11.9 and otherwise 
+twenty (20) per cent of the Adjusted Loan Amount under the relevant Loan are present at the 
+meeting either in person or by telephone (or are present via an authorised representative). 
+11.12 
+If a Bondholders’ Meeting is not quorate the Administrative Agent shall convene a new 
+Bondholders’ Meeting (in accordance with Section 11.2) unless the relevant proposal has been 
+withdrawn by the party or parties that initiated the Bondholders’ Meeting. The requirement of a 
+quorum in Section 11.11 shall not apply at such new Bondholders’ Meeting. 
+11.13 
+A decision at a Bondholders’ Meeting that extends obligations or limits rights of the Issuer or an 
+Issuing House under the Conditions shall also require the approval of the party concerned.
+
+--- Page 30 ---
+30(51) 
+ 
+11.14 
+A Bondholder that holds more than one Covered Bond is not required to vote for all the Covered 
+Bonds it holds and is not required to vote in the same way for all the Covered Bonds it holds. 
+11.15 
+The Issuer may not, directly or indirectly, pay or contribute to payment being made to any 
+Bondholder in order that this Bondholder will give its approval under the Conditions unless such 
+payment is offered to all Bondholders that give their approval at a relevant Bondholders’ Meeting. 
+11.16 
+A decision made at a Bondholders’ Meeting is binding on all Bondholders under the relevant Loan 
+irrespective of whether they are represented at the Bondholders’ Meeting. Bondholders that do not 
+vote for a decision shall not be liable for losses that the decision causes to other Bondholders. 
+11.17 
+The Administrative Agent’s reasonable costs and expenses occasioned by a Bondholders’ Meeting, 
+including reasonable payment to the Administrative Agent, shall be borne by the Issuer. 
+11.18 
+At the Administrative Agent’s request, the Issuer shall without delay provide the Administrative 
+Agent with a certificate stating the Nominal Amount for Covered Bonds held by members of the 
+Group on the relevant Record Date prior to a Bondholders’ Meeting, irrespective of whether such 
+entities are registered by name as Bondholders of Covered Bonds. The Administrative Agent shall 
+not be responsible for the content of such a certificate or otherwise be responsible for establishing 
+whether a Covered Bond is held by a member of the Group. 
+11.19 
+Information on decisions taken at a Bondholders’ Meeting shall be notified without delay to the 
+Bondholders under the relevant Loan by means of a press release, on the Issuer’s website and in 
+accordance with Section 15 (Notices). At the request of a Bondholder the Administrative Agent 
+shall provide the Bondholder with minutes of the relevant Bondholders’ Meeting. However, failure 
+to notify the Bondholders as described above shall not affect the validity of the decision. 
+12. 
+RIGHT TO ACT ON BEHALF OF BONDHOLDERS 
+12.1 
+If a party other than a Bondholder wishes to exercise a Bondholder’s rights under the Conditions or 
+to vote at a Bondholders’ Meeting, such person shall be able to produce a proxy form or other 
+authorisation document issued by the Bondholder or a chain of such proxy forms and/or 
+authorisation documents from the Bondholder. 
+12.2 
+A Bondholder may authorise one or more parties to represent the Bondholder in respect of certain or 
+all Covered Bonds held by the Holder. Such authorised party may act independently and is entitled 
+to delegate its right to represent the Bondholder. 
+13. 
+CHANGES TO TERMS, ETC. 
+13.1 
+The Issuer and the Dealers may agree on adjustments to correct any clear and manifest error in these 
+General Terms and Conditions. 
+13.2 
+The Issuer and the Administrative Agent may agree on adjustments to correct any clear and manifest 
+error in the Final Terms of a particular Loan. The Issuer and the Issuing House(s) may agree to 
+amend the Conditions provided that such amendment is not detrimental to the Bondholders. 
+13.3 
+The Issuer and the Arranger or the Independent Adviser may, without the approval of the 
+Bondholders, agree on and execute amendments to the Conditions in accordance with Section 6 
+(Replacement of Base Rate) and such amendments will be binding on those covered by the 
+Conditions. 
+13.4 
+A new dealer may be engaged by agreement between the Issuer and the dealer in question and the 
+Dealers. A Dealer may step down as a Dealer, but an Administrative Agent in respect of a particular 
+Loan may not step down unless a new Administrative Agent is appointed in its place.
+
+--- Page 31 ---
+31(51) 
+ 
+13.5 
+The Issuer, the Dealers and the IPA may agree to replace the IPA with another Account Operator as 
+issuing and paying agent. 
+13.6 
+Amendments to or concession of Conditions in cases other than as set out in Sections 13.1–13.3 
+shall take place through a decision at a Bondholders’ Meeting as described in Section 11 
+(Bondholders’ Meeting). 
+13.7 
+Approval at a Bondholders’ Meeting of an amendment to the terms may include the objective 
+content of the amendment and need not contain the specific wording of the amendment. 
+13.8 
+A decision on an amendment to the terms shall also include a decision on when the amendment is to 
+take effect. However, an amendment shall not take effect until it has been registered with Euroclear 
+Sweden (where relevant) and published on the Issuer’s website. 
+13.9 
+The amendment or concession of terms as described in this Section 13 (Changes to terms, etc.) shall 
+be promptly notified by the Issuer to the Bondholders in accordance with Section 15 (Notices). 
+14. 
+PRESCRIPTION 
+14.1 
+Claims for the repayment of principal shall be prescribed and become void ten years after the 
+Maturity Date (or if applicable, the relevant Extended Maturity Date). Claims for the payment of 
+interest shall be prescribed and become void three years after the relevant Interest Payment Date. 
+Upon prescription, the Issuer shall be entitled to keep any funds that may have been reserved for 
+such payments. 
+14.2 
+If the prescription period is duly interrupted in accordance with the Swedish Limitations Act 
+(preskriptionslagen (1981:130)) a new prescription period of ten years will commence for claims in 
+respect of principal and three years for claims in respect of interest amounts, in both cases calculated 
+from the day indicated by provisions laid down in the Swedish Limitations Act concerning the effect 
+of an interruption in the limitation period. 
+15. 
+NOTICES 
+15.1 
+Notices shall be provided to Bondholders for the relevant Loan at the address registered with 
+Euroclear Sweden on the Business Day before dispatch. A notice to the Bondholders shall also be 
+published by means of a press release and published on the Issuer’s website. 
+15.2 
+Notices to the Issuer or the Dealers shall be provided at the address registered with the Swedish 
+Companies Registration Office (Bolagsverket) on the Record Date before dispatch. 
+15.3 
+A notice to the Issuer or Bondholders in accordance with the Conditions that is sent by standard post 
+shall be deemed to have been received by the recipient on the third Business Day after dispatch and 
+notices sent by courier shall be deemed to have been received by the recipient when delivered to the 
+specified address. 
+15.4 
+In the event that a notice is not sent correctly to a certain Bondholder the effectiveness of notices to 
+other Bondholders shall be unaffected. 
+16. 
+LIMITATION OF LIABILITY ETC. 
+16.1 
+With regards to the obligations imposed on the Dealers, the IPA and Euroclear Sweden, 
+respectively, the Dealers, the IPA and Euroclear Sweden, as applicable, shall not be held liable for 
+any losses arising out of any Swedish or foreign legal enactment, or any measure undertaken by a 
+Swedish or foreign public authority, or war, strike, blockade, boycott, lockout or any other similar
+
+--- Page 32 ---
+32(51) 
+ 
+circumstance. The reservation in respect of strikes, blockades, boycotts and lockouts applies even if 
+the party concerned itself takes such measures or is subject to such measures. 
+16.2 
+Losses arising in other cases shall not be compensated by a Dealer, the IPA or Euroclear Sweden if 
+the relevant entity has exercised due care. In no case shall compensation be paid for indirect losses. 
+16.3 
+Should a Dealer, the IPA or Euroclear Sweden not be able to fulfil its obligations under these 
+Conditions due to any circumstance set out in Section 16.1, such action may be postponed until the 
+obstacle has been removed. 
+16.4 
+The aforesaid shall apply unless otherwise provided in the Swedish Financial Instruments Accounts 
+Act. 
+17. 
+APPLICABLE LAW AND JURISDICTION 
+17.1 
+The Conditions shall be governed by Swedish law. 
+17.2 
+Disputes shall be settled by Swedish courts. Stockholm District Court shall be the court of first 
+instance. 
+ 
+ 
+We hereby confirm that the above General Terms and Conditions are binding upon us. 
+Stockholm 15 June 2022 
+DANSKE HYPOTEK AB (publ)
+
+--- Page 33 ---
+33(51) 
+ 
+FORM OF FINAL TERMS 
+FINAL TERMS 
+for Loan No. [•] 
+under Danske Hypotek AB (publ)’s Programme for Continuous Issuance of 
+Covered Bonds 
+The following are the final terms and conditions (“Final Terms”) of Loan No. [●], (the “Loan”) that Danske 
+Hypotek AB (publ) (the “Issuer”) issues in the capital market in accordance with an agreement with the below 
+mentioned Issuing House(s). 
+The Loan shall be subject to the general terms and conditions dated [9 August 2017/15 June 2022] (the “General 
+Terms and Conditions”) set out in the Issuer’s base prospectus for continuous issuance of Covered Bonds, dated 
+[18 June 2021/13 June 2024] (the “Prospectus”) [as supplemented on [●]], and the Final Terms set out below. 
+Words and expressions not defined in the Final Terms shall have the meaning set out in the General Terms and 
+Conditions. 
+This document constitutes the Final Terms for the purposes of Regulation (EU) 2017/1129 
+(the “Prospectus Regulation”) and must be read in conjunction with the Prospectus [as supplemented]. Full 
+information on the Issuer and the offer of the Loan is only available on the basis of the combination of these Final 
+Terms, the Prospectus [as supplemented] and any documents incorporated therein by reference. These documents 
+are available via www . danskehypotek.se. 
+Terms and conditions for the Loan 
+1. 
+Loan no: 
+[•] 
+2. 
+Total Nominal Amount/Continuous 
+issuance: 
+[•] [Covered Bonds issued under this Loan shall be sold 
+continuously at the prevailing market price. The Total 
+Nominal Amount shall be determined when the sale of 
+Covered Bonds is closed.] 
+3. 
+Nominal Amount per Covered 
+Bond: 
+[•] 
+4. 
+Currency: 
+[SEK] [EUR] 
+5. 
+Interest Commencement Date: 
+[Issue Date] [Specify other Interest Commencement Date] 
+6. 
+Issue Date: 
+[•] 
+7. 
+Maturity Date: 
+[•] 
+8. 
+Extended Maturity: 
+Extended Maturity Date: 
+[Applicable] [Not Applicable] 
+[insert date]  
+ 
+[If applicable, complete relevant sections regarding 
+interest, in relation to the period from (but excluding) the 
+Maturity date to (and including) the Extended Maturity 
+Date.] 
+9. 
+Repayment Basis: 
+Each Covered Bond is repaid at par (i.e. at an amount 
+equal to its Nominal Amount) 
+10. 
+Interest Base: 
+[Fixed interest rate] 
+[Floating interest rate]
+
+--- Page 34 ---
+34(51) 
+ 
+11. 
+Day Count Convention: 
+[30/360] [actual number of days/360] 
+ 
+12. 
+Additional terms and conditions for 
+Loans with fixed interest rate 
+[Applicable] [Not applicable] [If not applicable, delete 
+the remaining sub-paragraphs of this paragraph.] 
+12.1 
+Interest Rate: 
+[[•] % per annum] 
+12.2 
+Interest Payment Date(s): 
+[•] (subject to Section [4.3] of the General Terms and 
+Conditions) 
+12.3 
+Specific risk factors: 
+[In accordance with the risk factor “Risks related to 
+interest rate constructions” in the Prospectus.] 
+ 
+13. 
+Additional terms and conditions for 
+Loans with floating interest rate 
+[Applicable] [Not applicable] [If not applicable, delete 
+the remaining sub-paragraphs of this paragraph.] 
+13.1 
+Interest Base: 
+[•] month(s) [STIBOR] [EURIBOR] 
+13.2 
+Margin: 
+[+/-][•] percentage points 
+13.3 
+Minimum Interest Rate: 
+[[•] % per annum] [Not applicable] 
+13.4 
+Maximum Interest Rate: 
+[[•] % per annum] [Not applicable] 
+13.5 
+Interest Determination Date: 
+[Two] Banking Days prior to the first day of each Interest 
+Period, beginning on [•] 
+13.6 
+Interest Period: 
+The first Interest Period runs from [•] to and including [•], 
+and thereafter from one Interest Payment Date to and 
+including the next Interest Payment Date 
+13.7 
+Interest Payment Date(s): 
+[•] (subject to Section [4.3] of the General Terms and 
+Conditions) 
+ 
+14. 
+Additional terms and conditions for 
+Loans with Extended Maturity Date 
+[Applicable] [Not applicable] [If not applicable, delete 
+the remaining sub-paragraphs of this paragraph.] 
+14.1 
+Interest Base from (but excluding) 
+the Maturity Date to (and 
+including) the Extended Maturity 
+Date: 
+[•] month(s) [STIBOR] [EURIBOR]  
+ 
+14.2 
+Margin from (but excluding) the 
+Maturity Date to (and including) 
+the Extended Maturity Date: 
+[+/-][•] percentage points 
+14.3 
+Interest Determination Date from 
+(but excluding) the Maturity Date 
+to (and including) the Extended 
+Maturity Date: 
+[Two] Banking Days prior to the first day of each Interest 
+Period, beginning on the Maturity Date 
+14.4 
+Interest Period from (but excluding) 
+the Maturity Date to (and 
+including) the Extended Maturity 
+Date: 
+The first Interest Period runs from [•] to and including [•], 
+and thereafter from one Interest Payment Date to and 
+including the next Interest Payment Date 
+14.5 
+Interest Payment Date(s) from (but 
+excluding) the Maturity Date to 
+[On the last day of each Interest Period] [•] (subject to 
+Section [4.3] of the General Terms and Conditions)
+
+--- Page 35 ---
+35(51) 
+ 
+(and including) the Extended 
+Maturity Date: 
+ 
+Other information 
+15. 
+Credit rating: 
+[•] 
+16. 
+Issuing House(s): 
+[Danske Bank A/S, Danmark, Sverige Filial] [Nordea 
+Bank Abp] [Skandinaviska Enskilda Banken AB (publ)] 
+[Svenska Handelsbanken AB (publ)] [Swedbank AB 
+(publ)] [•] 
+17. 
+Administrative Agent: 
+[Danske Bank A/S, Danmark, Sverige Filial] [Nordea 
+Bank Abp] [Skandinaviska Enskilda Banken AB (publ)] 
+[Svenska Handelsbanken AB (publ)] [Swedbank AB 
+(publ)] [•] 
+18. 
+ISIN code: 
+[•] 
+19. 
+Listing: 
+[Not applicable] [Nasdaq Stockholm] [Specify other 
+Regulated Market] 
+20. 
+The earliest date on which the 
+Covered Bonds will be admitted to 
+trading: 
+[Specify details] [Not applicable] 
+21. 
+Estimate of the total expenses 
+related to the admission to trading: 
+[Specify details] [Not applicable] 
+22. 
+Total number of Covered Bonds 
+admitted to trading: 
+[Specify increased number of Covered Bonds (where 
+relevant) and total number of Covered Bonds] [Will be 
+determined when the sale of Covered Bonds is closed.] 
+23. 
+Resolutions as basis for the 
+issuance: 
+[Specify details] [Not applicable] 
+24. 
+Interests: 
+[Specify details] [Not applicable] 
+[If applicable, describe interests of individuals and legal 
+entities involved in the issuance as well as a record of all 
+interests and possible conflicts of interests of importance 
+to the issuance together with records of those involved and 
+the nature of the interest.] 
+25. 
+Information from third parties: 
+[Information in these Final Terms originating from third 
+parties has been reproduced accurately and, as far as the 
+Issuer knows and can ascertain based on comparisons with 
+other information published by relevant third parties, no 
+information has been omitted in a way that may lead to the 
+reproduced information being incorrect or misleading. The 
+sources for such information are [•].] [Not applicable] 
+26. 
+The use of the proceeds 
+[General financing of the Issuer’s and the Group’s business 
+activities]/[Specify] 
+27. 
+The estimated net amount of the 
+proceeds  
+[SEK]/[EUR] [●] less customary transaction costs and fees 
+ 
+We hereby confirm that the above Final Terms are applicable to Loan No. [•] together with the General Terms 
+and Conditions and undertake to repay the Loan and to pay interest in accordance herewith. We confirm that any
+
+--- Page 36 ---
+36(51) 
+ 
+material event after the date of the Prospectus that could affect the market’s assessment of the Loan have been 
+made public. 
+Stockholm, [•] 
+DANSKE HYPOTEK AB (publ)
+
+--- Page 37 ---
+37(51) 
+ 
+DESCRIPTION OF THE ISSUER 
+Introduction 
+The 
+legal 
+and 
+commercial 
+name 
+of 
+the 
+Issuer 
+(Reg. 
+No. 
+559001-4154, 
+LEI Code 549300R4NNCTGT7CW53) is Danske Hypotek AB (publ). The Issuer was formed on 20 January 2015 
+and registered with the Swedish Companies Registration Office (Bolagsverket) on 23 January 2015. The Issuer’s 
+principal place of business is in Stockholm, Sweden, its registered address is Box 7523, 103 92 Stockholm, 
+Sweden, and its visiting address is Norrmalmstorg 1, 103 92 Stockholm, Sweden. The Issuer’s telephone number 
+is +46 (0)752-480000. The Issuer’s website is www.danskehypotek.se. The information on the Issuer’s website or 
+any other website is not part of this Prospectus and has not been scrutinised or approved by the SFSA unless that 
+information is incorporated by reference into this Prospectus. The present share capital of the Issuer is SEK 
+50,000,000 represented by 500,000 shares. Each share has a quota value of SEK 100. 
+The Issuer is a wholly-owned subsidiary of Danske Bank A/S and has been established primarily for the 
+purpose of managing the Group’s issuance of covered bonds in the Swedish covered bonds market. On 26 June 
+2017, the Issuer was granted a licence by the SFSA to conduct financing business as a credit market company as 
+well as a licence to issue covered bonds under the Covered Bonds Act. The Issuer has been rated A by NCR and 
+the Covered Bonds issued under the Programme has been rated AAA by NCR and S&P. NCR is established in the 
+European Union and registered under the CRA Regulation. 
+Of the seven members of the Issuer’s board of directors, six members are senior executives of the Group 
+and one member is an independent member. The Swedish Banking and Finance Business Act regulates certain 
+related-party transactions between the Issuer and Danske Bank A/S. 
+Relevant legislation and supervision 
+The Issuer is a public limited liability company (publikt aktiebolag) regulated by the Swedish Companies 
+Act (Aktiebolagslagen (2005:551)). 
+The Issuer undertakes financing operations as a credit market company and is therefore governed by the 
+Swedish Banking and Financing Business Act (lag (2004:297) om bank- och finansieringsrörelse).  
+The issuance of Covered Bonds is regulated by the Swedish Covered Bonds Act and SFSA Regulations 
+(as defined in the section “Summary of the Swedish Covered Bond Legislation” below). 
+In addition, the Swedish Supervision of Credit and Investment Institutions Act (Lag (2014:968) om 
+särskild tillsyn över kreditinstitut och värdepappersbolag) and the Swedish Act on Capital Buffers (Lag 
+(2014:966) om kapitalbuffertar) set forth certain requirements concerning capital adequacy, which are based on 
+the Bank for International Settlements regulations and European Union capital requirements, including the CRD 
+IV as amended by CRD V. 
+The Issuer’s operations are under the supervision of the SFSA. 
+Principal activity 
+The Issuer’s principal activity is to acquire Swedish mortgages from the Swedish Branch, which are 
+secured by security over Swedish residential real property (bostadsfastigheter), site leasehold rights (tomträtter) 
+and tenant owner rights (bostadsrätter) and to fund such activity with the continuous issuance of covered bonds 
+in the Swedish benchmark-market and potentially covered bonds in the international capital market (under two 
+separate programmes). The acquired mortgages will be included in the Issuer Cover Pool and must fully or in part 
+comply with the requirements under the Covered Bonds Act. The Issuer may also hold Non-Primary Assets and 
+Public Credits (both as defined in the section “Description of the Swedish Covered Bond Legislation” below) in 
+the Issuer Cover Pool which can be used as Non-Primary Assets in accordance with the Covered Bonds Act. The 
+Cover Pool consists mainly of mortgage loans relating to residential properties but also to a non-material degree 
+of commercial properties. 
+The Issuer conducts no new lending, but rather all new lending business is handled in the Swedish Branch. 
+In addition to acquiring mortgage loans originated by the Swedish Branch, the Issuer may, in the future, originate 
+its own Swedish mortgage loans as an original lender. 
+The Issuer does not receive deposits from the public.
+
+--- Page 38 ---
+38(51) 
+ 
+Business strategy and funding structure 
+Acquisition of mortgage assets 
+The Issuer acquires residential mortgage loans to private individuals and mortgage loans to owners 
+(corporates, tenant-owner associations and private individuals) of multi-family properties from Danske Bank A/S 
+for the purpose of including them in the Issuer Cover Pool. The Issuer may also acquire mortgage loans relating 
+to commercial and agricultural properties for the purpose of including them in the Issuer Cover Pool. These 
+acquisitions occur on a continuous basis, as the Swedish Branch originates new mortgage loans in Sweden.  
+Junior credit facility agreement between the Parent and the Issuer 
+To enable the Issuer to finance the purchases of mortgage loans, from the Swedish Branch, for the funding 
+of maturing Covered Bonds, for providing liquidity for interest payments and for general corporate purposes, the 
+Parent has made available to the Issuer a junior credit facility, which, according to the Subordination Agreement 
+mentioned below, is subordinated to all claims of unsubordinated creditors of the Issuer. The junior credit facility 
+has a credit period exceeding 12 months. If not otherwise agreed, the Parent has the right to terminate the facility 
+with immediate effect if certain events of default occur. 
+Subordination Agreement 
+For the purposes of managing subordination in respect of certain joint collateral, securing claims of both 
+the Issuer and the Parent, the Issuer and the Parent have entered into a subordination agreement dated 25 July 
+2017, as amended from time to time. The subordination agreement provides that in relation to claims as to proceeds 
+from enforcement of joint collateral, the Parent’s claims are subordinated to the Issuer’s claims, for as long as the 
+Issuer has any outstanding claims which are secured by joint collateral. In addition, the subordination agreement 
+provides that in the event of the liquidation (likvidation) or bankruptcy (konkurs) of the Issuer, all the Parent’s 
+claims against the Issuer, other than claims of the Parent in its capacity as holder of covered bonds or as 
+counterparty under covered swaps (as defined in the Covered Bonds Act), are subordinated to all claims of 
+unsubordinated creditors of the Issuer, but rank ahead of any other claims of subordinated creditors of the Issuer. 
+Outsourcing Agreement 
+For achieving efficiency within the Group and for the Issuer, the Issuer and Parent have agreed that the 
+Parent as service provider shall provide most of the services needed for the Issuer to be able to carry out its business 
+operations. The services include, amongst others, IT-services, administration of mortgage loans, accounting, 
+regulatory reporting, liquidity management, funding (issuance of covered bonds), risk management, compliance, 
+legal and internal audit. An outsourcing agreement was entered into on 25 July 2017 between the Issuer and the 
+Parent. A new outsourcing agreement was entered into on 15 November 2021, as amended from time to time, due 
+to new regulatory requirements and new internal structure. 
+The outsourcing agreement provides that the Parent shall ensure that the Issuer Cover Pool is 
+administrated in accordance with the provisions of the Covered Bonds Act and SFSA Regulations (as defined in 
+the section “Description of the Swedish Covered Bond Legislation” below). 
+Derivative arrangements 
+The Issuer and the Parent have and will enter into interest rate and currency swap transactions governed 
+by an ISDA Master Agreement (including a schedule and confirmation(s)), and the Issuer may enter into additional 
+interest rate and currency swap transactions with the Parent or other third party counterparties (in such capacity, 
+each, a “Cover Pool Swap Provider”), in respect of the assets registered in the Issuer Cover Pool (each a “Cover 
+Pool Swap”). The Cover Pool Swaps enable the Issuer to convert SEK fixed interest payments received by the 
+Issuer on assets registered to the Issuer Cover Pool into floating payments linked to 3-month STIBOR, and to 
+convert SEK fixed interest payments (or cash flows denominated in foreign currencies) paid by the Issuer on bond 
+issues or other liabilities registered to the Issuer Cover Pool into floating payments linked to 3-month STIBOR. 
+In addition to the Cover Pool Swaps, the Issuer has entered into, and the Issuer may enter into additional, 
+interest rate and currency swap transactions which are of a similar nature but not relating to the Issuer Cover Pool. 
+Principal shareholder 
+The Issuer is a wholly-owned subsidiary of the Parent, and the Issuer is not aware of any events or other 
+circumstances that could result in a change of control over the Issuer. At year-end 2023, A.P. Møller-Holding 
+Group held a total (directly and indirectly) of more than 20 per cent. of the shares and the voting rights of the 
+Parent.
+
+--- Page 39 ---
+39(51) 
+ 
+Dependency on the Parent 
+As follows from the sub-section “Business strategy and funding structure”, the Parent will be the seller 
+of mortgage loans and will provide credit to the Issuer. The Parent will also manage the main part of the Issuer’s 
+operations through outsourcing. The Issuer will thus be dependent on the Parent to be able to conduct its business. 
+Board of Directors 
+The board of directors of the Issuer consist of seven members. Anna-Lena Axberger, Anneli Adler, 
+Kamilla Hammerich Skytte, Kristina Alvendal, Robert Wagner, Kim Borau and Kasper Refslund Kirkegaard were 
+re-elected at the annual general meeting of the shareholders on 21 March 2024.  
+ 
+Name 
+Position
+Board member since
+Anna-Lena Axberger 
+Chairman 
+2022 
+Robert Wagner 
+Member 
+2018 
+Kim Borau 
+Member 
+2018 
+Anneli Adler 
+Member 
+2019 
+Kristina Alvendal 
+Member 
+2020 
+Kamilla Hammerich Skytte 
+Member 
+2022 
+Kasper Refslund Kirkegaard 
+Member 
+2023 
+ 
+Anna-Lena Axberger 
+Other on-going principal assignments: Deputy Country Manager Sweden & Head of Country Management 
+Office, board member in Bankomat AB, P27 Nordic Payments Platform AB and BGC Holding AB and chairman 
+in Danske Bank, Sverige filials Gemensamma Pensionsstiftelse. 
+Robert Wagner 
+Other on-going principal assignments: Chief Risk Officer in Realkredit Danmark A/S. 
+Kim Borau 
+Other on-going principal assignments: Head of Performance Management, Personal & Business 
+Customers at the Parent. 
+Anneli Adler 
+Other on-going principal assignments: Head of Personal Customers SE at the Swedish Branch. 
+Kristina Alvendal 
+Other on-going principal assignments: Board member in Svefa AB, AB Salktennis, Intea Fastigheter 
+AB (publ) and Prisma Properties AB, Storsala AB (publ) and CEO in Kristina Alvendal AB. 
+Kamilla Hammerich Skytte 
+Other on-going principal assignments: CEO at Realkredit Danmark A/S, Chairman in home A/S, 
+Chairman in KDP (pensionfund for former RD employees), and chairman in Danish Mortgage Banks Association 
+(Realkreditrådet, Finance Denmark). 
+Kasper Refslund Kirkegaard 
+Other on-going principal assignments: Head of Group Treasury at the Parent. 
+Senior Management 
+The senior management of the Issuer consists of Per Tunestam, Chief Executive Officer since 2016, 
+Tomas Renger, Chief Funding Manager since 2017, Peter Jönsson, Chief Financial Officer since 2017, Joakim 
+Olsson, Head of Credit since 2017, Malin Hägglund, Chief Operating Officer since 2020 and Jonas Wikfeldt, 
+Chief Funding Manager since 2017. Other executives, on an assignment basis, comprise of the following 
+individuals: Anneli Virdenäs Chief Risk Officer, employed in Danske Bank A/S, Sverige Filial, Maria Hagel Head 
+of First Line Risk, employed in Danske Bank A/S, Sverige Filial, Romina Bolin Head of Legal, employed in
+
+--- Page 40 ---
+40(51) 
+ 
+Danske Bank A/S, Sverige Filial, Giorgio Vellani Senior Compliance Officer, employed in Danske Bank A/S, 
+Sverige Filial. 
+Business address 
+The address for all members of the board of directors and members of the senior management is c/o 
+Danske Hypotek AB (publ), Box 7523, 103 92 Stockholm, Sweden. 
+Auditors 
+Deloitte AB (113 79 Stockholm) has been the Issuer’s auditor since 22 February 2016 and Johan Stenbäck 
+is auditor in charge since 28 March 2023. Johan Stenbäck is an authorised public accountant and a member of 
+FAR, the professional institute for accountants in Sweden. 
+Conflicts of interest 
+As far as the board of directors is aware, no member of the board of directors or any member of the senior 
+management have any private interests or other duties that could conflict with their duties to the Issuer. However, 
+the individuals in the board of directors (except for Kristina Alvendal) hold senior positions in other Group 
+companies, and the risk of conflicts of interest among the Group companies can thus not be excluded. However, 
+such risk should be modest, since the Issuer’s main purpose is to acquire Swedish mortgage loans from the Parent 
+and fund them through the issuance of covered bonds, thus providing the Group with funding of its Swedish 
+mortgage assets.
+
+--- Page 41 ---
+41(51) 
+ 
+DESCRIPTION OF THE GROUP  
+The Issuer forms part of the Group. The parent company of the Group is Danske Bank A/S (the “Parent”). 
+The Parent was founded in Denmark and registered on 5 October 1871 and has, through the years, merged with a 
+number of financial institutions. The Parent is a commercial bank with limited liability and carries on business 
+under the Danish Financial Business Act (Consolidated Act No. 1731 of 5 December 2023, as amended or replaced 
+from time to time (Lov om finansiel virksomhed)). The Parent is registered with the Danish Business Authority 
+and is under the supervision of the DFSA. The registered office of the Parent is at Bernstorffsgade 40, DK-1577 
+Copenhagen V, Denmark, with telephone number +45 33 44 00 00 and Danish corporate registration number 
+61126228. 
+The Parent is conducting its lending operations in Sweden through the Swedish Branch. The structure of 
+the Group is set out in the structure chart below.  
+ 
+The Group is the leading financial service provider in Denmark (source: DFSA) measured by total 
+working capital as at 31 December 2023, and one of the largest in the Nordic region measured by total assets as at 
+31 December 2023. The Group offers customers a wide range of services in the fields of banking, mortgage 
+finance, insurance, pension, real-estate brokerage, asset management and trading in fixed income products, foreign 
+exchange and equities. Danske Bank is the largest bank in Denmark (source: the DFSA), is one of the larger banks 
+in Finland and Northern Ireland, and has challenger positions in Sweden and Norway. As at 31 December 2023, 
+the Group’s total assets amounted to DKK 3,771 billion and the Group employed 20,021 full-time equivalent 
+employees. As at the same date, the Group had approximately 3.2 million customers and approximately 2.5 million 
+customers used the Group’s online services. The Group had 144 branches as at 31 December 2023. 
+Danske Bank A/S is the parent company of the Group. Danske Bank is a Nordic bank with bridges to the 
+rest of the world, and its core markets are Denmark, Sweden, Norway and Finland. In these countries, it serves all 
+types of customers, from retail customers and commercial to large corporate and institutional customers. It also 
+operates in Northern Ireland, where it serves both retail and commercial customers. The Group has additional 
+offices in other European countries including branch offices in Poland and the U.K., where its main offerings are 
+solutions for Nordic and local businesses as well as private banking clients. The Group also conducts broker-dealer 
+activities in the United States. 
+Litigations 
+Owing to its business volume, the Parent is continually a party to various lawsuits and disputes and has 
+an on-going dialogue with public authorities such as the DFSA.  
+Reference is made to “The Group operates in a legal and regulatory environment that exposes it to 
+potentially significant litigation and regulatory risks”.
+
+--- Page 42 ---
+42(51) 
+ 
+SUMMARY OF THE SWEDISH COVERED BOND LEGISLATION 
+The following is a brief summary of certain features of the Covered Bonds Act, as applicable from 8 July 
+2022. The summary does not purport to be, and is not, a complete description of all aspects of the Swedish 
+legislative and regulatory framework for covered bonds. In addition to the summary below, please also refer to the 
+section “Risk Factors” on pages 8-18 above. 
+Introduction 
+The Covered Bonds Act entered into force on 1 July 2004 and was latest amended on 8 July 2022 (see 
+further under Swedish implementation of the new EU covered bond legislation). The Covered Bonds Act enables 
+Swedish banks and credit market companies (“Institutions”), which have been granted a specific licence by the 
+SFSA, to issue full-recourse debt instruments secured by a pool of mortgage credits and/or public sector credits. 
+Swedish covered bonds may take the form of bonds and other comparable debt instruments, such as commercial 
+papers. 
+In the event of an Institution’s bankruptcy, holders of covered bonds (and certain eligible counterparties 
+to derivative contracts entered into for the purpose of matching the financial terms of the assets in the pool with 
+those of the covered bonds) benefit from a priority right in the pool of assets consisting of eligible assets (see 
+further under Eligible assets in the Cover Pool) (the “Cover Pool”). The Covered Bonds Act also enables such 
+holders (and derivative counterparties) to continue to receive timely payments following the Institution’s 
+bankruptcy, subject to certain conditions being met. 
+Swedish implementation of the EU covered bond legislation 
+The EU Covered Bond Legislation came into effect on 7 January 2020. Among other things, the EU 
+Covered Bond Legislation lays down the conditions that covered bonds have to meet in order to be recognised 
+under European Union law, aiming to strengthen investor protection in the European Union by imposing specific 
+supervisory duties. The EU Covered Bond Legislation has been implemented by amendments to the Covered 
+Bonds Act which entered into force on 8 July 2022. 
+For a covered bond that has been issued before 8 July 2022, the previous version of the Covered Bonds 
+Act as in force until 8 July 2022 will, as a main principle, continue to apply during the remaining part of such 
+covered bond’s maturity. However, to ensure a smooth transition to the new rules, statements made in the 
+preparatory work to the amended Covered Bonds Act indicates that issuers with covered bonds issued under the 
+previous version of the Covered Bonds Act that benefit from the same Cover Pool as covered bonds issued under 
+the Covered Bonds Act may apply certain provisions of the new legislation to the Cover Pool in its entirety, but 
+that this shall be determined by the application of the law. On 8 July 2022, the maximum allowable loan-to-value 
+ratio pursuant to the Covered Bonds Act was increased from 75 per cent. to 80 per cent. for credits collateralised 
+by residential properties that are included in the Cover Pool for covered bonds. On 15 February 2024, the SFSA 
+published a legal position stating that the 80 per cent. limit also applies to the Cover Pool for covered bonds issued 
+before 8 July 2022. For tap issues made after 8 July 2022, certain transitional provisions will apply.  
+In addition to the Covered Bonds Act the SFSA has issued regulations and recommendations under the 
+authority conferred on it by the Covered Bonds Act (Finansinspektionens föreskrifter och allmänna råd om 
+säkerställda obligationer (FFFS 2013:1), most recently updated through FFFS 2022:12) (the “SFSA 
+Regulations”). The SFSA Regulations include, amongst other things, reporting duties to the SFSA, clarifications 
+with respect to the independent inspector’s (Sw. oberoende granskare) tasks, and a requirement on Institutions to 
+provide certain specific information to the SFSA (for example, Institutions are required under the SFSA 
+Regulations to provide information about their valuation methods (Sw. värderingsmetoder) and that such 
+information must be submitted to the SFSA four times per year, and be made available to the SFSA no later than 
+30 days after the respective balance sheet date (Sw. balansdag)). 
+Registration 
+Information in respect of all covered bonds, assets in the Cover Pool, relevant derivative contracts and 
+received margin collateral for positions in derivative contracts must be entered into a special register 
+(the “Register”), which is maintained by the Institution. The actual registration of the covered bonds and relevant 
+derivative contracts in the Register is necessary to confer the priority rights in the Cover Pool. Further, only assets 
+entered into the Register form part of the Cover Pool.
+
+--- Page 43 ---
+43(51) 
+ 
+The Register must at all times show the nominal value of the covered bonds, the Cover Pool and the 
+relevant derivative contracts. As a result, the Register requires regular updating, including without limitation due 
+to changes in interest rates, interest periods, outstanding debt and the composition of the Cover Pool. The value of 
+the underlying collateral securing mortgage credits in the Cover Pool, as well as proceeds derived from assets in 
+the Cover Pool and derivative contracts, must also be entered into the Register.  
+The Cover Pool is dynamic in the sense that an Institution may include so-called top-up collateral (“Non-
+Primary Assets”) in the Cover Pool. Such Non-Primary Assets may consist of, inter alia, exposures to credit 
+institutions and public exposures. An Institution may also establish more than one Cover Pool. 
+Eligible assets in the Cover Pool 
+The Cover Pool may consist of certain mortgage credits, exposures to credit institutions and public 
+exposures (Sw. offentliga fordringar) according to article 129.1 in the CRR, provided that such mortgage credits 
+also satisfy the requirements under Chapter 3, Sections 3-7 of the Covered Bonds Act (“Eligible Assets”). 
+The Covered Bonds Act refers to and reflects the provisions on public exposures and mortgages set out 
+in the CRR and thus require Institutions to meet the CRR’s requirements regarding exposure limits for credit 
+institutions. 
+Loan-to-value ratios and certain other restrictions 
+For mortgage credits, there is a maximum loan amount which may be included in the Cover Pool, 
+depending on the value of the underlying collateral: 
+• 
+for residential collateral, a loan may be included in the Cover Pool only to the extent the loan amount does 
+not exceed 80 per cent. of the market value of the collateral; 
+• 
+for commercial collateral, a loan may be included in the Cover Pool only to the extent the loan amount does 
+not exceed 60 per cent. of the market value of the collateral. 
+There is an exception for when commercial collateral may be included in the Cover Pool even in a 
+situation where the loan-to-value ratio is exceeding 60 per cent. of the market value of the collateral, but not 
+exceeding 70 per cent. The exception is applicable, in the aforementioned situation, if the value of the Cover Pool 
+exceeds the minimum level required (see “Matching requirements” below), by at least 10 per cent. This applies 
+also in relation to agricultural and forestry collateral, which pursuant to the Covered Bonds Act is considered as 
+commercial collateral. 
+Should a loan exceed the relevant ratio, only the part of the loan that falls within the permitted limit may 
+be included in the Cover Pool (a “Partly Eligible Loan”). The Covered Bonds Act does not explicitly regulate 
+how proceeds in respect of a Partly Eligible Loan shall be distributed between the eligible and the non-eligible 
+parts of the loan. 
+The most likely interpretation is that interest payments shall be allocated pro rata between the eligible and 
+non-eligible parts of the loan and that amortisations shall be applied first towards the non-eligible part of the loan 
+(absent enforcement of the security over the underlying collateral). However, proceeds from enforcement of the 
+security should most likely be applied first towards the eligible part of the loan. 
+A similar situation arises if, for example, the same mortgage serves as first-ranking security for two (or 
+more) loans granted by an Institution and only one of these loans is included in the Cover Pool. The Covered 
+Bonds Act does not give clear guidance as to how proceeds shall be allocated between the two loans in case of the 
+Institution’s bankruptcy. The lack of guidance may give room for unsecured creditors of the Institution to argue 
+that only a pro rata portion of such proceeds shall be allocated to the loan included in the Cover Pool. 
+The Covered Bonds Act restricts the overall proportion of loans provided against security over real 
+property (or site leasehold rights or tenant-owner rights) intended for office or commercial purposes to 10 per cent. 
+of an Institution’s Cover Pool. This does not apply in relation to commercial property which is primarily used for 
+agricultural or forestry purposes. 
+Institutions are required to regularly monitor the market value of the mortgage assets that serve as 
+collateral for loans included in the Cover Pool. If the market value of a mortgage asset declines significantly, then
+
+--- Page 44 ---
+44(51) 
+ 
+only the part of the loan that falls within the permitted loan-to-value ratio is eligible for inclusion in the Cover 
+Pool and is subject to the priority right described below. The Covered Bonds Act does not define when a decline 
+would be considered significant but it is generally believed that a decline of 15 per cent. or more would satisfy this 
+requirement. However, a decline in the market value following an Institution’s bankruptcy would not result in a 
+reduction of the assets to which holders of covered bonds (and relevant derivative counterparties) have a priority 
+right, but may result in the Cover Pool ceasing to meet the matching requirements. 
+Matching requirements 
+The Covered Bonds Act prescribes that an Institution must comply with certain matching requirements, 
+which, among other things, require that the nominal value of the assets registered to the Cover Pool exceeds the 
+nominal value of liabilities which relate to covered bonds issued from time to time by at least 2 per cent. The 
+calculation shall be made on the basis of current book values. In order to comply with these requirements, the 
+Institution may enter into and shall take into account the effect of relevant derivative contracts.  
+The present value of the derivative contracts shall be included when determining whether the present 
+value of the Cover Pool exceeds the present value of the liabilities relating to Covered Bonds. The Institution is 
+dependent on the availability of derivative counterparties with sufficient credit rating and also on such 
+counterparties fulfilling their contractual obligations.  
+The Cover Pool must also be sufficiently sizable to cover the costs of administration and liquidation of 
+covered bonds, in case of bankruptcy. These costs may be defined by application of a standard amount 
+(Sw. schablonbelopp). 
+Furthermore, an Institution must compose the Cover Pool in such a way as to ensure a sound balance 
+between the covered bonds and the assets in the Cover Pool in terms of currency, interest rate and maturity profile. 
+Such sound balance is deemed to exist when the present value of the Cover Pool at all times exceeds the present 
+value of the liabilities relating to the covered bonds by at least two per cent. The present value of derivative 
+contracts shall be taken into account for the purposes of such calculation. The calculations of present value shall 
+withstand certain stress tests (changes in interest rates and/or currency exchange rates). 
+The payment flows relating to the assets in the Cover Pool, derivative contracts and covered bonds shall 
+be such that an Institution is at all times able to perform its payment obligations towards holders of covered bonds 
+and relevant derivative counterparties. 
+Non-performing assets in the Cover Pool which are more than 60 days overdue must be disregarded for 
+the purposes of the matching tests. 
+Liquidity buffer 
+The Covered Bonds Act includes provisions concerning a specific liquidity buffer. It should cover the 
+maximum cumulative net liquid outflow from an Institution over the next 180 days. The liquidity buffer shall 
+consist of: 
+1. level 1 or level 2A assets as defined in Article 3 of the Commission Delegated Regulation 
+(EU) 2015/61 of 10 October 2014 to supplement Regulation (EU) No 575/2013 of the 
+European Parliament and the Council with regard to liquidity coverage requirement for Credit 
+Institutions (the “Liquidity Coverage Regulation”), or 
+ 
+2. exposures to credit institutions which consist of short-term deposits with an initial maturity not 
+exceeding 100 days and which meet the requirements for credit quality step 1 or 2 of Article 
+129.1c of the CRR. 
+Maturity extensions 
+Pursuant to the Covered Bonds Act, an Institution may choose to include conditions in the terms of a 
+covered bond contract stating that repayment can be postponed in certain circumstances, but the Institution is only 
+allowed to extend the maturity of such covered bond with the approval of the SFSA. Before the approval is given, 
+the Swedish Central Bank (Sw. Riksbanken) and the Swedish National Debt Office (Sw. Riksgälden) shall be 
+consulted by the SFSA.
+
+--- Page 45 ---
+45(51) 
+ 
+Approval may be given by the SFSA if:  
+(a) 
+it is likely that an extended maturity can prevent the risk of the Institution’s insolvency 
+(Sw. obestånd (insolvens)); and 
+(b) 
+the terms and conditions of the covered bonds stipulate: (i) that the maturity may only be 
+extended after the SFSA’s approval, (ii) the prerequisites for SFSA approval according to 
+(a), and (iii) the extended maturity date, as applicable after the SFSA’s approval.  
+For covered bonds satisfying the requirements of extended maturity according to (a) above, the starting-
+point for calculating the liquidity buffer (see section “Liquidity buffer” above for further information regarding 
+liquidity buffer) is the principal amount of the covered bond(s), pursuant to the extended maturity date stipulated 
+in the terms of the covered bonds.  
+Supervision by the SFSA and the independent inspector 
+The SFSA monitors that an Institution complies with the Covered Bonds Act and other provisions of the 
+legislative and regulatory framework which regulates the business of the Institution. In addition, the SFSA appoints 
+an independent inspector (Sw. oberoende granskare) for each Institution that issues covered bonds. 
+The independent inspector is responsible for monitoring the Register to assess whether or not it is being 
+maintained correctly and in compliance with the Covered Bonds Act and the SFSA Regulations. In particular, the 
+independent inspector is required to verify that: 
+• 
+covered bonds and relevant derivative contracts are registered in the Register; 
+• 
+only Eligible Assets are included in the Cover Pool and registered in the Register; 
+• 
+the valuations of the underlying collateral for loans in the Cover Pool are in accordance with the Covered 
+Bonds Act and the SFSA Regulations; 
+• 
+mortgage loans, the underlying collateral of which has decreased significantly in value are, for the purpose 
+of the matching requirements, deducted from the Cover Pool to the extent necessary to comply with the 
+relevant loan-to-value ratio; and 
+• 
+the matching requirements are complied with. 
+The independent inspector is entitled to request information from the Institution and to conduct site visits, 
+and is required to report regularly and at least once a year to the SFSA. The Covered Bonds Act does not provide 
+for any change to the independent inspector’s remit upon the bankruptcy of an Institution. 
+Information, monitoring and supervision 
+The SFSA’s power to revoke an Institution’s authorisation for the issuance of covered bonds in the 
+Covered Bonds Act includes the situation of the Institution acquiring such authorisation by making false statements 
+or by taking other irregular means. If deemed sufficient, a warning may also be issued as an alternative to 
+revocation.  
+As a complement to the provisions on administrative sanctions for Institutions and other credit 
+institutions, additional provisions on sanctions against natural persons are included in the Banking and Financing 
+Business Act, in relation to breaches of certain provisions in the Covered Bonds Act.  
+Furthermore, the Covered Bonds Act set out a requirement on Institutions issuing covered bonds in 
+relation to their providing of information to investors. An Institution should provide the information needed for an 
+investor to be able to assess the covered bonds and the risk associated with investing in them. If the terms and 
+conditions of the covered bonds include maturity extensions, Institutions must provide specific information about:  
+• 
+what circumstances can trigger an extended maturity; 
+• 
+whether an extended maturity is affected by the Institution being placed in bankruptcy or resolution; and 
+• 
+the requirement that the SFSA must approve the extended maturity.
+
+--- Page 46 ---
+46(51) 
+ 
+The government, or a designated authority are allowed to prescribe: (i) what information that Institutions 
+need to make available for investors, in order for investors to be able to assess the covered bonds and the risk 
+associated with investing in them, and (ii) when and in what way such information is to be made available (see 
+information regarding the SFSA Regulations under “Swedish implementation of the new EU covered bond 
+legislation” above).  
+Benefit of a priority right in the Cover Pool 
+Pursuant to the Covered Bonds Act and the Swedish Preferential Rights of Creditors Act 
+(Sw. förmånsrättslagen (1970:979)), holders of covered bonds benefit from a priority right in the Cover Pool 
+should the Institution be declared bankrupt (Sw. försatt i konkurs). The same priority is awarded to the Institution’s 
+eligible counterparties to derivative contracts entered into for the purpose of matching the financial terms of the 
+assets in the Cover Pool with those of the covered bonds. Such derivative counterparties and the holders of covered 
+bonds rank pari passu with joint seniority in relation to the Cover Pool. 
+By virtue of the aforementioned priority, holders of covered bonds and relevant derivative counterparties 
+rank ahead of unsecured creditors and all other creditors of the Institution in respect of assets in the Cover Pool 
+(except the administrator-in-bankruptcy as regards fees for its administration of assets in the Cover Pool and costs 
+for the administration). The priority claim also covers cash received by an Institution and deriving from the Cover 
+Pool or relevant derivative contracts, provided that certain administrative procedures have been complied with. 
+Administration of the Cover Pool in the event of bankruptcy 
+Should an Institution be declared bankrupt, at least one administrator-in-bankruptcy would be appointed 
+by the bankruptcy court and one administrator-in-bankruptcy would be appointed by the SFSA. The 
+administrators-in-bankruptcy would take over the administration of the bankruptcy estate, including the Cover 
+Pool. 
+Provided that (and as long as) the Cover Pool meets the requirements of the Covered Bonds Act (including 
+the matching requirements), the assets in the Cover Pool, the covered bonds and any relevant derivative contracts 
+that have been entered into the Register are required to be maintained as a unit and kept segregated from other 
+assets and liabilities of the bankruptcy estate of the Institution. The administrators-in-bankruptcy are in such case 
+required to procure the continued timely service of payments due under the covered bonds and any relevant 
+derivative contracts. Consequently, the bankruptcy would not as such result in early repayment or suspension of 
+payments to holders of covered bonds or to counterparties to derivative contracts, so long as the Cover Pool 
+continues to meet the requirements of the Covered Bonds Act. 
+Upon an Institution’s bankruptcy, neither the Institution nor its bankruptcy estate would have the ability 
+to issue further covered bonds. However, the Covered Bonds Act gives the administrators-in-bankruptcy an 
+explicit and broad mandate to enter into loan, derivative, repo and other transactions on behalf of the bankruptcy 
+estate with a view to attaining matching of cash flows, currencies, interest rates and interest periods between assets 
+in the Cover Pool, covered bonds and derivative contracts. Counterparties in such transactions will rank senior to 
+holders of covered bonds and derivative counterparties. The administrators-in-bankruptcy may also raise liquidity, 
+for example, by selling assets in the Cover Pool in the market. 
+If, however, the Cover Pool ceases to meet the requirements of the Covered Bonds Act, and the deviations 
+are not just temporary and minor, the Cover Pool may no longer be maintained as a unit and the continuous 
+payment under the terms and conditions of the covered bonds and derivative contracts will cease. The holders of 
+covered bonds and counterparties to derivative contracts would in such case instead benefit from a priority right 
+in the proceeds of a sale of the assets in the Cover Pool in accordance with general bankruptcy rules. This could 
+result in the holders of covered bonds receiving payment according to a schedule that is different from that 
+contemplated by the terms and conditions of the covered bonds (with accelerations as well as delays) or that the 
+holders of covered bonds are not paid in full. However, the holders of covered bonds and derivative counterparties 
+would retain the benefit of the right of priority to the assets comprised in the Cover Pool. Any residual claims of 
+the holders of covered bonds and derivative counterparties remain valid claims against the Institution, but will 
+rank pari passu with other unsecured and unsubordinated creditors.
+
+--- Page 47 ---
+47(51) 
+ 
+Label 
+Pursuant to Chapter 2, Section 3 of the Covered Bonds Act the label “svensk säkerställd obligation” 
+(Eng. Swedish covered bond) shall only be used for a covered bond that fulfils the requirements set out in the 
+Covered Bonds Act. A covered bond that is qualified for the label “Swedish covered bond” also qualifies to be 
+labelled “europeisk säkerställd obligation (premium)” (Eng. European covered bond (premium)) and 
+corresponding foreign official labels within the EEA. Covered Bonds issued under the Programme meet the 
+required criteria and will be labelled “Swedish covered bond”.
+
+--- Page 48 ---
+48(51) 
+ 
+LEGAL CONSIDERATIONS AND SUPPLEMENTARY INFORMATION 
+Information about the Prospectus 
+The Prospectus has been approved by the SFSA as competent authority under Regulation (EU) 2017/1129 
+(the Prospectus Regulation). The SFSA only approves this Prospectus as meeting the standards of completeness, 
+comprehensibility and consistency imposed by Regulation (EU) 2017/1129. The SFSA’s approval should not be 
+considered as an endorsement of the Issuer that is the subject of this Prospectus, nor should it be considered as an 
+endorsement of the quality of the securities that are subject of this Prospectus. Investors should make their own 
+assessment as to the suitability of investing in the securities. 
+This Prospectus is valid for twelve months after the date of the approval of the Prospectus. The obligation 
+to supplement this Prospectus in the event of significant new factors, material mistakes or material inaccuracies 
+does not apply when the Prospectus is no longer valid. 
+Authorisations and responsibility 
+The Issuer has obtained all necessary resolutions, authorisations and approvals required in conjunction 
+with the Covered Bond Loans and the performance of its obligations relating thereto. The decision to establish the 
+Programme was passed by the Issuer’s board of directors on 14 July 2017 and this Prospectus was approved by 
+the board of directors of the Issuer on 10 June 2024 and approved by the SFSA on 13 June 2024. 
+The Issuer accepts responsibility for the information contained in this Prospectus and declares that, to the 
+best of its knowledge, the information contained in the Prospectus is in accordance with the facts and the 
+Prospectus makes no omission likely to affect its import. The board of directors of the Issuer is, to the extent 
+provided by law, responsible for the information contained in this Prospectus and declares that, to the best of its 
+knowledge, the information contained in this Prospectus is in accordance with the facts and makes no omission 
+likely to affect its import. The Dealers and the Arranger have not verified the content in this document and are 
+thus not responsible for the information presented in the Prospectus. 
+Information in the section “Description of the Group” originating from the DFSA has been reproduced 
+accurately and, as far as the Issuer knows and can ascertain based on comparisons with other information published 
+by the DFSA, no information has been omitted in a way that may lead to the reproduced information being 
+incorrect or misleading. 
+Material contracts 
+Other than as described under the section “Description of the Issuer” and its sub-section “Business 
+strategy and funding structure” above, the Issuer has not concluded any material contracts not entered into in the 
+ordinary course of its business which could result in a member of the Group being under an obligation or 
+entitlement that is material to the Issuer’s ability to meet its obligations to Bondholders. 
+Legal Proceedings 
+There are no governmental, legal or arbitration proceedings against or affecting the Issuer (and no such 
+proceedings are pending or threatened of which the Issuer is aware) during a period covering the previous twelve 
+months which may have, or have had in the recent past, individually or in the aggregate, significant effects on the 
+profitability or the financial position of the Issuer. 
+The Group operates in a legal and regulatory environment that exposes it to potentially significant 
+litigation and regulatory risks. The Group’s banking and other operations, including its insurance operations, like 
+those of other financial services companies, have been the subject of regulatory scrutiny from time to time. For 
+example, the Group is subject to applicable anti-money laundering and terrorist financing laws. The supervisory 
+authorities conduct ongoing inspections of the Group’s compliance with anti-money laundering legislation that 
+could lead to supervisory actions. See also the risk factor “Regulatory risks” above. 
+Certain material interests 
+The Dealers and the Arranger (and any closely related companies to any of them) have provided, and may 
+in the future provide, certain investment banking and/or commercial banking and other services to the Issuer and 
+the Group for which they have received, or will receive, remuneration. In particular, it should be noted that the 
+Parent is the lender under the junior credit facility with the Issuer as borrower and will be repaid with the proceeds 
+from the issuance of covered bonds. Accordingly, conflicts of interest may exist or may arise as a result of any of
+
+--- Page 49 ---
+49(51) 
+ 
+the Dealers and the Arranger having previously engaged, or in the future engaging, in transactions with other 
+parties, having multiple roles or carrying out other transactions for third parties with conflicting interests.  
+Trend information 
+There has been no material adverse change in the prospects of the Issuer since 21 March 2024, being the 
+date of the publication of the last audited financial information.  
+There has been no significant change in the financial performance of the Issuer since 31 December 2023, 
+being the end of the last financial period for which audited financial information has been published, to the date 
+of this Prospectus. 
+Significant Changes since 31 December 2023 
+There has been no significant change in the financial position of the Issuer since 31 December 2023, being 
+the end of the last financial period for which audited financial information has been published. 
+Documents incorporated by reference 
+The following information has been incorporated into this Prospectus by reference and should be read as 
+part of the Prospectus: 
+Annual Report for 2022 
+(https://danskehypotek.se/-/media/pdf/danske-
+hypotek/financial-information/danske-hypotek-ab-annual-
+report-
+2022.pdf?rev=0fdce20bfe744e2bbba3c371c326caa4&hash=06
+0D806B371D18DEF9601EEEAA9C5010) 
+as regards 
+the 
+audited financial information and the audit reports on pages 11 
+(Income Statement), 12 (Balance sheet), 13 (Statement of 
+changes in equity), 14 (Cash flow statement), 15-36 (Notes) and 
+38-40 (Auditor’s report). 
+Annual report for 2023 
+(https://danskehypotek.se/-/media/pdf/danske-
+hypotek/financial-information/danske-hypotek-ab-annual-
+report-
+2023.pdf?rev=3a296537be7d4617b9a2c33eb49ae048&hash=5
+AE5ACDAB8AD1D25D9385FA484DADD55) as regards the 
+audited financial information and the audit reports on pages 11 
+(Income statement), 12 (Balance sheet), 13 (Statement of 
+changes in equity), 14 (Cash flow statement), 15-37 (Notes) and 
+39-41 (Auditor’s report). 
+Base Prospectus dated 9 August 2017 (https://danskehypotek.se/-/media/pdf/danske-hypotek/danske-
+hypotek-base-
+prospectus.pdf?rev=17598e1a612f4d5a9f76df03cf16aed6&has
+h=8B612D80A8846A3DCEA53) as regards the information on 
+pages 17-27 (General terms and conditions for covered bond 
+loans) and 28-30 (Form of final terms). 
+The Issuer’s Annual Reports for 2022 and 2023 (the “Annual Reports”) have been prepared in 
+accordance with International Financial Reporting Standards (IFRS) as adopted by the European Union and in 
+accordance with the Swedish Annual Report Act (Årsredovisningslag (1995:1554)). With the exception of the 
+Annual Reports, no information in this Prospectus has been audited or reviewed by the Issuer’s auditor. 
+Parts of the above-mentioned documents that are not incorporated by reference are either addressed in 
+other sections of the Prospectus, or considered to not be relevant for potential investors in the Programme. 
+Documents on display 
+Copies of the following documents are available at the website of the Issuer (www.danskehypotek.se) 
+and at the Issuer’s office, at Norrmalmstorg 1, 103 92 Stockholm, Sweden (regular office hours) for the term of 
+the Prospectus: 
+• 
+the Issuer’s certificate of incorporation
+
+--- Page 50 ---
+50(51) 
+ 
+• 
+the Issuer’s Articles of Association 
+• 
+the Issuer’s Annual Report for 2022 
+• 
+the Issuer’s Annual Report for 2023
+
+--- Page 51 ---
+51(51) 
+ 
+ADDRESSES 
+The Issuer 
+Danske Hypotek AB (publ) 
+Postal address: Box 7523 
+103 92 Stockholm 
+Visiting address: 
+Norrmalmstorg 1, Stockholm 
+Telephone: +46 8-568 808 98 
+www  . danskehypotek.se 
+Arranger 
+Danske Bank A/S, Danmark, Sverige Filial 
+Postal address: Box 7523 
+103 92 Stockholm 
+Visiting address: 
+Norrmalmstorg 1, Stockholm 
+Telephone: +46 8-503 200 60 
+www . danskebank.se 
+Dealers 
+Danske Bank A/S, Danmark, Sverige Filial 
+Postal address: Box 7523 
+103 92 Stockholm 
+Visiting address: 
+Norrmalmstorg 1, Stockholm 
+Telephone: +46 8-503 200 60 
+www . danskebank.se 
+ 
+Nordea Bank Abp 
+Postal address: Helsinki, FI-00020 Nordea 
+Visiting address:  
+Satamaradankatu 5, Helsinki 
+Telephone: +358 (0) 200 70 000 
+w w w . n o rd e a . com 
+ 
+Skandinaviska Enskilda Banken AB (publ) 
+Postal address: 106 40 Stockholm 
+Visiting address: 
+Kungsträdgårdsgatan 8, Stockholm 
+Telephone: +46 8-506 23 170. 
+www . seb.se  
+ 
+Svenska Handelsbanken AB (publ) 
+Postal address: 106 70 Stockholm 
+Visiting address:  
+Kungsträdgårdsgatan 2, Stockholm 
+Credit Sales tel: 08-463 46 50 
+www . handelsbanken.se 
+ 
+Swedbank AB (publ) 
+Postal address:  105 34 Stockholm 
+MTN-desk  
++46 (0)8-700 99 85 
+Stockholm 
++46 (0)8-700 99 98 
+Göteborg 
++ 46 (0)31-739 78 20 
+www . swedbank.se 
+Legal Adviser to the Issuer 
+Mannheimer Swartling Advokatbyrå AB 
+Järnvågen 1, Göteborg 
+www . mannheimerswartling.se 
+Auditor to the Issuer 
+Deloitte AB 
+Postal address: 113 79 Stockholm  
+Visiting address:  
+Rehnsgatan 11, Stockholm 
+w w w .  deloitte.com/se 
+Account Operator 
+Euroclear Sweden AB 
+Postal address: Box 191, 101 23Stockholm  
+Visiting address: Klarabergsviadukten 63 
+www.euroclear.com/sweden/sv.html

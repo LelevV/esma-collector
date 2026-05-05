@@ -1,0 +1,4027 @@
+--- Page 1 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Golar LNG Limited 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Global Coordinators: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Joint Lead Managers: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hamilton (Bermuda), 11 March 2022
+
+--- Page 2 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+Important information 
+ 
+The Base Prospectus is based on sources such as annual reports and publicly available information and forward-
+looking information based on current expectations, estimates and projections about global economic conditions, as 
+well as the economic conditions of the regions and industries that are major markets for Golar LNG Limited (the 
+“Company”, “Golar LNG”, “Group” or “we”). 
+ 
+A prospective investor should consider carefully the factors set forth in Chapter 2 Risk factors, and elsewhere in the 
+Prospectus, and should consult his or her own expert advisers as to the suitability of an investment in the bonds. 
+ 
+IMPORTANT – EEA AND UK RETAIL INVESTORS - If the Final Terms in respect of any bonds includes a legend 
+titled "Prohibition of Sales to EEA Retail Investors" and/or "Prohibition of Sales to UK Retail Investors", the bonds 
+are not intended to be offered, sold or otherwise made available to and should not be offered, sold or otherwise 
+made available to any retail investor in the European Economic Area (‘EEA’) and/or in the United Kingdom (the 
+“UK”). Consequently no key information document required by Regulation (EU) No. 1286/2014 (as amended) (the 
+PRIIPs Regulation) (and for UK, as it forms part of domestic law by virtue of the EUWA (the UK PRIIPs Regulation)) 
+for offering or selling the bonds or otherwise making them available to retail investors in the EEA and/or the UK has 
+been prepared and therefore offering or selling the bonds or otherwise making them available to any retail investor 
+in the EEA and/or the UK may be unlawful under the PRIIPs Regulation and/ or the UK PRIIPS Regulation. 
+ 
+MiFID II product governance and/or UK MiFIR product governance – The Final Terms in respect of any bonds 
+will include a legend titled “MiFID II product governance” and/or “UK MiFIR product governance” which will outline 
+the target market assessment in respect of the bonds and which channels for distribution of the bonds are 
+appropriate. Any person subsequently offering, selling or recommending the bonds (a “distributor”) should take into 
+consideration the target market assessment; however, a distributor subject to MiFID II is responsible for undertaking 
+its own target market assessment in respect of the bonds (by either adopting or refining the target market 
+assessment) and determining appropriate distribution channels. 
+ 
+This Base Prospectus is subject to the general business terms of the Global Coordinators and the Joint Lead 
+Managers, 
+available 
+at 
+their 
+websites 
+(www.danskebank.no, 
+www.dnb.no, 
+www.nordea.no 
+and 
+www.paretosec.com).  
+ 
+The Global Coordinators and the Joint Lead Managers and/or any of their affiliated companies and/or officers, 
+directors and employees may be a market maker or hold a position in any instrument or related instrument discussed 
+in this Base Prospectus and may perform or seek to perform financial advisory or banking services related to such 
+instruments. The Global Coordinators' and the Joint Lead Managers’ corporate finance department may act as 
+manager or co-manager for this Company in private and/or public placement and/or resale not publicly available or 
+commonly known.   
+ 
+Copies of this Base Prospectus are not being mailed or otherwise distributed or sent in or into or made available in 
+the United States. Persons receiving this document (including custodians, nominees and trustees) must not 
+distribute or send such documents or any related documents in or into the United States. 
+ 
+Other than in compliance with applicable United States securities laws, no solicitations are being made or will be 
+made, directly or indirectly, in the United States. Securities will not be registered under the United States Securities 
+Act of 1933 and may not be offered or sold in the United States without registration or an applicable exemption from 
+registration requirements. 
+ 
+The distribution of the Base Prospectus may be limited by law also in other jurisdictions, for example in non-EEA 
+countries. Approval of the Base Prospectus by Finanstilsynet (the Norwegian FSA) implies that the Base Prospectus 
+may be used in any EEA country. No other measures have been taken to obtain authorisation to distribute the Base 
+Prospectus in any jurisdiction where such action is required. 
+ 
+The Base Prospectus dated 11 March 2022 together with a Final Terms and any supplements to these documents 
+constitute the Prospectus. 
+ 
+The content of this Base Prospectus does not constitute legal, financial or tax advice and potential investors should 
+seek legal, financial and/or tax advice. 
+ 
+Unless otherwise stated, this Base Prospectus is subject to Norwegian law. In the event of any dispute regarding 
+the Base Prospectus, Norwegian law will apply.
+
+--- Page 3 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3
+TABLE OF CONTENTS:  
+ 
+1 RISK FACTORS .................................................................................................................4 
+2 DEFINITIONS ................................................................................................................. 10 
+3 PERSONS RESPONSIBLE .................................................................................................. 12 
+4 STATUTORY AUDITORS ................................................................................................... 13 
+5 INFORMATION ABOUT THE ISSUER ................................................................................... 14 
+6 BUSINESS OVERVIEW ..................................................................................................... 16 
+7 ORGANIZATIONAL STRUCTURE ........................................................................................ 20 
+8 TREND INFORMATION ..................................................................................................... 21 
+9 ADMINISTRATIVE, MANAGEMENT AND SUPERVISORY BODIES ............................................. 22 
+10 MAJOR SHAREHOLDERS ................................................................................................ 25 
+11 FINANCIAL INFORMATION CONCERNING THE COMPANY'S ASSETS AND LIABILITIES, 
+FINANCIAL POSITION AND PROFITS AND LOSSES ...................................................... 26 
+12 DOCUMENTS AVAILABLE ................................................................................................ 28 
+13 FINANCIAL INSTRUMENTS THAT CAN BE ISSUED UNDER THE BASE PROSPECTUS ................ 29 
+14 THIRD PARTY INFORMATION AND STATEMENT BY EXPERTS AND DECLARATIONS OF 
+ANY INTEREST ....................................................................................................... 39 
+CROSS REFERENCE LIST .................................................................................................... 40 
+GLOBAL COORDINATORS’ AND JOINT LEAD MANAGERS’ DISCLAIMER ..................................... 41 
+ANNEX 1 MEMORANDUM OF ASSOCIATION AND BYE-LAWS .................................................... 42 
+ANNEX 2 TEMPLATE FOR FINAL TERMS FOR FIXED AND FLOATING RATE BONDS ...................... 43 
+ANNEX 3 SUBSIDIARIES .................................................................................................... 44 
+ANNEX 4 COMPLETE FLEET LIST .......................................................................................... 45
+
+--- Page 4 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4
+1 Risk factors   
+Investing in bonds issued by Golar LNG Limited involves inherent risks.   
+ 
+As the Company is the parent company of the Group, and a holding company, the risk factors for the Group are 
+deemed to be equivalent for the purpose of this Base Prospectus. 
+ 
+The risks and uncertainties described in the Prospectus are risks of which the Company is aware and that the 
+Company considers to be material to its business. If any of these risks were to occur, the Company’s business, 
+financial position, operating results or cash flows could be materially adversely affected, and the Company could 
+be unable to pay interest, principal or other amounts on or in connection with the bonds. Prospective investors 
+should carefully consider, among other things, the risk factors set out in this Base Prospectus, before making an 
+investment decision. The risk factors set out in this Base Prospectus and the Final Terms cover the Company and 
+the bonds issued by the Company, respectively. 
+ 
+An investment in the bonds is suitable only for investors who understand the risk factors associated with this type 
+of investment and who can afford a loss of all or part of their investment. Any investor must conduct its own 
+investigations and analysis of the Company and should consult his or her own expert advisors as to the suitability 
+of any investment. 
+  
+ 
+1.1 Risks related to the Group’s business 
+The market for LNG transportation and regasification services is competitive 
+The market for LNG transportation and regasification services in which the Group operates is competitive, especially 
+with respect to the negotiation of long-term charters. Furthermore, new competitors with greater resources could 
+enter the market for LNG carriers or FSRUs and operate larger fleets through consolidations, acquisitions or the 
+purchase of new vessels, and may be able to offer lower charter rates and more modern fleets, which may affect 
+the Group’s business, results of operations and financial condition. 
+  
+Failure to find profitable employment for our fleet in a volatile spot/short-term market could adversely 
+impact the Group’s operations. 
+The Group operates the majority of its vessels in the spot/short-term charter market, which is subject to volatility. 
+Failure to find profitable employment for these vessels could adversely affect the Group’s operations. The spot 
+market refers to charters for periods of up to twelve months or less. Spot/short-term charters expose the Group to 
+the volatility in spot charter rates, which can be significant. In contrast, medium to long-term time charters generally 
+provide reliable revenues, but they also limit the portion of the Group’s fleet available to the spot market during an 
+upswing in the LNG industry cycle, when spot market voyages might be more profitable. The charter rates payable 
+in the spot market are uncertain and volatile and will depend upon, among other things, economic conditions in the 
+LNG market. A sustained decline in charter or spot rates or a failure to successfully charter our vessels could have 
+a material adverse effect on our results of operations and our ability to meet our financing obligations as additional 
+working capital may be required for continued operation of our vessels. 
+ 
+The demand for LNG, LNG carriers, FSRUs and FLNGs will depend on prevailing energy prices 
+The profitability and prospects of the LNG shipping sector, the floating storage and regasification sector and the 
+floating liquefaction sector are subject to prevailing energy prices and demand. While global LNG demand has 
+continued to rise, the rate of its growth has fluctuated for several reasons, including fluctuations in the price of 
+natural gas and other sources of energy, the continued increase in natural gas production from unconventional 
+sources, including hydraulic fracturing, in regions such as North America and the highly complex and capital-
+intensive nature of new and expanded LNG projects, including liquefaction projects. The results of operations and 
+financial condition of the Group will consequently depend on continued world and regional energy prices and 
+demand for LNG, LNG carriers, FSRUs and FLNGs. 
+ 
+The FLNG conversions undertaken by the Group are highly complex 
+FLNG vessels are complex and their operations are technically challenging and subject to mechanical risks and 
+problems. Unforeseen operational problems with the Hilli Episeyo (“FLNG Hilli”), or future projects by the Group 
+such as the Gimi Conversion (“FLNG Gimi”), may lead to a loss of future revenues or higher than anticipated future 
+operating expenses or require additional capital expenditures. The completion of retrofitting the Group’s vessels as 
+FLNG vessels could be subject to significant cost overruns. If the shipyard is unable to deliver any converted FLNG 
+vessel on time, the Group might be unable to perform its obligations under the related tolling agreement. 
+Furthermore, if any future FLNG vessels, once converted, are unable to meet certain performance requirements or 
+perform as intended, such vessels may have to accept reduced tolling rates. Either of these possibilities would have
+
+--- Page 5 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5
+a negative impact, which could be significant, on the Group’s business, results of operations and financial condition. 
+In addition, due to the new nature of the technology, only a very limited number of contractors have relevant 
+experience with FLNG conversions and as a result the Group is reliant on a small number of contractors with 
+relevant experience. Accordingly, a change of contractors, for any reason, would likely result in higher costs and a 
+significant delay to our delivery schedules. 
+ 
+FLNG Hilli is not 100% utilized  
+The Group cannot guarantee the full utilization of the full capacity of FLNG Hilli and sufficient profitability to justify 
+its investment. FLNG Hilli commenced commercial operations in June 2018, under the terms of the liquefaction 
+tolling agreement (“LTA”) by and between Perenco and SNH (the “Customer”). The LTA commits of a portion of the 
+capacity of the four liquefaction trains (1.2 mmt per annum of the 2.4 mmt per annum capacity). In July 2021, we 
+signed an agreement with the Customer to increase the utilization of the FLNG Hilli, commencing in January 2022, 
+by 200,000 tons of LNG, bringing total utilization in 2022 to 1.4 million tons. Under the agreement, the Customer 
+was granted further option to increase capacity utilization of FLNG Hilli by up to 400,000 tons of LNG per year from 
+January 2023 through to the end of the current contract term in 2026, which must be declared during the third 
+quarter of 2022. To date, remaining capacity of FLNG Hilli is not yet contracted. Delays in contracting such additional 
+capacity could adversely affect the Group’s financial performance and may not deliver its anticipated profitability or 
+generate cash flow sufficient to justify the Group’s investment. 
+ 
+Delays and costs associated with renegotiation of the Group’s conversion contracts and capital 
+expenditure could adversely affect its earnings, cash flows and financial condition 
+The 20-year Lease and Operate Agreement (“LOA”) with BP Mauritania Investments Ltd (“BP”) for the charter of 
+the FLNG Gimi provides both parties with the right to suspend or terminate the agreement under certain 
+circumstances after performance has begun, including as a result of a prolonged force majeure event. Should the 
+Group be unable to meet its obligations under the LOA in a manner that gives rise to a right to terminate the 
+agreement by BP, the Group could be obligated to pay substantial damages to BP which would have a negative 
+impact on the Group’s earnings, cash flow and financial condition and could make it difficult to induce counterparties 
+to contract with us for future FLNG conversions. 
+ 
+The values of the Group’s vessels may fluctuate 
+Vessel values can fluctuate substantially over time due to a number of different factors, such as prevailing economic 
+and market conditions in the natural gas and energy markets; increases in the supply of vessel capacity without a 
+commensurate increase in demand, the type, size and age of a vessel; and the cost of retrofitting or modifying 
+existing vessel. Any impairment charges incurred as a result of a decline in market value of our vessels againsts its 
+carrying value could negatively affect our business, financial condition, operating results or the trading price of our 
+common shares. The realization of vessel values may consequently take time and will be exposed to a variety of 
+general and specific market conditions. When vessel values are low, we may not be able to dispose of vessels at 
+a reasonable price when we wish to sell vessels, and conversely, when vessel values are elevated, we may not be 
+able to acquire additional vessels at attractive prices when we wish to acquire additional vessels, which could 
+adversely affect our business, results of operations, cash flow, financial condition and ability to make distributions 
+to unitholders. 
+ 
+The Group is dependent on its executive management, senior management team and key employees with 
+relevant experience 
+The Group is dependent upon its executive management, as well as its senior management team and small number 
+of key employees with relevant and highly specific operational, commercial, technical and financial experience and 
+skillset relating to the LNG industry and value chain. Without limitation, an example would be the securing and 
+negotiation of an FLNG charter party and subsequent project execution of such a contract. The loss of such 
+personnel and the failure to successfully recruit replacements in a timely manner, or at all, would have a material 
+adverse effect on its business, prospects, financial condition and results of operations. A loss of one or more 
+individuals within these groups may expose the Group to lack of sufficient knowledge about one or more of the 
+projects or activities the Group is engaged in – leading to a situation whereby our ability to deliver or execute as per 
+contractually agreed could be compromised which in turn may have material economic impact on the Group. The 
+Group may be exposed to these situations in respect of commercial, financial, legal and operational relationships 
+across both existing clients, service providers and lenders and prospective new business activities. 
+ 
+Outbreaks of epidemic and pandemic diseases and governmental responses thereto could adversely affect 
+the Group’s business 
+The Group’s operations are subject to risks related to outbreaks of infectious diseases, including the ongoing 
+COVID-19 pandemic, which has been spreading around the world since December 2019. Many countries 
+worldwide, affected by the outbreak, declared national emergencies due to the outbreak. The COVID-19 outbreak 
+has negatively affected economic conditions and energy prices have been volatile. The COVID-19 outbreak has
+
+--- Page 6 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6
+also negatively affected the supply chain, the labour market, the demand for LNG and LNG shipping regionally as 
+well as globally and may otherwise impact the Group’s operations and the operations of its customers and suppliers. 
+Governments in affected countries have been imposing and may continue to impose travel bans, quarantines and 
+other emergency public health measures. These measures, though temporary in nature, may continue and increase 
+as countries attempt to contain the outbreak. The extent of the COVID-19 outbreak’s effect on its operational and 
+financial performance will depend on future developments, including the duration, spread and intensity of the 
+outbreak, all of which are uncertain and difficult to predict considering the rapidly evolving landscape. 
+ 
+The Group may not be able to obtain financing, to meet obligations as they fall due or to fund growth or 
+future capital expenditures 
+In order to fund future FLNG vessels, liquefaction projects, vessel acquisitions, increased working capital levels or 
+other capital expenditures, the Group may be required to use cash from operations, incur additional borrowings, 
+raise capital through the sale of debt instruments or additional equity securities. The Group’s ability to do so may 
+be limited by the Group’s financial condition at the time of such financing or offering, as well as by adverse market 
+conditions resulting from, among other things, general economic conditions and contingencies and uncertainties 
+that are beyond the control of the Group. The failure to obtain funds for future capital expenditures could impact 
+the Group’s results of operations, financial condition and its ability to repay the Bonds. 
+ 
+The Group’s ability to service its debt is dependent on cash flow from its subsidiaries 
+The Company is a holding company and relies principally on cash flows earned and dividends paid by its 
+subsidiaries for cash requirements, including the funds necessary to service any debt it may incur. The Company’s 
+subsidiaries may be restricted in their ability to transfer a portion of their net income to the Company, whether in 
+the form of dividends, loans or advances, and the imposition of such a limitation could materially and adversely limit 
+the Company’s ability to grow, make investments or acquisitions that could be beneficial to its businesses, or 
+otherwise fund and conduct its business. 
+ 
+The Group is highly leveraged and subject to restrictions in its financing agreements that impose 
+constraints on its operating and financing flexibility 
+The Group has significant indebtedness outstanding under its several outstanding loans. The Group may need to 
+refinance some or all of its indebtedness or loan facilities or additional indebtedness that it may incur in the future 
+to, among other things, acquire additional vessels or for working capital requirements. It cannot assure you that it 
+will be able to do so on terms acceptable to the Group or at all. If the Group cannot refinance its indebtedness, it 
+will have to dedicate some or all of its cash flows and cash held for such repayments, and it may be required to 
+sell some of its assets to pay the principal and interest on its indebtedness. 
+ 
+The Group’s loan facilities and the indentures for its bonds are subject to certain limitations on its business and 
+future financing activities.  Due to these restrictions, the Group may need to seek permission from its lenders in 
+order to engage in some corporate actions. The Group’s lenders’ interests may differ from the Group’s and the 
+Group cannot guarantee that waivers from lenders’ will be obtained when needed. This may prevent the Group 
+from taking actions that are in its best interests as a consequence of lenders exercising rights or control prohibiting 
+the Group to act timely in taking such actions. 
+ 
+Risk of maritime liens 
+Crew members, suppliers of goods and services to a vessel, shippers of cargo and other parties may be entitled to 
+a maritime lien against a vessel for unsatisfied debts, claims or damages. In many jurisdictions, a maritime lien 
+holder may enforce its lien by arresting or attaching a vessel through foreclosure proceedings in addition, in some 
+jurisdictions a claimant may arrest both the vessel which is subject to the claimant’s maritime lien and any 
+“associated” vessel, which is any vessel owned or controlled by the same owner. The arrest or attachment of one 
+or more of the Group’s vessels could interrupt the business or require large sums of money to have the arrest or 
+attachment lifted, which could have a negative effect on the Company’s cash flows and the ability to service its debt. 
+ 
+Exposure to equity price volatility in New Fortress Energy Inc’s (“NFE”) and Cool Company Limited 
+(“Cool Company”) shares could adversely affect the Group’s ability to perform its obligations. 
+The Group owns 18.6 million shares of NFE Class A common stock and 125 million shares of Cool Company 
+Limited common shares. Should the price of the Group’s NFE common stock or Cool Company decline materially, 
+and the Group sold shares at substantially lower prices, the Group’s ability to repay our financial obligations, 
+including these bonds, or fully comply with other contractual commitments could be at risk. 
+ 
+Guarantee obligations in respect of indebtedness of affiliates and others 
+The Group guarantees the indebtedness of its affiliates and external parties. If certain of the Group’s affiliates and/or 
+external parties are unable to service their debt requirements or comply with certain provisions contained in their 
+loan agreements, this may have a material adverse effect on the Group.
+
+--- Page 7 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7
+The Group operates in jurisdictions with considerable political and security risks 
+The group operates in, and/or are pursuing projects which could lead to future operations in, areas of the world 
+where there are heightened political and security risks. The Group identifies higher risk countries in which it operates 
+through its own data, the experiences of its partners and customers, and publicly available third-party information 
+such as Transparency International, the World Bank and TRACE International, and monitor the specific risks 
+associated with countries in which they operate.The impact from such risks to the Group’s business may materalize 
+in damage or loss of a vessel, loss of life, reputational damage, loss of rights and loss of earnings. 
+ 
+Risk related to accidents, spills or maritime disasters 
+All vessels and industrial processes carry or involve potential pollutants and consequently the operation of FSRUs, 
+FLNGs and LNG carriers is inherently risky. Due to the nature of the operations of the Group, the Group’s vessels 
+and cargo is at risk of being damaged or lost because of events such as marine disasters, acts of piracy, 
+environmental accidents, bad weather, mechanical failures, grounding, fire, explosions and collisions, human error, 
+national emergency and war and terrorism. Any of these risks, should they materialize, could cause damage or loss 
+of a vessel, loss of life or other environmental consequences. Further, the costs of compliance associated with 
+changes in environmental regulations could require significant expenditures, and breaches of such regulations may 
+result in the imposition of material fines and penalties or temporary or permanent suspension of production 
+operations. 
+ 
+Risk of regulatory changes 
+The Group operates in a market which is governed by regulatory regimes which may be subject to change. If 
+regulations change, or if the Group or its partners fail to abide by regulations or meet the requirements of the 
+jurisdictions in which its vessels operate, then the Group may lose rights or suffer fines or other penalties which 
+could be substantial. 
+ 
+Continued provision of management services is reliant on third parties 
+The Group has entered into certain agreements with third parties for the provision of certain technical, crew, 
+commercial, corporate secretarial and other agreements. As the Group is responsible for the operating expenses 
+under such agreements, significant fluctuation of such expenses could materially and adversely affect the Group’s 
+results of operations. If the Group is unable to deliver the services that it is contracted to provide, it could result in 
+a material adverse effect on its reputation and its results of operations. 
+ 
+Counterparty risks 
+The performance of an underlying investment depends heavily on its counterparties' ability to perform their 
+obligations under agreed charter parties. Default by a counterparty of its obligations under its charter party 
+agreements may have material adverse consequences on our results of operations. 
+ 
+ 
+1.2 Risks related to the market and economic conditions 
+Macroeconomic conditions 
+Changes in national and international economic conditions, including, for example interest rate levels, inflation and 
+employment levels may influence the valuation of real tangible and financial assets. In turn, this may impact the 
+demand for goods, services and assets globally and thereby the macro economy. The current macroeconomic 
+situation is uncertain and there is a risk of negative developments. The Group anticipates a significant number of 
+the port calls made by its vessels will continue to involve the loading or discharging of LNG in ports in the Asia 
+Pacific region. As a result, any negative changes in economic conditions globally or in any Asia Pacific country 
+specifically, particularly in China, may have a material adverse effect on the Group’s business, financial condition, 
+results of operations or its future prospects. 
+ 
+Interest rate risk and covenant risks 
+Any changes in the underlying interest rate would directly affect the returns on the underlying investments. Interest 
+rate levels can also indirectly affect the value of the assets at the point of sale, which could negatively impact the 
+Group’s results of operations, financial condition and ability repay maturing debts and the Bonds. 
+ 
+The Group’s loan agreements include financial covenants, if these covenants are not complied with, the Group may 
+not be able to draw on its credit facilities and outstanding amounts may become due and payable. If the Company 
+or any Group company is required to repay any financial indebtedness and alternative financial resources are not 
+available at such time, this may have an adverse effect on the Group’s liquidity and financial condition.
+
+--- Page 8 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8
+Currency exchange risk 
+Charter hire is normally payable in US Dollars and the value of the vessels is normally denominated in US Dollars. 
+However certain revenues, expenses, assets and liabilities are denominated in Euro, the British Pound, the 
+Norwegian Kroner and other currencies. Thus, currency fluctuations may affect both the investors' return, and 
+Group‘s cash flows, financial condition and results of operations. 
+ 
+ 
+1.3 Risks related to the Bonds 
+ 
+Risk of being unable to repay the Bonds 
+The Group's ability to generate cash flow from operation and to make scheduled payments on and to repay its 
+indebtedness, including the Bonds, will depend on the future financial performance of the Group. The future 
+performance of the Group will be affected by a range of economic, competitive, governmental, operating and other 
+business factors, many of which cannot be controlled. 
+ 
+Risks related to the market for the Bonds 
+There is no existing market for the Bonds, and there can be no assurance given regarding the future development 
+of a trading market for the Bonds. The pricing of the Bonds can be volatile. Potential investors should note that it 
+may be difficult or even impossible to trade and sell the Bonds in the secondary market. Even if the Bonds are 
+admitted to trading, active trading in the Bonds may not occur and a liquid market for trading in the Bonds may not 
+be available even if the Bonds are listed. 
+ 
+Risks related to transfer restrictions on the Bonds 
+As the Group is relying upon exemptions from registration under the U.S. Securities Act, applicable state 
+securities laws, and UK and EU securities laws in the placement of the Bonds, the Bonds may only be transferred 
+in a transaction registered under or exempt from the registration or prospectus requirements of such legislation in 
+the future. Therefore, investors may not be able to sell their Bonds at their preferred time or price. The Group 
+cannot assure investors as to the future liquidity of the Bonds. 
+ 
+The trading price of the Bonds may be volatile 
+Historically, the market for non-investment grade debt has been subject to disruptions that have caused substantial 
+volatility in the prices of securities similar to the Bonds. This may impact the bondholders ability to sell Bonds at an 
+acceptable price – potentially incurring losses. 
+ 
+Optional redemption of Bonds by Company may impact value of the Bonds 
+The Bonds may be subject to optional redemption by the Company, which may have a material adverse effect on 
+the value of the Bonds. The terms and conditions of the Bonds will provide that the Bonds shall be subject to optional 
+redemption by the Company at their outstanding principal amount, plus accrued and unpaid interest to the date of 
+redemption, plus a premium calculated in accordance with the terms and conditions of the Bonds. This is likely to 
+limit the market value of the Bonds. It may not be possible for bondholders to reinvest proceeds at an effective 
+interest rate as high as the interest rate on the Bonds. 
+ 
+Changes in exchange rates may have a material adverse effect on the value of the principal payable on the 
+Bonds 
+As the Company will pay principal and interest on the Bonds and make any other payments under the Bonds in 
+USD, significant changes to the applicable exchange rates due to economic, political or other factors over which 
+the Group has no control, present certain risks if an investor’s financial activities are denominated principally in a 
+currency other than USD. Further, exchange controls imposed or modified by the relevant authorities could 
+adversely affect an applicable exchange rate, and as a result the investors may receive less or no interest or 
+principal. 
+ 
+Prospective investors may not be able to recover losses incurred through civil proceedings for 
+Norwegian or U.S. securities laws violations 
+The Company is incorporated under Bermuda law. All of the Company's members of senior management and 
+directors and executives currently reside outside the United States and all of its assets are currently located outside 
+the United States. As a result, prospective investors may be unable to effect service of process within the United 
+States or to recover on judgments of United States courts in any civil proceedings under the United States federal 
+securities laws, and there can be made no assurances that civil proceedings can be effected in Norway against the 
+Company, members of senior management and directors and executives.
+
+--- Page 9 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9
+Defaults or insolvency of subsidiaries 
+The Group’s loan agreements contain certain cross -default provisions. Defaults by, or the insolvency of, any 
+subsidiaries of the Group could result in the obligation of the Group to make payments under parent company 
+financial or performance guarantees in respect of such subsidiaries’ financial indebtedness, or cause cross-defaults 
+on other financial indebtedness of the Group. 
+ 
+Put Option Event - the Company’s ability to redeem the Bonds with cash may be limited 
+Upon the occurrence of a Put Option Event, each individual bondholder shall have a right of pre-payment of the 
+Bonds as set out in the Bond Agreement. However, it is possible that the Company may not have sufficient funds 
+to make the required redemption of Bonds, resulting in an event of default under the Bonds. The consequence of 
+such a situation is that bondholders may take legal action in order to redeem the value of their investment. 
+ 
+The terms and conditions of the Bonds will allow for modification of the Bonds or waivers or authorisations 
+of breaches and substitution of the Company which, in certain circumstances, may be affected without the 
+consent of bondholders 
+The terms and condition of the Bonds will contain provisions for calling meetings of bondholders and certain written 
+amendment procedures. These provisions permit defined majorities to make decisions affecting and binding all 
+bondholders. The bond trustee may, without the consent of the bondholders, agree to certain minor modifications 
+of the agreement for the terms and conditions of the Bond and other finance documents which, in the opinion of the 
+bond trustee, are proper to make and will not adversely affect the bondholder's rights. 
+ 
+No action against the Company and bondholders' representation 
+In accordance with the terms and conditions of the Bonds, the bond trustee will represent all bondholders in all 
+matters relating to the Bonds and the bondholders are prevented from taking actions on their own against the 
+Company. Consequently, individual bondholders do not have the right to take legal actions to declare any default 
+by claiming any payment from the Company directly and may therefore lack effective remedies unless and until a 
+requisite majority of the bondholders agree to take such action.
+
+--- Page 10 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10
+2 Definitions 
+ 
+Additional Bonds 
+Means the debt instruments issued under a Tap Issue, including any 
+ 
+Temporary Bonds. Please see Bonds Terms for definition of Tap Issue and 
+Temporary Bond. 
+ 
+Annual Report 2020 
+The audited consolidated financial statements of Golar LNG Limited as of 
+and for the year ended December 31, 2020, included in the 2020 Form 20-
+F filed with the United States Securities and Exchange Commission. 
+ 
+Annual Report 2019 
+The audited consolidated financial statements of Golar LNG Limited as of 
+and for the year ended December 31, 2019, included in the 2019 Form 20-
+F filed with the United States Securities and Exchange Commission. 
+ 
+Base Prospectus 
+ This document dated 11 March 2022. 
+ 
+  
+Bonds Terms 
+Means the terms and conditions, including all Attachments which form an 
+ 
+integrated part of any Bond Terms to be listed under this Base Prospectus, 
+in each case as amended and/or supplemented from time to time. Please 
+see Bond Terms for definition of Attachment. 
+ 
+Bonds 
+Means (i) the debt instruments issued by the Issuer pursuant to the Bond 
+Terms including any Additional Bonds, and (ii) any overdue and unpaid 
+principal which has been issued under a separate ISIN in accordance with 
+the regulations of the CSD from time to time. 
+ 
+Cool Company 
+Cool Company Limited, a company owning eight TFDE LNG carriers where 
+Golar LNG Limited owns 31.3% as of 31st January 2022. 
+ 
+Company/Issuer/Golar LNG 
+Golar LNG Limited, a corporation organised under the laws of Bermuda. 
+ 
+Final Terms 
+Document to be prepared for each new issue of bonds under the 
+Prospectus. The template for Final Terms is included in the Base 
+Prospectus as Annex 2. 
+ 
+The template for Final Terms has been approved by the Norwegian FSA, 
+as competent authority under Regulation (EU) 2017/1129. The Norwegian 
+FSA only approves this template for Final Terms as meeting the standards 
+of completeness, comprehensibility and consistency imposed by 
+Regulation (EU) 2017/1129. Such approval should not be considered as an 
+endorsement of the quality of the securities that are the subject of this 
+template for Final Terms. Investors should make their own assessment as 
+to the suitability of investing in the securities. 
+ 
+FLNG 
+Floating liquefaction natural gas vessel 
+ 
+FSRU 
+Floating storage and regasification unit 
+ 
+Global Coordinators: 
+DNB Bank ASA and Pareto Securities AS 
+ 
+Group 
+Golar LNG Limited and its subsidiaries from time to time 
+ 
+Interim Report Q1 2021 
+The unaudited condensed consolidated financial statements of Golar LNG 
+Limited as of and for the three months period ended March 31, 2021, 
+included in the Form 6-K filed with the United States Securities and 
+Exchange Commission. 
+ 
+Interim Report Q2 2021 
+The unaudited condensed consolidated financial statements of Golar LNG 
+Limited as of and for the six months period ended June 30, 2021, included 
+in the Form 6-K filed with the United States Securities and Exchange 
+Commission.
+
+--- Page 11 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11
+Interim Report Q3 2021 
+The unaudited condensed consolidated financial statements of Golar LNG 
+Limited as of and for the nine months period ended September 30, 2021, 
+included in the Form 6-K filed with the United States Securities and 
+Exchange Commission. 
+ 
+Joint Lead Managers 
+Danske Bank A/S and Nordea Bank Abp 
+ 
+LNG 
+Liquefied natural gas 
+ 
+NFE 
+New Fortress Energy Inc. 
+ 
+SNH 
+Société Nationales des Hydrocarbures 
+ 
+TFDE LNG 
+Tri-Fuel diesel electric propulsion LNG ships 
+ 
+TTF 
+Dutch Title Transfer Facility, a virtual trading point for natural gas in the 
+Netherlands 
+ 
+U.S. GAAP 
+United States generally accepted accounting principles
+
+--- Page 12 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12
+3 Persons responsible  
+3.1 Persons responsible for the information 
+Persons responsible for the information given in the Base Prospectus are as follows: 
+ 
+Golar LNG Limited 
+2nd Floor, S.E. Pearman Building, 
+9 Par-la-Ville Road, Hamilton 
+HM 11, Bermuda 
+ 
+ 
+3.2 Declaration by persons responsible 
+Golar LNG Limited declares that, to the best of its knowledge, the information contained in the Base Prospectus is 
+in accordance with the facts and that the Base Prospectus makes no omission likely to affect its import. 
+ 
+ 
+ 
+ 
+Eduardo Maranhão 
+Chief Financial Officer 
+Golar LNG Limited 
+Hamilton (Bermuda), 11 March 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Approval of the Base Prospectus 
+The Base Prospectus has been approved by the Norwegian FSA, as competent authority under Regulation (EU) 
+2017/1129. The Norwegian FSA only approves this Base Prospectus as meeting the standards of completeness, 
+comprehensibility and consistency imposed by Regulation (EU) 2017/1129. Such approval should not be 
+considered as an endorsement of the Issuer that is the subject of this Base Prospectus.
+
+--- Page 13 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13
+4 Statutory Auditors   
+The statutory auditor for the Issuer for the period covered by the historical financial information in this Base 
+Prospectus has been Ernst & Young LLP, an independent registered public accounting firm.  
+ 
+Ernst & Young LLP is member of the Institute of Chartered Accountants in England and Wales. 
+ 
+Ernst & Young LLP has its registered address at 1 More London Riverside, London SE1 2AF, United Kingdom.
+
+--- Page 14 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14
+5 Information about the Issuer 
+5.1 History and development of the Company 
+5.1.1 Name and contact details 
+The legal name of the Issuer is Golar LNG Limited, the commercial name is Golar LNG. 
+ 
+The address, telephone number and website of the Issuer’s principal place of business is as follow: 
+ 
+Golar LNG Limited 
+2nd Floor, S.E. Pearman Building 
+9 Par-la-Ville Road, Hamilton 
+HM 11, Bermuda 
+Telephone: +1 (441) 295-4705 
+ 
+Website https://www.golarlng.com  
+ 
+The information on the website mentioned above does not form part of the Base Prospectus unless that information 
+is incorporated by reference into the Base Prospectus. 
+ 
+5.1.2 Place of registration, registration number and LEI code 
+The Company is registered with the Registrar of Companies in Bermuda with registration number 30506. The 
+Company’s LEI code is 213800C2VSFZG3EZLO34. 
+ 
+5.1.3 Incorporation, domicile and legal form  
+The Company is a corporation organised under the laws of Bermuda. Golar LNG Limited was incorporated on May 
+20, 2001.   
+ 
+The Company operates under the provisions of the Bermuda Companies Law of 1981.  
+ 
+5.1.4 Objects and purposes  
+Golar LNG’s primary business is to provide infrastructure for the liquefaction, transportation, regasification of LNG. 
+The Company is also engaged in the the acquisition, ownership, operation and chartering of FLNGs, FSRUs and 
+LNG carriers.  The Company also operates vessels on behalf of third parties under management agreements. 
+ 
+The Company's Memorandum of Association and Bye-laws can be found at the Company's website: 
+https://www.golarlng.com/investors/legal/memorandum-of-association-and-bye-laws.aspx 
+ 
+5.1.5 Recent events for evaluation of the issuer’s solvency 
+In January 2022, Golar LNG and Cool Company entered into an agreement (the “Vessel SPA”) under which Cool 
+Company acquired from Golar, eight modern TFDE LNG vessels and the Cool Pool Limited, the fleet’s commercial 
+management company. A gross total of $275 million of equity was raised with Golar retaining 31.3% of Cool 
+Company. As part of the transaction Golar repaid debt and leases totalling $589.9 million. 
+ 
+5.1.6 Changes in borrowing and funding structure since the last financial 
+year 
+In October 2021, Golar LNG closed these Bonds, which will mature in October 2025 and bear interest at 7.00% per 
+annum. The net proceeds from the Bonds will be used to partly refinance its USD 402.5 million 2017 convertible 
+bonds maturing in February 2022 (“2017 Convertible Bonds”) and for general corporate purposes.
+
+--- Page 15 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15
+Contemporaneous with the closing, Golar LNG redeemed USD 85.2 million of the 2017 Convertible Bonds 
+outstanding principal. 
+ 
+In November 2021, Golar LNG entered into a supplemental agreement with its existing lender, CCB Financial 
+Leasing Corporation Limited, to extend the Golar Seal's put option maturity from January 2022 to January 2025. 
+ 
+In November 2021 Golar LNG executed a Margin Loan Agreement (the “2021 Margin Loan”) which has a term of 
+three years, a revolving facility limit of USD 200.0 million and bears interest at LIBOR plus a margin of 2.8%. The 
+2021 Margin Loan is secured by the 18.6 million NFE Shares that Golar LNG owns. Golar LNG is permitted under 
+the terms of the 2021 Margin Loan, to release a portion of the pledged NFE Shares in accordance with the 
+prescribed loan to value ratio based on the then-current market value of such NFE Shares. 
+ 
+In November 2021, Golar LNG repaid in full its USD 100.0 million Revolving Credit Facility (“RCF”), using the 
+proceeds from these Bonds. The NFE Shares held as security to the RCF, were subsequently released.  
+ 
+In December 2021, Golar LNG completed refinancing of the FSRU “Golar Tundra” with a $158.0 million loan facility 
+under a 5- year tenor replacing the previous $104.4 million maturing in June 2022. The facility bears interest at 
+LIBOR plus a margin of 3.00% and can be increased to $182.0 million subject to certain commercial chartering 
+conditions being met. A commitment fee applies to the undrawn amount. 
+ 
+In January 2022, as part of the creation of Cool Company, Golar obtained credit approval for financingof six vessels 
+through a sustainability-linked bank facility totalling $580 million under a 5-year tenor bearing an interest of SOFR 
+plus 2.75%. This facility is non-recourse to Golar and replaced existing financing for the six vessels which total 
+$589.9 million (as of 31st December 2021). The remaining two vessels being sold will remain under existing sale-
+leaseback financing arrangements with a continuing Golar LNG guarantee (along with an additional Cool Company 
+guarantee). The charge to Cool Company for this Golar LNG guarantee will be 0.5% per annum. 
+ 
+In February 2022, Golar LNG executed a $250 million term loan facility with Sequoia Investment Management 
+Company Limited which has a term of 7 years and bears interest in the range of LIBOR plus a margin of 4.5% to 
+5.5% (subject to certain financial ratio thresholds). The term loan has no scheduled amortization, but is subject to 
+a cash sweep mechanism from the fourth year. The loan can be drawn in two tranches of $125 million. 
+5.1.7 Expected financing of activities 
+ 
+A portion of the proceeds from these Bonds, together with proceeds to be drawn under the 2021 Margin Loan, will 
+be used to redeem the Company’s outstanding 2017 Convertible Bonds – which currently has an outstanding 
+balance of USD 317.3 million. 
+ 
+Golar LNG owns 70% of Gimi MS Corporation, the entity owning the Gimi FLNG unit. As of 31st December 2021, 
+Gimi MS Corporation had assets under development directly associated with Gimi FLNG of $877.8 million, of which 
+$41.2 million was capitalized interest cost. The total capital expenditure is estimated to approximately $1.5 billion. 
+The capital expenditure is partly funded by a $700 million facility under which $410 million has been drawn.  
+ 
+Golar LNG may also from time to time incur capital expenditure on modifications to existing FSRU and/or LNG 
+carriers in order to comply with client requirements to secure long-term chartering opportunities or enable a sale of 
+the vessel.
+
+--- Page 16 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16
+6 Business Overview    
+6.1 General 
+Golar LNG Limiited is in international provider of services to the LNG industry through three main markets; 
+shipping, regasification and liquefaction. We were formed in 2001. Golar is publicly listed on the NASDAQ Global 
+Select stock exchange under the ticker GLNG. 
+ 
+Our primary strategy focuses on servicing our customers through our fleet of FLNG units, LNG carriers and FSRU 
+units through short-, medium- and long-term charters. In executing our strategy, we may engage in vessel or 
+business acquisiions or enter into joint ventures and partnerships with companies that provide increased access to 
+emerging opportunities from gloal expansion of the LNG market. We may consider other opportunities to which our 
+competitive strengths are well suited, including entering into integrated upstream projects through our FLNG units. 
+ 
+6.2 Main categories of services performed and principal markets 
+Shipping 
+LNG carriers are usually chartered to carry LNG pursuant to time-charter contracts, where a vessel is hired for a 
+fixed period of time and the charter rate is payable to the owner on a monthly basis and in advance. LNG shipping 
+historically has been transacted with long-term, fixed-rate time-charter contracts. LNG projects require significant 
+capital expenditures and typically involve an integrated chain of dedicated facilities and cooperative activities. 
+Accordingly, the overall success of an LNG project depends heavily on long-range planning and coordination of 
+project activities, including marine transportation. Most shipping requirements for new LNG projects continue to be 
+provided on a long-term basis, though the levels of spot voyages (typically consisting of a single voyage), short-
+term time-charters and medium-term time-charters have grown in recent years. 
+ 
+In the LNG market, we compete principally with other private and state-controlled energy and utilities companies 
+that generally operate captive fleets, and independent ship owners and operators. Many major energy companies 
+compete directly with independent owners by transporting LNG for third parties in addition to their own LNG. Given 
+the complex, long-term nature of LNG projects, major energy companies historically have transported LNG through 
+their captive fleets. However, independent fleet operators have been obtaining an increasing percentage of charters 
+for new or expanded LNG projects as some major energy companies have continued to divest non-core businesses. 
+ 
+LNG carriers transport LNG internationally between liquefaction facilities and import terminals. After natural gas is 
+transported by pipeline from production fields to a liquefaction facility, it is supercooled to a temperature of 
+approximately negative 160 degrees Celsius. This process reduces its volume to approximately 1/600th of its volume 
+in a gaseous state. The reduced volume facilitates economical storage and transportation by ship over long 
+distances, enabling countries with limited natural gas reserves or limited access to long-distance transmission 
+pipelines to import natural gas. LNG carriers include a sophisticated containment system that holds the LNG and 
+provides insulation to reduce the amount of LNG that boils off naturally. The natural boil off is either used as fuel to 
+power the engines on the ship or it can be reliquefied and put back into the tanks. LNG is transported overseas in 
+specially built tanks in double-hulled ships to a receiving terminal, where it is offloaded and stored in insulated tanks. 
+In regasification facilities at the receiving terminal, including FSRUs, the LNG is returned to its gaseous state (or 
+regasified) and then shipped by pipeline for distribution to natural gas customers. 
+ 
+Global LNG trade reached 388 million metric tons in 2021, representing 5.8% year over year growth with China 
+overtaking Japan as the largest importer at 81 million metric tons. According to IHS Markit, global LNG trade is 
+expected to grow to approximately 440 million metric tons by 2025 based on existing capacity, capacity under 
+construction and planned capacity additions. The majority of supply will be brought on in the Atlantic basin whereas 
+demand is expected to growh mainly in the Asia-Pacific 
+The LNG carrier spot market for Tri-Fuel Diesel Electric vessels averaged approximately $92,000/day in 2021 – 
+compared to $59,000/day in 2020 – according to an average of five ship brokers. The historical 20-year average is 
+approximately $67,500/day. The LNG carrier freight market was positively impacted by higher prices for the 
+commodity itself with wide arbitrages between regions driving the rates up. 
+ 
+Newbuild prices for LNG carriers increased through 2021 with an indicated price of approximately $180 million at 
+the start of the year to above $210 million at year-end. The increase in prices was a consequence of increased 
+ordering activity in other shipping segments combined with escalating prices of equipment and higher ordering 
+activity by ship owners.
+
+--- Page 17 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17
+ 
+The Company owns and manages a fleet of high-quality LNG carriers. As of December 31, 2021, Golar LNG’s 
+owned shipping fleet comprises nine LNG carriers and one FSRU.  The vessel fleet that it manages for third parties 
+under management agreements comprises seven LNG carriers and eight FSRUs. 
+ 
+The majority of these vessels use fuel efficient propulsion and low boil-off technology and are compatible with most 
+LNG loading and receiving terminals worldwide. The Company’s shipping strategy will continue to prioritise longer 
+term utilisation over short-term opportunities. On an opportunistic basis and over time, the Company aims to also 
+convert some of its LNG carriers into FLNGs and FSRUs. 
+ 
+On January 26, 2022, Golar and Cool Company Limited (Cool Company), a wholly owned subsidiary of Golar, 
+entered into an agreement (the “Vessel SPA”) under which Cool Company will acquire from Golar, eight modern 
+TFDE LNG vessels and the Cool Pool Limited, the fleet’s commercial management company. Cool Company raised 
+$275 million in a private placement to fund the acquisition. Golar retains ownership of 31.3% of Cool Company. 
+Following the closing of the Vessel SPA, Golar’s wholly-owned shipping and regasification assets consists of one 
+LNGC and one FSRU. 
+ 
+Please see Annex 4 for a list of the Company’s owned and managed shipping fleet as of 31 December 2021. 
+ 
+The Cool Pool 
+In October 2015, the Company entered into an LNG carrier pooling arrangement with GasLog Carriers Ltd 
+(“GasLog”) and Dynagas Ltd (“Dynagas”) to market its vessels operating in the LNG shipping spot market. In June 
+2018 and July 2019, Dynagas and GasLog exited the pooling arrangement, respectively. Following the exit of 
+GasLog from the Cool Pool, the Company began consolidating the Cool Pool. 
+ 
+ 
+The Cool Pool allows the pool participants to optimize the operation of the pool vessels through improved scheduling 
+ability, cost efficiencies and common marketing. The objective of the Cool Pool is to serve the transportation 
+requirements of the LNG shipping market by providing customers with reliable, innovative and more flexible 
+solutions to meet their increasingly complex shipping requirements. Under the Pool Agreement, the Cool Pool 
+Limited (“Pool Manager”) is responsible, as agent, for the marketing and chartering of the participating vessels and 
+for paying other voyage costs such as port call expenses and brokers' commissions in relation to employment 
+contracts. Each of the pool participants continues to be fully responsible for the financing, insurance, manning and 
+technical management of their respective vessels. As of December 31, 2021 the Cool Pool comprised of ten 
+vessels, of which nine were contributed by the Company and one by NFE. 
+ 
+As part of the listing of Cool Company Limited in the first quarter of 2022, the Cool Pool, through Cool Pool Limited, 
+was transferred from Golar LNG to Cool Company. 
+ 
+Regasification (FSRU) 
+ 
+FSRUs 
+Floating LNG regasification projects first emerged as a solution to the difficulties and protracted process of obtaining 
+permits to build shore-based LNG reception facilities (especially along the North American coasts). Due to their 
+offshore location, FSRU facilities are less likely than onshore facilities to be met with resistance in local 
+communities, which is especially important in the case of a facility that is intended to serve a highly populated area 
+where there is a high demand for natural gas. As a result, it is usually easier and faster for FSRUs to obtain 
+necessary permits than for comparable onshore facilities. FSRU projects can typically be completed in less time (2 
+to 3 years compared to 4 or more years for land-based projects) and at a significantly lower cost (20-50% less) than 
+land-based alternatives. In addition, FSRUs offer a more flexible solution than land-based terminals in some 
+instances. They can be used as an LNG carrier, a regasification shuttle vessel or permanently moored as a FSRU. 
+They can also be relocated relatively easily if market dynamics change. FSRUs offer a fast-track regasification 
+solution for markets that need immediate access to LNG supply. FSRUs can also be used as bridging solutions 
+until a land-based terminal is constructed. In this way, FSRUs are both a replacement for, and complement to, 
+landbased regasification alternatives. 
+ 
+Please see Annex 4 for a list of the Company’s vessels in the FSRU segment as of 31 December 2021.
+
+--- Page 18 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18
+Liquefaction (FLNG) 
+The Company offers resource holders a low-cost rapid deployment delivering solution to monetise stranded gas 
+reserves. Our FLNG investment proposition is built on a sound technical and commercial offering, derived from 
+structurally lower unit capital costs and short lead times. FLNG allows smaller resource holders to enter the LNG 
+business and occupy a legitimate space alongside the largest resource holders, major oil companies and world-
+scale LNG buyers. For established LNG industry participants, the prospect of the Company’s low-cost,, fast-track, 
+small footprint FLNG solution provides a compelling alternative to traditional land-based projects. Following the re-
+emergence of strong returns in the upstream business, the Company will revisit opportunities to use its unique 
+FLNG technology and operational experience to increase its potential upstream exposure. 
+ 
+Compared to onshore terminals, FLNG is in the early stage of development. Our FLNG offer a solution for stranded 
+reserves (such as lean gas sourced from offshore fields) for which geographical, technical and economic limitations 
+restrict the ability to convert these gas reserves to LNG. In addition, most FLNGs offer a more viable economic 
+solution to the traditional giant land-based projects as they can be relatively easily re-deployed. Golar’s liquefaction 
+solutions place liquefaction technology on board existing LNG carrier using a rapid low-cost execution model 
+resulting in a construction and commissioning time of approximately four years. Golar is the only company in the 
+world to have entered into agreements for the long-term employment of FLNGs based on the conversion of an 
+existing LNG carrier. 
+ 
+Please see Annex 4 for a list of the Company’s vessels in the FLNG segment as of December 31, 2021. 
+ 
+FLNG Hilli 
+The FLNG Hilli conversion was completed in October 2017 and was accepted by Perenco (its Customer) in May 
+2018 (the “Acceptance Date”). Under the Liquefaction Tolling Agreement (“LTA”), the FLNG Hilli is scheduled to 
+provide liquefaction services until July 2026. Under the terms of the LTA (as amended), the FLNG Hilli is required 
+to make available 1.4 million tonnes of liquefaction capacity for calendar year 2022. The Customer holds an option 
+(to be exercised by July 2022) to increase the annual capacity by up to 1.6 million tonnes per year, if not exercised, 
+the annual capacity for calendar year 2023 will revert to 1.2 million tonnes per year. From January 2020, the 
+Customer will also compensate the disponent owner of FLNG Hilli, Golar Hilli Corp (“Hilli Corp”) annually for 
+overproduction of annual base liquefaction tonnage. The Customer will pay Hilli Corp a monthly tolling fee, which 
+consists of i) a fixed element of hire, ii) an element related to the price of Brent crude oil where the Company 
+receives incremental tolling fees when the price rises above USD 60 per barrel, and iii) an element related to the 
+TTF natural gas price relating to 0.2 million tonnes of annual capacity for the 2022 calendar year and then up to 0.4 
+million tons of annual capacity starting January 2023, subject to the option exercise described above. 
+ 
+The LTA also provides certain termination rights to the Customer and Hilli Corp. The LTA provides for the payment 
+by Hilli Corp of termination payments of up to USD 400 million (which reduces gradually as LNG production 
+increases, reducing to USD 100 million once 3.6 million tonnes of LNG has been produced), USD 125 million of 
+which is secured by a letter of credit (“LC”), in the event of termination by Customer of Hilli Corp’s underperformance 
+or non-performance.  In May 2021, following the production of 3.6 million tonnes of LNG, the LC was reduced to 
+$100.0 million and the cash collateral to $60.7 million.  
+ 
+As of December 31, 2021, FLNG Hilli has 100% commercial uptime. 
+ 
+FLNG Gimi 
+Gimi MS Corporation, the owner of FLNG Gimi, initiated the conversion in 2018 and is currently taking place at 
+Keppel Shipyard Ltd in Singapore. Gimi FLNG is expected to be delivered in 2023 prior to mobilization and 
+commissioning in late-2023 before entering commercial operations for BP under a Lease and Operate Agreement 
+to liquify gas coming from the Greater Tortue / Ahmeyim Proiect on the borders of Senegal and Mauritania. 
+ 
+FLNG Gimi has a production capacity of approximately 2.5 million tons LNG per annum and is based on the same 
+liquefaction technology as FLNG Hilli with the conversion works undertaken at the same shipyard. All of FLNG 
+Gimi’s production capacity is fully contracted to BP. 
+ 
+The Lease and Operate Agreement with BP Mauritania Investments Limited has a duration of 20 years and will 
+generate annual earnings before interest, tax, depreciation, and amortization of approximately $215 million with 
+potential upside for achieving certain overperformance production targets. Golar LNG owns 70% Gimi MS 
+Corporation.
+
+--- Page 19 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19
+Corporate and other 
+Golar Management Limited, the Company’s wholly-owned subsidiary which has its office in London and its 
+subsidiaries which have its offices in Oslo, Norway, Kuala Lumpur, Malaysia and Split, Croatia together provide 
+commercial, operational and technical support, crew management services and supervision and accounting and 
+treasury services. Golar Management Limited is reimbursed for reasonable costs and expenses it incurs in 
+connection with the provision of these services. 
+ 
+In April 2021, following the closing of the Company’s sale of its previous affiliates Golar LNG Partners LP and 
+Hygo Energy Transition Ltd to NFE, Golar Management Limited entered into separate ship management 
+agreements to provide certain technical, crew, insurance and commercial management services for the vessels 
+that were acquired by NFE, and transition services agreements to provide certain administrative and consulting 
+services to NFE for a 12 month period. 
+ 
+The Company’s subsidiary Golar Management (Bermuda) Limited also provides certain corporate secretarial, 
+registrar and administration services to NFE under a management agreement that can be terminated with 
+provision of three months notice. 
+ 
+ 
+6.3 Significant new activities 
+The current strength of LNG prices and favorable price outlook further increases the attractiveness of the 
+Company’s FLNG solutions. This is driving momentum for potential new FLNG projects. The Company is continuing 
+constructive discussions with an existing customer for use of a five-million-ton Golar Mark III newbuild design and 
+rapid progress is being made on potential integrated projects. The Company’s portfolio of prospective FLNG 
+customers across different geographies increased during Q4 2021. 
+ 
+During the first quarter of 2022, Golar LNG announced the formation of Cool Company Ltd resulting in the sale of 
+eight of Golar’s Tri-Fuel Diesel Electric LNG carriers to Cool Company. Cool Company raised $275 million of equity 
+and secured financing totalling $570 million to refinance six of the eight vessels. Golar will retain 31.3% of Cool 
+Company. The decision to spin off the majority of the shipping business comes after a strategic review whereby 
+Golar LNG is focusing on upstream and FLNG – while at the same time retaining exposure to the LNG shipping 
+market.
+
+--- Page 20 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20
+7 Organizational structure 
+7.1 Description of Issuer  
+We were incorporated under the name Golar LNG Limited as an exempted company under the Bermuda 
+Companies Act of 1981 in the Islands of Bermuda on May 10, 2001.  
+ 
+Golar LNG provides infrastructure for the liquefaction, transportation, and regasification of LNG. Golar LNG is also 
+engaged in the acquisition, ownership, operation and chartering of FLNGs, FSRUs and LNG carriers. As of 
+December 31, 2021, the Company’s owned fleet comprises nine LNG carriers, one FSRU and three FLNGs 
+(including one vessel under conversion to a FLNG and one candidate for future conversion to a FLNG). The 
+Company also operates vessels on behalf of third parties under management agreements, including seven LNG 
+carriers and eight FSRUs. During the first quarter of 2022, eight of the nine LNG carriers were sold to Cool Company 
+Limited with Golar LNG retaining 31.3% of Cool Company. 
+ 
+A simplified corporate structure is shown below. Please see Annex 3 for a list of significant subsidiaries. 
+ 
+ 
+ 
+ 
+7.2 Dependence upon other entities  
+As a holding company, the Company is dependent upon the funds distributed to it by its subsidiaries. The funds 
+consist mainly of time and voyage charter revenues and liquefaction services billings.   
+ 
+Therefore, the Company is dependent on the results of the operations of its subsidiaries. 
+Golar LNG Limited
+(Bermuda)
+Ship-owning Companies
+Gimi Holding Company Limited
+Golar Hilli LLC
+Common Units: 44.55%
+Series A&B Units: 89.1%
+Golar Tundra
+Golar LNG Energy Limited
+Gimi MS Corporation
+New Fortress Energy
+Avenir LNG
+Golar Arctic
+Golar Gandria
+Golar
+Management 
+Limited
+Ship-owning companies
+Investments
+FLNG companies
+Other holding/management companies
+100%
+100%
+100%
+70%
+23.5%
+8.9%
+Cool Company Ltd
+31.3%
+
+--- Page 21 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21
+8 Trend information  
+8.1 Prospects and financial performance 
+There has been no material adverse change in the prospects of the Issuer since the date of its last published audited 
+financial statements.  
+ 
+Since the end of the last financial period for which financial information has been published to the date of the Base 
+Prospectus, the company has sold eight of its LNG carriers to Cool Company Limited, retaining an ownership of 
+31.3%. This will lead to deconsolidation of these assets and their associated liabilities from future financial reporting. 
+Other than this, there has been no significant change in the financial performance of the group since the end of the 
+last financial period for which financial information has been published to the date of the Base Prospectus. 
+ 
+8.2 Known trends, uncertainties, demands, commitments, or events 
+ 
+The current Covid-19 pandemic could significantly and adversely impact GLNG’s maritime operations, onshore 
+support, corporate activities, customers, vendors and the countries in which it operates. Further, the pandemic could 
+impact the demand for natural gas and therefore reduce the business opportunities for GLNG. This could have a 
+significant adverse impact on GLNG’s financial position, results of operations and cash flows. It is not possible to 
+accurately forecast the short-term and long-term impact of the Covid-19 virus on GLNG’s business as of the date 
+of this base prospectus, except that until the date of this base prospectus there has been limited effect on its 
+employees, operations or revenues. 
+ 
+The 2021 Margin Loan is secured by the Company’s 18.6 million NFE Shares. Golar LNG is permitted to release a 
+portion of the pledged NFE Shares in accordance with the prescribed loan to value ratio based on the then-current 
+market value of such NFE Shares. The performance of NFE Shares may impact Golar LNGs financial position. 
+ 
+On 13th October 2021, Golar announced having entered into swap arrangements to hedge part of its TTF price 
+exposure for the incremental 0.2mtpa train 3 production for Q1 2022 at a price of $28/MMBtu. The swap 
+arrangement has a margin call structure whereby Golar may be requested to post cash equivalent to the difference 
+between the swap price and current market price measured on a daily basis until the settlement of the swap. 
+European gas markets have experienced high volatility during 2021 and thus far in 2022 which may impact our 
+cash position through the margin call arrangement.
+
+--- Page 22 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22
+9 Administrative, management and supervisory bodies 
+9.1 Information about persons 
+ 
+Board of Directors 
+For the members of the Board of Directors of the Company the description below sets out the names, business 
+address and functions within the Issuer and an indication of the principal activities performed by them outside the 
+Issuer where these are significant with respect to the Issuer:  
+ 
+Name  
+Position  
+Business address  
+Tor Olav Trøim 
+Chairman of the Board, Director 
+See clause 5.1.1 
+Daniel Rabun 
+Director, Audit Committee member, Compensation 
+Committee member and Nomination Committee 
+member 
+See clause 5.1.1 
+Thorleif Egeli 
+Director 
+See clause 5.1.1 
+Carl Steen 
+Director, Audit Committee member, Compensation 
+Committee member and Nomination Committee 
+member 
+See clause 5.1.1 
+Niels Stolt-Nielsen 
+Director and Compensation Committee member 
+See clause 5.1.1 
+Lori Wheeler Naess 
+Director and Audit Committee Chairperson 
+See clause 5.1.1 
+Georgina Sousa 
+Director 
+See clause 5.1.1 
+Mi Hong Yoon 
+Secretary 
+See clause 5.1.1 
+ 
+Tor Olav Trøim was appointed Chairman of the Board in September 2017.  Mr Troim has served as a director of 
+the Company between September 2011 and September 2017 having previously served as director and vice-
+president of the Company from its incorporation in May 2001 until October 2009, after which time he served as a 
+director and Chairman of the Company’s listed subsidiary, Golar LNG Energy Limited. Since January 2009, Tor 
+Olav Trøim has also served on the Board of Directors of Golar LNG Partners LP, a Master Limited Partnership that 
+was sold to NFE in April 2021. 
+ 
+Mr Trøim was Vice President and a director of Seadrill Limited between 2005 and 2014. Additionally, between 1995 
+and 2014 he also served, at various times, as a director of a number of related public companies including Frontline 
+Limited, Golden Ocean Group Limited, Archer Limited as well as Seatankers Management Limited. Prior to 1995, 
+he served as an Equity Portfolio Manager with Storebrand ASA and Chief Executive Officer for the Norwegian Oil 
+Company DNO AS. Mr. Trøim graduated as MSc Naval Architect from the NTNU technical university in Trondheim, 
+Norway in 1985. 
+ 
+Mr. Trøim holds 5,314,454 shares in the Company, which is 4.91 % of all outstanding common shares. 
+ 
+Daniel Rabun joined the Board of Golar LNG Limited in February 2015 and served as Chairman between 
+September 2015 and September 2017. Mr. Rabun joined Ensco in March 2006 as President and as a member of 
+the Board of Directors. He was appointed to serve as Ensco's Chief Executive Officer from January 1, 2007 and 
+elected Chairman of the Board of Directors in 2007. Mr. Rabun retired from Ensco in May 2014. Prior to joining 
+Ensco, Mr. Rabun was a partner at the international law firm of Baker & McKenzie LLP where he had practiced law 
+since 1986. He has been a Certified Public Accountant since 1976 and a member of the Texas Bar since 1983. Mr. 
+Rabun holds a Bachelor of Business Administration Degree in Accounting from the University of Houston and a 
+Juris Doctorate Degree from Southern Methodist University. 
+ 
+Thorleif Egeli was appointed to the Board in September 2018. Until May 2018, he was Vice President of 
+Schlumberger Production Management – North America managing the non-operating E&P assets for Schlumberger 
+in the US, Canada and Argentina. Prior to this he held a number of senior positions within Schlumberger having 
+begun his career with Schlumberger in 1990 as a field engineer. Between October 2009 and April 2013, Mr. Egeli 
+held a number of positions within Archer including President Latin America, Corporate Marketing and Chief 
+Operating Officer; before re-joining Schlumberger in 2013. Mr. Egeli serves as the President on the Board of 
+Directors at the Norwegian American Chamber of Commerce, South West Chapter in Houston, Texas. Mr. Egeli 
+holds a Master of Science (MSc) in Mechanical Engineering and an MBA from Rotterdam School of Management, 
+Holland.
+
+--- Page 23 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+23
+Carl Steen has served on Golar Partners’ board of directors since his appointment in August 2012. Mr. Steen 
+graduated in 1975 from ETH Zurich Switzerland with a M.Sc. in Industrial and Management Engineering. After 
+working for a number of high profile companies, Mr. Steen joined Nordea Bank from January 2001 to February 2011 
+as head of the bank's Shipping, Oil Services & International Division. Currently, Mr. Steen holds directorship 
+positions in various Norwegian companies including Wilhelm Wilhelmsen Holding ASA and RS Platou ASA. 
+ 
+Niels Stolt-Nielsen joined the Board in September 2015 and serves on our Compensation Committee. He is also 
+CEO and a Director of Stolt-Nielsen, which includes world-leading businesses in global bulk-liquid and chemical 
+logistics, an innovative business in land-based aquaculture and a number of LNG joint ventures and investments.  
+Mr. Stolt-Nielsen is the Chairman of Avenir LNG.  He brings with him extensive shipping, logistical and strategic 
+leadership experience. 
+ 
+Mr. Stolt-Nielsen holds 2,741,740 shares in the Company, which is 2.53 % of all outstanding common shares. 
+ 
+Lori Wheeler Naess was appointed as a Director and Audit Committee Chairperson on February 29, 2016. Ms. 
+Naess was most recently a Director with PWC in Oslo and was a Project Leader for the Capital Markets Group. 
+Between 2010 and 2012 she was a Senior Advisor for the Financial Supervisory Authority in Norway and prior to 
+this she was also with PWC in roles in the U.S., Norway and Germany. Ms. Naess is a U.S. Certified Public 
+Accountant. 
+ 
+Georgina Sousa was appointed as a Director of Golar LNG Limited on September 27, 2019 and as Secretary on 
+May 14, 2019. She stepeped down as Secretary on February 23rd, 2022.  She is currently a director and secretary 
+of 2020 Bulkers Ltd. and Borr Drilling Ltd. Ms. Sousa was employed by Frontline Ltd. as Head of Corporate 
+Administration from February 2007 until December 2018. She previously served as a director of Frontline from April 
+2013 until December 2018, Ship Finance International Limited from May 2015 until September 2016, North Atlantic 
+Drilling Ltd. from September 2013 until June 2018, Sevan Drilling Limited from August 2016 until June 2018, 
+Northern Drilling Ltd. from March 2017 until December 2018 and FLEX LNG LTD. from June 2017 until December 
+2018. Ms. Sousa also served as a Director of Seadrill Limited from November 2015 until July 2018, Knightsbridge 
+Shipping Limited (the predecessor of Golden Ocean Group Limited) from 2005 until 2015 and Golar LNG Limited 
+from 2013 until 2015. Ms. Sousa served as Secretary for all of the abovementioned companies at various times 
+during the period between 2005 and 2018. She served as secretary of Archer Limited from 2011 until December 
+2018 and Seadrill Partners LLC from 2012 until 2017. Until January 2007, she was Vice-President Corporate 
+Services of Consolidated Services Limited, a Bermuda Management Company, having joined the firm in 1993 as 
+Manager of Corporate Administration. From 1976 to 1982 Ms. Sousa was employed by the Bermuda law firm of 
+Appleby, Spurling & Kempe as company secretary and from 1982 to 1993 she was employed by the Bermuda law 
+firm of Cox & Wilkinson as senior company secretary. Ms. Sousa is a UK citizen and resides in Bermuda. 
+ 
+Mi Hong Yoon was appointed as Secretary of Golar LNG Limited on February 23rd, 2022. Ms. Yoon graduated 
+from University of New South Wales in 2005. She has worked various positions in the Telstra Group including Legal 
+Counsel and most recently held the position as Chief Legal, Regulatory and Compliance officer with Digicel.  
+ 
+ 
+Management 
+For the members of the Executive Management of the Company the description below sets out the names, business 
+address and functions within the Issuer and an indication of the principal activities performed by them outside the 
+Issuer where these are significant with respect to the Issuer: 
+ 
+Name  
+Position  
+Business address  
+Karl Fredrik Staubo 
+Chief Executive Officer 
+See clause 5.1.1 
+Eduardo Maranhão 
+Chief Financial Officer 
+See clause 5.1.1 
+Ragnar Nes 
+Chief Operating Officer 
+See clause 5.1.1 
+Olve Skjeggedal 
+Chief Technical Officer 
+See clause 5.1.1 
+ 
+Karl Fredrik Staubo was appointed Chief Executive Officer on May 13, 2021. Prior to this role he acted as Golar 
+LNG's Chief Financial Officer from September 2020 and as Chief Executive Officer of Golar LNG Partners LP from 
+May 2020 to April 2021 (when it was sold to NFE). Before joining Golar LNG, Mr. Staubo spent 10 years advising 
+and investing in Shipping, Energy and Infrastructure companies with Magni Partners Ltd. (2018-2020) and 
+Clarksons Platou Securities (2010-2018). During his time with Magni Partners, Mr. Staubo also worked as an 
+advisor to the Group. At Clarksons Platou Securities he worked in the Corporate Finance division, including as 
+Head of Shipping, Investment Banking (2015-2018). He has a MA (Business Studies and Economics) from the 
+University of Edinburgh.
+
+--- Page 24 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24
+ 
+Eduardo Maranhão has served as Chief Financial Officer since May 13, 2021. Prior to assuming this position Mr 
+Maranhão served as CFO of former affiliate company Hygo Energy Transition Ltd which was sold to NFE in April 
+2021. Mr. Maranhão has also served as both CEO and as a director of Centrais Electricas de Sergipe S.A, and as 
+a partner at Magni Partners. Mr. Maranhão has vast experience in international energy projects and infrastructure 
+financing having worked at different financial institutions including Lakeshore Partners, Santander, Credit Agricole, 
+Banco Votorantim and Citibank. Mr. Maranhão holds a Bachelor of Business Administration from Universidade de 
+Pernambuco in Brazil and has completed a Management Acceleration Programme from INSEAD in France. 
+ 
+Øistein Dahl started working with Golar LNG in September 2011. He comes from Höegh Fleet, where he was 
+President for four years. He has served in Höegh for several years and has had several positions within vessel 
+management, newbuilding and projects, as well as business development. Mr. Dahl has also worked within offshore 
+engineering and with the Norwegian Class Society DNV. Mr. Dahl has a MSc degree from the NTNU technical 
+university in Trondheim. 
+ 
+Olve Skjeggedal joined Golar in April 2015. Prior to his appointment as Chief Technical Officer in September 2019 
+Mr. Skjeggedal served as Project Manager FLNG, and more recently as Project Director for the Gimi FLNG 
+conversion for the BP Phase 1 Greater Tortue Ahmeyim project. Prior to joining Golar LNG, Olve held various 
+positions within engineering, business development and project management in energy and gas related businesses 
+including General Electric, Wärtsilä and Höegh LNG. Mr. Skjeggedal has a MSc degree from the NTNU technical 
+university in Trondheim. 
+ 
+ 
+9.2 Administrative, management and supervisory bodies conflicts of 
+interest  
+ 
+There are no potential conflicts of interest between any duties to the issuing entity of the persons referred to in item 
+9.1 and their private interests and/or other duties.
+
+--- Page 25 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25
+10 Major shareholders 
+10.1 Ownership  
+As at the date of this prospectus, there were 108,222,604 common shares (par value $1.00 per share) issued and 
+outstanding.  
+ 
+An overview of the Company’s major shareholders and ownership percentage as of 31 December 2021 is set out 
+in the table below: 
+ 
+Shareholder 
+Number of shares 
+Ownership (%) 
+Cobas Asset Management, SGIIC, SA 
+13,050,460 
+12.06 % 
+Orbis Investment Management 
+11,684,827 
+10.80 % 
+Rubric Capital Management LP 
+5,770,869 
+5.33 % 
+Tor Olav Trøim 
+ 5,314,454 
+ 4.91 % 
+BlackRock Institutional Trust 
+4,536,706 
+4.19 % 
+Bain Capital 
+3,841,925 
+3.55 % 
+Fidelity Management & Research 
+3,823,112 
+3.53 % 
+Point72 Asset Management, L.P. 
+2,762,106 
+2.55 % 
+Niels Stolt-Nielsen 
+ 2,741,740 
+ 2.53 % 
+Baron Capital Management 
+2,685,137 
+2.48 % 
+Steinberg Asset Management, LLC 
+1,831,012 
+1.69 % 
+Pinnacle Associates 
+ 1,778,527 
+ 1.64 % 
+State Street Global Advisors (US) 
+1,485,256 
+1.37 % 
+Huber Capital Management LLC 
+1,464,830 
+1.35 % 
+Millenium Management 
+1,298,846 
+1.20 % 
+Norges Bank Investment Management 
+1,169,337 
+1.08 % 
+Goldman Sachs Asset Management (US) 
+1,090,129 
+1.01 % 
+Impala Asset Management 
+971,765 
+0.90 % 
+Geode Capital Management 
+922,376 
+0.85 % 
+Nuveen LLC 
+786,555 
+0.73 % 
+ 
+The Company’s major shareholders have the same voting rights as all other common shareholders.  
+ 
+ 
+10.2 Change of control of the company 
+There are no arrangements, known to the Company, the operation of which may at a subsequent date result in a 
+change in control of the Company.
+
+--- Page 26 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26
+11 Financial information concerning the Company's assets 
+and liabilities, financial position and profits and losses 
+ 
+11.1 Historical Financial Information for the Company 
+The Company’s consolidated financial statements are prepared in accordance with accounting principles generally 
+accepted in the United States of America ("U.S. GAAP"). 
+ 
+A summary of the Company’s significant accounting policies is set forth in Note 2 of the Notes to the Consolidated 
+Financial Statements in the Annual Report 2020, pages F-15 to F-25, as updated in Note 2 of the Notes to the 
+Unaudited Consolidated Financial Statements included in the Interim Report Q1 2021, Interim Report Q2 2021, 
+Interim Report Q3 2021 and Interim Report Q4 2021. 
+ 
+According to the Regulation (EU) 2017/1129 of the European Parliament and of the Council, the historical financial 
+information and financial statements are incorporated by reference to the 2019 and 2020 Annual Reports, Interim 
+Report Q1 2021, Interim Report Q2 2021 and Interim Report Q3 2021. See Cross Reference List for complete 
+details. 
+ rly Report  
+ 
+Interim Report 
+Annual Report 
+ 
+Q3 2021 
+Q2 2021 
+Q1 2021 
+2020 
+2019 
+ 
+Page(s) 
+Page(s) 
+Page(s) 
+Page(s) 
+Page(s) 
+ 
+ 
+ 
+ 
+ 
+Golar LNG Limited 
+Consolidated Financial Statements 
+ 
+ 
+ 
+ 
+ 
+Consolidated Statements of Operations / 
+Loss 
+ 
+3 
+3 
+7 
+F-8 
+ 
+F-8 
+ 
+Consolidated Balance Sheets  
+ 
+5 
+5 
+9 
+F-10 
+ 
+F-10 
+ 
+Consolidated Statements of Cash Flows 
+7 
+9 
+0 
+F-11 
+F-11 
+Notes to the consolidated financial 
+statements 
+21 – 45 
+19 – 40 
+23 – 44 
+F-14 – F-72 
+F-14 – F-69 
+ 
+The Interim Reports have not been audited or reviewed. 
+  
+ 
+11.2 Auditing of historical annual financial information 
+ 
+The Company’s annual financial statements for the years ended December 31, 2019 and 2020 were audited by 
+Ernst & Young LLP. Please see Section 4. The audits were conducted in accordance with the standards of the 
+Public Company Accounting Oversight Board (United States) (“PCAOB”). 
+ 
+A statement of audited historical financial information is given in the Annual Report 2020, pages F-2 to F-6, and 
+Annual Report 2019, pages F-2 to F-5. 
+ 
+ 
+ 
+11.3 Legal and arbitration proceedings 
+ 
+As described under note 26 in Golar LNG’s Annual Report 2020, during 2003 and 2004 the Company entered into 
+six UK tax leases. Under the terms of the leasing arrangements, the benefits are derived primarily from the tax 
+depreciation assumed to be available to the lessors as a result of their investment in the vessels. As is typical in 
+these leasing arrangements, as the lessee the Company is obligated to maintain the lessor’s after-tax margin. In 
+the event of any adverse tax changes or a successful challenge by the UK Tax Authorities (“HMRC”) with regard to 
+these transactions the Company may be required to make additional payments principally to the UK vessel lessor, 
+which could adversely affect its earnings or financial position. All six UK tax leases are now terminated. The 
+Company has agreed to indemnify NFE, which acquired the vessel Methane Princess in April 2021, in the event of 
+any further tax liabilities arising from the Methane Princess leasing arrangements. The lessor for the six UK tax
+
+--- Page 27 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27
+leases has a first priority security interest in the Golar Gandria and second priority interests in relation to the Golar 
+Tundra and the Golar Frost. HMRC has written to the Company’s lessor to challenge the lease structure and 
+discussions with HMRC on this matter concluded without agreement. In January 2020 the Company received a 
+closure notice to the inquiry stating the basis of HMRC's position and consequently, a notice of appeal against the 
+closure notice was submitted to the First Tier Tribunal (the UK court) in December 2020. The Company has recently 
+reopened discussions with HMRC and is now confident of its position towards a potential settlement. As such at 
+December 31, 2021, the Company revised its estimate of the reasonably possible loss and recorded a USD 71.7 
+million liability, net of amounts paid by the Company’s lessor to HMRC and including contingent fees payable 
+contemporaneous with the settlement. Should an agreement not be reached it could lead to court proceedings and 
+and ultimately an event whereby the Group would be required to make payments to HMRC higher than the expected 
+settlement indicated. 
+ 
+Other than stated above, there has been no governmental, legal or arbitration proceedings (including any such 
+proceedings which are pending or threatened of which the issuer is aware), during a period covering at least the 
+previous 12 months which may have, or have had in the recent past, significant effects on the Issuer and/or Group's 
+financial position or profitability. 
+ 
+ 
+11.4 Significant change in the Group’s financial position  
+ 
+Other than the below, there has not occurred any significant change in the financial position of the Group since the 
+end of the last financial period for which interim financial information has been published.   
+ 
+On January 26, 2022, Golar and Cool Company Limited (Cool Co), a wholly owned subsidiary of Golar, entered 
+into an agreement (the “Vessel SPA”) under which Cool Co will acquire from Golar, eight modern TFDE LNG vessels 
+and the Cool Pool Limited, the fleet’s commercial management company. The purchase price for each vessel was 
+agreed at $145.0 million, subject to working capital and debt adjustments. On January 27, 2022, Cool Co raised 
+$275 million through a private placement of equity. Eastern Pacific Shipping (“EPS”) subscribed $150 million. The 
+proceeds from the placement are to be used partly to fund the purchase price of the Company and following 
+completion of the Vessel SPA, Golar will maintain 31% ownership interest in Cool Co. 
+ 
+In addition, a senior secured sustainability term loan facility of $570.0 million (“New Term Loan Facility”), has been 
+agreed with a syndicate of banks to refinance six of the eight TFDE LNG carriers. The existing sale and leaseback 
+loans, except for the sale and leaseback loans secured over the Golar Ice and the Golar Kelvin which have been 
+assumed by the Cool Co, have been refinanced in connection with the closing of the Vessel SPA. Golar continues 
+to be a guarantor to the Golar Ice and the Golar Kelvin sale and lease-back loans. The completion of the Vessel 
+SPA is subject to the receipt of certain approvals and third-party consents and the satisfaction of other customary 
+closing conditions and is expected to occur in the first quarter of 2022.
+
+--- Page 28 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28
+12 Documents available  
+ 
+For the term of the Base Prospectus, the following documents (or copies thereof) can be inspected at the offices or 
+on the Issuer’s website as specified in section 5.1.1 of this Base Prospectus: 
+ 
+(a) the up to date Memorandum of Association and Bye-Laws of the issuer; and 
+ 
+(b) all reports, letters, and other documents, valuations and statements prepared by any expert at the issuer’s 
+request any part of which is included or referred to in the Base Prospectus.
+
+--- Page 29 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+29
+13 Financial instruments that can be issued under the Base 
+Prospectus 
+The Base Prospectus, as approved in accordance with the EU Prospectus Regulation 2017/1129, allows for Bonds 
+to be offered to the public or admitted to trading on a regulated market situated or operating within any EEA country.  
+ 
+This chapter describes the form, type, definitions, general terms and conditions, return and redemption 
+mechanisms, rating and template for Final Terms associated with the Bonds. 
+ 
+Risk factors related to the Bonds are described in Chapter 1 Risk Factors. 
+ 
+13.1 Securities Form 
+A Bond is a financial instrument as defined in the Norwegian Securities Trading Act (Verdipapirhandelloven)  
+§ 2-2.  
+ 
+The Bonds are electronically registered in book-entry form with the Securities Depository.  
+13.2 Security Type 
+Borrowing limit – tap issue 
+The Loan may be either open or closed for increase of the Borrowing Amount during the tenor. A tap issue can take 
+place until five banking days before the Maturity Date. If the issue is open, the First Tranche and Borrowing Limit 
+will be specified in the applicable Final Terms. 
+ 
+Return 
+Fixed Rate (FIX) 
+A Bond issue with a fixed Interest Rate will bear interest at a fixed rate as specified in the applicable Final Terms.  
+ 
+The Interest Rate will be payable quarterly, semi-annually or annually on the Interest Payment Dates as specified 
+in the applicable Final Terms. 
+ 
+Floating Rate (FRN) 
+A Bond issue with a floating Interest Rate will bear interest equal to a Reference Rate plus a fixed Margin for a 
+specified period (3 or 6 months). Interest Rate or Reference Rate may be deemed to be zero. The period lengths 
+are equal throughout the term of the Loan, but each Interest Payment Date is adjusted in accordance with the 
+Business Day Convention. The Interest Rate for each forthcoming period is determined two Business Days prior to 
+each Interest Payment Date based on the then current value of the Reference Rate plus the Margin. 
+ 
+The Interest Rate will be payable quarterly or semi-annually on the the Interest Payment Dates as specified in the 
+applicable Final Terms. 
+ 
+The relevant Reference Rate, the Margin, the Interest Payment Dates and the then current Interest Rate will be 
+specified in the applicable Final Terms. 
+ 
+Redemption 
+The Loan will mature in full at the Maturity Date at a price equal to 100 per cent. of the nominal amount, or at the 
+Redemption Price as specified in the Final Terms if the Issuer does not, on or before the Target Observation 
+Date, deliver written evidence (to the Bond Trustee's satisfaction) that the Sustainability Performance Target has 
+been met, as confirmed by the External Verifier in accordance with customary procedures. 
+ 
+The Issuer may have the option to prematurely redeem the Loan in full at terms specified in the applicable Final 
+Terms. 
+ 
+The Bondholders may have the right to require that the Issuer purchases all or some of the Bonds held by that 
+Bondholder at terms specified in the applicable Final terms. 
+ 
+Security 
+The Bonds may be either secured or unsecured. Details will be specified in the applicable Final Terms.
+
+--- Page 30 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30
+Negative pledge 
+The Bonds may have negative pledge clause. Details will be specified in the applicable Final Terms. 
+ 
+13.3 Definitions 
+This section includes a summary of the definitions set out in any Bond Terms as well as certain other definitions 
+relevant for this Prospectus. The Bond Trustee may amend the definitions in the Bond Tems for any new issue of 
+bonds during the tenor of this Base Prospectus. This may cause the definitions in this Base Prospectus to be 
+incorrect and no longer valid for such new issues of bonds. If the definitions in this Base Prospectus at any point in 
+time no longer represents the correct understanding of the definitions set out in the Bond Terms, the Bond Terms 
+shall prevail. The Bond Tems are attached to the Final Terms. 
+ 
+Additional Bonds: 
+Means Bonds issued under a Tap Issue, including any Temporary Bonds as defined in the Bond 
+Terms. 
+ 
+ 
+Attachment: 
+Means any schedule, appendix or other attachment to the Bond Terms. 
+ 
+ 
+Base Prospectus: 
+This document. Describes the Issuer and predefined features of Bonds that can be listed under 
+the Base prospectus, as specified in the Prospectus Regulation (EU) 2017/1129. Valid for 12 
+months after it has been published. In this period, a prospectus may be constituted by the Base 
+Prospectus, any supplement(s) to the Base Prospectus and a Final Terms for each new issue. 
+ 
+ 
+Bond Issue/Bonds/ 
+Notes/the Loan: 
+Means (i) the debt instruments issued by the Issuer pursuant to the Bond Terms, including any 
+Additional Bonds, and (ii) any overdue and unpaid principal which has been issued under a 
+separate ISIN in accordance with the regulations of the CSD from time to time. 
+ 
+ 
+Bond Terms: 
+The terms and conditions, including all Attachments which form an integrated part of any Bond 
+Terms to be listed under this Base Prospectus, in each case as amended and/or supplemented 
+from time to time.  
+ 
+ 
+Bond Trustee: 
+Nordic Trustee AS, Postboks 1470 Vika, 0116 Oslo, or its successor(s) Website: 
+https://nordictrustee.com 
+ 
+The Bond Trustee has power and authority to act on behalf of, and/or represent, the Bondholders 
+in all matters, including but not limited to taking any legal or other action, including enforcement 
+of the Bond Terms, and the commencement of bankruptcy or other insolvency proceedings 
+against the Issuer, or others. 
+ 
+The Bond Trustee shall represent the Bondholders in accordance with the finance documents. 
+The Bond Trustee is not obligated to assess or monitor the financial condition of the Issuer or 
+any other obligor unless to the extent expressly set out in the Bond Terms, or to take any steps 
+to ascertain whether any event of default has occurred. The Bond Trustee is entitled to take such 
+steps that it, in its sole discretion, considers necessary or advisable to protect the rights of the 
+Bondholders in all matters pursuant to the terms of the finance documents. 
+ 
+ 
+Bondholder: 
+A person who is registered in the CSD as directly registered owner or nominee holder of a Bond, 
+subject however to the Bondholders’ rights in the Bond Terms. 
+ 
+ 
+Bondholders’ 
+decisions: 
+The Bondholders’ Meeting represents the supreme authority of the Bondholders community in 
+all matters relating to the Bonds and has the power to make all decisions altering the terms and 
+conditions of the Bonds, including, but not limited to, any reduction of principal or interest and 
+any conversion of the Bonds into other capital classes. 
+ 
+At the Bondholders’ meeting each Bondholder may cast one vote for each voting bond owned 
+at close of business on the day prior to the date of the Bondholders’ meeting in the records 
+registered in the Securities Depository.  
+ 
+In order to form a quorum, at least half (1/2) of the voting bonds must be represented at the 
+Bondholders' meeting. See also the clause for repeated Bondholders’ meeting in the Bond 
+Terms.
+
+--- Page 31 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31
+Resolutions shall be passed by simple majority of the votes at the Bondholders' Meeting, 
+however, a majority of at least 2/3 of the voting bonds represented at the Bondholders’ Meeting 
+is required for any waiver or amendment of any terms of the Bond Terms. 
+ 
+(For more details, see also the clause for Bondholders’ decisions in the Bond Terms) 
+ 
+ 
+Bondholders rights: 
+Bondholders' rights are specified in the Bond Terms.  
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with the CSD, the 
+Bondholders are bound by the Bond Terms. 
+ 
+ 
+Borrowing Limit – Tap 
+Issue and Borrowing 
+Amount/First Tranche 
+Borrowing Limit – Tap Issue is the maximum issue amount for an open Bond issue.  
+ 
+Borrowing Amount/First Tranche is the borrowing amount for a closed Bond Issue, eventually 
+the borrowing amount for the first tranche of an open Bond Issue. 
+ 
+Borrowing Limit – Tap Issue and Borrowing Amount/First Tranche will be specified in the Final 
+Terms. 
+ 
+ 
+Business Day: 
+A day on which both the relevant CSD settlement system and the USD settlement system are 
+open, and banks generally are open for business in Oslo and New York. 
+ 
+ 
+Business Day 
+Conventon: 
+If the last day of any Interest Period originally falls on a day that is not a Business Day, the 
+Interest Payment Date will be as follow: 
+ 
+If Fixed Rate, the Interest Payment Date shall be postponed to the next day which is a Business 
+Day (Following Business Day convention). However, no adjustment will be made to the Interest 
+Period. 
+ 
+If FRN, the Interest Period will be extended to include the first following Business Day unless 
+that day falls in the next calendar month, in which case the Interest Period will be shortened to 
+the first preceding Business Day (Modified Following Business Day convention). The Interest 
+Period is adjusted accordingly. 
+ 
+ 
+Calculation Agent: 
+The Bond Trustee, if not otherwise stated in the applicable Final Terms. 
+ 
+ 
+Call Option: 
+The Final Terms may specify that the Issuer is entitled to redeem (all or some of) the Outstanding 
+Bonds prior to the Maturity Date. 
+ 
+In such case the Call Date(s), the Call Price(s) and the Call Notice Period will be specified in the 
+Final Terms. 
+ 
+ 
+Change of Control 
+Event: 
+Means a person or group of persons acting in concert gaining Decisive Influence over the Issuer. 
+ 
+ 
+Currency: 
+The currency in which the bond issue is denominated. 
+ 
+Currency will be specified in the Final Terms. 
+ 
+ 
+Day Count Convention: The convention for calculation of payment of interest; 
+a) If Fixed Rate, the interest shall be calculated on the basis of a 360-day year comprised of 
+twelve months of 30 days each and, in case of an incomplete month, the actual number of 
+days elapsed (30/360-days basis), unless: 
+(i) the last day in the relevant Interest Period is the 31st calendar day but the first day of 
+that Interest Period is a day other than the 30th or the 31st day of a month, in which 
+case the month that includes that last day shall not be shortened to a 30–day month; 
+or 
+(ii) the last day of the relevant Interest Period is the last calendar day in February, in which 
+case February shall not be lengthened to a 30-day month. 
+(b) If FRN, the interest shall be calculated on the basis of the actual number of days in the 
+Interest Period in respect of which payment is being made divided by 360 (actual/360-days 
+basis).
+
+--- Page 32 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+32
+ 
+ 
+De-Listing Event: 
+Means if the Issuer’s common shares are delisted from NASDAQ and, simultaneously, the 
+Issuer’s common shares are not listed on an Exchange. 
+ 
+ 
+Decisive Influence: 
+A person having, as a result of an agreement or through the ownership of shares, units or other 
+equity instruments in another person (directly or indirectly): 
+(a) 
+a majority of the voting rights in that other person; or 
+(b) 
+a right to elect or remove a majority of the members of the board of directors of that 
+ 
+other person. 
+ 
+ 
+Denomination – Each 
+Bond / Nominal 
+Amount: 
+The nominal amount of each Bond. 
+ 
+Denomination of each bond will be specified in the Final Terms. 
+ 
+ 
+Disbursement Date / 
+Issue Date 
+Date of bond issue. 
+ 
+On the Issue Date the bonds will be delivered to the Bondholder’s VPS-account against payment 
+or to the Bondholder’s custodian bank if the Bondholder does not have his/her own VPS-account. 
+ 
+The Issue Date will be specified in the Final Terms. 
+ 
+ 
+Disposal Event: 
+Means an event where: 
+(a) the Issuer’s ownership share in FLNG Gimi; or 
+(b) the Issuer’s ownership share in FLNG Hilli prior to FLNG Gimi’s startup on the twenty 
+(20) year contract with BP, 
+ 
+is sold or disposed to a third party through an asset sale or sale of shares, provided that a part 
+sale of FLNG Gimi shall not constitute a Disposal Event as long as the Group maintains an 
+aggregate ownership interest in FLNG Gimi of no less than 51 per cent. 
+ 
+ 
+Early redemption 
+option due to a tax 
+event: 
+The Final Terms may specify that the Issuer is entitled to redeem (all or some of) the Outstanding 
+Bonds prior to the Maturity Date due to a tax event. 
+ 
+In such case the terms of the early redemption option will be specified in the Final Terms. 
+ 
+ 
+Exchange: 
+Means: 
+(a) Oslo Børs (the Oslo Stock Exchange); or 
+(b) any regulated market as such term is understood in accordance with the Markets in Financial 
+Instruments Directive 2014/65/EU (MiFID II) and Regulation (EU) No. 600/2014 on markets 
+in financial instruments (MiFIR). 
+ 
+ 
+External Verifier: 
+Means any qualified provider of third-party assurance or attestation services appointed by the 
+Issuer (acceptable to the Bond Trustee) to review and confirm the Issuer’s performance against 
+the Sustainability Performance Target. 
+ 
+ 
+Final Terms: 
+Document describing securities as specified in Prospectus Regulation (EU) 2017/1129, 
+prepared as part of the Prospectus. Final Terms will be prepared for each new security as 
+specified in Prospectus Regulation (EU) 2017/1129, issued by the Issuer. 
+ 
+The template for Final Terms has been approved by the Norwegian FSA, as competent authority 
+under Regulation (EU) 2017/1129. The Norwegian FSA only approves the template for Final 
+Terms as meeting the standards of completeness, comprehensibility and consistency imposed 
+by Regulation (EU) 2017/1129. Such approval should not be considered as an endorsement of 
+the quality of the securities that are subject of the Final Terms. Investors should make their own 
+assessment as to the suitability of investing in the securities. 
+ 
+ 
+Global Coordinator 
+The bond issue’s global coordinator(s), as specified in the Final Terms 
+ 
+ 
+Interest Determination 
+Date(s): 
+In the case of NIBOR: Second Oslo business day prior to the start of each Interest Period. 
+ 
+Interest Determination Date(s) for other Reference Rates, see Final Terms.
+
+--- Page 33 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+33
+ 
+ 
+Interest Payment 
+Date(s): 
+The Interest Rate is paid in arrears on the last day of each Interest Period.  
+ 
+Any adjustment will be made according to the Business Day Convention. 
+ 
+The Interest Payment Date(s) will be specified in the Final Terms. 
+ 
+ 
+Interest Period: 
+The first Interest Period runs from and including the Issue Date to but excluding the first Interest 
+Payment Date. The subsequent Interest Periods run from and including an Interest Payment 
+Date to but excluding the next Interest Payment Date. The last Interest Payment Date 
+corresponds to the Maturity Date. 
+ 
+ 
+Interest Rate: 
+Rate of interest applicable to the Bonds; 
+ 
+(i) 
+If Fixed Rate, the Bonds shall bear interest at the percentage rate per annum (based 
+on the Day Count Convention)  
+ 
+(ii) If FRN, the Bonds shall bear interest at a rate per annum equal to the Reference Rate 
+plus a Margin (based on the Day Count Convention). Interest Rate or Reference Rate 
+may be deemed to be zero. 
+ 
+The Interest Rate is specified in Final Terms. 
+ 
+ 
+Interest Rate 
+Adjustment Date: 
+Date(s) for adjusting of the interest rate for bond issue with floating interest rate. 
+ 
+The Interest Rate Adjustment Date will coincide with the Interest Payment Date. 
+ 
+ 
+ISIN: 
+International Securities Identification Number for the Bond Issue. ISIN is specified in Final 
+Terms. 
+ 
+ 
+Issuer: 
+Golar LNG Limited is the Issuer under the Base Prospectus. 
+ 
+ 
+Issuer’s Bonds: 
+Means any Bonds which are owned by the Issuer or any affiliate of the Issuer. 
+ 
+ 
+Issue Price: 
+The price in percentage of the Denomination, to be paid by the Bondholders at the Issue Date. 
+ 
+Issue price will be specified in Final Terms.  
+ 
+ 
+Joint Lead Manager: 
+The bond issue’s joint lead manager(s), as specified in the Final Terms. 
+ 
+ 
+LEI-code: 
+Legal Entity Identifier (LEI), is a 20-character reference code to uniquely identify legally distinct 
+entities that engage in financial transactions. 
+ 
+LEI-code is specified in Final Terms. 
+ 
+ 
+Listing: 
+Listing of a bond issue on an Exchange is due to the Base Prospectus, any supplement(s) to 
+the Base Prospectus and a Final Terms. 
+ 
+An application for listing will be sent after the Disbursement Date and as soon as possible after 
+the Prospectus has been approved by the Norwegian FSA. 
+ 
+Bonds listed on an Exchange are freely negotiable. See also Market Making. 
+ 
+ 
+Market Making: 
+For Bonds listed on an Exchange, a market-maker agreement between the Issuer and a Global 
+Coordinator or Joint Lead Manager may be entered into.  
+ 
+This will be specified in the Final Terms. 
+ 
+ 
+Margin: 
+The margin, specified in percentage points, to be added to the Reference rate. 
+ 
+Margin will be specified in the Final terms.
+
+--- Page 34 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+34
+ 
+ 
+Maturity Date: 
+The date the bond issue is due for payment, if not already redeemed pursuant to Call Option, 
+Put Option or Early redemption option due to a tax event. The Maturity Date coincides with the 
+last Interest Payment Date and is adjusted in accordance with the Business Day Convention.  
+ 
+The Maturity Date is specified in the Final Terms. 
+ 
+ 
+Outstanding Bonds: 
+Means any Bonds not redeemed or otherwise discharged. 
+ 
+The Issuer will issue on the Issue date the first tranche of the bond issue as specified in Final 
+Terms. During the term of the bond issue, new tranches may be issued up to the Borrowing 
+Limit, as specified in Final Terms. 
+ 
+ 
+Paying Agent: 
+The entity designated by the Issuer to be in charge of keeping the records for the bond issue in 
+the Securities Depository. 
+ 
+The Paying Agent is specified in the Final Terms. 
+ 
+ 
+Prospectus: 
+The Prospectus consists of the Base Prospectus, any supplement(s) to the Base Prospectus 
+and the relevant Final Terms prepared in connection with application for listing on an Exchange.  
+ 
+ 
+Put Option: 
+The Final Terms may specify that upon the occurrence of a Put Option Event, each Bondholder 
+will have the right to require that the Issuer purchases all or some of the Bonds held by that 
+Bondholder. 
+ 
+In such case the exercise procedures, the repayment date and put price will be specified in the 
+Final Terms. 
+ 
+ 
+Put Option Event: 
+Means a Change of Control Event, a De-Listing Event, a Disposal Event or a Total Loss Event. 
+ 
+ 
+Redemption: 
+The Outstanding Bonds will mature in full on the Maturity Date and shall be redeemed by the 
+Issuer on the Maturity Date (if not already redeemed pursuant to Call Option, Put Option or Early 
+redemption option due to a tax event) at  
+(a) a price equal to 100 per cent. of the Nominal Amount; or 
+(b) the Redemption Price if the Issuer does not, on or before the Target Observation Date, deliver 
+written evidence (to the Bond Trustee's satisfaction) that the Sustainability Performance Target 
+has been met, as confirmed by the External Verifier in accordance with customary procedures. 
+ 
+ 
+Redemption Price: 
+The price determined as a percentage of the Denomination to which the bond issue is to be 
+redeemed, as specified in the Final Terms. 
+ 
+ 
+Reference Rate:  
+For FRN, the Reference Rate shall be NIBOR or any other rate as specified in the Final Terms, 
+which appears on the Relevant Screen Page as at the specified time on the Interest 
+Determination Date in question. 
+ 
+The Reference Rate, the Relevant Screen Page, the specified time, information about the past 
+and future performance and volatility of the Reference Rate and any fallback provisions will be 
+specified in Final Terms.  
+ 
+ 
+Relevant Screen Page: For FRN, an internet address or an electronic information platform belonging to a renowed 
+provider of Reference Rates. 
+ 
+The Relevant Screen Page will be specified in the Final Terms. 
+ 
+ 
+Securities Depository 
+/CSD: 
+The securities depository in which the bonds are registered, in accordance with the Norwegian 
+Act of 2019 no. 6 regarding Securities depository. 
+ 
+Unless otherwise specified in the Final Terms, the following Securities Depository will be used: 
+Norwegian Central Securities Depository (“Verdipapirsentralen” or ”VPS”), P.O. Box 4, 0051 
+Oslo.
+
+--- Page 35 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+35
+Sustainability Linked 
+Bond Framework: 
+Means a Sustainability Linked Bond Framework adopted by the Issuer establishing the Issuer's 
+sustainability strategy priorities and goals with respect to the Sustainability Performance Target. 
+ 
+ 
+Sustainability 
+Performance Target: 
+Means the sustainability performance target set out in the Sustainability Linked Bond 
+Framework. 
+ 
+ 
+Tap Issues: 
+The Issuer may, provided that the conditions set out in the Bond Terms are met, at one or more 
+occasions up until, but excluding, the Maturity Date or any earlier date when the Bonds have 
+been redeemed in full, issue Additional Bonds until the aggregate nominal amount of the Bonds 
+outstanding equals in aggregate the maximum issue amount (less the aggregate nominal 
+amount of any previously redeemed Bonds) 
+ 
+If N/A is specified in the Borrowing Limit in the Final Terms, the Issuer may not make Tap issues 
+under the Bond Terms. 
+ 
+ 
+Target Observation 
+Date: 
+Means the date falling one (1) month prior to the Maturity Date, provided that if such date is not 
+a Business Day, it shall mean the next proceeding Business Day. 
+ 
+ 
+Temporary Bonds: 
+If the Bonds are listed on an Exchange and there is a requirement for a supplement to the Base 
+Prospectus in order for the Additional Bonds to be listed together with the Bonds, the Additional 
+Bonds may be issued under a separate ISIN which, upon the approval of the supplement, will 
+be converted into the ISIN for the Bonds issued on the initial Issue Date. The Bond Terms 
+governs such Temporary Bonds. The Issuer shall inform the Bond Trustee, the Exchange and 
+the Paying Agent once such supplement is approved. 
+ 
+ 
+Total Loss Event: 
+Means in respect of an actual or constructive total loss of any of the FLNG Units, the date on 
+which the insurance proceeds (in respect of the relevant FLNG Unit) are received by the relevant 
+Group Company, but in no event later than 180 days after the relevant total loss event having 
+occurred. 
+ 
+ 
+Yield: 
+Dependent on the Market Price for bond issue with floating rate. Yield for the first interest period 
+can be determined when the interest is known, normally two Business Days before the Issue 
+Date. 
+  
+For bond issue with fixed rate, yield is dependent on the market price and number of Interest 
+Payment Date. 
+ 
+The yield is calculated in accordance with «Anbefaling til Konvensjoner for det norske sertifikat- 
+og obligasjonsmarkedet» prepared by Norske Finansanalytikeres Forening in January 2020: 
+https://finansanalytiker.no/innlegg/januar-2020-oppdatert-konvensjon-for-det-norske-sertifikat-
+og-obligasjonsmarkedet/   
+ 
+Yield is specified in Final Terms. 
+ 
+13.4 General terms and conditions 
+These general terms and condtions summarize and describe the general terms and conditions set out in any Bond 
+Terms. The Bond Trustee may amend the general terms and conditions in the Bond Tems for any new issue of 
+bonds during the tenor of this Base Prospectus. This may cause the general terms and conditions in this Base 
+Prospectus to be incorrect and no longer valid for such new issues of bonds. If the general terms and conditions in 
+this Base Prospectus at any point in time no longer represents the correct understanding of the general terms and 
+conditions set out in the Bond Terms, the Bond Terms shall prevail. The Bond Tems are attached to the Final 
+Terms. 
+ 
+13.4.1 Use of proceeds 
+The Issuer will use the net proceeds from the issuance of the Bonds for refinancing of its existing USD 403 million 
+convertible bonds maturing February 2022 and for general corporate purposes. 
+ 
+Other use of proceeds will be specified in the Final Terms.
+
+--- Page 36 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+36
+13.4.2 Publication 
+This Base Prospectus, any supplement(s) to this Base Prospectus and the Final Terms will be available for 
+inspection at the offices of Golar LNG Limited, 2nd Floor, S.E. Pearman Building, 9 Par-la-Ville Road, Hamilton 
+HM 11, Bermuda or on the Issuer’s website at https://www.golarlng.com. 
+ 
+The Prospectus will be published by a stock exchange announcement. 
+ 
+13.4.3 Redemption 
+Matured interest and matured principal will be credited each Bondholder directly from the Securities Registry. 
+Claims for interest and principal shall be limited in time pursuant the Norwegian Act relating to the Limitation Period 
+Claims of 18 May 1979 no 18, p.t. 3 years for interest rates and 10 years for principal. 
+ 
+13.4.4 Fees, Expenses and Tax legislation 
+The tax legislation of the investor’s Member State and of the Issuer’s country of incorporation may have an impact 
+on the income received from the securities. 
+ 
+The Issuer shall pay any stamp duty and other public fees in connection with the loan. Any public fees or taxes on 
+sales of Bonds in the secondary market shall be paid by the Bondholders, unless otherwise decided by law or 
+regulation. The Issuer is responsible for withholding any withholding tax imposed by Norwegian law. 
+ 
+13.4.5 Security Depository and secondary trading 
+The Bonds are electronically registered in book-entry form with the Securities Depository, see also the definition of 
+"Securities Depository". Securities Depository is specified in the Final Terms. 
+ 
+Secondary trading will be made over an Exchange for Bonds listed on a marketplace. See also definition of “Market 
+Making”. 
+ 
+Prospectus fee for the Base Prospectus including templates for Final Terms is NOK 104,000. In addition, there is a 
+listing fee for listing of the Bonds in accordance with the current price list of the Exchange. The listing fees will be 
+specified in the Final Terms.  
+ 
+13.4.6 Status of the Bonds and Security 
+The Bonds will constitute senior unsecured debt obligations of the Issuer. The Bonds will rank pari passu between 
+themselves and will rank at least pari passu with all other senior obligations of the Issuer other than obligations 
+which are mandatorily preferred by law. The Bonds shall rank ahead of subordinated capital. 
+ 
+The Bonds are unsecured. 
+ 
+13.4.7 Bond Terms 
+The Bond Terms has been entered into between the Issuer and the Bond Trustee. The Bond Terms regulates the 
+Bondholders’ rights and obligations in relations with the bond issue. The Bond Trustee enters into the Bond Terms 
+on behalf of the Bondholders and is granted authority to act on behalf of the Bondholders to the extent provided for 
+in the Bond Terms. 
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with the CSD, the Bondholders are bound by 
+the Bond Terms and any other Finance Document, without any further action required to be taken or formalities to 
+be complied with by the Bond Trustee, the Bondholders, the Issuer or any other party. 
+ 
+The Bond Terms will be attached to the Final Terms for each Bond issue and is also available through the Global 
+Coordinators and the Joint Lead Managers, the Issuer and the Bond Trustee.
+
+--- Page 37 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+37
+13.4.8 Legislation 
+The Bond Terms are governed by and construed in accordance with Norwegian law. The Company is a corporation 
+organised under the laws of Bermuda. The Company operates under the provisions of the Bermuda Companies 
+Law of 1981. 
+ 
+13.4.9 Approvals 
+The Bonds will be / have been issued in accordance with the Issuer’s Board of Directors approval. 
+ 
+The date of the Issuer’s Board of Directors approval will be specified in the Final Terms. 
+ 
+The Base Prospectus has been submitted to the Norwegian Financial Supervisory Authority (Finanstilsynet) before 
+listing of the Bonds takes place. 
+ 
+Final Terms will be submitted to Finanstilsynet for information in connection with an application for listing of a Bond 
+Issue. 
+ 
+The Base prospectus will not be the basis for offers for subscription in bonds that are not subject to a prospectus 
+obligation. 
+ 
+13.4.10 Restrictions on the free transferability of the securities 
+Any restrictions on the free transferability of the securities will be specified in the Final Terms. 
+ 
+13.5 Return and redemption 
+Bonds may have return and redemption mechanisms as explained below. The relevant Final Terms refer to these 
+mechanisms and provide relevant parameter values for the specific bond issue. 
+13.5.1 Bonds with floating rate 
+13.5.1.a Return (interest) 
+The Interest Rate is specified in Interest Rate ii). Payment of the Interest Rate is calculated on basis of the Day 
+Count Convention (b). 
+ 
+Interest Rate or Reference Rate may be deemed to be zero.  
+ 
+The period lengths are equal throughout the term of the Loan, but each Interest Payment Date is adjusted in 
+accordance with the Business Day Convention. The Interest Rate for each forthcoming period are determined two 
+Business Days prior to each Interest Payment Date based on the then current value of the Reference Rate plus the 
+Margin. 
+ 
+The Interest Rate is paid in arrears on each Interest Payment Date. The first Interest Period runs from and including 
+the Issue Date to but excluding the first Interest Payment Date. The subsequent Interest Periods run from and 
+including an Interest Payment Date to but excluding the next Interest Payment Date. The last Interest Payment 
+Date corresponds to the Maturity Date. 
+ 
+The relevant Reference Rate, the Margin, the Interest Payment Dates and the then current Interest Rate will be 
+specified in the applicable Final Terms. 
+ 
+Interest calculation method for secondary trading is given by act/360, modified following. 
+ 
+13.5.1.b Redemption 
+Redemption is made in accordance with the definition of Redemption.
+
+--- Page 38 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+38
+13.5.2 Bonds with fixed rate 
+13.5.2.a Return (interest) 
+The interest rate is specified in Interest Rate (i). Payment of the the Interest Rate is calculated on basis of the Day 
+Count Convention (a).  
+ 
+The Interest Rate is paid in arrears on each Interest Payment Date. The first Interest Period runs from and including 
+the Issue Date to but excluding the first Interest Payment Date. The subsequent Interest Periods run from and 
+including an Interest Payment Date to but excluding the next Interest Payment Date. The last Interest Payment 
+Date corresponds to the Maturity Date. 
+ 
+The Interest Rate and the Interest Payment Dates will be specified in the applicable Final Terms. 
+ 
+Interest calculation method for secondary trading is given by act/365 for bond issue with fixed rate.  
+ 
+13.5.2.b Redemption 
+Redemption is made in accordance with the definition of Redemption. 
+ 
+13.6 Rating 
+The Issuer has not been rated. 
+ 
+The Bonds have not been rated. 
+ 
+ 
+13.7 Final Terms 
+Template for Final Terms for fixed and floating bond issue, see Appendix 2.
+
+--- Page 39 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+39
+14 Third party information and statement by experts and 
+declarations of any interest 
+14.1 Third party information 
+Part of the information given in this Base Prospectus has been sourced from a third party. It is hereby confirmed 
+that the information has been accurately reproduced and that as far as Golar LNG Limited is aware and is able to 
+ascertain from information published by that third party, no facts have been omitted which would render the 
+reproduced information inaccurate or misleading. The following table lists such third parties:  
+ 
+Kind of information 
+Publicly 
+available 
+Name of third party 
+Business 
+address 
+Qualifications 
+Material 
+interest in 
+the 
+Company 
+Projection / Forecast 
+from online database 
+as per 12 January 
+2022 
+No 
+IHS Markit 
+25 Ropemaker 
+Street 
+London, United 
+Kingdom 
+Provider of 
+research and 
+analysis 
+None
+
+--- Page 40 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+40
+Cross reference list 
+ 
+Reference in 
+Base 
+Prospectus 
+Refers to 
+Details 
+11.1 Historical 
+Financial 
+Information for 
+the Company 
+Interim Report Q3 2021 available at 
+https://www.sec.gov/ix?doc=/Archives/e
+dgar/data/0001207179/0001207179210
+00028/glng-20210930.htm  
+Consolidated Statements of Operations, page 3 
+Consolidated Balance Sheets, page 5 
+Consolidated Statements of Cash Flows, page 7 
+ 
+ 
+Interim Report Q2 2021 available at 
+https://www.sec.gov/ix?doc=/Archives/e
+dgar/data/1207179/0001207179210000
+16/glng-20210630.htm  
+Consolidated Statements of Operations, page 3 
+Consolidated Balance Sheets, page 5 
+Consolidated Statements of Cash Flows, page 6 
+ 
+ 
+Interim Report Q1 2021 available at 
+https://www.sec.gov/Archives/edgar/dat
+a/1207179/000120717921000010/golarl
+ngltd6-kq12021.htm    
+Consolidated Statements of Operations, page 7 
+Consolidated Balance Sheets, page 9 
+Consolidated Statements of Cash Flows, page 20 
+ 
+ 
+Annual Report 2020, available at 
+https://www.golarlng.com/investors/annu
+al-reports/2020.aspx    
+Consolidated Statements of Operations, page F-8 
+Consolidated Balance Sheets, page F-10 
+Consolidated Statements of Cash Flows, page F-11 
+Notes to the consolidated financial statements, 
+pages F-14 – F-72 
+ 
+Annual Report 2019, available at 
+https://www.golarlng.com/investors/annu
+al-reports/2019.aspx    
+Consolidated Statements of Operations, page F-8 
+Consolidated Balance Sheets, page F-10 
+Consolidated Statements of Cash Flows, page F-11 
+Notes to the consolidated financial statements, 
+pages F-14 – F-69 
+11.2 Auditing of 
+historical 
+annual financial 
+information 
+Annual Report 2020, available at 
+https://www.golarlng.com/investors/annu
+al-reports/2020.aspx   
+Auditors’ report, pages F-2 – F-6  
+ 
+Annual Report 2019, available at 
+https://www.golarlng.com/investors/annu
+al-reports/2019.aspx    
+Auditors’ report, page F-2 – F-5 
+ 
+ 
+References to the documents mentioned above are limited to information given in “Details”, e.g. that the non- 
+incorporated parts are either not relevant for the investor or covered elsewhere in the prospectus.
+
+--- Page 41 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+41
+Global Coordinators’ and Joint Lead Managers’ disclaimer 
+ 
+DNB Bank ASA and Pareto Securities AS as Global Coordinators, and Danske Bank A/S and Nordea Bank Abp as 
+Joint Lead Managers, have assisted the Company in preparing this Base Prospectus. The Global Coordinators and 
+the Joint Lead Managers have not verified the information contained herein. Accordingly, no representation, 
+warranty or undertaking, express or implied, is made and the Global Coordinators and the Joint Lead Managers 
+expressly disclaim any legal or financial liability as to the accuracy or completeness of the information contained in 
+this Base Prospectus or any other information supplied in connection with the issuance or distribution of bonds by 
+Golar LNG Limited.  
+ 
+This Base Prospectus is subject to the general business terms of the Global Coordinators and the Joint Lead 
+Managers, available at their respective websites. Confidentiality rules and internal rules restricting the exchange of 
+information between different parts of the Global Coordinators and the Joint Lead Managers may prevent 
+employees of the Global Coordinators and the Joint Lead Managers who are preparing this Base Prospectus from 
+utilizing or being aware of information available to the Global Coordinators and the Joint Lead Managers and/or any 
+of their affiliated companies and which may be relevant to the recipient's decisions. 
+ 
+Each person receiving this Base Prospectus acknowledges that such person has not relied on the Global 
+Coordinators and the Joint Lead Managers, nor on any person affiliated with it in connection with its investigation 
+of the accuracy of such information or its investment decision. 
+ 
+Oslo, 11 March 2022 
+ 
+DNB Bank ASA 
+(www.dnb.no) 
+Pareto Securities AS 
+(www.paretosec.com) 
+ 
+ 
+Danske Bank A/S 
+(www.danskebank.no)  
+Nordea Bank Abp 
+(www.nordea.no)
+
+--- Page 42 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+42
+Annex 1 Memorandum of Association and Bye-Laws 
+ 
+Memorandum of Association and Bye-Laws can be accessed through the following hyperlink: 
+ 
+https://www.golarlng.com/investors/legal/memorandum-of-association-and-bye-laws.aspx
+
+--- Page 43 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+43
+Annex 2 Template for Final Terms for fixed and floating rate 
+Bonds
+
+--- Page 44 ---
+[Annex 2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Final Terms 
+ 
+for 
+ 
+[Title of the bond issue] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hamilton (Bermuda), [Date]
+
+--- Page 45 ---
+Golar LNG Limited 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+2  
+Terms used herein shall be deemed to be defined as such for the purpose of the conditions set forth in the Base 
+Prospectus clauses 2 Definitions and 13.3 Definitions, these Final Terms and the attached Bond Terms. 
+ 
+ 
+[In case MiFID II identified target market are professional investors and eligible counterparties, insert the 
+following:] 
+[MIFID II product governance / Professional investors and eligible counterparties (ECPs) only target 
+market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is eligible 
+counterparties and professional clients only, each as defined in Directive 2014/65/EU (as amended) (MiFID II); 
+and (ii) all channels for distribution of the Bonds to eligible counterparties and professional clients are appropriate. 
+[Consider any negative target market]. Any person subsequently offering, selling or recommending the Bonds (a 
+distributor) should take into consideration the manufacturer[’s/s’] target market assessment; however, a 
+distributor subject to MiFID II is responsible for undertaking its own target market assessment in respect of the 
+Bonds (by either adopting or refining the manufacturer[’s/s’] target market assessment) and determining 
+appropriate distribution channels.] 
+ 
+[UK MiFIR product governance / Professional investors and eligible counterparties only (ECPs) target 
+market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is only 
+eligible counterparties, as defined in the FCA Handbook Conduct of Business Sourcebook, and professional 
+clients, as defined in Regulation (EU) No 600/2014 as it forms part of domestic law by virtue of the European 
+Union (Withdrawal) Act 2018 (UK MiFIR); and (ii) all channels for distribution of the Bonds to eligible 
+counterparties and professional clients are appropriate. [Consider any negative target market]. Any person 
+subsequently offering, selling or recommending the Bonds (a distributor) should take into consideration the 
+manufacturer[’s/s’] target market assessment; however, a distributor subject to the FCA Handbook Product 
+Intervention and Product Governance Sourcebook (the UK MiFIR Product Governance Rules) is responsible for 
+undertaking its own target market assessment in respect of the Bonds (by either adopting or refining the 
+manufacturer[’s/s’] target market assessment) and determining appropriate distribution channels.] 
+ 
+[PROHIBITION OF SALES TO EEA RETAIL INVESTORS – The Bonds are not intended to be offered, sold or 
+otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in 
+the European Economic Area (EEA). For these purposes, a retail investor means a person who is one (or more) 
+of: (i) a retail client as defined in point (11) of Article 4(1) of MiFID II; (ii) a customer within the meaning of 
+Directive (EU) 2016/97 where that customer would not qualify as a professional client as defined in point (10) of 
+Article 4(1) of MiFID II; or (iii) not a qualified investor as defined in the Prospectus Regulation (as defined below). 
+Consequently no key information document required by Regulation (EU) No. 1286/2014 (as amended) (the 
+PRIIPs Regulation) for offering or selling the Bonds or otherwise making them available to retail investors in the 
+EEA has been prepared and therefore offering or selling the Bonds or otherwise making them available to any 
+retail investor in the EEA may be unlawful under the PRIIPs Regulation.]  
+ 
+[PROHIBITION OF SALES TO UK RETAIL INVESTORS – The Bonds are not intended to be offered, sold or 
+otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in 
+the United Kingdom (UK). For these purposes, a retail investor means a person who is one (or more) of: (i) a 
+retail client, as defined in point (8) of Article 2 of Regulation (EU) No. 2017/565 as it forms part of domestic law by 
+virtue of the European Union (Withdrawal) Act 2018 (EUWA); (ii) a customer within the meaning of the provisions 
+of FSMA and any rules or regulations made under the FSMA to implement Directive (EU) 2016/97, where that 
+customer would not qualify as a professional client, as defined in point (8) of Article 2(1) of Regulation (EU) No. 
+600/2014 as it forms part of domestic law by virtue of the EUWA; or (iii) not a qualified investor as defined in 
+Article 2 of Regulation (EU) 2017/1129 as it forms part of domestic law by virtue of the EUWA. Consequently no 
+key information document required by Regulation (EU) No. 1286/2014 as it forms part of domestic law by virtue of 
+the EUWA (the UK PRIIPs Regulation) for offering or selling the Bonds or otherwise making them available to 
+retail investors in the UK has been prepared and therefore offering or selling the Bonds or otherwise making them 
+available to any retail investor in the UK may be unlawful under the UK PRIIPs Regulation.] 
+ 
+ 
+[In case MiFID II identified target market are retail investors, professional investors and eligible counterparties, 
+insert the following:] 
+[MIFID II product governance / Retail investors, professional investors and eligible counterparties (ECPs) 
+target market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is eligible 
+counterparties, professional clients and retail clients, each as defined in Directive 2014/65/EU (as amended) 
+(MiFID II); EITHER [and (ii) all channels for distribution of the Bonds are appropriate[, including investment 
+advice, portfolio management, non-advised sales and pure execution services]] OR [(ii) all channels for 
+distribution to eligible counterparties and professional clients are appropriate; and (iii) the following channels for 
+distribution of the Bonds to retail clients are appropriate – investment advice[,/and] portfolio management[,/ 
+and][non-advised sales][and pure execution services][, subject to the distributor’s suitability and appropriateness
+
+--- Page 46 ---
+Golar LNG Limited 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+3  
+obligations under MiFID II, as applicable]]. [Consider any negative target market]. Any person subsequently 
+offering, selling or recommending the Bonds (a distributor) should take into consideration the manufacturer[’s/s’] 
+target market assessment; however, a distributor subject to MiFID II is responsible for undertaking its own target 
+market assessment in respect of the Bonds (by either adopting or refining the manufacturer[‘s/s’] target market 
+assessment) and determining appropriate distribution channels[, subject to the distributor’s suitability and 
+appropriateness obligations under MiFID II, as applicable].] 
+ 
+[UK MiFIR product governance / Retail investors, professional investors and eligible counterparties target 
+market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is retail 
+clients, as defined in point (8) of Article 2 of Regulation (EU) 2017/565 as it forms part of domestic law by virtue of 
+the European Union (Withdrawal) Act 2018 (EUWA), and eligible counterparties, as defined in the FCA Handbook 
+Conduct of Business Sourcebook (COBS), and professional clients, as defined in Regulation (EU) No 600/2014 
+as it forms part of domestic law by virtue of the EUWA (UK MiFIR); EITHER [and (ii) all channels for distribution of 
+the Bonds are appropriate, including investment advice, portfolio management, non-advised sales and pure 
+execution services] OR [(ii) all channels for distribution to eligible counterparties and professional clientsare 
+appropriate; and (iii) the following channels for distribution of the Bonds to retail clients are appropriate – 
+investment advice[,/and] portfolio management[,/ and][non-advised sales][and pure execution services][, subject 
+to the distributor’s (as defined below) suitability and appropriateness obligations under COBS, as applicable]]. 
+[Consider any negative target market]. Any person subsequently offering, selling or recommending the Bonds (a 
+distributor) should take into consideration the manufacturer[’s/s’] target market assessment; however, a 
+distributor subject to FCA Handbook Product Intervention and Product Governance Sourcebook (the UK MiFIR 
+Product Governance Rules) is responsible for undertaking its own target market assessment in respect of the 
+Bonds (by either adopting or refining the manufacturer[’s/s’] target market assessment) and determining 
+appropriate distribution channels[, subject to the distributor’s suitability and appropriateness obligations under 
+COBS, as applicable].] 
+ 
+This document constitutes the Final Terms of the Bonds described herein pursuant to the Regulation (EU) 
+2017/1129 and must be read in conjunction with the Base Prospectus dated 11 March 2022 and [the supplement[s] 
+to the Base Prospectus dated [date]].  
+ 
+The Base Prospectus dated 11 March 2022 [and the supplement[s] to the Base Prospectus dated [date]] [together] 
+constitute[s] a base prospectus for the purposes of the Regulation (EU) 2017/1129 ([together,] the “Base 
+Prospectus”). 
+ 
+Final Terms include a summary of each Bond Issue. 
+ 
+These Final Terms and the Base Prospectus [and the supplement[s] to the Base Prospectus] are available on the 
+Issuer's website https://www.golarlng.com, or on the Issuer's visit address, 2nd Floor, S.E. Pearman Building, 9 
+Par-la-Ville Road, Hamilton HM11, Bermuda, or their successor (s).
+
+--- Page 47 ---
+Golar LNG Limited 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+4  
+1 Summary  
+The below summary has been prepared in accordance with the disclosure requirements in Article 7in the 
+Regulation (EU) 2017/1129 as of 14 June 2017. 
+ 
+Introduction and warning 
+Disclosure requirement 
+Disclosure 
+Warning 
+This summary should be read as introduction to the Base 
+Prospectus. Any decision to invest in the securities should be 
+based on consideration of the Base Prospectus as a whole by the 
+investor. The investor could lose all or part of the invested capital.  
+Where a claim relating to the information contained in the Base 
+Prospectus is brought before a court, the plaintiff investor might, 
+under the national law, have to bear the costs of translating the 
+Base Prospectus before the legal proceedings are initiated. Civil 
+liability attaches only to those persons who have tabled the 
+summary including any translation thereof, but only where the 
+summary is misleading, inaccurate or inconsistent, when read 
+together with the other parts of the Base Prospectus, or where it 
+does not provide, when read together with the other parts of the 
+prospectus, key information in order to aid investors when 
+considering whether to invest in such securities. 
+Name and international securities 
+identification number (‘ISIN’) of the 
+securities. 
+[●] 
+Identity and contact details of the issuer, 
+including its legal entity identifier (‘LEI’). 
+Golar LNG Limited 
+2nd Floor, S.E. Pearman Building, 
+9 Par-la-Ville Road, Hamilton 
+HM11, Bermuda 
+Telephone: +1(441) 295-4705 
+ 
+Registration number 30506 in the Registrar of Companies in 
+Bermuda. 
+LEI-code ((legal entity identifier): 213800C2VSFZG3EZLO34. 
+Identity and contact details of the offeror or 
+of the person asking for admission to trading 
+on a regulated market. 
+There is no offeror, the Base Prospectus has been produced in 
+connection with listing of the securities on an Exchange. The 
+Issuer is going to ask for admission to trading on a regulated 
+market. 
+Identity and contact details of the competent 
+authority that approved the prospectus 
+Financial Supervisory Authority of Norway (Finanstilsynet), 
+Revierstredet 3, 0151 Oslo.   
+Telephone number is +47 22 93 98 00.  
+E-mail: prospekter@finanstilsynet.no. 
+Date of approval of the prospectus. 
+The Base Prospectus was approved on 11 March 2022. 
+ 
+Key information on the Issuer 
+Disclosure requirements 
+Disclosure 
+Who is the issuer of the securities 
+Golar LNG Limited 
+Domicile and legal form 
+The Company is a corporation organized under the laws of 
+Bermuda. The Company operates under the provisions of the 
+Bermuda Companies Law of 1981. 
+Principal activities 
+Golar LNG Limited provides infrastructure for the liquefaction, 
+transportation, regasification and downstream distribution of LNG. 
+It is engaged in the acquisition, ownership, operation and 
+chartering of FLNGs, FSRUs and LNG carriers. It also operates 
+vessels on behalf of third parties under management agreements. 
+Major shareholders 
+ 
+ 
+Shareholder 
+Number of shares 
+Ownership (%) 
+Cobas Asset Management, SGIIC, SA 
+13,050,460 
+12.06 % 
+Orbis Investment Management 
+11,684,827 
+10.80 % 
+Rubric Capital Management LP 
+5,770,869 
+5.33 % 
+Tor Olav Trøim 
+ 5,314,454 
+ 4.91 % 
+BlackRock Institutional Trust 
+4,536,706 
+4.19 % 
+Bain Capital 
+3,841,925 
+3.55 %
+
+--- Page 48 ---
+Golar LNG Limited 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+5  
+Fidelity Management & Research 
+3,823,112 
+3.53 % 
+Point72 Asset Management, L.P. 
+2,762,106 
+2.55 % 
+Niels Stolt-Nielsen 
+ 2,741,740 
+ 2.53 % 
+Baron Capital Management 
+2,685,137 
+2.48 % 
+Steinberg Asset Management, LLC 
+1,831,012 
+1.69 % 
+Pinnacle Associates 
+ 1,778,527 
+ 1.64 % 
+State Street Global Advisors (US) 
+1,485,256 
+1.37 % 
+Huber Capital Management LLC 
+1,464,830 
+1.35 % 
+Millenium Management 
+1,298,846 
+1.20 % 
+Norges Bank Investment Management 
+1,169,337 
+1.08 % 
+Goldman Sachs Asset Management (US) 
+1,090,129 
+1.01 % 
+Impala Asset Management 
+971,765 
+0.90 % 
+Geode Capital Management 
+922,376 
+0.85 % 
+Nuveen LLC 
+786,555 
+0.73 % 
+ 
+There are no arrangements, known to the Company, the operation of which may at a subsequent date result in a 
+change in control of the Company.  
+ 
+Management 
+ 
+ 
+Name  
+Position  
+Karl Fredrik Staubo 
+Chief Executive Officer 
+Eduardo Maranhão 
+Chief Financial Officer 
+Øistein Dahl 
+Chief Operating Officer 
+Olve Skjeggedal 
+Chief Technical Officer 
+ 
+ 
+Statutory auditors 
+Ernst & Young LLP 
+ 
+What is the key financial information 
+regarding the issuer 
+ 
+Key financial information 
+ 
+ 
+Golar LNG Limited consolidated financial statements: 
+ 
+Amounts in thousands of USD 
+Interim Report 
+Annual Report 
+ 
+Q3 2021 
+Q2 2021 
+Q1 2021 
+2020 
+2019 
+Operating income 
+112,092 
+111,123 
+61,706 
+125,653 
+60,659 
+Net financial debt (long term debt plus 
+short term debt minus cash) 
+2,158,031 
+2,172,309 
+2,223,946 
+2,223,091 
+2,313,704 
+Net Cash flows from operating 
+activities 
+58,436 
+64,546 
+46,104 
+145,783 
+106,545 
+Net Cash flows from financing 
+activities 
+-119,635 
+-27,628 
+7,713 
+-162,295 
+-136,000 
+Net Cash flow from investing activities 
+-7,128 
+-118,876 
+-46,254 
+-103,028 
+-264,394 
+There is no description of any qualifications in the audit report for the Annual Report 2020. 
+What are the key risk factors that are specific 
+to the issuer  
+The Group operates the majority of its vessels in the spot/short-
+term charter market, which is subject to volatility. Failure to find 
+profitable employment for these vessels could adversely affect the 
+Group’s operations. 
+ 
+The FLNG conversions undertaken by the Group are highly 
+complex. 
+ 
+The Group cannot guarantee the full utilization of the full capacity 
+of FLNG Hilli and sufficient profitability to justify its investment.
+
+--- Page 49 ---
+Golar LNG Limited 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+6  
+ 
+ 
+Delays and costs associated with renegotiation of the Group’s 
+conversion contracts and capital expenditure commitments with 
+Keppel as a result of BP’s force majeure claim could adversely 
+affect its earnings, cash flows and financial condition. 
+ 
+The Group may not be able to obtain financing, to meet obligations 
+as they fall due or to fund growth or future capital expenditures. 
+ 
+The values of the Group’s vessels may fluctuate. 
+ 
+Exposure to equity price volatility in New Fortress Energy Inc’s 
+(“NFE”) shares could adversely affect the Group’s financial results. 
+ 
+Continued provision of management services is reliant on third 
+parties. 
+ 
+Outbreaks of epidemic and pandemic diseases and governmental 
+responses thereto could adversely affect the Group’s business. 
+ 
+Key information on the securities 
+Disclosure requirements 
+Disclosure 
+What are the main features of the securities 
+ 
+Description of the securities, including ISIN 
+code. 
+[●] 
+Currency for the bond issue 
+[●] 
+Borrowing Limit and Borrowing Amount  
+ [● tranche] 
+[●] 
+Denomination – Each Bond 
+[●] 
+Any restrictions on the free transferability of 
+the securities. 
+[●] 
+Description of the rights attached to the 
+securities, limitations to those rights and 
+ranking of the securities. 
+[●] 
+Information about Issue and Maturity Date, 
+interest rate, instalment and representative 
+of the bondholders 
+[●] 
+Status of the bonds and security 
+[●] 
+Where will the securities be traded 
+ 
+Indication as to whether the securities 
+offered are or will be the object of an 
+application for admission to trading. 
+[●]  
+What are the key risks that are specific to the 
+securities 
+ 
+Most material key risks 
+Risk of being unable to repay the Bonds. 
+ 
+Prospective investors may not be able to recover losses incurred 
+through civil proceedings for Norwegian or U.S. securities laws 
+violations. 
+ 
+Put Option Event - the Company’s ability to redeem the Bonds with 
+cash may be limited. 
+ 
+ 
+Key information on the admission to trading on a regulated marked 
+Disclosure requirements 
+Disclosure 
+Under which conditions and timetable can I 
+invest in this security? 
+ [●] 
+ 
+The estimate of total expenses related to the admission to 
+trading is as follow: [●]  
+ 
+[/ Other: (specify)] 
+ 
+Listing fee Oslo Børs [●] 
+Registration fee Oslo Børs [●]
+
+--- Page 50 ---
+Golar LNG Limited 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+7  
+ 
+Why is the prospectus being produced 
+In connection with listing of the securities on the Oslo Børs. 
+Reasons for the admission to trading on a 
+regulated marked and use of. 
+Use of proceeds [●] 
+ 
+Estimated net amount of the proceeds [●] 
+ 
+Description of material conflicts of interest to 
+the issue including conflicting interests. 
+[●]
+
+--- Page 51 ---
+Golar LNG Limited 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+8  
+2 Detailed information about the security 
+ 
+Generally: 
+ 
+ISIN code: 
+[ISIN] 
+ 
+ 
+The Loan/The Bonds: 
+[Title of the bond issue] 
+ 
+ 
+Borrower/Issuer: 
+Golar LNG Limited is registered with the Registrar of Companies in 
+Bermuda with registration number 30506. The Company’s LEI code is 
+213800C2VSFZG3EZLO34. 
+ 
+ 
+Group: 
+Means the Issuer and its subsidiaries from time to time. 
+ 
+Security Type: 
+Unsecured [open] bond issue with [fixed/floating] rate 
+ 
+Borrowing Limit – Tap Issue: 
+[Currency]  
+[Amount borrowing limit]  
+ 
+ 
+Borrowing Amount [●] tranche: 
+[Currency]   
+ [Amount [●] tranche]  
+ 
+ 
+  
+Denomination – Each bond: 
+[Currency] 
+[Amount denomination] - each and ranking pari 
+passu among themselves 
+ 
+ 
+Securities Form: 
+As set out in the Base Prospectus clause 13.1. 
+ 
+ 
+Publication: 
+As specified in the Base Prospectus section 13.4.2. 
+ 
+ 
+Issue Price: 
+[As defined in the Base Prospectus section 13.3 
+ 
+[Issue price] % 
+ 
+ 
+Disbursement Date/Issue Date: 
+[As defined in the Base Prospectus section 13.3 
+ 
+[Issue date] 
+ 
+ 
+Maturity Date: 
+[As defined in the Base Prospectus section 13.3 
+ 
+[Maturity Date] 
+ 
+ 
+Interest Rate: 
+ 
+Interest Bearing from and Including: 
+[Issue date 
+ 
+/ Other: (specify)] 
+ 
+ 
+Interest Bearing To: 
+[As defined in the Base Prospectus section 13.3 
+ 
+[Maturity Date] 
+ 
+/ Other: (specify)] 
+ 
+ 
+Reference Rate: 
+[As defined in the Base Prospectus section 13.3 
+ 
+Floating rate: [NIBOR / other] [3 / 6 / 12] months  
+ 
+[description of Reference Rate] 
+ 
+Relevant Screen Page: [Relevant Screen Page] 
+ 
+Specified time: [specified time] 
+ 
+Information about the past and future performance and volatility of the 
+Reference Rate is available at [Relevant Screen Page / other: (specify)] 
+ 
+Fallback provisions: [Provisions] 
+ 
+/ Other: (specify)]
+
+--- Page 52 ---
+Golar LNG Limited 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+9  
+/ Fixed Rate: N/A] 
+ 
+ 
+Margin: 
+[As defined in the Base Prospectus section 13.3 
+ 
+Floating Rate: [Margin] % p.a. 
+ 
+/ Fixed Interest: N/A 
+ 
+/ Other: (specify)] 
+ 
+ 
+Interest Rate: 
+[Bond issue with floating rate (as defined in the Base Prospectus section 
+13.3): [Reference Rate + Margin]  
+ 
+Current Interest Rate: [current interest rate] % p.a. 
+ 
+/ Bond Issue with fixed rate (as defined in the Base Prospectus section 
+13.3): [Interest rate] % p.a. 
+ 
+ 
+ 
+Day Count Convention: 
+[Floating Rate: As defined in the Base Prospectus section 13.3 
+/ Fixed Rate: As defined in the Base Prospectus section 13.3 
+ 
+ 
+ 
+Day Count Fraction – Secondary 
+Market: 
+[Floating Rate: As specified in the Base Prospectus section 13.5.1.a 
+/ Fixed Rate: As specified in the Base Prospectus section 13.5.2.a  
+ 
+ 
+ 
+Interest Determination Date: 
+[Floating Rate: As defined in the Base Prospectus section 13.3.  
+ 
+Interest Rate Determination Date: [Interest Rate Determination Date(s)] 
+each year.  
+ 
+/ Fixed rate: N/A 
+ 
+/ Other: (specify)] 
+ 
+ 
+Interest Rate Adjustment Date: 
+[Floating Rate: As defined in the Base Prospectus section 13.3.  
+ 
+/ Fixed rate: N/A] 
+ 
+ 
+Interest Payment Date: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.5.1 (FRN) / section 13.5.2 (fixed rate) 
+ 
+Interest Payment Date: [Date(s)] each year.  
+ 
+The first Interest Payment Date is [Date].  
+ 
+ 
+#Days first term: 
+[Number of interest days] days 
+ 
+ 
+Yield: 
+As defined in the Base Prospectus section 13.3. 
+ 
+The Yield is [yield]  
+ 
+ 
+Business Day: 
+As defined in the Base Prospectus section 13.3. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Amortisation and Redemption: 
+ 
+Redemption: 
+As defined in the Base Prospectus section 13.3 and as specified in the 
+Base Prospectus section 13.4.3, 13.5.1.b and 13.5.2.b. 
+ 
+The Maturity Date is [maturity date] 
+ 
+Redemption Price is [redemption price] % 
+ 
+ 
+Call Option: 
+As defined in the Base Prospectus section 13.3.
+
+--- Page 53 ---
+Golar LNG Limited 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+10  
+[terms of the call option] 
+ 
+Call Date(s): [call date(s)] 
+ 
+Call Price(s): [call price(s)] 
+ 
+Call Notice Period: [call notice period] 
+ 
+Put Option: 
+As defined in the Base Prospectus section 13.3. 
+ 
+[terms of the put option] 
+ 
+Early redemption option due to a tax 
+event: 
+As defined in the Base Prospectus section 13.3. 
+ 
+[terms of the early redemption option] 
+ 
+ 
+ 
+Obligations: 
+ 
+Issuer’s special obligations during the 
+term of the Bond Issue: 
+As specified in the Base Prospectus section 13.4.7. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Listing: 
+ 
+Listing of the Bond Issue/Marketplace: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.5. 
+ 
+Exchange for listing of the Bonds: [Exchange] 
+ 
+/ The Bonds will not be applied for listing on any Exchange. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Any restrictions on the free 
+transferability of the securities: 
+ 
+As specified in the Base prospectus section 13.4.10. 
+ 
+Restrictions on the free transferability of the securities: [specify] 
+ 
+ 
+Purpose/Use of proceeds: 
+As specified in the Base Prospectus section 13.4.1. 
+ 
+Estimated total expenses related to the offer: [specify] 
+ 
+Estimated net amount of the proceeds: [specify] 
+ 
+Use of proceeds: [specify] 
+ 
+[Other: (specify)] 
+ 
+ 
+Prospectus and Listing fees: 
+As defined in the Base Prospectus section 13.3 and specified in the Base 
+Prospectus section 13.4.5. 
+ 
+Listing fees: [specify] 
+ 
+/ Other: (specify)] 
+ 
+ 
+Market-making: 
+As defined in the Base Prospectus section 13.3. 
+ 
+[A market-making agreement has been entered into between the Issuer 
+and [name of market maker]] 
+ 
+/ Other: (specify)] 
+ 
+ 
+Approvals: 
+As specified in the Base Prospectus section 13.4.9. 
+ 
+Date of the Board of Directors’ approval: [date] 
+ 
+/ Other: (specify)]
+
+--- Page 54 ---
+Golar LNG Limited 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+11  
+Bond Terms: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.7.  
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with 
+the CSD, the Bondholders are bound by the Bond Terms and any other 
+Finance Document, without any further action required to be taken or 
+formalities to be complied with by the Bond Trustee, the Bondholders, 
+the Issuer or any other party. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Status and security: 
+As specified in the Base Prospectus section 13.4.5.  
+ 
+/ Other: (specify)] 
+ 
+ 
+Bondholders’ meeting/ 
+Voting rights: 
+As defined in the Base Prospectus section 13.3. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Availability of the Documentation: 
+https://www.golarlng.com  
+ 
+ 
+Global Coordinator(s): 
+[name of global coordinator(s)] as [type of coordinator] 
+ 
+ 
+Joint Lead Manager(s): 
+[name of joint lead manager(s)] as [type of manager] 
+ 
+Bond Trustee: 
+As defined in the Base prospectus section 13.3. 
+ 
+Paying Agent: 
+As defined in the Base prospectus section 13.3. 
+ 
+The Paying Agent is [name and address of the Paying Agent] 
+ 
+ 
+Securities Depository / CSD: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.5 
+ 
+/ Other: (specify)] 
+ 
+ 
+Calculation Agent: 
+[As defined in the Base Prospectus section 13.3 
+ 
+/ Other: (specify)]  
+ 
+ 
+Listing fees: 
+Prospectus fee for the Base Prospectus including template for Final 
+Terms is NOK 104,000. 
+ 
+[Listing and other fees at the Exchange: (specify)  
+ 
+/ No listing: N/A]
+
+--- Page 55 ---
+Golar LNG Limited 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+12  
+3 Additional information 
+Advisor 
+The Issuer has mandated [name of global coordinator(s) and joint lead manager(s)] as [type of coordinator and 
+manager] for the issuance of the Loan. The [type of coordinator and manager] [has/have] acted as advisor[s] to 
+the Issuer in relation to the pricing of the Loan. 
+ 
+The [type of coordinator and manager] will be able to hold position in the Loan.  
+ 
+/ Other: (specify)] 
+ 
+Interests and conflicts of interest 
+[The involved persons in the Issuer or offer of the Bonds have no interest, nor conflicting interests that are 
+material to the Bond Issue. 
+ 
+/ Other: (specify)] 
+ 
+Rating 
+[There is no official rating of the Loan. 
+ 
+The Issuer is rated as follows: 
+Standard & Poor’s: [•] 
+Moody’s: [•] 
+ 
+/ Other: (specify)]  
+ 
+Listing of the Loan: 
+[As defined in the Base Prospectus section 13.3] 
+ 
+The Prospectus will be published in [country]. An application for listing at [Exchange] will be sent as soon as possible 
+after the Issue Date. Each bond is negotiable. 
+ 
+Statement from the [type of coordinator and manager]: 
+[name of global coordinator(s) and joint lead manager(s)] have assisted the Issuer in preparing the prospectus. The 
+[type of coordinator and manager] have not verified the information contained herein. Accordingly, no 
+representation, warranty or undertaking, express or implied, is made, and the [type of coordinator and manager] 
+expressively disclaim[s] any legal or financial liability as to the accuracy or completeness of the information 
+contained in this prospectus or any other information supplied in connection with bonds issued by the Issuer or their 
+distribution. The statements made in this paragraph are without prejudice to the responsibility of the Issuer. Each 
+person receiving this prospectus acknowledges that such person has not relied on the [type of coordinator and 
+manager] nor on any person affiliated with them in connection with its investigation of the accuracy of such 
+information or its investment decision. 
+ 
+[place], [date] 
+ 
+ 
+[name of global coordinator(s) and joint lead manager(s)] 
+[web address of global coordinator(s) and joint lead manager(s)]
+
+--- Page 56 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+44
+Annex 3 Subsidiaries 
+ 
+The following table lists our significant subsidiaries as determined by the public reporting requirements of the 
+United States Securities and Exchange Commission and their purpose as at 31 December 2021. Unless 
+otherwise indicated, we own a 100% ownership interest in each of the following subsidiaries. 
+ 
+Name 
+Jurisdiction of Incorporation Purpose 
+Golar LNG 2216 Corporation 
+Marshall Islands 
+Owns and operates Golar Arctic 
+Golar Management Limited 
+United Kingdom 
+Management company 
+Golar GP LLC – Limited Liability Company 
+Marshall Islands 
+Holding company 
+Golar LNG Energy Limited 
+Bermuda 
+Holding company 
+Gimi MS Corporation (a) 
+Marshall Islands 
+Owns FLNG Gimi 
+Gimi Holding Company Limited (b) 
+Bermuda 
+Holding company 
+Golar Hilli Corporation  
+Marshall Islands 
+Owns FLNG Hilli 
+Golar Gandria N.V. 
+Curacao 
+Owns and operates Golar Gandria 
+Golar Hull M2021 Corporation 
+Marshall Islands 
+Leases Golar Seal 1,2 
+Golar Hull M2022 Corporation  
+Marshall Islands 
+Leases Golar Crystal 1,2 
+Golar Hull M2027 Corporation 
+Marshall Islands 
+Owns and operates Golar Bear2 
+Golar Hull M2047 Corporation 
+Marshall Islands 
+Leases Golar Snow 1,2 
+Golar Hull M2048 Corporation 
+Marshall Islands 
+Leases Golar Ice 1,2 
+Golar LNG NB10 Corporation 
+Marshall Islands 
+Leases Golar Glacier 1,2 
+Golar LNG NB11 Corporation 
+Marshall Islands 
+Leases Golar Kelvin 1,2 
+Golar LNG NB12 Corporation 
+Marshall Islands 
+Owns and operates Golar Frost2 
+Golar LNG NB13 Corporation  
+Marshall Islands 
+Leases Golar Tundra 1,2 
+Golar Management Norway AS 
+Norway 
+Vessel management company 
+Golar Management Malaysia SDN. BDH. 
+Malaysia 
+Vessel management company 
+Golar Management DOO  
+Croatia 
+Vessel management company 
+Golar Viking Management DOO 
+Croatia 
+Vessel management company 
+Golar Shoreline LNG Limited 
+ 
+Bermuda 
+Holding company (holds 6% of project 
+company in Ivory Coast)  
+Golar Hilli LLC (c) 
+Marshall Islands 
+Holding company 
+ 
+ 
+ 
+ 
+(a) In November 2018, Gimi MS Corporation ("Gimi MS Corp") was incorporated with Golar LNG Limited as sole shareholder. In February 2019, 
+the FLNG Gimi was transferred to Gimi MS Corp from Golar Gimi Corporation. In April 2019, First FLNG Holdings Pte. Ltd. ("First FLNG 
+Holdings"), an indirect wholly-owned subsidiary of Keppel Capital, acquired a 30% share in Gimi MS Corp..See note 5 of the Annual Report  
+2020 and Annual Report 2019 for further details. 
+ 
+(b) In July 2019, Gimi Holding Company Limited was incorporated and is wholly owned by Golr LNG. In October 2019, Golar LNG Limited 
+transferred its ownership in Gimi MS Corporation to Gimi Holding Company Limited. 
+ 
+(c) In February 2018, Golar Hilli LLC was incorporated with Golar LNG Limited as sole member. In July 2018, shares in Golar Hilli Corp. (a 89% 
+owned subsidiary of Golar Hilli LLC) were exchanged for Hilli Common Units, Series A Special Units and Series B Special Units. See note 5 
+of the Annual Report 2020 and Annual Report 2019 for further details. 
+ 
+ 
+(1) The above table excludes mention of the lessor variable interest entities (''lessor VIEs'') that Golar LNG Limited has leased vessels from under 
+finance leases. The lessor VIEs are wholly-owned, newly formed special purpose vehicles ("SPVs") of financial institutions. While Golar LNG 
+Limited does not hold any equity investments in these SPVs, Golar LNG Limited has concluded that it are the primary beneficiary of these lessor 
+VIEs and accordingly have consolidated these entities into its financial results. 
+ 
+(2) The vessel is part of the Vessel SPA under which Cool Company acquired eight vessels from Golar LNG Limited
+
+--- Page 57 ---
+Golar LNG Limited, 11 March 2022 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+45
+Annex 4 Complete fleet list 
+ 
+The following table lists our current owned shipping fleet as of 31 December 2021: 
+ 
+Vessel Name 
+Year of 
+Delivery 
+Capacity 
+Cubic 
+Flag 
+Type 
+Charterer/ Pool 
+Arrangement 
+Current Charter 
+Expiration 
+Golar Arctic 
+2003 
+140,000 
+Marshall Islands 
+LNGC Membrane 
+A major European 
+trading company 
+2022 
+Golar Bear (1,2) 
+2014 
+160,000 
+Marshall Islands 
+LNGC Membrane 
+Cool Pool  
+2021 - 2024 
+Golar Crystal 
+(1,2) 
+2014 
+160,000 
+Marshall Islands 
+LNGC Membrane 
+Cool Pool 
+2021 - 2024 
+Golar Frost (1,2) 
+2014 
+160,000 
+Marshall Islands 
+LNGC Membrane 
+Cool Pool  
+2021 - 2024 
+Golar Glacier 
+(1,2) 
+2014 
+162,000 
+Marshall Islands 
+LNGC Membrane 
+Cool Pool 
+2021 - 2024 
+Golar Ice (1,2) 
+2015 
+160,000 
+Marshall Islands 
+LNGC Membrane 
+Cool Pool 
+N/A 
+Golar Kelvin (1,2) 
+2015 
+162,000 
+Marshall Islands 
+LNGC Membrane 
+Cool Pool  
+2021 - 2024 
+Golar Seal (1,2) 
+2013 
+160,000 
+Marshall Islands 
+LNGC Membrane 
+Cool Pool  
+2021 - 2024 
+Golar Snow (1,2) 
+2015 
+160,000 
+Marshall Islands 
+LNGC Membrane 
+Cool Pool 
+2021 - 2024 
+Golar Tundra (1) 
+2015 
+170,000 
+Marshall Islands 
+FSRU Membrane 
+Cool Pool  
+2021 - 2024 
+ 
+ 
+ 
+(1) Vessels in the Cool Pool allow certain substitution rights which means that any vessel within the Cool Pool is interchangeable with 
+another vessel of the same/similar technical specification and may not be considered to be dedicated to a particular charterer. 
+Furthermore, pool earnings are aggregated and then allocated to the pool participants in accordance with the number of days each of their 
+vessels are entered into the pool during the period. 
+(2) The vessel is part of the Vessel SPA under which Cool Company acquired eight vessels from Golar LNG Limited 
+ 
+ 
+ 
+The following table lists our vessels in the FLNG segment as of 31 December 2021: 
+ 
+ 
+ 
+(1) FLNG Hilli was converted into a FLNG from a LNG carrier which was originally constructed in 1975. She commenced her operations 
+under the LTA with the Customer in May 2018. The existing LTA is for two of the four liquefaction trains and provides the Customer 
+the option to increase liquefaction production. Golar LNG Limited’s economic ownership interest in FLNG Hilli comprises 44.6% of the 
+common units and 89.1% of each of the Series A Special Units and Series B Special Units in Golar Hilli LLC, the indirect disponent owner of 
+FLNG Hilli. 
+(2) FLNG Gimi was delivered to the Keppel shipyard in Singapore in early 2019 to undergo conversion from a LNG carrier to a FLNG. In 
+October 2020, we announced that we had confirmed a revised project schedule with BP for the Gimi GTA Project. which will result in 
+the target connection date for the FLNG Gimi, previously scheduled for 2022, as set out in the LOA, being extended by 11 months. Except for 
+the target connection date extension, the terms of the LOA remain unchanged. We have 70% ownership interest in FLNG Gimi. 
+(3) The Gandria is currently in lay-up and earmarked for conversion into a FLNG vessel. The conversion agreement is subject to certain 
+payments and lodging of a full Notice to Proceed.

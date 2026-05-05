@@ -1,0 +1,3494 @@
+--- Page 1 ---
+Entra ASA 
+ 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Advisor: 
+ 
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Oslo, 06 December 2024
+
+--- Page 2 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+2
+Important information 
+ 
+The Base Prospectus is based on sources such as annual reports and publicly available information and forward-
+looking information based on current expectations, estimates and projections about global economic conditions, as 
+well as the economic conditions of the regions and industries that are major markets for Entra ASA’s (the Company) 
+lines of business. 
+ 
+A prospective investor should consider carefully the factors set forth in Chapter 1 Risk factors, and elsewhere in the 
+Prospectus, and should consult his or her own expert advisors as to the suitability of an investment in the bonds. 
+ 
+IMPORTANT – EEA AND UK RETAIL INVESTORS - If the Final Terms in respect of any bonds includes a legend 
+titled "Prohibition of Sales to EEA Retail Investors" and/or "Prohibition of Sales to UK Retail Investors", the bonds 
+are not intended to be offered, sold or otherwise made available to and should not be offered, sold or otherwise 
+made available to any retail investor in the European Economic Area (‘EEA’) and/or in the United Kingdom (the 
+“UK”). Consequently no key information document required by Regulation (EU) No. 1286/2014 (as amended) (the 
+PRIIPs Regulation) (and for UK, as it forms part of domestic law by virtue of the EUWA (the UK PRIIPs Regulation)) 
+for offering or selling the bonds or otherwise making them available to retail investors in the EEA and/or the UK has 
+been prepared and therefore offering or selling the bonds or otherwise making them available to any retail investor 
+in the EEA and/or the UK may be unlawful under the PRIIPs Regulation and/ or the UK PRIIPS Regulation. 
+ 
+MiFID II product governance and/or UK MiFIR product governance – The Final Terms in respect of any bonds 
+will include a legend titled “MiFID II product governance” and/or “UK MiFIR product governance” which will outline 
+the target market assessment in respect of the bonds and which channels for distribution of the bonds are 
+appropriate. Any person subsequently offering, selling or recommending the bonds (a “distributor”) should take into 
+consideration the target market assessment; however, a distributor subject to MiFID II is responsible for undertaking 
+its own target market assessment in respect of the bonds (by either adopting or refining the target market 
+assessment) and determining appropriate distribution channels. 
+ 
+This Base Prospectus is subject to the general business terms of the Advisor, available at its website: www.dnb.no  
+and of the Manager(s), available at their websites. 
+ 
+The Advisor and the Manager(s) and/or any of its affiliated companies and/or officers, directors and employees may 
+be a market maker or hold a position in any instrument or related instrument discussed in this Base Prospectus and 
+may perform or seek to perform financial advisory or banking services related to such instruments. The Advisor's 
+and the Manager(s)’s corporate finance department may act as manager or co-manager for this Company in private 
+and/or public placement and/or resale not publicly available or commonly known.   
+ 
+Copies of this Base Prospectus are not being mailed or otherwise distributed or sent in or into or made available in 
+the United States. Persons receiving this document (including custodians, nominees and trustees) must not 
+distribute or send such documents or any related documents in or into the United States. 
+ 
+Other than in compliance with applicable United States securities laws, no solicitations are being made or will be 
+made, directly or indirectly, in the United States. Securities will not be registered under the United States Securities 
+Act of 1933 and may not be offered or sold in the United States without registration or an applicable exemption from 
+registration requirements. 
+ 
+The distribution of the Base Prospectus may be limited by law also in other jurisdictions, for example in non-EEA 
+countries. Approval of the Base Prospectus by Finanstilsynet (the Norwegian FSA) implies that the Base Prospectus 
+may be used in any EEA country. No other measures have been taken to obtain authorisation to distribute the Base 
+Prospectus in any jurisdiction where such action is required. 
+ 
+The Base Prospectus dated 06 December 2024 together with a Final Terms and any supplements to these 
+documents constitute the Prospectus. 
+ 
+The content of this Base Prospectus does not constitute legal, financial or tax advice and potential investors should 
+seek legal, financial and/or tax advice. 
+ 
+Unless otherwise stated, this Base Prospectus is subject to Norwegian law. In the event of any dispute regarding 
+the Base Prospectus, Norwegian law will apply.
+
+--- Page 3 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+3
+TABLE OF CONTENTS:  
+ 
+DESCRIPTION OF THE BASE PROSPECTUS ..............................................................................4 
+1 RISK FACTORS .................................................................................................................5 
+2 DEFINITIONS ...................................................................................................................8 
+3 PERSONS RESPONSIBLE ....................................................................................................9 
+4 STATUTORY AUDITORS ................................................................................................... 10 
+5 INFORMATION ABOUT THE ISSUER ................................................................................... 11 
+6 BUSINESS OVERVIEW ..................................................................................................... 12 
+8 ADMINISTRATIVE, MANAGEMENT AND SUPERVISORY BODIES ............................................. 20 
+9 MAJOR SHAREHOLDERS .................................................................................................. 22 
+10 FINANCIAL INFORMATION CONCERNING THE COMPANY'S ASSETS AND LIABILITIES, 
+FINANCIAL POSITION AND PROFITS AND LOSSES. ..................................................... 24 
+11 REGULATORY DISCLOSURES .......................................................................................... 26 
+12 DOCUMENTS AVAILABLE ................................................................................................ 30 
+13 FINANCIAL INSTRUMENTS THAT CAN BE ISSUED UNDER THE BASE PROSPECTUS ................ 31 
+CROSS REFERENCE LIST .................................................................................................... 41 
+ADVISOR’S DISCLAIMER .................................................................................................... 42 
+ANNEX 1 ARTICLES OF ASSOCIATION FOR ENTRA ASA .......................................................... 43 
+ANNEX 2 TEMPLATE FOR FINAL TERMS FOR FIXED AND FLOATING RATE BONDS ...................... 45
+
+--- Page 4 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+4
+Description of the Base Prospectus 
+ 
+Under this Base Prospectus (as supplemented and amended from time to time), the Issuer may from time to time 
+issue and list bonds (“Bonds”) denominated in any currency agreed between the Issuer and the relevant dealer.  
+The Bonds will be issued on a senior basis as secured or unsecured, with fixed or floating interest rate. The Bonds 
+may have put- and call options and they may be green or sustainability-linked. 
+The Bonds will be electronically registered in the Norwegian Central Securities Depository or any other CSD that 
+allows for bonds issued in uncertificated and dematerialised book-entry form. 
+There is no limit with regard to the maximum aggregate nominal amount of all bonds from time to time outstanding 
+under the prospectus. However, each issue of bonds will have either a given borrowing amount in the case where 
+there is only one tranche, or a given borrowing limit in the case of more than one tranche.     
+The Bonds may be issued on a continuing basis to any dealer that the Issuer decides upon.  
+The Base Prospectus has been approved by the Financial Supervisory Authority of Norway as competent authority 
+under Regulation (EU) 2017/1129, as amended (the “Prospectus Regulation”) as a base prospectus issued in 
+compliance with the Prospectus Regulation for the purpose of giving information with regard to the bonds issued 
+under the prospectus. The Base Prospectus is valid within twelve months from the date of the Base Prospectus. 
+ 
+Information on website(s) mentioned in the Base Prospectus/the Final Terms does not form part of the Base 
+Prospectus/the Final Terms unless that information is incorporated by reference into the Base Prospectus/the Final 
+Terms.
+
+--- Page 5 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+5
+1 Risk factors  
+ 
+Investing in bonds issued by Entra ASA involves inherent risks. Entra ASA and its subsidiaries are engaged in the 
+development, letting, management, operation, purchase and sale of real estate in Norway. As the Company is the 
+operative company of the Group the risk factors for Entra ASA and the Group are deemed to be equivalent for the 
+purpose of this Base Prospectus.  If any of the following risks actually occur, the Company’s business, financial 
+position and operating results could be materially and adversely affected. The factors described below are 
+summarising the risks of which the Company is aware and represent the principal risks inherent in investing in 
+bonds issued by the Company. Occurrence of the risk factors described below may cause inability of Entra ASA to 
+pay interest, principal or other amounts on or in connection with the bonds.  
+ 
+In the category below, the Issuer sets out the most material risks, in its assessment, taking into account the negative 
+impact of such risk on the Issuer and the probability of its occurrence. 
+1.1 Risk factors related to the Issuer 
+ 
+Risks relating to interest rate fluctuations 
+Higher interest rates would affect the Group’s results of operations and cash flows. The Group has a gross nominal 
+interest-bearing debt of NOK 32.1 bn as of 30.09.24. The average remaining term for the Group's debt portfolio was 
+3.4 years. As at 30.09.24, 68.3 per cent of the Group’s financing was hedged at a fixed interest rate with a weighted 
+average maturity of 3.7 years. Higher interest rates could also negatively affect the valuation of the Group’s assets.  
+ 
+Risks related to the business of the Group and the industry in which the Group operates 
+The value of the Group’s assets is exposed to macroeconomic fluctuations. The Group’s properties are all located 
+in the largest cities in Norway, and slowdowns in the economic activity in Norway in general and these geographic 
+areas in particular could affect the demand for office space in the cities in which the Group operates.  
+ 
+A lower rate of inflation or reduced consumer price index could lead to lower than anticipated rental growth for the 
+Group’s properties and consequently potentially reduce future rental income and negatively affect property 
+valuations.  
+ 
+The Group could be unable to let a vacant property or re-let a property following the expiry of a tenancy at 
+economically attractive rates or at all. The failure by tenants of the Group to meet their obligations, or the termination 
+of lease agreements by tenants, could result in loss of rental income, increase in bad debts and decrease in the 
+value of the Group’s properties. The 20 largest tenants as of 30.09.24 stood for approximately 48.7 per cent of the 
+rental income. Termination of such lease contracts could thus affect the vacancy rate, results of operations and 
+valuation of the Group’s assets.  
+ 
+Risks related to property development 
+The Group is subject to development risks such as e.g. cost overruns, delays and other unforeseen events in its 
+business of development of commercial properties. As of 30.09.24 the project portfolio consisted of four 
+development projects with an estimated total project cost of NOK 3.2 bn of which NOK 2.1 bn was accrued, see 
+also section 6.2. Entra normally spend between NOK 1 and 2 bn on its project portfolio each year.  
+ 
+The Group is dependent on the services of external construction companies and service providers in connection 
+with the development and construction of its property projects and is thus exposed to risks if a contractor should 
+experience financial or other difficulties.  
+ 
+Risks related to valuation of the Group’s property portfolio 
+Adjustment based on changes in the fair value of the Group’s properties or inaccuracies in calculations of fair value 
+could negatively affect the Group’s balance sheet and results of operations. The Property Appraisal Reports could 
+incorrectly assess the value of the Group’s properties. An incorrect valuation may affect the market value of the 
+outstanding bond issues. A too positive valuation may result in a higher market value, while a too negative valuation 
+may result in a lower market value. Further, a write-down of property values may affect the financial profile of the 
+company negatively, and/or may lead to a rating downgrade from the rating agency (Moody’s). A weakened credit 
+profile may also reduce the market value of the outstanding bond issues. 
+ 
+Risks relating to the financial profile of the Group 
+There are covenants in the Group’s bank loan agreements relating to the interest cover ratio and the loan-to-value 
+of property that restrict the Group’s ability to incur indebtedness above a certain level.  
+ 
+The Group’s degree of leverage could affect its ability to obtain additional financing for working capital, capital 
+expenditures, acquisitions, development or other general corporate purposes. The Group could require additional 
+capital in the future in order to execute its strategy, which may not be available on favourable terms, or at all. The 
+Group’s existing or future debt arrangements could limit the Group’s liquidity and flexibility in obtaining additional
+
+--- Page 6 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+6
+financing, in pursuing other business opportunities or corporate activities or the Company’s ability to declare 
+dividends to its shareholders. The Company is a holding company and is dependent upon cash flow from 
+subsidiaries to meet its obligations and in order to pay dividends to its shareholders. 
+ 
+A reduction in access to finance could further weaken the company’s global credit rating from Moody’s, and as such 
+the company’s refinancing possibilities and ability to finance new investments. In such a situation, the company 
+could be exposed to an increase in financing costs which would weaken the underlying result, debt service ability 
+and dividend capacity. Greater risk aversion in the financial markets could significantly weaken investor interest for 
+Entra’s debt instruments, hereunder have a negative impact on available financing terms and/or make access to 
+new financing less, if at all, available. 
+ 
+ 
+Climate risks  
+Regulatory changes resulting from climate related risks could cause the need for environmental investments in 
+property, plant and equipment. Increased severity of extreme weather events such as storms and floods are a long-
+term risk that could cause damage to property, plant, equipment and installations and may lead to increased 
+insurance cost and/or reduced customer satisfaction. Failure to comply and adapt to climate related matters is also 
+a significant reputation risk which could result in e.g., lack of tenant interest, higher cost of capital in the financial 
+market, and lack of ability to attract or retain talent.  
+1.2 Risk factors related to the Bonds 
+ 
+Financial risk 
+ 
+Market risk is the risk that the value of the Loan will decrease due to the change in value of the market risk factors. 
+The price of a single bond issue will fluctuate in accordance with the interest rate and credit markets in general, the 
+market view of the credit risk of that particular bond issue, and the liquidity of this bond issue in the market. In spite 
+of an underlying positive development in the Issuers business activities, the price of a bond may fall independent 
+of this fact. Bond issues with a relatively short tenor and a floating rate coupon rate do however in general carry a 
+lower price risk compared to loans with a longer tenor and/or with a fixed coupon rate. 
+ 
+Interest rate risk - is the risk that results from the variability of the NIBOR interest rate. The coupon payments, 
+which depend on the NIBOR interest rate and the Margin, will vary in accordance with the variability of the NIBOR 
+interest rate. The interest rate risk related to this bond issue will be limited, since the coupon rate will be adjusted 
+quarterly according to the change in the reference interest rate. The primary price risk for a floating rate bond issue 
+will be related to the market view of the correct trading level for the credit spread related to the bond issue at a 
+certain time during the tenor, compared with the credit margin the bond issue is carrying. A possible increase in the 
+credit spread trading level relative to the coupon defined credit margin may relate to general changes in the market 
+conditions and/or Issuer specific circumstances. However, under normal market circumstances the anticipated 
+tradable credit spread will fall as the duration of the bond issue becomes shorter. In general, the price of bonds will 
+fall when the credit spread in the market increases, and conversely the bond price will increase when the market 
+spread decreases. 
+ 
+Changes or uncertainty in respect of NIBOR and/or other interest rate benchmarks may affect the value or 
+payment of interest under the listed bonds 
+The Listed bonds are linked to NIBOR. NIBOR and other benchmark rates are the subject of recent national and 
+international regulatory guidance and proposals for reform including, without limitation, the Benchmark Regulation 
+and certain other international and national reforms. 
+ 
+The regulation and reform of "benchmarks" may adversely affect the value of Notes linked to or referencing 
+such "benchmarks" 
+Interest rates and indices which are deemed to be "benchmarks", (including NIBOR) are the subject of recent 
+national and international regulatory guidance and proposals for reform. Some of these reforms are already effective 
+whilst others are still to be implemented. These reforms may cause such benchmarks to perform differently than in 
+the past, to disappear entirely, or have other consequences which cannot be predicted. Any such consequence 
+could have a material adverse effect on any Bonds linked to or referencing such a "benchmark". 
+ 
+The Benchmarks Regulation could have a material impact on any Bonds linked to or referencing a “benchmark”, in 
+particular, if the methodology or other terms of the “benchmark” are changed in order to comply with the 
+requirements of the Benchmarks Regulation. Such changes could, among other things, have the effect of reducing, 
+increasing or otherwise affecting the volatility of the published rate or level of the “benchmark”. 
+ 
+Security 
+The bonds are unsecured. Unsecured bonds, in general, carry a higher risk than the secured bonds since a secured 
+bond will have a separate right to receive cover from the pledged asset in a bankruptcy or liquidation of the issuer, 
+that is not the case with an unsecured bond issue. As a result, unsecured bonds may pay a higher rate of interest
+
+--- Page 7 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+7
+than the secured bonds. However, the increased risk associated with unsecured bonds is mitigated by negative 
+pledge clauses and carve-out covenants in the bond agreements. Such negative pledge covenants regulate and 
+limit an issuer’s ability to grant security to other creditors, hence give such new creditors a right to receive cover 
+from a pledged asset, which the unsecured creditor is not part of in an event of default situation by the issuer. 
+ 
+In respect of the bonds issued as “Green Bonds” there can be no assurance that the relevant use of 
+proceeds will be suitable for the investment criteria of an investor. 
+ 
+The Issue is a green bond issue. The purpose of the issue is financing of Eligible Projects as defined in and 
+otherwise in accordance with the Issuer’s Green Bonds Framework. Each individual investor must assess whether 
+the Green Bonds comply with their own investment criteria. If not, there may be a possibility that the investor will 
+suffer a capital loss – or not be able to sell the bonds at the desired valuation levels or impact on the timing on the 
+divestment. 
+ 
+Entra has established a Green Bond Register for the purpose of monitoring Eligible Assets financed by the Green 
+Bonds issued by Entra, as well as to provide an overview of the allocation of the net proceeds from the Green 
+Bonds issued to the pool of Eligible Assets. There is risk connected to maintaining the environmental qualities in 
+the portfolio and thus to maintain a satisfactory level of Eligible Assets that are aligned with the Green Bond 
+Framework in the Green Bond Asset Pool.
+
+--- Page 8 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+8
+2 Definitions 
+ 
+Advisor: 
+DNB Bank ASA, DNB Markets, Dronning Eufemias gt 30, 0191 Oslo.  
+ 
+Annual Report of 2023 
+Entra ASA' financial report of 2023 
+ 
+Q1 Report of 2024 
+Entra ASA' Q1 report of 2024 
+Q2 Report of 2024 
+Entra ASA' Q2 report of 2024 
+Q3 Report of 2024 
+Entra ASA' Q3 report of 2024 
+ 
+Articles of Association 
+The articles of association of Entra ASA, as amended and currently in 
+effect. 
+ 
+Base Prospectus 
+This document dated 06 December 2024. 
+ 
+ 
+The Base Prospectus has been approved by the Norwegian FSA, as 
+competent authority under Regulation (EU) 2017/1129. The Norwegian FSA 
+only approves this Base Prospectus as meeting the standards of 
+completeness, comprehensibility and consistency imposed by Regulation 
+(EU) 2017/1129. Such approval should not be considered as an 
+endorsement of the Issuer that is the subject of this Base Prospectus. The 
+Base Prospectus has been drawn up as part of a simplified prospectus in 
+accordance with Article 14 of Regulation (EU) 2017/1129. 
+Board or  
+Board of Directors 
+The board of directors of Entra ASA 
+ 
+BREEAM 
+The world's leading sustainability assessment method for masterplanning 
+projects, infrastructure and buildings. 
+ 
+Entra’s Consensus Report 03 2024 
+Quarterly report compiled by Entra, outlining the average view of leading 
+market specialists in the Norwegian market on current and future rent levels 
+and yields. The report is publicly available https://www.entra.no/om-
+entra/nyheter-presse/entra-konsensusrapport-for-tredje-kvartal-2024 
+ 
+Companies Registry 
+The Norwegian Registry of Business Enterprises (Foretaksregisteret) 
+ 
+Company/Issuer/Entra 
+Entra ASA the parent company of the Group 
+ 
+Final Terms 
+Document to be prepared for each new issue of bonds under the 
+Prospectus. The template for Final Terms is included in the Base 
+Prospectus as Annex 2. 
+ 
+The template for Final Terms has been approved by the Norwegian FSA, 
+as competent authority under Regulation (EU) 2017/1129. The Norwegian 
+FSA only approves this template for Final Terms as meeting the standards 
+of completeness, comprehensibility and consistency imposed by 
+Regulation (EU) 2017/1129. Such approval should not be considered as an 
+endorsement of the quality of the securities that are the subject of this 
+template for Final Terms. Investors should make their own assessment as 
+to the suitability of investing in the securities. 
+ 
+Group 
+The Company and its subsidiaries. 
+ 
+IFRS 
+International Financial Reporting Standards 
+ 
+Manager(s): 
+Manager(s) will be specified in the Final Terms for each bond issue. 
+ 
+NOK 
+Norwegian kroner 
+ 
+P&L 
+Profit and Loss Statement 
+ 
+VPS or VPS System 
+The Norwegian Central Securities Depository, Verdipapirsentralen ASA 
+ 
+WAULT                                                  Weighted average unexpired lease term
+
+--- Page 9 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+9
+3 Persons responsible  
+3.1 Persons responsible for the information 
+Entra ASA, Biskop Gunnerus gate 14 A, 0185 Oslo, Norway is responsible for the information given in the Base 
+Prospectus. 
+3.2 Declaration by persons responsible 
+Entra ASA confirms that to the best of its knowledge, the information contained in the Base Prospectus is in 
+accordance with the facts and that the Base Prospectus makes no omission likely to affect its import.    
+ 
+ 
+Oslo, 06 December 2024 
+ 
+ 
+Entra ASA 
+ 
+ 
+ 
+ 
+ 
+__________________________ 
+Sonja Horn 
+CEO 
+ 
+ 
+ 
+3.3 Competent Authority Approval 
+ 
+The Base Prospectus has been approved by the Norwegian FSA, as competent authority under Regulation (EU) 
+2017/1129. The Norwegian FSA only approves this Base Prospectus as meeting the standards of completeness, 
+comprehensibility and consistency imposed by Regulation (EU) 2017/1129. Such approval should not be 
+considered as an endorsement of the Issuer that is the subject of this Base Prospectus. Such approval should not 
+be considered as an endorsement of the quality of the securities that are the subject of the template for Final Terms.  
+The Base Prospectus has been drawn up as part of a simplified prospectus in accordance with Article 14 of 
+Regulation (EU) 2017/1129. Investors should make their own assessment as to the suitability of investing in the 
+securities.
+
+--- Page 10 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+10
+4 Statutory Auditors   
+The statutory auditor for the Issuer for the period covered by the historical financial information in this Base 
+Prospectus has been Deloitte AS, independent State Authorised Public Accountants, Dronning Eufemias gate 14, 
+N-0191 Oslo. Telephone +47 23 27 90 00. 
+ 
+Deloitte AS is member of The Norwegian Institute of Public Accountants (Norwegian: Den Norske 
+Revisorforeningen).
+
+--- Page 11 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+11
+5 Information about the Issuer 
+5.1 Legal and commercial name of the Issuer 
+The legal name of the Issuer is Entra ASA, and the commercial name of the Issuer is Entra. 
+ 
+5.2 Domicile and legal form 
+The Company is domiciled and incorporated in Norway. The Company is a public limited liability company organized 
+under the laws of Norway, including the Norwegian Public Limited Liability Companies Act and is registered in the 
+Norwegian Companies Registry with registration number 999 296 432. LEI-code (legal entity identifier: 
+549300APU14LQKTYCH34. 
+ 
+The Company's registered business address is Biskop Gunnerus’ gate 14 A, 0185 Oslo. Postal address: Post box 
+52, Økern, 0508 Oslo, Norway. 
+ 
+The Company has no telephone number at its registered office according to the Norwegian Companies Registry. 
+The Company's telephone number is +47 21 60 51 00.  
+ 
+The Company’s website is www.entra.no. The information on the website does not form part of the Base Prospectus 
+unless that information is incorporated by reference into the Base Prospectus.
+
+--- Page 12 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+12
+6 Business overview 
+ 
+Entra is a leading owner, manager and developer of office properties in Norway and owns and manages a large 
+portfolio of centrally located high-quality properties in and around Oslo, and in Bergen and Stavanger. Entra has a 
+solid customer portfolio with a high proportion of public tenants. The company's strategy is focused on delivering 
+profitable growth, high customer satisfaction and environmental leadership. 
+ 
+As of 30 September 2024, the management portfolio totals approximately 1.2 million square meters, of which 
+approximately 85 per cent is in the Greater Oslo region. Entra has in addition 170,000 sqm in the project portfolio 
+and development sites. 
+ 
+Sustainability is an integrated part of Entra’s business, and environmental leadership has been an important part of 
+the Group’s business strategy for more than 15 years. Efforts are focused on areas where Entra can have the 
+greatest impact: 
+ 
+• 
+Environmental leadership is one of Entra’s three strategic pillars, and its Net Zero Carbon strategy is set 
+to contribute to world’s carbon reduction targets whilst also focusing on the use of natural resources and 
+circularity. 
+ 
+• 
+To operate Entra’s business and value chain in an ethical and sustainable manner is of key strategic 
+importance and seen as a prerequisite for its license to operate. 
+ 
+• 
+Growing social value, health, safety and wellbeing in the company’s properties, clusters and 
+communities is important and sensible from both a social and financial perspective. 
+ 
+• 
+Through investing in its culture and people, Entra continues to improve its business and competitive 
+edge, as well as being able to seize the opportunities emerging in its business environment. 
+ 
+ 
+6.1 Property and management portfolio 
+ 
+As of 30 September 2024, Entra’s property portfolio comprised 82 assets with a market value of 60.6 billion. 
+ 
+ 
+ 
+ 
+Entra’s management portfolio consists of 74 properties with a total area of approximately 1.2 million square 
+meters. As of 30.09.24, the management portfolio had a market value of 58.2 billion. The occupancy rate was 
+94.4 per cent for the total management portfolio. The weighted average lease term for the Group’s leases was 6.3 
+years for the management portfolio and 6.4 years when the project portfolio is included. For the management 
+portfolio, the public sector represents approximately 52 per cent of the total rental income. 
+ 
+All of Entra’s properties have in the quarter been valued by two external appraisers: Newsec and Cushman & 
+Wakefield Realkapital. The market value of the portfolio in Entra’s balance sheet is based on the average of the 
+appraisers’ valuation. Valuation of the management portfolio is performed on a property-by-property basis, using 
+individual DCF models and taking into account the property’s current characteristics combined with the external 
+appraiser’s estimated required rate of return and expectations on future market development. 
+ 
+The market value is defined as the external appraiser’s estimated transaction value of the individual properties on 
+valuation date. The project portfolio and development sites are valued based on the same principles, but with
+
+--- Page 13 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+13
+deduction for remaining investments and perceived risk as of valuation date. Un-zoned land is valued based on 
+the appraisers’ assumptions on the market value of the land using the best estimate on the zoning and 
+development process. 
+ 
+The portfolio net yield is 4.97 per cent. From the peak valuations in Q1 2022, the portfolio net yield is up 110 basis 
+points, and approximately 136 basis points adjusted for effects of higher-than-expected CPI growth, excluding the 
+divested Trondheim portfolio the increase in net yield from Q1 2022 is 118 basis points. 
+ 
+ 
+As of 30 September 2024, Entra’s management properties located in Oslo constituted 68 per cent of the portfolio 
+values whereas the properties located in Bergen constituted 11 per cent, Sandvika 11 per cent, Drammen 5 per 
+cent and Stavanger 5 per cent. 
+ 
+ 
+ 
+    
+ 
+6.2 Project development 
+ 
+Project development has always been the company’s major lever for profitable growth, and Entra has a proven 
+track record of developing and completing attractive and profitable new-build and redevelopment projects. Entra 
+has normally had 5–10 per cent of the portfolio in project development. As of 30 September 2024, Entra had four 
+ongoing development projects, including projects with capex exceeding NOK 100 million, totaling 71 600 sqm. 
+These projects are presented below. The company has considerable expertise and experience in zoning, planning, 
+building and redevelopment of office properties. 
+ 
+ 
+ 
+ 
+Development sites and project pipeline  
+Entra’s portfolio of development sites contains properties with zoned development potential, but where no project 
+start decision has been made. As of 30 September 2024, Entra had four development sites with a total area of 98 
+187 sqm. In addition, Entra continuously develops and extends the lettable area in its existing portfolio.
+
+--- Page 14 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+14
+ 
+6.3 Transactions and transaction market 
+ 
+Transaction market 
+The market volatility driven by elevated inflation and a higher interest rate environment has reduced the activity in 
+the property transaction market over the last two to three years. Prime yield in Oslo has expanded from around 3.3 
+percent to its current level of around 4.7 per cent. It is expected to remain at this level throughout 2024 before 
+slightly moving downwards if interest rates come down, according to Entra’s Consensus Report. 
+ 
+Total transaction volume ended up around 56 billion in 2023, which is almost half of the level seen in 2022 and less 
+than one third of the transaction volume in 2021. There are currently positive signals that the transaction market is 
+opening, and that the activity is picking up as consensus seems to be that interest rates and yields now have 
+reached peak levels. 
+ 
+The newbuild volume in Oslo has been limited over the last couple of years and continues to be low through 2024. 
+The significant increase in construction costs creates a temporary imbalance in return calculations. New projects 
+have become expensive relative to existing stock and newbuild projects continue to be postponed. 
+ 
+Year-on-year growth in the November CPI, used to adjust most of Entra’s leases in the following year, came in at 
+6.5 per cent in 2022 and 4.8 per cent in 2023. 12-month CPI for September 2024 came in at 3.0 per cent. 
+ 
+Transactions 
+Since 2022, Entra has divested 25 assets in Trondheim, Oslo, Bergen and Drammen for a total value of around 12 
+billion. The divestments have been done in line with the most recent book values at the time of the transactions. 
+This proves that Entra’s assets are attractive for several types of buyers and substantiates the market values as 
+calculated by two external appraisers every quarter. The divestments have strengthened the balance sheet, 
+improved debt metrics significantly and has crystallised Entra’s position as a premium office provider with focus on 
+the Greater Oslo area and Bergen. 
+ 
+Entra will continue to optimise its high-quality management and project portfolio through a flexible acquisition and 
+divestment strategy, allowing Entra to adapt to feedback from customers and market changes, and to create and 
+respond to market opportunities as they arise. 
+ 
+Entra actively seeks to improve the quality of its property portfolio and focus on selected properties and urban 
+development projects in specific areas within its core markets. Targeted locations include both areas in the city 
+centers and selected clusters on public transportation hubs outside the city centers.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.4 Letting and letting market. 
+ 
+The letting market
+
+--- Page 15 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+15
+The activity level in the Greater Oslo letting market has been high year to date, however with lower signed volumes 
+than normal in the third quarter. The work-from-home trend seems to have been reversed in Norway, and the office 
+activity is in total less than 10 per cent lower than pre-pandemic levels according to a study from Akershus 
+Eiendom/JLL. And as working from home primarily occurs on Fridays and Mondays, demand for office space is 
+only marginally impacted as tenants need to take peak days at the office into account. 
+ 
+Office vacancy in the largest cities of Norway remain at low levels. According to Entra’s Consensus Report, office 
+vacancy in Oslo has increased slightly over the last two years but is expected to remain around current levels 
+between six and seven per cent in the years to come. There has been a broad and robust growth in market rents 
+over the last years. Expectations for higher employment growth combined with low vacancy and low newbuild 
+volumes give room for continued market rental growth, although at a slower pace than seen over the last years. 
+ 
+In Bergen, the overall office vacancy is currently around eight per cent and around six per cent in the city centre. 
+The activity level in the letting market is high, and there is limited supply and solid demand for modern premises in 
+the city centre. 
+ 
+ 
+Letting activity in 2023 and first three quarters of 2024 
+Gross letting in 2023 including renegotiated contracts was 483 million, and lease contracts with a total value of 147 
+million were terminated. Net letting, defined as the annualised rent of new lease contracts plus lease-up on 
+renegotiated contracts less terminated contracts, came in at 59 million. The letting activity has been strong the last 
+quarters, with positive net letting of 41 million in the first half of 2024. The pipeline of leads for new leases was 
+consequently less progressed in the third quarter. Combined with a slower letting market, and loss of three larger 
+renegotiations, net letting came in at -76 million (31 million) in the third quarter.   
+ 
+The timing difference between net letting in the management portfolio in the quarter and its effect on the financial 
+results is normally 6-12 months, while new contracts signed in the project portfolio tend to have an even later impact 
+on the results. Reference is made to the project development section for further information regarding project 
+completion. 
+ 
+ 
+ 
+ 
+ 
+Tenants and tenant structure 
+Entra’s tenant base comprises mainly of public sector and high-quality private tenants on long-term leases. As of 
+30 September 2024, public sector tenants accounted for 52 per cent of total contractual rent. As of 30 September
+
+--- Page 16 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+16
+2024, the management properties had around 500 tenants, and the 20 largest tenants’ share of Entra’s rental 
+income represents 49 per cent 
+ 
+The following table sets out Entra’s 20 largest tenants as of 30 September 2024. 
+ 
+ 
+ 
+6.5 ESG 
+ 
+In 2023, Entra ASA updated their Green Finance Framework which replaced the initial Green Finance Framework 
+established in April 2018. As part of ENTRAs ongoing commitment to sustainability, a Green Bond Framework (the 
+“Framework”) has been further developed. The Green Finance Framework 2023 is available at: 
+https://www.entra.no/investor-relations/financing 
+ 
+Entra will update its framework when deemed appropriate and thus give Entra the opportunity to continue with the 
+issuance of green bonds. Updated financing frameworks will be published on the company’s website. The 
+applicable framework for the individual bond loan will be set out in the Final Terms. 
+ 
+The framework is structured together with SEB and is to be aligned with the 2021 ICMA Green Bond Principles 
+(GBP) and LMA and APLMA Green Loan Principles (GLP) 2023.  
+ 
+In addition to Green Finance Instruments issued by Entra, the company may have Green Loans provided by lending 
+institutions. The same asset criteria for eligible assets specified in the Green Finance Framework may apply for 
+Green Loans. It is the intention of ENTRA to follow the best practices, in relation to Green Bonds as the market
+
+--- Page 17 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+17
+standards develop. Therefore, this Framework may be amended and/or updated to reflect these changes in market 
+practice. 
+6.5.1 Use of proceeds 
+ 
+The proceeds raised based on the Green Financing Framework can be applied towards new Eligible Projects and 
+to refinance existing assets, defined as assets older than 12 months. Due to the long-term nature of ENTRA’s 
+assets, refinancing of Eligible Projects under this framework will not be subject to a look-back period. In this 
+Framework, each Eligible Assets category has been mapped to the SDGs in accordance with the High-Level 
+Mapping to the Sustainable Development Goals published by ICMA. 
+  
+Exclusions 
+Green Bond net proceeds will not be allocated to Assets for which the purpose of the Eligible Assets is fossil energy 
+production, nuclear energy generation, weapons and defense, potentially environmentally harmful resource 
+extraction (such as rare-earth elements or fossil fuels), gambling or tobacco. ENTRA’s Green Bonds will not finance 
+fossil fuel generation projects. 
+ 
+ 
+6.5.2 Process for project evaluation and selection 
+Entra has established a Green Bond Committee (GBC) to evaluate and select projects that are in line with the 
+criteria set out in the “Use of Proceeds” section. The committee meets at least on an annual basis or more 
+frequently when needed. The Green Finance Committee is comprised of representatives from treasury and 
+Project development (with sustainable competence), where the group sustainability representative holds the right 
+to veto. In addition to screening for projects eligible for green financing, the GBC must on an annual basis ensure 
+that the green buildings pool is updated to reflect the actual portfolio. The Green Bond Committee is responsible 
+for:  
+ 
+• 
+Evaluating the compliance of proposed assets with the eligibility criteria outlined in the Use of Proceeds 
+section above.  
+ 
+• 
+Ensuring that the pool of Eligible Assets is aligned with the categories and criteria as specified in the Use 
+of Proceeds section. 
+ 
+• 
+Replacing assets that no longer meet the eligibility criteria (e.g. following divestment, liquidation, concerns 
+regarding alignment of underlying activity/asset-characteristics with eligibility criteria, regulatory changes 
+or the like)
+
+--- Page 18 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+18
+ 
+On a best effort basis, reviewing, modifying, and updating the content of the Green Finance Framework, and 
+managing any future updates of this document to reflect relevant changes in the Company’s corporate strategy, 
+technology and market developments and/or regulatory changes. 
+ 
+6.5.3 Management of proceeds 
+Entra will establish a Green Bond Register for the purpose of monitoring Eligible Assets financed by the Green 
+Bonds issued by Entra, as well as to provide an overview of the allocation of the net proceeds from the Green 
+Bonds issued to the pool of Eligible Assets. The value of the Eligible Assets detailed in the Green Bond Register 
+will at least equal the aggregate net proceeds of all outstanding Entra Green Bonds. There may be periods when 
+the total outstanding net proceeds of Green Bonds exceed the value of the Eligible Assets in the Green Bond 
+Register. Proceeds yet to be allocated to Eligible Assets will be held in accordance with Entra’s liquidity 
+management policy and managed as such. For the sake of clarity, no fund will be allocated outside the defined pool 
+of Eligible Assets. The Green Bond Register will form the basis for the impact reporting, 
+6.5.4 Reporting 
+To enable investors to follow the development and provide insight to prioritised areas, Entra will provide an annual 
+Green Bond Report. The Report will consist of an allocation report and an impact report:  
+ 
+The Report will include the following information:  
+a) a list of all properties and projects financed and a brief description and expected impact;  
+b) a list of outstanding Green Bonds and their share of the pool of Eligible Assets  
+ 
+The Impact Reporting will include the following information:  
+The impact reporting aims to disclose the environmental impact of the Eligible Assets financed under this 
+Framework. Entra will strive to report on the environmental impact of Eligible Assets financed by Green Bonds when 
+feasible and subject to data availability. The information may be provided on an aggregated portfolio basis because 
+of confidentiality agreements, competitiveness consideration, or numerous Eligible Assets limiting the amount of 
+detail that can be made available. The impact assessment is provided with the reservation that not all related data 
+can be covered and that calculations therefore will be on a best effort basis, Entra will provide best estimates of 
+future energy performance levels. The impact assessment will, if applicable, be based on the Key Performance 
+Indicators (KPIs) presented in the table below: 
+ 
+ 
+ 
+Taxonomy Alignment  
+Entra will strive to finance Taxonomy aligned assets and will follow the development of the Taxonomy going forward. 
+To show Entra’s commitment to Taxonomy alignment, Entra will report on the fraction of the Green Financing that 
+is being financed aligned with the “Partial Alignment-approach”. This will be displayed on a sub-category basis. 
+6.5.5 External review 
+Second party opinion (pre-issuance)  
+Entra will have its Green Bonds Framework reviewed by Cicero who will issue a Second Opinion. The Second 
+Opinion as well as the Green Bonds Framework will be made publicly available on Entra’s web page.  
+ 
+Third-Party Review (post-issuance)  
+Entra has appointed an external independent auditor to annually assure that the selection process for the financing 
+of Eligible Assets and that the allocation of the net proceeds of the Green Bonds are done in accordance with 
+Entra’s Green Finance Framework. The Green Finance Framework, the second party opinion issued by Cicero, 
+and the Green Bond Report will be publicly available on Entra’s website.
+
+--- Page 19 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+19
+7 Trend information 
+7.1 Prospects and financial performance 
+There has been no material adverse change in the prospects of the Issuer since the date of its last published audited 
+financial statements.  
+ 
+There has been no significant change in the financial performance of the Group since the end of the last financial 
+period for which financial information has been published to the date of the Base Prospectus.
+
+--- Page 20 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+20
+8 Administrative, management and supervisory bodies 
+8.1 Information about persons 
+ 
+Board of Directors 
+The table below set out the names of the members of the Board of Directors of Entra ASA:  
+ 
+Name  
+Position  
+ 
+Ottar Ertzeid 
+Chair 
+ 
+Joacim Sjöberg 
+Board member 
+ 
+Widar Salbuvik 
+Board member 
+ 
+Hege Toft Karlsen 
+Board member 
+ 
+Camilla AC Tepfers 
+Board member 
+ 
+Ewa Wassberg 
+Board member 
+ 
+Nina Eriksen 
+Employee representative 
+ 
+Glenn Gustavsen 
+Employee representative 
+ 
+ 
+The address for each member of the Board of Directors is Entra ASA, Biskop Gunnerus gate 14 A, 0185 Oslo 
+ 
+Ottar Ertzeid, Chair 
+Board Chair in Entra since 2022. 
+Education: MSc in Business (“Siviløkonom”) from BI Norwegian Business school. 
+ 
+Ertzeid serves as vice chair in Verdipapirenes Sikringsfond, Argentum and Dextra Artes and as board member in 
+Telenor, DNB Livsforsiking and Luminor Bank. 
+ 
+Joacim Sjöberg, Board memeber 
+Board member in Entra since 2022. 
+Education: Master of Law/LLM University of Stockholm 
+ 
+He is the CEO in Castellum AB and serves as board member in several companies. 
+ 
+Widar Salbuvik, Board member 
+Board member in Entra since 2016. 
+Education: Economics and Business Administration from the Norwegian School of Economics. 
+ 
+Salbuvik is an independent business advisor and investor. He also serves as chair of the board, vice chair and 
+board member in several companies. 
+ 
+Hege Toft Karlsen, Board member 
+Board member in Entra since 2021. 
+Education: Law master degree from the University in Bergen, Attorneyat-law and AMP from Harvard 
+Business School. 
+ 
+Toft Karlsen serves as board member in Vipps Mobilepay and BankID BankAxept. 
+ 
+Camilla AC Tepfers, Board member 
+ 
+Board member in Entra since 2019. 
+Education: MSc from the Norwegian University of Science and Technology (NTNU). 
+ 
+Tepfers serves as co-founder and partner of inFuture. She serves as board member in SpareBank 1 SR-Bank, 
+Dyreparken Utvikling AS and Infuture AS. 
+ 
+Ewa Wassberg, Board member 
+Board member in Entra since 2024 
+Education:  Bachelor degree from the School of Economics at the University of Gothenburg 
+ 
+Wassberg serves as CFO and member of the Group Management in Fastighets Balder AB.
+
+--- Page 21 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+21
+Nina Eriksen, Employee representative 
+Board member in Entra since 2024. 
+Education: Master in Civil and Environmental Engineering. 
+ 
+Eriksen is a project manager in Entra. 
+ 
+Glenn Gustavsen, Employee representative 
+Board member in Entra since 2024. 
+Education: Certified engineer, certified electrician and building operator. 
+ 
+Gustavsen is a Technical Advisor in Entra. 
+ 
+Group Management 
+The table below set out the names of the members of the Group Executive Board: 
+ 
+Name  
+Position  
+Sonja Horn 
+Ole Anton Gulsvik 
+Chief Executive Officer   
+Chief Financial Officer   
+Kjetil Hoff 
+Chief Operating Officer 
+Per Ola Ulseth 
+Executive Vice President Project Development 
+Hallgeir Østrem 
+Executive Vice President Legal and Procurement 
+Carine Blyverket 
+Executive Vice President Market and Business Development 
+Kristine Hilberg 
+Executive Vice President HR & Organization 
+ 
+The address for each member of the Management is Entra ASA, Biskop Gunnerus gate 14 A, 0185 Oslo 
+ 
+Sonja Horn, Chief Executive Officer  
+Sonja Horn has been with Entra since 2013. 
+Education: MSc in Business (“Siviløkonom”) from BI Norwegian Business school. 
+ 
+Ole Anton Gulsvik, Chief Financial Officer   
+Ole Anton Gulsvik has been with Entra since August 2024. 
+Education: MSc from the Norwegian University of Science and Technology (NTNU) 
+ 
+Kjetil Hoff, Chief operating officer 
+Kjetil Hoff has been with Entra since 2014. 
+Education: MSc in Business (“Siviløkonom”) from the Norwegian School of Economics (NHH). 
+ 
+Per Ola Ulseth, Executive Vice President Project Development 
+Per Ola Ulseth has been with Entra since 2018. 
+Education: MSc from the Norwegian University of Science and Technology (NTNU), Executive leadership 
+programme from IMD Lausanne, Switzerland. 
+ 
+Hallgeir Østrem, Executive Vice President Legal and Procurement 
+Hallgeir Østrem has been with Entra since 2013. 
+Education: Law degree (Cand.jur) from the University of Bergen. 
+ 
+Carine Blyverket, Executive Vice President Market and Business Development 
+Carine Blyverket has been with Entra since 2020. 
+Education: MSc Leadership and Organisational psychology from BI Norwegian Business school. 
+ 
+Kristine Hilberg, Executive Vice President HR & Organization 
+Kristine Hilberg Tunstad has been with Entra since 2013. 
+Education: Master in HR Management Griffith University, Studies in Business Administration from BI Norwegian 
+Business school. 
+ 
+ 
+ 
+8.2 Potential conflicts of interest 
+There are no potential conflicts of interest between any duties carried out on behalf of the Issuer by the persons 
+referred to in item 8.1 and their private interests and/or other duties.
+
+--- Page 22 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+22
+9 Major shareholders 
+9.1 Ownership  
+As of the date of this Base Prospectus Entra’s share capital is NOK 182,132,055 divided into 182,132,055 shares, 
+each with a par value of NOK 1 per share. Entra has one class of shares and all shares provide equal rights, 
+including the right to any dividends. 
+ 
+ 
+As of 11 October 2024, Castellum AB held shares equaling 33.33 % of the shares and votes in Entra ASA and 
+Fastighets AB Balder (“Balder”) held shares equaling 39.98 % (in its own name and through nominee accounts) of 
+the shares and votes in Entra ASA.   
+ 
+The 20 largest shareholders (of which most are nominee accounts) as registered in VPS on 11 October 2024 is 
+listed below.
+
+--- Page 23 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+23
+9.2 Change of control of the company 
+ 
+There are no arrangements, known to the Company, the operation of which may at a subsequent date result in a 
+change in control of the Company.
+
+--- Page 24 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+24
+10 Financial information concerning the Company's assets 
+and liabilities, financial position and profits and losses. 
+10.1 Financial statements 
+The consolidated financial statements have been prepared in accordance with International Financial Reporting 
+Standards (IFRS) and interpretations by the IFRS Interpretation Committee (IFRIC), as adopted by the EU, as well 
+as additional Norwegian reporting requirements pursuant to the Norwegian Accounting Act. The Group’s accounting 
+policies is shown in Annual Report of 2023, note 2, page 141-143. Entra ASA’s accounting policies is shown in 
+Annual Report of 2023, note 2, page 183-185. 
+ 
+According to the Regulation (EU) 2017/1129 of the European Parliament and of the Council, information in a 
+prospectus may be incorporated by reference.  
+ 
+Because of the complexity in the historical financial information and financial statements this information is 
+incorporated by reference to Q1 Report 2024, Q2 Report 2024, Q3 Report 2024 and the Annual Report 2023. 
+ 
+Please see Cross Reference List for complete references.   
+ 
+ 
+Q3 
+Q2 
+Q1 Report                 Annual Report 
+ 
+  
+2024 
+Unaudited 
+2024 
+Unaudited 
+2024 
+  Unaudited 
+               2023 
+              Audited 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Entra ASA Consolidated 
+Page(s) 
+Page(s) 
+Page(s) 
+Page(s) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Statement of comprehensive 
+income  
+18 
+19 
+18 
+137 
+ 
+Balance Sheet  
+ 
+19 
+ 
+20 
+ 
+19 
+138 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Statement of changes in equity 
+20 
+21 
+20 
+139 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Statement of cash flow 
+20 
+21 
+  
+20 
+140 
+ 
+ 
+Notes  
+21-25 
+22-26 
+21-25 
+141-178 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Entra ASA 
+ 
+ 
+ 
+ 
+ 
+Statement of income  
+ 
+ 
+ 
+180 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Balance Sheet  
+ 
+ 
+          
+181 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cash flow statement 
+ 
+ 
+ 
+182 
+ 
+ 
+Notes 
+ 
+ 
+ 
+183-195 
+ 
+ 
+10.2 Auditing of annual financial information 
+The financial information for 2023 has been audited.  
+ 
+A statement of audited financial information is given in Annual Report 2023 page 196-200. 
+ 
+10.3 Legal and arbitration proceedings   
+There are no governmental, legal or arbitration proceedings (including any such proceedings which are pending 
+or threatened of which the issuer is aware), during a period covering at least the previous 12 months which may 
+have, or have had in the recent past, significant effects on the Issuer and/or Group's financial position or 
+profitability.
+
+--- Page 25 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+25
+10.4 Significant change in the Issuer’s financial position 
+There has been no significant change in the financial position of the Group which has occurred since the end of 
+the last financial period for which either audited financial statements or interim financial information has been 
+published.
+
+--- Page 26 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+26
+11 Regulatory disclosures 
+The table below set outs a short summary of the information the Company has disclosed under Regulation (EU) No 
+596/2014, which is relevant as at the date of the Base Prospectus, in the 12 months' period prior to the date of this 
+Base Prospectus.  
+Additional regulated information required to be disclosed under the laws of a member state 
+Date 
+Information 
+24.10.2024 
+ 
+ 
+ 
+22.10.2024 
+ 
+ 
+ 
+03.09.2024 
+ 
+ 
+ 
+16.08.2024 
+ 
+ 
+ 
+28.06.2024 
+ 
+ 
+ 
+ 
+25.06.2024 
+ 
+21.06.2024 
+ 
+ 
+ 
+18.06.2024 
+ 
+ 
+ 
+06.06.2024 
+Re-opening of commercial paper issue 
+Entra ASA has re-opened the commercial paper issue with ISIN NO0013383430, maturing on 
+20 December 2024, for an additional NOK 100,000,000. Following this transaction, the total 
+amount outstanding is NOK 250,000,000. 
+Issues commercial paper 
+Entra ASA has issued a new commercial paper ISIN NO0013383430 with term from 
+25.10.2024 to 20.12.2024. The coupon is 4.90 % p.a., and the first tranche amounts to NOK 
+150,000,000. 
+Issues commercial paper 
+Entra ASA has issued a new commercial paper ISIN NO0013329953 with term from 
+10.09.2024 to 10.03.2025. The coupon is 5.20 % p.a, equivalent to an issue spread of 6mn 
+NIBOR + 0.42 % p.a. The first tranche amounts to NOK 300,000,000. 
+Issues commercial paper 
+Entra ASA has issued a new commercial paper ISIN NO0013318659 with term from 21.08.2024 
+to 21.02.2025. The coupon is 5.35 % p.a, equivalent to an issue spread of 6mn NIBOR + 0.49 
+% p.a. The first tranche amounts to NOK 500,000,000. 
+Sale of Universitetsgata 11 (Hotel Savoy) in Oslo 
+Entra has sold Universitetsgata 11(Hotel Savoy) in Oslo for a total transaction 
+value of NOK 225 million, which is approximately 28 per cent above book values 
+as of 31 March 2024.The proceeds will be used to strengthen Entra's balance sheet and the 
+transaction will close on 28th June 2024. 
+Green Bond report 2023 
+Disclosure of the Green Bond report 2023 
+Issues commercial paper 
+Entra ASA has issued a new commercial paper ISIN NO0013267385 with term from 
+24.06.2024 to 19.12.2024. The coupon is 5.40 % p.a, equivalent to an issue 
+spread of 6mn NIBOR + 0.48 % p.a. The first tranche amounts to NOK 200,000,000. 
+Issues commercial paper 
+Entra ASA has issued a new commercial paper ISIN NO0013265934 with term from21.06.2024 
+to 21.08.2024. The coupon is 5.1 % p.a, equivalent to an issue spread 
+of 2mn NIBOR + 0.34 % p.a. The first tranche amounts to NOK 400,000,000. 
+Issues commercial paper 
+Entra ASA has issued a new commercial paper ISIN NO0013259622 with term from 10.06.2024 
+to 10.09.2024. The coupon is 5.2 % p.a, equivalent to an issue spread of 3mn NIBOR + 0.41 
+% p.a. The first tranche amounts to NOK 150,000,000. 
+31.05.2024 
+Closing of the Trondheim portfolio transction 
+Reference is made to the stock exchange releases on 1st February and 22nd March 
+2024 regarding sale of the Trondheim portfolio for NOK 6.45 bn. The transaction 
+is today successfully closed. 
+14.05.2024 
+Issues commercial paper 
+Entra ASA has issued a new commercial paper ISIN NO0013233064 with term from 21.05.2024 
+to 21.06.2024. The coupon is 4.96 % p.a, equivalent to an issue spread of 1mn NIBOR + 0.28 
+% p.a. The first tranche amounts to NOK 350,000,000. 
+23.04.2024 
+Annual General Meeting of Entra ASA 
+ 
+The annual general meeting of Entra ASA was held on 23 April 2023 (the "AGM"). 
+All proposals on the agenda were approved. The minutes from the AGM and appendices will  
+be made available on the company's website: http://www.entra.no 
+17.04.2024 
+Issues commercial paper 
+Entra ASA has issued a new commercial paper ISIN NO0013215475 with term from 22.04.2024 
+to 22.05.2024. The coupon is 4.95 % p.a, equivalent to an issue spread of 1mn NIBOR + 0.25 
+% p.a. The first tranche amounts to NOK 200,000,000. 
+17.04.2024 
+Issues commercial paper 
+Entra ASA has issued a new commercial paper ISIN NO0013215467 with term from 22.04.2024 
+to 23.12.2024. The coupon is 5.6 % p.a, equivalent to an issue spread of 8mn NIBOR + 0.65 
+% p.a. The first tranche amounts to NOK 300,000,000. 
+03.04.2024 
+New lease contract in Oslo
+
+--- Page 27 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+27
+ 
+Entra has signed a new lease contract with BankID BankAxept AS for approximately 4,000 sqm 
+in Biskop Gunnerus gate 14 (Posthuset) in Oslo. The lease contract has a duration of 10 years, 
+starting from December 2024. 
+22.03.2024 
+Signed binding agreement for sale of the Trondheim portfolio 
+ 
+Reference is made to the stock exchange release dated 1 February 2024 regarding a signed 
+letter of intent to sell Entra's Trondheim portfolio. The parties have today entered into a binding 
+agreement. 
+According to the agreement, Entra will sell its Trondheim portfolio containing 13 office 
+properties totaling 187,268 sqm for approximately NOK 6.45 bn (the "Transaction"), which is 1 
+% below book values as of Q4 2023 adjusted for land lease obligations recognized in the 
+balance sheet. The proceeds will be used to strengthen Entra's balance sheet. 
+In addition, Entra has agreed to sell the ongoing development project in Holtermanns veg 1-13 
+(phase 3) after completion. The project totals 15,500 sqm and is expected to be finalised in Q4 
+2025. 
+14.03.2024 
+Issues commercial paper 
+Entra ASA has issued a new commercial paper ISIN NO0013183657 with term from 20.03.2024 
+to 22.04.2024. The coupon is 4.90 % p.a, equivalent to an issue spread of 1mn NIBOR + 0.22 
+% p.a. The first tranche amounts to NOK 500,000,000. 
+30.01.2024 
+Entra appoints Ole Anton Gulsvik as new CFO 
+ 
+Entra has appointed Mr. Ole Anton Gulsvik (50) as new Chief Financial Officer ("CFO") of Entra. 
+Gulsvik will take over as CFO in Entra after Anders Olstad, who announced in October 2023 
+that he will resign as CFO no later than 1 May 2024. Gulsvik will take up his new position at the 
+latest 1 August 2024. Entra will appoint an interim CFO if necessary. 
+22.12.2023 
+Sale of three properties for NOK 1,020 million 
+ 
+Entra has sold the two properties in Cort Adelers gate 30 in Oslo and the property Marken 37 
+in Bergen for a total of NOK 1,020 million, which is 3.5 % below book values. 
+The transactions are in accordance with Entra's strategy to focus the portfolio on large, flexible 
+office buildings close to public transportation hubs and to divest non-core assets. The proceeds 
+will be used to strengthen Entra's balance sheet. The transactions will close in January 2024. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mandatory notification of trade primary insiders 
+ 
+Date 
+Information 
+17.07.2024 
+ 
+ 
+ 
+08.05.2024 
+Mandatory notification of trade by PDMR 
+Camilla AC Tepfers, member of the Board of Directors has today acquired 1,500 shares in 
+Entra ASA for an average price of NOK 129 per share through Tepfers Invest AS. Following 
+this transaction Tepfers Invest AS holds 1,500 shares in the company. 
+Allocation of shares to PDMR's under the share saving plan for employees in Entra.  
+ 
+All employees in Entra have received an offer to purchase shares for up to NOK 150,000 at 
+a 25 % discount in accordance with the authorization given on the annual general meeting on 
+23 April 2024. The offer price was NOK 82.2 per share and was calculated as the volume 
+weighted average share price in the period from 23 March to 23 April 2024 minus a 25 % 
+discount. 
+08.05.2024 
+Mandatory notification of trade by PDMR 
+Ottar Ertzeid, Chairman of the Board has today acquired 12,500 shares in Entra ASA for an 
+average price of NOK 106.74 per share. Following this transaction Mr Ertzeid holds 20,000 
+shares in the company. 
+23.04.2024 
+Mandatory notification of trade by PDMR 
+ 
+Ottar Ertzeid, Chairman of the Board has today acquired 7,500 shares in Entra ASA for an 
+average price of NOK 102.47 per share. Following this transaction Mr Ertzeid holds 7,500 
+shares in the company. 
+ 
+ 
+Half year and annual financial and audited reports/limited reviews 
+Date 
+Information 
+17.10.2024 
+ 
+12.07.2024 
+ 
+23.04.2024 
+Q3-24: Continued improvements in debt metrics, results impacted by divestments 
+Disclosure of the Q3 report 2024. 
+Q2/H1-24: Solid operations, results impacted by divestments 
+Disclosure of the Q2 report 2024. 
+Q1-24: Solid letting and office market fundamentals, results impacted by divestments, 
+higher interest costs and negative value changes 
+ 
+Disclosure of the Q1 report 2024.
+
+--- Page 28 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+28
+22.03.2024 
+Annual report 2023 
+Disclosure of the annual report for 2023. 
+09.02.2024 
+Q4/FY 2023: Solid rental income growth and operations, results continue to be impacted 
+by higher interest costs and negative value changes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inside information 
+Date 
+Information 
+01.02.2024 
+Signed letter of intent for sale of the Trondheim portfolio 
+ 
+Entra has signed a letter of intent ("LOI") regarding the sale of its Trondheim portfolio to E C 
+Dahls Eiendom AS ("E C Dahls Eiendom"), a wholly owned subsidiary of Reitan Eiendom AS. 
+ 
+According to the LOI, Entra will sell its Trondheim portfolio containing 13 office properties 
+totaling 187,268 sqm for approximately NOK 6.45 bn (the "Transaction"), which is 3 % below 
+book values as of Q3 2023 adjusted for land lease obligations recognized in the balance sheet. 
+The proceeds will be used to strengthen Entra's balance sheet. 
+ 
+In addition, Entra has agreed to sell the ongoing development project in Holtermanns veg 1-13 
+(phase 3) to E C Dahls Eiendom after completion. The project totals 15,500 sqm and is 
+expected to be finalised in Q4 2025.
+
+--- Page 29 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+29
+ 
+Acquisition or disposal of the Issuer’s own shares 
+Date 
+Information 
+16.05.2024 
+Transactions under the share buy-back program in connection with share savings scheme for 
+employees 
+16.05.2024 
+Initiation of share buyback in connection with share saving scheme for employees 
+Entra intends to purchase 60,854 own shares in connection with allocation of shares under the 
+share saving scheme for employees in Entra. The buyback will be made in accordance with the 
+authorization granted at the Annual General Meeting held on 23 April 2024. The buyback will 
+commence following this announcement and is expected to end no later than 24 June 2024. The 
+shares shall be purchased on Euronext Oslo Børs.
+
+--- Page 30 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+30
+12 Documents available  
+ 
+For the term of the Base Prospectus the following documents, where applicable, can be inspected at the Issuer's 
+website www.entra.no stated in clause 5.2: 
+ 
+(a) 
+the up to date articles of association of the Issuer; 
+ 
+(b) 
+all reports, letters, and other documents, valuations and statements prepared by any expert at the Issuer's 
+request any part of which is included or referred to in the Base Prospectus.
+
+--- Page 31 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+31
+13 Financial instruments that can be issued under the Base 
+Prospectus 
+The Base Prospectus, as approved in accordance with the EU Prospectus Regulation 2017/1129, allows for Bonds 
+to be offered to the public or admitted to trading on a regulated market situated or operating within any EEA country. 
+ 
+This chapter describes the form, type, definitions, general terms and conditions, return and redemption 
+mechanisms, rating and template for Final Terms associated with the Bonds. 
+ 
+Risk factors related to the Bonds are described in Chapter 1 Risk Factors. 
+ 
+13.1 Securities Form 
+A Bond is a financial instrument as defined in Norwegian Securities Trading Act’s (Verdipapirhandellovens)  
+§ 2-2.  
+ 
+The Bonds are electronically registered in book-entry form with the Securities Depository.  
+13.2 Security Type 
+Borrowing limit – tap issue 
+The Loan may be either open or closed for increase of the Borrowing Amount during the tenor. A tap issue can take 
+place until five banking days before the Maturity Date. If the issue is open, the First Tranche and Borrowing Limit 
+will be specified in the Applicable Final Terms. 
+ 
+Return 
+Fixed Rate (FIX) 
+A Bond issue with a fixed Interest Rate will bear interest at a fixed rate as specified in the applicable Final Terms.  
+ 
+The Interest Rate will be payable quarterly, semi-annually or annually on the Interest Payment Dates as specified 
+in the applicable Final Terms. 
+ 
+Floating Rate (FRN) 
+A Bond issue with a floating Interest Rate will bear interest equal to a Reference Rate plus a fixed Margin for a 
+specified period (3 or, 6 months). Interest Rate or Reference Rate may be deemed to be zero. The period lengths 
+are equal throughout the term of the Loan, but each Interest Payment Date is adjusted in accordance with the 
+Business Day Convention. The Interest Rate for each forthcoming period are determined two Business Days prior 
+to each Interest Payment Date based on the then current value of the Reference Rate plus the Margin. 
+ 
+The Interest Rate will be payable quarterly or semi-annually on the Interest Payment Dates as specified in the 
+applicable Final Terms. 
+ 
+The relevant Reference Rate, the Margin, the Interest Payment Dates and the current Interest Rate will be specified 
+in the applicable Final Terms. 
+ 
+Redemption 
+The Loan will mature in full at the Maturity Date at a price equal to 100 per cent. of the nominal amount.  
+ 
+The Issuer may have the option to prematurely redeem the Loan in full at terms specified in the applicable Final 
+Terms.  
+ 
+The Bondholders may have the right to require that the Issuer purchases all or some of the Bonds held by that 
+Bondholder at terms specified in the applicable Final terms. 
+ 
+Security 
+The Bonds may be either secured or unsecured. Details will be specified in the applicable Final Terms. 
+ 
+Negative pledge 
+The Bonds may have negative pledge clause. Details will be specified in the applicable Final Terms.
+
+--- Page 32 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+32
+13.3 Definitions 
+This section includes a summary of the definitions set out in any Bond Terms as well as certain other definitions 
+relevant for this Prospectus. The Bond Trustee may amend the definitions in the Bond Terms for any new issue of 
+bonds during the tenor of this Base Prospectus. This may cause the definitions in this Base Prospectus to be 
+incorrect and no longer valid for such new issues of bonds. If the definitions in this Base Prospectus at any point in 
+time no longer represents the correct understanding of the definitions set out in the Bond Terms, the Bond Terms 
+shall prevail. The Bond Terms are attached to the Final Terms. 
+ 
+Additional Bonds: 
+Means Bonds issued under a Tap Issue, including any Temporary Bonds as defined in the Bond 
+Terms. 
+ 
+ 
+Attachment: 
+Means any schedule, appendix or other attachment to the Bond Terms. 
+ 
+ 
+Base Prospectus: 
+This document. Describes the Issuer and predefined features of Bonds that can be listed under 
+the Base prospectus, as specified in the Prospectus Regulation (EU) 2017/1129. Valid for 12 
+months after it has been published. In this period, a prospectus may be constituted by the Base 
+Prospectus, any supplement(s) to the Base Prospectus and a Final Terms for each new issue. 
+Bond Issue/Bonds/ 
+Notes/the Loan: 
+Means (i) the debt instruments issued by the Issuer pursuant to the Bond Terms, including any 
+Additional Bonds and (ii) any overdue and unpaid principal which has been issued under a 
+separate ISIN in accordance with the regulations of the CSD from time to time. 
+ 
+ 
+Bond Terms: 
+Means the terms and conditions, including all Attachments which shall form an integrated part 
+of the Bond Terms, in each case as amended and/or supplemented from time to time. 
+ 
+ 
+Bondholder: 
+Means a person who is registered in the CSD as directly registered owner or nominee holder of 
+a Bond, subject however to the clause for Bondholders’ rights in the Bond Terms. 
+ 
+ 
+Bondholders’ 
+decisions: 
+The Bondholders’ Meeting represents the supreme authority of the Bondholders community in 
+all matters relating to the Bonds and has the power to make all decisions altering the terms and 
+conditions of the Bonds, including, but not limited to, any reduction of principal or interest and 
+any conversion of the Bonds into other capital classes. 
+ 
+At the Bondholders’ meeting each Bondholder may cast one vote for each voting bond owned 
+at close of business on the day prior to the date of the Bondholders’ meeting in the records 
+registered in the Securities Depository.  
+ 
+In order to form a quorum, at least half (1/2) of the voting bonds must be represented at the 
+Bondholders' meeting. See also the clause for repeated Bondholders’ meeting in the Bond 
+Terms.  
+ 
+Resolutions shall be passed by simple majority of the votes at the Bondholders' Meeting, 
+however, a majority of at least 2/3 of the voting bonds represented at the Bondholders’ Meeting 
+is required for any waiver or amendment of any terms of the Bond Terms. 
+ 
+(For more details, see also the clause for Bondholders’ decisions in the Bond Terms) 
+ 
+ 
+Bondholders rights: 
+Bondholders' rights are specified in the Bond Terms.  
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with the CSD, the 
+Bondholders are bound by the Bond Terms. 
+ 
+ 
+Bond Trustee: 
+Nordic Trustee AS, Postboks 1470 Vika, 0116 Oslo, or its successor(s) Website: 
+https://nordictrustee.comhttps://nordictrustee.com/                                                    
+ 
+The Bond Trustee has power and authority to act on behalf of, and/or represent, the Bondholders 
+in all matters, including but not limited to taking any legal or other action, including enforcement 
+of the Bond Terms, and the commencement of bankruptcy or other insolvency proceedings 
+against the Issuer, or others. 
+ 
+The Bond Trustee shall represent the Bondholders in accordance with the finance documents. 
+The Bond Trustee is not obligated to assess or monitor the financial condition of the Issuer or 
+any other obligor unless to the extent expressly set out in the Bond Terms, or to take any steps 
+to ascertain whether any event of default has occurred. The Bond Trustee is entitled to take such 
+steps that it, in its sole discretion, considers necessary or advisable to protect the rights of the 
+Bondholders in all matters pursuant to the terms of the finance documents.
+
+--- Page 33 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+33
+ 
+ 
+Borrowing Limit – Tap 
+Issue and Borrowing 
+Amount/First Tranche 
+Borrowing Limit – Tap Issue is the maximum issue amount for an open Bond issue.  
+ 
+Borrowing Amount/First Tranche is the borrowing amount for a closed Bond Issue, eventually 
+the borrowing amount for the first tranche of an open Bond Issue. 
+ 
+Borrowing Limit – Tap Issue and Borrowing Amount/First Tranche will be specified in the Final 
+Terms. 
+ 
+ 
+Business Day: 
+Means a day on which both the relevant CSD settlement system is open, and the relevant Bond 
+currency settlement system is open. Unless otherwise specified in the Final Terms. 
+ 
+ 
+Business Day 
+Convention: 
+If the last day of any Interest Period originally falls on a day that is not a Business Day, the 
+Interest Payment Date will be as follow: 
+ 
+If Fixed Rate, the Interest Payment Date shall be postponed to the next day which is a Business 
+Day (Following Business Day convention). 
+ 
+If FRN, the Interest Period will be extended to include the first following Business Day unless 
+that day falls in the next calendar month, in which case the Interest Period will be shortened to 
+the first preceding Business Day (Modified Following Business Day convention). The Interest 
+Period is adjusted accordingly. 
+ 
+ 
+Calculation Agent: 
+The Bond Trustee, if not otherwise stated in the applicable Final Terms. 
+ 
+ 
+Call Option: 
+The Final Terms may specify that the Issuer may redeem all but not only some of the 
+Outstanding Bonds on any Business Day.  
+ 
+In such case the Call Date(s), the Call Price(s) and the Call Notice Period will be specified in the 
+Final Terms. 
+ 
+ 
+Change of Control 
+Event: 
+If a shareholder or a group of shareholders acting in concert, directly or indirectly obtains more 
+than 50% of the votes on a general meeting in the Issuer. 
+ 
+ 
+Currency: 
+The currency in which the bond issue is denominated. 
+ 
+Currency will be specified in the Final Terms. 
+ 
+ 
+Day Count Convention: The convention for calculation of payment of interest; 
+ 
+(a) If Fixed Rate, the payment of interest shall be calculated on basis of a 360-day year 
+comprised of twelve months of 30 days each and, in case of an incomplete month, the actual 
+number of days elapsed (30/360-days basis), unless: 
+ 
+(i) 
+the last day in the relevant Interest Period is the 31st calendar day but the first day 
+of that Interest Period is a day other than the 30th or the 31st day of a month, in 
+which case the month that includes that last day shall not be shortened to a 30-
+day month; or 
+ 
+(ii) 
+the last day of the relevant Interest Period is the last calendar day in February, in 
+which case February shall not be lengthened to a 30-day month. 
+ 
+(b) If FRN, the payment of interest shall be calculated on basis of the actual number of days in 
+the Interest Period in respect of which payment is being made divided by 360 (actual/360-
+days basis). 
+ 
+ 
+Denomination – Each 
+Bond: 
+The nominal amount of each Bond. 
+ 
+Denomination of each bond will be specified in the Final Terms. 
+ 
+ 
+Disbursement Date / 
+Issue Date 
+Date of bond issue.  
+ 
+On the Issue Date the bonds will be delivered to the Bondholder’s VPS-account against 
+payment or to the Bondholder’s custodian bank if the Bondholder does not have his/her own 
+VPS-account.
+
+--- Page 34 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+34
+The Issue Date will be specified in the Final Terms. 
+ 
+ 
+Exchange: 
+Means: 
+(a) Euronext Oslo Børs (the Euronext Oslo Stock Exchange); or 
+(b) any regulated market as such term is understood in accordance with the Markets in Financial 
+Instruments Directive 2014/65/EU (MiFID II) and Regulation (EU) No. 600/2014 on markets in 
+financial instruments (MiFIR). 
+ 
+ 
+Eligible Projects 
+Means a selected pool of projects funded, in whole or in part, by the Issuer that promote the 
+transition to low carbon and climate resilient growth and as determined by the Issuer. Eligible 
+Projects include projects that target mitigation of climate change, including investments in low-
+carbon and clean technologies, such as energy efficiency and renewable energy programs. 
+ 
+ 
+Final Terms: 
+Document describing securities as specified in Prospectus Regulation (EU) 2017/1129, 
+prepared as part of the Prospectus. Final Terms will be prepared for each new security as 
+specified in Prospectus Regulation (EU) 2017/1129, issued by the Issuer. 
+ 
+The template for Final Terms has been approved by the Norwegian FSA, as competent authority 
+under Regulation (EU) 2017/1129. The Norwegian FSA only approves the template for Final 
+Terms as meeting the standards of completeness, comprehensibility and consistency imposed 
+by Regulation (EU) 2017/1129. Such approval should not be considered as an endorsement of 
+the quality of the securities that are subject of the Final Terms. Investors should make their own 
+assessment as to the suitability of investing in the securities. 
+ 
+ 
+Green Bonds 
+Framework 
+Means the Issuer’s Green Bond Framework 2023. 
+ 
+ 
+Interest Determination 
+Date(s): 
+In the case of NIBOR: Second Oslo business day prior to the start of each Interest Period. 
+ 
+In the case of EURIBOR: Second Target 2 business day prior to the start of each Interest Period. 
+ 
+Interest Determination Date(s) for other Reference Rates, see Final Terms. 
+ 
+ 
+Interest Payment 
+Date(s): 
+The Interest Rate is paid in arrears on the last day of each Interest Period.  
+ 
+Any adjustment will be made according to the Business Day Convention. 
+ 
+The Interest Payment Date(s) will be specified in the Final Terms. 
+ 
+ 
+Interest Period: 
+The first Interest Period runs from and including the Issue Date to but excluding the first Interest 
+Payment Date. The subsequent Interest Periods run from and including an Interest Payment 
+Date to but excluding the next Interest Payment Date. The last Interest Payment Date 
+corresponds to the Maturity Date. 
+ 
+ 
+Interest Rate: 
+Rate of interest applicable to the Bonds; 
+ 
+(i) 
+If Fixed Rate, the Bonds shall bear interest at the percentage rate per annum (based 
+on the Day Count Convention)  
+ 
+(ii) If FRN, the Bonds shall bear interest at a rate per annum equal to the Reference Rate 
+plus a Margin (based on the Day Count Convention). Interest Rate or Reference Rate 
+may be deemed to be zero. 
+ 
+The Interest Rate is specified in Final Terms. 
+ 
+ 
+Interest Rate 
+Adjustment Date: 
+Date(s) for adjusting of the interest rate for bond issue with floating interest rate. 
+ 
+The Interest Rate Adjustment Date will coincide with the Interest Payment Date. 
+ 
+ 
+ISIN: 
+International Securities Identification Number for the Bond Issue. ISIN is specified in Final 
+Terms. 
+ 
+ 
+Issuer: 
+Entra ASA is the Issuer under the Base Prospectus. 
+ 
+ 
+Issuer’s Bonds: 
+Means any Bonds which are owned by the Issuer or any affiliate of the Issuer.
+
+--- Page 35 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+35
+Issue Price: 
+The price in percentage of the Denomination, to be paid by the Bondholders at the Issue Date. 
+ 
+Issue price will be specified in Final Terms.  
+ 
+ 
+LEI-code: 
+Legal Entity Identifier (LEI) is a 20-character reference code to uniquely identify legally distinct 
+entities that engage in financial transactions. 
+ 
+LEI-code is specified in Final Terms. 
+ 
+ 
+Listing: 
+Listing of a bond issue on an Exchange is due to the Base Prospectus, any supplement(s) to 
+the Base Prospectus and a Final Terms. 
+ 
+An application for listing will be sent after the Disbursement Date and as soon as possible after 
+the Prospectus has been approved by the Norwegian FSA. 
+ 
+Listing may take place at the green bond list on the Exchange. 
+ 
+Bonds listed on an Exchange are freely negotiable. See also Market Making. 
+ 
+ 
+Manager(s): 
+The bond issue’s Manager(s), as specified in the Final Terms. 
+ 
+ 
+Market Making: 
+For Bonds listed on an Exchange, a market-maker agreement between the Issuer and a 
+Manager may be entered into.  
+ 
+This will be specified in the Final Terms. 
+ 
+ 
+Margin: 
+The margin, specified in percentage points, to be added to the Reference rate. 
+ 
+Margin will be specified in the Final terms.  
+ 
+ 
+Maturity Date: 
+The date the bond issue is due for payment, if not already redeemed pursuant to Call Option or 
+Put Option. The Maturity Date coincides with the last Interest Payment Date and is adjusted in 
+accordance with the Business Day Convention.  
+ 
+The Maturity Date is specified in the Final Terms. 
+ 
+ 
+Outstanding Bonds: 
+Means any Bonds not redeemed or otherwise discharged. 
+ 
+The Issuer will issue on the Issue date the first tranche of the bond issue as specified in Final 
+Terms. During the term of the bond issue, new tranches may be issued up to the Borrowing 
+Limit, as specified in Final Terms. 
+ 
+ 
+Part-owned 
+Subsidiaries: 
+Any Subsidiary in which the Issuer, directly or indirectly, has an ownership interest of up to or 
+equal to 67 %, or otherwise has similar control and influence (each a "Part-owned Subsidiary"). 
+ 
+ 
+Paying Agent: 
+The entity designated by the Issuer to manage (maintain the Issuer Account for) the bond 
+issue in the Securities Depository. 
+ 
+The Paying Agent is specified in the Final Terms. 
+ 
+ 
+Principal amount: 
+Outstanding amounts under the Loan from time to time. 
+ 
+ 
+Prospectus: 
+The Prospectus consists of the Base Prospectus, any supplement(s) to the Base Prospectus 
+and the relevant Final Terms prepared in connection with application for listing on an 
+Exchange.  
+ 
+ 
+Put Option: 
+The Final Terms may specify that upon the occurrence of a Put Option Event, each 
+Bondholder will have the right to require that the Issuer purchases all or some of the Bonds 
+held by that Bondholder. 
+ 
+In such case the exercise procedures, the repayment date and redemption price will be 
+specified in the Final Terms. 
+ 
+ 
+Put Option Event: 
+Means a Change of Control Event.
+
+--- Page 36 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+36
+Redemption: 
+The Outstanding Bonds will mature in full on the Maturity Date and shall be redeemed by the 
+Issuer on the Maturity Date at a price equal to 100 per cent. of the Nominal Amount, if not 
+already redeemed pursuant to Call Option or Put Option.  
+ 
+ 
+Redemption Price: 
+The price determined as a percentage of the Denomination to which the bond issue is to be 
+redeemed at the Maturity Date.  
+ 
+Redemption Price is 100 per cent of Denomination – Each Bond. 
+ 
+ 
+Reference Rate:  
+For FRN, the Reference Rate shall be EURIBOR or NIBOR or any other rate as specified in the 
+Final Terms, which appears on the Relevant Screen Page as at the specified time on the Interest 
+Determination Date in question. 
+ 
+The Reference Rate, the Relevant Screen Page, the specified time, information about the past 
+and future performance and volatility of the Reference Rate and any fallback provisions will be 
+specified in Final Terms.  
+ 
+ 
+Relevant Screen Page: For FRN, an internet address or an electronic information platform belonging to a renowed 
+provider of Reference Rates. 
+ 
+The Relevant Screen Page will be specified in the Final Terms. 
+ 
+ 
+Securities Depository 
+/CSD: 
+The securities depository in which the bonds are registered, in accordance with the Norwegian 
+Act of 2019 no. 6 regarding Securities depository. 
+ 
+Unless otherwise specified in the Final Terms, the following Securities Depository will be used: 
+Norwegian Central Securities Depository (“Verdipapirsentralen” or ”VPS”), P.O. Box 4, 0051 
+Oslo. 
+ 
+ 
+Subsidiaries: 
+Subsidiaries of the Issuer as defined in the Norwegian Public/Private Limited Companies Act 
+section 1.3 (each a "Subsidiary"). 
+ 
+ 
+Tap Issues: 
+The Issuer may, provided that the conditions set out in the Bond Terms are met, at one or more 
+occasions up until, but excluding, the Maturity Date or any earlier date when the Bonds have 
+been redeemed in full, issue Additional Bonds until the aggregate nminal amount of the Bonds 
+outstanding equals in aggregate the maximum issue amount (less the aggregate nominal 
+amount of any previously redeemed Bonds) 
+ 
+If N/A is specified in the Borrowing Limit in the Final Terms, the Issuer may not make Tap issues 
+under the Bond Terms. 
+ 
+ 
+TARGET2 
+Means the Trans-European Automated Real-time Gross Settlement Express Transfer system 
+which utilises a single shared platform and which was launched on 19 November 2007. 
+ 
+ 
+Temporary Bonds: 
+If the Bonds are listed on an Exchange and there is a requirement for a supplement to the Base 
+Prospectus in order for the Additional Bonds to be listed together with the Bonds, the Additional 
+Bonds may be issued under a separate ISIN which, upon the approval of the supplement, will 
+be converted into the ISIN for the Bonds issued on the initial Issue Date. The Bond Terms 
+governs such Temporary Bonds. The Issuer shall inform the Bond Trustee, the Exchange and 
+the Paying Agent once such supplement is approved. 
+ 
+ 
+Yield: 
+Dependent on the Market Price for bond issue with floating rate. Yield for the first interest period 
+can be determined when the interest is known, normally two Business Days before the Issue 
+Date. 
+  
+For bond issue with fixed rate, yield is dependent on the market price and number of Interest 
+Payment Date. 
+ 
+The yield is calculated in accordance with «Anbefaling til Konvensjoner for det norske sertifikat- 
+og obligasjonsmarkedet» prepared by Forening for finansfag in March 2022: 
+https://finansfag.no/wp-content/uploads/2022/06/Rentekonvensjon_oppdatert2022.pdf  
+  
+ 
+Yield is specified in Final Terms.
+
+--- Page 37 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+37
+ 
+13.4 General terms and conditions 
+These general terms and condtions summarize and describe the general terms and conditions set out in any Bond 
+Terms. The Bond Trustee may amend the general terms and conditions in the Bond Terms for any new issue of 
+bonds during the tenor of this Base Prospectus. This may cause the general terms and conditions in this Base 
+Prospectus to be incorrect and no longer valid for such new issues of bonds. If the general terms and conditions in 
+this Base Prospectus at any point in time no longer represents the correct understanding of the general terms and 
+conditions set out in the Bond Terms, the Bond Terms shall prevail. The Bond Terms are attached to the Final 
+Terms. 
+13.4.1 Use of proceeds 
+The Issuer will use the net proceeds for  
+• 
+financing of Eligible Projects as defined in and otherwise in accordance with the Issuer’s Green Bonds 
+Framework and/or 
+• 
+refinancing existing intercompany debt originally incurred to finance such Eligible Projects. 
+• 
+However, a failure to comply with the green bond framework shall not constitute an event of default. 
+ 
+or 
+• 
+general corporate purposes of the Group, and/or 
+• 
+including refinancing of any existing bank debt. 
+ 
+The use of proceeds will be specified in the Final Terms. 
+13.4.2 Publication 
+The Base Prospectus, any supplement(s) to the Base Prospectus and the Final Terms will be published on Issuer’s 
+website https://entra.no/, or on the Issuer's visit address, Biskop Gunnerus gate 14, 0185 Oslo, Norway, or their 
+successor (s). 
+ 
+The Prospectus will be published by a stock exchange announcement. 
+ 
+13.4.3 Redemption 
+Matured interest and matured principal will be credited each Bondholder directly from the Securities Registry. 
+Claims for interest and principal shall be limited in time pursuant the Norwegian Act relating to the Limitation Period 
+Claims of 18 May 1979 no 18, p.t. 3 years for interest rates and 10 years for principal. 
+ 
+13.4.4 Fees, Expenses and Tax legislation 
+The tax legislation of the investor’s Member State and of the Issuer’s country of incorporation may have an impact 
+on the income received from the securities. 
+ 
+The Issuer shall pay any stamp duty and other public fees in connection with the loan. Any public fees or taxes on 
+sales of Bonds in the secondary market shall be paid by the Bondholders, unless otherwise decided by law or 
+regulation. The Issuer is responsible for withholding any withholding tax imposed by Norwegian law. 
+ 
+13.4.5 Security Depository and secondary trading 
+The Bonds are electronically registered in book-entry form with the Securities Depository, see also the definition of 
+"Securities Depository". Securities Depository is specified in the Final Terms. 
+ 
+Secondary trading will be made over an Exchange for Bonds listed on a marketplace. See also definition of “Market 
+Making”. 
+ 
+Prospectus fee for the Base Prospectus including templates for Final Terms is NOK 104,000. In addition, there is 
+a listing fee for listing of the Bonds in accordance with the current price list of the Exchange. The listing fees will be 
+specified in the Final Terms.
+
+--- Page 38 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+38
+13.4.6 Status of the Bonds, Security and Special Conditions 
+The Issuer’s payment obligations under these Bond Terms shall rank ahead of all subordinated payment obligations 
+of the Issuer and the Bond shall rank pari passu between themselves and will rank at least pari passu with all other 
+obligations of the Issuer (save for such claims which are preferred by bankruptcy, insolvency, liquidation or other 
+similar laws of general application). 
+ 
+The Bonds are unsecured. 
+ 
+Special Conditions: 
+The Issuer shall not, and shall ensure that the Issuer's Subsidiaries do not, incur, create or permit to subsist any 
+Security over any of its current or future assets or other rights for financial indebtedness which in aggregate exceed 
+40% (reduced by any use of the 40% allowance under Clause 3.4.2 in the Bond Terms) of the Issuer's consolidated 
+assets. 
+ 
+The foregoing shall not prevent or restrict: 
+ 
+a) 
+the Issuer or the Issuer's Subsidiaries from providing, beyond such allowance: 
+(i) 
+any customary Security in connection with trading in securities and financial instruments, 
+(ii) 
+any retention of title or conditional sale arrangement or other customary Security 
+arrangement in respect of goods supplied to the Issuer or any Issuer's Subsidiary, 
+(iii) 
+any security arising by operation of law, and not due to the Issuer's or any Issuer's 
+Subsidiary's default, and which secures obligations with a maturity date of 30 - thirty - days 
+or less, and 
+(iv) 
+pledges or assignments in (a) the shares of; and/or (b) claims against any Part-owned 
+Subsidiary as Security for external financing related to the same Part-owned Subsidiary. 
+ 
+b) 
+Part-owned Subsidiary from freely incurring, creating or permitting to subsist any Security over any of its 
+current or future assets or other rights (for its financial commitments). 
+ 
+The Issuer shall ensure that the Issuer's Subsidiaries do not incur, create or permit to subsist any financial 
+indebtedness for which the principal debt in aggregate exceeds 40% (reduced by any use of the 40% allowance 
+under Clause 3.4.1 in the Bond Terms) of the Issuer's consolidated assets. 
+ 
+The foregoing shall not restrict or prevent 
+ 
+(a) that financial indebtedness in connection with such Security allowed pursuant to Clause 3.4.1 (a) (i) 
+throughout (iii) in the Bond Terms can be incurred and permitted to subsist; and 
+ 
+(b) Part-owned Subsidiaries from freely assuming any financial indebtedness. 
+ 
+ 
+The relevant Negative Pledge will be specified in the Final Terms. 
+13.4.7 Bond Terms 
+The Bond Terms has been entered into between the Issuer and the Bond Trustee. The Bond Terms regulates the 
+Bondholders’ rights and obligations in relations with the bond issue. The Bond Trustee enters into the Bond Terms 
+on behalf of the Bondholders and is granted authority to act on behalf of the Bondholders to the extent provided for 
+in the Bond Terms. 
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with the CSD, the Bondholders are bound by 
+the Bond Terms and any other Finance Document, without any further action required to be taken or formalities to 
+be complied with by the Bond Trustee, the Bondholders, the Issuer or any other party. 
+ 
+The Bond Terms will be attached to the Final Terms for each Bond issue and is also available through the 
+Manager(s), Issuer and the Bond Trustee. 
+13.4.8 Legislation 
+The Bond Terms is governed by and construed in accordance with Norwegian law. Norwegian law will govern the 
+issue of the bonds. The Issuer is subject to Norwegian legislation, the most relevant law for the Group's operations 
+is the Public Limited Companies Act, the Norwegian Securities Trading Act and the Norwegian Stock Exchange 
+Regulations.
+
+--- Page 39 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+39
+13.4.9 Approvals 
+The Bonds will be issued in accordance with the Issuer’s Board of Directors approval. 
+ 
+The date of the Issuer’s Board of Directors approval will be specified in the Final Terms 
+ 
+The Base Prospectus has been submitted to the Norwegian Financial Supervisory Authority (Finanstilsynet) before 
+listing of the Bonds takes place. 
+ 
+Final Terms will be submitted to Finanstilsynet for information in connection with an application for listing of a Bond 
+Issue. 
+ 
+The Base prospectus will not be the basis for offers for subscription in bonds that are not subject to a prospectus 
+obligation. 
+13.4.10 Restrictions on the free transferability of the securities 
+Any restrictions on the free transferability of the securities will be specified in the Final Terms. 
+13.5 Return and redemption 
+Bonds may have return and redemption mechanisms as explained below. The relevant Final Terms refer to these 
+mechanisms and provide relevant parameter values for the specific bond issue. 
+13.5.1 Bonds with floating rate 
+13.5.1.a Return (interest) 
+The Interest Rate is specified in Interest Rate ii). Payment of the Interest Rate is calculated on basis of the Day 
+Count Convention (b). 
+ 
+Interest Rate or Reference Rate may be deemed to be zero.  
+ 
+The period lengths are equal throughout the term of the Loan, but each Interest Payment Date is adjusted in 
+accordance with the Business Day Convention. The Interest Rate for each forthcoming period are determined two 
+Business Days prior to each Interest Payment Date based on the current value of the Reference Rate plus the 
+Margin. 
+ 
+The Interest Rate is paid in arrears on each Interest Payment Date. The first Interest Period runs from and including 
+the Issue Date to but excluding the first Interest Payment Date. The subsequent Interest Periods run from and 
+including an Interest Payment Date to but excluding the next Interest Payment Date. The last Interest Payment 
+Date corresponds to the Maturity Date. 
+ 
+The relevant Reference Rate, the Margin, the Interest Payment Dates and the current Interest Rate will be specified 
+in the applicable Final Terms. 
+ 
+Interest calculation method for secondary trading is given by act/360, modified following. 
+ 
+13.5.1.b Redemption 
+Redemption is made in accordance with Redemption. 
+ 
+13.5.2 Bonds with fixed rate 
+13.5.2.a Return (interest) 
+The interest rate is specified in Interest Rate (i). Payment of the Interest Rate is calculated on basis of the Day 
+Count Convention (a).  
+ 
+The Interest Rate is paid in arrears on each Interest Payment Date. The first Interest Period runs from and including 
+the Issue Date to but excluding the first Interest Payment Date. The subsequent Interest Periods run from and 
+including an Interest Payment Date to but excluding the next Interest Payment Date. The last Interest Payment 
+Date corresponds to the Maturity Date. 
+ 
+The Interest Rate and the Interest Payment Dates will be specified in the applicable Final Terms. 
+ 
+Interest calculation method for secondary trading is given by act/365 for bond issue with fixed rate.  
+ 
+13.5.2.b Redemption 
+Redemption is made in accordance with Redemption.
+
+--- Page 40 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+40
+ 
+13.6 Rating 
+The Issuer is rated by Moody’s Baa3 Stable, see Appendix 2. 
+ 
+The Bonds have not been rated. 
+ 
+ 
+13.7 Final Terms 
+Template for Final Terms for fixed and floating bond issue, see Appendix 2.
+
+--- Page 41 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+41
+Cross reference list 
+Reference in 
+Base 
+Prospectus 
+Refers to 
+Details 
+10.1 Financial 
+statements 
+Annual Report 2023, available at: 
+https://www.entra.no/investor-
+relations/reports-and-
+presentations/2023/Annual%20report%202
+023.pdf 
+Group’s accounting policies, pages 99-105 
+ 
+Entra ASA’s accounting policies, pages 141-143 
+ 
+Annual Report 2023, available at: 
+https://www.entra.no/investor-
+relations/reports-and-
+presentations/2023/Annual%20report%202
+023.pdf  
+Entra ASA Consolidated 
+Statement of comprehensive income, page 137 
+Balance sheet, page 138 
+Statement of changes in equity, page 139 
+Statement of cash flow, page 140 
+Notes to the consolidated financial statements, 
+pages 141-178 
+ 
+Entra ASA 
+Statement of income, page 180 
+Balance sheet, page 181 
+Statement of cash flow, page 182 
+Notes to the financial statement, pages 183-195  
+ 
+Q1 Report 2024, available at: 
+https://www.entra.no/investor-
+relations/reports-and-
+presentations/2024/Q1-2024%20Report.pdf 
+ 
+ 
+ 
+ 
+Q2 Report 2024, available at: 
+https://www.entra.no/investor-
+relations/reports-and-
+presentations/2024/Q2-2024%20Report.pdf 
+ 
+ 
+ 
+ 
+ 
+Q3 Report 2024, available at: 
+https://www.entra.no/investor-
+relations/reports-and-
+presentations/2024/Q3-2024%20Report.pdf 
+ 
+Entra ASA Consolidated 
+Statement of comprehensive income, page 18 
+Balance sheet, page 19 
+Statement of changes in equity, page 20 
+Statement of cash flow, page 20 
+Notes to the consolidated financial statements, 
+pages 21-25 
+ 
+Entra ASA Consolidated 
+Statement of comprehensive income, page 19 
+Balance sheet, page 20 
+Statement of changes in equity, page 21 
+Statement of cash flow, page 21 
+Notes to the consolidated financial statements, 
+pages 22-26 
+ 
+ 
+Entra ASA Consolidated 
+Statement of comprehensive income, page 18 
+Balance sheet, page 19 
+Statement of changes in equity, page 20 
+Statement of cash flow, page 20 
+Notes to the consolidated financial statements, 
+pages 21-25 
+ 
+ 
+10.2 Auditing of 
+historical 
+annual financial 
+information 
+Annual Report 2023, available at: 
+https://www.entra.no/investor-
+relations/reports-and-
+presentations/2023/Annual%20report%202
+023.pdf  
+Auditors report, pages 196-200 
+ 
+ 
+ 
+ 
+ 
+References to the above mentioned documents are limited to information given in “Details”, e.g. that the non- 
+incorporated parts are either not relevant for the investor or covered elsewhere in the prospectus.
+
+--- Page 42 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+42
+Advisor’s disclaimer 
+ 
+DNB Bank ASA, DNB Markets has assisted the Company in preparing the Base Prospectus. The Advisor has not 
+verified the information contained herein. Accordingly, no representation, warranty or undertaking, expressed or 
+implied, is made and the Advisors expressly disclaim any legal or financial liability as to the accuracy or 
+completeness of the information contained in this Base Prospectus or any other information supplied in connection 
+with the issuance or distribution of bonds by Entra ASA.  
+ 
+This Base Prospectus is subject to the general business terms of the Advisor, available at its websites. 
+Confidentiality rules and internal rules restricting the exchange of information between different parts of the Advisor 
+may prevent employees of the Advisor who are preparing this Base Prospectus from utilizing or being aware of 
+information available to the Advisor and/or any of its affiliated companies and which may be relevant to the 
+recipient's decisions. 
+ 
+Each person receiving this Base Prospectus acknowledges that such person has not relied on the Advoser, nor on 
+any person affiliated with it in connection with its investigation of the accuracy of such information or its investment 
+decision. 
+ 
+Oslo, 06 December 2024 
+ 
+ 
+Advisor: 
+ 
+ 
+DNB Bank ASA 
+(www.dnb.no)
+
+--- Page 43 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+43
+Annex 1 Articles of Association for Entra ASA 
+(last amended 25 April 2023)
+
+--- Page 44 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+44
+
+--- Page 45 ---
+Entra ASA, 06 December 2024 
+ 
+Base Prospectus 
+ 
+ 
+45
+Annex 2 Template for Final Terms for fixed and floating rate 
+Bonds
+
+--- Page 46 ---
+[Appendix 2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Base prospectus 
+ 
+ 
+ 
+ 
+ 
+Final Terms 
+ 
+for 
+ 
+[ISIN] 
+[Title of the bond issue] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Place], [Date]
+
+--- Page 47 ---
+Entra ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+2  
+Terms used herein shall be deemed to be defined as such for the purpose of the conditions set forth in the Base 
+Prospectus clauses 2 Definitions and 13.3 Definitions, these Final Terms and the attached Bond Terms. 
+ 
+ 
+[In case MiFID II identified target market are professional investors and eligible counterparties, insert the 
+following:] 
+[MIFID II product governance / Professional investors and eligible counterparties (ECPs) only target 
+market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is eligible 
+counterparties and professional clients only, each as defined in Directive 2014/65/EU (as amended) (MiFID II); 
+and (ii) all channels for distribution of the Bonds to eligible counterparties and professional clients are appropriate. 
+[Consider any negative target market]. Any person subsequently offering, selling or recommending the Bonds (a 
+distributor) should take into consideration the manufacturer[’s/s’] target market assessment; however, a 
+distributor subject to MiFID II is responsible for undertaking its own target market assessment in respect of the 
+Bonds (by either adopting or refining the manufacturer[’s/s’] target market assessment) and determining 
+appropriate distribution channels.] 
+ 
+[UK MiFIR product governance / Professional investors and eligible counterparties only (ECPs) target 
+market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is only 
+eligible counterparties, as defined in the FCA Handbook Conduct of Business Sourcebook, and professional 
+clients, as defined in Regulation (EU) No 600/2014 as it forms part of domestic law by virtue of the European 
+Union (Withdrawal) Act 2018 (UK MiFIR); and (ii) all channels for distribution of the Bonds to eligible 
+counterparties and professional clients are appropriate. [Consider any negative target market]. Any person 
+subsequently offering, selling or recommending the Bonds (a distributor) should take into consideration the 
+manufacturer[’s/s’] target market assessment; however, a distributor subject to the FCA Handbook Product 
+Intervention and Product Governance Sourcebook (the UK MiFIR Product Governance Rules) is responsible for 
+undertaking its own target market assessment in respect of the Bonds (by either adopting or refining the 
+manufacturer[’s/s’] target market assessment) and determining appropriate distribution channels.] 
+ 
+[PROHIBITION OF SALES TO EEA RETAIL INVESTORS – The Bonds are not intended to be offered, sold or 
+otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in 
+the European Economic Area (EEA). For these purposes, a retail investor means a person who is one (or more) 
+of: (i) a retail client as defined in point (11) of Article 4(1) of MiFID II; (ii) a customer within the meaning of 
+Directive (EU) 2016/97 where that customer would not qualify as a professional client as defined in point (10) of 
+Article 4(1) of MiFID II; or (iii) not a qualified investor as defined in the Prospectus Regulation (as defined below). 
+Consequently no key information document required by Regulation (EU) No. 1286/2014 (as amended) (the 
+PRIIPs Regulation) for offering or selling the Bonds or otherwise making them available to retail investors in the 
+EEA has been prepared and therefore offering or selling the Bonds or otherwise making them available to any 
+retail investor in the EEA may be unlawful under the PRIIPs Regulation.]  
+ 
+[PROHIBITION OF SALES TO UK RETAIL INVESTORS – The Bonds are not intended to be offered, sold or 
+otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in 
+the United Kingdom (UK). For these purposes, a retail investor means a person who is one (or more) of: (i) a retail 
+client, as defined in point (8) of Article 2 of Regulation (EU) No. 2017/565 as it forms part of domestic law by 
+virtue of the European Union (Withdrawal) Act 2018 (EUWA); (ii) a customer within the meaning of the provisions 
+of FSMA and any rules or regulations made under the FSMA to implement Directive (EU) 2016/97, where that 
+customer would not qualify as a professional client, as defined in point (8) of Article 2(1) of Regulation (EU) No. 
+600/2014 as it forms part of domestic law by virtue of the EUWA; or (iii) not a qualified investor as defined in 
+Article 2 of Regulation (EU) 2017/1129 as it forms part of domestic law by virtue of the EUWA. Consequently no 
+key information document required by Regulation (EU) No. 1286/2014 as it forms part of domestic law by virtue of 
+the EUWA (the UK PRIIPs Regulation) for offering or selling the Bonds or otherwise making them available to 
+retail investors in the UK has been prepared and therefore offering or selling the Bonds or otherwise making them 
+available to any retail investor in the UK may be unlawful under the UK PRIIPs Regulation.] 
+ 
+[In case MiFID II identified target market are retail investors, professional investors and eligible counterparties, 
+insert the following:] 
+[MIFID II product governance / Retail investors, professional investors and eligible counterparties (ECPs) 
+target market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is eligible 
+counterparties, professional clients and retail clients, each as defined in Directive 2014/65/EU (as amended) 
+(MiFID II); EITHER [and (ii) all channels for distribution of the Bonds are appropriate[, including investment 
+advice, portfolio management, non-advised sales and pure execution services]] OR [(ii) all channels for 
+distribution to eligible counterparties and professional clients are appropriate; and (iii) the following channels for 
+distribution of the Bonds to retail clients are appropriate – investment advice[,/and] portfolio management[,/ 
+and][non-advised sales][and pure execution services][, subject to the distributor’s suitability and appropriateness 
+obligations under MiFID II, as applicable]]. [Consider any negative target market]. Any person subsequently
+
+--- Page 48 ---
+Entra ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+3  
+offering, selling or recommending the Bonds (a distributor) should take into consideration the manufacturer[’s/s’] 
+target market assessment; however, a distributor subject to MiFID II is responsible for undertaking its own target 
+market assessment in respect of the Bonds (by either adopting or refining the manufacturer[‘s/s’] target market 
+assessment) and determining appropriate distribution channels[, subject to the distributor’s suitability and 
+appropriateness obligations under MiFID II, as applicable].] 
+ 
+[UK MiFIR product governance / Retail investors, professional investors and eligible counterparties target 
+market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is retail 
+clients, as defined in point (8) of Article 2 of Regulation (EU) 2017/565 as it forms part of domestic law by virtue of 
+the European Union (Withdrawal) Act 2018 (EUWA), and eligible counterparties, as defined in the FCA Handbook 
+Conduct of Business Sourcebook (COBS), and professional clients, as defined in Regulation (EU) No 600/2014 
+as it forms part of domestic law by virtue of the EUWA (UK MiFIR); EITHER [and (ii) all channels for distribution of 
+the Bonds are appropriate, including investment advice, portfolio management, non-advised sales and pure 
+execution services] OR [(ii) all channels for distribution to eligible counterparties and professional clientsare 
+appropriate; and (iii) the following channels for distribution of the Bonds to retail clients are appropriate – 
+investment advice[,/and] portfolio management[,/ and][non-advised sales][and pure execution services][, subject 
+to the distributor’s (as defined below) suitability and appropriateness obligations under COBS, as applicable]]. 
+[Consider any negative target market]. Any person subsequently offering, selling or recommending the Bonds (a 
+distributor) should take into consideration the manufacturer[’s/s’] target market assessment; however, a 
+distributor subject to FCA Handbook Product Intervention and Product Governance Sourcebook (the UK MiFIR 
+Product Governance Rules) is responsible for undertaking its own target market assessment in respect of the 
+Bonds (by either adopting or refining the manufacturer[’s/s’] target market assessment) and determining 
+appropriate distribution channels[, subject to the distributor’s suitability and appropriateness obligations under 
+COBS, as applicable].] 
+ 
+This document constitutes the Final Terms of the Bonds described herein pursuant to the Regulation (EU) 
+2017/1129 and must be read in conjunction with the Base Prospectus dated 06 December 2024 and [the 
+supplement[s] to the Base Prospectus dated [date]].  
+ 
+The Base Prospectus dated 06 December 2024 [and the supplement[s] to the Base Prospectus dated [date]] 
+[together] constitute[s] a base prospectus for the purposes of the Regulation (EU) 2017/1129 ([together,] the 
+“Base Prospectus”). 
+ 
+Final Terms include a summary of each Bond Issue. 
+ 
+These Final Terms and the Base Prospectus [and the supplement[s] to the Base Prospectus] are available on the 
+Issuer's website https://entra.no or on the Issuer's visit address, Biskop Gunnerus gate 14, 0185 Oslo, Norway, or 
+their successor (s).
+
+--- Page 49 ---
+Entra ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+4  
+1 Summary  
+The below summary has been prepared in accordance with the disclosure requirements in Article 7of in the 
+Regulation (EU) 2017/1129 as of 14 June 2017. 
+ 
+Introduction and warning 
+Disclosure requirement 
+Disclosure 
+Warning 
+This summary should be read as introduction to the Base 
+Prospectus. Any decision to invest in the securities should be 
+based on consideration of the Base Prospectus as a whole by the 
+investor. The investor could lose all or part of the invested capital.  
+Where a claim relating to the information contained in the Base 
+Prospectus is brought before a court, the plaintiff investor might, 
+under the national law, have to bear the costs of translating the 
+Base Prospectus before the legal proceedings are initiated. Civil 
+liability attaches only to those persons who have tabled the 
+summary including any translation thereof, but only where the 
+summary is misleading, inaccurate or inconsistent, when read 
+together with the other parts of the Base Prospectus, or where it 
+does not provide, when read together with the other parts of the 
+prospectus, key information in order to aid investors when 
+considering whether to invest in such securities. 
+Name and international securities 
+identification number (‘ISIN’) of the 
+securities. 
+[●] 
+Identity and contact details of the issuer, 
+including its legal entity identifier (‘LEI’). 
+Entra ASA, Biskop Gunnerus gate 14, 0185 Oslo, Norway. 
+Telephone number is +47 21 60 51 00.  
+Registration number 999 296 432 
+LEI-code ((legal entity identifier): 549300APU14LQKTYCH34. 
+Identity and contact details of the offeror or 
+of the person asking for admission to trading 
+on a regulated market. 
+There is no offeror, the Base Prospectus has been produced in 
+connection with listing of the securities on an Exchange. The 
+Issuer is going to ask for admission to trading on a regulated 
+market. 
+Identity and contact details of the competent 
+authority that approved the prospectus 
+Financial Supervisory Authority of Norway (Finanstilsynet), 
+Revierstredet 3, 0151 Oslo.   
+Telephone number is +47 22 93 98 00.  
+E-mail: prospekter@finanstilsynet.no. 
+Date of approval of the prospectus. 
+The Base Prospectus was approved on 06 December 2024. 
+ 
+Key information on the Issuer 
+Disclosure requirements 
+Disclosure 
+Who is the issuer of the securities 
+ 
+Domicile and legal form 
+The Issuer is a public limited liability company incorporated in 
+Norway and primarily organized under the laws of Norway, 
+including the Public Limited Companies Act. LEI-code ((legal 
+entity identifier): 549300APU14LQKTYCH34. 
+Principal activities 
+Entra is a leading owner, manager and developer of office 
+properties in Norway and owns and manages a large portfolio of 
+centrally located high-quality properties in and around Oslo, and 
+in Bergen and Stavanger. Entra has a solid customer portfolio 
+with a high proportion of public tenants. The company's strategy is 
+focused on delivering profitable growth, high customer satisfaction 
+and environmental leadership. 
+ 
+As of 30 September 2024, the management portfolio totals 
+approximately 1.2 million square meters, of which approximately 
+85 per cent is in the Greater Oslo region. Entra has in addition 
+170,000 sqm in the project portfolio and development sites. 
+ 
+Sustainability is an integrated part of Entra’s business, and 
+environmental leadership has been an important part of the 
+Group’s business strategy for more than 15 years. Efforts are 
+focused on areas where Entra can have the greatest impact: 
+ 
+• 
+Environmental leadership is one of Entra’s three strategic
+
+--- Page 50 ---
+Entra ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+5  
+pillars, and its Net Zero Carbon strategy is set to 
+contribute to world’s carbon reduction targets whilst also 
+focusing on the use of natural resources and circularity. 
+ 
+• 
+To operate Entra’s business and value chain in an ethical 
+and sustainable manner is of key strategic importance 
+and seen as a prerequisite for its license to operate. 
+ 
+• 
+Growing social value, health, safety and wellbeing in the 
+company’s properties, clusters and communities is 
+important and sensible from both a social and financial 
+perspective. 
+ 
+• 
+Through investing in its culture and people, Entra 
+continues to improve its business and competitive edge, 
+as well as being able to seize the opportunities emerging 
+in its business environment. 
+ 
+ 
+Major shareholders 
+The 20 largest shareholders as of 11 October 2024:
+
+--- Page 51 ---
+Entra ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+6  
+ 
+Castellum AB held shares equaling 33.33 % of the shares and votes in Entra ASA and Fastighets AB Balder 
+(“Balder”) held shares equaling  39.98 % (in its own name and through nominee accounts) of the shares and 
+votes in Entra ASA.   
+ 
+Management 
+Name  
+Position  
+Sonja Horn 
+Chief Executive Officer   
+Ole Anton Gulsvik 
+Chief Financial Officer   
+Kjetil Hoff 
+Chief Operating Officer 
+Per Ola Ulseth 
+Executive Vice President Project Development 
+Hallgeir Østrem 
+Executive Vice President Legal and Procurement 
+Carine Blyverket 
+Executive Vice President Market and Business 
+Development 
+Kristine Hilberg 
+Executive Vice President HR & Organization 
+ 
+Statutory auditors 
+Deloitte AS 
+What is the key financial information 
+regarding the issuer 
+ 
+Key financial information   
+ 
+ 
+Entra ASA Consolidated 
+ 
+Amounts in NOK million 
+Q3 Report 2024 
+Unaudited 
+Q2 Report 2024 
+Unaudited 
+Q1 Report 2024 
+Unaudited 
+Annual Report 2023 
+Audited 
+Operating profit (net income) 
+320 
+279 
+222 
+1 284 
+Net financial debt (long term 
+debt plus short-term debt minus 
+cash) 
+31 851 
+31 868 
+38 247 
+39 291 
+Net Cash flows from operating 
+activities 
+331 
+208 
+435 
+1 378 
+Net Cash flows from financing 
+activities 
+-161 
+-6 275 
+-1 001 
+-1 995 
+Net Cash flow from investing 
+activities 
+-312 
+6 207 
+611 
+562 
+ 
+ 
+Entra ASA 
+ 
+Amounts in NOK million 
+Annual Report 2023 
+Audited 
+Operating profit (net income) 
+-193 
+Net financial debt (long term debt plus short-term debt minus cash) 
+37 723 
+Net Cash flows from operating activities 
+-1 431 
+Net Cash flows from financing activities 
+-1 895 
+Net Cash flow from investing activities 
+3 169 
+ 
+There is no description of any qualifications in the audit report for the Annual Report 2023. 
+ 
+What are the key risk factors that are specific 
+to the issuer 
+ 
+Most material key risk factors  
+ 
+Risks relating to interest rate fluctuations 
+Higher interest rates would affect the Group’s results of operations and cash flows. The Group has a gross 
+nominal interest-bearing debt of NOK 32.1 bn as of 30.09.24. The average remaining term for the Group's debt 
+portfolio was 3.4 years. As at 30.09.24, 68.3 per cent of the Group’s financing was hedged at a fixed interest rate 
+with a weighted average maturity of 3.7 years. Higher interest rates could also negatively affect the valuation of 
+the Group’s assets.  
+ 
+Risks related to the business of the Group and the industry in which the Group operates 
+The value of the Group’s assets is exposed to macroeconomic fluctuations. The Group’s properties are all located 
+in the largest cities in Norway, and slowdowns in the economic activity in Norway in general and these geographic 
+areas in particular could affect the demand for office space in the cities in which the Group operates.  
+ 
+A lower rate of inflation or reduced consumer price index could lead to lower than anticipated rental growth for the 
+Group’s properties and consequently potentially reduce future rental income and negatively affect property 
+valuations.
+
+--- Page 52 ---
+Entra ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+7  
+ 
+The Group could be unable to let a vacant property or re-let a property following the expiry of a tenancy at 
+economically attractive rates or at all. The failure by tenants of the Group to meet their obligations, or the 
+termination of lease agreements by tenants, could result in loss of rental income, increase in bad debts and 
+decrease in the value of the Group’s properties. The 20 largest tenants as of 30.09.24 stood for approximately 
+48.7 per cent of the rental income. Termination of such lease contracts could thus affect the vacancy rate, results 
+of operations and valuation of the Group’s assets.  
+ 
+Risks related to property development 
+The Group is subject to development risks such as e.g. cost overruns, delays and other unforeseen events in its 
+business of development of commercial properties. As of 30.09.24 the project portfolio consisted of four 
+development projects with an estimated total project cost of NOK 3.2 bn of which NOK 2.1 bn was accrued, see 
+also section 6.2. Entra normally spend between NOK 1 and 2 bn on its project portfolio each year.  
+ 
+The Group is dependent on the services of external construction companies and service providers in connection 
+with the development and construction of its property projects and is thus exposed to risks if a contractor should 
+experience financial or other difficulties.  
+ 
+Risks related to valuation of the Group’s property portfolio 
+Adjustment based on changes in the fair value of the Group’s properties or inaccuracies in calculations of fair 
+value could negatively affect the Group’s balance sheet and results of operations. The Property Appraisal Reports 
+could incorrectly assess the value of the Group’s properties. An incorrect valuation may affect the market value of 
+the outstanding bond issues. A too positive valuation may result in a higher market value, while a too negative 
+valuation may result in a lower market value. Further, a write-down of property values may affect the financial 
+profile of the company negatively, and/or may lead to a rating downgrade from the rating agency (Moody’s). A 
+weakened credit profile may also reduce the market value of the outstanding bond issues. 
+ 
+Risks relating to the financial profile of the Group 
+There are covenants in the Group’s bank loan agreements relating to the interest cover ratio and the loan-to-value 
+of property that restrict the Group’s ability to incur indebtedness above a certain level.  
+ 
+The Group’s degree of leverage could affect its ability to obtain additional financing for working capital, capital 
+expenditures, acquisitions, development or other general corporate purposes. The Group could require additional 
+capital in the future in order to execute its strategy, which may not be available on favourable terms, or at all. The 
+Group’s existing or future debt arrangements could limit the Group’s liquidity and flexibility in obtaining additional 
+financing, in pursuing other business opportunities or corporate activities or the Company’s ability to declare 
+dividends to its shareholders. The Company is a holding company and is dependent upon cash flow from 
+subsidiaries to meet its obligations and in order to pay dividends to its shareholders. 
+ 
+A reduction in access to finance could further weaken the company’s global credit rating from Moody’s, and as 
+such the company’s refinancing possibilities and ability to finance new investments. In such a situation, the 
+company could be exposed to an increase in financing costs which would weaken the underlying result, debt 
+service ability and dividend capacity. Greater risk aversion in the financial markets could significantly weaken 
+investor interest for Entra’s debt instruments, hereunder have a negative impact on available financing terms 
+and/or make access to new financing less, if at all, available. 
+ 
+ 
+Climate risks  
+Regulatory changes resulting from climate related risks could cause the need for environmental investments in 
+property, plant and equipment. Increased severity of extreme weather events such as storms and floods are a 
+long-term risk that could cause damage to property, plant, equipment and installations and may lead to increased 
+insurance cost and/or reduced customer satisfaction. Failure to comply and adapt to climate related matters is 
+also a significant reputation risk which could result in e.g., lack of tenant interest, higher cost of capital in the 
+financial market, and lack of ability to attract or retain talent.  
+ 
+Key information on the securities 
+Disclosure requirements 
+Disclosure 
+What are the main features of the securities 
+ 
+Description of the securities, including ISIN 
+code. 
+[●] 
+Currency for the bond issue 
+[●] 
+Borrowing Limit and Borrowing Amount  
+ [● tranche] 
+[●] 
+Denomination – Each Bond 
+[●] 
+Any restrictions on the free transferability of 
+the securities. 
+[●] 
+Description of the rights attached to the 
+[●]
+
+--- Page 53 ---
+Entra ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+8  
+securities, limitations to those rights and 
+ranking of the securities. 
+Information about Issue and Maturity Date, 
+interest rate, instalment and representative 
+of the bondholders 
+[●] 
+Status of the bonds and security 
+[●] 
+Where will the securities be traded 
+ 
+Indication as to whether the securities 
+offered are or will be the object of an 
+application for admission to trading. 
+[●]  
+What are the key risks that are specific to the 
+securities 
+What are the key risks that are specific to the securities 
+Most material key risks 
+ 
+ 
+• 
+Market risk is the risk that the value of the Loan will decrease due to the change in value of the market risk 
+factors. The price of a single bond issue will fluctuate in accordance with the interest rate and credit 
+markets in general, the market view of the credit risk of that particular bond issue, and the liquidity of this 
+bond issue in the market.  
+• 
+Interest rate risk is the risk that results from the variability of the NIBOR interest rate. The coupon 
+payments, which depend on the NIBOR interest rate and the Margin, will vary in accordance with the 
+variability of the NIBOR interest rate.  
+• 
+In respect of the bonds issued as “Green Bonds” there can be no assurance that the relevant use of   
+proceeds will be suitable for the investment criteria of an investor 
+ 
+ 
+Key information on the admission to trading on a regulated marked 
+Disclosure requirements 
+Disclosure 
+Under which conditions and timetable can I 
+invest in this security? 
+ [●] 
+ 
+The estimate of total expenses related to the admission to trading is 
+as follow:  
+ 
+[●]. 
+ 
+[/ Other: (specify)] 
+ 
+Listing fee Euronext Oslo Børs [●] 
+Registration fee Euronext Oslo Børs [●] 
+ 
+Why is the prospectus being produced 
+In connection with listing of the securities on Euronext Oslo Børs. 
+Reasons for the admission to trading on a 
+regulated marked and use of. 
+Use of proceeds [●] 
+ 
+Estimated net amount of the proceeds [●] 
+ 
+Description of material conflicts of interest to 
+the issue including conflicting interests. 
+[●]
+
+--- Page 54 ---
+Entra ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+9  
+2 Detailed information about the security 
+ 
+Generally: 
+ 
+ISIN code: 
+[ISIN] 
+ 
+ 
+The Loan/The Bonds/The Notes: 
+[Title of the bond issue] 
+ 
+ 
+Borrower/Issuer: 
+Entra ASA, Norwegian enterprise no. 999 296 432 and  
+LEI-code 549300APU14LQKTYCH34. 
+ 
+ 
+Group: 
+Means the Issuer and its subsidiaries from time to time. 
+ 
+Security Type: 
+[Unsecured] [open] bond issue with [fixed/floating] rate 
+ 
+Borrowing Limit – Tap Issue: 
+[Currency]  
+[Amount borrowing limit]  
+ 
+ 
+Borrowing Amount [●] tranche: 
+[Currency]   
+ [Amount [●] tranche]  
+ 
+ 
+  
+Outstanding Bonds: 
+[Currency]   
+ [Amount [●]]  
+ 
+ 
+  
+Denomination – Each bond: 
+[Currency] 
+[Amount denomination] - each and ranking pari 
+passu among themselves 
+Securities Form: 
+As set out in the Base Prospectus clause 13.1. 
+ 
+ 
+Publication: 
+As specified in the Basic Prospectus section 13.4.2. 
+ 
+ 
+Issue Price: 
+[As defined in the Base Prospectus section 13.3 
+ 
+[Issue price] % 
+ 
+ 
+Disbursement Date/Issue Date: 
+[As defined in the Base Prospectus section 13.3 
+ 
+[Issue date] 
+ 
+ 
+Maturity Date: 
+[As defined in the Base Prospectus section 13.3 
+ 
+[Maturity Date] 
+ 
+ 
+Interest Rate: 
+ 
+Interest Bearing from and Including: 
+[Issue date 
+ 
+/ Other: (specify)] 
+ 
+ 
+Interest Bearing To: 
+[As defined in the Base Prospectus section 13.3 
+ 
+[Maturity Date 
+ 
+/ Other: (specify)] 
+ 
+ 
+Reference Rate: 
+[As defined in the Base Prospectus section 13.3 
+ 
+Floating rate: [NIBOR / EURIBOR] [3 / 6 / 12] months  
+ 
+[description of Reference Rate] 
+ 
+Relevant Screen Page: [Relevant Screen Page] 
+ 
+Specified time: [specified time] 
+ 
+Information about the past and future performance and volatility of the 
+Reference Rate is available at [Relevant Screen Page / other: (specify)] 
+ 
+Fallback provisions: [Provisions] 
+ 
+/ Other: (specify)]
+
+--- Page 55 ---
+Entra ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+10  
+ 
+/ Fixed Rate: N/A] 
+ 
+ 
+Margin: 
+[As defined in the Base Prospectus section 13.3 
+ 
+Floating Rate: [Margin] % p.a. 
+ 
+/ Fixed Interest: N/A 
+ 
+/ Other: (specify)] 
+ 
+ 
+Interest Rate: 
+[Bond issue with floating rate (as defined in the Base Prospectus section 
+13.3): [Reference Rate + Margin]  
+ 
+Current Interest Rate: [current interest rate] % p.a. 
+ 
+/ Bond Issue with fixed rate (as defined in the Base Prospectus section 
+13.3): [Interest rate] % p.a. 
+ 
+ 
+Day Count Convention: 
+[Floating Rate: As defined in the Base Prospectus section 13.3 
+/ Fixed Rate: As defined in the Base Prospectus section 13.3 
+ 
+ 
+Day Count Fraction – Secondary 
+Market: 
+[Floating Rate: As specified in the Base Prospectus section 13.5.1.a 
+/ Fixed Rate: As specified in the Base Prospectus section 13.5.2.a  
+ 
+ 
+Interest Determination Date: 
+[Floating Rate: As defined in the Base Prospectus section 13.3.  
+ 
+Interest Rate Determination Date: [Interest Rate Determination Date(s)] 
+each year.  
+ 
+/ Fixed rate: N/A 
+ 
+/ Other: (specify)] 
+ 
+ 
+Interest Rate Adjustment Date: 
+[Floating Rate: As defined in the Base Prospectus section 13.3.  
+ 
+/ Fixed rate: N/A] 
+ 
+ 
+Interest Payment Date: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.5.1 (FRN) / section 13.5.2 (fixed rate) 
+ 
+Interest Payment Date: [Date(s)] each year.  
+ 
+The first Interest Payment Date is [Date].  
+ 
+ 
+#Days first term: 
+[Number of interest days] days 
+ 
+ 
+Yield: 
+As defined in the Base Prospectus section 13.3. 
+ 
+The Yield is [yield]  
+ 
+ 
+Business Day: 
+As defined in the Base Prospectus section 13.3. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Amortisation and Redemption: 
+ 
+Redemption: 
+As defined in the Base Prospectus section 13.3 and as specified in the 
+Base Prospectus section 13.4.3, 13.5.1.b and 13.5.2.b. 
+ 
+The Maturity Date is [maturity date] 
+ 
+Redemption Price is [redemption price] % 
+ 
+ 
+Call Option: 
+As defined in the Base Prospectus section 13.3. 
+ 
+[terms of the call option]
+
+--- Page 56 ---
+Entra ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+11  
+Call Date(s): [call date(s)] 
+ 
+Call Price(s): [call price(s)] 
+ 
+Call Notice Period: [call notice period] 
+ 
+Put Option: 
+As defined in the Base prospectus section 13.3. 
+ 
+[terms of the put option] 
+ 
+ 
+Obligations: 
+ 
+Issuer’s special obligations during the 
+term of the Bond Issue 
+As specified in the Base Prospectus section 13.4.6. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Listing: 
+ 
+Listing of the Bond Issue/Marketplace: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.5. 
+ 
+Exchange for listing of the Bonds: [Exchange] 
+ 
+/ The Bonds will not be applied for listing on any Exchange. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Any restrictions on the free 
+transferability of the securities: 
+ 
+As specified in the Base prospectus section 13.4.10. 
+ 
+Restrictions on the free transferability of the securities: [specify] 
+ 
+ 
+Purpose/Use of proceeds: 
+As specified in the Base Prospectus section 13.4.1. 
+ 
+Estimated total expenses related to the offer: [specify] 
+ 
+ 
+External party 
+Cost 
+The Norwegian FSA 
+NOK [•] 
+The stock exchange 
+NOK [•] 
+The Bond Trustee 
+NOK [•] (annual fee) 
+The Joint Lead Managers 
+NOK [•] 
+ 
+Estimated net amount of the proceeds: [specify] 
+ 
+Use of proceeds: [specify] 
+ 
+[Other: (specify)] 
+ 
+ 
+Prospectus and Listing fees: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.5. 
+ 
+Listing fees: [specify] 
+ 
+/ Other: (specify)] 
+ 
+ 
+Market-making: 
+As defined in the Base Prospectus section 13.3. 
+ 
+[A market-making agreement has been entered into between the Issuer 
+and [name of market maker]] 
+ 
+/ Other: (specify)] 
+ 
+ 
+Approvals: 
+As specified in the Base Prospectus section 13.4.9. 
+ 
+Date of the Board of Directors’ approval: [date] 
+ 
+/ Other: (specify)] 
+ 
+ 
+Bond Terms: 
+As defined in the Base Prospectus section 13.3 and specified in the
+
+--- Page 57 ---
+Entra ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+12  
+Base Prospectus section 13.4.7.  
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with 
+the CSD, the Bondholders are bound by these Bond Terms and any 
+other Finance Document, without any further action required to be taken 
+or formalities to be complied with by the Bond Trustee, the Bondholders, 
+the Issuer or any other party. 
+/ Other: (specify)] 
+ 
+ 
+Status and security: 
+As specified in the Base Prospectus section 13.4.6.  
+ 
+/ Other: (specify)] 
+ 
+ 
+Bondholders’ meeting/ 
+Voting rights: 
+As defined in the Base Prospectus section 13.3. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Availability of the Documentation: 
+https://entra.no 
+ 
+ 
+Manager(s): 
+[name and contact details of Manager] 
+ 
+[LEI for Manager] 
+ 
+ 
+Bond Trustee: 
+As defined in the Base prospectus section 13.3. 
+ 
+The Bond Trustee is [name of the Bond Trustee] 
+ 
+Paying Agent: 
+As defined in the Base prospectus section 13.3. 
+ 
+The Paying Agent is [name of the Paying Agent] 
+ 
+ 
+Securities Depository / CSD: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.5 
+ 
+/ Other: (specify)] 
+ 
+ 
+Calculation Agent: 
+[As defined in the Base Prospectus section 13.3 
+ 
+/ Other: (specify)]  
+ 
+ 
+Listing fees: 
+Prospectus fee for the Base Prospectus including template for Final 
+Terms is NOK104,000. 
+ 
+[Listing and other fees at the Exchange: (specify)  
+ 
+/ No listing: N/A]
+
+--- Page 58 ---
+Entra ASA 
+ 
+Final Terms - [Title of Notes] 
+ 
+ISIN [ISIN] 
+ 
+ 
+13  
+3 Additional information 
+Advisor 
+The Issuer has mandated [name of manager[s]] as [type of manager] for the issuance of the Loan. The [type of 
+manager] [has/have] acted as advisor[s] to the Issuer in relation to the pricing of the Loan. 
+ 
+The [type of manager] will be able to hold position in the Loan.  
+ 
+/ Other: (specify)] 
+ 
+Interests and conflicts of interest 
+[The involved persons in the Issuer or offer of the Bonds have no interest, nor conflicting interests that are 
+material to the Bond Issue. 
+ 
+/ Other: (specify)] 
+ 
+Rating 
+[There is no official rating of the Loan. 
+ 
+The Issuer is rated as follows: 
+Moody’s: [•] 
+ 
+/ Other: (specify)]  
+ 
+See the Base Prospectus clause 13.6 Rating. 
+ 
+Listing of the Loan: 
+[As defined in the Base Prospectus section 13.3] 
+ 
+The Prospectus will be published in [country]. An application for listing at [Exchange] will be sent as soon as 
+possible after the Issue Date. Each bond is negotiable. 
+ 
+Statement from the [type of manager]: 
+[name of manager[s]] [has/have] assisted the Issuer in preparing the prospectus. The [type of manager] 
+[has/have] not verified the information contained herein. Accordingly, no representation, warranty or undertaking, 
+express or implied, is made, and the [type of manager] expressively disclaim[s] any legal or financial liability as to 
+the accuracy or completeness of the information contained in this prospectus or any other information supplied in 
+connection with bonds issued by the Issuer or their distribution. The statements made in this paragraph are 
+without prejudice to the responsibility of the Issuer. Each person receiving this prospectus acknowledges that 
+such person has not relied on the [type of manager] nor on any person affiliated with them in connection with its 
+investigation of the accuracy of such information or its investment decision. 
+ 
+[place], [date] 
+ 
+ 
+[name of manager[s]] 
+[web address of manager[s]]

@@ -1,0 +1,2878 @@
+--- Page 1 ---
+This Base Prospectus was approved by the Swedish Financial Supervisory Authority on March 11, 2024. This Base 
+Prospectus is valid for twelve (12) months after the date of its approval provided that the Base Prospectus is 
+supplemented in accordance with article 23 of the Prospectus Regulation. The obligation to supplement this Base 
+Prospectus in the event of significant new factors, material mistakes or material inaccuracies does not apply when the 
+Base Prospectus is no longer valid. 
+ 
+ 
+Electrolux Professional AB (publ) 
+Base prospectus for 
+Medium Term Note Programme 
+ 
+Arranger 
+Skandinaviska Enskilda Banken AB (publ) 
+Dealers 
+Danske Bank A/S Danmark, Sverige Filial 
+Skandinaviska Enskilda Banken AB (publ)
+
+--- Page 2 ---
+2(51) 
+ 
+IMPORTANT INFORMATION 
+In this base prospectus, the “Company” or “Electrolux Professional” means Electrolux Professional AB (publ). 
+The “Group” means the Company with all its subsidiaries from time to time (each a “Group Company”). “Euroclear 
+Sweden” refers to Euroclear Sweden AB. “Nasdaq Stockholm” refers to Nasdaq Stockholm AB. “SEK” refers to 
+Swedish kronor. “M” refers to million(s) and “K” refers to thousand(s). 
+Words and expressions defined in the general terms and conditions for medium term notes (the “Terms and 
+Conditions”) beginning on page 21, and, as the case may be, in the final terms, the form of which beginning on page 37 
+(the “Final Terms”) have the same meanings when used in this Base Prospectus, unless expressly stated or the context 
+requires otherwise. 
+Complete information regarding the Company and the Loan may only be obtained through a reading of the Final Terms 
+together with the Base Prospectus (as supplemented). 
+Notice to investors 
+This Base Prospectus has been prepared by the Company and contains information about its programme for medium 
+term notes (the “Programme”). The Programme has been established by the Company to constitute a framework under 
+which the Company from time to time may issue medium term notes (“Notes”) in SEK or EUR in a minimum Nominal 
+Amount corresponding to an amount of EUR 100,000, and with a minimum term of one year. The Company has 
+undertaken towards the Dealers that the total outstanding Nominal Amount of Notes under the Programme shall not 
+exceed an amount corresponding to an amount of SEK 5,000,000,000 at any time. The Company and the Dealers may 
+agree to increase or decrease such amount. This Base Prospectus does not contain and does not constitute an offer or a 
+solicitation to buy or sell Notes.  
+The Base Prospectus has been approved and registered by the Swedish Financial Supervisory Authority 
+(Finansinspektionen) (the “SFSA”) pursuant to Article 20 in Regulation (EU) 2017/1129 of the European Parliament 
+and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or 
+admitted to trading on a regulated market, and repealing Directive 2003/71/EC (the “Prospectus Regulation”) and is 
+valid for a period of twelve months from the day of approval.  
+This Base Prospectus is governed by Swedish law. The courts of Sweden have exclusive jurisdiction to settle any dispute 
+arising out of or in connection with this Base Prospectus. 
+This Base Prospectus may not be distributed in any jurisdiction where such distribution would require any additional 
+prospectus, registration or measures other than those required under Swedish law, or otherwise would conflict with 
+regulations in such jurisdiction. Persons into whose possession this Base Prospectus may come are required to inform 
+themselves about, and comply with such restrictions. Any failure to comply with such restrictions may result in a 
+violation of applicable securities regulations. The Notes have not been, and will not be, registered under the United 
+States Securities Act of 1933 or the securities laws of any state or other jurisdiction outside Sweden. The Notes may 
+not be offered, sold or delivered within the United States or to, or for the account or benefit of, U.S. persons.  
+No person has been authorized to provide any information or make any statements other than those contained in this 
+Base Prospectus. Should such information or statements nevertheless be furnished, it/they must not be relied upon as 
+having been authorized or approved by the Company and the Company assumes no responsibility for such information 
+or statements. Neither the publication of this Base Prospectus nor the offering, sale or delivery of any Note implies that 
+the information in this Base Prospectus is correct and current as at any date other than the date of this Base Prospectus 
+or that there have not been any changes in the Company’s or the Group’s business since the date of this Base Prospectus. 
+If the information in this Base Prospectus becomes subject to any material change, such material change will be made 
+public in accordance with the provisions governing the publication of supplements to prospectuses in the Prospectus 
+Regulation. 
+Each potential investor in the Notes must in light of its own circumstances determine the suitability of the investment. 
+The Final Terms in respect of any Notes will include the target market assessment in respect of the Notes and appropriate 
+channels for distribution of the Notes. Any person subsequently offering, selling or recommending the Notes 
+(a “distributor”) should take into consideration the target market assessment. However, a distributor subject to 
+Directive 2014/65/EU (as amended, “MiFID II”) is responsible for undertaking its own target market assessment in 
+respect of the Notes (by either adopting or refining the target market assessment) and determining appropriate 
+distribution channels. 
+For the purpose of the MiFID Product Governance rules under EU Delegated Directive 2017/593 (the “MiFID Product 
+Governance Rules”), a determination will be made in relation to each issue about whether the Arranger or any Dealer 
+participating in the issue of the Notes is a manufacturer in respect of such Notes. Neither the Arranger nor the Dealers 
+nor any of their respective affiliates that do not participate in an issue will be a manufacturer for the purpose of the 
+MIFID Product Governance Rules. 
+Forward-looking statements 
+The Base Prospectus contains certain forward-looking statements that reflect the Company’s current views or 
+expectations with respect to future events and financial and operational performance. The words “intend”, “estimate”, 
+“expect”, “may”, “plan”, “anticipate” or similar expressions regarding indications or forecasts of future developments 
+or trends, which are not statements based on historical facts, constitute forward-looking information. Although the 
+Company believes that these statements are based on reasonable assumptions and expectations, the Company cannot 
+give any assurances that such statements will materialize. Because these forward-looking statements involve known 
+and unknown risks and uncertainties, the outcome could differ materially from those set out in the forward-looking 
+statement.
+
+--- Page 3 ---
+3(51) 
+ 
+TABLE OF CONTENTS 
+DESCRIPTION OF THE PROGRAMME .............................................................................................................. 4 
+RISK FACTORS ..................................................................................................................................................... 7 
+GENERAL TERMS AND CONDITIONS ............................................................................................................ 21 
+FORM OF FINAL TERMS ................................................................................................................................... 37 
+BUSINESS DESCRIPTION .................................................................................................................................. 41 
+THE COMPANY ................................................................................................................................................... 43 
+LEGAL AND SUPPLEMENTARY INFORMATION ......................................................................................... 48 
+ADDRESSES ......................................................................................................................................................... 50
+
+--- Page 4 ---
+4(51) 
+ 
+DESCRIPTION OF THE PROGRAMME 
+The following is a description of the Programme and is qualified in its entirety by the full Conditions included in 
+the section “General Terms and Conditions” and “Form of Final Terms”. 
+General 
+The Programme has been established by Electrolux Professional AB (publ) for the issuance of medium term notes 
+in SEK or EUR. A Note may be issued in a minimum Nominal Amount of EUR 100,000 (or the equivalent in 
+SEK) and with a minimum term of one year. The Company has undertaken towards the Dealers that the total 
+outstanding Nominal Amount of Notes under the Programme shall not exceed SEK 5,000,000,000 at any time. 
+The Company and the Dealers may agree to increase or decrease such amount. 
+The Company has appointed Skandinaviska Enskilda Banken AB (publ) as Arranger and Danske Bank A/S 
+Danmark, Sverige Filial and Skandinaviska Enskilda Banken AB (publ) as Dealers, in respect of the Programme. 
+Further Dealers may be appointed. 
+General Terms and Conditions and Final Terms 
+Notes issued under the Programme will be governed by the Terms and Conditions as well as the applicable Final 
+Terms. The Terms and Conditions are standardised and apply to all Notes issued under the Programme. For each 
+Loan, Final Terms are prepared that include supplementary terms and conditions for the relevant Loan. Applicable 
+Final Terms must therefore be read in conjunction with the Terms and Conditions. The Final Terms will be 
+submitted to the SFSA and published on the webpage of the Company. Any amendments (other than adjustments 
+to clear and obvious errors and amendments made in accordance with Section 13 (Replacement of Base Rate) in 
+the Terms and Conditions) to the Terms and Conditions will not be effective to Notes issued prior to such 
+amendment, unless a Noteholders’ Meeting resolves otherwise. 
+Form of the Notes 
+Notes will be issued in dematerialised book-entry form and registered on a Securities Account (maintained with 
+Euroclear Sweden) on behalf of the relevant Noteholder. Hence, no physical notes will be issued. Notes will be 
+registered in accordance with the Swedish Financial Instruments Accounts Act (lagen (1998:1479) om 
+värdepapperscentraler och kontoföring av finansiella instrument). 
+Status of the Notes 
+Upon issuance, Notes will constitute direct, unconditional, unsubordinated and unsecured debt obligations of the 
+Company and rank pari passu and without any preference among themselves and shall rank at least pari passu 
+with all other present and future unsubordinated and unsecured obligations (except those obligations preferred by 
+law) of the Company. 
+Pricing and interest 
+The Pricing of the MTN cannot be established in advance but is set in connection with the relevant issue on the 
+bases of the prevailing market conditions. MTN may be issued at a price below or exceeding the relevant Nominal 
+Amount. The interest (if any) applicable to MTN depends on several factors, one of which is the interest applicable 
+to other investments with a corresponding term. Interest (if any) may be set at a floating interest rate based on 
+EURIBOR or STIBOR, plus a margin, or at a fixed interest rate. 
+Admission to trading 
+Notes issued may be listed on a Regulated Market. If relevant, any intended listing of Notes will be set out in the 
+applicable Final Terms. The estimated costs associated with such listing will also be set out in the applicable Final 
+Terms. Although the Company has undertaken to apply for registration on a Regulated Market for Loans which 
+according to the Final Terms must be admitted to trading on a Regulated Market, and, as long as permitted under 
+applicable laws and regulations, to take any measures that may be required to maintain the admission as long as 
+the relevant Loan is outstanding, there is no assurance that such application will be accepted, that Notes will be so 
+admitted or that an active trading market will develop.
+
+--- Page 5 ---
+5(51) 
+ 
+Time-bar 
+Claims for the repayment of the principal of Notes will be time-barred and become void ten (10) years after the 
+Maturity Date. Claims for the payment of interest will be time-barred and become void three (3) years from the 
+relevant Interest Payment Date. Upon time-bar, the Company will be entitled to keep any funds that may have 
+been reserved for such payments. 
+If the time-bar period is duly interrupted in accordance with the Swedish Limitations Act (preskriptionslagen 
+(1981:130)) a new time-bar period of ten years will commence for claims in respect of principal and three years 
+for claims in respect of interest amounts, in both cases calculated from the day indicated by provisions laid down 
+in the Swedish Limitations Act concerning the effect of an interruption in the limitation period. 
+Governing law 
+The Loan Terms and any non-contractual obligations issues which arise in connection therewith, shall be governed 
+by the laws of Sweden. Disputes shall be settled by Swedish courts. The Stockholm District Court (Stockholms 
+tingsrätt) shall be the court of first instance. 
+Product description 
+Interest structures 
+Notes issued under the Programme may have a fixed or floating interest rate or have Zero Coupon. The interest 
+structure applicable to a specific Loan will be stated in the Final Terms. Below is a short description of the available 
+interest structures. 
+Fixed interest rate 
+If the relevant Final Terms of a Loan specify fixed interest rate as applicable to it, the Loan shall bear interest 
+according to the Interest Rate: 
+(a) 
+in respect of Loans issued in SEK, from, but excluding, the Interest Commencement Date up to and 
+including the Maturity Date; and 
+(b) 
+in respect of Loans issued in EUR, from, but excluding, the Interest Commencement Date up to and 
+including the Maturity Date. 
+Interest is calculated using the Day Count Convention 30/360. 
+Floating interest rate (FRN) 
+If a Loan is specified as a Loan with Floating Rate, the Loan will bear interest at the Interest Rate: 
+(a) 
+in respect of Loans issued in SEK, from, but excluding, the Interest Commencement Date up to and 
+including the Maturity Date. The Interest Rate for the relevant Interest Period shall be calculated by the 
+Calculation Agent on the respective Interest Determination Date and is the sum of the Base Rate and the 
+Margin for the relevant period, adjusted for the application of Section 13 (Replacement of Base Rate); 
+and 
+(b) 
+in respect of Loans issued in EUR, from, but excluding, the Interest Commencement Date up to and 
+including the Maturity Date. The Interest Rate for the relevant Interest Period shall be calculated by the 
+Calculation Agent on the respective Interest Determination Date and shall be notified to the Paying Agent 
+and is the sum of the Base Rate and the Margin for the relevant period, adjusted for the application of 
+Section 13 (Replacement of Base Rate). 
+Interest is calculated using the Day Count Convention Actual/360. 
+Zero Coupon  
+If the Loan is specified as a Zero Coupon it bears no interest. Loans with Zero Coupon may be issued at a discount, 
+par or premium.
+
+--- Page 6 ---
+6(51) 
+ 
+European Benchmarks Regulation 
+Interest payable for Notes issued under the Programme may be calculated by reference to certain benchmark, being 
+EURIBOR and STIBOR, as defined in the Terms and Conditions. The benchmarks are provided by the European 
+Money Market Institute (“EMMI”) and the Swedish Financial Benchmark Facility AB (“SFBF”). EMMI and 
+SFBF is registered in the register of administrators provided by the European Securities and Markets Authority 
+(ESMA) pursuant to Article 36 of Regulation (EU) 2016/1011 on indices used as benchmarks in financial 
+instruments and financial contracts or to measure the performance of investment funds (the “Benchmarks 
+Regulation”). 
+Repayment of Loans and payment of interest 
+Repayment at maturity 
+Each Loan shall be redeemed on its Maturity Date in an amount equal to its Nominal Amount (or such other 
+amount specified in the relevant Final Terms), together with accrued but unpaid interest. If the Maturity Date is 
+not a Business Day, redemption shall occur on this first following Business Day. 
+Repurchase of Notes by the Company 
+The Company may repurchase MTN at any time and at any price in the open market or otherwise provided that 
+repurchase is in compliance with applicable law. MTN owned by the Company may, in the discretion of the 
+Company, be retained, resold or cancelled. 
+Repurchase upon change of control 
+Each Noteholder is entitled to demand repurchase of all, or some, of the MTN held by the Noteholder, if: 
+(a) the shares in the Company cease to be admitted to trading on a Regulated Market; or 
+ 
+(b) an event or a series of events occurs, resulting in a natural or legal person, individually or together with such 
+related parties as referred to in the Stock Market (Takeover Bids) Act (lag (2006:451) om offentliga 
+uppköpserbjudanden på aktiemarknaden), directly or indirectly, at some point acquiring or controlling more 
+than fifty (50) percent of the shares or voting rights in the Company. 
+As soon as the Company becomes aware of such an event, it is the Company’s responsibility to notify the 
+Noteholders of such event through a press release published on the Company’s website and in accordance with the 
+Terms and Conditions. The notification must include instructions regarding how a Noteholder that wishes to have 
+MTN repurchased should act, as well as specifying the repurchase date. 
+The repurchase date shall occur no earlier than twenty (20) and no later than forty (40) Business Days after the 
+notification of the change of ownership has been sent to Noteholders in accordance with the Terms and Conditions. 
+However, in the event the repurchase date is not a Business Day, the repurchase date shall be deemed to be the 
+Business Day immediately following. 
+Where a right to repurchase exists, the Company shall, upon demand by a Noteholder, repurchase the relevant 
+MTN on the repurchase date at the price per MTN that would have been repaid on the Maturity Date, together 
+with accrued interest (if any). For MTN with Zero Coupon, an amount per MTN calculated in accordance with the 
+Terms and Conditions shall be paid instead. 
+Notices from Noteholders regarding demands for repurchase of MTN’s shall be drafted in accordance with the 
+instructions set forth in the notice provided to the Noteholders in accordance with the Terms and Conditions. The 
+Notice from the Noteholder must be received by the Company at least ten (10) Business Days before repurchase 
+date.
+
+--- Page 7 ---
+7(51) 
+ 
+RISK FACTORS 
+In this section, material risk factors are illustrated and discussed, including both risks pertaining to Electrolux 
+Professional and the Group’s business and risks related to the Notes. The Company’s assessment of the materiality 
+of each risk factor is based on the probability of their occurrence and the expected magnitude of their negative 
+impact. The description of the risk factors below is based on information available and estimates made on the date 
+of this Base Prospectus. 
+The risk factors are presented in categories where the most material risk factors in a category are presented first 
+under that category. Subsequent risk factors in the same category are not ranked in order of materiality or 
+probability of occurrence. Where a risk factor may be categorized in more than one category, such risk factor 
+appears only once and in the most relevant category for such risk factor. 
+Risks related to Electrolux Professional 
+Risks relating to Electrolux Professional’s operations and industry 
+Electrolux Professional is exposed to risks related to macroeconomic factors and geopolitical conditions. 
+Electrolux Professional is a global provider of professional equipment within the segments Food & Beverage and 
+Laundry to a wide range of professional customers, including restaurants, hotels, schools, businesses, hospitals 
+and supermarkets. Demand for Electrolux Professional’s products depends on the general economic climate within 
+the professional equipment industry, which in turn is affected by macroeconomic factors in the countries and 
+regions where Electrolux Professional conducts operations, including the rate of growth in the global and local 
+economy, employment levels and disposable household income, population growth and urbanization, currency 
+rate fluctuations, tariffs and other measures restricting trade, commodity prices and inflation. 
+A significant negative economic development or political uncertainties in the markets in which Electrolux 
+Professional operates would trigger a significant industry-wide decline in sales. In February 2022, Russia launched 
+an invasion of Ukraine. Electrolux Professional has since then ceased its operations and divested its previous 
+subsidiary in Russia. The decision to leave Russia did not have any material effect on the Group’s profit or 
+profitability. The Middle East is another region that recently has been subject to geopolitical uncertainty. 
+Following Hamas assault on October 7, 2023, Israel, as a response, declared war against Hamas. From an economic 
+perspective, the impact on the Group, of the war between Russia and Ukraine and the war between Israel and 
+Hamas, respectively, has so far been limited. However, it is uncertain what long-term effects the conflicts will 
+have on the global economy and on the Group’s business, and it is possible that the Group’s reputation, business, 
+financial position and results of operations will be adversely affected. 
+Furthermore, the trade dispute between the United States and China continues to impact the global economy 
+resulting in increased costs for the professional equipment industry as a consequence of trade barriers and imposed 
+tariffs. A deterioration of, or the rise of new trade disputes, could adversely impact the Group’s business, financial 
+position and results of operations. 
+The Group may also be exposed to risks related to compliance with additional or changed trade sanctions regimes, 
+such as any trade restrictions imposed as a consequence of the above mentioned conflicts, even though the Group 
+has policies and procedures in place to assist with compliance. For example, Electrolux Professional may, due to 
+comprehensive and complex trade sanctions regimes, be required to cease or limit its involvement in affected 
+markets, and it is possible that the Group’s reputation, business, financial position and results of operations will 
+be adversely affected as a result (see further “Electrolux Professional is exposed to compliance-related risks” 
+below). 
+The outbreak of pandemics may affect the general economic development, both globally and regionally, and 
+negatively impact demand from the Group’s end markets. Consequently, the Group’s cash flow, net sales, and 
+profitability could be adversely affected.  
+The global economy has experienced a downturn with slow growth, high inflation, increased interest rates and 
+energy prices. As demand for the Group’s products depends on the general economic climate within the 
+professional equipment industry, a longer period of economic downturn or further deterioration could have an 
+adverse impact on the Group’s net sales and results of operations. 
+In 2023, 61 percent, 12 percent and 27 percent of Electrolux Professional’s net sales were derived from Europe, 
+APAC & MEA and Americas, respectively (which are the Group’s geographical regions). Hence, a significant 
+negative economic development or political uncertainties in any of those markets would thus materially adversely 
+affect the Group’s net sales and results of operations.
+
+--- Page 8 ---
+8(51) 
+ 
+Electrolux Professional is exposed to risks relating to its manufacturing units. 
+Electrolux Professional has 13 manufacturing units in eight countries and the manufacturing comprises a chain of 
+processes in which extensive outages and disruptions would adversely affect Electrolux Professional’s possibilities 
+to perform its obligations to customers. Electrolux Professional’s manufacturing units are located in Europe 
+(Sweden, Italy, France and Switzerland), the United States (Weidman, MI and Vicksburg, MS) and Asia (China, 
+Thailand and Japan), of which the units in Vallenoncello, Italy, Ljungby, Sweden and Rayong, Thailand, account 
+for the largest share of the Group’s production. This exposes Electrolux Professional to a number of risks that are 
+more or less specific to the country or region in question. These risks include geopolitical unfavorable 
+developments, extreme weather conditions and natural disasters, fire, theft, systems failures, mechanical failures 
+or equipment breakdown. For example, Electrolux Professional has manufacturing units located in Vallenoncello, 
+Italy and Izunokuni, Japan, which are both located in earthquake zones. Epidemics or pandemics may also affect 
+the Group’s manufacturing capacity. Any extensive outages or disruptions as a consequence of such events would 
+affect Electrolux Professional’s ability to manufacture products, which would have a material adverse effect on its 
+business, results of operations and financial position. 
+Furthermore, from time to time, Electrolux Professional may relocate or transfer part of its manufacturing capacity 
+to new plants or between existing plants. Transfer of production from one facility to another as well as construction 
+of new plants are costly and complex processes, and presents a risk of additional disruptions and delays during the 
+transition or construction period. In addition, during relocation, Electrolux Professional will be dependent on cost-
+efficient deliveries of components and half-finished goods from suppliers. Any prolonged disruption in the 
+operations of any of the Group’s manufacturing facilities or any unforeseen extensive delay in shifting 
+manufacturing operations to new facilities, whether due to technical or labor difficulties or delays in regulatory 
+approvals or any start-up problems, would result in delays in delivery of products to customers, increased costs 
+and reduced revenues. There is also a risk that, in the future, Electrolux Professional is unable to build new plants 
+or make investments in existing plants on favorable terms, or is unable to rationalize production, if required. The 
+degree to which such events may affect Electrolux Professional is uncertain, and presents a highly significant risk 
+to the Group’s manufacturing capabilities. 
+Electrolux Professional is exposed to risks related to raw materials, components and commodities. 
+On a global as well as a regional basis, the sources and prices of raw materials and components are susceptible to 
+significant price fluctuations due to supply/demand trends, transportation costs, government regulations and tariffs, 
+changes in currency exchange rates, price controls, inflation and the economic climate and other unforeseen 
+circumstances. Fluctuations in commodity prices impact the input costs and, as a consequence, the Group’s 
+margins. Increased energy prices also negatively affect the Group’s costs. Furthermore, tariffs and other measures 
+restricting trade that encompass raw materials that Electrolux Professional uses in its production, or components 
+included in Electrolux Professional’s products, increase Electrolux Professional’s production costs and thereby 
+negatively affect its results of operations. Shortages in the supply of raw materials or electricity would adversely 
+affect Electrolux Professional’s ability to manufacture its products. 
+In 2023, Electrolux Professional purchased raw materials and components for approximately SEK 3.1bn. The price 
+on raw materials, in turn, affects the price on components. Accordingly, significant increases in input prices of 
+steel and other important raw materials as well as components thus adversely affect Electrolux Professional’s 
+production costs and thereby its results of operations. There is a risk that, in the future, the possibilities to 
+compensate in full or in part for cost increases by price increases to customers are limited, which would exacerbate 
+the negative outcome of such cost increases. For example, in 2022 lead times were often longer due to the shortage 
+of components as a result of the global uncertainties after the pandemic and the war in Ukraine. The shortage of 
+components and shipping availability created increased stock and increased cost. Furthermore, there is a risk that 
+contractual hedging activities carried out by the Group in relation to raw materials and commodity prices are not 
+sufficient or effective in reducing costs associated with increased prices.  
+Electrolux Professional is subject to risks related to market competition. 
+Electrolux Professional operates in a competitive industry characterized by evolving industry standards and 
+continuous improvements in performance characteristics and product features. Competitive factors include selling 
+price, product features and characteristics, performance and quality, reputation, energy efficiency and aftermarket 
+services. Electrolux Professional faces competition from a number of competitors, including, among others, Ali 
+Group, Alliance Laundry Systems, Marmon Group, Middleby and Rational, many of which have strong brand 
+recognition and great financial capacity. Several of these competitors operate globally and are large, well-
+established companies. In response to a competitive environment, the Group may be forced to increase efficiency 
+by further reducing costs along the value chain, including at the level of suppliers. Increased competition that
+
+--- Page 9 ---
+9(51) 
+ 
+requires Electrolux Professional to lower its prices in order to keep customers and markets shares would adversely 
+affect its margins and results of operations. Furthermore, if Electrolux Professional experiences a significant 
+reduction in orders by volume or revenues, or loses important or major customers due to increased competition, it 
+would have a material adverse effect on its net sales and results of operations. The degree to which market 
+competition may affect Electrolux Professional is uncertain, and presents a highly significant risk to the Group’s 
+net sales and margins. 
+Electrolux Professional is exposed to risks related to sales agreements and warranty undertakings. 
+Electrolux Professional sells its products both directly to customers and indirectly through a global network of 
+dealers and distributors. The Group also offers full solution product offerings (including elements of design, 
+integration, adaptation and service) comprising food, beverage and laundry equipment in a single site, which may 
+extend over several months. Such projects expose Electrolux Professional to risks and, particularly in the case of 
+direct sales, require project planning and control as well as monitoring, to ensure that obligations and assessments 
+regarding project costs and revenues provide a satisfactory basis for reporting of revenues, costs and profitability. 
+Agreements and projects with fixed-price components also entail risks, since such components mean that 
+Electrolux Professional accepts the price for the assignment, which is based on specified conditions and estimates 
+of the ultimate cost of the assignment at the time when the agreement is entered into, whereupon Electrolux 
+Professional undertakes the main risks associated with performance of the project. There is a risk of Electrolux 
+Professional failing to adequately estimate the costs for performance of a project, which would have a material 
+adverse effect on margins. Projects that require extensive initial investments in development and production would 
+also adversely affect Electrolux Professional’s cash flows. 
+Some of the products sold are covered by an original warranty, which is included in the price and which extends 
+for a predetermined period of time (normally one to two years). The most common warranty for Electrolux 
+Professional is to replace a faulty component under legal and common practice warranty terms. Under IFRS 
+principles, provisions for this original warranty are estimated based on historical data regarding, among other 
+things, service rates and cost of repairs. Provisions for warranties entail estimates of the outcome of claims as a 
+consequence of defective products. Assumptions must be made as to likely levels of returned goods and costs for 
+replacing defective products. If these estimates and assumptions are inaccurate to a significant extent, or if 
+Electrolux Professional is required to honor an extensive warranty undertaking, this would adversely affect the 
+Group’s results of operations and financial position.  
+Electrolux Professional is exposed to risks related to product development and other product-related risks. 
+The professional equipment industry is characterized by the need to provide an offer that addresses the ability to 
+deliver high productivity in a heavy use environment combined with evolving technological requirements affecting 
+both hardware and software. Like many other commercial environments, the professional equipment industry is 
+experiencing an evolving demand focused on clear requirements around digitalization including diagnostics, 
+predictive behavior and maintenance, data analysis and artificial intelligence. All of these requirements aim to 
+address needs related to controlling the total cost of ownership, business volatility and related costs as well as asset 
+portfolio management (e.g. multi outlet operators). Further, there is an increasing demand on connected products 
+and digital services in the professional equipment industry entailing that it is important to keep up with 
+developments in this regard in order to be competitive. In this environment, product development and product 
+enhancement are critical factors in maintaining margins and enabling sales growth in all of the Group’s product 
+lines. Accordingly, Electrolux Professional must continuously develop and enhance its products in line with 
+customer requirements, industry trends and key market characteristics. Product development and innovation also 
+require significant management time and a high level of financial and other commitments to research and 
+development, and, for example, in 2023, Electrolux Professional costs for research and development amounted to 
+SEK 388m. Furthermore, sometimes, Electrolux Professional customizes the products it develops in accordance 
+with a specific customer’s requirements or demands. If such customer chooses to terminate its relation with the 
+Group or no longer demand the customized product, there is a risk that Electrolux Professional will be unable to 
+sell any excess inventory of the customized product and that investments and product development efforts will be 
+spent in vain. Should Electrolux Professional fail with its product development or product enhancement, for 
+example, by not introducing new functions and features in a timely manner, the Group risks being unable to capture 
+further growth by developing sustainable and innovative solutions with competitive running costs, which would 
+lead to declined sales and compressed margins.  
+In addition, most of Electrolux Professional’s products and product lines, such as refrigerators, cookers, 
+dishwashers, beverage dispensers, coffee machines and washing machines, are subject to regulations that set out 
+basic health and safety requirements applicable to products released onto the market (e.g. the Machinery Directive
+
+--- Page 10 ---
+10(51) 
+ 
+(2006/42/EC), the Low Voltage Directive (2014/35/EU), the Electromagnetic Compatibility Directive 
+(2014/30/EU), the RoHS Directive (2011/65/EU), the Gas Appliances Regulation ((EU) 2016/426), the Food 
+Contact Regulation ((EC)1935/2004) and the Good Manufacturing Practice Regulation ((EC)2023/2006) and, 
+where appropriate, international and national equivalents). Accordingly, Electrolux Professional’s operations 
+require the preparation of, and compliance with, internal routines within all of the Group’s markets and regions to 
+ensure compliance with requirements as regards its products. Should any of Electrolux Professional’s products 
+have defects that lead to serious accidents or ill-health when used, there is a risk that competent authorities decide 
+to prohibit sales, the supplier will be required to recall the product from the market, or provide warning 
+information. If Electrolux Professional fails to comply with such requirement, the Group also faces the risk of 
+fines and claims from contracting parties and third parties. If a product causes personal injury or material property 
+damage, Electrolux Professional could also be required to recall the product or be exposed to product liability 
+claims. In addition, if a component in a product delivered to a customer has a safety defect, Electrolux Professional 
+could be required to replace the component. Any such material product recalls or product liability claims would 
+have a material adverse effect on Electrolux Professional’s business, results of operations or financial position. 
+Electrolux Professional is exposed to risks related to suppliers, dealers and distributors as well as other third 
+parties. 
+Electrolux Professional’s manufacturing process depends on the availability and timely supply of components and 
+raw materials, sourced and purchased primarily from third party suppliers. Some key parts, products and 
+proprietary and customized components, are available only from a single supplier or a limited group of suppliers. 
+If these single source suppliers cease or interrupt production or delivery or otherwise fail to supply these 
+components to the Group, there is a risk that Electrolux Professional is unable to obtain these products or 
+proprietary and customized components for a certain period of time, which would have a material adverse effect 
+on the Group’s ability to manufacture single type or categories of products. If Electrolux Professional is forced to 
+replace or contract a new supplier, this may lead to significant costs and work in evaluating and approving a new 
+party, and that it may be difficult for Electrolux Professional to purchase or source raw materials, products and 
+proprietary and customized components within a reasonable time or at an acceptable cost.  
+Electrolux Professional sells its products both through its own sales units and through third party dealers and 
+distributors around the world. In certain markets and within certain product categories, the Group relies on a limited 
+number of such third party dealers and distributors. If Electrolux Professional’s agreements with these parties were 
+to be terminated, or amended or renegotiated in an unfavorable way, there is a risk that the Group’s sales ability 
+would be negatively affected for a certain period of time, particularly if any such termination or unfavorable 
+amendments relate to a major distributor or dealer. If Electrolux Professional is forced to replace or commence 
+cooperation with a new dealer or distributor, this also risks leading to significant costs and work in evaluating and 
+approving a new party, and that it may be difficult to find a dealer or distributor with a corresponding sales ability. 
+Furthermore, Electrolux Professional has an extensive Customer Care global network of approximately 10,000 
+authorized technical experts and more than 2,000 service partners (both in-house personnel and external parties) 
+in approximately 110 countries that provide preventative and corrective maintenance services and offer genuine 
+parts, consumables and chemicals. Accordingly, Electrolux Professional is dependent on the performance by such 
+third parties of their contractual obligations in terms of quality, sales and delivery time, and compliance with 
+Electrolux Professional’s guidelines and other industry standards as regards, for example, the environment, work 
+environment, anti-corruption, human rights and business ethics. There is, however, a risk that such parties face 
+financial difficulties, insolvency or bankruptcy or, due to geopolitical factors or catastrophic events, fail in their 
+sales efforts, fail to deliver on time or in accordance with the cost structure or quality that they have undertaken, 
+or otherwise fail to comply with applicable guidelines and industry standards. If Electrolux Professional fails in 
+its assessment and evaluation of such parties, or if such parties fail in their commitments to the Group, there is a 
+risk that this has a material adverse effect on the Group’s reputation, business, results of operations and financial 
+position. 
+Electrolux Professional is exposed to IT and cyber security risks. 
+Electrolux Professional needs to maintain a well-functioning information technology (IT) infrastructure to ensure 
+business continuity and improve the effectiveness of its operations and to interface with its customers, as well as 
+to maintain financial accuracy and efficiency. Cyber-attacks, IT system failures, including suppliers’ or other third 
+parties’ system failures, risk disrupting the Group’s operations by causing transaction errors, processing 
+inefficiencies, delays or cancellation of customer orders, the loss of customers, impediments to the manufacture 
+or delivery of products and other business disruptions. A significant IT system failure or security breach would 
+have a material adverse effect on Electrolux Professional’s business, results of operations or financial position.
+
+--- Page 11 ---
+11(51) 
+ 
+Large parts of Electrolux Professional’s IT environment are outsourced to third party IT service providers. For 
+example, Electrolux Professional has contracted a data center infrastructure provider. If Electrolux Professional’s 
+IT infrastructure services do not work satisfactorily, and that leads to inefficiency or major disruptions in the 
+operations, it would have a material adverse effect on Electrolux Professional’s operations. IT transformation 
+projects, including any migration of data, for example when integrating new businesses, can lead to unexpected 
+costs and take longer than expected, a risk that is amplified when the time frame available is limited and projects 
+are carried out on a global scale.  
+Electrolux Professional’s cyber-security risk lies primarily in its sales and manufacturing, supply chain or 
+connected products being hacked. Furthermore, information about products, contracts, selling prices and costs 
+constitute sensitive information that could be subject to cyber threats. Electrolux Professional is primarily exposed 
+to the risk of malware and ransomware attacks, but cyber-related risks may also arise as a consequence of loss of 
+information due to insufficient or erroneous internal processes, outages or technical faults, human error or natural 
+disasters. Accordingly, Electrolux Professional is dependent on its employees and representatives to comply with 
+the Group’s internal processes and to be reactive and duly report any malicious activities but there is, however, a 
+risk that such parties fail to do so and fall victims of such attacks that may lead to business disruptions, loss of 
+important data and reputational damage. These risks may also occur at Electrolux Professional’s suppliers, dealers, 
+distributors and other external parties with whom Electrolux Professional interacts. The degree to which cyber-
+related risks may affect Electrolux Professional is uncertain and presents a significant risk to the Group since they 
+could lead to business disruptions, loss of important data and reputational damage. 
+Electrolux Professional is exposed to risks related to its international operations. 
+Electrolux Professional’s solutions and products are manufactured in 13 facilities located in eight countries around 
+the world and sold in over 110 countries. In 2023, 61 percent, 12 percent and 27 percent of the Group’s net sales 
+were derived from Europe, APAC & MEA and Americas, respectively. As a result of its international operations, 
+Electrolux Professional is exposed to a variety of complex laws, regulations and controls, and various non-binding 
+treaties and guidelines, such as those related to labor law, product safety and exchange controls. Adverse changes 
+in regulatory requirements, economic and political instability, tariffs and other trade barriers, sanctions, export 
+controls and price or exchange controls would limit the Group’s profitability in the countries concerned. In 
+addition, terrorist attacks, armed conflicts, natural disasters, governmental actions as well as epidemics and 
+pandemics that affect Electrolux Professional’s domestic and international operations in a significant way, disrupt 
+its supply chain, and impair its ability to produce and deliver its products present a significant risk for the Group. 
+Such events may directly impact Electrolux Professional’s physical facilities or those of its suppliers or customers 
+around the world, which would adversely affect the Group’s business and results of operations. 
+Electrolux Professional’s international operations also expose the Group to other risks, including unfavorable 
+political changes, unforeseen legislative changes, inconsistent application of existing laws and regulations, 
+ambiguous regulatory systems, customs compliance and tax systems as well as different methods and routines for 
+conducting business operations. The international operations in certain jurisdictions, such as China and Thailand, 
+also expose Electrolux Professional to potentially longer payment cycles, difficulties in obtaining payment of 
+accounts receivable, difficulties in repatriating cash funds from certain countries, as well as increased risks of 
+customer losses. Such factors may lead to a decline in sales and thus adversely affect Electrolux Professional’s 
+operations in the jurisdictions and region concerned. The Group expects its international operations to continue to 
+represent an increasing portion of its total operations going forward. The degree to which risks relating to 
+international operations may affect Electrolux Professional is uncertain and presents a significant risk to the 
+Group’s growth and profitability. Further, the realization of risks related to macroeconomic factors and geopolitical 
+conditions may also adversely affect Electrolux Professional’s operations (see further “Electrolux Professional is 
+exposed to risks related to macroeconomic factors and geopolitical conditions” above). 
+Electrolux Professional is dependent on maintaining its reputation. 
+Electrolux Professional’s brands and trademarks, including the licensed brand component Electrolux and the 
+licensed brand Zanussi, have worldwide recognition, and the Group’s success depends on its ability to maintain 
+and enhance its reputation and brand image. Electrolux Professional would be adversely affected if it fails to 
+achieve these objectives or if, whether or not justified, the reputation or perception of any of its brands is materially 
+tarnished or receives extensive negative publicity. In addition, extensive adverse publicity about regulatory or legal 
+actions against Electrolux Professional would also damage its reputation and brand image, undermine its 
+customers’ confidence in the Group and reduce long-term demand for its products, even if the regulatory or legal 
+action is unfounded or not material to its operations. The degree to which a harmed reputation may affect 
+Electrolux Professional is uncertain and presents a significant risk to demand for the Group’s products.
+
+--- Page 12 ---
+12(51) 
+ 
+In addition, Electrolux Professional’s success in maintaining, extending and expanding its brand image depends 
+on the Group’s ability to adapt to a rapidly changing media environment, including its increasing reliance on social 
+media and online dissemination of advertising campaigns. Negative posts or comments about Electrolux 
+Professional on social medias and other websites that spread rapidly through such forums could seriously damage 
+its reputation and brand image. 
+There are two separate global groups whose brands and trademarks consist of “Electrolux”. Accordingly, since 
+both Electrolux Professional and Electrolux use a commercial name and trademark that include “Electrolux”, any 
+negative occurrences or publicity about Electrolux could potentially hurt Electrolux Professional’s reputation and 
+brand image, undermine confidence in the Group and reduce demand for its products, even if Electrolux 
+Professional is not involved in the potential negative occurrence or publicity. 
+Electrolux Professional is dependent on attracting and retaining key employees. 
+Dedicated employees and committed managers play an important role in Electrolux Professional achieving its 
+targets and visions. Electrolux Professional depends upon the continued services and performance of its key 
+executives, senior management and skilled personnel. For example, in Electrolux Professional’s operations, 
+specialist welders are important in some of the Group’s manufacturing processes. Going forward, however, the 
+industry may face a shortage of digital competence necessary to drive and keep the pace of the digital 
+transformation. In addition, as digitalization and connectivity are becoming increasingly important differentiators 
+within the industry, hiring and retaining engineers possessing the relevant qualifications is key for the Group. Any 
+inability to hire, develop, engage and retain a sufficient number of qualified employees would materially hinder 
+the Group’s business by, for example, impairing its ability to successfully develop new products, delaying its 
+ability to bring new products to market or impairing its ability to successfully identify new business opportunities 
+and execute its strategy. There is also a risk that skilled employees leave Electrolux Professional for competitors. 
+If such resigning employees who are familiar with Electrolux Professional also take with them other skilled 
+employees, this risk is accentuated. There is a risk that this leads to future shortfalls in income or increased costs 
+and thereby have a material adverse effect on Electrolux Professional’s business, results of operations and financial 
+position. 
+In a business environment characterized by strong competition, it is important to attract and retain employees 
+possessing the right skills, experience and values. However, this can be particularly challenging in emerging 
+markets where there is intense competition for skilled employees and the overall pool of skills may be limited. If 
+this leads to increased remuneration levels, it would adversely affect Electrolux Professional’s results of 
+operations. In 2023, salaries and remuneration to employees amounted to SEK 2,912m. Conversely, if Electrolux 
+Professional were to offer excessively low remuneration levels, there is a risk that employees choose to terminate 
+their employments, which would adversely affect Electrolux Professional’s competitiveness and business. 
+Electrolux Professional is exposed to risks associated with mergers, acquisitions and divestments. 
+Part of the Group’s strategy depends on accelerating growth through acquisitions. Execution of this strategy 
+requires the continued pursuit of potential acquisitions and investments and on the Group’s ability to identify 
+suitable acquisition candidates and investment opportunities. For example, in 2021, the Group completed the 
+acquisition of Unified Brands, a U.S. based manufacturer of food service equipment. The acquisition was part of 
+the Group’s growth strategy and was made in order to grow presence in the U.S. and expand the important chains 
+segment of the professional equipment industry. As a further example, in 2024, the Group completed the 
+acquisition of Tosei Corporation, a Japanese manufacturer of professional laundry equipment and vacuum packing 
+machines. The acquisition was made in order to strengthen the Group’s position in Japan. However, there is a risk 
+that, in the future, Electrolux Professional will be unable to carry out strategic mergers and acquisitions due to, for 
+example, competition from other buyers, merger control issues, other regulatory restrictions (such as the foreign 
+direct investment rules (applicable to both Swedish and foreign investors) which entered into force in Sweden on 
+December 1, 2023, which allows foreign direct investments to be screened for security risks and, if the competent 
+authority deems it necessary, restricted or prohibited) or increased indebtedness. The limited amount of companies 
+within the segments that fulfill Electrolux Professional’s strategical requirements may also be an impeding factor. 
+If Electrolux Professional fails to carry out strategic mergers and acquisitions, this would adversely affect the 
+Group’s expansion and ability to capture further growth. 
+Mergers and acquisitions also give rise to risks related to the integration of new businesses and employees. Hence, 
+in conjunction with mergers and acquisitions, it is important to retain key employees and to have a well-functioning 
+and effective integration process. There is a risk that dissatisfaction arises among the personnel of the acquired 
+business and Electrolux Professional’s personnel, and that this ultimately leads to key employees choosing to 
+terminate their employments. In addition, Electrolux Professional may incur significant acquisition costs and
+
+--- Page 13 ---
+13(51) 
+ 
+restructuring costs or other costs in connection with mergers and acquisitions. There is also a risk that anticipated 
+synergies will not be realized, or that additional integration costs will be required in order to achieve synergies. 
+Following mergers and acquisitions, there is also a risk that business relations with customers, dealers, distributors 
+and suppliers change or cease, making it difficult for Electrolux Professional to successfully achieve anticipated 
+synergies. These risks are accentuated in conjunction with acquisitions of companies with a product offering 
+similar to Electrolux Professional, or who operates in the same segments or regions as the Group does. 
+Electrolux Professional may also be required to take on additional indebtedness or issue equity in order to finance 
+acquisitions, and these financing options may not be available on favorable terms at the required times. There is 
+also a risk that due diligence reviews, if carried out, do not identify all of the issues necessary to accurately estimate 
+the cost and potential loss contingencies of a particular transaction, including potential exposure to regulatory 
+sanctions resulting from an acquisition target’s previous activities. Such issues may be particularly relevant with 
+respect to environmental aspects (see “Electrolux Professional is exposed to environmental risks” below). There 
+is also a risk that Electrolux Professional will need to take an impairment charge on the goodwill or other intangible 
+assets in conjunction with divestments or acquisitions (see “Electrolux Professional is exposed to inventory and 
+asset risks” below). Risks associated with mergers and acquisitions thus present a significant risk for the Group. 
+Legal risks 
+Electrolux Professional is exposed to compliance-related risks. 
+Electrolux Professional’s global operations expose the Group to risks related to sustainability factors such as 
+human rights, employment conditions and corruption. These risks arise in several phases of the production chain, 
+such as in purchasing and sales. Electrolux Professional conducts operations in certain jurisdictions where there is 
+considered to be a heightened risk of corruption, particularly insofar as it includes public procurement. Such 
+operations may thus result in an increased risk of corruption. Moreover, violations of anti-corruption legislation 
+that lead to extensive fines and other criminal, civil or administrative sanctions or lead to Electrolux Professional 
+being excluded from participating in public tenders would have a material adverse effect on Electrolux 
+Professional’s reputation, business, results of operations and financial position. Corruption-related incidents or 
+accusations against suppliers and other third parties with whom Electrolux Professional has a commercial 
+relationship risk leading to adverse publicity that would damage Electrolux Professional’s reputation, even if 
+Electrolux Professional is not involved. 
+Trade sanctions, such as trade barriers, asset freezes and embargoes, and export controls imposed by the EU, the 
+UN, other organizations or individual countries, may prohibit or restrict business activities between companies in 
+different countries. Such prohibitions and restrictions can be imposed at short notice and are difficult to predict. 
+The introduction of new or changed trade restrictions may limit the ability of Electrolux Professional to operate 
+across national borders.  
+Electrolux Professional conducts operations in jurisdictions in which there might be entities and individuals subject 
+to international sanctions (so-called SDNs or blocked persons) or other jurisdictions to which might be subject to 
+comprehensive sanctions regimes. Electrolux Professional do not conduct business in, for example, Russia or 
+Belarus (since 2022). Sanctions laws are complex, and their applicability to a given circumstance can often be 
+subject to interpretation and be difficult to determine with certainty. The operations in such jurisdictions may thus 
+result in an increased risk of alleged sanctions violations in respect of past, ongoing or future business activities, 
+or that the Group becomes subject to investigations or claims, which (regardless of actual violation or not) may 
+have a material adverse effect on Electrolux Professional’s reputation, business, results of operations and financial 
+position. Sanctions regimes are also subject to frequent changes, which could require Electrolux Professional to 
+cease or limit its involvement in affected markets. There is also a risk that Electrolux Professional may be subject 
+to sanctions if it does not fully comply with the trade sanctions imposed. 
+Electrolux Professional’s product portfolio has historically been of such a nature that the products have generally 
+been deemed to not be subject to export control rules. However, the increasing importance of digitalization and 
+connectivity means that the Group’s products in the future will contain more advanced technology and software 
+solutions. Combined with the fact that several major trading parties around the world are creating and broadening 
+their regulations concerning, for example, export controls and national security, there is a risk that Electrolux 
+Professional’s products may, in the future, fall within the scope of export control rules, which would demand 
+greater future cash flows, increased administration, additional internal controls and, in certain cases, trading 
+restrictions. 
+In addition, Electrolux Professional is dependent on the compliance by its employees, suppliers and other third 
+parties with laws and regulations, as well as internal governance documents and policies. Breaches of, or non-
+
+--- Page 14 ---
+14(51) 
+ 
+compliance with, applicable laws and regulations would adversely affect Electrolux Professional’s business and 
+reputation. Such behavior include, for example, non-compliance with laws and regulations related to public 
+procurement and competition law, money laundering, IT security and data protection (including GDPR), corporate 
+governance, export controls and trade sanctions, IFRS and other rules relating to accounting and financial 
+reporting, the environment, the work environment, business ethics and equal treatment. There is also a risk that 
+internal governance documents, policies and codes of conduct are not at all times adequate and fully effective, 
+particularly if the Group is confronted with risks that it has not fully or adequately identified or anticipated. 
+Electrolux Professional also faces the risk that its executives make decisions that are not in compliance with the 
+Group’s strategies, corporate governance practices, internal guidelines and policy documents. If Electrolux 
+Professional’s internal controls and other measures to safeguard compliance with laws, regulations, internal 
+guidelines and policies are insufficient, there is a risk that the Group’s reputation is damaged and that it becomes 
+subject to fines, penalties and other sanctions and/or exposed to civil or criminal liability. 
+Electrolux Professional is exposed to environmental risks. 
+Electrolux Professional’s manufacturing is subject to numerous international, national and local environmental, 
+health and safety directives, laws and regulations, including those pertaining to the storage, handling, treatment, 
+transportation and disposal of hazardous and toxic materials, the construction and operation of plants and standards 
+relating to energy efficiency and the discharge of pollutants to air, soil and water, under which the requirements 
+and standards are continuously subject to changes. Some of the Group’s manufacturing facilities require permits 
+for their operations, which include thresholds or maximum permissible amounts for air- and water-borne emissions 
+and noise, and also require Electrolux Professional to submit notifications, reports and/or documentation to 
+relevant authorities. Any severe non-compliance or disputes risk resulting in the imposition of fines, penalties or 
+liens, or give rise to civil or criminal liability, which would have a material adverse effect on Electrolux 
+Professional’s reputation and business.  
+In addition, Electrolux Professional may be held liable to investigate and rectify contamination and emissions at 
+the Group’s plants and on property which Electrolux Professional, or companies and businesses which the Group 
+has acquired or with which it has merged, owns or has previously owned, irrespective of whether Electrolux 
+Professional has caused the contamination or whether the operation that caused the contamination was lawful at 
+the time the contamination occurred. For most of the Group’s facilities, operations have been conducted for a long 
+period of time. This typically entails an increased risk of claims in relation to contaminations, as the environmental 
+requirements on operations were generally less strict in the past compared to today. For example, in 2001, the 
+Group divested a manufacturing unit in Sursee, Switzerland. In 2010, the Group was notified that the divested 
+Sursee plant was contaminated with chlorinated solvents, which required the Group to compensate the acquirer 
+with Swiss franc (“CHF”) 280,000. The acquirer has thereafter discovered further contaminations and claimed 
+additional amounts from Electrolux Professional. The Group has made provisions for the claims totaling 
+CHF 460,000. Environmental risks could be significant in relation to acquisitions and divestments involving 
+property and manufacturing facilities.  
+Electrolux Professional also risks being subject to claims from public authorities, private individuals, companies 
+or other parties who request compensation for alleged personal injury, property damage or damage to nature caused 
+by contamination or hazardous substances resulting from Electrolux Professional’s business, manufacturing units 
+or products. Discoveries of earlier unknown or new serious contamination, or demands for investigation and 
+rectification of previously known such contamination at Electrolux Professional’s plants, risk leading to large and 
+unexpected costs. The Group maintains provisions on its balance sheet for certain environmental remediation 
+matters, which, as of December 31, 2023, amounted to SEK 36m. Risks of substantial costs and liabilities, 
+including for the investigation and remediation of past or present contamination, are inherent in the Group’s 
+ongoing operations, and its ownership and occupation of industrial properties thus present a significant risk. 
+Electrolux Professional is exposed to risks related to legal disputes and administrative proceedings. 
+Electrolux Professional is involved in disputes in the ordinary course of its business. The disputes may concern, 
+among other things, alleged defects in delivery of goods and services, warranty undertakings, supplier agreements, 
+employment issues, patent rights and other intellectual property rights and other issues on rights and obligations 
+that arise in connection with the Group’s operations. For example, in 2020 a supplier filed a lawsuit in Italy against 
+Electrolux Professional for a significant amount regarding alleged damages related to products and prices during 
+the contractual period and compensation for costs and damages resulting from the allegedly wrongful termination 
+of the relevant supply agreement. Electrolux Professional may also be exposed to product liability claims in the 
+event that one of its products is alleged to have caused property damage, bodily injury or other adverse effects
+
+--- Page 15 ---
+15(51) 
+ 
+(including through the use in such products of components received from third party suppliers). Disputes may also 
+arise in connection with mergers and acquisitions. 
+In addition, the Group may be subject to investigations and legal proceedings brought by antitrust or competition 
+authorities and any future negative decisions in competition law proceedings risk leading to administrative fines 
+and liability in damages, which sometimes involve significant amounts depending on the circumstances of the 
+individual case. Any regulatory actions taken, or penalties imposed by competition or regulatory authorities 
+globally, may also limit Electrolux Professional’s possibilities to conduct and expand its operations in certain 
+countries, thus presenting a significant risk to the Group’s growth strategy. 
+Disputes and investigations may prove costly, be time consuming and disrupt normal operations. The financial, 
+reputational and legal outcomes of material disputes are uncertain and presents a highly significant risk to 
+Electrolux Professional, since a disadvantageous outcome of such disputes or investigations would have a material 
+adverse effect on the Group’s business, results of operations or financial position. 
+Electrolux Professional is exposed to risks related to intellectual property rights. 
+Electrolux Professional’s intellectual property rights, including patents, trademarks, design rights, copyright, trade 
+secrets and related rights, are a significant and valuable aspect of the Group’s business. Electrolux Professional is 
+also a licensee of intellectual property, such as the “Electrolux” component of the Electrolux Professional brand 
+and trademark and the Zanussi brand and trademark (to which Electrolux retains ownership and issues licenses to 
+Electrolux Professional under a long-term trademark license agreement), which are some of the Group’s most 
+important intellectual property rights. Being a licensee of intellectual property entails certain obligations and 
+restrictions with respect to use of the intellectual property, as a consequence of which Electrolux Professional does 
+not enjoy the same freedom to use the licensed brands and trademarks as it would if Electrolux Professional had 
+owned the intellectual property in question. If, for example, Electrolux Professional were to violate material terms 
+in the licensing agreement, it could lead to Electrolux Professional losing its right to use the intellectual property. 
+Any material failure to obtain, renew or adequately protect Electrolux Professional’s intellectual property rights 
+may negatively affect its competitiveness, if, for example, Electrolux Professional would no longer be able to use 
+certain trademarks or another entity sells products of low quality under any of Electrolux Professional’s brands or 
+features or otherwise misrepresents such trademarks. 
+Electrolux Professional has applied for intellectual property protection in multiple jurisdictions with respect to 
+certain innovations and new products, product features and processes. For example, in 2023, Electrolux 
+Professional submitted more than ten unique patent applications to authorities in various jurisdictions. However, 
+there is a risk that the intellectual property rights that Electrolux Professional owns is challenged or invalidated, 
+or that third parties circumvent the Group’s patents by modifying the designs. Moreover, the laws and procedures 
+of certain foreign countries in which the Group operates, such as China, make it more challenging to protect and 
+enforce intellectual property rights than, for example, in Europe or the United States. A severe deterioration in the 
+protection of intellectual property rights would weaken the Group’s competitive advantage with respect to its 
+products, services, and brands in the countries concerned. 
+Furthermore, there is a risk that other parties assert intellectual property rights that cover some of Electrolux 
+Professional’s technology, patents, brands, products or services. In addition, if the Group, within the area of 
+product development, finds its solutions or inventions already protected by other parties’ intellectual property 
+rights, the Group may need to redesign or adapt its products, which may make the Group’s product development 
+more difficult, more costly and take longer time. There is also a risk that litigations and disputes regarding patents, 
+trademarks or other intellectual property are costly and time-consuming and divert the attention of the Group’s 
+management and key personnel from the Group’s business operations. Electrolux Professional may also be 
+required to pay royalties in order to continue to use a certain patent or trademark should the Group infringe another 
+parties’ intellectual property rights. The Group also risks being liable for significant damages or subject to 
+injunctions prohibiting production and sale of certain products, which would have a material adverse effect on its 
+results of operations and financial position.  
+Electrolux Professional is exposed to tax risks. 
+The Group is comprised of subsidiaries that are subject to taxation in approximately 31 jurisdictions. Accordingly, 
+the Company is subject to taxation in Sweden as well as in other jurisdictions. In 2021–2023, Electrolux 
+Professional’s tax expense (as included in income for the period) totaled SEK 101m, SEK 209m and SEK 259m, 
+respectively, and its effective tax rate amounted to 17.1, 23.3 and 25.0 percent, respectively. There is a risk that 
+Electrolux Professional’s understanding and interpretation of tax laws, tax treaties and other provisions is not 
+correct in all respects. There is also a risk that tax authorities in the relevant jurisdictions make assessments and
+
+--- Page 16 ---
+16(51) 
+ 
+decisions that differ from Electrolux Professional’s understanding and interpretation of the aforementioned laws, 
+tax treaties and other provisions, which risks to negatively impact the Group’s tax expenses and effective tax rate. 
+Accordingly, there is a risk that amended laws, tax treaties or other provisions, which may apply retroactively, 
+may have a material adverse effect on Electrolux Professional’s results. 
+Electrolux Professional’s projections of future taxable income are based on management’s estimates and 
+assumptions. Accordingly, there is a risk that changes in assumptions or erroneous estimates in the projection of 
+future taxable income result in significant differences in the valuation of deferred taxes. As of December 31, 2023, 
+Electrolux Professional had a net amount of SEK 427m recognized as deferred tax assets in excess of deferred tax 
+liability. As of December 31, 2023, the Group had tax loss carry-forwards and other deductible temporary 
+differences of SEK 8m, which have not been included in the computation of deferred tax assets. Material 
+differences in such assumptions thus present a significant risk for Electrolux Professional. 
+Furthermore, in recent years, tax authorities have increased the focus on transfer pricing, an area of high 
+complexity. Transfer pricing related disputes often concern significant amounts and may sometimes take several 
+years to conclude. Negative outcomes in transfer pricing related reviews and disputes may have a material adverse 
+effect on Electrolux Professional’s tax position. From time to time, Electrolux Professional is also involved in 
+other tax disputes, tax audits and litigations of varying significance and scope. Such processes can lead to lengthy 
+proceedings over several years and may require Electrolux Professional to pay substantial additional tax, and thus 
+present a significant risk for the Group.  
+Electrolux Professional is exposed to employment law related risks. 
+As of December 31, 2023, Electrolux Professional had 3,978 employees in approximately 30 countries. The Group 
+thus needs to comply with several employment-related laws and regulations with various levels of employee 
+protection. If such laws and regulations were to be amended in a way that reduces the employer’s flexibility or 
+imposes additional administrative or financial burden on the employer, it would have a negative effect on 
+Electrolux Professional’s business. 
+Electrolux Professional is also subject to separate collective bargaining agreements with certain labor unions, for 
+example in Italy and Sweden, with different durations, and the Group periodically negotiates with certain of the 
+unions representing their employees. However, there is a risk that the Group will not be able to renew collective 
+bargaining agreements on favorable terms. Such renegotiations may also cause disruptions to the operations and 
+increase the risk of industrial conflict measures. Accordingly, within its own business or within the business of 
+suppliers or other third parties, Electrolux Professional is exposed to risks related to strikes or other industrial 
+conflict measures, which, if they last for a long period or encompass a substantial part of the workforce in a major 
+or important part of the business, would create disruptions and delays in the operations. Employment law related 
+risks thus present a significant risk for the Group. 
+Financial risks 
+Electrolux Professional is exposed to currency risks. 
+Electrolux Professional’s solutions and products are manufactured in 13 facilities located in eight countries around 
+the world and sold in over 110 countries. Accordingly, the Group is exposed to currency risks. Foreign exchange 
+risk is defined as the risk that fluctuations in currency exchange rates have a negative impact on the Company’s 
+financial position, profitability or cash flow and includes transaction exposure and translation exposure. 
+Transaction exposure is defined as the confirmed future net of operational and financial in- and outflows of 
+currencies, and relates primarily to internal sales from producing entities to sales companies or external exposures 
+from purchasing of components and input material for the production paid in foreign currency. Translation 
+exposure is defined as the risk that fluctuations in currency exchange rates have a negative impact on the balance 
+sheet or consolidated equity, and occurs when a portion of consolidated equity/net assets or a financial asset or 
+liability are denominated in a foreign currency. 
+Furthermore, the net of assets and liabilities in foreign subsidiaries constitute a net investment in foreign currency, 
+which generates a translation difference in the consolidation of the Group. This exposure sometimes impacts the 
+Group’s total comprehensive income and capital structure. 
+The major net export currencies that Electrolux Professional is exposed to are Thai baht (“THB”), EUR and SEK. 
+The major import currencies that Electrolux Professional is exposed to are USD, British pound (“GBP”), Chinese 
+renminbi (“CNY”), Turkish lira (“TRY”), Norwegian kroner (“NOK”) and Danish kroner (“DKK”). These 
+currencies represent the majority of the exposures of the Group. As a static calculation at year-end 2023, a change 
+up or down by 10 percent in USD, GBP and EUR, respectively, would have impacted the Group’s profit and loss
+
+--- Page 17 ---
+17(51) 
+ 
+in 2023 by approximately SEK +/- 94m, SEK +/- 19m and SEK +/- 17m, respectively. There is a risk that hedging 
+transactions, if carried out, and any increased prices in order to counter the effects of changes in exchange rates 
+are insufficient to protect the Group from currency exchange movements. Extensive currency exchange 
+movements present a significant risk to Electrolux Professional. 
+Electrolux Professional is exposed to liquidity and financing risks. 
+Electrolux Professional is exposed to liquidity risk in that it may be unable to meet payment obligations because 
+it has insufficient cash at its disposal, which may in turn arise from matters outside of its control, such as a credit 
+crisis or severe adverse economic conditions in the countries in which the Group operates.  
+In addition, Electrolux Professional is exposed to the risk that financing of the Group’s capital requirements and 
+refinancing of existing borrowings is more difficult or costly in the future. The Group’s borrowings comprise 
+primarily a Revolving Credit Facility with the Group’s core-banking group and two bilateral term loans. 
+Furthermore, a commercial paper program has been established on September 7, 2023, with a framework amount 
+of SEK 2,000m. There is a risk that financing will not continue to be available to the Group on acceptable terms. 
+The Group’s financing agreements may also contain certain restrictive conditions with respect to, for example, 
+further loans, restrictions on acquisitions as well as divestments and pledging of assets. Such conditions may limit 
+the Group’s ability to secure additional capital or financing through new loans or the sale of assets. If the Group 
+breaches such financial conditions, outstanding amounts payable under such financing agreements may also 
+become immediately due and payable. 
+On December 22, 2023 Electrolux Professional entered into a bridge facility, provided by SEB and Danske Bank. 
+The purpose of the bridge facility is to finance the acquisition of Tosei Corporation. The bridge facility is intended 
+to be refinanced during 2024 with long term debt. 
+As of December 31, 2023, Electrolux Professional’s net debt amounted to SEK 1,390m. If the Group’s 
+indebtedness increases, there is a risk that this increases Electrolux Professional’s vulnerability to, and reduces its 
+flexibility to address, general economic and industry-related conditions. Moreover, it would restrict the Group’s 
+flexibility with respect to planning for, or reacting to, changes in Electrolux Professional’s business, competitive 
+landscape and the industry in which Electrolux Professional operates, and adversely affect the Group’s 
+competitiveness, especially if its indebtedness exceeds that of its competitors. 
+There is a risk that extensive decreases in the Group’s creditworthiness or profitability, significant increases in 
+interest rates and considerable decreases in the availability of credit or the tightening of terms required by lenders 
+would limit the Group’s access to capital, including its ability to issue additional debt and equity. 
+Electrolux Professional is exposed to credit risks. 
+Credit risk on financial transactions is the risk that the counterpart is not able to fulfil its contractual obligations 
+related to the Group’s investments of liquid funds and derivatives. Credit risks also arise in connection with trade 
+receivables. Electrolux Professional’s client base is characterized by a mix of recurring customers such as 
+distributors and one-time customers, as well as multi operator stores or spare-parts customers. If Electrolux 
+Professional is unable to fully collect its trade receivable from major customers, the Group’s results of operations 
+would be adversely affected. As of December 31, 2023, trade receivables, net of provisions for expected credit 
+losses, amounted to SEK 1,980m, and the total provision for expected credit losses was SEK 76m. If the expected 
+credit loss rates on trade receivables between 16 and 60 days past due had been 10 percent higher as of 
+December 31, 2023, the loss allowance on trade receivables would have increased SEK 8.8m. If the expected 
+credit loss rates on trade receivables between 61 and 180 days past due had been 10 percent higher/lower as of 
+December 31, 2023, the loss allowance on trade receivables would have increased/decreased SEK 6.5m. Any 
+significantly higher than expected defaults or changes in the financial situation of an important customer would 
+have a material adverse effect on the Group’s credit losses and, in turn, its liquidity, results of operations or 
+financial position. 
+Electrolux Professional is exposed to interest-rate risks. 
+Interest-rate risk refers to the adverse effects of changes in interest rates on the Group’s income. The main factors 
+determining this risk include the interest-fixing period. As of December 31, 2023, the Group’s average interest-
+fixing period was 1.1 years. Derivatives, such as interest-rate swap agreements, might be used to manage the 
+interest-rate risk by changing the interest from fixed to floating or vice versa. As a static calculation as of 
+December 31, 2023, a one percentage point shift in interest rates would impact the Group’s interest expenses by 
+approximately SEK +/- 13m. Increased market rates that, to a significant extent, affect Electrolux Professional’s 
+interest costs would have a material adverse effect on the Group’s results of operations and financial position.
+
+--- Page 18 ---
+18(51) 
+ 
+Electrolux Professional is subject to risks related to its pension obligations 
+Electrolux Professional sponsors defined benefit pensions obligations in various countries, for example in 
+Switzerland, Italy, France and Germany. Under defined benefit pension plans, the Company enters into a 
+commitment to provide post-employment benefits based upon one or several parameters for which the outcome is 
+not known at present. For example, benefits can be based on final salary, on career average salary, or on a fixed 
+amount of money per year of employment. In 2023, Electrolux Professional’s net provisions for post-employment 
+benefits amounted to SEK 98m.  
+There are mainly three categories of risks related to defined benefit obligations and pension plans. Firstly, 
+increased longevity and inflation of salary and pensions may increase the future pension payments and, hence, 
+increase the pension obligation. Secondly, pension plan assets are invested in a variety of financial instruments 
+and are exposed to market fluctuations. Finally, the discount rate used for measuring the present value of the 
+obligation may fluctuate which impacts the valuation of the Defined Benefit Obligation (DBO). The discount rate 
+also impacts the size of the interest income and expense that is reported in the Financial items and the service cost. 
+Expected inflation and mortality assumptions are based on local conditions in each country and changes in those 
+assumptions affect the measured obligation.  
+As a static calculation as of December 31, 2023, a +1 year change in longevity, a +0.5 percent change in inflation, 
+and a +/-1 percent change in the discount rate would have affected the Group’s defined benefit obligations with 
+SEK 26m, SEK 12m and SEK - 99m/+SEK 120m, respectively. In 2024, Electrolux Professional expects to pay a 
+total of SEK 15m in contributions to the pension funds and as payments of benefits directly to the employees. 
+Changed financial assumptions present a significant risk to the Group’s costs for defined benefit obligations and 
+thereby its results of operations and financial position. 
+Electrolux Professional is exposed to risks related to valuation of inventory and goodwill. 
+Electrolux Professional carries significant inventories of goods and spare parts produced and held by several 
+production and sales units in many countries. Inventories and work in progress are valued at the lower of cost, at 
+normal capacity utilization, and net realizable value. Net realizable value is defined as the estimated selling price 
+in the ordinary course of business less the estimated costs of completion and the estimated costs necessary to make 
+the sale at market value. In 2023, the cost of inventories recognized as expense and included in cost of goods sold 
+amounted to SEK 6,479m for the Group. Electrolux Professional writes down product and component inventories 
+that have become obsolete or do not meet anticipated demand or net realizable value. In 2023, write-downs due to 
+obsolescence amounted to SEK 102m and reversals of previous write-downs amounted to SEK 190m for the 
+Group. If management’s estimates with respect to valuation of inventory prove to be significantly incorrect, this 
+would have a material adverse effect on the Group’s results of operations and financial position. 
+As of December 31, 2023, Electrolux Professional reported goodwill of SEK 3,290m as well as other intangible 
+assets of SEK 837m, corresponding in total to approximately 36 percent of the Group’s balance sheet assets. 
+Goodwill is evaluated for impairment yearly or whenever events or changes in circumstances indicate that the 
+carrying amount of an asset may not be recoverable. An impaired asset is written down to its recoverable amount 
+based on the best information available. Different methods are used for this evaluation, depending on the 
+availability of information. When available, market value is used and impairment charges have been recorded 
+when the information indicated that the carrying amount of an asset was not recoverable. In the majority of cases, 
+however, market value is not available, and the fair value is estimated by using the discounted cash flow method 
+based on expected future results. Significant differences in the estimation of expected future results and the 
+discount rates used would result in different asset valuations. Such significant differences and major inventory or 
+asset related impairments or write-downs would have a material adverse effect on the Group’s business, results of 
+operations or financial position. 
+Risks related to the Notes 
+The claims of Noteholders are structurally subordinated 
+Electrolux Professional’s operations are to some extent conducted through subsidiaries and other companies within 
+the Group. Accordingly, Electrolux Professional can be dependent on operations of other companies within the 
+Group to service its payment obligations in respect of the Notes. The Notes are structurally subordinated to the 
+claims of all holders of debt securities and other creditors, including creditors of the subsidiaries, and structurally 
+and/or effectively subordinated to the extent of the value of collateral to all the Electrolux Professional’s and its 
+subsidiaries’ and other companies within the Group’s secured creditors. In the event of an insolvency, bankruptcy, 
+liquidation, reorganization, dissolution or winding up of the business of any of the subsidiaries or other companies 
+within the Group, unsecured creditors of such companies, secured creditors and obligations that may be preferred
+
+--- Page 19 ---
+19(51) 
+ 
+by provisions of law that are mandatory and of general application will generally have the right to be paid in full 
+before any distribution is made to the Company. Hence, there is a risk that a Noteholder loses part of or its entire 
+investment in the Notes, should Electrolux Professional, or any subsidiary or other company within the Group, 
+experience difficulties with meeting its financial obligations through an insolvency, bankruptcy, liquidation, 
+reorganization, dissolution or winding up of the business. 
+Electrolux Professional may provide collateral for other debt 
+Electrolux Professional finances a portion of its operations through bank loans and other debt instruments. The 
+Terms and Conditions do not contain any negative pledge undertaking other than in relation to Market Loans and, 
+consequently, Electrolux Professional may retain, provide or renew security over its current or future assets to 
+secure existing or additional bank loans. As of December 31, 2023, Electrolux Professional nor any of its 
+subsidiaries has provided any security over any of its assets. Hence, should Electrolux Professional provide 
+collateral for debt other than the Notes, there is a risk that there will not be sufficient funds to repay the Noteholders 
+in the event of Electrolux Professional’s liquidation, reorganization or bankruptcy. 
+Risks relating to interest rate constructions 
+Notes with a fixed interest rate bear interest at a fixed rate until the Maturity Date for such Notes. The value of 
+such Notes is highly influenced by the market interest rate level. As the market interest rate level changes, the 
+value of the Notes with a fixed interest rate typically changes in the opposite direction, i.e. if the market interest 
+rate level increases, the market value of such Notes falls and if the general interest rate level falls, the market value 
+of such Notes increases. Since the price of Notes is adversely affected by changes in the market interest rate level, 
+there is a risk that Noteholders may lose all or a significant part of their investment in such Notes. 
+Notes with a floating interest rate bear interest with a floating rate until the Maturity Date for such Notes. A 
+decrease in the general interest rate level generally means that the return of Notes bearing floating interest rate 
+may decrease. Investments in Notes with floating interest can be subject to fast and substantial interest rate 
+variations. There is a risk that the Base Rate decreases during the term of the Notes, whereby the Interest Rate will 
+decrease or even be zero. Such a decrease of the Interest Rate presents a significant risk to the return on a 
+Noteholder’s investment. 
+Notes with zero coupon bears no interest and may be issued at a discount, par or premium. The price is normally 
+determined by the market interest rate level. When there is a positive market interest rate, the Notes with zero 
+coupon are normally issued at a discount. The market value of such notes may be adversely affected by changes 
+in the market interest rate level. If the market interest rate level increases in relation to the level at the issue date, 
+the market value of zero coupon Notes will typically decrease. Hence, there is a risk that changes in the market 
+interest rate will result in Noteholders losing all or a significant part of their investment in such Notes. Notes issued 
+at a discount or premium tend to fluctuate more as a result of a change in the market interest rate than Notes issued 
+at par. 
+Risks relating to the regulation and reform of benchmarks, including STIBOR 
+In order to ensure the reliability of reference rates, legislative action at EU level has been taken. Hence, the 
+Regulation (EU) no 2016/1011 of the European parliament and of the Council of 8 June 2016 on indices used as 
+benchmarks in financial instruments and financial contracts or to measure the performance of investment funds 
+and 
+amending 
+Directives 
+2008/48/EC 
+and 
+2014/17/EU 
+and 
+Regulation 
+(EU) 
+no 
+596/2014 
+(the “Benchmark Regulation”) which regulates the provision of reference values, reporting of data bases for 
+reference values and use of reference values within the EU. There is a risk that the benchmark regulation may 
+affect how certain reference rates are calculated. These reforms may cause STIBOR to perform differently than in 
+the past, or to disappear entirely, or have other consequences which cannot be predicted. If this would be the case 
+for STIBOR, and e.g. the relevant fallback solution evident from the Terms and Conditions should not work 
+properly or negatively for either or both of Electrolux Professional or the Noteholders, this may lead to difficulties 
+with determination and calculating interest which in turn risks leading to costly and time consuming discussions 
+(and maybe even disputes) in respect of the matter, which in each case risks having an adverse effect on Electrolux 
+Professional and/or the Noteholders. 
+Secondary market and liquidity 
+There is normally no significant real time trading in MTN on a Regulated Market on which the MTNs may be 
+admitted to trading. Trading conducted in MTN is normally conducted outside the trading venue through so-called 
+Over-The-Counter (OTC) trading. This can apply throughout its duration, and there is therefore a risk that a 
+functioning secondary market for MTN will not arise or persist. If a secondary market for MTN does not develop,
+
+--- Page 20 ---
+20(51) 
+ 
+liquidity may be low. As a result, rapidly selling an MTN or obtaining a price may be associated with difficulties 
+compared to similar investment that have a liquid secondary market. In addition, the transparency of the bond 
+market, primarily the OTC transactions, is called into question, as it is mainly based on the financial institutions 
+involved in OTC trading reporting this correctly. The SFSA has in a 2019 supervisory report, FI Supervision No. 
+15 – New rules resulted in reduced transparency on the Swedish Bond markets, noted that information about 
+transactions on the bond market is sometimes so difficult to find that it can be uncertain as to whether this is 
+because it has never been published or whether it is simply very difficult to access, which is contributing to the 
+low level of transparency. For Noteholders, there is consequently a risk that the secondary market will not give an 
+accurate picture of the market value of the Notes. 
+Credit rating of MTN may not reflect all risks 
+One or more credit rating agencies may rate Loans issued under the Programme, which will be specified in the 
+Final Terms. There is a risk that such a rating has not factored in all the risks associated with investment in the 
+Loan. A credit rating is therefore not a recommendation to buy, sell or hold securities, and can be changed or 
+revoked by the credit rating agencies at any time. Credit ratings that Electrolux Professional has been awarded 
+may differ from the credit rating obtained for a Loan, which is why an investor cannot rely exclusively on the 
+credit rating provided. In the event a credit rating is provided for the Notes in the Final Terms, a deterioration in 
+the Group’s creditworthiness may have a negative impact on the credit rating awarded for the Notes, while a poorer 
+credit rating from a credit rating agency may adversely affect the value of the Notes.
+
+--- Page 21 ---
+21(51) 
+ 
+GENERAL TERMS AND CONDITIONS 
+The following general terms and conditions (the “General Terms and Conditions”) shall apply to loans that 
+Electrolux Professional AB (publ) (Swedish Corporate ID. no. 556003-0354) (the “Company”) issues on the 
+capital market under an agreement that has been entered into on March 11, 2024 between the Company and 
+Skandinaviska Enskilda Banken AB (publ) and Danske Bank A/S, Danmark, Sverige Filial regarding the MTN 
+Programme (the “MTN Programme”) by issuing notes in SEK or EUR with varying maturities, although not less 
+than one year, known as Medium Term Notes. 
+1. 
+DEFINITIONS 
+1.1 
+In addition to the definitions set out above, the following terms will have the meaning set out below. 
+“Account Operator” means a bank or other party duly authorized to operate as an account operator 
+(kontoförande institut) pursuant to the Swedish Financial Instruments Accounts Act (lag (1998:1479) 
+om värdepapperscentraler och kontoföring av finansiella instrument) and through which a Noteholder 
+has opened a Securities Account in respect of its MTN. 
+“Adjusted Loan Amount” means the Loan Amount less the amount of MTN owned by the Company, 
+or a Group Company, regardless of whether such Group Company is directly registered as the owner 
+of such MTN or not. 
+“Administrative Agent” means: 
+(c) 
+if Loans have been issued through two or more Issuing Agents, the Issuing Agent designated 
+by the Company as being responsible for certain administrative tasks relating to the Loan 
+according to the Final Terms; and 
+(d) 
+if loans have been issued through only one Issuing Agent, the Issuing Agent. 
+“Arranger” means Skandinaviska Enskilda Banken AB (publ) or any Dealer replacing it as Arranger. 
+“Base Rate” means in regards to Loans with Floating Rate, the base rate STIBOR or EURIBOR as 
+specified in the Final Terms or any reference rate replacing STIBOR or EURIBOR in accordance 
+with Section 13 (Replacement of Base Rate). 
+“Business Day” means a day that is not a Sunday or other public holiday in Sweden or that, in respect 
+of the payment of promissory notes, is not equated with a public holiday in Sweden. Saturdays, 
+Midsummer’s Eve (midsommarafton), Christmas Eve (julafton) and New Year’s Eve (nyårsafton) 
+will be considered to be equated to public holidays for this definition.  
+“Currency” has the meaning set out in the Final Terms. 
+“Day Count Convention” means, when calculating an amount for a particular calculation period, the 
+calculation method specified in the Final Terms. 
+(a) 
+If the calculation method “30/360” is specified as applicable, the amount must be calculated 
+for a year with 360 days, consisting of twelve months each of 30 days, and during the broken 
+month the actual number of days that have elapsed in the month. 
+(b) 
+If the calculation method “Actual/360” is specified as applicable, the amount must be 
+calculated using the actual number of days in the relevant period divided by 360. 
+“Dealers” means Skandinaviska Enskilda Banken AB (publ) and Danske Bank A/S, Danmark, 
+Sverige Filial as well as any other dealer agent that has been specifically authorized by Euroclear 
+Sweden to handle and register issues in the VPC system (emissionsinstitut), and which accedes to this 
+MTN Programme, although only provided such institution has not ceased to act as a dealer agent. 
+“Debt Register” means the register (skuldbok) kept by Euroclear Sweden in respect of the Notes in 
+which a Noteholder is registered.
+
+--- Page 22 ---
+22(51) 
+ 
+“EURIBOR” means: 
+(a) 
+the interest rate as displayed as of or around 11.00 a.m. on the relevant day on page 
+EURIBOR01 of the Refinitiv screen (or through such other system or on such other page as 
+replaces the said system or page) for EUR for a period comparable to the relevant Interest 
+Period; or 
+(b) 
+if no such interest rate is available for the relevant Interest Period as described in 
+paragraph (a), the arithmetic mean of the rates (rounded upwards to four decimal places) as 
+supplied to the Administrative Agent at its request quoted by the European Reference Banks 
+for deposits of EUR 10,000,000 for the relevant Interest Period; or 
+(c) 
+if no interest rate as described in paragraph (a) and (b) is available, the interest rate which, 
+according to the reasonable assessment of the Administrative Agent, best reflects the interest 
+rate for deposits in EUR offered for the relevant Interest Period. 
+“Euro” and “EUR” means the currency used by the participating Member States in accordance with 
+the European Union’s regulations for the Economic and Monetary Union (EMU). 
+“Euroclear Sweden” means Euroclear Sweden AB (Swedish Corporate ID. no. 556112-8074). 
+“European Reference Banks” means four major commercial banks which, at the current time, are 
+quoting EURIBOR and are appointed by the Administrative Agent. 
+“Final Terms” means the Final Terms established for a particular Loan under this MTN Programme 
+in accordance with the form of Final Terms under the section “Form of Final Terms” below (with the 
+additions and amendments that may be made from time to time). 
+“Group” means the corporate group in which the Company is the parent company (the terms group 
+and parent company refer to that which is specified in the Swedish Companies Act (Aktiebolagslagen 
+(2005:551)), as amended from time to time).  
+“Group Company” means any legal entity that, from time to time, forms part of the Group. 
+“Insolvent” means, in respect of a relevant person, that it is deemed to be insolvent, or admits inability 
+to pay its debts as they fall due, in each case within the meaning of Chapter 2, Sections 7-9 of the 
+Swedish Bankruptcy Act (konkurslagen (1987:672)) (or its equivalent in any other relevant 
+jurisdiction). 
+“Interest Commencement Date” means, according to the Final Terms, the date from which interest 
+(where applicable) begins to accrue. 
+“Issuing Agent” means, according to the Final Terms, the Dealer(s) under this MTN Programme 
+through which a particular Loan has been carried out. 
+“Loan” means any loan from a particular series, encompassing one or more MTN, which the 
+Company issue under this MTN Programme. 
+“Loan Amount” means the total outstanding Nominal Amount of MTN in respect of a particular 
+Loan, although less any repaid amount. 
+“Loan Date” means the date specified as such in the Final Terms. 
+“Loan Terms and Conditions” means for a particular Loan, these General Terms and Conditions as 
+well as the Final Terms for said Loan.  
+“Market Loans” means issuing certificates, bonds or other securities (including loans under the MTN 
+or other market loan programme), which are sold, brokered or invested in an organized form and 
+which are or may be traded on a Regulated Market.  
+“Material Group Companies” means the Company and each Group Company representing (on a 
+consolidated basis) more than five (5) percent of the consolidated total assets of the Group, as set out 
+in the most recent published audited financial statements of such Group Company and the Company.
+
+--- Page 23 ---
+23(51) 
+ 
+“Maturity Date” means, according to the Final Terms, the date on which an MTN is to be repaid. 
+“MTN” means an unilateral debt obligation regarding a Nominal Amount that has been registered 
+under the Swedish Financial Instruments Accounts Act (lag (1998:1479) om värdepapperscentraler 
+och kontoföring av finansiella instrument), and which forms part of a Loan issued by the Company 
+under this MTN Programme. 
+“Nominal Amount” means the amount for each MTN specified in the Final Terms. 
+“Noteholder” means the party listed on the Securities Account as the directly registered owner 
+(ägare) or nominee (förvaltare) of an MTN. 
+“Noteholders’ Meeting” means a meeting with the Noteholders in accordance with Section 12 
+(Noteholders’ Meeting). 
+“Record Date” means the fifth Business Day before (or another Business Day before the relevant 
+date that may generally be applied to the Swedish bond market) (i) the due date for interest or the 
+principal under the Loan Terms and Conditions, (ii) another date on which payment is to be made to 
+Noteholders, (iii) the date of the Noteholders’ Meeting, (iv) the date on which the notification is 
+dispatched, or (v) another relevant date. 
+“Reference Banks” means those Dealers designated under this MTN Programme or such replacement 
+banks which, at the relevant time, quote an interest rate for STIBOR and which are designated by the 
+Administrative Agent. 
+“Regulated Market” means a regulated market as defined in Directive 2014/65/EU on markets in 
+financial instruments. 
+“Securities Account” means the securities account with Euroclear Sweden under the Swedish 
+Financial Instruments Accounts Act (lag (1998:1479) om värdepapperscentraler och kontoföring av 
+finansiella instrument), in which (i) an owner of a security is directly registered as the owner of 
+securities or (ii) an owner’s holding of securities is registered in the name of a nominee. 
+“Settlement Date” means the date on which, according to the Final Terms, the issue proceeds for 
+MTN are to be paid. 
+“STIBOR” means: 
+(a) 
+the interest rate administered, calculated and distributed by the Swedish Financial 
+Benchmark Facility AB (or the replacing administrator or calculation agent) for the relevant 
+day and published on the information system Refinitiv’s page “STIBOR=” (or through such 
+other system or on such other page as replaces the said system or page) for SEK for a period 
+comparable to the relevant Interest Period; or  
+(b) 
+if no such interest rate is available for the relevant Interest Period as described in 
+paragraph (a), the arithmetic mean of the rates (rounded upwards to four decimal places) as 
+supplied to the Administrative Agent at its request quoted by the Reference Banks for 
+deposits of SEK 100,000,000 for the relevant Interest Period; or  
+(c) 
+if no such interest rate as described in paragraph (a) and (b) is available, the interest rate 
+which, according to the reasonable estimate of the Administrative Agent, best reflects the 
+interest rate for deposits in SEK offered in Stockholm interbank market for the relevant 
+Interest Period. 
+“Swedish Kronor” and “SEK” means the legal currency in Sweden. 
+1.2 
+Additional definitions, such as Interest Rate Structure, Interest Rate, Base Rate Margin, Interest 
+Determination Date, Interest Payment Date(s), Interest Period and Currency can be found (where 
+applicable) in the Final Terms.  
+1.3 
+When calculating whether a limit described in Swedish Kronor has been reached or exceeded, an 
+amount in another currency shall be calculated on the basis of the exchange rate that applied on the 
+Business Day immediately prior to the relevant time and that is published on the Refinitiv’s website 
+“SEKFIX=” (or through such other system or on such other website that replaces said system or
+
+--- Page 24 ---
+24(51) 
+ 
+website respectively) or, if no such exchange rate is published, the exchange rate for such currency 
+against Swedish Kronor the mentioned date as published by the Swedish Central Bank (Riksbanken) 
+on its website (www.riksbank.se). 
+2. 
+ISSUANCE OF LOANS 
+2.1 
+Under this MTN Programme, the Company may issue MTN in Swedish Kronor or Euros with a 
+maturity of at least one year. Under a Loan, MTN may be issued in multiple tranches without the 
+approval of any Noteholder under the relevant Loan, provided that the terms of such tranches are 
+identical with the exception of Loan Date, Loan Amount, price per MTN and Issuing Agent. 
+2.2 
+By subscribing to MTN, each initial Noteholder accepts that its MTN will have those entitlements 
+and be subject to those terms and conditions arising from the Loan Terms and Conditions. By 
+acquiring MTN, each new Noteholder confirms such acceptance. 
+2.3 
+The Company undertakes to make payments in respect of issued MTN, as well as to comply in other 
+respects with the Loan Terms and Conditions for the Loans taken out under this MTN Programme. 
+2.4 
+If the Company wishes to issue MTN under this MTN Programme, the Company must enter into a 
+separate agreement for this purpose with one or more dealer agents, which will be the Issuing Agent(s) 
+for said Loan. 
+2.5 
+Final Terms shall be established in relation to each particular Loan which together with these General 
+Terms and Conditions shall constitute the complete Loan Terms and Conditions. 
+3. 
+REGISTRATION OF MTN 
+3.1 
+MTN will be registered in a securities account on behalf of Noteholders, which is why no physical 
+securities will be issued. Any request for a particular registration measure in respect of MTN must be 
+addressed to the Account Operator. 
+3.2 
+Anyone who, due to mandates, pledges, the provisions in the Children and Parents Code 
+(föräldrabalken), terms and conditions in wills or deeds of gift, or has otherwise acquired the 
+entitlement to receive payment under an MTN, must have their right to receive payment registered 
+with Euroclear Sweden in order to receive such payment. 
+3.3 
+The Administrative Agent is entitled to receive information from Euroclear Sweden regarding the 
+content of its Debt Register for MTN, in order to fulfil its duties in accordance with Section 11 
+(Termination of loans) and Section 12 (Noteholders’ Meeting). Administrative Agents will not be 
+responsible for the content of such extracts or otherwise be responsible for determining who is the 
+Noteholder. 
+4. 
+RIGHT TO ACT ON BEHALF OF A NOTEHOLDER 
+4.1 
+Any person other than a Noteholder wishing to exercise the Noteholder’s rights under the Loan Terms 
+and Conditions or vote at a Noteholders’ Meeting must present a power of attorney or other proof of 
+authorization from the Noteholder or a successive, coherent chain of powers of attorney or proof of 
+authorization starting with the Noteholder. 
+4.2 
+A Noteholder, or another party exercising the Noteholder’s rights pursuant to Section 4.1 above, may 
+authorize one or more parties to represent the Noteholder in respect of some or all MTN held by the 
+Noteholder. Any such authorized party must act independently.
+
+--- Page 25 ---
+25(51) 
+ 
+4.3 
+These General Terms and Conditions shall not affect the relationship between a Noteholder who is 
+the nominee (förvaltare) with respect to an MTN and the owner of such MTN, and it is the 
+responsibility of such nominee to observe and comply with any restrictions that may apply to it in this 
+capacity. 
+5. 
+PAYMENTS 
+5.1 
+Payment in respect of MTN issued in Swedish Kronor must be made in Swedish Kronor, while 
+payment in respect of MTN issued in Euros must be made in Euros. 
+5.2 
+Payments in respect of MTN must be made to the person who is registered as the Noteholder on the 
+Record Date prior to the relevant due date, or to another person who is registered with Euroclear 
+Sweden who is entitled to receive such payment. 
+5.3 
+If the Noteholder, through an Account Operator, has registered that the capital amount and interest 
+are to be deposited in a particular bank account, this deposit will be made through Euroclear Sweden 
+on the respective due date. 
+5.4 
+In the event Euroclear Sweden, due to a delay on the part of the Company or due to some other 
+obstacle, should not be able to pay an amount as previously stated, the Company must ensure that the 
+amount is paid as soon as the obstacle has ceased to exist. 
+5.5 
+If the Company is unable to fulfil its payment obligation through Euroclear Sweden due to an obstacle 
+affecting Euroclear Sweden, the Company will be entitled to defer the payment obligation until the 
+obstacle has ceased to exist. In such a case, interest will be payable in accordance with Section 7.2. 
+5.6 
+If it transpires that the person who has been allocated the amount in accordance with this Section 5 
+was not entitled to receive this, the Company and Euroclear Sweden will nevertheless be deemed to 
+have fulfilled their relevant obligations. However, this does not apply if the Company or Euroclear 
+Sweden were aware that the amount had come into the wrong hands or had not been normally prudent. 
+6. 
+INTEREST 
+6.1 
+Interest on a particular Loan is calculated and paid (where applicable) in accordance with the Loan 
+Terms and Conditions. 
+6.2 
+In the Final Terms, the relevant Interest Rate Structure will be specified according to one of the 
+following options or in a combination thereof:  
+(a) 
+Fixed Rate 
+If the Loan is specified as a Loan with Fixed Rate, the Loan will bear interest at the Interest 
+Rate from, but excluding, the Interest Commencement Date up to and including the Maturity 
+Date.  
+Interest that has accrued during an Interest Period is paid in arrears on the respective Interest 
+Payment Date and is calculated according to the Day Count Convention method set out in 
+the Final Terms. 
+(b) 
+Floating Rate (FRN) 
+If a Loan denominated in SEK or EUR is specified as a Loan with Floating Rate, the Loan 
+will bear interest at the Interest Rate from, but excluding, the Loan Date up to and including 
+the Maturity Date. The interest rate for the relevant Interest Period shall be calculated by the 
+Administrative Agent on the respective Interest Determination Date, and is the sum of the 
+Base Rate and the Margin for the relevant period, adjusted for the application of Section 13
+
+--- Page 26 ---
+26(51) 
+ 
+(Replacement of Base Rate). If the calculation of the interest rate entails a value lower than 
+zero, the interest rate will be considered to be zero. 
+If the interest rate cannot be determined on the Interest Determination Date due to an obstacle 
+as referred to in Section 17.1, the Loan will continue to run at the interest rate that applied to 
+the immediately preceding Interest Period. As soon as the obstacle has ceased to exist, the 
+Administrative Agent will calculate a new interest rate, which will apply from the second 
+Business Day after the date of the estimate up until the end of the current Interest Period.  
+Interest is paid in arrears on each relevant Interest Payment Date and is calculated according 
+to the Day Count Convention for MTN in SEK and EUR for the relevant Interest Period, or 
+by using such other method of calculation as is applied for the relevant Base Rate. 
+(c) 
+Zero Coupon 
+If the Loan is specified as a Zero Coupon it bears no interest. Loans with Zero Coupon may 
+be issued at a discount, par or premium. 
+6.3 
+Interest (where applicable) is paid on the relevant Interest Payment Date. 
+6.4 
+If the Interest Payment Date for Fixed Rate Loans falls on a non-Business Day, interest will not be 
+paid until the following Business Day. However, interest is only calculated and payable up to and 
+including the Interest Payment Date.  
+6.5 
+If the Interest Payment Date for Floating Rate Loans falls on a non-Business Day, the Interest Payment 
+Date will instead be considered to be the nearest subsequent Business Day, provided that said Business 
+Day does not fall in a new calendar month, in which case the Interest Payment Date will be considered 
+to be the preceding Business Day. 
+7. 
+DEFAULT INTEREST 
+7.1 
+In the event of any default in payment, default interest shall be payable on the overdue amount from 
+its due date up to and including the date on which payment is made at a rate corresponding to the 
+average of one week STIBOR for MTN denominated in SEK and one week EURIBOR for MTN 
+denominated in EUR for the duration of the delay, plus two (2) percentage points in each case. For 
+this purpose, STIBOR and EURIBOR shall be determined on the first Business Day in each calendar 
+week for the duration of the period of default. Default interest in accordance with this Section 7.1 for 
+interest-bearing Loans shall never be paid at an interest rate lower than the interest rate applicable to 
+the relevant Loan on its relevant due date plus two (2) percentage points. Default interest shall not be 
+capitalised. 
+7.2 
+If the default in payment is due to an impediment affecting a Dealer or Euroclear Sweden, default 
+interest shall accrue at a rate corresponding to: 
+(a) 
+for interest-bearing Loans, the interest rate applicable to the relevant Loan on its relevant due 
+date. 
+(b) 
+for Zero Coupon Loans, the average of one week STIBOR or EURIBOR respectively for the 
+duration of the delay (whereby STIBOR and EURIBOR shall be determined on the first 
+Business Day of each calendar week for the duration of the period of default). 
+8. 
+REPAYMENT AND REPURCHASE 
+8.1 
+Loans fall due for payment on the Maturity Date, with the amount per MTN that is specified in the 
+Final Terms along with accrued interest (if any). If the Maturity Date falls on a day that is not a 
+Business Day, however, the Loan is repaid on the following Business Day.
+
+--- Page 27 ---
+27(51) 
+ 
+8.2 
+The Company may, by agreement with the Noteholders, repurchase MTN at any time and at any price 
+in the open market or otherwise provided this is compatible with applicable law. MTN that are owned 
+by the Company may, according to the Company’s own decision, be retained, transferred or cancelled. 
+9. 
+REPURCHASE IN CASE OF CHANGE OF CONTROL 
+9.1 
+Each Noteholder is entitled to demand repurchase of all, or some, of the MTN held by the Noteholder, 
+if: 
+(a) 
+the shares in the Company cease to be admitted to trading on a Regulated Market; or 
+(b) 
+an event or a series of events occurs, resulting in a natural or legal person, individually or 
+together with such related parties as referred to in the Stock Market (Takeover Bids) Act (lag 
+(2006:451) om offentliga uppköpserbjudanden på aktiemarknaden), directly or indirectly, at 
+some point acquiring or controlling more than fifty (50) percent of the shares or voting rights 
+in the Company. 
+9.2 
+It is the responsibility of the Company, as soon as the Company becomes aware of a change of 
+ownership as described in Section 9.1, to notify the Noteholders of this through a press release, on the 
+Company’s website and in accordance with Section 16 (Notices). The notification must include 
+instructions regarding how a Noteholder that wishes to have MTN repurchased should act, as well as 
+specifying the repurchase date. 
+9.3 
+The repurchase date will fall at the earliest twenty (20) and at the latest forty (40) Business Days after 
+the notification of the change of ownership has been sent to Noteholders in accordance with 
+Section 9.2. However, in the event the repurchase date is not a Business Day, the repurchase date shall 
+be deemed to be the Business Day immediately following. 
+9.4 
+Where a right to repurchase exists, the Company shall, upon demand by a Noteholder, repurchase the 
+relevant MTN on the repurchase date at the price per MTN that would have been repaid on the 
+Maturity Date, together with accrued interest (if any). For MTN with Zero Coupon, an amount per 
+MTN calculated in accordance with Section 11.5 shall be paid instead. 
+9.5 
+Notices from Noteholders regarding demands for repurchase of MTN’s shall be drafted in accordance 
+with the instructions set forth in the notice provided to the Noteholders in accordance with Section 9.2. 
+The Notice from the Noteholder must be received by the Company at least ten (10) Business Days 
+before repurchase date. 
+10. 
+UNDERTAKINGS 
+As long as an MTN is outstanding, the Company undertakes the following. 
+10.1 
+Status of the Loan 
+The Company shall ensure that its payment obligations under the Loans rank at least pari passu with 
+its other unsubordinated and unsecured payment obligations, save for such obligations as may be 
+preferred by provisions of mandatory law. 
+10.2 
+Nature of business 
+The Company undertakes not to materially change the nature of the Group’s operations in a way that 
+has a significant adverse effect on the Company’s ability to fulfil its payment obligations towards the 
+Noteholders.
+
+--- Page 28 ---
+28(51) 
+ 
+10.3 
+Market Loans 
+The Company undertakes to ensure, as long as any MTN is outstanding, that no Group Company: 
+(a) 
+other than the Company, will issue any Market Loan; or 
+(b) 
+maintains, prolongs or provides any guarantee or security over any of the Group’s present or 
+future assets to secure any Market Loan. 
+10.4 
+Admission to trading on a Regulated Market 
+The Company undertakes to apply for admission on the relevant Regulated Market for Loans which 
+according to the Final Terms must be admitted to trading on a Regulated Market, and to take any 
+measures that may be required to maintain the admission as long as the relevant Loan is outstanding, 
+however, not longer than as permitted under applicable laws and regulations. 
+10.5 
+Availability of Loan Terms and Conditions 
+The Company undertakes to ensure that the current version of these General Terms and Conditions, 
+as well as the Final Terms for all outstanding Loans that have been admitted to trading on a Regulated 
+Market, are kept available on the Company’s website. 
+11. 
+TERMINATION OF LOANS 
+11.1 
+The Administrative Agent shall declare in writing a relevant Loan, together with accrued interest (if 
+any), immediately due and payable, or payable at such time as the Administrative Agent or the 
+Noteholders’ Meeting (as applicable) decides, upon the occurrence of any circumstance stated in 
+Section 11.2 and if: 
+(a) 
+so decided by the Noteholders under a Loan at the Noteholders’ Meeting; or 
+(b) 
+so requested in writing by Noteholders who, at the time of the request, represent not less than 
+ten (10) percent of the Adjusted Loan Amount under the relevant Loan. 
+A request for termination may only be made by Noteholders who are registered in the Debt Register 
+maintained by Euroclear Sweden on the Business Day immediately following the date on which the 
+request was received by the Administrative Agent, and must be made jointly if it is submitted by 
+several Noteholders each representing less than ten (10) percent of the Adjusted Loan Amount under 
+the relevant Loan. 
+11.2 
+Loans may only be declared due and payable in accordance with Section 11.1 provided that: 
+(a) 
+Non-Payment 
+The Company fails to make timely payment of principal or interest due in respect of any 
+Loan under this MTN Programme, unless the delay: 
+(i) 
+is a consequence of a technical or administrative error; and  
+(ii) 
+does not last for longer than three (3) Business Days. 
+(b) 
+Other obligations 
+The Company, in any respect other than that set out in paragraph (a) above, does not fulfil 
+its obligations under the Loan Terms and Conditions in respect of the relevant Loan, provided 
+that: 
+(i) 
+correction is possible; and
+
+--- Page 29 ---
+29(51) 
+ 
+(ii) 
+the Company has received a written request from the Administrative Agent to 
+implement corrective action and such corrective action has not been implemented 
+within fifteen (15) Business Days. 
+(c) 
+Cross payment default and acceleration 
+Any financial indebtedness of the Company or any Material Group Company is not paid 
+when due as extended by any originally applicable grace period, or is declared to be or 
+otherwise becomes due and payable prior to its specified maturity as a result of an event of 
+default (however described), provided that Loans may only be declared due and payable 
+under this paragraph (c) if the aggregate amount of financial indebtedness referred to herein 
+is at least SEK 150,000,000 or its equivalent. 
+(d) 
+Insolvency 
+Any of the Company or a Material Group Company is, or is deemed for the purposes of any 
+applicable regulation to be, Insolvent. 
+(e) 
+Insolvency proceedings 
+Any corporate action, legal proceedings or other procedure or step other than vexatious or 
+frivolous and as disputed in good faith and discharged within thirty (30) Business Days is 
+taken in relation to: 
+(i) 
+the suspension of payments, a moratorium of any indebtedness, winding-up, 
+dissolution, administration, company reorganization (företagsrekonstruktion) or 
+bankruptcy (konkurs) of the Company or a Material Group Company; 
+(ii) 
+a composition, compromise, assignment or arrangement with creditors of the 
+Company or a Material Group Company generally; 
+(iii) 
+the appointment of a liquidator (other than in respect of a solvent liquidation of a 
+Material Group Company), administrator or other similar officer in respect of the 
+Company or a Material Group Company or any of their respective assets; or 
+(iv) 
+any step analogous to paragraphs (i)-(iii) above is taken in any jurisdiction in 
+relation to the Company or a Material Group Company. 
+(f) 
+Creditors’ process 
+Any attachment, sequestration, distress or execution, or any analogous process in any 
+jurisdiction, affects any asset of the Company or a Material Group Company having a value 
+of not less than SEK 150,000,000 or its equivalent and which is not discharged within thirty 
+(30) Business Days. 
+(g) 
+Merger 
+The Company is subject to a merger with any other person, with the effect that the Company 
+is not the surviving entity. 
+11.3 
+The Administrative Agent may not declare a relevant Loan along with interest (if any) as due for 
+payment pursuant to Section 11.2 by referring to grounds for termination, if a Noteholders’ Meeting 
+has resolved that such grounds for termination (temporarily or permanently) will not result in 
+termination pursuant to Section 11.2. 
+11.4 
+It is the responsibility of the Company to notify the Dealers and the Noteholders immediately in 
+accordance with Section 16 (Notices) in the event grounds for termination as set out in Section 11.2 
+should occur. In the absence of such notification, neither the Administrative Agent nor the Dealers, 
+regardless of their actual knowledge, shall be deemed to be aware of grounds for termination. Neither
+
+--- Page 30 ---
+30(51) 
+ 
+the Administrative Agent nor the Dealers are themselves obliged to monitor whether the conditions 
+for termination according to Section 11.2 exist. 
+11.5 
+In the case of the repayment of Loans after termination pursuant to Section 11.1: 
+(a) 
+Loans running with interest will be repaid at an amount per MTN that, together with accrued 
+interest, would have been repaid on the final Maturity Date; and 
+(b) 
+non-interest-bearing Loans shall be redeemed at an amount per MTN determined by the 
+following formula as per the date of acceleration of the Loan: 
+Nominal Amount 
+(1 + r)t 
+r =  
+the ask rate quoted by the Administrative Agent for Swedish government bonds 
+with an outstanding term to maturity corresponding to the remaining term of the 
+relevant Loan. In the absence of such ask rate, the bid rate shall be used instead, 
+as reduced by a market bid/ask spread, expressed in percentage points. The 
+calculation shall be based on the closing quotation. 
+t =  
+the remaining term for the relevant Loan, expressed in the Day Count Convention 
+Actual/360 for MTN denominated in SEK. 
+12. 
+NOTEHOLDERS’ MEETING 
+12.1 
+The Administrative Agent may and must, at the request of the Company or Noteholders who, at the 
+time of the request, represent at least one tenth of the Adjusted Loan Amount under a particular Loan 
+(said request may only be submitted by Noteholders who are registered in the Debt Register for MTN 
+maintained by Euroclear Sweden on the Business Day immediately following the date on which the 
+request was received by the Administrative Agent, and must be made jointly if it is submitted by 
+several Noteholders each representing less than one tenth of the Adjusted Loan Amount), convene a 
+Noteholders’ Meeting for the Noteholders under the relevant Loan. 
+12.2 
+The Administrative Agent must convene a Noteholders’ Meeting by sending notification of this to 
+each Noteholder and the Company within five (5) Business Days after receiving a request from the 
+Company or Noteholders pursuant to Section 12.1 (or such later date as required for technical or 
+administrative reasons). The Administrative Agent must notify the Issuing Agent without delay and 
+in writing about the abovementioned notification.  
+12.3 
+The Administrative Agent may refrain from convening a Noteholders’ Meeting if (i) the proposed 
+decision must be approved by a person in addition to the Noteholders and this person has notified the 
+Administrative Agent that such approval will not be given, or (ii) the proposed decision is not 
+compatible with applicable law. 
+12.4 
+The convening notification referred to in Section 12.2 must include (i) the time of the meeting, (ii) the 
+venue for the meeting, (iii) the agenda for the meeting (including any request for a decision from the 
+Noteholders), and (iv) a proxy form. Only matters that have been included in the convening 
+notification may be decided at the Noteholders’ Meeting. If it is necessary for Noteholders to notify 
+their intention to attend the Noteholders’ Meeting, this requirement must be specified in the convening 
+notification. 
+12.5 
+The Noteholders’ Meeting must be held no earlier than fifteen (15) Business Days and no later than 
+thirty (30) Business Days after the notification. Noteholders’ Meetings for multiple loans under the 
+MTN Programme can be held at the same time.
+
+--- Page 31 ---
+31(51) 
+ 
+12.6 
+Without deviating from the provisions in these General Terms and Conditions, the Administrative 
+Agent may prescribe such additional provisions regarding the notification and the implementation of 
+the Noteholders’ Meeting as it deems appropriate. Such provisions may include the potential for 
+Noteholders to vote without attending the meeting in person, i.e. that voting may take place using an 
+electronic voting procedure or through a written voting procedure. 
+12.7 
+Only persons who are, or have been, authorized in accordance with Section 4 (Right to act on behalf 
+of a Noteholder) by a person who is a Noteholder on the Record Date for the Noteholders’ Meeting 
+may exercise voting rights at such Noteholders’ Meeting, provided that the relevant MTN are covered 
+by the Adjusted Loan Amount. The Administrative Agent must ensure that, at the Noteholders’ 
+Meeting, there is a printout of the Debt Register maintained by Euroclear Sweden from the Record 
+Date for the Noteholders’ Meeting. 
+12.8 
+Noteholders, the Administrative Agent and the Issuing Agents, as well as their respective 
+representatives, assistants and any experts, are entitled to attend the Noteholders’ Meeting. 
+Representatives must present a duly issued power of attorney, which must be approved by the Chair 
+of the Noteholders’ Meeting. The Noteholders’ Meeting must begin with the appointment of a chair, 
+a person to take the minutes and persons to adjust the minutes. The Chair must draw up a list of 
+attending Noteholders who are eligible to vote, indicating the share of the Adjusted Loan Amount that 
+each Noteholder represents (the “Voting List”). After this, the Voting List must be approved by the 
+Noteholders’ Meeting. Noteholders who have cast their votes via an electronic voting procedure, a 
+voting slip or equivalent will, with the application of these provisions, be deemed to be present at the 
+Noteholders’ Meeting. Only those who were Noteholders on the Record Date, or representatives of 
+said Noteholders, and who are covered by the Adjusted Loan Amount, are entitled to vote and will be 
+included in the Voting List. The Company will have access to relevant voting calculations and the 
+supporting data for these. The minutes must be completed as soon as possible and made available to 
+Noteholders, the Company, the Administrative Agent and the Issuing Agent. 
+12.9 
+Decisions in the following matters require the approval of Noteholders representing at least ninety 
+(90) percent of that part of the Adjusted Loan Amount for which Noteholders vote under the relevant 
+Loan at the Noteholders’ Meeting: 
+(a) 
+changing the Maturity Date, reduction of the Loan Amount, changing of terms relating to 
+interest or the amount to be repaid (other than in accordance with the Loan Terms and 
+Conditions, including what follows from the application of Section 13 (Replacement of Base 
+Rate) and changing of the relevant Currency of the Loan); 
+(b) 
+change to the terms of the Noteholders’ Meeting under this Section 12;  
+(c) 
+change of debtors; and 
+(d) 
+mandatory exchange of MTN for other securities. 
+12.10 
+Matters that are not covered by Section 12.9 require the consent of Noteholders representing more 
+than fifty (50) percent of the portion of the Adjusted Loan Amount for which Noteholders are voting 
+under the relevant Loan at the Noteholders’ Meeting. This includes, but is not limited to, amendments 
+and waivers of rights in relation to the Loan Terms and Conditions that do not require a greater 
+majority (other than amendments according to Section 14 (Amendment of terms etc.)), as well as early 
+termination of Loans. 
+12.11 
+A Noteholders’ Meeting reaches quorum if Noteholders representing at least fifty (50) percent of the 
+Adjusted Loan Amount under the relevant Loan in respect of a matter in Section 12.9, or twenty 
+(20) percent of the Adjusted Loan Amount under the relevant Loan in respect of other matters, attend 
+the meeting in person or by telephone (or attend through an authorized representative). 
+12.12 
+If the Noteholders’ Meeting does not reach quorum, the Administrative Agent must convene a new 
+Noteholders’ Meeting (in accordance with Section 12.2), provided that the relevant proposal has not 
+been withdrawn by the person or persons who initiated the Noteholders’ Meeting. The requirement
+
+--- Page 32 ---
+32(51) 
+ 
+for quorum set out in Section 12.11 will not apply to said new Noteholders’ Meeting. If the 
+Noteholders’ Meeting has reached quorum for some but not all of the matters to be decided at the 
+Noteholders’ Meeting, decisions will be taken regarding those matters for which quorum exists, and 
+other matters will be referred to a new Noteholders’ Meeting. 
+12.13 
+A decision at a Noteholders’ Meeting which imposes new obligations on, or limits the rights of, the 
+Company or an Issuing Agent under the Loan Terms and Conditions requires the written approval of 
+the relevant party. 
+12.14 
+A Noteholder that holds more than one MTN does not need to vote for all the MTN they hold, nor 
+vote in the same way for all their MTN. 
+12.15 
+The Company may not, directly or indirectly, pay or contribute to the payment of any compensation 
+to any Noteholder for its approval under the Loan Terms and Conditions unless such compensation is 
+offered to all Noteholders who provide their consent at the relevant Noteholders’ Meeting. 
+12.16 
+A decision made at a Noteholders’ Meeting shall be binding on all Noteholders under the relevant 
+Loan, whether or not they were present at the Noteholders’ Meeting. Noteholders shall not be held 
+liable for any damage that the decision may cause another Noteholder. 
+12.17 
+At the request of the Administrative Agent, the Company must, without delay, provide the 
+Administrative Agent with a certificate indicating the total amount for all the MTN owned by Group 
+Companies on the Business Day specified in Section 12.1 and the relevant Record Date prior to a 
+Noteholders’ Meeting, regardless of whether said Group Company is directly registered as an owner 
+of MTN. The Administrative Agent will not be responsible for the content of said certificate or 
+otherwise be responsible for determining whether an MTN is owned by a Group Company. 
+12.18 
+Noteholders under the relevant Loan shall be notified, without delay, of any and all decisions made 
+at a Noteholders’ Meeting through a press release published on the Company’s website and in 
+accordance with Section 16 (Notices). At the request of a Noteholder or the Issuing Agent, the 
+Administrative Agent shall provide the Noteholder with the minutes from the relevant Noteholders’ 
+Meeting. Failure to notify the Noteholders as stated above in this section does not affect the validity 
+of the decision. 
+12.19 
+Without amending or varying these Loan Terms and Conditions, the Administrative Agent may 
+prescribe such further regulations regarding the convening and holding of a Noteholders’ Meeting as 
+the Administrative Agent may deem appropriate. Such regulations may include a possibility for 
+Noteholders to vote without attending the meeting in person and that voting can take place by 
+electronic or written procedure.  
+13. 
+REPLACEMENT OF BASE RATE 
+13.1 
+If a Base Rate Event as described in Section 13.2 below has occurred, the Company shall, in 
+consultation with the Arranger, initiate the procedure to, as soon as reasonably possible, determine a 
+Successor Base Rate, Adjustment Spread, as well as initiate the procedure to determine upon necessary 
+administrative, technical and operational amendments to the Loan Terms and Conditions in order to 
+apply, calculate and finally decide the applicable Base Rate. The Arranger is not obligated to 
+participate in such consultation or determination as described above. Should the Arranger not 
+participate in such consultation or determination, the Company shall, at the Company’s expense, as 
+soon as possible appoint an Independent Adviser to initiate the procedure to, as soon as reasonably 
+possible, determine upon the mentioned. Provided that the Successor Base Rate, the Adjustment 
+Spread and other amendments have been finally decided no later than prior to the relevant Interest 
+Determination Date in relation to the next succeeding Interest Period, they shall become effective with 
+effect from and including the commencement of the next succeeding Interest Period, always subject 
+to any technical limitations of Euroclear Sweden and any calculation methods applicable to such 
+Successor Base Rate.
+
+--- Page 33 ---
+33(51) 
+ 
+13.2 
+A Base Rate Event is an event where one or more of the following events occur (“Base Rate Event”) 
+which means: 
+(a) 
+the Base Rate (for the relevant Interest Period of the relevant Loan) has ceased to exist or 
+ceased to be published for at least five (5) consecutive Business Days as a result of the Base 
+Rate (for the relevant Interest Period of the relevant Loan) ceasing to be calculated or 
+administered; 
+(b) 
+a public statement or publication of information by (i) the supervisor of the Base Rate 
+Administrator or (ii) the Base Rate Administrator that the Base Rate Administrator ceases to 
+provide the applicable Base Rate (for the relevant Interest Period of the relevant Loan) 
+permanently or indefinitely and, at the time of the statement or publication, no successor 
+administrator has been appointed or is expected to be appointed to continue to provide the 
+Base Rate; 
+(c) 
+a public statement or publication of information in each case by the supervisor of the Base 
+Rate Administrator that the Base Rate (for the relevant Interest Period of the relevant Loan) 
+is no longer representative of the underlying market which the Base Rate is intended to 
+represent and the representativeness of the Base Rate will not be restored in the opinion of 
+the supervisor of the Base Rate Administrator; 
+(d) 
+a public statement or publication of information in each case by the supervisor of the Base 
+Rate Administrator, with the consequence that it is unlawful for the Company, the Arranger 
+or the Administrative Agent to calculate any payments due to be made to any Noteholders 
+using the applicable Base Rate (for the relevant Interest Period of the relevant Loan) or it has 
+otherwise become prohibited to use the applicable Base Rate (for the relevant Interest Period 
+of the relevant Loan); 
+(e) 
+a public statement or publication of information in each case by the bankruptcy trustee of the 
+Base Rate Administrator or by the trustee under the bank recovery and resolution framework 
+(krishanteringsregelverket), or in respect of EURIBOR, from the equivalent entity with 
+insolvency or resolution powers over the Base Rate Administrator , containing the 
+information referred to in paragraph (b) above; or 
+(f) 
+a Base Rate Event Announcement has been made and the announced Base Rate Event as set 
+out in paragraphs (b)-(e) above will occur within six (6) months. 
+13.3 
+Upon a Base Rate Event Announcement, the Company may (but are not obligated to), if it is possible 
+at such time to determine the Successor Base Rate, Adjustment Spread and other amendments, in 
+consultation with the Arranger or through the appointment of an Independent Adviser, initiate the 
+procedure as described in Section 13.1 above to finally decide the Successor Base Rate, the 
+Adjustment Spread and other amendments, in order to change the Successor Base Rate at an earlier 
+time. 
+13.4 
+If a Base Rate Event set out in any of the paragraphs (a)-(e) of Section 13.2 has occurred but no 
+Successor Base Rate and Adjustment Spread have been finally decided at the latest prior to the relevant 
+Interest Determination Date or if such Successor Base Rate and Adjustment Spread have been finally 
+decided but due to technical limitations of Euroclear Sweden cannot be applied in relation to the 
+relevant Interest Determination Date, the interest applicable to the next succeeding Interest Period 
+shall be: 
+(a) 
+if the previous Base Rate is available, determined pursuant to the terms that would apply to 
+the determination of the Base Rate as if no Base Rate Event had occurred; or
+
+--- Page 34 ---
+34(51) 
+ 
+(b) 
+if the previous Base Rate is no longer available or cannot be used in accordance with 
+applicable law or regulation, equal to the interest determined for the immediately preceding 
+Interest Period. 
+The provisions set out in this Section are applicable on subsequent Interest Periods, provided that all 
+relevant measures have carried out regarding the application of and the adjustments described in this 
+Section 13 (Replacement of Base Rate) prior to every such subsequent Interest Determination Date, 
+but without success. 
+13.5 
+Prior to the Successor Base Rate, Adjustment Spread and any other amendments becoming effective, 
+the Company shall promptly, following the final decision by the Company in consultation with the 
+Arranger or the Independent Adviser of any Successor Base Rate, Adjustment Spread and other 
+amendments, give notice thereof to the Noteholders, the Administrative Agent, the Arranger and 
+Euroclear Sweden in accordance with Section 16 (Notices). The notice shall also include information 
+about the effective date of the amendments. If the MTN are admitted to trading on a Regulated 
+Market, the Company shall also give notice of the amendments to the relevant stock exchange. 
+13.6 
+The Arranger, the Independent Adviser and the Administrative Agent that carries out measures in 
+accordance with this Section 13 shall not be liable whatsoever for any damage or loss caused by 
+determinations, action taken or omitted by it in conjunction with the determination and final decision 
+of the Successor Base Rate, Adjustment Spread and any amendments thereto to the Loan Terms and 
+Conditions, unless directly caused by its gross negligence or wilful misconduct. The Arranger, the 
+Independent Adviser and the Administrative Agent shall never be responsible for indirect or 
+consequential loss. 
+13.7 
+In this Section 13, the following definitions have the meaning described below: 
+“Adjustment Spread” means a spread or a formula or methodology for calculating a spread to be 
+applied to a Successor Base Rate and that is: 
+(i) 
+formally recommended by any Relevant Nominating Body in relation to the replacement 
+of the Base Rate; or 
+(ii) 
+if item (i) is not applicable, the adjustment spread that the Company in consultation with 
+the Arranger or the Independent Adviser determines is reasonable to use in order to 
+eliminate, to the extent possible, any transfer of economic value from one party to another 
+as a result of a replacement of the Base Rate and is customarily applied in comparable debt 
+capital market transactions. 
+“Base Rate Administrator” means Swedish Financial Benchmark Facility AB (SFBF) in relation 
+to STIBOR and the European Money Markets Institute (EMMI) in relation to EURIBOR or any 
+person replacing it as administrator of the Base Rate. 
+“Base Rate Event Announcement” means a public statement or published information as set out in 
+paragraphs (b) to (e) of Section 13.2 that any event or circumstance specified therein will occur. 
+“Independent Adviser” means an independent financial institution or advisor of repute in the debt 
+capital markets where the Base Rate is commonly used. 
+“Relevant Nominating Body” means, subject to applicable law, firstly any relevant supervisory 
+authority, secondly any applicable central bank, or any working group or committee of any of them 
+or thirdly, the Financial Stability Board or any part thereof. 
+“Successor Base Rate” means: 
+(i) 
+the screen or benchmark rate, including the methodology for calculating term structure and 
+calculation methods in respect of debt instruments with similar interest rate terms as MTN, 
+which is formally recommended as a successor to or replacement of the Base Rate by a 
+Relevant Nominating Body as successor; or
+
+--- Page 35 ---
+35(51) 
+ 
+(ii) 
+if there is no such rate as described in item (i), such other rate as the Company in 
+consultation with the Arranger or the Independent Adviser determines is most comparable 
+to the Base Rate. 
+For the avoidance of doubt, in the event that the Successor Base Rate ceases to exist, this definition 
+shall be apply mutatis mutandis to such new Successor Base Rate. 
+14. 
+AMENDMENT OF TERMS ETC. 
+14.1 
+The Company and the Dealers may agree on adjustments to clear and obvious errors in these General 
+Terms and Conditions. 
+14.2 
+The Company and the Administrative Agent may agree on adjustments to clear and obvious errors in 
+the Final Terms for a particular Loan. 
+14.3 
+Amendments and waivers of Loan Terms and Conditions, other than as set out in Sections 14.1 to 
+14.2 shall take place through a decision at a Noteholders’ Meeting as described in Section 12 
+(Noteholders’ Meeting). 
+14.4 
+The accession of a new Dealer to the MTN Programme may take place by means of a written 
+agreement between the Company, the relevant institution and existing Dealers. Dealers may retire as 
+Dealers, although the Administrative Agent in respect of a particular Loan may not retire as 
+Administrative Agent, unless a new Administrative Agent is appointed in its place for said Loan. 
+14.5 
+An approval of an amendment to terms and conditions granted at a Noteholders’ Meeting may cover 
+the substance of the amendment, and does not need to include the specific wording of the amendment. 
+14.6 
+A decision regarding an amendment of the terms shall also include a decision in respect of when the 
+amendment enters into force. However, an amendment shall not enter into force before it has been 
+registered with Euroclear Sweden and published on the Company’s website. 
+14.7 
+The Company and the Arranger or the Independent Adviser may, without the approval of the 
+Noteholders’, amend the Loan Terms and Conditions in accordance with what is described in 
+Section 13 (Replacement of Base Rate). 
+14.8 
+The amendment or concession of Loan Terms and Conditions in accordance with this Section 13 must 
+be notified to the Noteholders by the Company as soon as possible in accordance with Section 16 
+(Notices) and published in accordance with Section 10.5. 
+15. 
+TIME-BAR FOR CLAIMS 
+15.1 
+Claims for repayment of principal shall be time-barred and become void ten (10) years from the 
+Maturity Date. Claims for interest shall be time-barred and become void three (3) years after each 
+relevant Interest Payment Date. The Company is entitled to any funds set aside for payments in respect 
+of which the Noteholders’ right to receive payment has been time-barred and has become void. 
+15.2 
+If a limitation period is duly interrupted in accordance with the Swedish Act on Limitations 
+(preskriptionslag (1981:130)), a new limitation period of ten (10) years with respect to the right to 
+receive repayment of the principal, and of three (3) years with respect to receive payment of interest 
+will commence, in both cases calculated from the date of interruption of the limitation period, as such 
+date is determined pursuant to the provisions of the Swedish Act on Limitations.
+
+--- Page 36 ---
+36(51) 
+ 
+16. 
+NOTICES 
+16.1 
+Notifications will be issued to Noteholders for the Loan in question at the address registered with 
+Euroclear Sweden on the Record Date prior to dispatch. A notification to the Noteholders must also 
+be made public by means of a press release and be published on the Company’s website. 
+16.2 
+Notification must be sent to the Company and the Dealers at the address registered with the Swedish 
+Companies Registration Office (Bolagsverket) at the time notice is given. 
+16.3 
+A notification to the Company or Noteholders in accordance with the Loan Terms and Conditions that 
+is sent by normal mail to the specified address will be deemed to have been received by the recipient 
+on the third Business Day after dispatch, and a notification sent by courier will be deemed to have 
+been received by the recipient when it has been delivered at the specified address.  
+16.4 
+In the event a notification has not been sent correctly to a particular Noteholder, this will not affect 
+the impact of the notification on other Noteholders. 
+17. 
+LIMITATION OF LIABILITY ETC. 
+17.1 
+The Dealers shall not be liable for any damage as a consequence of Swedish or foreign legislation, 
+actions by Swedish or foreign public authorities, acts of war, strikes, blockades, boycotts, lockouts, 
+or any other similar circumstance. The reservation in respect of strikes, blockades, boycotts, and 
+lockouts applies notwithstanding that the Dealer itself takes such measures or is subject to such 
+measures. 
+17.2 
+Damage which arises in other cases shall not be compensated by the Dealer provided the Dealer acted 
+with normal care. 
+17.3 
+Neither the Company nor the Dealer shall be obligated in any circumstance to pay compensation for 
+indirect loss. 
+17.4 
+In the event a Dealer is prevented from taking a measure as a consequence of a circumstance set forth 
+in Section 17.1, the measure may be postponed until such time as the impediment no longer exists. 
+17.5 
+The provision set forth above shall apply unless otherwise required by the Swedish Financial 
+Instruments Accounting Act. 
+18. 
+GOVERNING LAW AND JURISDICTION  
+18.1 
+Swedish law will apply to the Loan Terms and Conditions and all non-contractual obligations that 
+arise in connection with the application of the Loan Terms and Conditions.  
+18.2 
+Disputes must be determined by a Swedish court. Stockholm District Court (Stockholms tingsrätt) 
+will be the court of first instance. 
+ 
+ 
+It is hereby confirmed that the above General Terms and Conditions are binding on us. 
+ 
+Stockholm, March 11, 2024 
+ 
+ELECTROLUX PROFESSIONAL AB (PUBL)
+
+--- Page 37 ---
+37(51) 
+ 
+FORM OF FINAL TERMS 
+ 
+The following template will be used for the preparation of the Final Terms 
+for each loan issued under the MTN Programme 
+ 
+FINAL TERMS  
+(“Final Terms”) 
+ 
+for loan no. [•] 
+under Electrolux Professional AB (publ)’s (the “Company”) 
+Swedish MTN Programme 
+ 
+The General Terms and Conditions dated March 11, 2024 together with the Final Terms set forth below shall apply 
+to the Loan. Unless otherwise stated, definitions used in these Final Terms are set forth in the Terms and Conditions 
+or otherwise in the Company’s Base Prospectus, approved and registered with the Swedish Financial Supervisory 
+Authority on March 11, 2024, including any published supplemental prospectus prepared for the MTN Programme 
+from time to time in accordance with Regulation (EU) 2017/1129 of the European Parliament and of the Council of 
+14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a 
+regulated market, and repealing Directive 2003/71/EC, referred to as the “Prospectus Regulation” (“Base 
+Prospectus”). This document constitutes the Final Terms for the Loan and has been prepared in accordance with 
+Article 8 of the Prospectus Regulation. 
+ 
+Complete information about the Company and the MTN Programme can only be obtained through the Base 
+Prospectus, any published supplementary prospectuses and these Final Terms, which is why investors who are 
+considering investing in MTN should read these documents together and in full. The Base Prospectus and any 
+supplementary prospectuses to the Base Prospectus as applicable are available on the Company’s website 
+www.electroluxprofessional.com. 
+ 
+[These Final Terms replace the Final Terms dated [date], whereby the Loan Amount has been increased by 
+[SEK/EUR] [amount in figures] from [SEK/EUR] [amount in figures] to [SEK/EUR] [amount in figures].] 
+ 
+GENERAL 
+1.  
+Loan number: 
+[•] 
+ 
+(i) 
+Tranche name: 
+[•] 
+2. 
+Aggregate Nominal Amount: 
+ 
+ 
+(i) 
+for the loan: 
+[•] 
+ 
+(ii)  for tranche [•]: 
+[(iii) for tranche [•] (indicate previous 
+tranches):] 
+[•] 
+[•] 
+3. 
+Price per MTN: 
+[•] % of Nominal Amount [plus accrued interest as from 
+[insert date] if applicable] 
+4. 
+Currency: 
+[SEK/EUR] 
+5. 
+Nominal Amount: 
+[SEK/EUR] [•] (Not less than EUR 100,000 or the 
+equivalent thereof in SEK.) 
+6. 
+Loan date: 
+[•] 
+7. 
+Interest Commencement Date: 
+[Loan date/[•]] 
+8. 
+Settlement Date: 
+[Loan date/[•]] 
+9. 
+Maturity Date: 
+[•]
+
+--- Page 38 ---
+38(51) 
+ 
+10. 
+Basis for calculation of interest: 
+[Fixed Rate] 
+[Floating Rate (FRN)] 
+[Zero Coupon] 
+11. 
+Amount as basis for calculation of 
+interest  
+[Nominal Amount/[•]] 
+BASIS FOR CALCULATION OF RETURN 
+12. 
+Fixed Rate: 
+[Applicable/Not applicable] 
+(If not applicable, delete the remaining subheadings of this 
+paragraph)  
+ 
+(i) 
+Interest Rate: 
+[•] % annual interest calculated on [Nominal Amount/[•]]. 
+ 
+(ii)  Interest Period: 
+The time from [•] up to and including [•] (the first Interest 
+Period) and thereafter each period of [•] months with the 
+end date on an Interest Payment Date 
+ 
+(iii)  Interest Payment Date(s): 
+[Annually/Semi-Annually/Quarterly] on [•], the first time 
+on [•] and the last time on [•] 
+(The above is adjusted in the event of a shortened or 
+extended Interest Period) 
+ 
+(iv)  Day Count Convention Method: 
+30/360 [Specify] 
+ 
+(v) Risk factors: 
+In accordance with the risk factor with the heading [Risks 
+relating to interest rate constructions] in the Base 
+Prospectus. 
+13. 
+Floating Rate (FRN): 
+[Applicable/Not applicable] 
+(If not applicable, delete the remaining subheadings of this 
+paragraph) 
+ 
+(i) 
+Base Rate: 
+[•] months [STIBOR/EURIBOR] 
+[The [first/last] coupon’s Base Rate will be interpolated 
+linearly between [•] months [STIBOR/EURIBOR] and [•] 
+months [STIBOR/EURIBOR].] 
+ 
+(ii) 
+Margin: 
+[+/-][•] % annual interest calculated on [Nominal 
+Amount/[•]] 
+ 
+(iii)  Interest Determination Date: 
+[Two] Business Days before each Interest Period, the first 
+time on [•] 
+ 
+(iv) Interest Period: 
+The time from [•] up to and including [•] (the first Interest 
+Period) and thereafter each period of approx. [•] months 
+with the end date on an Interest Payment Date.  
+ 
+(v) 
+Interest Payment(s): 
+The final day in each Interest Period, [the [•], the [•], the [•] 
+and the [•],] the first time on [•] and the last time [the [•]/on 
+the Maturity Date]. 
+ 
+(vi) Day Count Convention Method: 
+Actual/360 [Specify] 
+ 
+(vii)  Risk factors: 
+In accordance with the risk factor with the heading [“Risks 
+relating to interest rate constructions”] in the Base 
+Prospectus. 
+14. 
+Zero Coupon: 
+[Applicable/Not applicable] 
+(If not applicable, delete the remaining subheadings of this 
+paragraph)
+
+--- Page 39 ---
+39(51) 
+ 
+ 
+(i) 
+Terms 
+for 
+Loans 
+without 
+interest: 
+[Specify details] 
+ 
+(ii) 
+Risk factors 
+ 
+In accordance with the risk factor with the heading [“Risks 
+relating to interest rate constructions”] in the Base 
+Prospectus. 
+ 
+REPAYMENT 
+14. 
+Amount at which MTN is to be 
+repaid on the Maturity Date: 
+[•] % of [Nominal Amount/[•]] 
+ 
+OTHER 
+15. 
+Estimated net proceeds 
+[SEK]/[EUR] [•] after deduction for costs related to the issue. 
+16. 
+Use of net proceeds 
+[General corporate purposes]/[Specify] 
+17. 
+Admission to trading on a Regulated 
+Market: 
+[Applicable/Not applicable] 
+(If not applicable, delete the remaining subheadings of this 
+paragraph) 
+ 
+(i) 
+Regulated Market: 
+[Nasdaq Stockholm/Specify other Regulated Market] 
+ 
+(ii)  Estimated total costs associated 
+with admission to trading: 
+[•] 
+ 
+(iii)  Total 
+number 
+of 
+securities 
+admitted to trading: 
+[•] 
+ 
+(iv) Earliest date for admission to 
+trading: 
+[•] 
+18. 
+Interests: 
+[Specify/Not applicable]  
+(Interests and any conflicts of interest for individuals who 
+are involved in the share issue and that are of significance 
+for the Loan must be described) 
+19. 
+Credit rating for Loans: 
+[Specify/Not applicable] 
+20. 
+Resolutions as basis of the issue:  
+[Not applicable/Resolutions regarding this Loan were taken 
+on [insert date]/Specify] 
+(If resolutions regarding issues under the MTN Programme 
+are described in the Base Prospectus and this issue is 
+covered by such a decision, “Not applicable” must be used) 
+21. 
+Information from third parties: 
+[Information presented in these Final Terms originating 
+from third parties has been reproduced accurately and, as 
+far as the Company is aware and can ascertain from 
+information published by that third party, no facts have been 
+omitted that would render the reproduced information 
+inaccurate or misleading]/ [Not applicable] 
+22. 
+Issuing Agent: 
+ 
+ 
+(i) 
+for tranche [•]: 
+[(ii) for tranche [•] (indicate previous 
+tranches):] 
+[[Skandinaviska Enskilda Banken AB (publ)], [Danske 
+Bank A/S, Danmark, Sverige Filial] [•]]  
+ 
+23. 
+Administrative Agent: 
+[[Skandinaviska Enskilda Banken AB (publ)], [Danske 
+Bank A/S, Danmark, Sverige Filial] [•]] 
+24. 
+ISIN: 
+SE[•]
+
+--- Page 40 ---
+40(51) 
+ 
+The Company confirms that the above Final Terms are applicable to the Loan, together with the General Terms 
+and Conditions, and undertakes, in accordance therewith, to repay the Loan and to pay interest in accordance 
+herewith. 
+ 
+The Company further confirms that any material event after the date of the Base Prospectus that could affect the 
+market’s assessment of the Loan and the Company to this MTN have been publicly disclosed. 
+ 
+Stockholm [date for signing the Final Terms] 
+ 
+ELECTROLUX PROFESSIONAL AB (PUBL)
+
+--- Page 41 ---
+41(51) 
+ 
+BUSINESS DESCRIPTION 
+Electrolux Professional is a global provider of food service, beverage and laundry solutions for professional use 
+in terms of sales, serving a wide range of customers globally, from restaurants and hotels to healthcare, educational 
+and other service facilities. To meet the market needs, the Group uses a portfolio of 19 distinct business brands, 
+targeting different customers and stakeholders in different geographies. The Group´s solutions and products are 
+manufactured in 13 facilities located in eight countries around the world and sold in approximately 110 countries. 
+The Company had 3,978 employees as of December 31, 2023 and its headquarters are located in Stockholm, 
+Sweden. 
+Professional Food, Beverage and Laundry equipment 
+Electrolux Professional Group offers a full set of solutions within food service, beverage and laundry equipment, 
+with products and services that address the needs of a diverse customer base. The Company focuses on solutions 
+where there is a need for high-performing, reliable equipment, with significant aftermarket requirements over the 
+equipment lifecycle and where customers are focused on productivity and total cost of ownership. The Company 
+strives to maintain, develop and enhance its customer relationships through collaboration, commitment to 
+innovation and sustainability for the benefit of its customers. By developing new and improved products and 
+services, the Group adds value to the customers and profitable growth to the Group. The ambition is to address the 
+customers’ increased requirements for multi-functional products, with low running costs, and reduced energy and 
+water consumption and to prioritize appliance digitalization. 
+Electrolux Professional Group has a local presence across relevant global markets, enabling a flexible and efficient 
+set-up from both a manufacturing and commercial standpoint. Electrolux Professional operates with an agile 
+supply chain and lean manufacturing cost footprint, which enables the Company to operate efficiently throughout 
+business cycles. Electrolux Professional’s products are sold either through distributors and dealers or directly to 
+customers, depending on specific regional dynamics. The recent years development of a digital customer platform 
+further enhances the online sales, and further customer interactions.  
+In order to provide a complete solution package, the Company has established a large global service partners 
+organization that provides customers with advanced customer care service solutions such as services and spare 
+parts, accessories, service, and consumables. Essentia, the new service offering, addresses fast growing demand 
+for maintenance with various subscription models and service agreement offers, to support the customer 
+throughout the life of the product. 
+The Group´s master brand; Electrolux Professional, can provides a complete offering within food, beverage and 
+laundry – the OnE approach – that can cover all customers’ needs under one global brand. The Company believes 
+that it has a competitive advantage in its broad portfolio of products and aftermarket services under one global 
+master brand, complemented with the Group’s 18 business brands, and in its extensive geographical reach, both 
+when it comes to customer relations and service network. Electrolux Professional Group seeks to maintain an 
+ongoing relationship with customers throughout the equipment lifecycle, creating a potential for equipment 
+repurchases and additional services. 
+Electrolux Professional has two segments – Food & Beverage (F&B) and Laundry. F&B provides a wide range of 
+equipment for professional food service and beverage solutions. Laundry provides a wide array of equipment for 
+professional laundry operations. In addition to their product offerings, each segment provides aftermarket services 
+and solution. 
+History of the Group 
+Electrolux Professional dates back to more than 100 years when companies such as Wascator, Zanussi and 
+Cecilware were formed, subsequently acquired by Electrolux. The professional products business in the Electrolux 
+Group dates back to 1962 when Elektro Helios was acquired, a company that also operated in the professional 
+food service industry. The professional food business in Electrolux expanded to professional laundry when 
+Wascator was acquired in 1973. Zanussi was acquired in 1984 followed by the acquisition of Dito Sama in 1987. 
+In 1999 an operational headquarter for the professional business area was established in Pordenone, Italy.
+
+--- Page 42 ---
+42(51) 
+ 
+Below some of the major acquisitions and milestones in recent times: 
+2015 
+Shanghai Veetsan, Professional dishwashers in China.
+2017 
+Grindmaster Cecilware, American hot, cold, and frozen beverage dispensing equipment.
+2018 
+SPM Drink Systems, Italian manufacturer of frozen beverage solutions. 
+2018 
+Schneidereit, Laundry rental solutions for professional customers in Germany and Austria.
+2019 
+UNIC, a French manufacturer of automatic and traditional espresso coffee machines. 
+2020 
+A significant milestone for the company as it underwent a spin-off from Electrolux AB and 
+listed on Nasdaq Stockholm. The headquarter relocated to Stockholm. 
+2021 
+Unified Brands, a leading US-based manufacturer of foodservice equipment. 
+2023 
+Tosei, a leading Japanese manufacturer of professional laundry equipment and vacuum 
+packing machines.
+
+--- Page 43 ---
+43(51) 
+ 
+THE COMPANY 
+General corporate information 
+The Company’s legal and commercial name is Electrolux Professional AB (publ), and its Swedish Corporate ID 
+No. is 556003-0354 and its legal entity identifier LEI code is 254900KI62Q46ZWD8084. The registered office of 
+the Board is located in Stockholm, Sweden. The registered postal address of the Company is Franzéngatan 6, SE-
+112 51, Stockholm, Sweden. The Company’s phone number is +46 (0)8 410 564 50. The Company’s website is 
+https://www.electroluxprofessional.com (the information on the Company’s website does not form part of this 
+Base Prospectus unless such information is incorporated by reference into this Base Prospectus). 
+The Company was incorporated in Sweden on June 6, 1898 and registered with the Swedish Companies 
+Registration Office (Bolagsverket) on August 8, 1898. The Company is a public limited liability company (publikt 
+aktiebolag) regulated by the Swedish Companies Act (aktiebolagslagen (2005:551)). 
+According to section 3 in the Articles of Association, the object of the Company’s business is to carry on 
+manufacturing and sales of machinery and accessories, mainly intended for washing, food and beverage 
+preparation, and other business activities compatible therewith. 
+Share information and ownership structure 
+Under its current Articles of Association, the Company’s share capital shall not be less than SEK 20,000,000, and 
+not more than SEK 80,000,000, divided into not fewer than 200,000,000 and not more than 800,000,000 shares. 
+The Company has two classes of shares: Class A and Class B shares and there are 8,031,461 Class A shares and 
+279,365,989 Class B-shares issued. 
+The below table shows the Company’s major shareholders. 
+Owner 
+Number of 
+shares of 
+Cl
+A
+Number of shares 
+of Class B 
+Shares, % 
+Votes, % 
+ 
+Verified 
+Investor 
+6,420,771 
+52,520,883
+20.51%
+32.45% 
+2023-12-27
+Swedbank Robur Fonder 
+ 
+30,172,403
+10.50%
+8.39% 
+2023-12-31
+Alecta Tjänstepension 
+453,900 
+20,025,098
+7.13%
+6.83% 
+2023-12-27
+Handelsbanken Fonder 
+ 
+19,484,922
+6.78%
+5.42% 
+2023-12-31
+Second Swedish National Pension Fund 
+ 
+12,149,652
+4.23%
+3.38% 
+2023-12-31
+First Swedish National Pension Fund 
+ 
+12,000,000
+4.18%
+3.34% 
+2023-12-27
+Nordea Funds 
+ 
+9,939,593
+3.46%
+2.76% 
+2023-12-31
+AMF Pension & Fonder 
+1,000,000 
+7,609,567
+3.00%
+4.90% 
+2023-12-31
+Vanguard 
+ 
+8,154,699
+2.84%
+2.27% 
+2023-11-31
+ODIN Fonder 
+ 
+7,000,000
+2.44%
+1.95% 
+2023-12-31
+Investering & Tryghed A/S 
+ 
+6,327,685
+2.20%
+1.76% 
+2023-12-31
+Didner & Gerge Fonder 
+ 
+5,827,301
+2.03%
+1.62% 
+2023-12-31
+Norges Bank 
+ 
+5,560,875
+1.93%
+1.55% 
+2023-12-31
+C WorldWide Asset Management
+ 
+5,400,000
+1.88%
+1.50% 
+2023-12-31
+BlackRock 
+ 
+3,930,365
+1.37%
+1.09% 
+2023-12-31
+Fifteen largest shareholders 
+7,874,671 
+206,103,043
+74.48%
+79.21% 
+Other shareholders 
+156,790 
+73,262,946
+25.52%
+20.79% 
+Total 
+8,031,461 
+279,365,989
+100.0
+100.0 
+Source: Monitor by Modular Finance AB. Compiled and processed data from various sources, including Euroclear, 
+Morningstar and the Swedish Financial Supervisory Authority. 
+As far as the Company is aware, it is not directly or indirectly owned or controlled by any shareholder other than 
+those set out in the table above. Further, to the Company’s knowledge, there are no shareholders’ agreement or 
+other agreements between shareholders in the Company intended to exercise joint control of the Company. Nor is 
+the Company aware of any agreements which may result in a change to the control of the Company.
+
+--- Page 44 ---
+44(51) 
+ 
+Legal group structure 
+The Company is the ultimate parent company of the Group, which comprises 42 legal entities in approximately 33 
+countries. The table below shows the Group Companies. Electrolux Professional does not hold shares in any 
+associated companies. 
+Subsidiary 
+Country 
+Shares and voting rights, % 
+Electrolux Professional Australia Pty LTD 
+Australia
+100%
+Electrolux Professional Austria GmbH 
+Austria
+100%
+Electrolux Professional Belgium B.V 
+Belgium
+100%
+Electrolux Professional do Brazil 
+Brazil
+100%
+Electrolux (Shanghai) Professional Appliances Co. Ltd.
+China
+100%
+Electrolux Professional d.o.o
+Croatia
+100%
+Electrolux Professional Czech Republic s.r.o. 
+Czech Republic
+100%
+Electrolux Professional A/S 
+Denmark
+100%
+Electrolux Professional Oy 
+Finland
+100%
+Electrolux Professional SAS 
+France
+100%
+Electrolux Professional GmbH
+Germany
+100%
+Electrolux Professional Hellas SA 
+Greece
+100%
+Electrolux Professional Hungary Kft 
+Hungary
+100%
+Electrolux Professional India Private Limited 
+India
+100%
+Electrolux Professional S.p.A.
+Italy
+100%
+S.P.M. Drink Systems S.p.A.
+Italy
+100%
+Electrolux Professional Japan Limited 
+Japan
+100%
+Electrolux Professional Korea Co., Ltd. 
+Korea
+100%
+Electrolux Professional Sdn Bhd 
+Malaysia
+100%
+Electrolux Professional B.V. 
+Netherlands
+100%
+Electrolux Professional New Zeeland Limited 
+New Zeeland
+100%
+Electrolux Professional AS 
+Norway
+100%
+Electrolux Professional Poland Sp. z.o.o. 
+Poland
+100%
+Electrolux Professional Singapore Pte. Ltd. 
+Singapore
+100%
+Electrolux Professional s.r.o.
+Slovakia
+100%
+Electrolux Professional S.A. 
+Spain
+100%
+Electrolux Professional Sweden AB 
+Sweden
+100%
+Electrolux Professional Holding AB 
+Sweden
+100%
+Electrolux Professional AG 
+Switzerland
+100%
+Crathco Ltd 
+Thailand
+100%
+Electrolux Professional (Thailand) Co. Ltd. 
+Thailand
+100%
+Electrolux Professional Durable Consumer Goods Industry 
+and Trade Joint Stock Company 
+Turkey 
+100% 
+Electrolux Professional Middle East DMCC 
+ 
+United Arab 
+Emirates
+100% 
+Electrolux Professional Ltd. 
+United Kingdeom
+100%
+Electrolux Professional US Holdings Inc. 
+USA
+100%
+Electrolux Professional Laundry Systems France SNC
+France
+100%
+Exefem 
+France
+100%
+Schneidereit GmbH 
+Germany
+100%
+UNIC Japan KK 
+Japan 
+100%
+GCS Mexico SA de CV 
+Mexico
+100%
+Unified Brands 
+USA
+100%
+TOSEI Corporation 
+Japan
+100%
+Dependency on subsidiaries 
+A substantial part of the Group’s assets and revenues relate to the Company’s direct and indirect subsidiaries. 
+Accordingly, the Company is therefore dependent upon receipt of income dividend related to the operation of and 
+ownership in its direct and indirect subsidiaries.
+
+--- Page 45 ---
+45(51) 
+ 
+Board of Directors 
+The Board of Directors of the Company consists of nine members elected by the Annual General Meeting, with 
+no deputies. Under Swedish law, trade union organizations are entitled to representation on the Board and have in 
+addition appointed two Board members with one deputy. 
+Kai Wärn 
+Born 1959. Chairman of the Board of Directors and Board member since 2019. 
+Principal education: M.Sc. in Mechanical Engineering, KTH Royal Institute of Technology, Stockholm, Sweden. 
+Other on-going principal assignments: Board member of Sandvik AB, Mälarhamnar AB, SunStreet Energy AB, 
+Exandio Holding AB and Comparsio AB. 
+Katharine Clark 
+Born 1979. Board member since 2020.  
+Principal education: B.Sc. (Hons) Business Information Systems Management, Bournemouth University, United 
+Kingdom. Professional Diploma in Marketing, Charted Institute of Marketing, United Kingdom. 
+Other on-going principal assignments: VP BD, Innovation and Sustainability at Gunnebo, Previously VP 
+Commercial Development/ CCO, ASSA ABLOY Opening Solutions EMEAI. 
+Lorna Donatone 
+Born 1957. Board member since 2019.  
+Principal education: MBA, Texas Christian University, USA. B.Sc. Tulane University, USA. 
+Other on-going principal assignments: Board member of Dawn Food Products Inc., Sbarro, LLC and National 
+Restaurant Association Educational Foundation, USA. 
+Josef Matosevic 
+Born 1971. Board member since 2023.  
+Principal education: B.Sc. in Mechanical Engineering from Bayerische Julius-Maximilian’s Universität in 
+Würzburg, Germany. 
+Other on-going principal assignments: - 
+Hans Ola Meyer 
+Born 1955. Board member since 2019.  
+Principal education: B.Sc. in Economics and Business Administration, Stockholm School of Economics, 
+Sweden. 
+Other on-going principal assignments: - 
+Daniel Nodhäll 
+Born 1978. Board member since 2019.  
+Principal education: M.Sc. in Economics and Business Administration, Stockholm School of Economics, 
+Sweden. 
+Other on-going principal assignments: Board member of Husqvarna AB. 
+Martine Snels 
+Born 1969. Board member since 2019.  
+Principal education: M.Sc. Agriculture, industrial engineering, Katholieke Universiteit Leuven campus Geel, 
+Belgium. Studies in mathematics, Universiteit Antwerpen, Belgium. Advanced Finance, London Business School, 
+England. Finance for non-financials, Singapore Institute of Management. B2B Marketing, Vlerick Business 
+School, Belgium. 
+Other on-going principal assignments: Independent Non-Executive Director of Resilux and of the Vion Food 
+Group. CEO and owner of L’Advance B.V..
+
+--- Page 46 ---
+46(51) 
+ 
+Carsten Voigtländer 
+Born 1963. Board member since 2019.  
+Principal education: Degree in Mechanical Engineering, Technical University of Braunschweig, Germany. 
+Doctoral Degree/Dr.-Ing., Process Engineering, Technical University of Braunschweig, Germany. Advanced 
+Management Programme, INSEAD. 
+Other on-going principal assignments: Board member of Arbonia AG and BBC Group AG. Non-Executive 
+Director of INNIO Group, OIKOS International and STULZ GmbH. Member of the Foundation Board of 
+Friedhelm Loh Stifung. Member of the Supervisory Board of Testo Management SE. 
+Joachim Nord 
+Born 1966. Board member, employee representative (PTK) since 2019.  
+Other on-going principal assignments: - 
+Jens Pierard 
+Born 1968. Board member, employee representative (LO) since 2023.  
+Other on-going principal assignments: - 
+Per Magnusson 
+Born 1964. Deputy board member, employee representative (LO) since 2023.  
+Other on-going principal assignments: - 
+Group Management Team 
+The Group Management Team of the Company consists of twelve executives. The table below sets forth the name 
+and current position of each member of the Group Management Team. 
+Alberto Zanata 
+Born 1960. President & CEO since 2009.  
+Principal education: University Master’s degree in Electronic Engineering with Business Administration, Padua 
+University, Italy. 
+Jacob Broberg 
+Born 1964. Chief Communication & Investor Relations Officer since 2019.  
+Principal education: B.A., Political Science and Economics, Lund University, Sweden. 
+Carlo Mario Caroni 
+Born 1968. COO since 2014. 
+Principal education: Master university degree in Mechanical Engineering in Economics and Management, 
+Politecnico di Torino, Italy. 
+Richard Flynn 
+Born 1980. President Business Area Food APAC & MEA since 2022.  
+Principal education: Business management, University of Gloucestershire, England. 
+Dave Herring 
+Born 1964. President Business Area Food Americas since 2022. 
+Principal education: MBA, University of Southern New Hampshire, USA. B.Sc in Mechanical Engineering, 
+University of Iowa, USA. 
+Pia Hovland 
+Born 1965.CHRO since 2020.  
+Principal education: Bachelor´s degree in Computer Science.
+
+--- Page 47 ---
+47(51) 
+ 
+Camilla Monefeldt-Kirstein 
+Born 1972. President Business Area Food Europe since 2023. 
+Principal education: Master´s degree in Industrial Economics, Norwegian University of Science and Technology. 
+Master´s degree in Operational Research, London School of Economics and Political Science. 
+Guilhem Senegas 
+Born 1975. CIO and Head of Digital Transformation since 2020.  
+Principal education: Master’s degree in engineering from CentraleSupelec, Paris and MBA from Le Collège des 
+Ingénieurs, Paris. 
+Paolo Schira 
+Born 1975. President Business Area Laundry since 2022. 
+Principal education: Master’s Degree, Engineering, University of Trieste, Italy. 
+Carolina Tendorf 
+Born 1968. General Counsel since 2022.  
+Principal education: Master of Law, University of Stockholm. 
+Fabio Zarpellon 
+Born 1967. CFO since 2009. 
+Principal education: Degree, Business Administration, Ca’ Foscari University of Venice, Italy.  
+Philippe Zavattiero 
+Born 1961. President Business Area Beverage and Food Preparation since 2021.  
+Principal education: Master’s Degree of Engineer, National Institute Polytechnique of Grenoble, France. 
+Master’s degree ESSEC Business School Paris, France. 
+Other information regarding the Board of Directors and Group Management Team 
+Business address 
+The address for all Board members and members of the Group Management Team is c/o Electrolux Professional 
+AB, SE-112 51 Stockholm, Sweden. 
+Conflicts of interest 
+No Board member or member of the Group Management Team has any personal interests that could conflict with 
+the interests of the Company. Certain members of the Board of Directors members and members of the Group 
+Management Team have a financial interest in the Group as a consequence of being shareholders in the Company. 
+Auditors 
+Deloitte AB (Rehnsgatan 11, SE-113 79 Stockholm, Sweden) is the Company’s auditor since June 1, 2018, and 
+was re-elected at the Annual General Meeting held on April 26, 2023, for the period until the end of the Annual 
+General Meeting 2024. Jonas Ståhlberg, born 1975, is the auditor in charge. Jonas Ståhlberg is an Authorized 
+Public Accountant and member of FAR, the professional institute for accountants in Sweden.
+
+--- Page 48 ---
+48(51) 
+ 
+LEGAL AND SUPPLEMENTARY INFORMATION 
+Approval by the Swedish Financial Supervisory Authority 
+The Base Prospectus has been approved by the Swedish Financial Supervisory Authority (Finansinspektionen) 
+(the “SFSA”) pursuant to Article 20 of Regulation (EU) 2017/1129 of the European Parliament and of the Council 
+of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading 
+on a regulated market, and repealing Directive 2003/71/EC. The SFSA only approves this Base Prospectus as 
+meeting the standards of completeness, comprehensibility and consistency imposed by the Regulation (EU) 
+2017/1129. The SFSA’s approval should not be considered as an endorsement of the Company that is the subject 
+of this Base Prospectus, nor should it be considered as an endorsement of the quality of the securities that are the 
+subject of this Base Prospectus. Investors should make their own assessment as to the suitability of investing in 
+the securities. 
+Authorizations and responsibility 
+The Company has obtained all necessary resolutions, authorizations and approvals required in conjunction with 
+the establishment of the Programme. The decision to establish the Programme was authorized by a resolution of 
+the Board of Directors of the Company on February 21, 2024. 
+The Company accepts responsibility for the information contained in this Base Prospectus and declares that, to the 
+best of its knowledge, the information contained in this Base Prospectus is in accordance with the facts and the 
+Base Prospectus makes no omission likely to affect its import. The Board of Directors of the Company is, to the 
+extent provided by law, responsible for the information contained in this Base Prospectus and declares that, to the 
+best of its knowledge, the information contained in this Base Prospectus is in accordance with the facts and the 
+Base Prospectus makes no omission likely to affect its import. 
+Material agreements 
+Other than as described below, neither the Company nor any other Group Company has concluded any material 
+agreements not entered into in the ordinary course of its business which could result in a member of the Group 
+being under an obligation or entitlement that is material to the Company’s ability to meet its obligations to 
+Noteholders in respect of the Notes.  
+On December 22, 2023 Electrolux Professional entered into a bridge facility, provided by SEB and Danske Bank. 
+The purpose of the bridge facility is to finance the acquisition of Tosei Corporation. The bridge facility is intended 
+to be refinanced during 2024 with long term debt. 
+Governmental, legal and arbitration proceedings 
+The Group has not been party to any governmental, legal or arbitration proceedings (including any such 
+proceedings which are pending or threatened which the Company is aware of) during the previous twelve (12) 
+months from the date of this Base Prospectus which may have, or have had in the recent past, significant effects 
+on the Company’s and/or the Group’s financial position or profitability. 
+Certain material interests 
+The Dealers (and closely related companies) have provided, and may in the future provide, certain investment 
+banking and/or commercial banking and other services to the Company and the Group for which they have 
+received, or will receive, remuneration. In particular, it should be noted that SEB and Danske Bank are lenders 
+under a bridge credit facility with the Group as borrower. Accordingly, conflicts of interest may exist or may arise 
+as a result of the Dealers having previously engaged, or in the future engaging, in transactions with other parties, 
+having multiple roles or carrying out other transactions for third parties. 
+Trend information 
+There has been no material adverse change in the prospects of the Company since 31 December 2022, being the 
+date of the last published audited annual financial statements of the Company. 
+There has been no significant change in the financial performance of the Company since 31 December 2023, being 
+the end of the last financial period for which financial information has been published to the date of this Base 
+Prospectus.
+
+--- Page 49 ---
+49(51) 
+ 
+Significant changes since 31 December 2022 
+There have been no significant changes in the financial or trading position of the Group since December 31, 2022, 
+being the end of the last financial period for which audited financial information of the Company was presented. 
+Incorporation by reference 
+The following information has been incorporated into this Base Prospectus by reference and should be read as part 
+of the Base Prospectus: 
+Annual Report for 2021 
+https://www.electroluxprofessional.com/corporate/wp-
+content/uploads/2022/03/Electrolux-Professional-
+Annual-Report-2021.pdf  
+• 
+Consolidated statement on total comprehensive income on 
+page 99; 
+• 
+Consolidated balance sheet on page 100; 
+• 
+Change in consolidated equity on page 101; 
+• 
+Consolidated cash flow statement on page 102; 
+• 
+Notes on pages 107-152; and 
+• 
+Auditor’s report on pages 153-155. 
+Annual Report for 2022 
+https://www.electroluxprofessional.com/corporate/wp-
+content/uploads/2019/11/wkr0006-252.pdf  
+• 
+Consolidated statement on total comprehensive income on 
+page 96; 
+• 
+Consolidated balance sheet on page 97; 
+• 
+Change in consolidated equity on page 98; 
+• 
+Consolidated cash flow statement on page 99; 
+• 
+Notes on pages 104-141; and 
+• 
+Auditor’s report on pages 142-144. 
+Year-end report 2023 
+https://www.electroluxprofessional.com/corporate/wp-
+content/uploads/2019/11/wkr0006-295.pdf 
+• 
+Consolidated statement on total comprehensive income on 
+page 11; 
+• 
+Consolidated balance sheet on page 12; 
+• 
+Change in consolidated equity on page 13; 
+• 
+Consolidated cash flow statement on page 14; and 
+• 
+Notes on pages 18-20. 
+Information in the above documents that is not incorporated by reference is either deemed by the Company not to 
+be relevant for investors in Notes or is covered elsewhere in the Base Prospectus. 
+This Base Prospectus contains the Company’s historical financial statements for the financial years ended 
+December, 31 2021 and 2022, respectively, which have been prepared in accordance with the International 
+Financial Reporting Standards (IFRS) as adopted by the European Union and in accordance with the Swedish 
+Annual Accounts Act. The Company’s annual reports for 2021 and 2022 have been audited by the Company’s 
+auditor. The Company’s year-end report for 2023 have been prepared in accordance with IAS 34 – Interim 
+Financial Reporting and have not been reviewed by the Company’s auditor. Unless otherwise stated, no 
+information in this Base Prospectus has been audited or reviewed by the Company’s auditor. 
+Documents on display 
+The Company’s Certificate of Registration and Articles of Association are electronically available at the 
+Company’s website https://www.electroluxprofessional.com (the information on the Company’s website does not 
+form part of this Base Prospectus unless such information is incorporated by reference into this Base Prospectus).
+
+--- Page 50 ---
+50(51) 
+ 
+ADDRESSES 
+ 
+The Company 
+Electrolux Professional AB (publ) 
+SE-112 51 Stockholm, Sweden 
+Telephone: +46 (0)8 410 564 50 
+www.electroluxprofessional.com 
+The Arranger 
+Skandinaviska Enskilda Banken AB (publ) 
+SE-111 47 Stockholm, Sweden 
+Telephone: +46 (0)8 506 232 09 
+www.seb.se 
+The Dealers 
+Danske Bank A/S Danmark, Sverige Filial 
+Norrmalmstorg 1 
+SE-103 92 Stockholm, Sweden  
+Telephone: +46 (0)8 568 805 77 
+www.danskebank.se 
+Skandinaviska Enskilda Banken AB (publ) 
+SE-111 47 Stockholm, Sweden 
+Telephone: +46 (0)8 506 232 09 
+www.seb.se 
+Legal Adviser to the Company 
+Account Operator 
+Mannheimer Swartling Advokatbyrå 
+P.O. Box 1711 
+SE-111 87 Stockholm, Sweden 
+www.mannheimerswartling.se 
+Euroclear Sweden AB 
+P.O. Box 191 
+SE-101 23 Stockholm, Sweden 
+www.euroclear.com/sweden
+
+--- Page 51 ---
+51(51) 
+ 
+ 
+ 
+ 
+SE-112 51 Stockholm, Sweden 
+www.electroluxprofessional.com

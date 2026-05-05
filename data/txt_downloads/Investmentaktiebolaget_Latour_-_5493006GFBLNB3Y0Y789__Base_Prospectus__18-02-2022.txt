@@ -1,0 +1,3069 @@
+--- Page 1 ---
+This Base Prospectus was approved by the Swedish Financial Supervisory Authority (Sw. 
+Finansinspektionen) on 18 February 2022. The Base Prospectus is valid for 12 months from the date of 
+the approval, provided that Investment AB Latour (publ) fulfils the obligation under Regulation (EU) 
+2017/1129, the Prospectus Regulation, if applicable, to supplement the Base Prospectus in the event of 
+significant new factors, material mistakes or material inaccuracies. The Company is under no obligation 
+to prepare supplements to the Base Prospectus after the validity period has expired.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INVESTMENT AB LATOUR (PUBL) 
+BASE PROSPECTUS FOR MEDIUM TERM NOTES PROGRAMME OF A MAXIMUM OF  
+FIFTEEN (15) BILLION SWEDISH KRONOR OR THE EQUIVALENT AMOUNT IN EURO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Arranger: 
+Handelsbanken Capital Markets 
+ 
+Dealers: 
+Handelsbanken Capital Markets 
+SEB
+
+--- Page 2 ---
+1 
+ 
+IMPORTANT INFORMATION 
+This base prospectus (the “Base Prospectus”) refers to Investment AB Latour’s (publ) (“Latour” or the “Company”), Swedish corporate 
+registration number 556026-3237, programme for the issuance of Medium Term Notes (“MTN”) in Swedish kronor (“SEK”) or in Euro (“EUR”) 
+with varying tenors, although with a minimum of one (1) year, within the framework of a maximum total nominal amount, outstanding at 
+the time, of SEK FIFTEEN BILLION (15,000,000,000) or the equivalent amount in EUR (the “MTN-Programme”). The nominal amount per 
+MTN may not be less than EUR 100,000 (or the equivalent amount in SEK). The Base Prospectus has been prepared for the purposes of the 
+admission to trading of MTNs on a regulated market in Sweden, within the framework of the general terms and conditions of the MTN-
+Programme, of which an unofficial English translation is included in the Base Prospectus (the “General Terms and Conditions”), as the 
+case may be, and the form of final terms, of which an unofficial English translation is included in the Base Prospectus (the “Final Terms”).  
+ 
+References in the Base Prospectus made to the “Group” refer to the Company together with its subsidiaries, unless otherwise evident from 
+the context. Definitions in the Base Prospectus, if not specifically defined in the Base Prospectus, can be found in the General Terms and 
+Conditions of the MTN-Programme and, where applicable, in the Final Terms. The General Terms and Conditions and the Final Terms within 
+the framework of the MTN-Programme has been prepared based on Swedish law. Disputes regarding the General Terms and Conditions, 
+applicable Final Terms or the Base Prospectus will be decided by a Swedish court. Stockholm District Court will be the court of first 
+instance. 
+ 
+The Base Prospectus has been approved by the Swedish Financial Supervisory Authority (Sw. Finansinspektionen) (the "SFSA") in accordance 
+with Article 20 of Regulation (EU) 2017/1129 (the “Prospectus Regulation”), which is the national competent authority under the 
+Prospectus Regulation. The Base Prospectus is valid for a period of 12 months from the date of the approval of the Base Prospectus, 
+provided that the Base Prospectus is supplemented in accordance with Article 23(1) of the Prospectus Regulation, during its period of 
+validity. The obligation to prepare a supplement occurs in the event of any significant new factors, material mistakes or material 
+inaccuracies that may affect the assessment of the MTN, and which occur during the period of validity of the Base Prospectus. The SFSA 
+only approves the Base Prospectus as meeting the standards of completeness, comprehensibility and consistency set out in the Prospectus 
+Regulation. After the date of the Base Prospectus, the Company does not undertake to amend or update the Base Prospectus except as 
+stated above regarding the requirements to prepare a supplement. 
+ 
+The Base Prospectus must be read together with all documents incorporated by reference, the General Terms and Conditions and the Final 
+Terms under the MTN-Programme, as well as any supplementary prospectuses to the Base Prospectus. The Dealers have not verified the 
+content of the Base Prospectus and are not responsible for its content. For further information about, and to obtain, the Base Prospectus 
+electronically, please refer to the Company. The Base Prospectus is available on the Company’s website, https://www.latour.se/en, the 
+SFSA’s website, https://fi.se/en/our-registers/prospektregistret/, and the European Securities and Markets Authority’s (ESMA) website, 
+www.esma.europa.eu. 
+ 
+Readers of the Base Prospectus must note that the information on the Company’s website, https://www.latour.se/en or equivalent links 
+referring to all or part of the Company’s website, is not incorporated in the Base Prospectus unless this information is incorporated into 
+the Base Prospectus by reference, see the section “Documents incorporated by reference”. Information on the Company’s or a third party’s 
+website has not been reviewed or approved by the SFSA. 
+ 
+The Base Prospectus may not be distributed, forwarded, reproduced or made available in or to any country where such publication or 
+distribution would require further documentation to be prepared or registration to take place or other action to be taken, beyond that 
+which is required by Swedish law, or where this would be contrary to applicable laws or regulations in said country. Individuals who have 
+access to the Base Prospectus are obliged to inform themselves about, and to observe, such restrictions. MTN issued under the Base 
+Prospectus have not been registered, and will not be registered, under the United States Securities Act 1933. MTN may not be transferred 
+or offered for sale in the USA or to an individual who is resident in the USA or on behalf of such a person. 
+ 
+The Base Prospectus contains certain forward-looking statements that reflects the Company’s current views or expectations with respect 
+to future events and financial and operational performance. Words such as “anticipate”, “estimate”, “expect”, “intend”, “may”, “plan”, 
+or similar expressions regarding indications or forecasts of future developments or trends, which are not statements based on historical 
+facts, constitute forward-looking information. Forward-looking information is inherently associated with both known and unknown risks 
+and uncertainties, as it is dependent on future events and circumstances. Forward-looking information does not constitute a guarantee of 
+future performance or developments, and actual outcomes may differ materially from that which is stated in forward-looking information. 
+Factors that may cause the Company’s future results and developments to differ from that which can be expressed in forward-looking 
+statements include, but are not limited to, those described in the section “Risk Factors”. Forward-looking information in the Base 
+Prospectus is only valid as of the date of publication of the Base Prospectus. The Company undertakes no obligation to publish updates or 
+revisions to forward-looking information as a result of new information, future events or similar circumstances, other than as required by 
+applicable legislation. 
+ 
+In respect to each issue of MTN, a target market assessment will be made by the Arranger and the Dealers for MTN and appropriate 
+distribution channels for MTN will be determined. An individual who subsequently offers, sells or recommends MTN (a “Distributor”) should 
+take the target market assessment into account. However, a Distributor subject to Directive 2014/65/EU (“MiFID II”) is obliged to carry 
+out its own target market assessment in respect of MTN (either by applying or adapting the target market assessment) and determining the 
+appropriate distribution channels. According to MiFID’s product governance requirements under the (EU) Delegated Directive 2017/593 
+(“MiFID Product Governance Rules”), it is necessary to determine, in relation to each issue, whether the Arranger or any of the Dealers 
+involved in the issue of MTN is a manufacturer of such MTN. Neither the Arranger, the Dealers nor any of their respective subsidiaries that 
+are not participating in an issue, will be considered to be manufacturer in accordance with the MiFID Product Governance Rules.
+
+--- Page 3 ---
+2 
+ 
+TABLE OF CONTENTS 
+ 
+ 
+DESCRIPTION OF LATOUR’S MTN-PROGRAMME .............................................. 3 
+PRODUCT DESCRIPTION ................................................................................. 5 
+RISK FACTORS ................................................................................................ 7 
+GENERAL TERMS AND CONDITIONS FOR LOANS UNDER THE MTN-
+PROGRAMME ................................................................................................. 12 
+FORM OF FINAL TERMS ................................................................................. 28 
+BUSINESS DESCRIPTION .............................................................................. 32 
+BOARD OF DIRECTORS, SENIOR EXECUTIVES AND AUDITOR ........................ 43 
+OVERVIEW OF HISTORICAL FINANCIAL INFORMATION ................................ 46 
+LEGAL CONSIDERATIONS AND SUPPLEMENTARY INFORMATION .................. 47 
+DOCUMENTS INCORPORATED BY REFERENCE ............................................... 49 
+LEGAL INFORMATION REGARDING THE BASE PROSPECTUS .......................... 51 
+ADDRESSES ................................................................................................... 52
+
+--- Page 4 ---
+3 
+ 
+DESCRIPTION OF LATOUR’S MTN-PROGRAMME 
+ 
+Overview 
+This MTN programme (the “MTN-Programme”) constitutes a framework under which the Company intends to raise 
+loans in Swedish kronor (“SEK”) or (“EUR”) with varying tenors, although not less than one (1) year, within the 
+framework of a maximum total nominal amount, outstanding at the time, of SEK FIFTEEN BILLION (15,000,000,000) 
+or the equivalent amount in EUR. The nominal amount per MTN may not be less than EUR 100,000 (or the equivalent 
+amount in SEK).1 The Board of Directors resolved to establish the MTN-Programme on 3 November 2017. 
+ 
+General 
+Loans are raised through the issue of promissory notes, known as Medium Term Notes (“MTN” or “Loans”). The 
+MTN-Programme forms part of the Company’s debt financing and is aimed at qualified investors in the Swedish 
+capital market. MTN are freely transferable in nature. 
+ 
+For all MTN issued under the MTN-Programme, the general terms and conditions (the “General Terms and 
+Conditions”) included in the Base Prospectus will apply. In addition, for each MTN, supplementary Final Terms will 
+apply, which, together with the General Terms and Conditions, will constitute the complete Loan Terms and 
+Conditions for the relevant MTN.  
+ 
+The Company has appointed Svenska Handelsbanken AB (publ) as the arranger (the “Arranger”). The Arranger and 
+Skandinaviska Enskilda Banken AB (publ) constitute dealer agents, as well as any other dealer agent that accedes 
+as dealers under the MTN-Programme (the "Dealers"). As Dealers under the MTN-Programme, the above Dealers 
+have no financial or other relevant interests in this regard, except for any fees. The Dealers have not verified the 
+content of the Base Prospectus.  
+ 
+As far as the Company is aware, as of the date of the Base Prospectus, there are no other individuals involved in 
+the issuing of MTN who have any financial or other relevant interests. However, this assessment will be made for 
+each MTN and will be disclosed in the Final Terms.  
+ 
+Status 
+MTN constitute an unsecured debt obligation with equal rank and rights to payment (pari passu) with the Company’s 
+other, existing or unsecured and unsubordinated obligations for which preferential rights do not follow from 
+legislation. 
+ 
+Form of securities and identification 
+MTN issued under the MTN-Programme are an unilateral debt obligation issued in dematerialized book-entry form 
+and registered on a securities account on behalf of the relevant Bondholder and connected to Euroclear Sweden’s 
+account-based system, which is why no physical securities will be issued. The MTN-Programme is affiliated with 
+Euroclear Sweden, and the Final Terms contain the International Securities Identification Number (ISIN) obtained 
+from Euroclear Sweden. 
+ 
+Euroclear Sweden has the following address: Euroclear Sweden AB, Box 7822, SE-103 97 Stockholm, Sweden. 
+ 
+Green bonds 
+The Company may issue green bonds. As of the date of the Base Prospectus, the Company has no framework for 
+green bonds, although the Company may adopt one in the future. In the event such a decision is made, the Company 
+shall publish a green framework on its website (https://www.latour.se/en), which describes the special terms and 
+conditions (the “Green Terms and Conditions”) that are applicable to the issue of green bonds (“Green Bonds”). 
+In order for the Green Terms and Conditions to apply to a particular Loan, the Final Terms for the Loan must specify 
+that the Loan constitutes a Green Bond. The Green Terms and Conditions may be updated from time to time by the 
+Company in whole or in part in order to reflect changes in the Green Bond Principles 2021 (GBP) and the “best 
+practice” in the market. In December 2019, the European Council and the European Parliament concluded a political 
+agreement on the so-called Taxonomy Regulation regarding a harmonized classification system with rules on the 
+assessment of green and sustainable investments (the "Taxonomy Regulation"). The Taxonomy Regulation will 
+enter into force gradually in 2021 and 2022. If the framework is designed to harmonize with the Taxonomy 
+Regulation and the expected EU standard for green bonds (European Green Bond Standard), Loans can also be 
+accredited as a European Green Bond. 
+                                                     
+1 In connection with the publication of the Base Prospectus, the Company’s Board of Directors has resolved to increase the 
+framework amount of the MTN-Programme from the previous SEK 12 billion to the current SEK 15 billion.
+
+--- Page 5 ---
+4 
+ 
+ 
+The Green Terms and Conditions may from time to time be updated. For Loans issued prior to such updates, the 
+Green Terms and Conditions that applied as of the Loan Date will still apply for such Loan regardless of changes in 
+the Green Terms and Conditions that occur after the Loan Date with the exception of such necessary amendments 
+to the Green Terms and Conditions that only aim to enable that already issued Loans can receive the accreditation 
+of a European Green Bond. 
+ 
+If the Company should fail to comply with the Green Terms and Conditions in relation to a particular Loan, this 
+does not result in a termination right for Bondholders under such Loan, which is why Bondholders in such case are 
+also not entitled to request early repayment or repurchase of MTN or other compensation in such an event. 
+ 
+Admission to trading on a Regulated Market 
+According to the General Terms and Conditions, any admission to trading on a Regulated Market will be specified 
+in the Final Terms, and if MTN are to be admitted to trading on a Regulated Market, the application will be 
+submitted to Nasdaq Stockholm or another Regulated Market. The Regulated Market to which the application is 
+made will be entitled to make its own assessment and then admit or reject the registration of a Loan. 
+ 
+The Company is liable for all costs associated with the admission to trading of MTN under the MTN-Programme, 
+such as costs to prepare the Base Prospectus. The cost for registering a Loan on a Regulated Market may be affected 
+by the nominal amount and duration, which can be found from the currently applicable price list for the relevant 
+Regulated Market. 
+ 
+Credit rating 
+A credit rating is the rating that a borrower can obtain from an independent credit rating agency in respect of its 
+ability to meet its financial commitments. On 10 December 2021, the credit rating agency Fitch affirmed Latour's 
+credit rating of A, with a stable outlook. For complete information regarding the Company’s credit rating, see the 
+section “Legal issues and supplementary information - Credit ratings”. 
+ 
+Credit rating may also be set on a Loan. If MTN are to receive or have received a credit rating, this is specified in 
+the Final Terms. This ability is also known as creditworthiness. There is no guarantee that a credit rating has taken 
+into account all the risks associated with investment in MTN. A credit rating is therefore not a recommendation to 
+buy, sell or hold securities, and can be changed or revoked by the credit rating agency at any time. It is the 
+obligation of each individual to obtain up-to-date information about credit ratings, as these may be subject to 
+change. 
+ 
+Time-bar for claims 
+A claim for principal of MTN is limited and void ten (10) years after the Maturity Date. A claim for interest is limited 
+to three years after the relevant Interest Payment Date. If a claim is limited as regards time, the funds set aside 
+for payment of the claim will accrue to the Company. In the event of an interruption in the limitation period, a 
+new limitation period of 10 years in the case of the principal MTN and three years in respect of interest amounts 
+will apply, in both cases calculated from the date set out in provisions on the effect of interruptions in limitation 
+periods in the Swedish Limitations Act (1981:130). 
+ 
+Governing law 
+MTN are issued in accordance with Swedish law. Disputes regarding the Loan Terms and Conditions will be settled 
+by a Swedish court. The Stockholm District Court (Sw. Stockholms tingsrätt) will be the court of first instance.
+
+--- Page 6 ---
+5 
+ 
+PRODUCT DESCRIPTION 
+ 
+Below is a description of the structures and terms that is applicable in the Loan Terms and Conditions and that 
+apply when issuing Loans under the MTN-Programme. The structure of each Loan is set out in the relevant Final 
+Terms, which will apply together with the General Terms and Conditions applicable at the time of the MTN-
+Programme. For a description of the definitions set out below, see the General Terms and Conditions. 
+ 
+INTEREST STRUCTURES 
+For Loans issued under the MTN-Programme, the applicable interest rate structure for the specific Loan will be 
+disclosed in the Final Terms. Under the MTN-Programme, in accordance with section 6 of the General Terms and 
+Conditions, it is possible to issue Loans with one of the interest rate structures described below. When calculating 
+the interest period during which the interest rate is to run, different day count convention methods are used 
+depending on which interest rate structure is applied.  
+ 
+Day Count Convention of the Interest Period 
+Interest that has accrued during an Interest Period is paid in arrears on the relevant Interest Payment Dates, and is 
+calculated according to one of the Day Count Convention Methods described below. 
+ 
+ 
+“30/360” - means that the amount is calculated for a year with 360 days, consisting of twelve months 
+each of 30 days, and during the broken month the actual number of days that have elapsed in the month. 
+ 
+“Actual/360” - means that the amount is calculated using the actual number of days in the relevant period 
+divided by 360. 
+Which of these structures for Day Count Convention of the Interest Period that applies for a particular Loan is 
+specified in the Final Terms of the Loan. 
+ 
+ 
+MTN with Fixed Rate 
+If the Loan is specified as a Loan with Fixed Rate in SEK or EUR, the Loan will run with interest according to the 
+Interest Rate from (but excluding) the Interest Commencement Date up to and including the Maturity Date. 
+  
+In the case of a Loan with Fixed Rate, the interest that has accrued during an Interest Period is paid in arrears on 
+the relevant Interest Payment Dates and is calculated according to the Day Count Convention method specified in 
+the Final Terms (see “Day Count Convention of the Interest Period” above for information about calculation 
+methods). 
+ 
+MTN with Floating Rate (FRN) 
+If the Loan is specified as a Loan with floating rate in SEK or EUR, the Loan will run with interest from (but excluding) 
+the Interest Commencement Date up to and including the Maturity Date. The interest rate for each interest period 
+is determined by the Administrative Agent on the relevant Interest Determination Date, and consists of the Base 
+Rate plus the Base Rate Margin for the same period, adjusted with regard to the application of section 13 
+(Replacement of Base Rate) of the General Terms and Conditions. If the calculation of the interest rate entails a 
+value lower than zero, the interest rate will be considered to be zero. 
+ 
+If the Interest Rate cannot be determined on the Interest Determination Date due to an obstacle as referred to in 
+point 17.1 of the General Terms and Conditions, the Loan will continue to run at the interest rate that applied to 
+the immediately preceding Interest Period. As soon as the obstacle has ceased to exist, the Administrative Agent 
+will calculate a new Interest Rate, which will apply from the second Business Day after the date of the estimate up 
+until the end of the current Interest Period.  
+ 
+The interest that has accrued during an Interest Period is paid in arrears on the relevant Interest Payment Date and 
+is calculated according to the Day Count Convention method specified in the Final Terms (see “Day Count Convention 
+of the Interest Period” above for information about calculation methods).  
+ 
+Base Rate for MTN with Floating Rate 
+The Base Rate is the reference rate specified in the Final Terms. This generally means STIBOR for Loans in SEK and 
+EURIBOR for Loans in EUR. If, at a given time and with respect to MTN with Floating Rate, the reference rate is 
+specified in the Final Terms as other than STIBOR, the interest rate for said MTN will be specified and determined 
+in accordance with the Final Terms for MTN.
+
+--- Page 7 ---
+6 
+ 
+STIBOR refers to (a) the interest rate administered, calculated and distributed by the Swedish Financial Benchmark 
+Facility AB (or the replacing administrator or calculation agent) for the relevant day and published on the 
+information system Refinitiv's page “STIBOR =” (or through such other system or on such other page as replaces 
+the said system or page) for SEK for a period comparable to the relevant Interest Period; or (b) if no such interest 
+rate is available for the relevant Interest Period according to point (a), the arithmetic mean of the rates (rounded 
+upwards to four decimal places) as supplied to the Administrative Agent at its request quoted by the Reference 
+Banks for deposits of SEK 100,000,000 for the relevant Interest Period; or (c) if no such interest rate is specified in 
+accordance with point (a) and (b), the interest rate which, according to the reasonable estimate of the 
+Administrative Agent, best reflects the interest rate for deposits in SEK in the Stockholm interbank market for the 
+relevant Interest Period. 
+ 
+EURIBOR refers to (a) the interest rate as displayed as of around 11.00 a.m. on the relevant day, is specified page 
+EURIBOR01 of the Refinitiv screen (or through such other system or on such other page as replaces the said system 
+or page) for EUR for a period comparable to the relevant Interest Period; or (b) if no such interest rate is available 
+for the relevant Interest Period according to point (a), the arithmetic mean (rounded upwards to four decimal places) 
+as supplied to the Administrative Agent at its request quoted by the European Reference Banks for deposits of EUR 
+10,000,000 for the relevant Interest Period; or (c) if no interest rate is specified in accordance with point (a) and 
+(b), the interest rate which, according to the reasonable assessment of the Administrative Agent, best reflects the 
+interest rate for deposits in EUR offered for the relevant Interest Period. 
+ 
+The Benchmark Regulation 
+Interest paid on MTN issued under the MTN-Programme can be calculated using certain benchmarks as defined in the 
+General Terms and Conditions. These benchmarks are STIBOR (provided through Swedish Financial Benchmark 
+Facility AB (“SFBF”), a wholly-owned subsidiary of Global Rate Set Systems Ltd.), and EURIBOR (provided by the 
+European Money Market Institute). As of the date of the Base Prospectus, SFBF is not registered in the register of 
+administrators and benchmarks provided by ESMA in accordance with Article 36 of Regulation (EU) 2016/1011 (the 
+"Benchmark Regulation"). On 27 December 2021, SFBF submitted an application with the SFSA to operate as an 
+authorized administrator under the Benchmark Regulation.  
+ 
+The European Money Market Institute (provider of EURIBOR) is registered in said register following authorization on 
+2 July 2019.  
+ 
+MTN without interest (Zero Coupon Loans) 
+If the Loan is specified as a Zero Coupon Loan, the Loan will run without interest, which means that MTN can be 
+sold at a rate equal to, below or above the Nominal Amount, where the return is received on the Maturity Date in 
+connection with the repayment of the nominal amount.  
+ 
+Repayment and repurchase 
+Loans fall due for payment at their Nominal Amount, as applicable under the relevant Final Terms, on the Maturity 
+Date, along with accrued interest (if any). If the Maturity Date falls on a day that is not a Business Day, the Loan 
+is repaid on the following Business Day. Payment of the Nominal Amount and interest must take place in the 
+currency in which the Loan has been taken out, to the person who is registered as the Bondholder on the Record 
+Date prior to the relevant due date, or to another person who is registered with Euroclear Sweden who is entitled 
+to receive such payment. 
+ 
+The Company may, by agreement with Bondholders, repurchase MTN at any time provided this is compatible with 
+applicable law. MTN that are owned by the Company may, according to the Company’s own decision, be retained, 
+transferred or redeemed.
+
+--- Page 8 ---
+7 
+ 
+RISK FACTORS 
+ 
+Prior to an investment decision in the Company’s MTN, it is important to carefully analyze the risk factors that are 
+deemed to be of importance to Latour. The risk factors that are deemed to be significant for the Company are set 
+out below. These risk factors are attributable to the Company and its market, operational risks, legal risks, 
+financial risks and risks related to MTN. Furthermore, the Company has assessed the materiality of the risk factors 
+on the basis of the likelihood of their realization and the anticipated extent of their adverse effects. The risk 
+factors that, as of the date of the Base Prospectus, are considered to constitute the most significant risk factors 
+are presented first in each category, while subsequent risk factors are presented in no particular order.  
+ 
+The following risks may have a material adverse impact on the Company’s operations, financial position and/or 
+earnings. These risk factors, if they occur, may also cause MTN to decrease in value, which could also result in MTN 
+holders losing all or part of their invested capital. 
+ 
+Financial information that is presented in brackets constitutes comparative information for the corresponding 
+period for the 2020 financial year.  
+ 
+RISKS RELATED TO THE GROUP AND ITS MARKET 
+Risks related to the valuation and development of Latour’s investment portfolio 
+Latour’s investment portfolio consists of several companies in various businesses and sectors. All of these companies 
+are affected, to varying degrees, by macroeconomic factors such as general global or local economic trends, growth, 
+employment trends, production rates, changes in infrastructure, regional economic development, inflation and 
+interest rate levels. Latour’s investment strategy is primarily based on long-term investments in companies that 
+have proprietary products and brands, considerable growth potential and that the Company believes have good 
+prospects for internationalization. Latour’s operations primarily consist of two parts: the wholly-owned industrial 
+operations and the investment portfolio. The market value of the listed holdings is simple to calculate, since clearly 
+stated market prices are available. The Covid-19 pandemic, which is still ongoing, meant that the world’s stock 
+markets experienced high levels of volatility during the first quarter of 2020, and witnessed particularly sharp 
+declines at certain times during February and March. However, 2020 as well as 2021 as a whole ended strongly, with 
+the world’s stock markets ultimately showing positive growth over the year as a whole. The beginning of 2022 has 
+been marked by large fluctuations in the stock market, where risks regarding inflation, risk of interest rate increases 
+and political risks, especially given the situation in Eastern Europe, have led to significant volatility in the stock 
+markets with a result of decreasing share prices. 
+ 
+Determining the value of the wholly-owned operations is much more difficult than for the investment portfolio. This 
+is because the market value, and the price that potential buyers are willing to pay for the operations, is not as 
+clearly defined. As of 31 December 2021, the market value of the investment portfolio was SEK 98,438 million (SEK 
+68,065 million). Latour’s largest holdings as of 31 December 2021, in terms of their net asset value, consist of ASSA 
+ABLOY (21 per cent of the investment portfolio), TOMRA (15 per cent), Sweco (12 per cent), Hultafors Group (10 
+per cent) and Swegon (9 per cent). As of 31 December 2021, the wholly-owned industrial operations accounted for 
+approximately 35 per cent of the consolidated net asset value, if using the value derived through the chosen 
+calculation method. The Group’s earnings and financial position are largely dependent on how the companies in the 
+investment portfolio develop, which also includes changes in the share prices of the companies that are included in 
+Latour’s investment portfolio. As a result of any negative share price developments in the investment portfolio, the 
+Group may potentially need to restructure its holdings. Furthermore, Latour is not the majority shareholder of any 
+of the companies included in the investment portfolio, which means that the portfolio companies can make decisions 
+and implement measures that may be negative as regards Latour’s interests without the Company having had full 
+opportunity to influence these decisions or measures.  
+ 
+Risks related to the effects of Covid-19 
+The Covid-19 pandemic and the measures that have been implemented by governments around the world have had 
+severe adverse effects on the global economy, and, in one way or another, have consequently affected both large 
+and small companies in many industries and sectors. During the first quarter of 2020, the anxiety surrounding the 
+Covid-19 pandemic resulted in the world’s stock markets demonstrated high levels of volatility and witnessed a 
+particularly sharp decline at certain times during February and March 2020. At the time, the consequences of the 
+Covid-19 pandemic also had a negative impact on Latour, and several of the share prices of the companies in the 
+Group’s investment portfolio were initially affected extremely negatively, although the investment portfolio 
+reported continued good sales and earnings performance for 2020 as well as 2021 as a whole. As a result of the 
+Covid-19 pandemic, the Group has experienced a certain negative impact on demand in some of its wholly-owned
+
+--- Page 9 ---
+8 
+ 
+operations, as well as a negative impact on invoicing due to postponed projects and deliveries. Overall, however, 
+the businesses have restructured their organizations, implemented extensive measures and met the changing 
+external factors in a satisfactory manner, with the result that the earnings performance in 2020 and 2021 was very 
+good. In order to mitigate the effects of Covid-19 during 2020 and 2021, Latour’s business areas have taken part in 
+Government support schemes in those cases where this has been justified. Latour has, as of 31 December 2021 
+received a total of SEK 2 (64) million, of which SEK 0 (11) million in Sweden. 
+  
+There is a high level of uncertainty regarding the continued effects of Covid-19, especially with regard to the 
+Omicron variant that has been dominating the spread rapidly across the world since the end 2021, and what impact 
+the pandemic may have in the future. The pandemic has disrupted market conditions globally and has generally 
+affected companies’ future prospects, operating results and financial standing. There is uncertainty as to whether 
+Government or other measures will lead to rapid and adequate improvements to such market conditions in the 
+future, and if the situation should deteriorate further or additional restrictions be imposed, or if existing or new 
+restrictions should remain for an extended period of time, this could have a material negative effect on the Group’s 
+operations and financial performance. Even though the Group’s operations have gradually started to return to 
+normal activities, there is also a risk that Latour will once again need to change and adapt to new conditions. In 
+addition, increased anxiety regarding the Covid-19 pandemic could lead to new declines on stock markets around 
+the world, which could have a negative impact on the Group’s financial position.  
+ 
+Valuation risk 
+The Group is exposed to a price risk concerning shares due to investments held by the Group and which, in the 
+Group’s balance sheet, are classified as either available-for-sale financial instruments or assets measured at fair 
+value through the income statement. The price risk regarding shares covers the share price risk and the liquidity 
+risk. The share price risk refers to the risk of a reduction in value due to changes in the share prices on the stock 
+market for each holding in the investment portfolio, which in turn affects the valuation of the Group’s overall 
+investment portfolio. Liquidity risk means that a share can be difficult to sell for a number of reasons, including 
+that the liquidity in trade over the trading venue may be limited, making it more difficult to sell all or part of a 
+holding in the short term or over time. There is also a risk that there will be no buyers of larger shareholdings, both 
+on the trading venue and outside. The consequence of a liquidity risk is the risk that the valuation based on the 
+trading price on the trading venue is not always fair when it comes to evaluating the total holding that the Group 
+has in a company in the investment portfolio. Furthermore, liquidity risk in respect of transactions that take place 
+outside a trading venue may entail that the anticipated valuation of holdings cannot be realized and the valuation 
+may consequently be lower than expected, which may have an impact on the valuation of the Group’s total holdings. 
+If the market value of holdings in the investment portfolio as of 31 December 2021 should change by 5 per cent, this 
+would affect comprehensive income and equity by SEK 0 million (0). 
+ 
+Risk of non-payment of dividends from Latour’s investment portfolio 
+Latour’s long-term ambition is to be an active owner in the companies that form part of the Group’s investment 
+portfolio. The Group’s dividend policy is to pay dividends amounting to 100 per cent of the dividends received from 
+the investment portfolio and partially-owned holdings, as well as dividends totaling 40–60 per cent of the profit 
+after tax in wholly-owned companies. The Group is consequently reliant to some extent on dividends from a number 
+of companies in its investment portfolio in order to finance its operations, implement potential future investments 
+and to go through with the dividend policy. The dividends from the companies in the investment portfolio amounted 
+to SEK 1,042 million (SEK 927 million) in 2021, and the dividends from wholly-owned industrial operations amounted 
+to SEK 970 million (SEK 499 million). The investment portfolio companies’ ability to decide on dividends to Latour 
+may vary from time to time, and is primarily based on a number of factors such as future income, financial position, 
+cash flows, the need for working capital, costs for investments or a complete lack of distributable funds. Reduced 
+profitability in Latour’s investment portfolio can therefore affect its ability to pay dividends, which in turn may 
+have an impact on the Group’s liquidity and financing.  
+  
+Risk regarding the need for new share issues in the listed holdings 
+The Company’s investment portfolio consists of ten listed holdings where Latour is the principal owner or one of the 
+principal owners, but does not have such influence individually in the holdings that the Company controls the 
+decisions and measures that any of the companies in the investment portfolio may take. The companies in Latour’s 
+investment portfolio may, from time to time, be in need of future capital and financing, where one potential 
+measure for raising capital might be to conduct a new share issue to existing shareholders. In order not to risk the 
+dilution of the Group’s holdings, Latour may need to participate in potential new issues, even in those cases where 
+such capital procurement is not in line with Latour’s own interests or within the framework of Latour’s investment 
+strategy, for example including defensive new share issues or crisis issues carried out primarily to ensure the 
+continued operation of the business. If Latour should decide not to participate in a new share issue, there is a risk 
+that the Company will also not be able to receive financial compensation through the sale of subscription rights, as
+
+--- Page 10 ---
+9 
+ 
+it may be difficult to find buyers for subscription rights or because the market for trading in subscription rights is 
+illiquid. The risk of defensive new share issues or crisis issues is considered low as of the date of the Base Prospectus. 
+If an investment portfolio company should be in need of a defensive new share issue or crisis issue, this could have 
+an impact on the Group’s liquidity. Securitas, one of Latour’s listed holdings, will acquire Stanley Black and Decker 
+Security and in connection to the acquisition conduct a new share issue in 2022. In this context, Latour has 
+committed its pro rata share of the new share issue of USD 99.6 million as well as a further 122 MUSD in guarantee 
+undertaking if the new share issue would not be fully subscribed. 
+ 
+Risks related to the Company’s holdings in construction-related sectors 
+The companies included in Latour’s investment portfolio have a broad customer base that spans a number of 
+industries, with the majority being within construction and industry-related sectors, such as Hultafors Group, 
+Swegon and Alimak Group. These sectors account for more than half of the Group’s holdings. In the construction 
+industry, sales are divided between new construction and the repairs and maintenance sector, and are further 
+divided between commercial premises, public premises and housing. The construction industry is exposed to 
+particular risks such as actual and anticipated changes in taxation and subsidies for housing and housing 
+development, tax deductions for Swedish citizens for repairs and maintenance as well as renovations and extensions, 
+and legislative changes in respect of loan financing for the purchase of property. Should any of these change 
+negatively, or in the case of other events affecting the construction industry in light of the Group’s exposure to it, 
+this could have a negative impact on the Group’s financial position.  
+ 
+Risks related to major shareholders with significant influence 
+As of 31 December 2021, the Douglas family and their companies own a total of 76.0 per cent of the capital and 
+79.2 per cent of the voting rights in Latour. The Board members Eric Douglas and Carl Douglas are part of the Douglas 
+family. As the single largest shareholder, the Douglas family and their companies may have the potential to exercise 
+significant influence over the outcome of matters that are referred to Latour’s shareholders for approval, including 
+the election of Board members and any increases in the share capital, mergers, consolidations or the sale of 
+companies in the investment portfolio. The interests of the Douglas family as shareholders in Latour do not 
+necessarily have to be in line with the interests of MTN holders. There is also a risk that the Group’s operations may 
+be affected in the event that, for some reason, the Douglas family is unable or unwilling to continue to exercise an 
+active ownership role in Latour. 
+ 
+Currency exposure  
+The Group’s operations face currency exposure in the form of exchange rate fluctuations. A breakdown of the net 
+currency flows for Swedish entities for the 2021 financial year shows: NOK 504 million (SEK 517 million), DKK 143 
+million (SEK 166 million), GBP 326 million (SEK 341 million), USD 651 million (SEK 489 million), EUR 766 million (SEK 
+591 million) and CHF 115 million (SEK 97 million). Assuming the same net transaction exposure as in the 2021 
+financial year, and provided no hedging has been used, profit would have been impacted by +/- SEK 12 million if 
+SEK had increased or decreased by one percentage point against all transaction currencies. The Group’s currency 
+exposure consists partly of transaction exposure relating to purchases and sales in foreign currency, and partly to 
+translation exposure relating to net investments in foreign subsidiaries and exchange rate fluctuations when the 
+results from foreign subsidiaries are translated into SEK.  
+ 
+Interest rate risk 
+The Group’s main sources of financing are cash flows from its operating activities and its equity investment, as well 
+as from loans. The loans are interest-bearing and thus expose the Group to interest rate risk. Interest rate risk 
+relates to the possibility of changes in the interest rate level having an adverse impact on the Group’s net interest 
+and/or cash flows. As of 31 December 2021, the average fixed loan period was approximately 30 months. If the 
+interest rate level had been one percentage point higher, the profit/loss for the 2021 financial year would have 
+been impacted by SEK 93 million (-79).  
+ 
+Financing and liquidity risk 
+The financing and liquidity risk refers to the need for future capital procurement and the risk that the refinancing 
+of due loans will be carried out at a high cost. The framework of the financing risk also includes the short-term 
+liquidity risk. In a business like Latour, where long-term financial resources are procured centrally, the short-term 
+liquidity risk is automatically handled within long-term financing. At 31 December 2021, the Group’s net financial 
+liabilities, excluding shareholdings and other securities, amounted to SEK 8,533 million. Part of the Group’s loans, 
+SEK 9,050 million, are extracted from the bond market, with the remainder, amounting to SEK 9,275 million as of 
+the date of the Base Prospectus, through the Group’s lines of credit. SEK 4,850 million of the liability has exposure 
+to EUR through swap derivatives. The non-current interest-bearing liabilities of SEK 9,656 million as of 31 December 
+2021, falling due for payment up to and including 2026, are equivalent to a cash outflow of SEK 9,671 million, of
+
+--- Page 11 ---
+10 
+ 
+which SEK 15 million is accumulated interest. Contracts for granted credits with terms longer than one year contain 
+financial covenants, which state that net debt may not exceed a certain level in relation to the listed market price 
+of the Group’s listed securities. In the event that the Group violates a financial covenant, this may result in the 
+Bondholder issuing a demand for immediate payment. There is a risk that the Group will not be able to meet the 
+conditions and covenants stipulated for the Group’s lines of credit, which could have a negative impact on the 
+Group’s cash flow.  
+ 
+RISKS RELATED TO MTN 
+Credit risk associated with MTN 
+Investors in MTN issued by Latour have a credit risk in respect of the Company. This means that an investor’s ability 
+to receive payment under MTN is dependent on the Group’s ability to meet its payment commitments, which 
+consequently is largely dependent on the development of the Group’s operations, its ongoing financial position and 
+the risks to which the Group is exposed (as described in the "Risks related to the Group and its market"). Issued 
+MTN by the Company are also not covered by the state deposit guarantee. The poorer development of the Group’s 
+investment portfolio or a revised view of the Group’s creditworthiness could result in a decline in the market value 
+of MTN. In the event that the Group’s operations should develop negatively or if the Company’s financial position 
+should deteriorate, there is a risk that investors’ ability to receive payment under MTN will deteriorate or that the 
+value of MTN will decrease. 
+ 
+Loans issued under the MTN-Programme are not secured 
+The Company is not prevented from providing collateral for other debts, with the exception of debts that constitute 
+Market Loans. Since Bondholders have no collateral in the Company’s assets, any secured creditor in the Company 
+will be entitled to payment from the collateral before the Bondholders. In the event of the Company’s insolvency, 
+Bondholders will therefore be unprioritized creditors, which entails the risk that they will not receive payment for 
+their claims.  
+ 
+MTN are structurally subordinated creditors in relation to companies within the Group 
+The Company is dependent on other companies within the Group to be able to make payments under MTN. In order for 
+the Company to be able to meet payment obligations under MTN, it is therefore necessary for companies within the 
+Group to be able to provide loans or pay dividends to the Company. MTN will not be secured and companies within the 
+Group will not guarantee payment obligations under MTN, and these may also have liabilities to other creditors such 
+as banks that have granted loans to subsidiaries of the Company, which is why investors in MTN are structurally 
+subordinated in relation to the Company's subsidiaries creditors. If companies within the Group are declared bankrupt, 
+their creditors will be entitled to full payment of their claims prior to the Company, in its capacity as a direct or 
+indirect shareholder in companies within the Group, is entitled to the distribution of any remaining funds, which may 
+result in Bondholders not receiving payment for their claims. 
+ 
+Risks associated with Green Bonds 
+What constitutes Green Bonds is determined by criteria's set out in the Company’s, from time to time, applicable 
+Green Bonds Terms and Conditions, according to its wording on the Loan Date for a particular Loan (the Company 
+has no framework for Green Bonds as of the date of the Base Prospectus, but the Company may adopt such 
+framework in the future). There is a risk that Green Bonds, according to the Green Bonds Terms and Conditions, 
+will not suit all investors’ requirements, wishes or specific investment mandates. Both the Green Bonds Terms and 
+Conditions and market practice may develop after the Loan Date for a particular Loan, which may result in amended 
+Loan Terms and Conditions for subsequent Bondholders or amended requirements for the Company. Changes in the 
+Green Bond Terms and Conditions that occurs after the Loan Date for a certain Loan will not benefit Bondholders 
+on the Loan. There is a risk that the classification of Loans issued as green bonds under the Green Bonds Terms and 
+Conditions will be affected by the Taxonomy Regulation and the European Green Bond Standard and that the Loans, 
+after its entry into force, will no longer be qualified as green bonds. If the Company does not meet the conditions 
+of the Green Bonds Terms and Conditions in relation to a certain Loan or that a certain Loan due to the Taxonomy 
+Regulation or European Green Bond Standard ceases to be classified as green, does not mean that there is a ground 
+for termination for Bondholders under such Loan. Bondholders thus have no right to early repayment or repurchase 
+of green bonds or other compensation in such cases.  
+ 
+Secondary market and liquidity 
+There is normally no significant real time trading in MTN on a Regulated Market on which the MTNs may be admitted 
+to trading. Trading conducted in MTN is normally executed outside the trading venue through so-called OTC (Over 
+the Counter) trading. This can apply throughout its duration, and there is therefore a risk that a functioning 
+secondary market for MTN will not arise or persist. If a secondary market for MTN does not develop, liquidity may 
+be low. As a result, rapidly selling an MTN or obtaining a price may be associated with difficulties compared to
+
+--- Page 12 ---
+11 
+ 
+similar investments that have a liquid secondary market. In addition, the transparency of the bond market, primarily 
+the OTC transactions, is called into question, as it is mainly based on the financial institutions involved in OTC 
+trading reporting this correctly. The SFSA has in a 2019 supervisory report, FI Supervision No. 15 - New rules resulted 
+in reduced transparency on the Swedish bond markets, noted that information about transactions on the bond 
+market is sometimes so difficult to find that it can be uncertain as to whether this is because it has never been 
+published or whether it is simply very difficult to access, which is contributing to the low level of transparency. For 
+MTN holders, there is consequently a risk that the secondary market will not give an accurate picture of the market 
+value of MTN. 
+ 
+Currency risk and currency restrictions linked to MTN 
+The Company pays the nominal amount and the interest from the MTN in SEK or EUR. This entails certain risks linked 
+to currency translation in those cases where the currency differs from the individual currency in which the investor’s 
+financial activities are mainly conducted. This includes the risk of significant exchange rate fluctuations (including 
+devaluation and revaluation), as well as the introduction of or amendments to currency regulations. A strengthening 
+of the investor’s own currency in relation to the currency in which the investment is denominated reduces the value 
+of the investment for the investor, and can therefore have a negative impact on the Company’s MTN. 
+ 
+Credit rating of MTN may not reflect all risks 
+One or more credit rating agencies may rate Loans issued under the MTN-Programme, which will be specified in the 
+Final Terms. There is a risk that such a rating has not factored in all the risks associated with investment in the 
+Loan. A credit rating is therefore not a recommendation to buy, sell or hold securities, and can be changed or 
+revoked by the credit rating agency at any time. Credit ratings that the Company has been awarded may differ from 
+the credit rating obtained for a Loan, which is why an investor cannot rely exclusively on the credit rating provided. 
+In the event a credit rating is provided for MTN in the Final Terms, a deterioration in the Group’s creditworthiness 
+may have a negative impact on the credit rating awarded for MTN, while a poorer credit rating from a credit rating 
+agency may adversely affect the value of MTN.
+
+--- Page 13 ---
+12 
+ 
+GENERAL TERMS AND CONDITIONS FOR LOANS UNDER THE 
+MTN-PROGRAMME 
+ 
+Table of contents 
+1. 
+DEFINITIONS .................................................................................. 13 
+2. 
+ISSUANCE OF LOANS ...................................................................... 16 
+3. 
+REGISTRATION OF MTN .................................................................. 16 
+4. 
+ENTITLEMENT TO ACT FOR BONDHOLDERS ..................................... 16 
+5. 
+PAYMENTS ...................................................................................... 17 
+6. 
+INTEREST ....................................................................................... 17 
+7. 
+PENALTY INTEREST ........................................................................ 18 
+8. 
+REPAYMENT AND REPURCHASE ...................................................... 18 
+9. 
+REPURCHASE IN CASE OF CHANGE OF CONTROL ............................ 18 
+10. 
+UNDERTAKINGS .............................................................................. 19 
+11. 
+TERMINATION OF LOANS ................................................................ 20 
+12. 
+BONDHOLDERS' MEETING ............................................................... 22 
+13. 
+REPLACEMENT OF BASE RATE ......................................................... 24 
+14. 
+AMENDMENT OF TERMS ETC............................................................ 26 
+15. 
+TIME-BAR FOR CLAIMS ................................................................... 26 
+16. 
+NOTICES ......................................................................................... 26 
+17. 
+LIMITATION OF LIABILITY ETC. ..................................................... 27 
+18. 
+GOVERNING LAW AND JURISDICTION ............................................ 27 
+ 
+ 
+The General Terms and Conditions of Latour's MTN-Programme has originally been prepared and adopted in 
+Swedish. The General Terms and Conditions as presented in the Base Prospectus is an unofficial English 
+translation of the General Terms and Conditions. In the event of a discrepancy between the Swedish and English 
+version of the General Terms and Conditions, the Swedish version is legally binding and shall prevail. The 
+Swedish version is available on Latour's web page.
+
+--- Page 14 ---
+13 
+ 
+ 
+The following general terms and conditions (the “General Terms and Conditions”) will apply to loans that 
+Investment AB Latour (publ) (corporate reg. no. 556026-3237) (the “Company”) issues on the capital market after 
+18 February 2022 under an agreement that has been entered into on 15 February 2018 between the Company and 
+Skandinaviska Enskilda Banken AB (publ) and Svenska Handelsbanken AB (publ) regarding the MTN-Programme (the 
+“MTN-Programmes”) by issuing bonds in SEK or EUR with varying maturities, although not less than one year, known 
+as Medium Term Notes. 
+1. 
+DEFINITIONS  
+1.1 
+In addition to the definitions set out above, the following terms will have the meaning set out below.  
+“Administrative Agent” means (i) if Loans have been issued through two or more Issuing Agents, the 
+Issuing Agent designated by the Company as being responsible for certain administrative tasks relating 
+to the Loan according to the Final Terms, and (ii) if loans have been issued through only one Issuing 
+Agent, the Issuing Agent.  
+“Record Date” means the fifth Business Day before (or another Business Day before the relevant date 
+that may generally be applied to the Swedish bond market) (i) the due date for interest or the principal 
+under the Loan Terms and Conditions, (ii) another date on which payment is to be made to Bondholders, 
+(iii) the date of the Bondholders’ Meeting, (iv) the date on which the notification is dispatched, or (v) 
+another relevant date.  
+“Business Day” means a day that is not a Sunday or other public holiday in Sweden or that, in respect 
+of the payment of promissory notes, is not equated with a public holiday in Sweden. Saturdays, 
+Midsummer’s Eve, Christmas Eve and New Year’s Eve will be considered to be equated to public holidays 
+for this definition.  
+“Day Count Convention” means when calculating an amount for a particular calculation period, the 
+calculation method specified in the Final Terms. 
+(a) 
+If the calculation method “30/360” is specified as applicable, the amount must be calculated 
+for a year with 360 days, consisting of twelve months each of 30 days, and during the broken 
+month the actual number of days that have elapsed in the month. 
+(b) 
+If the calculation method “Actual/360” is specified as applicable, the amount must be 
+calculated using the actual number of days in the relevant period divided by 360. 
+“Dealers” means Skandinaviska Enskilda Banken AB (publ) and Svenska Handelsbanken AB (publ), as 
+well as any other dealer agent that has been specifically authorized by Euroclear Sweden to handle and 
+register issues in the VPC system, and which accedes to this MTN Programme, although only provided 
+such institution has not ceased to act as a dealer agent.  
+“EURIBOR” means: 
+(a) 
+the interest rate as displayed as of or around 11.00 a.m. on the relevant day on page 
+EURIBOR01 of the Refinitiv screen (or through such other system or on such other page as 
+replaces the said system or page) for EUR for a period comparable to the relevant Interest 
+Period; or 
+(b) 
+if no such interest rate is available for the relevant Interest Period as described in paragraph 
+(a), the arithmetic mean of the rates (rounded upwards to four decimal places) as supplied to 
+the Administrative Agent at its request quoted by the European Reference Banks for deposits 
+of EUR 10,000,000 for the relevant Interest Period; or 
+(c) 
+if no interest rate as described in paragraph (a) and (b) is available, the interest rate which, 
+according to the reasonable assessment of the Administrative Agent, best reflects the interest 
+rate for deposits in EUR offered for the relevant Interest Period.
+
+--- Page 15 ---
+14 
+ 
+ 
+“Euro” and “EUR” means the currency used by the participating Member States in accordance with the 
+European Union’s regulations for the Economic and Monetary Union (EMU).  
+“Euroclear Sweden” means Euroclear Sweden AB (corp. no. 556112-8074). 
+“European Reference Banks” means four major commercial banks which, at the current time, are 
+quoting EURIBOR and are appointed by the Administrative Agent. 
+“Bondholder” means the party listed on the Securities Account as the directly registered owner Sw. 
+ägare) or nominee (Sw. förvaltare) of an MTN. 
+“Bondholders’ Meeting” means a meeting with the Bondholders in accordance with Section 12 
+(Bondholders’ Meeting). 
+The "Principal Owners” means:  
+(a) 
+any of Gustaf Douglas (born 3 March 1938) or his children, siblings or nieces/nephews, or 
+spouses of any of these persons;  
+(b) 
+any trust, foundation or similar legal entity in which one or more of the persons under (a) 
+above is a beneficiary; or 
+(c) 
+any other company (listed or not), partnership, limited partnership or other legal entity that, 
+directly or indirectly, is controlled by one or more of the persons under (a) and (b) above, 
+where control, directly or indirectly, will be deemed to exist if one or more of the persons 
+under (a) and (b) above, individually or jointly, has 25 per cent or more of the voting rights on 
+the Board of Directors or equivalent management body or enjoy 25 per cent or more of the 
+economic rights from such a company, partnership, limited partnership or entity; 
+“Adjusted Loan Amount” means the Loan Amount less MTN owned by a Group Company or a Principal 
+Owner, regardless of whether such Group Company or Principal Owner is directly registered as the 
+owner of such MTN or not.  
+The “Group” means the corporate group in which the Company is the parent company (the terms group 
+and parent company refer to that which is specified in the Swedish Companies Act (2005:551), as 
+amended from time to time).  
+“Group Company” means any legal entity that, from time to time, forms part of the Group. 
+“Account-holding Institution” means a bank or other party that has been granted the right to be an 
+account-holding institution under the Swedish Central Securities Depositories and Financial Instruments 
+(Accounts) Act (1998:1479), and with which Bondholders have opened a securities account in respect 
+of MTN.  
+“Settlement Date” means the date on which, according to the Final Terms, the issue proceeds for MTN 
+are to be paid. 
+“Loan” means any loan from a particular series, encompassing one or more MTN, which the Company 
+issue under this MTN-Programme.  
+“Loan Amount” means the total outstanding Nominal Amount of MTN in respect of a particular Loan, 
+although less any repaid amount. 
+“Loan Date” means the date specified as such in the Final Terms. 
+“Loan Terms and Conditions” means for a particular Loan, these General Terms and Conditions as well 
+as the Final Terms for said Loan.
+
+--- Page 16 ---
+15 
+ 
+ 
+“Market Loans” means issuing certificates, bonds or other securities (including loans under the MTN or 
+other market loan programme), which are sold, brokered or invested in an organized form and which 
+are or may be traded on a Regulated Market.  
+“MTN” means an unilateral debt obligation regarding a Nominal Amount that has been registered under 
+the Swedish Central Securities Depositories and Financial Instruments (Accounts) Act (1998:1479), and 
+which forms part of a Loan issued by the Company under this MTN Programme. 
+“Nominal Amount” means the amount for each MTN specified in the Final Terms. 
+“Net sales” means the sum of sales revenue from goods and services less discounts, VAT and other tax 
+associated with the sale. 
+“Reference Banks” means those Dealers designated under this MTN Programme or such replacement 
+banks which, at the relevant time, quote an interest rate for STIBOR and which are designated by the 
+Administrative Agent. 
+“Regulated Market” means a regulated market as defined in Directive 2014/65/EU on markets in 
+financial instruments. 
+"Base Rate" means in regards to Loans with Floating Rate, the base rate STIBOR or EURIBOR as specified 
+in the Final Terms or any reference rate replacing STIBOR or EURIBOR in accordance with Section 13 
+(Replacement of Base Rate). 
+“Final Terms” means the Final Terms established for a particular Loan under this MTN Programme in 
+accordance with the form of Final Terms under the section "Form of Final Terms" below (with the 
+additions and amendments that may be made from time to time). 
+“Interest Commencement Date” means, according to the Final Terms is the date from which interest 
+(where applicable) will start to accrue.  
+“STIBOR” means: 
+(a) 
+the interest rate administered, calculated and distributed by the Swedish Financial Benchmark 
+Facility AB (or the replacing administrator or calculation agent) for the relevant day and 
+published on the information system Refinitiv's page “STIBOR =” (or through such other system 
+or on such other page as replaces the said system or page) for SEK for a period comparable to 
+the relevant Interest Period; or  
+(b) 
+if no such interest rate is available for the relevant Interest Period as described in paragraph 
+(a), the arithmetic mean of the rates (rounded upwards to four decimal places) as supplied to 
+the Administrative Agent at its request quoted by the Reference Banks for deposits of SEK 
+100,000,000 for the relevant Interest Period; or  
+(c) 
+if no such interest rate as described in paragraph (a) and (b) is available, the interest rate 
+which, according to the reasonable estimate of the Administrative Agent, best reflects the 
+interest rate for deposits in SEK offered in Stockholm interbank market for the relevant 
+Interest Period. 
+“Swedish Kronor” and “SEK” means the legal currency in Sweden.  
+“Issuing Agent” means, according to the Final Terms, the Dealer(s) under this MTN Programme through 
+which a particular Loan has been carried out. 
+“Securities Account” means the securities account with Euroclear Sweden under the Swedish Central 
+Securities Depositories and Financial Instruments (Accounts) Act (1998:1479), in which (i) an owner of 
+a security is directly registered as the owner of securities or (ii) an owner’s holding of securities is 
+registered in the name of a nominee.
+
+--- Page 17 ---
+16 
+ 
+ 
+“Material Group Companies” means (a) the Company, Latour-Gruppen AB (CRN 556649-8647), Nordiska 
+Industri AB (CRN 556002-7335), Caljan ApS (30205618), Hultafors Group AB (CRN 556365-0752), Latour 
+Industries AB (CRN 556018-9754), Nord-Lock International AB (CRN 556610-5739) and Swegon AB (CRN 
+556077-8465) and (b) any Group company whose Net sales represent at least four per cent of the Group’s 
+consolidated Net sales, in accordance with the most recently published Annual Report. 
+“Maturity Date” means, according to the Final Terms, is the date on which an MTN is to be repaid. 
+“Repurchase Date” means the date specified in accordance with point 9.2. 
+ 
+1.2 
+When calculating whether a limit described in Swedish Kronor has been reached or exceeded, an amount 
+in another currency must be calculated on the basis of the exchange rate that applied on the Banking 
+Day immediately prior to the relevant time and that is published on the Refinitiv's website “SEKFIX=” 
+(or through such other system or on such other website that replaces said system or website 
+respectively) or, if said exchange rate is not published, according to the exchange rate for Swedish 
+Kronor against the currency in question on said date that is published by the Riksbank on its website 
+(riksbank.se). 
+1.3 
+Additional definitions, such as Interest Rate Structure, Interest Rate, Base Rate, Base Rate Margin, 
+Interest Determination Date, Interest Payment Date(s), Interest Period and Currency can be found 
+(where applicable) in the Final Terms.  
+2. 
+ISSUANCE OF LOANS 
+2.1 
+Under this MTN Programme, the Company may issue MTN in Swedish Kronor or Euros with a duration of 
+at least one year. Under a Loan, MTN may be issued in additional tranches without the approval of 
+Bondholders. 
+2.2 
+By subscribing to MTN, each initial Bondholder accepts that its MTN will have those entitlements and 
+be subject to those terms and conditions arising from the Loan Terms and Conditions. By acquiring MTN, 
+each new Bondholder confirms such acceptance. 
+2.3 
+The Company undertakes to make payments in respect of issued MTN, as well as to comply in other 
+respects with the Loan Terms and Conditions for the Loans taken out under this MTN Programme.  
+2.4 
+If the Company wishes to issue MTN under this MTN Programme, the Company must enter into a separate 
+agreement for this purpose with one or more dealer agents, which will be the Issuing Agent(s) for said 
+Loan.  
+3. 
+REGISTRATION OF MTN  
+3.1 
+MTN will be registered in a securities account on behalf of Bondholders, which is why no physical 
+securities will be issued. Any request for a particular registration measure in respect of MTN must be 
+addressed to the Account-holding Institution.  
+3.2 
+Anyone who, due to mandates, pledges, the provisions in the Children and Parents Code, terms and 
+conditions in wills or deeds of gift, or has otherwise acquired the entitlement to receive payment under 
+an MTN, must have their right to receive payment registered.  
+3.3 
+The Administrative Agent is entitled to receive information from Euroclear Sweden regarding the 
+content of its reconciliation register for MTN, in order to fulfil its duties in accordance with Section 11 
+(Termination of loans) and Section 12 (Bondholders’ Meeting). Administrative Agents will not be 
+responsible for the content of such extracts or otherwise be responsible for determining who is the 
+Bondholder. 
+4. 
+ENTITLEMENT TO ACT FOR BONDHOLDERS 
+4.1 
+If a party other than a Bondholder wishes to exercise a Bondholder’s rights under the Loan Terms and 
+Conditions or vote at a Bondholders’ Meeting, said party must be able to present a power of attorney 
+or other authorization document issued by the Bondholder or a series of such powers of attorney and/or 
+authorization documents from the Bondholder.
+
+--- Page 18 ---
+17 
+ 
+ 
+4.2 
+A Bondholder, or another party exercising the Bondholder’s rights pursuant to point 4.1 above, may 
+authorize one or more parties to represent the Bondholder in respect of some or all MTN held by the 
+Bondholder. Any such authorized party must act independently.  
+5. 
+PAYMENTS 
+5.1 
+Payment in respect of MTN issued in Swedish Kronor must be made in Swedish Kronor, while payment 
+in respect of MTN issued in Euros must be made in Euros. 
+5.2 
+Payments in respect of MTN must be made to the person who is registered as the Bondholder on the 
+Record Date prior to the relevant due date, or to another person who is registered with Euroclear 
+Sweden who is entitled to receive such payment.  
+5.3 
+If the Bondholder, through an Account-holding Institution, has registered that the capital amount and 
+interest are to be deposited in a particular bank account, this deposit will be made through Euroclear 
+Sweden on the respective due date. Otherwise, Euroclear Sweden will transfer the amount on the 
+relevant due date to the Bondholder at its address registered with Euroclear Sweden on the Record 
+Date.  
+5.4 
+In the event Euroclear Sweden, due to a delay on the part of the Company or due to some other 
+obstacle, should not be able to pay an amount as previously stated, the Company must ensure that the 
+amount is paid to the person who was the Bondholder on the Record Date as soon as the obstacle has 
+ceased to exist.  
+5.5 
+If the Company is unable to fulfil its payment obligation through Euroclear Sweden due to an obstacle 
+affecting Euroclear Sweden, the Company will be entitled to defer the payment obligation until the 
+obstacle has ceased to exist. In such a case, interest will be payable in accordance with point 7.2. 
+5.6 
+If it transpires that the person who has been allocated the amount in accordance with this Section 5 
+was not entitled to receive this, the Company and Euroclear Sweden will nevertheless be deemed to 
+have fulfilled their relevant obligations. However, this does not apply if the Company or Euroclear 
+Sweden were aware that the amount had come into the wrong hands or had not been normally prudent. 
+6. 
+INTEREST 
+6.1 
+Interest on a particular Loan is calculated and paid (where applicable) in accordance with the Loan 
+Terms and Conditions. 
+6.2 
+In the Final Terms, the relevant Interest Rate Structure will be specified according to one of the 
+following options or in a combination thereof:  
+(a) 
+Fixed Rate  
+If the Loan is specified as a Loan with Fixed Rate, the Loan bear with interest according to the 
+Interest rate from (excluding) the Interest Commencement Date up to and including the 
+Maturity Date.  
+ 
+Interest that has accrued during an Interest Period is paid in arrears on the respective Interest 
+Payment Date and is calculated according to the Day Count Convention method set out in the 
+Final Terms. 
+ 
+(b) 
+Floating Rate (FRN) 
+If a Loan denominated in SEK or EUR is specified as a Loan with Floating Rate, the Loan will 
+bear interest with an interest rate from (but excluding) the Loan Date up to (and including) 
+the Maturity Date. The interest rate for the relevant Interest Period shall be calculated by the 
+Administrative Agent on the respective Interest Determination Date, and is the sum of the Base 
+Rate and the Margin for the relevant period, adjusted for the application of section 13 
+(Replacement of Base Rate). If the calculation of the interest rate entails a value lower than 
+zero, the interest rate will be considered to be zero.
+
+--- Page 19 ---
+18 
+ 
+ 
+If the interest rate cannot be determined on the Interest Determination Date due to an obstacle 
+as referred to in point 17.1, the Loan will continue to run at the interest rate that applied to the 
+immediately preceding Interest Period. As soon as the obstacle has ceased to exist, the 
+Administrative Agent will calculate a new interest rate, which will apply from the second Business 
+Day after the date of the estimate up until the end of the current Interest Period.  
+ 
+Interest is paid in arrears on each relevant Interest Payment Date and is calculated according 
+to the Day Count Convention for MTN in SEK and EUR for the relevant Interest Period, or by 
+using such other method of calculation as is applied for the relevant Base Rate. 
+ 
+(c) 
+Zero Coupon 
+If the Loan is specified as a Zero Coupon Loan, the Loan will run without interest. 
+ 
+6.3 
+Interest (where applicable) is paid on the relevant Interest Payment Date. 
+6.4 
+If the Interest Payment Date for Fixed Rate Loans falls on a non-Business Day, interest will not be paid 
+until the following Business Day. However, interest is only calculated and payable up to and including 
+the Interest Payment Date.  
+6.5 
+If the Interest Payment Date for Floating Rate Loans falls on a non-Business Day, the Interest Payment 
+Date will instead be considered to be the nearest subsequent Business Day, provided that said Business 
+Day does not fall in a new calendar month, in which case the Interest Payment Date will be considered 
+to be the preceding Business Day. 
+7. 
+PENALTY INTEREST 
+7.1 
+In the case of payment delays, penalty interest on the overdue amount is payable from the due date 
+up to and including the date on which payment is made, at an interest rate equal to the average of one 
+week’s STIBOR for MTN issued in Swedish Kronor and EURIBOR for MTN issued in Euro respectively for 
+the duration of the delay, plus two percentage points. In this regard, STIBOR or EURIBOR will be read 
+on the first Business Day of each calendar week during which the delay lasts. However, penalty interest 
+under this point 7.1 for Loans running with interest will never be payable at a lower interest rate than 
+that applicable to the Loan in question on the relevant due date, plus two percentage points. Penalty 
+interest will not be capitalized.  
+7.2 
+If the delay is due to an obstacle affecting the Dealers or Euroclear Sweden, penalty interest is payable 
+according to an interest rate corresponding to: (i) for Loans running with interest, the interest rate 
+applicable to the Loan in question on the relevant due date, or (ii) for Loans running without interest, 
+the average of one week’s STIBOR or EURIBOR respectively for the duration of the delay (whereby 
+STIBOR or EURIBOR will be read on the first Business Day of each calendar week during which the delay 
+lasts).  
+8. 
+REPAYMENT AND REPURCHASE 
+8.1 
+Loans fall due for payment at their Nominal Amount, as applicable under the relevant Final Terms, on 
+the Maturity Date, with the amount per MTN that is specified in the Final Terms along with accrued 
+interest (if any). If the Maturity Date falls on a day that is not a Business Day, however, the Loan is 
+repaid on the following Business Day. 
+8.2 
+The Company may, by agreement with Bondholders, repurchase MTN at any time and at any price 
+provided this is compatible with applicable law. MTN that are owned by the Company may, according 
+to the Company’s own decision, be retained, transferred or redeemed. 
+9. 
+REPURCHASE IN CASE OF CHANGE OF CONTROL 
+9.1 
+Each Bondholder is entitled to request the repurchase of all or some of the MTN held by them, if: 
+(a) 
+the shares in the Company cease to be admitted to trading on the Regulated Market at Nasdaq 
+Stockholm AB; or
+
+--- Page 20 ---
+19 
+ 
+ 
+(b) 
+an event or a series of events occurs, resulting in a natural or legal entity, individually or 
+together with such related parties as referred to in the Stock Market (Takeover Bids) Act (SFS 
+2006:451), and which is not or does not include the Principal Owners, directly or indirectly, at 
+some point: 
+(i) 
+acquiring more than fifty (50) per cent of the shares or voting rights in the Company; 
+(ii) 
+by agreement or otherwise, itself (or together with such related parties as mentioned 
+above) having the opportunity to appoint a majority of the Company’s Board 
+members; or 
+(iii) 
+by agreement, through voting rights or otherwise, individually (or together with such 
+related parties as mentioned above) having the opportunity to determine the content 
+of significant business decisions in the Company. 
+9.2 
+It is the responsibility of the Company, as soon as the Company becomes aware of a change of ownership 
+as described in point 9.1, to notify the Bondholders of this through a press release, on the Company’s 
+website and in accordance with Section 16 (Notices). The notification must include instructions 
+regarding how a Bondholder that wishes to have MTN repurchased should act, as well as specifying the 
+Repurchase Date. 
+9.3 
+The Repurchase Date will fall at the earliest twenty (20) and at the latest forty (40) Business Days after 
+the notification of the change of ownership has been sent to Bondholders in accordance with point 9.2. 
+If the Repurchase Date is not a Business Day, however, the Repurchase Date will be considered to be 
+the nearest subsequent Business Day. 
+9.4 
+If a right to repurchase exists, the Company, if Bondholders so request, will repurchase the relevant 
+MTN on the Repurchase Date at the price per MTN that would have been repaid on the final Maturity 
+Date, together with accrued interest (if any). For MTN that are Zero Coupon Loans, an amount per MTN 
+calculated in accordance with point 11.4 will be paid instead.  
+9.5 
+A notification from Bondholders regarding exercising the repurchase of MTN must be sent to the 
+Company no later than ten (10) Business Days before the Repurchase Date. 
+10. 
+UNDERTAKINGS 
+As long as an MTN is outstanding, the Company undertakes the following. 
+10.1 
+Status 
+The Company will ensure that its payment obligations under a Loan rank equal to the Company’s other 
+non-subordinated and unsecured payment obligations, except for those obligations that, under 
+applicable law, has a better right of priority.  
+10.2 
+The Company’s operations  
+The Company will not significantly alter the nature of the Group’s operations in a way that has a 
+significant adverse effect on the Company’s ability to fulfil its obligations in respect of the Bondholders. 
+10.3 
+Securing other Market Loans 
+The Company will: 
+(a) 
+not provide collateral itself or allow another party to provide collateral, whether in the form 
+of a contingent liability or otherwise, for other Market Loans that have been or may be taken 
+out by the Company;  
+(b) 
+not provide collateral in any form other than through a contingent liability, which in turn may 
+not be secured, for other Market Loans that have been or may be taken out by a party other 
+than the Company; and
+
+--- Page 21 ---
+20 
+ 
+ 
+(c) 
+ensure that Group companies comply with the provisions referred to in points (a) and (b) 
+above, whereby the Group Companies concerned will be subject to that which applies to the 
+Company. 
+10.4 
+Carry out Market Loans in other Group Companies 
+The Company will ensure that a Group Company other than the Company does not take out Market 
+Loans. 
+  
+10.5 
+Admission to trading on a Regulated Market 
+For Loans that, according to the Final Terms, are to be admitted to trading on a Regulated Market, the 
+Company undertakes to apply for this at Nasdaq Stockholm AB or another Regulated Market and to take 
+the necessary measures to maintain the admission to trading for as long as the relevant Loan is 
+outstanding, although at most for as long as this is possible according to the applicable rules.  
+10.6 
+Provision of Loan Terms and Conditions 
+The Company undertakes to ensure that the current version of these General Terms and Conditions, as 
+well as the Final Terms for all outstanding Loans that have been admitted to trading on a Regulated 
+Market, are kept available on the Company’s website.  
+11. 
+TERMINATION OF LOANS  
+11.1 
+The Administrative Agent must (i) if so requested in writing by Bondholders who, at the time of the 
+request, represent at least one tenth of the Adjusted Loan Amount under the relevant Loan (said 
+request may only be submitted by Bondholders who are registered in the reconciliation register 
+maintained by Euroclear Sweden on the Business Day immediately following the date on which the 
+request was received by the Administrative Agent, and must be made jointly if it is submitted by several 
+Bondholders each representing less than one tenth of the Adjusted Loan Amount under the relevant 
+Loan) or (ii) if so decided by the Bondholders under a Loan at a Bondholders’ Meeting, declare in writing 
+the relevant Loan along with interest (if any) that is due for payment immediately or at the time 
+decided by the Administrative Agent or the Bondholders’ Meeting (as applicable); if: 
+(a) 
+the Company does not, at the correct time, pay the principal or interest amount due in respect 
+of any Loan under this MTN Programme, unless the delay: 
+(i) 
+is a consequence of a technical or administrative error; and  
+(ii) 
+does not last for longer than three (3) Business Days;  
+(b) 
+the Company, in any respect other than that set out in point (a) above or in the point Green 
+Bonds in the Final Terms, does not fulfil its obligations under the Loan Terms and Conditions 
+in respect of the relevant Loan, provided that: 
+(i) 
+correction is possible; and 
+(ii) 
+the Company has received a written request from the Administrative Agent to 
+implement corrective action and such corrective action has not been implemented 
+within fifteen (15) Business Days; 
+(c) 
+(i) 
+a Material Group Company does not, on time or within an applicable deferral period, 
+make payment in respect of another loan, and the loan in question has consequently 
+been subjected to, or could be subjected to, early termination, or in the absence of 
+a termination provision or if the non-payment would constitute final payment, if the 
+payment delay lasts for fifteen (15) Business Days; 
+(ii) 
+another loan to the Material Group Company is declared to have been subjected to 
+early termination as a result of grounds for termination (regardless of nature); or
+
+--- Page 22 ---
+21 
+ 
+ 
+(iii) 
+a Material Group Company does not, within fifteen (15) Business Days after the date 
+on which the Material Group Company has received a legitimate and undisputed 
+claim, redeem the surety or guarantee that the Material Group Company has provided 
+for the obligation of another party, 
+provided that the sum of the outstanding debt, under the loans or commitments affected under 
+point (c)(i)-(iii), collectively amounts to at least SEK 50,000,000 or the equivalent thereof in 
+another currency; 
+(d) 
+assets that are owned by a Material Group Company, and that have a value in excess of SEK 
+50,000,000 or the equivalent thereof in another currency, are distrained or subject to similar 
+overseas proceedings, and such distrain or similar overseas proceedings are not eliminated 
+within thirty (30) Business Days from the date of the notification of the distrain decision or the 
+decision on such similar overseas proceedings; 
+(e) 
+a Material Group Company cancels its payments; 
+(f) 
+a Material Group Company applies for or grants an application for debt restructuring or similar 
+procedure; 
+(g) 
+a Material Group Company is declared bankrupt; 
+(h) 
+a decision is made whereby the Company will enter into liquidation or a Material Group 
+Company will be placed in compulsory liquidation; or 
+(i) 
+the Company’s annual general meeting approves a merger plan under which the Company is 
+the transferring company, or a Material Group Company’s annual general meeting approves a 
+merger plan under which said Material Group Company is the transferring company, in relation 
+to a company outside the Group if this affects the Company’s ability to fulfil its obligations in 
+respect of the Bondholders. 
+The terms “loan” and “obligation” in point (c) above also include credit on account as well as amounts 
+that have not been received as loans, but that are to be paid on the basis of promissory notes that are 
+clearly intended for general sale.  
+ 
+11.2 
+The Administrative Agent may not declare a relevant Loan along with interest (if any) as due for 
+payment pursuant to point 11.1 by referring to grounds for termination, if it has been decided at a 
+Bondholders’ Meeting that such grounds for termination (temporarily or permanently) will not result in 
+termination pursuant to point 11.1. 
+11.3 
+It is the responsibility of the Company to notify the Dealers and the Bondholders immediately in 
+accordance with Section 16 (Notices) in the event grounds for termination as set out in point 11.1 should 
+occur. In the absence of such notification, neither the Administrative Agent nor the Dealers, regardless 
+of their actual knowledge, will be deemed to be aware of grounds for termination. Neither the 
+Administrative Agent nor the Dealers are themselves obliged to monitor whether the conditions for 
+termination according to point 11.1 exist. 
+11.4 
+In the case of the repayment of Loans after termination pursuant to point 11.1: 
+(a) 
+Loans running with interest will be repaid at an amount per MTN that, together with accrued 
+interest, would have been repaid on the final Maturity Date; and 
+(b) 
+Loans running without interest will be repaid at an amount per MTN that is determined 
+according to the following formula as of the date of the termination of the Loan: 
+Nominal Amount
+(1 +  r) t
+ 
+r =  
+the sales interest rate that the Administrative Agent specifies for loans, issued by the Swedish 
+State, with a remaining duration corresponding to that which applies to the Loan in question. 
+In the absence of a sales interest rate, the purchase interest rate will be used instead, which
+
+--- Page 23 ---
+22 
+ 
+ 
+must be reduced by the market difference between purchase and sales interest rates, 
+expressed in percentage points. In the calculation, the closing note must be used.  
+t =  
+the remaining duration for the Loan in question, expressed with the Day Convention 
+Actual/360.  
+12. 
+BONDHOLDERS' MEETING 
+12.1 
+The Administrative Agent may and must, at the request of the Company or Bondholders who, at the 
+time of the request, represent at least one tenth of the Adjusted Loan Amount under a particular Loan 
+(said request may only be submitted by Bondholders who are registered in the reconciliation register 
+for MTN maintained by Euroclear Sweden on the Business Day immediately following the date on which 
+the request was received by the Administrative Agent, and must be made jointly if it is submitted by 
+several Bondholders each representing less than one tenth of the Adjusted Loan Amount), convene a 
+Bondholders’ Meeting for the Bondholders under the relevant Loan. 
+12.2 
+The Administrative Agent must convene a Bondholders’ Meeting by sending notification of this to each 
+Bondholder and the Company within five (5) Business Days after receiving a request from the Company 
+or Bondholders pursuant to point 12.1 (or such later date as required for technical or administrative 
+reasons). The Administrative Agent must notify the Issuing Agent without delay and in writing about the 
+abovementioned notification.  
+12.3 
+The Administrative Agent may refrain from convening a Bondholders’ Meeting if (i) the proposed 
+decision must be approved by a person in addition to the Bondholders and this person has notified the 
+Administrative Agent that such approval will not be given, or (ii) the proposed decision is not compatible 
+with applicable law. 
+12.4 
+The convening notification referred to in point 12.2 must include (i) the time of the meeting, (ii) the 
+venue for the meeting, (iii) the agenda for the meeting (including any request for a decision from the 
+Bondholders), and (iv) a proxy form. Only matters that have been included in the convening notification 
+may be decided on at the Bondholders’ Meeting. If it is necessary for Bondholders to notify their 
+intention to attend the Bondholders’ Meeting, this requirement must be specified in the convening 
+notification. 
+12.5 
+The Bondholders’ Meeting must be held no earlier than fifteen (15) Business Days and no later than 
+thirty (30) Business Days after the notification. Bondholders’ Meetings for multiple loans under the MTN-
+Programme can be held at the same time. 
+12.6 
+Without deviating from the provisions in these General Terms and Conditions, the Administrative Agent 
+may prescribe such additional provisions regarding the notification and the implementation of the 
+Bondholders’ Meeting as it deems appropriate. Such provisions may include the potential for 
+Bondholders to vote without attending the meeting in person, i.e. that voting may take place using an 
+electronic voting procedure or through a written voting procedure. 
+12.7 
+Only persons who are, or have been, authorized in accordance with Section 4 (Entitlement to act for 
+Bondholders) by a person who is a Bondholder on the Record Date for the Bondholders’ Meeting may 
+exercise voting rights at such Bondholders’ Meeting, provided that the relevant MTN are covered by the 
+Adjusted Loan Amount. The Administrative Agent must ensure that, at the Bondholders’ Meeting, there 
+is a printout of the reconciliation register maintained by Euroclear Sweden from the Record Date for 
+the Bondholders’ Meeting. 
+12.8 
+Bondholders, the Administrative Agent and the Issuing Agents, as well as their respective 
+representatives, assistants and any experts, are entitled to attend the Bondholders’ Meeting. 
+Representatives must present a duly issued power of attorney, which must be approved by the Chair of 
+the Bondholders’ Meeting. The Bondholders’ Meeting must begin with the appointment of a chair, a 
+person to take the minutes and persons to adjust the minutes. The Chair must draw up a list of attending 
+Bondholders who are eligible to vote, indicating the share of the Adjusted Loan Amount that each 
+Bondholder represents (“Voting List”). After this, the Voting List must be approved by the Bondholders’ 
+Meeting. Bondholders who have cast their votes via an electronic voting procedure, a voting slip or 
+equivalent will, with the application of these provisions, be deemed to be present at the Bondholders’ 
+Meeting. Only those who were Bondholders on the fifth Business Day before the date of the Bondholders’ 
+Meeting, or representatives of said Bondholders, and who are covered by the Adjusted Loan Amount, 
+are entitled to vote and will be included in the Voting List. The Company will have access to relevant
+
+--- Page 24 ---
+23 
+ 
+ 
+voting calculations and the supporting data for these. The minutes must be completed as soon as 
+possible and made available to Bondholders, the Company, the Administrative Agent and the Issuing 
+Agent. 
+12.9 
+Decisions in the following matters require the approval of Bondholders representing at least ninety (90) 
+per cent of that part of the Adjusted Loan Amount for which Bondholders vote under the relevant Loan 
+at the Bondholders’ Meeting: 
+(a) 
+changing of the to the Maturity Date, reduction of the Loan Amount, changing of terms relating 
+to interest or the amount to be repaid (other than in accordance with the Loan Terms, 
+including what follows from the application of section 13 (Replacement of Base Rate) and 
+changing of the relevant Currency of the Loan; 
+(b) 
+change to the terms of the Bondholders’ Meeting under this Section 12;  
+(c) 
+change of debtors and 
+(d) 
+mandatory exchange of MTN for other securities. 
+12.10 
+Matters that are not covered by point 12.9 require the consent of Bondholders representing more than 
+fifty (50) per cent of the portion of the Adjusted Loan Amount for which Bondholders are voting under 
+the relevant Loan at the Bondholders’ Meeting. This includes, but is not limited to, amendments and 
+waivers of rights in relation to the Loan Terms and Conditions that do not require a larger majority 
+(other than amendments according to Section 14 (Amendment of terms etc.), as well as early 
+termination of Loans. 
+12.11 
+A Bondholders’ Meeting reaches quorum if Bondholders representing at least fifty (50) per cent of the 
+Adjusted Loan Amount under the relevant Loan in respect of a matter in point 12.9, or twenty (20) per 
+cent of the Adjusted Loan Amount under the relevant Loan in respect of other matters, attend the 
+meeting in person or by telephone (or attend through an authorized representative). 
+12.12 
+If the Bondholders’ Meeting does not reach quorum, the Administrative Agent must convene a new 
+Bondholders’ Meeting (in accordance with point 12.2), provided that the relevant proposal has not been 
+withdrawn by the person or persons who initiated the Bondholders’ Meeting. The requirement for 
+quorum set out in point 12.11 will not apply to said new Bondholders’ Meeting. If the Bondholders’ 
+Meeting has reached quorum for some but not all of the matters to be decided at the Bondholders’ 
+Meeting, decisions will be taken regarding those matters for which quorum exists, and other matters 
+will be referred to a new Bondholders’ Meeting. 
+12.13 
+A decision at a Bondholders’ Meeting that extends obligations or limits entitlements accruing to the 
+Company or the Issuing Agent under the Loan Terms and Conditions also requires the approval of the 
+party concerned. 
+12.14 
+A Bondholder that holds more than one MTN does not need to vote for all the MTN they hold, nor vote 
+in the same way for all their MTN. 
+12.15 
+The Company must not, directly or indirectly, pay or contribute to the payment of remuneration to a 
+Bondholder in order for them to give their consent according to the Loan Terms and Conditions, unless 
+such remuneration is offered to all Bondholders who give consent at the relevant Bondholders’ Meeting. 
+12.16 
+A decision taken at a Bondholders’ Meeting is binding on all Bondholders under the relevant Loan, 
+regardless of whether they attended the Bondholders’ Meeting or not. Bondholders who have not voted 
+in favor of a decision will not be liable for harm caused to other Bondholders by the decision.  
+12.17 
+At the request of the Administrative Agent, the Company must, without delay, provide the 
+Administrative Agent with a certificate indicating the total amount for all the MTN owned by Group 
+Companies and Principal Owners on the Business Day specified in point 12.1 and the relevant Record 
+Date prior to a Bondholders’ Meeting, regardless of whether said Group Company or Principal Owner is 
+directly registered as an owner of MTN. The Administrative Agent will not be responsible for the content 
+of said certificate or otherwise be responsible for determining whether an MTN is owned by a Group 
+Company or Principal Owner.
+
+--- Page 25 ---
+24 
+ 
+ 
+12.18 
+Information about decisions made at the Bondholders’ Meeting must be notified without delay to the 
+Bondholders under the relevant Loan by means of a press release, on the Company’s website and in 
+accordance with Section 16 (Notices). The Administrative Agent must, at the request of Bondholders 
+and Issuing Agents, provide minutes of the relevant Bondholders’ Meeting. Failure to notify the 
+Bondholders as described above will not affect the validity of the decision. 
+13. 
+REPLACEMENT OF BASE RATE 
+13.1 
+If a Base Rate Event as described in Clause 13.2 below has occurred, the Company shall, in consultation 
+with the Arranger, initiate the procedure to, as soon as reasonably possible, determine a Successor Base 
+Rate, Adjustment Spread as well as initiate the procedure to determine upon necessary administrative, 
+technical and operational amendments to the Loan terms in order to apply, calculate and finally decide 
+the applicable Base Rate. There Arranger is not obligated to participate in such consultation or 
+determination as described above. Should the Arranger not participate in such consultation or 
+determination, the Company shall, at the Company's expense, as soon as possible appoint an 
+Independent Adviser to initiate the procedure to, as soon as reasonably possible, determine upon the 
+mentioned. Provided that the Successor Base Rate, the Adjustment Spread and other amendments have 
+been finally decided no later than prior to the relevant Interest Determination Date in relation to the 
+next succeeding Interest Period, they shall become effective with effect from and including the 
+commencement of the next succeeding Interest Period, always subject to any technical limitations of 
+Euroclear Sweden and any calculation methods applicable to such Successor Base Rate. 
+13.2 
+A Base Rate Event is an event where one or more of the following events occur ("Base Rate Event") 
+which means: 
+(a) 
+the Base Rate (for the relevant Interest Period of the relevant Loan) has ceased to exist or 
+ceased to be published for at least five (5) consecutive Business Days as a result of the Base 
+Rate (for the relevant Interest Period of the relevant Loan) ceasing to be calculated or 
+administered; 
+(b) 
+a public statement or publication of information by (i) the supervisor of the Base Rate 
+Administrator or (ii) the Base Rate Administrator that the Base Rate Administrator ceases to 
+provide the applicable Base Rate (for the relevant Interest Period of the relevant Loan) 
+permanently or indefinitely and, at the time of the statement or publication, no successor 
+administrator has been appointed or is expected to be appointed to continue to provide the 
+Base Rate; 
+(c) 
+a public statement or publication of information in each case by the supervisor of the Base 
+Rate Administrator that the Base Rate (for the relevant Interest Period of the relevant Loan) 
+is no longer representative of the underlying market which the Base Rate is intended to 
+represent and the representativeness of the Base Rate will not be restored in the opinion of 
+the supervisor of the Base Rate Administrator; 
+(d) 
+a public statement or publication of information in each case by the supervisor of the Base 
+Rate Administrator, with the consequence that it is unlawful for the Company, the Arranger 
+or the Administrative Agent to calculate any payments due to be made to any Bondholders 
+using the applicable Base Rate (for the relevant Interest Period of the relevant Loan) or it has 
+otherwise become prohibited to use the applicable Base Rate (for the relevant Interest Period 
+of the relevant Loan); 
+(e) 
+a public statement or publication of information in each case by the bankruptcy trustee of the 
+Base Rate Administrator or by the trustee under the bank recovery and resolution framework 
+(Sw. krishanteringsregelverket), or in respect of EURIBOR, from the equivalent entity with 
+insolvency or resolution powers over the Base Rate Administrator , containing the information 
+referred to in (b) above; or 
+(f) 
+a Base Rate Event Announcement has been made and the announced Base Rate Event as set 
+out in (b) to (e) above will occur within six (6) months. 
+13.3 
+Upon a Base Rate Event Announcement, the Company may (but are not obligated to), if it is possible at 
+such time to determine the Successor Base Rate, Adjustment Spread and other amendments, in 
+consultation with the Arranger or through the appointment of an Independent Advisor, initiate the 
+procedure as described in Clause 13.1 above to finally decide the Successor Base Rate, the Adjustment 
+Spread and other amendments, in order to change the Successor Base Rate at an earlier time.
+
+--- Page 26 ---
+25 
+ 
+ 
+13.4 
+If a Base Rate Event set out in any of the paragraphs (a) to (e) of the Base Rate Event definition has 
+occurred but no Successor Base Rate and Adjustment Spread have been finally decided at the latest 
+prior to the relevant Interest Determination Date or if such Successor Base Rate and Adjustment Spread 
+have been finally decided but due to technical limitations of Euroclear Sweden cannot be applied in 
+relation to the relevant Interest Determination Date, the interest applicable to the next succeeding 
+Interest Period shall be: 
+(a) 
+if the previous Base Rate is available, determined pursuant to the terms that would apply to 
+the determination of the Base Rate as if no Base Rate Event had occurred; or  
+(b) 
+if the previous Base Rate is no longer available or cannot be used in accordance with applicable 
+law or regulation, equal to the interest determined for the immediately preceding Interest 
+Period. 
+This provisions set out in this clause are applicable on subsequent Interest Periods, provided that all 
+relevant measures have carried out regarding the application of and the adjustments described in this 
+Section 13 (Replacement of Base Rate) prior to every such subsequent Interest Determination Date, 
+but without success. 
+13.5 
+Prior to the Successor Base Rate, Adjustment Spread and any other amendments becoming effective, 
+the Company shall promptly, following the final decision by the Company in consultation with the 
+Arranger or the Independent Adviser of any Successor Base Rate, Adjustment Spread and other 
+amendments, give notice thereof to the Bondholders, the Administrative Agent, the Arranger and 
+Euroclear Sweden in accordance with Section 16 (Notices). The notice shall also include information 
+about the effective date of the amendments. If the MTN are admitted to trading on a Regulated Market, 
+the Company shall also give notice of the amendments to the relevant stock exchange. 
+13.6 
+The Arranger, the Independent Adviser and the Administrative Agent that carries out measures in 
+accordance with this section 13 shall not be liable whatsoever for any damage or loss caused by 
+determinations, action taken or omitted by it in conjunction with the determination and final decision 
+of the Successor Base Rate, Adjustment Spread and any amendments thereto to the Loan terms, unless 
+directly caused by its gross negligence or willful misconduct. The Arranger, the Independent Adviser 
+and the Administrative Agent shall never be responsible for indirect or consequential loss. 
+13.7 
+In this section 13, the following definitions have the meaning described below: 
+”Adjustment Spread” means a spread or a formula or methodology for calculating a spread to be 
+applied to a Successor Base Rate and that is: 
+(i) 
+formally recommended by any Relevant Nomination Body in relation to the 
+replacement of the Base Rate; or 
+(ii) 
+if (i) is not applicable, the adjustment spread that the Company in consultation with 
+the Arranger or the Independent Adviser determines is reasonable to use in order to 
+eliminate, to the extent possible, any transfer of economic value from one party to 
+another as a result of a replacement of the Base Rate and is customarily applied in 
+comparable debt capital market transactions. 
+“Base Rate Administrator” means the Swedish Financial Benchmark Facility AB (SFBF) in relation to 
+STIBOR and the European Money Markets Institute (EMMI) in relation to EURIBOR or any person replacing 
+it as administrator of the Base Rate. 
+"Base Rate Event Announcement" means a public statement or published information as set out in 
+13.2 (b) to 13.2 (e) that any event or circumstance specified therein will occur. 
+“Independent Advisor” means an independent financial institution or advisor of repute in the debt 
+capital markets where the Base Rate is commonly used. 
+"Relevant Nomination Body" means, subject to applicable law, firstly any relevant supervisory 
+authority, secondly any applicable central bank, or any working group or committee of any of them or 
+thirdly, the Financial Stability Board or any part thereof. 
+"Successor Base Rate" is:
+
+--- Page 27 ---
+26 
+ 
+ 
+(i) 
+the screen or benchmark rate, including the methodology for calculating term 
+structure and calculation methods in respect of debt instruments with similar interest 
+rate terms as MTN, which is formally recommended as a successor to or replacement 
+of the Base Rate by a Relevant Nomination Body as successor; or 
+(ii) 
+if there is no such rate as described in paragraph (i), such other rate as the Company 
+in consultation with the Arranger or the Independent Advisor determines is most 
+comparable to the Base Rate. 
+For the avoidance of doubt, in the event that the Successor Base Rate ceases to exist, this definition 
+shall be apply mutatis mutandis to such new Successor Base Rate. 
+14. 
+AMENDMENT OF TERMS ETC.  
+14.1 
+The Company and the Dealers may reach agreement on adjustments to clear and obvious errors in these 
+General Terms and Conditions. 
+14.2 
+The Company and the Administrative Agent may agree on the adjustment of clear and obvious errors in 
+the Final Terms for a particular Loan. 
+14.3 
+Amendments and waivers of Loan Terms, other than as set out in points 14.1 to 14.2 shall take place 
+through a decision at a Bondholders’ Meeting as described in Section 12 (Bondholders’ Meeting).  
+14.4 
+The accession of a new Dealer to the MTN-Programme may take place by means of a written agreement 
+between the Company, the relevant institution and existing Dealers. Dealers may withdraw, although 
+the Administrative Agent in respect of a particular Loan may not withdraw, unless a new Administrative 
+Agent is appointed in its place for said Loan. 
+14.5 
+An approval of an amendment to terms and conditions granted at a Bondholders’ Meeting may cover 
+the substance of the amendment, and does not need to include the specific wording of the amendment.  
+14.6 
+A decision on an amendment to terms and conditions will also include a decision on when the 
+amendment will take effect. However, an amendment will not take effect until it has been registered 
+with Euroclear Sweden (where applicable) and published in accordance with point 10.6. 
+14.7 
+The Company and the Arranger or the Independent Adviser may, without the approval of the 
+Bondholders', agree on and execute amendments to the Loan terms in accordance with what is described 
+in section 13 (Replacement of Base Rate) and such amendments will be binding on those covered by the 
+Loan terms.  
+14.8 
+The amendment or concession of Loan Terms and Conditions in accordance with this Section 13 must 
+be notified to the Bondholders by the Company as soon as possible in accordance with Section 16 
+(Notices) and published in accordance with point 10.6.  
+15. 
+TIME-BAR FOR CLAIMS  
+15.1 
+A claim for principal is limited to ten years after the Maturity Date. A claim for interest is limited to 
+three years after the relevant Interest Payment Date. If a claim is limited as regards time, the funds 
+set aside for payment of said claim will accrue to the Company.  
+15.2 
+In the event of an interruption in the limitation period, a new limitation period of 10 years in the case 
+of the principal and three years in respect of interest amounts will apply, in both cases calculated from 
+the date set out in provisions on the effect of interruptions in limitation periods in the Limitations Act 
+(1981:130). 
+16. 
+NOTICES 
+16.1 
+Notifications will be issued to Bondholders for the Loan in question at the address registered with 
+Euroclear Sweden on the Record Date prior to dispatch. A notification to the Bondholders must also be 
+made public by means of a press release and be published on the Company’s website.
+
+--- Page 28 ---
+27 
+ 
+ 
+16.2 
+Notification must be sent to the Company and the Dealers at the address registered with the Swedish 
+Companies Registration Office on the Record Date prior to dispatch.  
+16.3 
+A notification to the Company or Bondholders in accordance with the Loan Terms and Conditions that 
+is sent by normal mail to the specified address will be deemed to have been received by the recipient 
+on the third Business Day after dispatch, and a notification sent by courier will be deemed to have been 
+received by the recipient when it has been delivered at the specified address.  
+16.4 
+In the event a notification has not been sent correctly to a particular Bondholder, this will not affect 
+the impact of the notification on other Bondholders.  
+17. 
+LIMITATION OF LIABILITY ETC. 
+17.1 
+In the case of the measures affecting the Dealers, liability cannot be asserted for harm due to Swedish 
+or foreign legislation, measures by a Swedish or foreign authority, war, strike, blockade, boycott, 
+lockout or other similar circumstance. The reservation in respect of strikes, blockades, boycotts and 
+lockouts applies even if the Dealers concerned is itself subject to or implementing such industrial 
+action.  
+17.2 
+Harm arising in other cases will not be compensated by a Dealer if the Dealer concerned has been 
+normally prudent. Under no circumstances will compensation be paid for indirect harm.  
+17.3 
+If obstacles exist preventing Dealers from taking action due to such circumstance as specified in point 
+17.1, the action may be suspended until the obstacle has ceased to exist.  
+17.4 
+That stated above applies unless otherwise set out in the Swedish Central Securities Depositories and 
+Financial Instruments (Accounts) Act (1998:1479). 
+18. 
+GOVERNING LAW AND JURISDICTION  
+18.1 
+Swedish law will apply to the Loan Terms and Conditions and all non-contractual obligations that arise 
+in connection with the application of the Loan Terms and Conditions.  
+18.2 
+Disputes must be determined by a Swedish court. Stockholm District Court will be the court of first 
+instance. 
+ 
+ 
+It is hereby confirmed that the above General Terms and Conditions are binding for us. 
+ 
+Gothenburg, 18 February 2022 
+ 
+INVESTMENT AB LATOUR (publ)
+
+--- Page 29 ---
+28 
+ 
+ 
+FORM OF FINAL TERMS 
+The Form of Final Terms has originally been prepared and adopted in Swedish. The Form of Final Terms as presented 
+in the Base Prospectus is an unofficial English translation of the Form of Final Terms. In the event of any discrepancy 
+between the Swedish and English version of the Form of Final Terms, the Swedish version is legally binding and 
+shall prevail. The Swedish version is available on Latour's web page. 
+ 
+The following template will be used for the preparation of the Final Terms for each loan issued under the MTN-
+Programme. 
+ 
+FINAL TERMS  
+(“Final Terms”) 
+ 
+for loan no. [•] 
+under Investment AB Latour’s (publ) (the “Company”) 
+Swedish MTN-Programme 
+ 
+The General Terms and Conditions dated [15 February 2018/18 February 2022] for the above headlined MTN-Programme 
+will apply to the Loan, together with the Final Terms as set out below. An English translation of the General Terms and 
+Conditions of the Company’s MTN-Programme is presented in the Company’s base prospectus dated 18 February 2022 
+(the “Base Prospectus”), which has been prepared in accordance with Regulation (EU) 2017/1129 (the “Prospectus 
+Regulation”), together with any prepared and published supplementary prospectuses to the Base Prospectus. The Final 
+Terms has been prepared in accordance with the Prospectus Regulation. Defined terms used below shall have the same 
+meaning as in the General Terms and Conditions, the Final Terms or as otherwise set out in the Base Prospectus.  
+ 
+Complete information about the Company and the MTN-Programme can only be obtained through the Base Prospectus, 
+any published supplementary prospectuses and these Final Terms, which is why investors who are considering investing 
+in MTN should read these documents together and in full. The Base Prospectus and any supplementary prospectuses to 
+the Base Prospectus as applicable are available on the Company’s website https://www.latour.se/en/investor-
+relations/mtn-programme. 
+ 
+[These Final Terms replace the Final Terms dated [date], whereby the Loan Amount has been increased by [SEK/EUR] 
+[amount in figures] from [SEK/EUR] [amount in figures] to [SEK/EUR] [amount in figures].] 
+ 
+GENERAL 
+1.  
+Loan number: 
+[•] 
+ 
+(i)  
+Tranche name: 
+[•] 
+2. 
+Aggregate Nominal Amount: 
+ 
+ 
+(i)  
+for the loan: 
+[•] 
+ 
+(ii)  for tranche [•]: 
+[(iii) for tranche [•] (indicate previous 
+tranches): 
+[•] 
+[•] 
+3. 
+Price per MTN: 
+[•] % of Nominal Amount [plus accrued interest as from 
+[insert date] if applicable] 
+4. 
+Currency: 
+[SEK/EUR] 
+5. 
+Nominal Amount: 
+[SEK/EUR] [•] (Not less than EUR 100,000 or the equivalent 
+thereof in SEK.) 
+6. 
+Loan date: 
+[•] 
+7. 
+Interest Commencement Date: 
+[Loan date/[•]] 
+8. 
+Settlement Date: 
+[Loan date/[•]] 
+9. 
+Maturity Date: 
+[•]
+
+--- Page 30 ---
+29 
+ 
+ 
+10. 
+Basis for calculation of interest: 
+[Fixed Rate] 
+[Floating Rate (FRN)] 
+[Zero Coupon] 
+11. 
+Amount as basis for calculation of 
+interest  
+[Nominal Amount/[•]] 
+BASIS FOR CALCULATION OF RETURN 
+12. 
+Fixed Rate: 
+[Applicable/Not applicable] 
+(If not applicable, delete the remaining subheadings of this 
+paragraph)  
+ 
+(i)  
+Interest Rate: 
+[•] % annual interest calculated on [Nominal Amount/[•]]. 
+ 
+(ii)  Interest Period: 
+The time from [•] up to and including [•] (the first Interest 
+Period) and thereafter each period of [•] months with the 
+end date on an Interest Payment Date 
+ 
+(iii)  Interest Payment Date(s): 
+[Annually/Semi-Annually/Quarterly] on [•], the first time on 
+[•] and the last time on [•] 
+(The above is adjusted in the event of a shortened or 
+extended Interest Period) 
+ 
+(iv)  Day Count Convention Method: 
+30/360 [Specify] 
+13. 
+Floating Rate (FRN): 
+[Applicable/Not applicable] 
+(If not applicable, delete the remaining subheadings of this 
+paragraph) 
+ 
+(i)  
+Base Rate: 
+[•] months [STIBOR/EURIBOR] 
+[The [first/last] coupon’s Base Rate will be interpolated 
+linearly between [•] months [STIBOR/EURIBOR] and [•] 
+months [STIBOR/EURIBOR].] 
+ 
+(ii)  Margin: 
+[+/-][•] 
+% 
+annual 
+interest 
+calculated 
+on 
+[Nominal 
+Amount/[•]] 
+ 
+(iii)  Interest Determination Date: 
+[Two] Business Days before each Interest Period, the first 
+time on [•] 
+ 
+(iv)  Interest Period: 
+The time from [•] up to and including [•] (the first Interest 
+Period) and thereafter each period of approx. [•] months 
+with the end date on an Interest Payment Date.  
+ 
+(v)  
+Interest Payment(s): 
+The final day in each Interest Period, [the [•], the [•], the 
+[•] and the [•],] the first time on [•] and the last time [the 
+[•]/on the Maturity Date]. 
+ 
+(vi)  Day Count Convention Method: 
+Actual/360 [Specify] 
+ 
+(vii)  Risk factors: 
+In accordance with the risk factor with the heading “MTN 
+with Floating Rate” in the Base Prospectus. 
+14. 
+Zero Coupon: 
+[Applicable/Not applicable] 
+(If not applicable, delete the remaining subheadings of this 
+paragraph) 
+ 
+(i)  
+Terms and conditions for Zero 
+Coupon Loans: 
+[•] 
+ 
+(ii)  Risk factor: 
+In accordance with the risk factor with the heading “MTN 
+without interest (known as Zero Coupon Loans)” in the Base 
+Prospectus.
+
+--- Page 31 ---
+30 
+ 
+ 
+REPAYMENT 
+15. 
+Amount at which MTN is to be repaid 
+on the Maturity Date: 
+[•] % of [Nominal Amount/[•]] 
+ 
+OTHER 
+16. 
+Green Bonds 
+[Applicable/Not applicable]  
+(If not applicable, delete the remaining subheadings of this 
+paragraph)  
+Green Terms and Conditions dated [•] apply to this Loan.  
+[Violation of this provision, point 16 (Green Bonds), will not 
+constitute grounds for termination under point 11.1(b) of 
+the General Terms and Conditions.] 
+ 
+(i) Risk factor 
+In accordance with the risk factor with the heading “Risks 
+associated with green bonds” in the Base Prospectus. 
+17. 
+Estimated net proceeds 
+[SEK]/[EUR] [●] after deduction for costs related to the issue. 
+18. 
+Use of net proceeds 
+[General corporate purposes]/[In accordance with the Green 
+Terms and Conditions]/[Specify] 
+19. 
+Admission to trading on a Regulated 
+Market: 
+[Applicable/Not applicable] 
+(If not applicable, delete the remaining subheadings of this 
+paragraph) 
+ 
+(i)  Regulated Market: 
+[Nasdaq Stockholm/Specify other Regulated Market] 
+ 
+(ii)  Estimated total costs associated 
+with admission to trading: 
+[•] 
+ 
+(iii)  Total 
+number 
+of 
+securities 
+admitted to trading: 
+[•] 
+ 
+(iv) Earliest day for commencement of 
+trading: 
+[•] 
+20. 
+Interests: 
+[Specify/Not applicable]  
+(Interests and any conflicts of interest for individuals who 
+are involved in the share issue and that are of significance 
+for the Loan must be described) 
+21. 
+Credit rating for Loans: 
+[Specify/Not applicable] 
+22. 
+Resolutions as basis of the issue:  
+[Not applicable/Resolutions regarding this Loan were taken 
+on [insert date]/Specify] 
+(If resolutions regarding issues under the MTN-Programme 
+are described in the Base Prospectus and this issue is 
+covered by such a decision, “Not applicable” must be used) 
+23. 
+Information from third parties: 
+[Information presented in these Final Terms originating from 
+third parties has been reproduced accurately and, as far as 
+the Company is aware and can ascertain from information 
+published by that third party, no facts have been omitted 
+that would render the reproduced information inaccurate or 
+misleading]/ [Not applicable] 
+24. 
+Issuing Agent: 
+ 
+ 
+(i)  
+for tranche [•]: 
+[(iii) for tranche [•] (indicate previous 
+tranches):] 
+[[Skandinaviska Enskilda Banken AB (publ)], [Svenska 
+Handelsbanken AB (publ)] [•]]
+
+--- Page 32 ---
+31 
+ 
+ 
+25. 
+Administrative Agent: 
+[[Skandinaviska Enskilda Banken AB (publ)], [Svenska 
+Handelsbanken AB (publ)] [•]] 
+26. 
+ISIN: 
+SE[•] 
+ 
+ 
+The Company confirms that the above Final Terms are applicable to the Loan, together with the General Terms and 
+Conditions, and undertakes, in accordance therewith, to repay the Loan and to pay interest in accordance herewith. 
+The Company further confirms that any material event after the date of the Base Prospectus that could affect the 
+market's assessment of the Loan and the Company to this MTN have been publicly disclosed. 
+ 
+Gothenburg, [•] 
+Investment AB Latour (publ)
+
+--- Page 33 ---
+32 
+ 
+ 
+BUSINESS DESCRIPTION 
+ 
+MAIN OPERATIONS  
+Background 
+Investment AB Latour is a mixed investment company and is listed on Nasdaq Stockholm, Large Cap. Latour was 
+established in 1985 by the Douglas family, who remain the Company’s largest shareholder. Since its launch in 1985, 
+Latour’s share has achieved a total return, including both share price growth and dividends, amounting to 
+approximately 398,000 per cent as of 31 December 2021. This can be compared to 10,000 per cent for the benchmark 
+index, SIXRX. As of 31 December 2021, Latour’s market value amounted to SEK 235.9 billion (127.8). 
+ 
+Business concept 
+Latour's main business concept is to invest long-term in sustainable companies with their own products and brands, 
+a great development potential supported by global megatrends and with good prospects for internationalization. 
+ 
+Vision 
+Latour’s vision is to be a sustainable and attractive choice for long-term investors that want good returns. Latour 
+creates added value in its holdings by being an active and steadfast owner that, with financial strength and solid 
+industrial know-how, contributes to the sustainable development of the companies. 
+ 
+Core Values 
+Latour’s four core values are: 
+ 
+Long-term perspective 
+ 
+Businessmanship 
+ 
+Trust & Accountability 
+ 
+Development 
+ 
+The operations are managed by a clearly delegated decision-making structure, each holding has a unique company 
+culture and its own strategic process. However, Latour’s core values permeate all holdings. 
+ 
+Latour’s operations 
+Latour’s holdings are found primarily in two business lines: a wholly-owned industrial operations and a portfolio of 
+listed holdings. In addition, Latour Future Solutions was established in 2020. Latour is an active principal owner in 
+all holdings, regardless of whether the holdings are listed, wholly-owned or partially-owned, where the work of the 
+Board is the most important platform for the sustainable creation of value. Latour’s main business concept is to 
+invest in sustainable companies with proprietary products, strong growth potential supported by global megatrends 
+and good future prospects. The Group’s long-term ambition is to create international growth and added value in 
+these holdings by means of active ownership. For more information about Latour’s holdings, see the section 
+“Holdings” below. 
+ 
+All holdings are characterized by a structured approach to the work of the Board, acquisition processes and 
+integration processes. Latour’s interests in several global groups help to develop the companies in line with the 
+adopted international expansion strategy by enabling the holdings to exchange experiences and knowledge. 
+ 
+Leadership is an integral part of Latour’s corporate governance. Leaders in the Group are considered culture carriers 
+and role models, shouldering responsibility for performance, sustainable value creation and robust organizations. 
+The leadership style is characterized by freedom with responsibility combined with feedback and transparency.
+
+--- Page 34 ---
+33 
+ 
+ 
+Financial targets 
+Low net debt 
+Latour’s total net debt cap is set at 10 per cent of the investment portfolio’s value and 2.5 times the wholly-owned 
+industrial operations’ EBITDA, measured as an average for the last three years and adjusted for acquisitions and 
+disposals. 
+ 
+Corporate governance worth its price 
+Latour operates an active corporate governance programme for a management fee of approximately 0.1 per cent 
+of the managed market value. 
+ 
+Financial targets for the industrial operations over a business cycle 
+ 
+Average annual growth  
+> 10 per cent 
+ 
+Operating margin 
+ 
+> 10 per cent 
+ 
+Return on operating capital 
+15–20 per cent 
+Dividend policy 
+Further payment of dividend received from the investment portfolio and part-owned holdings 
+100 per cent 
+Profit after tax in wholly-owned companies 
+ 
+ 
+ 
+40–60 per cent 
+ 
+ACQUISITION AND INVESTMENT STRATEGY 
+Latour’s acquisition process is centered on long-term assumptions about which technologies and companies have 
+the best prospects, based on the overall trends that are expected to lead to new and growing needs. 
+ 
+Latour’s business is based on identifying the best opportunities for creating sustainable value in the longer term, 
+and on avoiding risks that might lead to diminished value. These opportunities and risks can be viewed on two levels 
+– company-specific and market-related. Latour takes the company-specific opportunities and risks into account in 
+its investment strategy and active corporate governance. 
+ 
+As an investment company, Latour has relatively narrow investment criteria, but with these, the company can 
+quickly get an idea as to whether a business qualifies for a more in-depth analysis or not. 
+ 
+Latour’s investment criteria 
+Market and trends 
+ 
+Addresses identified trends 
+ 
+The industry is showing profitable growth 
+Development potential 
+ 
+Next wave of development has begun 
+ 
+Potential for geographical expansion 
+ 
+Sustainable business with high ethical standards 
+ 
+Latour adds value 
+Business and market position 
+ 
+Development and manufacture of proprietary products under their own brands. 
+ 
+Sustainable products with high added value 
+ 
+Favorable position in the value chain 
+ 
+Strong management 
+Financial performance 
+ 
+Ability to meet Latour’s long-term financial targets 
+Sustainability 
+Sustainability is a central concern for Latour and is reflected in the Company’s four core values, which are 
+basically about consideration for people and the environment. Since Latour is an investment company each 
+individual holding may have its company culture. Latour’s overriding core values must however permeate all the 
+companies that Latour has an ownership interest in.
+
+--- Page 35 ---
+34 
+ 
+ 
+ 
+The 
+concept 
+long‐term 
+means 
+that 
+from 
+a 
+decision‐making 
+perspective 
+short‐term 
+changes 
+in 
+external circumstances will not influence Latour’s choice when a decision is considered best in the 
+long‐term. In order to be perceived as long‐term our business must then be built on integrity and run 
+according to the laws and regulations that govern Group activities. Working long‐term also means 
+that the Group’s engagement in sustainable development has been and will be reflected and included 
+in the Group’s guidelines, decisions and actions. 
+ 
+Latour has its greatest impact on sustainability by being an active and responsible owner, where all holdings drive 
+their own sustainability development. There are 14 employees at the head office and around 400,000 in the holdings. 
+The head office's direct influence in the area of sustainability is therefore limited compared with the holdings, but 
+through the active work of boards, Latour drives and has high expectations for the sustainable development of the 
+holdings. 
+ 
+Long-term values are created by developing sustainable operations and Latour is confident that a commitment 
+across the organization to the environment and people is essential for Latour and its market to develop in a positive 
+direction. The holdings have different challenges and offer internationally leading products in the fields of energy 
+efficiency, safety, recycling, sustainable construction and workplace health. 
+ 
+Latour have a Code of Conduct and an Environmental Policy with guidelines and policies for all wholly-owned 
+companies and their employees. The guidelines and policies make up the minimum requirements with which all 
+holdings must comply. For the companies that are part of Latour's investment portfolio, this is accomplished by 
+their boards proactively ensuring that they have their own codes of conduct and policies that meet Latour's 
+requirements in this area. 
+ 
+LATOUR’S HOLDINGS 
+Latour’s investments mainly consist of two parts; the wholly-owned industrial operations grouped into six business 
+areas and the investment portfolio containing ten holdings in which Latour is the principal owner or one of the 
+principal owners. As of 31 December 2021, the market value of the investment portfolio was SEK 98 billion (68). In 
+addition to the above two operational branches, Latour has an investment area that focuses on sustainability-
+oriented growth companies, Latour Future Solutions, as well as a small portfolio of part-owned holdings. 
+ 
+Latour creates added value in its holdings by being an active and long-term owner that, with financial strength and 
+solid industrial know-how, contributes to the sustainable development of the companies. Latour is an active 
+principal owner in the holdings, regardless of whether the holdings are listed, wholly owned or part-owned, where 
+the work of the Board is an important platform for creation of value.  
+ 
+The investment portfolio currently consists of significant holdings in Alimak Group, Assa Abloy, CTEK, Fagerhult, 
+HMS Networks, Nederman, Securitas, Sweco, TOMRA and Troax Group. Latour’s largest holdings, based on net asset 
+value, are ASSA ABLOY, TOMRA, Sweco, Hultafors Group and Swegon. The wholly-owned industrial operations 
+accounts for 35 per cent of the Group’s total net asset value as of 31 December 2021, which is a result of the very 
+good profitability development combined with the investments made in industrial operations in recent years. The 
+market value of the listed holdings is simple to calculate, since clearly stated market prices are available. 
+Determining the value of the wholly-owned operations is much more difficult. This is because the market value, the 
+price that potential buyers are willing to pay for the operations, is not as clearly defined. 
+ 
+Wholly-owned operations 
+The Group's wholly-owned industrial operations are grouped into six business areas: Bemsiq, Caljan, Hultafors 
+Group, Latour Industries, Nord-Lock Group and Swegon. 
+ 
+The six business areas have strong positions in their respective niches with companies that develop, manufacture 
+and market their own products and brands to customer segments that accounts for a large and growing international 
+demand.
+
+--- Page 36 ---
+35 
+ 
+ 
+The ambition of growth is high with focus on organic growth and growth through acquisitions. In order to grow at a 
+rate that exceeds overall economic development, the businesses systematically work to strengthen the offer, gain 
+market share in existing markets and increase the international presence. 
+ 
+All businesses carry out product development at the forefront, which is essential in order to ensure significant 
+competitive advantages in the future. Latour is acting forward and constantly invests in product development, sales 
+and marketing, and improving the digital presence of our business areas. 
+In total, the industrial operations employ over 8,000 people with a total turnover of SEK 18 billion as of 31 
+December 2021. 
+ 
+ 
+Bemsiq comprises a portfolio of companies within building automation and energy efficiency. Buildings account for 
+about 40 per cent of energy consumption and carbon dioxide emissions in our society. Bemsiq's mission is to 
+accelerate the journey towards SMART and GREEN buildings by being a leading global provider of technology and 
+products for sensing, controlling, and connecting in commercial buildings. Bemsiq is a group of international 
+companies delivering innovative products for building automation and metering. The products developed and sold 
+by the companies in the Bemsiq group are used in a wide range of building applications enabling increased smartness 
+and increased environmental performance. 
+ 
+ 
+ 
+Since 1963, Caljan has specialized in helping packing companies, distributors and manufacturers around the world 
+to manage loose cargo efficiently. Caljan is a leading provider of highly engineered Logistics Automation Technology 
+that optimizes the supply chain. Caljan’s solutions are used by blue-chip customers for whom fast, safe and cost-
+efficient parcel handling are key competitive differentiators. The business comprises four global divisions and more 
+than 90 per cent of revenue is driven by E-commerce. 
+ 
+ 
+ 
+Hultafors Group provides a portfolio of leading brands that keep driven professional users at the forefront in terms 
+of functionality, safety and overall productivity. Hultafors Group is one of Europe’s largest companies to supply 
+work wear, footwear, head protection, hand tools and ladders for professional users. The products are developed, 
+manufactured and marketed as their own brands, which are available through leading distributors in almost 70 
+countries worldwide, with emphasis on Europe and North America. 
+ 
+ 
+ 
+Latour Industries is a miniature of Latour in which active and careful ownership contributes to a stable and 
+independent development of each holding. The goal is for the holdings to become independent business area within 
+Latour at some point in the future. Latour Industries consists of six wholly-owned holdings and one part-owned 
+holding, each of them with their own products with high technology content and a clear potential for growth. Each 
+of the holdings has its own business concept and business model.
+
+--- Page 37 ---
+36 
+ 
+ 
+ 
+ 
+Nord-Lock Group is a world leader in secure bolting solutions. For over 35 years, the group has provided innovative 
+solutions and expertise to customers in all major industries, contributing to the reliability and effectiveness of their 
+bolted connections. Nord-Lock Group focuses on customers in all major industries with high demands on quality and 
+safety where the consequences of bolt failure would be significant. Over 90 per cent of sales are exported. Sales 
+are conducted through a combination of own companies and a global network of distributors.  
+ 
+ 
+ 
+Swegon maintains a clear focus on indoor environmental quality for people’s wellbeing, health and comfort in 
+buildings. Feel good inside. Swegon supplies the market with high quality products and intelligently designed system 
+solutions that promote a superior indoor climate and contribute to lower life-cycle costs for all types of buildings. 
+Sales and marketing activities are conducted through the Group’s sales companies in 16 countries and through 
+distributors to other markets. The company has production in Europe, North America and India.
+
+--- Page 38 ---
+37 
+ 
+ 
+Investment portfolio 
+Latour´s investment portfolio consists of ten companies where Latour is the principal owner or one of the principal 
+owners and where Latour controls at least ten per cent of the voting rights. 
+ 
+Regardless of the ownership stake, a clear working method is applied to the work of the Board of Directors. Latour 
+will operate as a transparent principal owner that contributes to initiatives to ensure sustainable growth and 
+profitability in its companies. All its businesses are at the forefront of their respectful sectors. 
+ 
+The Investment portfolio presented below is correct as of 31 December 2021.  
+ 
+Share2 
+Number 
+Market 
+value3, MSEK 
+Listed price, 
+SEK 
+Acquisition 
+value,  
+MSEK 
+Dividend, 
+MSEK 
+Share of 
+votes4 (%) 
+Share of 
+equity5 (%) 
+Alimak Group 
+16,016,809 
+1,832 
+114 
+2,134 
+48 
+29.7 
+29.6 
+Assa Abloy6 
+105,495,729 
+29,138 
+276 
+1,697 
+411 
+29.5 
+9.5 
+CTEK 
+15,280,810 
+3,088 
+202 
+1,054 
+0 
+31.0 
+31.0 
+Fagerhult 
+84,708,480 
+5,159 
+61 
+1,899 
+42 
+48.1 
+47.8 
+HMS Networks 
+12,109,288 
+6,757 
+558 
+250 
+24 
+26,0 
+25.9 
+Nederman 
+10,538,487 
+2,297 
+218 
+306 
+11 
+30.0 
+30.0 
+Securitas 
+39,732,600 
+4,953 
+125 
+1,081 
+159 
+29.6 
+10.9 
+Sweco  
+97,867,440 
+16,657 
+170 
+445 
+215 
+21.2 
+26.9 
+Tomra7 
+31,210,000 
+20,186 
+647 
+1,605 
+94 
+21.1 
+21.1 
+Troax 
+18,060,000 
+8,371 
+464 
+397 
+37 
+30.2 
+30.1 
+TOTAL 
+98,438 
+ 
+10,869 
+1,041   
+ 
+ 
+ 
+                                                     
+2 All holdings are recognised as associated companies in the balance sheet. 
+3 The last price paid is used as the listed price. 
+4 Percentage of voting rights, not including repurchased shares. 
+5 Percentage of equity calculated on total number of issued shares. 
+6 Due to limited trading in class A shares in Sweco, and because ASSA ABLOY and Securitas class A shares are unlisted, they have 
+been given the same listed price as the company’s class B shares. In those cases where the holding consists of both class A and 
+class B shares, they are reported in the table as an entity. 
+7 At the end of the reporting period, the listed share price was NOK 631, which has been translated to SEK at the exchange rate 
+prevailing at the balance sheet date.
+
+--- Page 39 ---
+38 
+ 
+ 
+ 
+ 
+Alimak Group is a world-leading provider of vertical transportation solutions for professional use. Alimak Group has 
+been a pioneer and leader in the field of rack-and-pinion lifts and work platforms for more than 70 years. Its portfolio 
+now includes vertical transportation solutions, such as lifts, platforms, service lifts and building maintenance units. 
+The operations are conducted in four divisions, with 2,000 employees and sales in 100 countries. 
+ 
+Chairman of the Board: Johan Hjertonsson 
+Chief Executive Officer: Ole Kristian Jødahl 
+ 
+Board member connected to Latour: Johan Hjertonsson. 
+ 
+ 
+ 
+ 
+Assa Abloy is a world leader in access solutions. Assa Abloy helps billions of people to experience a more open world 
+every day through innovations that provide safe, secure and convenient solutions for both physical and digital access. 
+The Group is a world leader in the field of access solutions, with products and services such as locks, doors, gates 
+and entrance automation.  
+ 
+Chairman of the Board: Lars Renström 
+Chief Executive Officer: Nico Delvaux 
+ 
+Board members connected to Latour: Carl Douglas, Lena Olving, Johan Hjertonsson. 
+ 
+ 
+ 
+ 
+ 
+ 
+CTEK is a global market leader in vehicle charging solutions. Established in Dalarna Sweden, CTEK is the leading 
+global brand in battery charging solutions, most specifically vehicle charging. CTEK offers products ranging from 
+12V & 24V battery chargers to charging solutions for electrical vehicles. Products are sold via a carefully selected 
+network of global distributors and retailers, as original equipment, supplied to more than 50 of the world’s leading 
+vehicle manufacturers and through charge point operators, property owners as well as other organizations and 
+individuals providing EV charging infrastructure. CTEK takes pride in its unique culture based on a passion for 
+innovation and a deep commitment to supporting the transition to a greener mobility, by adhering to industry-
+leading ESG standards. 
+ 
+Chairman of the Board: Hans Stråberg 
+Chief Executive Officer: Jon Lind 
+ 
+Board members connected to Latour: Björn Lenander.
+
+--- Page 40 ---
+39 
+ 
+ 
+ 
+ 
+Fagerhult is one of Europe’s leading lighting companies with subsidiaries in a total of 30 countries. Fagerhult designs, 
+develops, manufactures and markets innovative and energy efficient lighting solutions for professional settings in 
+four business areas – Collection, Premium, Professional and Infrastructure. Operations are conducted locally via a 
+number of companies with strong brands. Sales also take place via agents and distributors, providing access to more 
+than 40 markets in total.  
+ 
+Chairman of the Board: Jan Svensson 
+Chief Executive Officer: Bodil Sonesson 
+ 
+Board members connected to Latour: Jan Svensson and Eric Douglas. 
+ 
+ 
+ 
+HMS Networks is a world-leading supplier of software and hardware for industrial ICT (Information & Communication 
+Technology). Over 90 per cent of HMS Networks’ sales are outside of Sweden, to some 60 countries. The head office 
+is located in Halmstad and there are offices are in 16 countries. The company markets industrial communication 
+solutions under the Anybus®, Ewon®, Ixxat® and Intesis® brands.  
+The products make it possible for industrial devices such as robots, motors, generators and sensors to communicate 
+with their surroundings. 
+ 
+Chairman of the Board: Charlotte Brogren 
+Chief Executive Officer: Staffan Dahlström 
+ 
+Board member connected to Latour: Anders Mörck. 
+ 
+ 
+ 
+Nederman is a world-leading developer of advanced air purification products and systems. Nedermans´s solution 
+protect people, production and the environment from the harmful effects of industrial processes. The portfolio 
+includes individual products, complete solutions, planning, installation, commissioning and service. Sales are made 
+to more than 50 markets through the company’s own sales organization, agents or distributors. 
+ 
+Chairman of the Board: Johan Hjertonsson 
+Chief Executive Officer: Sven Kristensson 
+ 
+Board member connected to Latour: Johan Hjertonsson and Johan Menckel.
+
+--- Page 41 ---
+40 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Securitas has operations in North America, Europe, Latin America, the Middle East, Asia and Africa. The organization 
+is flat and decentralized, and has 370,000 employees in 56 countries. Securitas offers a broad and growing range of 
+security services, including stationary and mobile monitoring, remote monitoring, electronic security, fire 
+protection and risk management.  
+ 
+Chairman of the Board: Jan Svensson 
+Chief Executive Officer: Magnus Ahlqvist 
+ 
+Board members connected to Latour: Jan Svensson and Johan Menckel. 
+ 
+ 
+ 
+SWECO plans and designs the sustainable communities and cities of the future. Sweco is Europe's leading engineering 
+and architecture consultancy. Together with its customers, Sweco’s 17,500 architects, engineers and other 
+specialists are developing solutions to manage urbanization, make use of the opportunities offered by digitalization 
+and make the societies of the future more sustainable.  
+ 
+Chairman of the Board: Johan Nordström 
+President and CEO: Åsa Bergman 
+ 
+Board member connected to Latour: Johan Hjertonsson. 
+ 
+ 
+ 
+  
+ 
+TOMRA is a world leader in sorting and recycling technologies for optimal resource productivity. Tomra was founded 
+in Norway in 1972. Today it has more than 100,000 installations in more than 80 countries around the world, and 
+approximately 4,300 employees. The company’s products and services are offered through three business areas: 
+TOMRA Collection Solutions, TOMRA Recycling Mining and TOMRA Food. 
+ 
+Chairman of the Board: Jan Svensson 
+President and CEO: Tove Andersen 
+ 
+Board member connected to Latour: Jan Svensson.
+
+--- Page 42 ---
+41 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Troax is a world-leading supplier of perimeter protection for indoor use. Troax´s mission is to develop sustainable, 
+high-quality and innovative security systems that protect people, property and processes. Since it was founded in 
+1955, Troax has developed into a successful listed international group, with some 975 employees and local 
+representation in 42 countries. Its head office is in Hillerstorp in Sweden.  
+ 
+Chairman of the Board: Anders Mörck 
+Chief Executive Officer: Thomas Widstrand 
+ 
+Board member connected to Latour: Anders Mörck.
+
+--- Page 43 ---
+42 
+ 
+ 
+Latour Future Solutions 
+Latour Future Solutions is an investment area within Latour that targets sustainability-focused growth companies. 
+The goal is for the investments to create a sustainable society based on all dimensions; environmental, social and 
+economic.  
+ 
+Latour Future Solutions is actively looking for companies that are facing an expansion phase within industrial sectors 
+with opportunities to make big positive difference. 
+ 
+Latour Future Solutions in an active owner through board work. By involving the entire Latour industrial competence, 
+Latour also want to continuously contribute resources to the companies to create solutions for a long-term 
+sustainable society.  
+ 
+Investments 
+ 
+ 
+Gaia BioMaterials AB develops and manufactures biodegradable biomaterials from renewable sources to replace 
+fossil-based plastics. The company was founded in 2011 with headquarters and manufacturing in Helsingborg, 
+Sweden. 
+ 
+ 
+ 
+ 
+ 
+Aqua Robur Technologies AB designs and manufactures IoT equipment, sensors, energy-harvesting products, and 
+software for the water industry. The company offers a complete solution to water companies in order to digitize 
+their water networks. The business was founded in 2015 with headquarters in Gothenburg, Sweden. 
+ 
+ 
+ 
+Swedish Hydro Solutions AB offers sustainable solutions for water treatment via mobile and stationary treatment 
+systems for bilge and storm water, process water and remediation of polluted areas. The company's offering includes 
+analysis support, patented bio-based products, and adapted equipment for efficient purification of very large 
+volumes of water. The business started in 2015 and today has offices in Alingsås and Stockholm. 
+ 
+Part-owned holdings 
+Latour is one of the principal owners in a small number of unlisted companies in which a wholly-owned ownership 
+structure has not been possible for various reasons. These companies have the same characteristics as Latour’s 
+larger holdings. However, the branch represents a very small proportion of Latour’s net asset value.
+
+--- Page 44 ---
+43 
+ 
+ 
+BOARD OF DIRECTORS, SENIOR EXECUTIVES AND AUDITOR 
+ 
+BOARD OF DIRECTORS 
+The Company’s Board of Directors consists of nine ordinary members, including the CEO, all of whom are elected 
+until the end of the 2022 Annual General Meeting. Information about each individual Board member is presented 
+below. All Board members can be contacted via the Company’s head office, J A Wettergrens gata 7, Box 336,  
+SE-401 25 Gothenburg, tel. +46 31 89 17 90.  
+ 
+Olle Nordström – Chairman of the Board 
+Born: 1958 
+Chairman of the Board since: 2016 
+Education: Bachelor of Science (Econ.) 
+ 
+Other significant principal activities 
+Chairman of the Board of Besqab AB, Skirner AB and Skirner Förvaltning AB. Board member of Teletec Connect 
+Aktiebolag and Tilia Fastigheter AB. 
+ 
+Johan Hjertonsson – Board member and CEO 
+Born: 1968. 
+Board member since: 2019. 
+Education: Bachelor of Science (Econ.) 
+ 
+Other significant principal activities 
+Chairman of the Board of Nederman Holding AB and Alimak Group AB. Board member of Sweco AB (publ) and ASSA 
+ABLOY AB. 
+ 
+Mariana Burenstam Linder – Board member 
+Born: 1957 
+Board member since: 2011 
+Education: Bachelor of Science (Econ.) 
+ 
+Other significant principal activities 
+Founder of Burenstam & Partners and ProactiveMedicine. Board member of BTS AB. Member of the Placement 
+Committee of the Royal Swedish Academy of Sciences as well as Natur & Kultur. 
+ 
+Anders Böös – Board member 
+Born: 1964. 
+Board member since: 2005. 
+Education: Economic studies Secondary School. 
+ 
+Other significant principal activities 
+Chairman of the Board of Einride AB, Valamis OY and Hantverksdata AB. Board member of Stronghold Invest AB, 
+tbd30 and Newsec. 
+ 
+Joakim Rosengren – Board member 
+Born: 1960 
+Board member since: 2019 
+Education: Bachelor of Science (Econ.) 
+ 
+Other significant principal activities 
+Board member of Stena Metall AB and Stena Recycling AB.
+
+--- Page 45 ---
+44 
+ 
+ 
+ 
+Carl Douglas – Board member 
+Born: 1965 
+Board member since: 2008 
+Education: BA (Bachelor of Arts), D. Litt (h.c.) (Doctor of Letters). 
+ 
+Other significant principal activities 
+Vice Chairman of the Board of ASSA ABLOY AB. 
+ 
+Eric Douglas – Board member 
+Born: 1968 
+Board member since: 2002 
+Education: Economic college graduate and three years of studies at the University of Lund in “Economy for 
+Entrepreneurs”. 
+ 
+Other significant principal activities 
+Chairman of the Boards of Pod Investment AB and Sparbössan Fastigheter AB. Vice Chairman of the Board of 
+AB Fagerhult. 
+ 
+Lena Olving – Board member 
+Born: 1956 
+Board member since: 2016 
+Education: M.Sc. Mechanical Engineering. 
+ 
+Other significant principal activities 
+Chairman of the Board of ScandiNova Systems AB, The Royal Swedish Opera and Academic Work Holding AB. Board 
+member of ASSA ABLOY AB, Munters AB, NXP Semiconductors N.V. and Stena Metall AB. Member of the Royal 
+Swedish Academy of Engineering Sciences. 
+ 
+Ulrika Kolsrud – Board member 
+Born: 1970 
+Board member since: 2021 
+Education: M.Sc. Mechanical Engineering 
+ 
+Other significant principal activities 
+President Health and Medical Solutions at Essity. Board member of Essity Hygiene and Health AB and member of 
+the Royal Swedish Academy of Engineering Sciences.
+
+--- Page 46 ---
+45 
+ 
+ 
+GROUP MANAGEMENT 
+The Group management consists of the Group’s Chief Executive Officer, Chief Investment Officer and Chief Financial 
+Officer. Latour’s industrial operations are grouped into six business areas. The investment portfolio is managed by 
+the parent company, Investment AB Latour, and the wholly-owned subsidiary Latour Förvaltning AB. The wholly-
+owned subsidiary Latour-Gruppen AB is the parent company for all the business areas that are part of the wholly-
+owned industrial operations. 
+ 
+The business area managers lead the operations in their respective business area and are responsible for the 
+performance and management of their business area. The Group’s business organization is built on decentralization 
+of responsibilities and powers. The business areas are responsible for the respective operation’s sustainable strategic 
+and operational development and for meeting financial targets, including return on operating capital, tied-up 
+capital, operating margins and growth. 
+ 
+Johan Hjertonsson – CEO 
+For more information, see above under “Board of Directors”.  
+ 
+Anders Mörck – Chief Financial Officer 
+Born: 1963 
+CFO since: 2008 
+Education: Bachelor of Science (Econ.) 
+ 
+Other significant principal activities  
+Chairman of the Board of Nederman and board member of HMS Networks AB.  
+ 
+Johan Menckel – Chief Investment Officer 
+Born: 1971 
+CIO since: 2020 
+Education: M.Sc. Engineering (industrial engineering and management), Royal Institute of Technology (KTH) 
+ 
+Other significant principal activities  
+Board member SAAB, Securitas, Nederman Holding AB and World Materials Forum. 
+Independence of the Board of Directors and potential conflicts of interest 
+Except for Johan Hjertonsson, everyone on the Board of Directors is independent of the Company and the company 
+management. Except for Carl Douglas and Eric Douglas, everyone is independent of the Company’s major 
+shareholders. 
+ 
+Johan Hjertonsson (CEO) and Anders Mörck (CFO) in the Group management have financial interests in the Company 
+in the form of shareholdings and call options.  
+ 
+In addition to that set out above, there is no conflict of interests between the duties of any of the Board members 
+or senior executives in relation to the Company, their private interests and/or other duties.  
+ 
+Auditor 
+At the 2021 Annual General Meeting, Ernst & Young AB was elected to serve as the Company’s auditors for the period 
+up to the end of the 2022 Annual General Meeting. Staffan Landén (born 1963), authorized public accountant and 
+member of FAR, is the responsible auditor. Staffan Landén can be contacted at Ernst & Young AB, 401 82 Gothenburg, 
+visiting address Parkgatan 49. Öhrlings PriceWaterhouseCoopers AB was the Company’s auditor during 2018 and 
+2019. Bo Karlsson (born 1966), authorized public accountant and member of FAR, was the responsible auditor during 
+these periods. Bo Karlsson can be contacted at PWC, 405 32 Gothenburg, visiting address Skånegatan 1.
+
+--- Page 47 ---
+46 
+ 
+ 
+OVERVIEW OF HISTORICAL FINANCIAL INFORMATION 
+ 
+The historical financial information included in the Base Prospectus consists of the Company’s audited consolidated 
+financial statements for the financial years 1 January - 31 December 2020 and 1 January - 31 December 2019. In 
+addition, the Company’s year-end report for the period 1 January - 31 December 2021 is included, which has not 
+been audited or subject to review.  
+ 
+The Company’s financial information for the 2020 and 2019 financial years has been audited by the Company’s 
+auditor. The auditor’s Reports for each financial year form part of the Base Prospectus and follow the standard 
+format, without any qualifications or remarks. Other than the audit of the 2020 and 2019 financial years, no other 
+parts of the Base Prospectus has been audited by the Company’s auditor. 
+ 
+The Company’s financial statements for 2020 and 2019 have been prepared in accordance with the International 
+Financial Reporting Standards (IFRS) published by the International Accounting Standards Board (IASB), as adopted 
+by the European Union, and the interpretations of the International Financial Reporting Interpretations Committee 
+(IFRIC) which have been approved by the EU. Furthermore, the Group has applied the Swedish Annual Accounts Act 
+(Sw. Årsredovisningslagen) and RFR 1 Supplementary Accounting Rules for Groups, issued by the Swedish Financial 
+Accounting Standards Council.  
+ 
+All the above financial statements have been incorporated in the Base Prospectus by reference, see the section 
+“Documents incorporated by reference”. All the financial statements included the Base Prospectus are available on 
+Latour’s website, https://www.latour.se/en/investor-relations/reports-and-presentations.  
+ 
+SIGNIFICANT CHANGES AND INFORMATION ABOUT TRENDS 
+ 
+Material adverse changes in the Group’s prospects since the publication of the last audited financial 
+statement 
+There have been no material adverse change regarding Latour’s prospects since the publication of the last audited 
+financial statement on 10 March 2021 (2020 Annual Report). 
+ 
+Significant changes in the Group’s financial performance since 31 December 2021  
+There have been no significant change in the Group’s financial performance since 31 December 2021.  
+ 
+Significant changes in the Group’s financial position since 31 December 2021 
+There have been no significant change of the Group’s financial position since 31 December 2021.  
+ 
+Recent events affecting the Group's solvency 
+No material recent events have occurred recently, specifically for the Group, that may have a material impact on 
+the assessment of Latour’s solvency.
+
+--- Page 48 ---
+47 
+ 
+ 
+LEGAL CONSIDERATIONS AND SUPPLEMENTARY INFORMATION 
+ 
+About Latour 
+Investment AB Latour (publ), corporate reg. no. 556026-3237, is a Swedish public limited liability company 
+established on 22 October 1927 in Sweden. The company name is Investment AB Latour (publ) and its operations are 
+regulated by legislation including the Swedish Companies Act (2005:551). The company name was registered on 13 
+May 1987 and its trade name is Latour. The Company’s registered office and head office are located in the 
+municipality of Gothenburg, Västra Götaland County, at address Box 336, 401 25 Gothenburg, telephone number +46 
+31 89 17 90. The Company’s visiting address is J A Wettergrens gata 7 in Gothenburg. The Company’s LEI number is: 
+5493006GFBLNB3Y0Y789. 
+ 
+According to the Company’s Articles of Association, the objective of the Company’s operations is to acquire and 
+manage shares and other movable property. 
+ 
+Group structure 
+Investment AB Latour (publ) is the parent company of the Group, which consists of more than 150 subsidiaries, of 
+which approximately a fourth of the subsidiaries are Swedish. The Group has important production facilities in 
+Sweden, as well as in the UK, Germany, Italy, Poland, Latvia and the USA, among others.  
+ 
+Since Latour’s operations are mainly conducted through its subsidiaries, the Company relies on its subsidiaries to be 
+able to generate profit and cash flow, as well as to be able to meet its commitments under the MTN-Programme. 
+ 
+Ownership structure 
+Below is a list of the Company’s major shareholders with holdings of more than five (5) per cent of the share capital 
+or voting rights, as of 31 December 2021.  
+ 
+Owner/administrator/custodian bank 
+Number of  
+class A shares 
+Number of  
+class B shares Share capital (%) Voting rights (%) 
+The Douglas family with associated companies 
+39,958,100 
+446,554,000 
+76.0 
+79.2 
+The Palmstierna family  
+6,408,640 
+3,370,000 
+1.5 
+6.3 
+Total shareholder's with more than five per 
+cent of the share capital or voting rights 
+46,366,740 
+449,924,000 
+77.5 
+85.5 
+Other shareholders 
+1,263,108 
+142,286,152 
+22.4 
+14.5 
+Total 
+47,629,848 
+592,210,152 
+100.0 
+100.0 
+ 
+As of 31 December 2021, the total number of shares in the Company amounted to 639,840,000. As of 31 December 
+2021, Latour owns 517,200 of its own repurchased shares, which corresponds to approximately 0.08 per cent of the 
+total capital in the Company.  
+ 
+As of 31 December 2021, the Douglas family and their companies own a total of 76.0 per cent of the capital and 
+79.2 per cent of the voting rights in Latour. The Board members Eric Douglas and Carl Douglas are part of the Douglas 
+family. In order to guarantee that this control is not abused, the Group’s corporate governance is managed in 
+accordance with the Swedish Corporate Governance Code (the “Code”). In accordance with the Code, the Company 
+has established a Remuneration Committee, an Audit Committee and also has clear internal governance in respect 
+of financial management, as well as a structured process for risk management within the Group. Questions regarding 
+matters such as the election of Board members, any increases in the share capital, mergers or consolidations, are 
+such questions that are normally referred to the general meeting of shareholders. 
+ 
+Material agreements  
+No agreements of major importance have been entered into that are not part of the ordinary course of business or 
+that could result in a company within the Group being under an obligation or entitlement that could materially 
+affect the Company’s ability to fulfil its obligations in relation to the holders of MTN.
+
+--- Page 49 ---
+48 
+ 
+ 
+ 
+Legal and arbitration proceedings 
+The Company is not, and has not been in the last twelve months, a party to any governmental, legal or arbitration 
+proceedings that have had or could have a significant adverse effect on Group’s financial position or profitability. 
+The Company is also not aware of any governmental, legal or arbitration proceedings that could arise and that could 
+have a significant adverse effect on the Group’s financial position or profitability. 
+ 
+Credit rating 
+On 10 December 2021, the credit rating agency Fitch affirmed Latour's credit rating of A, with a stable outlook. 
+ 
+Fitch was registered on 31 October 2011 in accordance with Regulation (EC) No 1060/2009 of the European 
+Parliament and of the Council of 16 September 2009 on credit rating agencies. 
+ 
+A rating is the rating a borrower can obtain from an independent credit rating agency for its ability to meet its 
+financial commitments. This ability is also known as creditworthiness. Fitch is one of the three largest credit rating 
+agencies, along with Standard & Poor’s and Moody’s. A more detailed explanation of the significance of a particular 
+credit rating can be obtained from Fitch’s website https://www.fitchratings.com/products/rating-definitions. 
+A credit rating does not constitute a recommendation to buy, sell or hold securities. It is everyone’s individual 
+obligation to obtain information about up-to-date credit ratings, as these may be subject to change. 
+ 
+The following table sets out the credit rating scale used by Fitch for Issuer Default Ratings (IDR). 
+ 
+Fitch Issuer Default 
+Rating - Long Term 
+AAA 
+AA+ 
+AA 
+AA- 
+A+ 
+A 
+A- 
+BBB+ 
+BBB 
+BBB- 
+BB+ 
+BB 
+BB- 
+B+ 
+B- 
+CCC+/CCC/CCC- 
+CC 
+C 
+RD/D 
+ 
+Dealers 
+The Dealers, including the Arrangers, in some cases have had and may have different relationships with the Group 
+than those resulting from their roles under the MTN-Programme. A Dealer may, for example, provide services related 
+to other forms of financing than through the MTN-Programme. There is consequently a risk that conflicts of interest 
+exist or will arise in the future.
+
+--- Page 50 ---
+49 
+ 
+ 
+DOCUMENTS INCORPORATED BY REFERENCE 
+ 
+The following documents are incorporated in the Base Prospectus by reference. The documents have previously 
+been published and can be found on the Company’s website, https://www.latour.se/en/investor-relations/reports-
+and-presentations. 
+ 
+Those parts of the following documents that have not been incorporated by reference are by the Company either 
+deemed not relevant to investors in MTN or is covered elsewhere in the Base Prospectus. 
+ 
+Year-end report for the period 1 January - 31 December 2021 
+ 
+ 
+Consolidated income statement, p. 13. 
+ 
+Consolidated statement of comprehensive income, p. 13. 
+ 
+Consolidated cash flow, p. 13. 
+ 
+Consolidated balance sheet, p. 14. 
+ 
+Consolidated changes in equity, p. 14. 
+ 
+Notes, p. 17-19. 
+Link: https://vp302.alertir.com/afw/files/press/latour/202202109818-1.pdf 
+ 
+ 
+Annual Report for the 2020 financial year  
+ 
+ 
+Consolidated income statement, p. 79. 
+ 
+Statement of comprehensive income, p. 79 
+ 
+Consolidated balance sheet, p. 80-81. 
+ 
+Consolidated cash flow statement, p. 82. 
+ 
+Change in consolidated equity, p. 83. 
+ 
+Change in consolidated interest-bearing net debt, p. 83. 
+ 
+Notes, p. 87-114. 
+ 
+Auditor’s report, p. 116-119. 
+Link: https://vp302.alertir.com/sites/default/files/report/latour_annual_report_2020_-_final_version_web.pdf 
+ 
+Annual Report for the 2019 financial year 
+ 
+ 
+Consolidated income statement, p. 73. 
+ 
+Consolidated statement of comprehensive income, p. 73 
+ 
+Consolidated balance sheet, p. 74-75. 
+ 
+Consolidated cash flow statement, p. 76. 
+ 
+Change in the Group’s equity, p. 77. 
+ 
+Notes, p. 81-108.  
+ 
+Auditor’s report, p. 110-112. 
+Link: https://vp302.alertir.com/afw/files/press/latour/202003118074-1.pdf
+
+--- Page 51 ---
+50 
+ 
+ 
+To facilitate increases of bond loans issued based on previous base prospectuses, the following parts of the previous 
+base prospectuses are incorporated in the Base Prospectus by reference:  
+ 
+Base prospectus dated and published 19 February 2021 
+ 
+ 
+General terms and conditions (Allmänna villkor för lån under MTN-programmet), p. 12-24. 
+ 
+Form of final terms (Mall för slutliga villkor), p. 25-28.  
+Link: 
+https://www.latour.se/sites/latour-corp/files/investerare/finansiering/Latour%20-
+%20Grundprospekt%202021%20FINAL%20(locked)%2019%20Feb%202021(401228580.1).pdf  
+ 
+Base prospectus dated and published 21 February 2020 
+ 
+ 
+General terms and conditions (Allmänna villkor för lån under MTN-programmet), p. 11-23. 
+ 
+Form of final terms (Mall för slutliga villkor), p. 24-26.  
+Link: 
+ 
+https://www.latour.se/sites/latour-corp/files/latour-se/investor-relations/mtn-programme/latour---
+grundprospekt-21-februari-2020-4.pdf  
+ 
+Base prospectus dated and published 19 February 2019 
+ 
+ 
+General terms and conditions (Allmänna villkor för lån under MTN-programmet), p. 13-25. 
+ 
+Form of final terms (Mall för slutliga villkor), p. 26-28.  
+Link: 
+https://www.latour.se/sites/latour-corp/files/latour-se/investor-relations/mtn-programme/prospekt-
+2019-2.pdf  
+ 
+Base prospectus dated and published 19 February 2018 
+ 
+ 
+General terms and conditions (Allmänna villkor för lån under MTN-programmet), p. 13-25. 
+ 
+Form of final terms (Mall för slutliga villkor), p. 26-28.  
+Link: 
+https://www.latour.se/sites/latour-corp/files/latour-se/investor-relations/mtn-programme/latour---
+prospekt-final-version-1.pdf
+
+--- Page 52 ---
+51 
+ 
+ 
+LEGAL INFORMATION REGARDING THE BASE PROSPECTUS 
+ 
+Approval of the Base Prospectus 
+The Base Prospectus has been approved by the Swedish Financial Supervisory Authority (Sw. Finansinspektionen) 
+(the "SFSA") as the competent authority under Regulation (EU) 2017/1129 (the “Prospectus Regulation”). The SFSA 
+approves the Base Prospectus as meeting the standards for completeness, comprehensibility and consistency set out 
+in the Prospectus Regulation. This approval should not be considered as an endorsement of the Company or, the 
+Dealers or for the quality of the securities referred to in the Base Prospectus. Investors should make their own 
+assessment of whether it is appropriate to invest in the securities. 
+ 
+Period of validity of the Base Prospectus 
+The Base Prospectus is valid for 12 months from the date of the approval, provided that the Company fulfils the 
+obligation under the Prospectus Regulation, if applicable, to supplement the Base Prospectus in the event of 
+significant new factors, material mistakes or material inaccuracies. The Company is under no obligation to prepare 
+supplements to the Base Prospectus after the validity period has expired. 
+ 
+Declaration of responsibility 
+The Company accepts responsibility for the information contained in the Base Prospectus and declares that, to the 
+best of the Company's knowledge, the information contained in the Base Prospectus is in accordance with the facts 
+and the Base Prospectus makes no omission likely to affect its import. The Board of Directors of the Company is, 
+to the extent provided by law, responsible for the information contained in the Base Prospectus and declares that, 
+to the best of their knowledge, the information contained in the Base Prospectus is in accordance with the facts 
+and contains no omission likely to affect its import.  
+ 
+The documents incorporated by reference are also included as part of the Base Prospectus, see the section 
+“Documents incorporated by reference”. In addition to these documents, supplementary prospectuses that the 
+Company may publish, as well as the Final Terms for a completed issue, must also be read as part of the Base 
+Prospectus. 
+ 
+Information from third parties 
+The information that the Company has provided in the Base Prospectus regarding credit ratings, in the section 
+“Legal issues and supplementary information - Credit ratings”, refers to information acquired from a third party. 
+Information from third parties has been accurately reproduced and, as far as the Company is aware and is able to 
+ascertain from information published by such third parties, no facts have been omitted which would render the 
+reproduced information inaccurate or misleading, However, the Company has not independently verified the 
+information and therefore the accuracy and completeness cannot be guaranteed. 
+ 
+Available documents 
+Copies of the memorandum and Articles of Association of the Company can be accessed on the Company’s website, 
+www.latour.se, throughout the period of validity of the Base Prospectus. 
+ 
+Other information 
+For further information about the MTN-Programme and to obtain the Base Prospectus, please refer to the Company’s 
+website, www.latour.se, or the Dealers. The Base Prospectus is also available on the SFSA’s website, 
+https://fi.se/en/our-registers/prospektregistret/ as well as the European Securities and Markets Authority’s 
+website, www.esma.europa.eu. The Final Terms for MTN admitted to trading on a Regulated Market are published 
+on the Company’s website. 
+ 
+References to websites 
+Readers of the Base Prospectus should note that the information on the Company’s website, www.latour.se or 
+equivalent links referring to all or part of the Company’s website, does not form a part of the Base Prospectus unless 
+this information is incorporated into the Base Prospectus by reference, see the section “Documents incorporated by 
+reference”. The same applies to references submitted to websites provided by third parties. Information on the 
+Company’s or a third party’s website has not been reviewed or approved by the SFSA.
+
+--- Page 53 ---
+52 
+ 
+ 
+ADDRESSES 
+ 
+ 
+The Company 
+ 
+Investment AB Latour (publ) 
+J A Wettergrens gata 7 
+Box 336 
+401 25 Gothenburg 
++46 31 89 17 90  
+www.latour.se 
+ 
+Arranger 
+Svenska Handelsbanken AB (publ) 
+Handelsbanken Capital Markets 
+Blasieholmstorg 11  
+106 70 Stockholm 
+www.handelsbanken.se  
+ 
+Legal advisor to the Company 
+Baker McKenzie 
+Vasagatan 7 
+Box 180, 101 23 Stockholm 
+www.bakermckenzie.com 
+ 
+Central Securities Depositary 
+Euroclear Sweden AB  
+Klarabergsviadukten 63 
+Box 191 
+101 23 Stockholm 
++46 8 402 90 00 
+www.euroclear.eu 
+Dealers 
+For purchases and sales, please contact: 
+ 
+Svenska Handelsbanken AB (publ) 
+Blasieholmstorg 11 
+106 70 Stockholm 
+Credit Sales   
++46 8 463 46 50 
+www.handelsbanken.se  
+ 
+Skandinaviska Enskilda Banken AB (publ) 
+Kungsträdgårdsgatan 8  
+106 40 Stockholm 
+Stockholm 
+ 
++46 8 506 232 09 
+www.seb.se
