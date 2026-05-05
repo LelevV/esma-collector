@@ -1,0 +1,3010 @@
+--- Page 1 ---
+Vitec Software Group AB (publ) 
+ 
+Base prospectus  
+ 
+Maximum SEK 5,000,000,000 MTN programme  
+(or the equivalent amount in EUR) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Arranger and Dealer 
+Skandinaviska Enskilda Banken AB (publ) 
+Dealer 
+Nordea Bank Abp 
+ 
+ 
+This base prospectus was approved by the Swedish Financial Supervisory Authority on 7 February 2025. The validity of 
+this base prospectus will expire twelve (12) months after the date of its approval. The obligation to supplement this base 
+prospectus in the event of significant new factors, material mistakes or material inaccuracies will not apply when this base 
+prospectus is no longer valid.
+
+--- Page 2 ---
+2 
+IMPORTANT INFORMATION 
+This base prospectus (the “Prospectus”) has been prepared by Vitec 
+Software Group AB (publ) in relation to a programme for issuances of 
+notes in Swedish kronor (“SEK”) or euro (“EUR”) with different 
+maturities but with a minimum term of one (1) year (the “MTN 
+Programme” and the “Notes”). Notes may be issued in a minimal 
+nominal amount of EUR 100,000 or the equivalent amount in SEK. 
+Vitec Software Group AB (publ) may at one or more occasions issue 
+Notes under this MTN Programme until the total outstanding nominal 
+amount under such issues equals SEK 5,000,000,000 or the equivalent 
+amount in EUR. Notes may be issued with fixed interest rate, floating 
+interest rate or as zero coupon Notes.  
+In this Prospectus, depending on the context, “Vitec”, the 
+“Company”, the “Issuer” and the “Group” refers to Vitec Software 
+Group AB (publ), a Swedish public limited liability company with reg. 
+no. 556258-4804, or the group in which Vitec Software Group AB 
+(publ) is the parent company. 
+This Prospectus has been approved and registered by the 
+Swedish Financial Supervisory Authority (Sw. Finansinspektionen) 
+(the “SFSA”) as competent authority under Regulation (EU) 2017/1129 
+of the European Parliament and of the Council of 14 June 2017, as 
+amended (the “Prospectus Regulation”). This Prospectus is a base 
+prospectus pursuant to Article 8 of the Prospectus Regulation. 
+Concepts and terms defined in the general terms and conditions 
+for the MTN Programme (the “General Terms and Conditions”) 
+and the final terms for the applicable Notes issue under the MTN 
+Programme (the “Final Terms”) are used with the same meaning 
+throughout the entire Prospectus unless otherwise is understood from 
+the context or otherwise defined in this Prospectus. This Prospectus is 
+not a recommendation to subscribe for or to acquire Notes issued under 
+the MTN Programme. Any recipients of this Prospectus and/or Final 
+Terms must make their own assessment of the Issuer and the Group 
+and this Prospectus shall be read in conjunction with any documents 
+incorporated by reference, the applicable Final Terms and any 
+supplements to this Prospectus. Unless otherwise explicitly stated, no 
+information contained in this Prospectus has been audited or reviewed 
+by the Issuer’s auditor. Certain financial information in this Prospectus 
+may have been rounded off and, as a result, the numerical figures shown 
+as totals in this Prospectus may vary slightly from the exact arithmetic 
+aggregation of the figures that precede them. 
+This Prospectus may not be distributed in the United States (or 
+to any U.S. person) or in any other jurisdiction where such distribution 
+or disposal requires additional prospectus, registration or additional 
+measures or is contrary to the rules and regulations in such jurisdiction. 
+Persons into whose possession this Prospectus may come are required 
+to inform themselves about, and comply with, such restrictions. Any 
+failure to comply with such restrictions may result in a violation of 
+applicable securities regulations. The Notes have not been and will not 
+be registered under the U.S. Securities Act of 1933, as amended (the 
+“U.S. Securities Act”), or any U.S. state securities laws and are 
+subject to U.S. tax law requirements. The Notes may not be offered, sold 
+or delivered within the United States of America or to, or for the account 
+or benefit of, U.S. persons (as defined in Rule 902 of Regulation S under 
+the U.S. Securities Act) except pursuant to applicable exemptions. 
+Accordingly, the Issuer is offering the Notes only (1) to Qualified 
+Institutional Buyers within the meaning of Rule 144A under the U.S. 
+Securities Act and (2) outside the United States to non-U.S. persons in 
+reliance on Regulation S under the U.S. Securities Act. No person has 
+been authorised to provide any information or make any statements 
+other than those contained in this Prospectus. Should such information 
+or statements nevertheless be furnished, it/they must not be relied 
+upon as having been authorised or approved by the Issuer and the 
+Issuer assumes no responsibility for such information nor statements. 
+Neither the publication of this Prospectus nor the offering, sale or 
+delivery of any Notes implies that the information in this Prospectus is 
+correct and current as at any other date than the date of this Prospectus 
+or that there have not been any changes in the Group’s business since 
+the date of this Prospectus. If the information in this Prospectus 
+becomes subject to any material change, such material change will be 
+made public in accordance with the provisions governing the 
+publication of supplements to Prospectuses in the Prospectus 
+Regulation. 
+The Final Terms in respect of any Notes will include the target 
+market assessment in respect of the Notes and appropriate channels for 
+distribution of the Notes. Any person subsequently offering, selling or 
+recommending the Notes (a “distributor”) should take into 
+consideration the target market assessment. However, a distributor 
+subject to Directive 2014/65/EU (as amended, “MiFID II”) is 
+responsible for undertaking its own target market assessment in respect 
+of the Notes (by either adopting or refining the target market 
+assessment) and determining appropriate distribution channels. For 
+the purpose of the MiFID Product Governance rules under EU 
+Delegated Directive 2017/593 (the “MiFID Product Governance 
+Rules”), a determination will be made in relation to each issue about 
+whether the Arranger or any Dealer participating in the issue of the 
+Notes is a manufacturer in respect of such Notes. Neither the Arranger 
+or the Dealers nor any of their respective affiliates that do not 
+participate in an issue will be a manufacturer for the purpose of the 
+MiFID Product Governance Rules. 
+This Prospectus may contain forward-looking statements and 
+assumptions regarding future market conditions, operations and 
+results. Such forward-looking statements and information are based on 
+the beliefs of the Issuer’s management or are assumptions based on 
+information available to the Group. The words “considers”, “intends”, 
+“deems”, “expects”, “anticipates”, “plans” and similar expressions 
+indicate some of these forward-looking statements. Other such 
+statements may be identified from the context. Any forward-looking 
+statements in this Prospectus involve known and unknown risks, 
+uncertainties and other factors which may cause the actual results, 
+performances or achievements of the Group to be materially different 
+from any future results, performances or achievements expressed or 
+implied by such forward-looking statements. Further, such forward-
+looking statements are based on numerous assumptions regarding the 
+Group’s present and future business strategies and the environment in 
+which the Group will operate in the future. Although the Issuer believes 
+that the forecasts or indications of future results, performances and 
+achievements are based on reasonable assumptions and expectations, 
+they involve uncertainties and are subject to certain risks, the 
+occurrence of which could cause actual results to differ materially from 
+those predicted in the forward-looking statements and from past 
+results, performances or achievements. Further, actual events and 
+financial outcomes may differ significantly from what is described in 
+such statements as a result of the materialisation of risks and other 
+factors affecting the Group’s operations. Such factors of a significant 
+nature are mentioned in Section ‘Risk factors’ below. 
+This Prospectus is governed by Swedish law. Disputes 
+concerning, or related to, the contents of this Prospectus shall be 
+subject to the exclusive jurisdiction of the courts of Sweden. The District 
+Court of Stockholm (Sw. Stockholms tingsrätt) shall be the court of first 
+instance. The Prospectus is available at the SFSA’s website (www .fi. se) 
+and the Issuer’s website (www.vitecsoftware.com).
+
+--- Page 3 ---
+3 
+TABLE OF CONTENTS 
+General description of the MTN Programme ......................................................................................................... 4 
+Risk factors ............................................................................................................................................................... 9 
+General Terms and Conditions .............................................................................................................................. 22 
+Form of Final Terms............................................................................................................................................... 40 
+Description of the Issuer and the Group ............................................................................................................... 44 
+Share capital, shares and ownership structure ..................................................................................................... 48 
+Board of Directors, Group Management and auditors ......................................................................................... 50 
+Financial information ............................................................................................................................................ 53 
+Legal considerations and supplementary information ......................................................................................... 57 
+Addresses ................................................................................................................................................................ 58
+
+--- Page 4 ---
+4 
+GENERAL DESCRIPTION OF THE MTN PROGRAMME 
+This section contains a general and broad description of the MTN Programme and the Notes. It does not 
+provide a comprehensive or complete description of the MTN Programme and the Notes, and potential 
+investors should carefully review the information contained in this Prospectus as a whole, including the 
+information incorporated into this Prospectus by reference, before a decision is made to invest in the Notes. 
+General 
+Issuer 
+Vitec Software Group AB (publ), Swedish reg. no. 556258-4804. 
+Corporate resolution 
+Pursuant to an authorisation resolved by the Issuer’s Board of Directors on 4
+February 2025, Olle Backman (CEO) and Lars Stenlund (Chairman of the Board) 
+resolved to establish this MTN Programme on 7 February 2025. 
+General information
+on the MTN 
+Programme 
+The Issuer has established this MTN Programme for the purpose of issuing Notes 
+in SEK or EUR with different maturities but with a minimum term of one (1) year. 
+Notes may be issued in a minimal nominal amount of EUR 100,000 or the 
+equivalent amount in SEK. The Issuer may at one or more occasions issue Notes 
+under this MTN Programme until the total outstanding nominal amount under 
+such issues equals SEK 5,000,000,000 or the equivalent amount in EUR. Notes 
+may be issued with fixed interest rate, floating interest rate or as zero coupon 
+Notes. Each Loan is given a specific loan identification number (ISIN) in the 
+applicable Final Terms. 
+General Terms and 
+Conditions and the 
+Final Terms 
+Notes issued under this MTN Programme are governed by the General Terms and 
+Conditions and the applicable Final Terms. The General Terms and Conditions 
+apply to all Notes issued under this MTN Programme. For each individual Loan 
+under the MTN Programme, Final Terms are established in accordance with the 
+form of Final Terms set out in the section ‘Form of Final Terms’ in this Prospectus. 
+The Final Terms include supplementary terms and conditions for the individual 
+Loan to which they apply and must be read in conjunction with the General Terms 
+and Conditions. The Issuer will make the applicable Final Terms publicly available 
+on the Issuer’s website (www.vitecsoftware.com) and submit the applicable Final 
+Terms to the SFSA. 
+Arranger and Dealers 
+The Issuer has appointed Skandinaviska Enskilda Banken AB (publ) as Arranger 
+of the MTN Programme and has appointed Skandinaviska Enskilda Banken AB 
+(publ) and Nordea Bank Abp as Dealers under the MTN Programme. Additional 
+Dealers may be appointed, and a Dealer may withdraw from its appointment. The 
+Arranger and the Dealers have not verified and are not responsible for the contents 
+of this Prospectus. 
+Form of the Notes
+Notes will be issued in dematerialised book-entry form and registered on 
+securities accounts maintained with Euroclear Sweden AB in accordance with the 
+Swedish Central Securities Depositories and Financial Instruments Accounts Act. 
+No physical Notes will be issued. Euroclear Sweden AB’s business address is 
+Klarabergsviadukten 63, 101 23 Stockholm, Sweden. The Notes constitute debt 
+instruments (Sw. skuldförbindelser) of the type set forth in Chapter 1 Section 3 of 
+the Swedish Central Securities Depositories and Financial Instruments Accounts 
+Act (Sw. lag (1998:1479) om värdepapperscentraler och kontoföring av
+
+--- Page 5 ---
+5 
+finansiella instrument). Registration requests relating to the Notes shall be 
+directed to an Account Operator. Payment of principal, interest and, if applicable 
+any withholding tax will be made through Euroclear Sweden AB’s book-entry 
+system. 
+Status
+The Notes constitute direct, unconditional, unsubordinated and unsecured debt 
+obligations of the Issuer and shall at all times rank pari passu and without any 
+preference among themselves and shall rank at least pari passu with the Issuer’s 
+other unsubordinated and unsecured payment obligations, save for such 
+obligations as may be preferred by provisions of mandatory law. 
+Use of proceeds
+The proceeds received by the Issuer under this MTN Programme shall be applied 
+towards general corporate purposes of the Group or as specified in the Final Terms 
+for the applicable Notes. 
+Price and interest
+The price of and the interest (if any) applicable to the Notes cannot be established 
+in advance but is set in connection with the relevant issue on the basis of prevailing 
+market conditions. The Notes may be issued at a price equivalent to, below or 
+above the relevant Nominal Amount. The interest (if any) applicable to the Notes 
+depends on several factors, one of which is the interest rate applicable to other 
+investments with a corresponding term. Notes may be issued with fixed interest 
+rate, floating interest rate or as zero coupon Notes. 
+Tax
+Euroclear Sweden AB deducts withholding tax, presently thirty (30.00) per cent. 
+on interest paid to private individuals resident in Sweden as well as to Swedish 
+estates of inheritance. 
+The above description does not constitute tax advice. The description is not 
+exhaustive, but it is rather intended as general information on certain applicable 
+rules. The tax legislation of the Noteholder’s member state may also have an 
+impact on the income from the Notes. Noteholders must assess the tax 
+consequences that may arise and consult a tax adviser in the process. 
+Transfer restrictions
+The Notes are freely transferable, but the Noteholders may be subject to purchase 
+or transfer restrictions (due to, e.g., the Noteholder’s nationality, residency, 
+registered address or place(s) of business) with regard to the Notes, as applicable, 
+under local regulations to which a Noteholder may be subject. Each Noteholder 
+must ensure compliance with such restrictions at its own costs and expense. The 
+Notes have not been, and will not be, registered under the U.S. Securities Act or 
+the securities laws of any other jurisdiction. 
+Admission to trading
+Application for admission to trading of the Notes on the corporate bond list of 
+Nasdaq Stockholm or any other Regulated Market will be made in accordance with 
+the applicable Final Terms. The applicable Regulated Market will carry out its own 
+assessment of the application and will approve or reject the admission to trading. 
+The Issuer is responsible for all costs associated with the admission to trading of 
+Notes under this MTN Programme. 
+Governing law
+This MTN Programme, the General Terms and Conditions, the applicable Final 
+Terms and any non-contractual obligations arising out of or in connection 
+therewith are governed by Swedish law. Disputes shall be settled by Swedish
+
+--- Page 6 ---
+6 
+courts. The District Court of Stockholm (Sw. Stockholms tingsrätt) will be the
+court of first instance. 
+Time-bar for claims
+Claims for repayment of principal shall be time-barred and become void ten (10) 
+years from the Maturity Date. Claims for interest shall be time-barred and become 
+void three (3) years after each relevant Interest Payment Date. If a limitation 
+period is duly interrupted in accordance with the Swedish Act on Limitations (Sw. 
+preskriptionslag (1981:130)), a new limitation period of ten (10) years with 
+respect to the right to receive repayment of the principal, and of three (3) years 
+with respect to receive payment of interest will commence, in both cases calculated 
+from the date of interruption of the limitation period, as such date is determined 
+pursuant to the provisions of the Swedish Act on Limitations. 
+Evaluation of risks
+Investing in the Notes involves substantial risks, and potential investors should 
+refer to the Section ‘Risk Factors’ below for a presentation of some of the risks that 
+they should carefully consider before deciding to invest in the Notes. Each 
+potential investor in the Notes must individually determine the suitability of an 
+investment in the Notes in light of its own circumstances. In particular, each 
+potential investor should:  
+(i) 
+have sufficient knowledge and experience to make a meaningful 
+evaluation of the Notes, the merits and risks of investing in the Notes 
+and of the information contained in this Prospectus, including the 
+information incorporated into this Prospectus by reference, and any 
+supplement to this Prospectus; 
+(ii) 
+have access to appropriate analytical tools and knowledge of how to 
+use them to evaluate, in the context of the potential investor’s 
+particular financial situation, an investment in the Notes and the 
+impact the Notes will have on the potential investor’s overall 
+investment portfolio;  
+(iii) 
+have sufficient financial resources and liquidity to bear all of the risks 
+of an investment in the Notes;  
+(iv) 
+understand thoroughly the General Terms and Conditions and the 
+applicable Final Terms; and  
+(v) 
+be able to evaluate (either alone or with the help of financial advisors) 
+possible scenarios for economic and other factors (including as 
+regards interest rates) that may affect an investment in the Notes and 
+the potential investor’s ability to bear the applicable risks. 
+Personal data
+The Issuer, the Dealers and the Administrative Agent may collect and process 
+personal data relating to Noteholders. The processing of personal data is based on 
+the legitimate interest of the Issuer, the Dealers and/or the Administrative Agent 
+in order to exercise their respective rights and/or fulfil their respective obligations 
+in relation to the MTN Programme and Notes, as well as the Issuer’s, the Dealer’s 
+and the Administrative Agent’s obligations pursuant to applicable legislation. 
+Collected personal data will only be stored as long as necessary based on the 
+purpose of the processing, unless otherwise is required or permitted by law. For 
+more information regarding the processing of personal data, please visit the 
+Issuer’s, the Dealer’s and the Administrative Agent’s websites.
+
+--- Page 7 ---
+7 
+Product description 
+This section contains a general description of the terms applicable to an issue of Notes under this MTN 
+Programme. The final terms of each Notes are set out in the applicable Final Terms. 
+Repayment and 
+redemption 
+The Nominal Amount of the Notes (together with accrued interest, if any) falls due for 
+repayment on the Maturity Date as specified in the Final Terms. Should the Maturity 
+Date fall on a date which is not a Business Day, the Notes will be repaid on the 
+following Business Day. 
+Interest structure
+Under this MTN Programme and in accordance with Clause 6 (Interest) of the General 
+Terms and Conditions, the Notes may be issued with fixed interest rate, floating 
+interest rate or zero coupon. The applicable interest rate is specified in the applicable 
+Final Terms. 
+Fixed interest rate
+For Notes with a fixed interest rate, interest accrues in accordance with the rate 
+specified in the applicable Final Terms from (but excluding) the Interest 
+Commencement Date, up to (and including) the relevant Maturity Date. 
+Accrued interest for Notes with a fixed interest rate shall be paid in arrears on each 
+Interest Payment Date and is calculated using the Day Count Convention specified in 
+the applicable Final Terms. 
+Floating interest 
+rate 
+For Notes with a floating interest rate, interest accrues in accordance with the rate 
+specified in the applicable Final Terms from (but excluding) the Interest 
+Commencement Date, up to (and including) the relevant Maturity Date. 
+The interest rate for Notes with a floating interest rate is calculated by the 
+Administrative Agent on the respective Interest Determination Date as the sum of the 
+Base Rate and the Margin for the relevant period, adjusted for the application of 
+Section 13 (Replacement of Base Rate) of the General Terms and Conditions. If the 
+calculation of the interest rate entails a value lower than zero, the interest rate will be 
+considered to be zero. Accrued interest for Notes shall be paid in arrears on each 
+Interest Payment Date and is calculated using the Day Count Convention specified in 
+the applicable Final Terms. 
+Zero coupon
+If the Loan is specified as a zero coupon it bears no interest. Loans with zero coupon 
+may be issued at a discount, par or premium. 
+Benchmark 
+Regulation 
+Floating interest payable on Notes issued under this MTN Programme may be 
+calculated by reference to certain benchmarks, being STIBOR and EURIBOR, as 
+defined in the General Terms and Conditions (however subject to Clause 13 
+(Replacement of Base Rate)). EURIBOR is provided by the European Money Market 
+Institute and STIBOR is provided by Swedish Financial Benchmark Facility AB. 
+Should a Base Rate Event occur in accordance with Clause 13 (Replacement of Base 
+Rate), certain fall-back provisions will be effectuated securing that an Alternative Base 
+Rate or Successor Base Rate is determined in order to maintain transparency and 
+predictability in the calculation metrics of relevant benchmarks for Notes bearing 
+floating rate interest. 
+The European Money Market Institute and Swedish Financial Benchmark Facility are 
+registered in the register of administrators and benchmarks maintained by the
+
+--- Page 8 ---
+8 
+European Securities and Markets Authority (ESMA) pursuant to Article 36 of 
+Regulation (EU) 2016/1011 on indices used as benchmarks in financial instruments 
+and financial contracts or to measure the performance of investment funds (the 
+“Benchmark Regulation”). 
+Day Count 
+Convention 
+Unless otherwise specified in the relevant Final Terms, the following Day Count
+Conventions will be used for the calculation of interest under this MTN Programme. 
+30/360: The calculation is based on a year of 360 days divided into twelve (12) months
+of thirty (30) days each and in case of a fraction of a month using the actual number of
+days of the month that have passed. 
+Actual/360: The calculation is based on the actual number of days elapsed in the 
+relevant Interest Period, divided by 360. 
+ 
+Undertakings 
+Certain 
+undertakings 
+The General Terms and Conditions contain a number of undertakings that restrict the
+ability of the Issuer and other Group Companies, including, among others: 
+ 
+restrictions on changing the nature of business; 
+ 
+restriction on issuing certain market loans; 
+ 
+restriction on granting security in respect of certain market loans; and 
+ 
+undertaking to admit Loans on a Regulated Market. 
+Each of these undertakings may be subject to significant exceptions and qualifications. 
+See the General Terms and Conditions for more information.
+
+--- Page 9 ---
+9 
+RISK FACTORS 
+An investment in the Notes involves a number of risks and investors may lose part or all of their investments. 
+In this section, risk factors which are specific to Vitec and/or the Notes, and which Vitec deems to be material 
+for taking an informed decision to invest in the Notes and may affect Vitec’s ability to fulfil its obligations 
+under the Notes, are presented. The risk factors are presented in categories and, in each category, the risk 
+factors are ranked by materiality in a descending order based on Vitec’s assessment of the probability of 
+their occurrence and the expected magnitude of their negative impact. Where a risk factor may be 
+categorised in more than one category, such risk factor appears only once and in the most relevant category 
+for such risk factor. The description of each risk factor and Vitec’s assessment of its materiality is based on 
+information available and estimates made on the date of this Prospectus. 
+The below description of risks is not necessarily exhaustive. For example, Vitec also faces risks inherent to its 
+industry and markets (i.e., which are not specific to Vitec or the Notes) and there may be other risks not 
+currently known or not currently deemed material by Vitec. Therefore, potential investors should carefully 
+review the information contained in this Prospectus as a whole and should also make their own evaluations 
+of risks associated with an investment in the Notes and consult their own professional advisors should they 
+deem it necessary. 
+ 
+RISKS RELATING TO BUSINESS, INDUSTRY AND MARKETS 
+Risks relating to acquisitions and strategic investments 
+Vitec is an industrial acquirer of vertical software companies, and it is expected that a large part of the Group’s 
+future growth will come from strategic acquisitions in order to expand the business to offer new products and 
+services. During the financial years 2024 and 2023, Vitec made seven and six acquisitions, respectively. 
+In order for Vitec’s acquisition and investment strategy to be successful and generate profitable growth, Vitec 
+needs to identify suitable companies or businesses to acquire or invest in on relevant geographic markets, 
+perform adequate due diligence reviews, negotiate favourable terms and conditions for each transaction 
+(sometimes in competition with other prospective buyers) as well as obtain necessary permits or governmental 
+approvals (e.g., as regards competition and foreign direct investments). Furthermore, the Group’s acquisitions 
+are largely financed by external financing which, to a certain extent, makes Vitec dependent on access to such 
+external financing for acquisitions. The access to external financing is affected by various factors, including 
+market conditions, general access to loan financing as well as Vitec’s credit rating and credit capacity. 
+Accordingly, disruptions and uncertainties in the capital markets and the credit markets can limit the access 
+to the capital needed for Vitec to be able to acquire companies or make strategic investments. If Vitec is not 
+able to carry out acquisitions or strategic investments in accordance with its acquisition strategy, it may have 
+a material adverse effect on Vitec’s growth. 
+Following an acquisition, there is a risk that Vitec fails to integrate the acquired personnel, business and 
+technology successfully or fails to coordinate the joint businesses following the acquisition in an efficient 
+manner. In addition, there is also a risk that Vitec’s and the acquired businesses’ routines on, e.g., internal 
+governance and control differ or prove to be difficult to unite which could lead to Vitec failing to maintain 
+sufficient governance and control. The Group operates in several different countries, and on a wide range of 
+markets, with cultural and legislative differences which may entail challenges for integration measures. 
+Further, Vitec operates a decentralised governance model and leaves a large portion of the decision-making 
+mandate with each individual business unit while simultaneously striving to achieve a common corporate 
+culture for all business units, and the Group’s internal governance and control is dependent on each individual
+
+--- Page 10 ---
+10 
+business unit complying with Group-wide policies and control checklists. Should the business in any given unit 
+be conducted in a way that is not in line with the Group’s values, internal governance policies or any other 
+control mechanisms, this could lead to data security vulnerabilities, handling of personal data in breach with 
+applicable laws and regulations, deficiencies in routines for financial reporting, corporate misconduct or other 
+negative consequences for the Group’s operations. In addition, the integration process may require more 
+resources than expected or in other ways interfere with Vitec’s operations, for example due to unforeseen issues 
+of a regulatory, legal, contractual or other nature, issues with integration of technical solutions or issues with 
+the realisation of operational synergies. The integration process may also force Vitec to direct monetary and 
+human resources away from other parts of the business, which could, e.g., have a negative effect on Vitec’s 
+service offering and internal governance and control. 
+Should any of these acquisition and investment related risks materialise, it could have a material adverse effect 
+on Vitec’s business and results of operations. Future acquisitions could also result in dilutive issuances of the 
+Group’s equity securities, the incurrence of debt, contingent liabilities, amortisation costs, or impairment of 
+goodwill, any of which could have an adverse effect on the business, operating results, and financial position 
+of the Group. 
+Risks relating to IT, cyber security and system failures 
+As a technology business, the Group depends on a reliable and secure connectivity ensuring availability of the 
+Group’s different platforms. Vitec’s systems and those of its subsidiaries and third-party suppliers may 
+experience service interruptions, denial-of-service and cyberattacks or computer viruses causing system 
+failures, downtime, theft or loss of confidential or other important data or interruptions in the availability of 
+Vitec’s software platform. In addition, human error, floods, fires, natural disasters, power losses, disruptions 
+in telecommunications services, fraud, military or political conflicts, terrorist attacks and other geopolitical 
+unrest or other similar events may affect the availability of the Group’s software platforms, and there is a risk 
+that Vitec’s disaster recovery planning is not sufficient. Vitec develops and delivers software aimed at various 
+functions in society and its customers within, inter alia, energy, insurance, retail, hotels, religious institutions, 
+education and healthcare. For many of Vitec’s customers, service interruptions could have severe consequences 
+as the customers may not be able to carry out its business without Vitec’s services. 
+Some of Vitec’s business units have experienced system failures and other events that have interrupted the 
+availability or reduced the speed or functionality of Vitec’s products and services, and Vitec may experience 
+such events again in the future. Such events could result in significant losses in revenue and/or expenses to 
+repair or replace damaged equipment and systems and remedy any data loss or corruption. A prolonged 
+interruption in the availability, or reduction in the speed or other functionality, of Vitec’s products and services 
+could materially harm Vitec’s reputation and business. Frequent or persistent interruptions in Vitec’s products 
+and services could cause customers to believe that Vitec’s products and services are unreliable, which could 
+result in customers switching to competitors and avoiding Vitec’s products and services. The occurrence of any 
+of such system failures, delays in service or cyberattacks and resulting interruptions in Vitec’s services could 
+have a material adverse effect on Vitec’s business and prospects. 
+Risks relating to dependence on key employees 
+During the financial year 2024, the Group had an average of 1,551 employees. Dedicated employees and 
+committed senior executives play an important role in Vitec achieving its goals. Vitec depends upon the 
+continued services and performance of its key employees, senior executives and skilled personnel. Vitec is inter 
+alia dependent on its professionals within software development, IT, sales, mergers & acquisitions and 
+business integration. Any inability to recruit, develop, engage and retain a sufficient number of qualified 
+employees would materially hinder Vitec’s business by, for example, impairing its ability to successfully 
+develop new services and products offerings or impairing its ability to successfully identify new business
+
+--- Page 11 ---
+11 
+opportunities and execute its strategy and strategic initiatives. In addition, as the process of recruiting and 
+training qualified personnel is often costly in terms of both time and money and can force management to 
+divert attention from other parts of the business, if Vitec’s recruitment and retention efforts are unsuccessful, 
+qualified personnel may not be integrated into Vitec’s workforce in a sufficiently timely manner to meet the 
+needs of the business. The competition for talented, experienced and engaged employees is high. 
+Vitec operates a decentralised governance model and leaves a large portion of the decision-making mandate 
+with each individual business unit. Many business units have key employees who have once founded the 
+business before it was acquired by Vitec or who otherwise have a long experience of the relevant business. 
+These key individuals possess considerable knowledge and experience of the business and markets of the 
+respective business units. In many cases, it could be difficult to replace these entrepreneurs and other key 
+individuals without it having a negative impact on the business unit’s operations. Therefore, it is important for 
+the Group to keep these individuals motivated and to retain their expertise and experience within the Group 
+in order to successfully grow and develop the relevant business units in line with the Group’s strategy. Further, 
+because of Vitec’s decentralised governance model, recruiting and/or retaining skilled and dedicated business 
+unit CEOs and VPOs is crucial to the success of the business unit. Leadership deficiencies in an individual 
+business unit may lead to the business of the business unit being conducted in a way that is not in the best 
+interest of the business unit and/or the Group, or in a way that is not in line with Vitec’s common values, which 
+could have a significant adverse effect on the Group’s business and reputation. The Group’s decentralised 
+governance model also entails challenges as regards exercising central leadership in matters that are common 
+for all of the Group’s business unit, which emphasises the Group’s dependency on recruiting and retaining 
+skilled Group management executives who can exercise effective central leadership where appropriate. 
+If Vitec is not successful in recruiting and retaining key employees and senior executives, it could have a 
+material adverse effect on the Group’s operations, result and financial position. 
+Risks relating to errors and defects in software 
+Software such as Vitec’s may contain errors, defects, security vulnerabilities or bugs that are difficult to detect 
+and correct, particularly when first introduced or when new versions or enhancements are released. Despite 
+internal testing, Vitec’s software platforms or systems may contain serious errors or defects, security 
+vulnerabilities or software bugs that Vitec may be unable to successfully correct in a timely manner or at all, 
+which could result in a loss of revenue, theft or loss of data (including personal data), significant expenditures 
+of capital and damage to Vitec’s reputation and brand, any of which could have an adverse effect on Vitec’s 
+business. In addition, errors, defects, security vulnerabilities, service interruptions or software bugs could have 
+adverse effects on Vitec’s customers, suppliers and partners, and they may seek compensation for losses 
+suffered or cease conducting business with Vitec altogether. There is also a risk that provisions, which typically 
+are included in Vitec’s agreements to attempt to limit Vitec’s exposure to claims, are unenforceable, inadequate 
+or would not otherwise protect Vitec from liabilities or damages with respect to any particular claim. Even if 
+not successful, a claim brought against Vitec by any of its customers, suppliers or partners would likely be time 
+consuming and costly for Vitec to defend itself against and could seriously damage Vitec’s reputation and 
+brand, making it harder for Vitec to sell its products and services. The loss of business or brand reputation 
+suffered as a result of any such errors, defects or bugs in Vitec’s platform or systems, as well as the costs 
+associated with repairing these defects and defend or settle against claims, could have material adverse effects 
+on Vitec business, results of operations and prospects. 
+Risks relating to brand and reputation 
+A key part in Vitec’s success is dependent on Vitec’s ability to maintain, promote and grow its brand image and 
+reputation. Vitec’s operations and prospects would be adversely affected if it fails to achieve these objectives 
+or if, whether or not justified, the reputation or perception of the Vitec brand is materially tarnished or receives
+
+--- Page 12 ---
+12 
+extensive negative publicity, regardless of whether such negative publicity is a consequence of Vitec’s and its 
+employees’ own actions, a partner’s actions or otherwise. For example, there is a risk that Vitec’s customers 
+use Vitec’s products and services for non-permitted purposes, which could damage Vitec’s reputation and 
+brand image. Furthermore, extensive negative publicity regarding regulatory or legal actions against Vitec 
+could damage Vitec’s reputation and brand image, undermine suppliers’, partners’, customers’ and other 
+stakeholders’ confidence in Vitec and reduce the demand for Vitec’s products and services, even if the 
+regulatory or legal action is unfounded or not material to its operations. The degree to which a harmed 
+reputation may affect Vitec is uncertain and presents a significant risk to the demand for Vitec’s services.  
+In addition, Vitec’s success in maintaining, promoting and growing its brand image and reputation depends 
+on its ability to adapt to a rapidly changing media environment, including reliance on social media and online 
+dissemination of advertising campaigns. Negative posts or comments about Vitec on social media and other 
+websites could seriously damage Vitec’s reputation and brand image which in turn could have a material 
+adverse effect on Vitec’s business and prospects. 
+Risks relating to competition 
+Vitec operates in a large number of niche markets for vertical software. Each niche market usually contains a 
+number of competitors that specialise in industry-specific applications, as generic software generally provides 
+less cost-efficient solutions to the unique requirements of the specific vertical market. Vitec strives to achieve 
+a leading position within each of its niche markets. There is however a risk that Vitec is not successful in 
+achieving and maintaining leading market positions. 
+There is a risk that Vitec may face increased competition in both existing and new markets, e.g., from larger 
+and/or more effective companies with greater financial, technological and marketing resources and sizeable 
+market shares, including from new market participants that are not currently present or not materially present 
+in Vitec’s markets. The market for vertical software is constantly evolving and there is a risk that the Group’s 
+competitors may be able to invest greater resources in product development and respond more quickly to new 
+technologies or processes and changes in customer demands than Vitec. For example, the Group’s competitors 
+may be able to provide more attractive solutions than the Group by utilising, e.g., new technologies based on 
+artificial intelligence that may not be available to Vitec at all or at an acceptable cost. They may also be able to 
+devote greater resources to the development, promotion and sale of their services than the Group and/or to 
+offer more competitive prices. In addition, the Group’s current and potential competitors may make strategic 
+acquisitions or establish partnerships among themselves or with third parties that increase their ability to 
+address the needs of the customers in the Group’s markets. Accordingly, there is a risk that Vitec is not 
+successful in developing its offering and staying relevant to customers and/or that it is less successful than its 
+competitors in this respect. 
+If Vitec is unable to differentiate the Group’s offering from that of its competitors or if competitors are better 
+able to utilise their advantages, Vitec may not be able to attract and retain customers, partners and suppliers. 
+Furthermore, if competitive pressure causes Vitec to reduce its prices or increase its revenue share with 
+suppliers and/or partners in order to attract or retain customers, partners and suppliers, Vitec may be unable 
+to reduce its costs in order to maintain profit margins. The degree to which market competition may affect 
+Vitec is uncertain and presents a significant risk to Vitec’s net sales and profit margins. 
+Risks relating to future growth and customers 
+Vitec has experienced substantial revenue growth in recent years. During the financial years 2024 and 2023, 
+Vitec’s net sales grew with 20 per cent and 40 per cent, respectively. However, this growth may not continue 
+in the future as a consequence of, e.g., existing contracts being terminated or becoming less profitable and 
+Vitec being unsuccessful in attracting new customers.
+
+--- Page 13 ---
+13 
+Vitec’s business model is based on a high percentage of recurring revenues as the majority of Vitec’s software 
+is distributed to over 25,000 customers as ‘software as a service’ (SaaS) based on a subscription model. Vitec’s 
+customer agreements typically entitle the customer to terminate the subscription with relatively short notice 
+and the inconvenience for the customer associated with losing access to the relevant software and, potentially, 
+switching to a corresponding product or service provided by one of Vitec’s competitors may not be sufficient 
+to serve as a deterrent. Hence, there is a risk that existing subscriptions are terminated. A decision by a 
+customer to terminate its subscription with Vitec (with or without switching to a competing product or service) 
+may be a result of a number of factors, including factors related to customer satisfaction with Vitec’s products 
+and services (including support services), pricing and quality of Vitec’s products and services as compared to 
+competitors’ products and services, the general demand for access to vertical software and changes in global 
+economic conditions or the regulatory landscape. Furthermore, in order to retain existing customers in 
+connection with future contract renewals, Vitec may be forced to accept less favourable commercial terms, 
+resulting in smaller profit margins for Vitec going forward. 
+The growth of Vitec’s business is also dependent on Vitec’s ability to attract and acquire new customers within 
+both existing and new markets. There is however a risk that Vitec fails to do so, as a result of, e.g., Vitec being 
+unsuccessful in updating and expanding its offering of products and services. It could also be difficult for Vitec 
+to determine the optimal prices for its products and services, especially when expanding its business in new 
+geographic areas. Vitec has changed its pricing model from time to time and expects to do so in the future. If 
+Vitec does not offer its products and services at the optimal price, especially in markets where Vitec faces 
+significant competition, there is a risk that Vitec may be unable to attract new customers or encourage existing 
+customers to expand their use of Vitec’s products and services. 
+If a substantial amount of Vitec’s existing customer contracts would be terminated or would become less 
+profitable, and/or if Vitec would fail to attract new customers to a sufficient degree, Vitec’s rate of growth, 
+business, long-term revenue, results of operations and financial position would be materially adversely 
+affected. 
+Risks relating to suppliers and other third parties 
+Vitec is dependent on certain third parties to provide solutions which are key to Vitec’s products and services 
+offering. For example, Vitec enters into agreements with landlords regarding office premises and with 
+suppliers of, inter alia, electricity, information services, travel, electronics, computers, telephony, office 
+supplies, software components and data centres. Vitec’s ability to renew existing agreements with suppliers 
+and partners, or to enter into new contractual relationships upon the expiration of such agreements, either on 
+commercially attractive terms or at all, depends on a range of commercial and operational factors and events, 
+some of which may be beyond Vitec’s control – for example, the willingness of such parties to enter into new 
+agreements, the demand for the products and services of such parties or general economic conditions. In the 
+event Vitec’s current agreements with third parties terminate and Vitec is unable to replace such third-party 
+suppliers and partners at acceptable prices or within a reasonable amount of time, Vitec could experience 
+material adverse interruptions in its services. In addition, in the event that third parties fail to provide these 
+services adequately, including as a result of errors in their systems or events beyond their control, or refuse to 
+provide these services on terms acceptable to Vitec or at all, and Vitec is not able to find suitable alternatives, 
+this could harm Vitec’s relationship with its customers and damage its reputation and brand image, and have 
+a material adverse effect on Vitec’s business and results of operations.
+
+--- Page 14 ---
+14 
+LEGAL, REGULATORY AND TAX RELATED RISKS 
+Risks relating to processing of personal data 
+Vitec processes a large amount of personal data, mainly in relation to its employees and, to some extent, Vitec’s 
+customers and their customers and participants. When Vitec processes personal data, it is of great importance 
+that the processing is conducted in accordance with applicable laws, regulations and authorities’ guidelines on 
+the protection of personal data, including Swedish law and Regulation (EU) 2016/679 of the European 
+Parliament and of the Council of 27 April 2016 (General Data Protection Regulation, “GDPR”). Under the 
+GDPR, there are, for example, strict requirements to inform individuals what personal data are processed by 
+Vitec and that such processing takes place in a manner compatible with the purpose under which the collection 
+of personal data was conducted. 
+In the event that the Swedish Authority for Privacy Protection (Sw. Integritetsskyddsmyndigheten), any other 
+relevant supervisory authority or anyone else would deem that Vitec is, or has in the past been, processing 
+personal data improperly, or if a data breach occurs due to, e.g., security deficiencies which lead to unlawful 
+dissemination or processing of personal data, this could result in administrative sanction fees due to violations 
+of the GDPR or other legal sanctions. Since Vitec processes a large amount of personal data as part of its 
+operations, any improper or unlawful processing could also lead to a significant number of individuals being 
+affected and, as such, there is a risk that potential administrative sanction fees and/or other legal sanctions or 
+claims from relevant supervisory authorities or other relevant parties could have a material adverse effect on 
+Vitec’s business and results of operations. In addition, any violations of applicable laws and regulations 
+regarding the protection of personal data as a result of events both within and outside of Vitec’s control may 
+adversely affect Vitec’s reputation and brand image. 
+Also, due to Vitec’s international operations, the applicable laws, regulations and authorities’ guidelines in 
+Vitec’s different jurisdictions may, for example, have differing or conflicting provisions in relation to Vitec’s 
+handling of personal data. This risk is enhanced as the requirements under applicable laws, regulations and 
+authorities’ guidelines on the protection of personal data, including Swedish law and the GDPR, are subject to 
+changes. There has, e.g., also been recent developments in relevant controller/processor guidelines relating to 
+the GDPR that alter the classification of such roles. While Vitec continuously works towards ensuring its 
+compliance, Vitec may be adversely affected by previous or future changes in applicable rules and regulations 
+or changes in relevant supervisory authorities’ interpretations of such rules and regulations. There is a risk 
+that stricter or changed laws, regulations or authorities’ guidelines on or interpretations of, e.g., the ability to 
+transfer personal data to third countries, controller/processor roles or to render pseudonymised data and 
+share such data with customers in any of the markets in which Vitec operates adversely affects Vitec’s products 
+and services. 
+Compliance risks 
+Vitec is subject to various rules and regulations in the different jurisdictions in which the Group conducts its 
+business. These rules and regulations expose Vitec to the risk of administrative fines and entail significant costs 
+and resource requirements for implementing, adapting, monitoring and otherwise conducting the business in 
+accordance with the rules in force at any given time. New, amended or repealed rules and regulations may, in 
+addition to leading to increased complexity and higher demands on the Group’s compliance functions and 
+operations in general, also entail restrictions on how Vitec can conduct its business. New regulations may also 
+mean that the Group must invest significant resources in adapting its platforms, services and operations to the 
+new regulations. Changes in the legal and regulatory framework applicable to the Group may be a consequence 
+of changes in local, regional or political bodies as a result of, for example, elections or changes in government 
+policies, or a consequence of more long-term regulatory developments and initiatives. For example, the
+
+--- Page 15 ---
+15 
+European Union has in recent years adopted several acts governing digital technologies and services and is 
+expected to keep amending and supplementing this legal framework. 
+Vitec’s operations also expose the Group to risks related to sustainability factors such as human rights, 
+employment conditions and climate issues. Vitec has a climate impact linked to, e.g., business travel, hardware 
+purchases and electricity consumption related to server and office operations. Moreover, violations of anti-
+corruption legislation that lead to extensive fines and other criminal, civil or administrative sanctions would 
+have a material adverse effect on Vitec’s reputation, business, results of operations and financial position. 
+Incidents or accusations related to corruption or other illegal or unethical business conduct aimed against Vitec 
+and its employees, or against Vitec’s customers, suppliers, partners or other third parties with whom Vitec has 
+a commercial relationship, could have material adverse consequences for Vitec, e.g., by leading to adverse 
+publicity which damages Vitec’s reputation, even if such accusations are vague or untrue. 
+In addition, Vitec is dependent on the compliance by its employees, customers, suppliers, partners and other 
+third parties with its contractual obligations as well as laws, regulations, internal governance documents and 
+policies. Non-compliance could adversely affect Vitec’s business and reputation. Such behaviour includes, inter 
+alia, non-compliance with laws and regulations related to competition law, AML, IT security and data 
+protection (including GDPR), corporate governance, export controls and trade sanctions, IFRS and other rules 
+relating to accounting and financial reporting, the work environment, business ethics and equal treatment. 
+There is also a risk that internal governance documents, policies and codes of conduct are not at all times 
+adequate and fully effective, particularly if Vitec is confronted with risks that it has not fully or adequately 
+identified or anticipated. Vitec also faces the risk that its senior executives make decisions that are not in 
+compliance with Vitec’s contractual obligations, strategies, corporate governance practices, internal guidelines 
+and policy documents or make other human errors, especially considering that Vitec operates a decentralised 
+governance model which leaves a large portion of the decision-making mandate with each individual business 
+unit and its respective key employees. If Vitec’s internal controls and other measures to ensure compliance 
+with laws, regulations, internal guidelines and policies prove insufficient, Vitec’s reputation could be damaged 
+and it could be subject to fines, penalties and other sanctions and/or exposed to civil or criminal liability. 
+Risks relating to protection of intellectual property rights 
+Vitec’s success is dependent on the Group’s deep technical know-how and trade secrets. There is a risk that 
+employees or counterparties with access to Vitec’s know-how and trade secrets may breach their confidentiality 
+agreements with Vitec or otherwise convey Vitec’s know-how, trade secrets or other confidential information 
+to competitors or the public, and that the measures Vitec has taken in order to protect such information may 
+prove ineffective or insufficient. The loss of protection of trade secrets and know-how would make it easier for 
+third parties to compete with Vitec’s solutions, e.g., by copying functionality, and Vitec may not have access to 
+adequate remedies to compensate for losses that Vitec may suffer as a consequence. 
+Vitec owns a number of trademarks, domain names and other intellectual property, inter alia related to its 
+software platforms. In addition, Vitec also uses various software through licensing agreements. There is a risk 
+that Vitec may not have sufficient protection for trademarks or other intellectual property used in the business 
+and could have difficulties with defending its trademarks and other intellectual property rights. Vitec may also 
+be exposed to third parties attempting to take advantage of the Vitec brand, requiring Vitec to take legal actions. 
+In addition, third parties’ (including customers or suppliers) use or misuse of the Vitec brand could reflect 
+badly on Vitec, for example if such third party is involved in a business that Vitec does not want to be associated 
+with. 
+Vitec’s technology may be found to infringe rights owned by or granted to others which may lead to disputes. 
+If Vitec cannot resolve an intellectual property dispute, Vitec may be liable for damages, be required to obtain
+
+--- Page 16 ---
+16 
+costly licenses or be stopped from providing its products and services. Contesting such claims can be costly, 
+even if Vitec is successful. 
+If Vitec fails to protect and maintain its intellectual property rights or other proprietary rights, or if Vitec is 
+alleged to have infringed on the intellectual property rights of third parties, or if license agreements are 
+terminated, Vitec’s business and results of operations could be materially adversely affected. 
+Risks relating to tax 
+The Group is comprised of subsidiaries that are subject to taxation in Sweden and multiple other jurisdictions, 
+including numerous federal, state and local tax jurisdictions. The tax regulations relevant to Vitec are complex 
+and extensive, and the relevant authorities’ interpretation and application of the regulations may change over 
+time. Examples of regulatory changes that could have an adverse impact on Vitec are increased tax rates, 
+reduced opportunities to utilise interest deductions or limitations on the opportunities to utilise loss carry-
+forwards. Changes in the tax regulations relevant to Vitec, or in the interpretation and application thereof by 
+legal bodies or authorities, may lead to increased tax costs or tax liabilities for Vitec. 
+From time to time, Vitec has cases under review by, and ongoing dialogues with, tax authorities in the 
+jurisdictions in which Vitec operates. Due to the complexity of the legal systems, the results of such reviews or 
+final rulings may be communicated to Vitec long after the review was initiated or the original ruling was issued. 
+This may result in measures taken by Vitec that have previously been deemed permissible according to the 
+current interpretation and application of the regulations may need to be revised at a later date. The above could 
+lead to Vitec being subject to additional tax costs or tax liabilities. 
+Risks relating to competition law 
+The Group is subject to competition laws in the jurisdictions in which it operates. Contractual conditions and 
+price arrangements in agreements used in the Group’s operations may be subject to restrictions under such 
+competition laws. Competition authorities have the power to initiate procedures pursuant to existing 
+regulations and can require a party to cease applying contractual terms and prices that are found to be anti-
+competitive. Competition authorities also have the power to impose fines and other sanctions as a result of 
+non-compliance with relevant regulatory requirements. In addition, a person or company that has suffered 
+damages on the basis of conduct in violation of competition laws may claim compensation for any damages 
+caused by such violation, including interest thereon. Such third-party claims or administrative proceedings 
+could result in Vitec being required to pay administrative fines, penalties or damages (plus interest), which, 
+individually or in the aggregate, could have a material adverse effect on Vitec’s business. 
+Risks relating to legal disputes 
+Vitec’s services include, inter alia, technological infrastructure and are thus often a fundamental part of the 
+customers’ ability to conduct their day-to-day operations. The Group also has a large number of employees in 
+several jurisdictions. There is a risk that customers, suppliers, employees or others who are dissatisfied with 
+the Group’s services make claims against the Group, which may lead to judicial and administrative proceedings 
+in relation to consumer disputes, contract disputes, labour disputes, government audits, and other disputes 
+and tort claims. There is a risk that such proceedings will incur legal costs and other expenditures for the Group 
+that are not covered by the Group’s legal expenses insurance. Being involved in such legal proceedings could 
+also cause negative publicity for the Group. Moreover, if claims of damages or other remedies are levied against 
+the Group and granted by relevant authorities, this would incur additional costs for the Group. Any such legal 
+proceedings could have a material adverse effect on the Group’s margins and cash flow as well as the Issuer’s 
+ability to make payments under the Notes.
+
+--- Page 17 ---
+17 
+Risks relating to labour law 
+Several Group companies are bound by collective bargaining agreements. The collective bargaining 
+agreements include general terms and conditions on, among other things, vacation entitlements, notice 
+periods, working hours and insurance benefits. As a result of being bound by collective bargaining agreements, 
+these Group companies are obligated to consult and inform the signatory trade unions about significant 
+business changes. Failure by the Group to comply with consultation or negotiation obligations could result in 
+liability for damages for the Group. The Group may in the future experience lengthy consultations with trade 
+unions, strikes, work stoppages or other industrial actions called by the trade unions according to law, which 
+could result in delays in the Group’s ability to serve customers in a timely manner. Strikes and other industrial 
+actions, and the negotiation of new collective bargaining agreements in the future, could disrupt the Group’s 
+operations, which in turn could have a material adverse effect on the Group’s business. 
+ 
+FINANCIAL RISKS 
+Risks relating to macroeconomic factors 
+Vitec’s business is affected by macroeconomic factors, such as economic cycles, regional economic 
+development, unemployment, changes in infrastructure, population growth, population structure, inflation 
+and interest rates levels. In recent years, Vitec has observed that the mood on the market and among its 
+customers has been impacted by, e.g., concerns related to interest rates, inflation and the war in Ukraine. 
+Market disruptions, particularly in the Nordic markets as well as in the Netherlands, Belgium and the USA 
+where Vitec carries out a large part of its operations, and negative economic cycles in the global market can 
+affect the Group’s customers’ financial position and thereby affect their demand for the Group’s services. 
+In 2022 and 2023, inflation increased significantly and central banks and other lenders increased their applied 
+interest rates accordingly. In addition to this, energy prices have increased drastically, leading to higher costs 
+for the Group. High inflation, interest rates and energy costs could lead to, among other things, reduced 
+economic development and significantly reduce the Group’s revenues, cash flows and net financial income and 
+increase the Group’s costs for external financing, and thus have a material adverse impact on the Group’s 
+result. Not all of the Group’s customer contracts contain index clauses or similar mechanisms and even where 
+such clauses exist, they may not allow the Group to completely pass on cost increases for the Group to the 
+customer. Further, a prolonged financial crisis could cause severe stress in the financial system and, directly 
+or indirectly, affect the ability of the Group’s lenders to fulfil their financial obligations towards the Group, 
+which would have a material adverse impact on the Group’s financial condition and ability to fulfil its 
+obligations under the Notes. 
+Risks relating to external financing 
+The Group uses external financing for, e.g., implementation of the Group’s acquisition strategy. The Group 
+may be required to raise new external financing or refinance parts of or all of its outstanding debt in the future. 
+The Group’s ability to successfully raise new financing or to refinance its existing debt is dependent on a 
+number of factors including the conditions of the financial markets in general, the Group’s creditworthiness 
+and its capacity to assume more debt at such time. As a result, the Group’s access to financing sources at a 
+particular time may not be available on favourable terms, or at all. Disruptions and uncertainties on the capital 
+and credit markets or changes in regulations concerning the financial sector may also restrict access to the 
+capital required to conduct the Group’s business. The uncertainty related to obtaining financing, or the terms 
+of the financing agreements being unfavourable for the Group may result in the Vitec being unable to execute 
+its strategy. Inability by the Group to raise additional financing, to refinance its debt obligations on favourable 
+terms, or at all, could have a material adverse effect on the Group’s business, financial position and results of
+
+--- Page 18 ---
+18 
+operations. A breach of covenants or other obligations in the Group’s credit agreements or other financing 
+arrangements could also result in the finance providers requiring immediate repayment of all or a portion of 
+the Group’s outstanding debt, which could render any member of the Group insolvent, which in turn would 
+have a material adverse effect on the Group’s business and financial position.  
+Risks relating to goodwill and other intangible assets 
+Goodwill and other intangible assets constitute a significant part of the Group’s total assets. As at 31 December 
+2024, the Group’s goodwill and other intangible assets amounted to SEK 8,916,138. There is a risk that 
+circumstances that form the basis for the valuations of the Group’s goodwill and other intangible assets, such 
+as, e.g., market conditions, may change and that a write-down of goodwill and/or other intangible assets may 
+be required. Such a write-down could have a negative impact on the Group’s financial position. 
+Currency risks 
+The Group’s accounting currency is SEK. However, the majority of the Group’s revenue is generated in foreign 
+currencies, mainly in NOK, DKK and EUR, entailing that the Group has an exposure to these currencies. As a 
+result, the Group must translate the assets, liabilities, revenues, and expenses of its foreign subsidiaries and 
+businesses into SEK at the then applicable foreign exchange rates. Consequently, increases or decreases in the 
+value of the SEK in relation to other relevant currencies may affect the value of these items with respects to the 
+Group’s foreign businesses in the Group’s consolidated accounts. If SEK would have depreciated/appreciated 
+by five (5) per cent in relation to NOK, DKK and EUR, with all other variables held constant, the Group’s profit 
+after tax for the financial year 2024 would have been impacted by approximately SEK 25 million. These 
+translation risks could significantly affect the comparability of the Group’s results between financial periods 
+or result in significant changes to the value of the Groups assets, liabilities, and equity. 
+Credit and counterparty risks 
+Credit and counterparty risks materialise when counterparties are unable or unwilling to fulfil their payment 
+obligations towards the Group. Financial and operational challenges experienced by customers or other 
+counterparties may impact the Group’s ability to collect outstanding receivables fully or in a timely manner, or 
+at all, which, in turn, could lead to credit losses and require the Group to raise additional capital or obtain 
+alternative financing to meet its obligations under its financing arrangements. Vitec’s business model is based 
+on a high percentage of recurring revenues as the majority of Vitec’s software is distributed to over 25,000 
+customers as ‘software as a service’ (SaaS) based on a subscription model. Consequently, Vitec’s business 
+model relies on predictability as regards recurring revenue streams and this predictability hinges on 
+counterparties meeting their financial obligations. Defaults by counterparties may cause revenue gaps which 
+could disrupt the Group’s financial forecasting. Such defaults could also have a material adverse effect on long-
+term customer value. At year-end 2024, the Group’s provisions for doubtful accounts receivables amounted to 
+approximately SEK 7 million and its past due assets not considered impaired amounted to approximately SEK 
+70 million. An increase in credit losses or failure by counterparties to meet their payment obligations towards 
+the Group could have an adverse effect on Vitec’s liquidity and ability to fulfil its obligations under the Notes. 
+ 
+RISKS RELATING TO THE NOTES 
+Risks relating to the Notes representing unsecured obligations 
+The Issuer has, as part of its financing, incurred debts to credit institutions. There is no restriction under the 
+General Terms and Conditions for the Issuer to incur additional debt and to provide security over the Group’s 
+assets to secure any indebtedness, except for such debt securities which can be admitted for trading on a 
+regulated market. The Notes represent unsecured obligations of the Issuer. Hence, in the event of bankruptcy,
+
+--- Page 19 ---
+19 
+reorganisation or winding-up of the Issuer, the Noteholders will be subordinated in right of payment out of 
+assets subject to such security. There is a risk that an investor could lose all or parts of its investment in the 
+event of bankruptcy, reorganisation or winding-up of the Issuer. 
+Risks relating to group structure and structural subordination 
+As a holding company, the Issuer’s most significant assets comprise its subsidiaries, and as such the Issuer is 
+reliant on the ability of direct and indirect subsidiaries to, e.g., make dividend distributions or intra group 
+interest and loan repayments to enable the Issuer to fulfil its obligations under the Notes. The Issuer’s direct 
+and indirect subsidiaries are legally distinct from the Issuer and their ability to make payments to the Issuer is 
+subject to, among other things, the availability of funds (which in turn depends on the future performance of 
+the relevant subsidiary as well as general economic and other conditions) and corporate and other local law 
+(e.g. limitations on value transfers). Dividend distributions or other financial flows may also be limited due to 
+various undertakings such as credit agreements entered into by subsidiaries or by tax constraints making 
+financial transfers more difficult or expensive. The Issuer’s direct and indirect subsidiaries will not themselves 
+be liable for payment obligations under the Notes. 
+The Issuer’s subsidiaries will have debt obligations in relation to other creditors, and there are no restrictions 
+under the General Terms and Conditions for the Issuer’s subsidiaries to incur additional debt obligations to 
+other creditors. If any subsidiary of the Issuer is subject to, e.g., dissolution, winding-up, liquidation, 
+recapitalisation, administrative or other bankruptcy or insolvency proceeding, the creditors of such subsidiary 
+will generally be prioritised due to their position in the capital structure and will generally be entitled to 
+payment in full from the sale or other disposal of the assets of such a subsidiary before the Issuer, as a direct 
+or indirect shareholder, will be entitled to receive any distributions from such a subsidiary. Such structural 
+subordination entails a risk that creditors of the relevant subsidiary will be paid before creditors of the Issuer 
+and therefore a risk that Noteholders may not be repaid in full if the remaining funds, after payments have 
+been made to the creditors of the relevant subsidiary, are insufficient. In addition, defaults by, or the insolvency 
+of, certain subsidiaries could result in the Issuer being obliged to make payments under parent company 
+financial or performance guarantees in respect of such subsidiaries’ obligations or the occurrence of cross 
+defaults on certain borrowings of the Group. 
+Risks related to admission to trading, lack of active trading and market price 
+Pursuant to the General Terms and Conditions, the Issuer has undertaken to apply for admission to trading on 
+a regulated market for Loans which according to the Final Terms must be admitted to trading on a regulated 
+market. There is a risk that, where such an obligation exists, the Notes are not successfully admitted to trading 
+on a regulated market and, even if such admission to trading is successful, the Notes may not always be actively 
+traded. Lack of a liquid market for trading in the Notes may result in Noteholders being unable to sell their 
+Notes when they wish to do so, or at all, and may also have a negative impact on the market price of the Notes. 
+The market price for the Notes may also be subject to fluctuations in response to many other factors, including 
+for example general economic conditions and the market’s perception of the Issuer’s ability to service debt 
+under the Notes, and the nominal amount may not be indicative of the market price for the Notes. In addition, 
+transaction costs in any secondary market may be high. Accordingly, Noteholders must be prepared to hold 
+the Notes until maturity. 
+Risks related to availability of remedies for Noteholders 
+Section 11 of the General Terms and Conditions (Termination of Loans) stipulate that a Loan shall become 
+payable before maturity in certain cases, including, but not limited to, where the Issuer does not fulfil certain 
+of its obligations under the General Terms and Conditions and in certain cases of insolvency or merger affecting 
+certain entities of the Group. However, Noteholders who represent less than ten (10) per cent of the Adjusted 
+Loan Amount (as defined in the General Terms and Conditions) under the relevant Loan have no independent
+
+--- Page 20 ---
+20 
+right to initiate such termination of a Loan. Further, there may be cases in which an investment in Notes 
+becomes significantly less attractive to Noteholders without constituting grounds for termination of the 
+relevant Loan under the General Terms and Conditions. For example, if one or several Group companies which 
+are not deemed to be Material Group Companies (as defined in the General Terms and Conditions) become 
+insolvent, this does not in itself constitute grounds for termination of a Loan. Consequently, a Noteholder may 
+be forced to hold Notes for longer than they would wish, and possibly until maturity, even in some cases where 
+they find their investment in Notes to have become significantly less attractive and/or to entail higher risk than 
+initially. 
+Risks relating to reference currency 
+The Notes are denominated and payable in SEK or EUR. If Noteholders measure their investment return by 
+reference to a currency other than SEK or EUR (as applicable), an investment in the Notes will entail foreign 
+exchange-related risks. For example, possible significant changes in the value of SEK or EUR (as applicable) 
+relative to the currency by reference to which investors measure the return on their investments could cause a 
+decrease in the effective yield of the Notes below their stated coupon rates and could result in a loss to investors 
+when the return on the Notes is translated into the currency by reference to which the investors measure the 
+return on their investments. Government and monetary authorities may impose (as some have done in the 
+past) exchange controls that could adversely affect an applicable exchange rate or the ability of the Issuer to 
+make payments in respect of the Notes. As a result, there is a risk that investors may receive less interest or 
+principal than expected, or no interest or principal at all. 
+Risks relating to interest rate 
+Notes with floating interest rate 
+Notes issued with a floating interest rate are normally issued as FRNs (Floating Rate Notes). The coupon is 
+calculated on the basis of an interest rate corresponding to the interest rate base plus the interest rate base 
+margin, where the interest rate base is adjusted before each interest rate period whilst the interest rate base 
+margin is fixed throughout the term. If the interest rate base, for example, is constituted of STIBOR 3 months, 
+it is the market’s perception of the development of the 3-month interest rates, in connection with the interest 
+rate base margin, that constitutes the basis for calculating the market value of the placement. A changed 
+expectation in the market regarding at what level the interest rate base will be set at when determining the 
+interest rate in the future will, hence, risk lowering the market value on Notes with a floating rate. 
+Notes with fixed interest rate 
+Investments in Notes with fixed interest rate involve a risk that the market price of the Notes may be negatively 
+affected as a result of changes in the market interest rates. Generally, longer term of the securities means a 
+higher risk. 
+Notes with Zero Coupon 
+Notes with Zero Coupon (as defined in the General Terms and Conditions) bears no interest and may be issued 
+at a discount, par or premium. The price is normally determined by the market interest rate level. When there 
+is a positive market interest rate, the Notes with Zero Coupon are normally issued at a discount. The market 
+value of such notes may be adversely affected by changes in the market interest rate level. If the market interest 
+rate level increases in relation to the level at the issue date, the market value of Zero Coupon Notes will typically 
+decrease. Hence, there is a risk that changes in the market interest rate will result in Noteholders losing all or 
+a significant part of their investment in such Notes. Notes issued at a discount or premium tend to fluctuate 
+more as a result of a change in the market interest rate than Notes issued at par.
+
+--- Page 21 ---
+21 
+Risks relating to use of benchmarks 
+The process of the calculation of EURIBOR, STIBOR and other interest rate benchmarks have been subject to 
+a number of legislative measures. The most important initiative on the subject matter is the Benchmark 
+Regulation, which regulates the provision of a benchmark, contribution of input data for the purpose of 
+determining a benchmark and the operation of benchmarks within the EU. These reforms may cause STIBOR 
+or EURIBOR to perform differently than in the past, or to disappear entirely, or have other consequences which 
+cannot be predicted. Any such consequence could have a material adverse effect on floating interest rate Notes 
+and poses a risk to the value of and return on the investments of the Noteholders. 
+The Benchmarks Regulation could have a material impact on any floating interest Notes, in particular, if the 
+methodology or other terms of STIBOR or EURIBOR (as applicable) are changed in order to comply with the 
+terms of the Benchmarks Regulation. Such changes could (amongst other things) have the effect of reducing 
+or increasing the rate or level, or affecting the volatility of the published rate or level, of the benchmark. The 
+General Terms and Conditions contain provisions for establishing a Successor Base Rate if STIBOR or 
+EURIBOR ceases to be published. However, there is a risk that a Successor Base Rate may be unfavourable for 
+the Noteholders. Moreover, there is a risk that the process of establishing a Successor Base Rate leads to time 
+consuming processes and discussions and/or legal disputes, which may have an adverse effect on the interests 
+of the Noteholders. 
+Risks relating to modifications and waivers 
+The General Terms and Conditions contain provisions for calling meetings of Noteholders to consider matters 
+affecting their interests generally. These provisions permit defined majorities to bind all Noteholders, 
+including Noteholders who did not attend and vote at the relevant meeting and Noteholders who voted in a 
+manner contrary to the majority. Under certain circumstances as further described in Section 13 of the General 
+Terms and Conditions (Replacement of Base Rate), certain changes to the terms applicable to a Loan can be 
+made without the consent of the Noteholders. Accordingly, there is a risk that the terms applicable to a Loan 
+may be modified, waived or amended in circumstances where one or several individual Noteholders do not 
+agree to such modification, waiver or amendment, which may adversely impact the rights of such Noteholder. 
+Risks relating to credit ratings 
+Neither the Issuer nor any other long-term indebtedness of the Issuer are currently rated by any rating agency 
+and the Issuer may not request such rating for any Notes issued under the MTN Programme. However, one or 
+more independent credit rating agencies may independently assign credit ratings to Notes. Such ratings may 
+not reflect the potential impact of all risks related to structure, market, additional factors discussed above, and 
+other factors that may affect the value of the Notes. A rating or the absence of a rating is not a recommendation 
+to buy, sell or hold securities and may be subject to suspension, reduction or withdrawal at any time by the 
+assigning rating agency. Credit ratings are subject to revision, suspension or withdrawal at any time, and a 
+change in the credit ratings of Notes, or a new unsolicited credit rating assigned to Notes, could affect the 
+market price and reduce the liquidity of Notes.
+
+--- Page 22 ---
+22 
+GENERAL TERMS AND CONDITIONS 
+GENERAL TERMS AND CONDITIONS FOR NOTES ISSUED UNDER VITEC SOFTWARE 
+GROUP AB (PUBL)’S MTN PROGRAMME 
+The following general terms and conditions (the “General Terms and Conditions”) shall apply to loans 
+that Vitec Software Group AB (publ) (Swedish reg. no. 556258-4804) (the “Company”) issues on the capital 
+market under an agreement that has been entered into on 7 February 2025 between the Company and 
+Skandinaviska Enskilda Banken AB (publ) and Nordea Bank Abp regarding the MTN programme (the “MTN 
+Programme”) by issuing notes in SEK or EUR with varying terms and maturities, however not less than one 
+year, known as Medium Term Notes.  
+1 
+DEFINITIONS 
+1.1 
+In addition to the definitions set out above, the following terms will have the meaning set out below. 
+“Account Operator” means a bank or other party duly authorised to operate as an account operator 
+(kontoförande institut) pursuant to the Swedish Financial Instruments Accounts Act (lag 
+(1998:1479) om värdepapperscentraler och kontoföring av finansiella instrument) and through 
+which a Noteholder has opened a Securities Account in respect of its MTN. 
+“Adjusted Loan Amount” means the Loan Amount less the amount of MTN owned by the 
+Company, or a Group Company, regardless of whether such Group Company is directly registered as 
+the owner of such MTN or not. 
+“Administrative Agent” means: 
+(a) if a Loan has been issued through two or more Issuing Dealers, the Issuing Dealer designated by 
+the Company as being responsible for certain administrative tasks relating to the Loan according 
+to the Final Terms; and 
+(b) if a Loan has been issued through only one Issuing Dealer, the Issuing Dealer for that Loan. 
+“Arranger” means Skandinaviska Enskilda Banken AB (publ) or any Dealer replacing it as Arranger.  
+“Base Rate” means in regard to Loans with Floating Rate, the base rate STIBOR or EURIBOR as 
+specified in the Final Terms or any reference rate replacing STIBOR or EURIBOR in accordance with 
+Section 13 (Replacement of Base Rate). 
+“Business Day” means a day that is not a Sunday or other public holiday in Sweden or that, in 
+respect of the payment of promissory notes, is not equated with a public holiday in Sweden.
+
+--- Page 23 ---
+23 
+Saturdays, Midsummer’s Eve (midsommarafton), Christmas Eve (julafton) and New Year’s Eve 
+(nyårsafton) will be deemed to be public holidays for this definition.  
+“Day Count Convention” means, when calculating an amount for a particular calculation period, 
+the calculation method specified in the Final Terms: 
+(a) if the calculation method “30/360” is specified as applicable, the amount shall be calculated for 
+a year with 360 days, consisting of twelve months each of 30 days, and in case of a partial month 
+the actual number of days that have elapsed in the month; 
+(b) if the calculation method “Actual/360” is specified as applicable, the amount shall be calculated 
+using the actual number of days in the relevant period divided by 360; or 
+(c) any other method of calculation as is applied for the relevant Base Rate. 
+“Dealers” means Skandinaviska Enskilda Banken AB (publ) and Nordea Bank Abp as well as any 
+other dealer (emissionsinstitut) that has been specifically authorised by Euroclear Sweden to handle 
+and register issues in the VPC system, and which accedes to this MTN Programme, however only 
+provided such institution has not ceased to act as a dealer. 
+“Debt Register” means the register (skuldbok) kept by Euroclear Sweden in respect of the MTN in 
+which a Noteholder is registered. 
+“EURIBOR” means: 
+(a) the interest rate as displayed as of or around 11.00 a.m. on the relevant day on page EURIBOR01 
+of the Refinitiv screen (or through such other system or on such other page replacing the said 
+system or page) for EUR for a period comparable to the relevant Interest Period; or 
+(b) if no such interest rate is available for the relevant Interest Period as described in paragraph (a), 
+the arithmetic mean of the rates (rounded upwards to four decimal places) as supplied to the 
+Administrative Agent at its request quoted by the European Reference Banks for deposits of 
+EUR 10,000,000 for the relevant Interest Period; or 
+(c) if no interest rate as described in paragraph (a) and (b) is available, the interest rate which, 
+according to the reasonable assessment of the Administrative Agent, best reflects the interest 
+rate for deposits in EUR offered for the relevant Interest Period. 
+“Euro” and “EUR” means the currency used by the participating member states of the European 
+Union in accordance with the European Union’s regulations for the Economic and Monetary Union 
+(EMU). 
+“Euroclear Sweden” means Euroclear Sweden AB (Swedish reg. no. 556112-8074). 
+“European Reference Banks” means four major commercial banks which, at the current time, 
+are quoting EURIBOR and are appointed by the Administrative Agent. 
+“Final Terms” means the Final Terms established for a particular Loan under this MTN Programme 
+in accordance with the form of Final Terms under the section “Form of Final Terms” below (with the 
+additions and amendments that may be made from time to time). 
+“Group” means the Company and each of its Subsidiaries from time to time.  
+“Group Company” means any legal entity that, from time to time, forms part of the Group. 
+“Insolvent” means, in respect of a relevant person, that it is deemed to be insolvent, or admits 
+inability to pay its debts as they fall due, in each case within the meaning of Chapter 2, Sections 7-9
+
+--- Page 24 ---
+24 
+of the Swedish Bankruptcy Act (konkurslagen (1987:672)) (or its equivalent in any other relevant 
+jurisdiction). 
+“Interest Commencement Date” means, according to the Final Terms, the date from which 
+interest (where applicable) begins to accrue. 
+“Issuing Dealer” means, according to the Final Terms, the Dealer(s) under this MTN Programme 
+through which a particular Loan has been carried out. 
+“Loan” means any loan from a particular series, encompassing one or more MTN with the same ISIN 
+code, which the Company issues under this MTN Programme. 
+“Loan Amount” means the aggregate outstanding Nominal Amount of MTN in respect of a 
+particular Loan, however less any repaid amount. 
+“Loan Date” means the date specified as such in the Final Terms. 
+“Loan Terms and Conditions” means for a particular Loan, these General Terms and Conditions 
+as well as the Final Terms for said Loan.  
+“Market Loans” means issuing commercial papers, bonds or other securities (including loans 
+under MTN or other market loan programme), which are sold, brokered or invested in an organised 
+form and which are or may be traded on a Regulated Market.  
+“Material Group Company” means, at any time a Subsidiary of the Company which together with 
+its Subsidiaries (on a consolidated basis) has gross sales, assets or EBITDA representing 7.50 per 
+cent., or more of the sales, assets or EBITDA of the Group, calculated on a consolidated basis.  
+“Maturity Date” means, according to the Final Terms, the date on which an MTN is to be repaid. 
+“MTN” means an unilateral debt obligation regarding a Nominal Amount that has been registered 
+in accordance with the Swedish Financial Instruments Accounts Act (lag (1998:1479) om 
+värdepapperscentraler och kontoföring av finansiella instrument), and which forms part of a Loan 
+issued by the Company under this MTN Programme. 
+“Nominal Amount” means the amount for each MTN specified in the Final Terms in respect of a 
+Loan. 
+“Noteholder” means the party listed on the Securities Account as the directly registered owner 
+(direktregistrerad ägare) or nominee (förvaltare) of an MTN. 
+“Noteholders’ Meeting” means a meeting with the Noteholders in accordance with Section 12 
+(Noteholders’ Meeting). 
+“Record Date” means the fifth Business Day prior to (or another Business Day prior to the relevant 
+date that is market practise on the Swedish bond market) (i) the due date for interest or the principal 
+under the Loan Terms and Conditions, (ii) another date on which payment is to be made to 
+Noteholders, (iii) the date of the Noteholders’ Meeting, (iv) the date on which the notification is 
+dispatched, or (v) another relevant date. 
+“Reference Banks” means the Dealers appointed under this MTN Programme or if none, or only 
+one, the Dealers provide a quotation for STIBOR, such replacement banks which, at the relevant 
+time, provide a quotation for STIBOR and which are appointed by the Administrative Agent. 
+“Regulated Market” means a regulated market as defined in Directive 2014/65/EU on markets in 
+financial instruments, as amended. 
+“Securities Account” means the securities account maintained with Euroclear Sweden in 
+accordance with the Swedish Financial Instruments Accounts Act (lag (1998:1479) om
+
+--- Page 25 ---
+25 
+värdepapperscentraler och kontoföring av finansiella instrument), in which (i) an owner of a 
+security is directly registered as the owner of securities or (ii) an owner’s holding of securities is 
+registered in the name of a nominee. 
+“Settlement Date” means the date on which, according to the Final Terms, the issue proceeds for 
+MTN are to be paid. 
+“STIBOR” means: 
+(a) the interest rate administered, calculated and distributed by the Swedish Financial Benchmark 
+Facility AB (or the replacing administrator or calculation agent) for the relevant day and 
+published on the information system Refinitiv’s page “STIBOR=” (or through such other system 
+or on such other page as replaces the said system or page) for SEK for a period comparable to the 
+relevant Interest Period; or  
+(b) if no such interest rate is available for the relevant Interest Period as described in paragraph (a), 
+the arithmetic mean of the rates (rounded upwards to four decimal places) as supplied to the 
+Administrative Agent at its request quoted by the Reference Banks for deposits of 
+SEK 100,000,000 for the relevant Interest Period; or  
+(c) if no such interest rate as described in paragraph (a) and (b) is available, the interest rate which, 
+according to the reasonable estimate of the Administrative Agent, best reflects the interest rate 
+for deposits in SEK offered in the Stockholm interbank market for the relevant Interest Period. 
+“Subsidiary” means, in relation to a person, any Swedish or foreign legal entity (whether 
+incorporated or not), which at any time is a subsidiary (dotterföretag) to such person, directly or 
+indirectly, as defined in the Companies Act (Aktiebolagslagen). 
+“Swedish Kronor” and “SEK” means the legal currency in Sweden. 
+1.2 
+Additional definitions, such as Interest Rate Structure, Interest Rate, Base Rate Margin, Interest 
+Determination Date, Interest Payment Date(s), Interest Period and Currency can be found (where 
+applicable) in the Final Terms.  
+1.3 
+When calculating whether a limit or threshold described in Swedish Kronor has been reached or 
+exceeded, an amount in another currency shall be calculated on the basis of the exchange rate that 
+applied on the Business Day immediately prior to the relevant time and that is published on 
+Refinitiv’s website “SEKFIX=” (or through such other system or on such other website that replaces 
+said system or website respectively) or, if no such exchange rate is published, the exchange rate for 
+such currency against Swedish Kronor the mentioned date as published by the Swedish Central Bank 
+(Riksbanken) on its website (www.riksbank.se). 
+2 
+ISSUANCE OF LOANS AND STATUS 
+2.1 
+Under this MTN Programme, the Company may issue MTN in Swedish Kronor or Euros with a 
+maturity of at least one year. Under a Loan, MTN may be issued in multiple tranches without the 
+approval of any Noteholder under the relevant Loan, provided that the terms of such tranches are 
+identical with the exception of Loan Date, Loan Amount, price per MTN and Issuing Dealer. 
+2.2 
+By subscribing for MTN, each initial Noteholder accepts that its MTN will have the rights and be 
+subject to the terms and conditions arising from the Loan Terms and Conditions. By acquiring MTN, 
+each new Noteholder confirms such acceptance. 
+2.3 
+The Company undertakes to make payments in respect of issued MTN, as well as to comply in other 
+respects with the Loan Terms and Conditions for the Loans issued under this MTN Programme.
+
+--- Page 26 ---
+26 
+2.4 
+If the Company wishes to issue MTN under this MTN Programme, the Company shall enter into a 
+separate agreement for this purpose with one or more dealer agents, which will be the Issuing 
+Dealer(s) for said Loan. 
+2.5 
+Final Terms shall be established in relation to each particular Loan which together with these General 
+Terms and Conditions shall constitute the complete Loan Terms and Conditions. 
+2.6 
+The MTN are freely transferable, but the Noteholders may be subject to purchase or transfer 
+restrictions with regard to the MTN, as applicable, under local regulations to which a Noteholder 
+may be subject. Each Noteholder must ensure compliance with such restrictions at its own costs and 
+expense. 
+2.7 
+No action is being taken in any jurisdiction that would or is intended to permit a public offering of 
+the MTN or the possession, circulation or distribution of any document or other material relating to 
+the Issuer or the MTN in any jurisdiction other than Sweden, where action for that purpose is 
+required. Each Noteholder must inform itself about, and observe, any applicable restrictions to the 
+transfer of material relating to the Issuer or the MTN. 
+3 
+REGISTRATION OF MTN 
+3.1 
+MTN will be registered in Securities Accounts on behalf of the Noteholders, and accordingly no 
+physical securities will be issued. Any request for a particular registration measure in respect of MTN 
+must be addressed to the Account Operator. 
+3.2 
+Anyone who, due to mandates, pledges, the provisions in the Children and Parents Code 
+(föräldrabalken), terms and conditions in wills or deeds of gift, or otherwise has acquired the 
+entitlement to receive payment under an MTN, must have their right to receive payment registered 
+with Euroclear Sweden in order to receive such payment. 
+3.3 
+The Administrative Agent is entitled to receive information from Euroclear Sweden regarding the 
+content of its Debt Register for MTN, in order to fulfil its duties in accordance with Section 11 
+(Termination of loans) and Section 12 (Noteholders’ Meeting). Administrative Agents will not be 
+responsible for the content of such extracts nor are they otherwise responsible for determining who 
+is the Noteholder. 
+4 
+RIGHT TO ACT ON BEHALF OF A NOTEHOLDER 
+4.1 
+Any person other than a Noteholder wishing to exercise the Noteholder’s rights under the Loan 
+Terms and Conditions or vote at a Noteholders’ Meeting must present a power of attorney or other 
+proof of authorisation from the Noteholder or a successive, coherent chain of powers of attorney or 
+proof of authorisation starting with the Noteholder and authorising such person. 
+4.2 
+A Noteholder, or another party exercising the Noteholder’s rights pursuant to Section 4.1 above, may 
+authorise one or more parties to represent the Noteholder in respect of some or all MTN held by the 
+Noteholder. Any such authorised party may act independently. 
+4.3 
+The Administrative Agent shall only have to examine the face of a power or attorney or other proof 
+of authority that has been provided to it pursuant to this Section 4.1 and may assume that it has been 
+duly authorised, is valid, has not been revoked or superseded and that it is in full force and effect, 
+unless otherwise appears from its face or if the Administrative Agent has actual knowledge to the 
+contrary. 
+4.4 
+These General Terms and Conditions shall not affect the relationship between a Noteholder who is 
+the nominee (förvaltare) with respect to an MTN and the owner of such MTN, and it is the 
+responsibility of such nominee to observe and comply with any restrictions that may apply to it in 
+this capacity.
+
+--- Page 27 ---
+27 
+5 
+PAYMENTS 
+5.1 
+Payment in respect of MTN issued in Swedish Kronor must be made in Swedish Kronor, and payment 
+in respect of MTN issued in Euros must be made in Euros, unless the terms and conditions of 
+Euroclear Sweden stipulates otherwise. 
+5.2 
+A Loan falls due on its specified Maturity Date. Interest accruing on MTN shall be paid on each 
+Interest Payment Date in accordance with the Final Terms for that Loan. Subject to Section 8.3, each 
+MTN shall be repaid on its specified Maturity Date in the amount specified in the Final Terms 
+together with any accrued but unpaid interest. 
+5.3 
+Payments in respect of MTN must be made to the person who is registered as the Noteholder on the 
+Record Date in relation to the relevant due date, or to such other person who is registered with 
+Euroclear Sweden as entitled to receive such payment. 
+5.4 
+If the Noteholder, through an Account Operator, has registered principal and interest are to be 
+deposited in a particular bank account, this deposit will be made through Euroclear Sweden on the 
+respective due date. 
+5.5 
+In the event Euroclear Sweden, due to a delay on behalf of the Company or due to some other 
+obstacle, should be unable to pay an amount as previously stated, the Company must ensure that the 
+amount is paid as soon as the obstacle no longer exists. 
+5.6 
+If the Company is unable to fulfil its payment obligation through Euroclear Sweden due to an obstacle 
+affecting Euroclear Sweden, the Company will be entitled to defer the payment obligation until the 
+obstacle no longer exists. In such a case, interest will be payable in accordance with Section 7.2. 
+5.7 
+If payment or repayment is made in accordance with this Section 5, the Company and Euroclear 
+Sweden shall be deemed to have fulfilled their obligation to pay, irrespective of whether such 
+payment was made to a person not entitled to receive such amount, unless the Company or Euroclear 
+Sweden (as applicable) did not act with normal care or was aware of that the payment was being 
+made to a person not entitled to receive such amount. 
+6 
+INTEREST 
+6.1 
+Interest on a particular Loan is calculated and payable (where applicable) in accordance with the 
+Loan Terms and Conditions. 
+6.2 
+In the Final Terms, the relevant Interest Rate Structure will be specified according to one of the 
+following options or in a combination thereof:  
+(a) Fixed Rate 
+If the Loan is specified as a Loan with Fixed Rate, the Loan will bear interest at the Interest Rate 
+from, but excluding, the Interest Commencement Date up to and including the Maturity Date.  
+Interest that has accrued during an Interest Period is paid in arrears on the respective Interest 
+Payment Date and is calculated according to the Day Count Convention method set out in the 
+Final Terms. 
+(b) Floating Rate (FRN) 
+If a Loan is specified as a Loan with Floating Rate, the Loan will bear interest at the Interest Rate 
+from, but excluding, the Loan Date up to and including the Maturity Date. The interest rate for 
+the relevant Interest Period shall be calculated by the Administrative Agent on the respective 
+Interest Determination Date, and is the sum of the Base Rate and the Margin for the relevant
+
+--- Page 28 ---
+28 
+period, adjusted for the application of Section 13 (Replacement of Base Rate). If the calculation 
+of the interest rate entails a value lower than zero, the interest rate will be considered to be zero. 
+If the interest rate cannot be determined on the Interest Determination Date due to an obstacle 
+as referred to in Section 17.1, the Loan will continue to run at the interest rate that applied to the 
+immediately preceding Interest Period. As soon as the obstacle has ceased to exist, the 
+Administrative Agent will calculate a new interest rate, which will apply from the second 
+Business Day after the date of the estimate up until the end of the current Interest Period.  
+Interest is paid in arrears on each relevant Interest Payment Date and is calculated according to 
+the Day Count Convention for the relevant Interest Period, or by using such other method of 
+calculation as is applied for the relevant Base Rate. 
+(c) Zero Coupon 
+If the Loan is specified as a Zero Coupon it bears no interest. Loans with Zero Coupon may be 
+issued at a discount, par or premium. 
+6.3 
+Interest (where applicable) is paid on the relevant Interest Payment Date. 
+6.4 
+If the Interest Payment Date for Fixed Rate Loans falls on a non-Business Day, interest will not be 
+paid until the following Business Day (an Interest Period shall however not be adjusted). However, 
+interest is only calculated and payable up to and including the Interest Payment Date.  
+6.5 
+If the Interest Payment Date for Floating Rate Loans falls on a non-Business Day, the Interest 
+Payment Date will instead be considered to be the nearest subsequent Business Day, provided that 
+said Business Day does not fall in a new calendar month, in which case the Interest Payment Date 
+will be considered to be the preceding Business Day. 
+7 
+DEFAULT INTEREST 
+7.1 
+In the event of any default in payment, default interest shall be payable on the overdue amount from 
+its due date up to and including the date on which payment is made at a rate corresponding to the 
+average of one week STIBOR for MTN denominated in SEK and one week EURIBOR for MTN 
+denominated in EUR for the duration of the delay, plus two (2) percentage points in each case. For 
+this purpose, STIBOR and EURIBOR shall be determined on the first Business Day in each calendar 
+week for the duration of the period of default. Default interest in accordance with this Section 7.1 for 
+interest-bearing Loans shall never be paid at an interest rate lower than the interest rate applicable 
+to the relevant Loan on its relevant due date plus two (2) percentage points. Default interest shall not 
+be capitalised. 
+7.2 
+If the default in payment is due to an impediment affecting a Dealer or Euroclear Sweden, default 
+interest shall accrue at a rate corresponding to: 
+(a) for interest-bearing Loans, the interest rate applicable to the relevant Loan on its relevant due 
+date. 
+(b) for Zero Coupon Loans, the average of one week STIBOR or EURIBOR respectively for the 
+duration of the delay (whereby STIBOR and EURIBOR shall be determined on the first Business 
+Day of each calendar week for the duration of the period of default). 
+8 
+REPAYMENT, REPURCHASE AND VOLUNTARY TOTAL REDEMPTION 
+(CALL OPTION) 
+8.1 
+Loans fall due for payment on the Maturity Date, with the amount per MTN that is specified in the 
+Final Terms along with accrued interest (if any). If the Maturity Date falls on a day that is not a 
+Business Day, however, the Loan is repaid on the following Business Day.
+
+--- Page 29 ---
+29 
+8.2 
+The Company may, by agreement with the relevant Noteholder(s), repurchase MTN at any time and 
+at any price in the open market or otherwise provided this is in compliance with applicable law. MTN 
+that are owned by the Company may, according to the Company’s own decision, be retained, 
+transferred or cancelled. 
+8.3 
+The Final Terms for a Loan may specify a right for the Company to redeem all, but not some only, of 
+the outstanding MTN under that Loan in full on any Business Day prior to the Maturity Date for such 
+Loan. If MTN are redeemed pursuant to this Section, such MTN shall be redeemed at the time and 
+to the price specified in such Final Terms together with any accrued but unpaid interest. Redemption 
+in accordance with this Section shall be made by the Company giving not less than fifteen (15) 
+Business Days’ notice to the Noteholders and the Administrative Agent, in each case calculated from 
+the effective date of the notice. Any such notice shall state the date on which the MTN of that Loan 
+are to be redeemed, the relevant Record Date and the redemption price and is irrevocable but may, 
+at the Company’s discretion, contain one or more conditions precedent that shall be satisfied prior 
+to the Record Date. Upon fulfilment of the conditions precedent(s) (if any), the Company shall 
+redeem the MTN in full at the applicable amounts on the date on which the MTN are to be redeemed 
+or repurchased as specified in the above notice. 
+9 
+REPURCHASE IN CASE OF CHANGE OF CONTROL OR DE-LISTING 
+9.1 
+Each Noteholder is entitled to demand repurchase of all, or some, of the MTN held by the Noteholder, 
+if: 
+(a) the shares in the Company cease to be admitted to trading on a Regulated Market; or 
+(b) an event or a series of events occurs, resulting in a natural or legal person, individually or together 
+with such related parties as referred to in the Stock Market (Takeover Bids) Act (lag (2006:451) 
+om offentliga uppköpserbjudanden på aktiemarknaden), directly or indirectly, at some point (i) 
+acquiring or controlling more than fifty (50) per cent. of the shares or voting rights in the 
+Company or (ii) obtaining the right to appoint or remove the whole or a majority of the directors 
+of the board of directors of the Company. 
+9.2 
+It is the responsibility of the Company, as soon as the Company becomes aware of a change of 
+ownership as described in Section 9.1, to notify the Noteholders of this through a press release, on 
+the Company’s website and in accordance with Section 16 (Notices). The notification must include 
+instructions regarding how a Noteholder that wishes to have MTN repurchased should act, as well as 
+specifying the repurchase date. 
+9.3 
+The repurchase date will fall at the earliest twenty (20) and at the latest forty (40) Business Days 
+after the notification of the change of ownership has been sent to Noteholders in accordance with 
+Section 9.2. However, in the event the repurchase date is not a Business Day, the repurchase date 
+shall be deemed to be the Business Day immediately following. 
+9.4 
+Where a right to demand repurchase exists, the Company shall, upon such a demand by a Noteholder, 
+repurchase the relevant MTN on the repurchase date at the price per MTN that would have been 
+repaid on the Maturity Date, together with accrued interest (if any). For MTN with Zero Coupon, an 
+amount per MTN calculated in accordance with Section 11.5 shall be paid instead. 
+9.5 
+Notices from Noteholders regarding demands for repurchase of MTN’s shall be drafted in accordance 
+with the instructions set forth in the notice provided to the Noteholders in accordance with 
+Section 9.2. The notice from the Noteholder must be received by the Company at least ten (10) 
+Business Days before the relevant repurchase date.
+
+--- Page 30 ---
+30 
+10 
+UNDERTAKINGS 
+As long as an MTN is outstanding, the Company undertakes the following: 
+10.1 
+Status of the Loan 
+The Company shall ensure that its payment obligations under the Loans rank at least pari passu with 
+its other unsubordinated and unsecured payment obligations, save for such obligations as may be 
+preferred by provisions of mandatory law. 
+10.2 
+Nature of business and assets 
+The Company undertakes not to (i) materially change the nature of the Group’s operations and 
+business, or (ii) sell or otherwise dispose of any asset where such sale or disposition has a material 
+adverse effect on the Company’s ability to fulfil its payment obligations towards the Noteholders. 
+10.3 
+Market Loans 
+The Company undertakes to ensure, as long as any MTN is outstanding, that no Group Company: 
+(a) other than the Company, will issue any Market Loan; or 
+(b) maintains, prolongs or provides any guarantee or security over any of the Group’s present or 
+future assets to secure any Market Loan. 
+10.4 
+Admission to trading on a Regulated Market 
+The Company undertakes to apply for admission on the relevant Regulated Market for Loans which 
+according to the Final Terms must be admitted to trading on a Regulated Market, and to take any 
+measures that may be required to maintain the admission as long as the relevant Loan is outstanding, 
+however, not longer than as permitted under applicable laws and regulations. 
+10.5 
+Availability of Loan Terms and Conditions 
+The Company undertakes to ensure that the current version of these General Terms and Conditions, 
+as well as the Final Terms for all outstanding Loans that have been admitted to trading on a Regulated 
+Market, are kept available on the Company’s website. 
+11 
+TERMINATION OF LOANS 
+11.1 
+The Administrative Agent shall declare in writing a relevant Loan, together with accrued interest (if 
+any), immediately due and payable, or payable at such time as the Administrative Agent or the 
+Noteholders’ Meeting (as applicable) decides, upon the occurrence of any circumstance stated in 
+Section 11.2 and if: 
+(a) so decided by the Noteholders under a Loan at the Noteholders’ Meeting; or 
+(b) so requested in writing by Noteholders who, at the time of the request, represent not less than 
+ten (10) per cent. of the Adjusted Loan Amount under the relevant Loan. 
+A request for termination may only be made by Noteholders who are registered in the Debt Register 
+maintained by Euroclear Sweden on the Business Day immediately following the date on which the 
+request was received by the Administrative Agent, and must be made jointly if it is submitted by 
+several Noteholders each representing less than ten (10) per cent. of the Adjusted Loan Amount 
+under the relevant Loan. 
+11.2 
+Loans may only be declared due and payable in accordance with Section 11.1 provided that:
+
+--- Page 31 ---
+31 
+(a) Non-Payment 
+The Company fails to make timely payment of principal or interest due in respect of any Loan 
+under this MTN Programme, unless the delay: 
+(i) is a consequence of a technical or administrative error; and  
+(ii) does not last for longer than five (5) Business Days. 
+(b) Other obligations 
+The Company, in any respect other than that set out in paragraph (a) above, does not comply 
+with its obligations under the Loan Terms and Conditions in respect of the relevant Loan, 
+provided that: 
+(i) the non-compliance is capable of remedy; and 
+(ii) the Company has received a written request from the Administrative Agent to remedy the 
+non-compliance and it has not been remedied within twenty (20) Business Days. 
+(c) Cross payment default and acceleration 
+Any financial indebtedness of the Company or any Group Company is not paid when due as 
+extended by any originally applicable grace period, or is declared to be or otherwise becomes due 
+and payable prior to its specified maturity as a result of an event of default (however described), 
+provided that Loans may only be declared due and payable under this paragraph (c) if the 
+aggregate amount of financial indebtedness referred to herein is at least SEK 40,000,000 or its 
+equivalent. 
+(d) Insolvency 
+Any of the Company or a Material Group Company is, or is deemed for the purposes of any 
+applicable regulation to be, Insolvent. 
+(e) Insolvency proceedings 
+Any corporate action, legal proceedings or other procedure or step other than vexatious or 
+frivolous and as disputed in good faith and discharged within thirty (30) Business Days is taken 
+in relation to: 
+(i) the suspension of payments, a moratorium of any indebtedness, winding-up, dissolution, 
+administration, company reorganisation (företagsrekonstruktion) or bankruptcy (konkurs) 
+of the Company or a Material Group Company; 
+(ii) a composition, compromise, assignment or arrangement with creditors of the Company or a 
+Material Group Company generally; 
+(iii) the appointment of a liquidator (other than in respect of a solvent liquidation of a Material 
+Group Company), administrator or other similar officer in respect of the Company or a 
+Material Group Company or any of their respective assets; or 
+(iv) any step analogous to paragraphs (i)-(iii) above is taken in any jurisdiction in relation to the 
+Company or a Material Group Company.
+
+--- Page 32 ---
+32 
+(f) Creditors’ process 
+Any attachment, sequestration, distress or execution, or any analogous process in any 
+jurisdiction, affects any asset of the Company or a Group Company having a value of not less than 
+SEK 10,000,000 or its equivalent and which is not discharged within thirty (30) Business Days. 
+(g) Merger 
+The Company is subject to a merger with any other person, other than with Group Companies 
+where the Company is the surviving entity. 
+11.3 
+The Administrative Agent may not declare a relevant Loan along with interest (if any) as due for 
+payment pursuant to Section 11.2 by referring to grounds for termination, if a Noteholders’ Meeting 
+has resolved that such grounds for termination (temporarily or permanently) will not result in 
+termination pursuant to Section 11.2. 
+11.4 
+It is the responsibility of the Company to notify the Dealers and the Noteholders immediately in 
+accordance with Section 16 (Notices) in the event grounds for termination as set out in Section 11.2 
+should occur. In the absence of such notification, neither the Administrative Agent nor the Dealers, 
+regardless of their actual knowledge, shall be deemed to be aware of grounds for termination. Neither 
+the Administrative Agent nor the Dealers are themselves obliged to monitor whether the conditions 
+for termination according to Section 11.2 exist. 
+11.5 
+In the case of the repayment of Loans after termination pursuant to Section 11.1: 
+(a) interest-bearing Loans will be repaid at an amount per MTN that, together with accrued interest, 
+would have been repaid on the final Maturity Date; and 
+(b) non-interest-bearing Loans shall be redeemed at an amount per MTN determined by the 
+following formula as per the date of acceleration of the Loan: 
+Nominal Amount 
+(1 + r)t 
+r =  
+the ask rate quoted by the Administrative Agent for Swedish government 
+bonds with an outstanding term to maturity corresponding to the 
+remaining term of the relevant Loan. In the absence of such ask rate, the 
+bid rate shall be used instead, as reduced by a market bid/ask spread, 
+expressed in percentage points. The calculation shall be based on the 
+closing quotation. 
+t =  
+the remaining term for the relevant Loan, expressed in the Day Count 
+Convention Actual/360. 
+12 
+NOTEHOLDERS’ MEETING 
+12.1 
+The Administrative Agent may and shall, at the request of the Company or Noteholders who, at the 
+time of the request, represent at least one tenth of the Adjusted Loan Amount under a particular Loan 
+(said request may only be submitted by Noteholders who are registered in the Debt Register for MTN 
+maintained by Euroclear Sweden on the Business Day immediately following the date on which the 
+request was received by the Administrative Agent, and must be made jointly if it is submitted by 
+several Noteholders each representing less than one tenth of the Adjusted Loan Amount), convene a 
+Noteholders’ Meeting for the Noteholders under the relevant Loan.
+
+--- Page 33 ---
+33 
+12.2 
+The Administrative Agent shall convene a Noteholders’ Meeting by sending notification to each 
+Noteholder and the Company within five (5) Business Days after receiving a request from the 
+Company or Noteholders pursuant to Section 12.1 (or such later date as required for technical or 
+administrative reasons). The Administrative Agent must notify the Issuing Dealer without delay and 
+in writing about the abovementioned notification.  
+12.3 
+The Administrative Agent may refrain from convening a Noteholders’ Meeting if (i) the proposed 
+decision must be approved by a person in addition to the Noteholders and this person has notified 
+the Administrative Agent that such approval will not be given, or (ii) the proposed decision is not 
+compatible with applicable law. 
+12.4 
+The convening notification referred to in Section 12.2 must include (i) the time of the meeting, (ii) the 
+venue for the meeting, (iii) the agenda for the meeting (including any request for a decision from the 
+Noteholders), and (iv) a proxy form. Only matters that have been included in the convening 
+notification may be decided at the Noteholders’ Meeting. If it is necessary for Noteholders to notify 
+their intention to attend the Noteholders’ Meeting, this requirement must be specified in the 
+convening notification. 
+12.5 
+The Noteholders’ Meeting shall be held no earlier than fifteen (15) Business Days and no later than 
+thirty (30) Business Days after the notification. Noteholders’ Meetings for multiple loans under the 
+MTN Programme can be held at the same time. 
+12.6 
+Without deviating from the provisions in these General Terms and Conditions, the Administrative 
+Agent may prescribe such additional provisions regarding the notification and the implementation 
+of the Noteholders’ Meeting as it deems appropriate. Such provisions may include the potential for 
+Noteholders to vote without attending the meeting in person, i.e. that voting may take place using an 
+electronic voting procedure or through a written voting procedure. 
+12.7 
+Only persons who are, or have been, authorised in accordance with Section 4 (Right to act on behalf 
+of a Noteholder) by a person who is a Noteholder on the Record Date for the Noteholders’ Meeting 
+may exercise voting rights at such Noteholders’ Meeting, provided that the relevant MTN are covered 
+by the Adjusted Loan Amount. The Administrative Agent must ensure that, at the Noteholders’ 
+Meeting, there is a printout of the Debt Register maintained by Euroclear Sweden from the Record 
+Date for the Noteholders’ Meeting. 
+12.8 
+Noteholders, the Administrative Agent and the Issuing Dealers, as well as their respective 
+representatives, assistants and any experts, are entitled to attend the Noteholders’ Meeting. 
+Representatives must present a duly issued power of attorney, which must be approved by the Chair 
+of the Noteholders’ Meeting. The Noteholders’ Meeting must begin with the appointment of a chair, 
+a person to take the minutes and persons to adjust the minutes. The Chair must draw up a list of 
+attending Noteholders who are eligible to vote, indicating the share of the Adjusted Loan Amount 
+that each Noteholder represents (the “Voting List”). After this, the Voting List must be approved by 
+the Noteholders’ Meeting. Noteholders who have cast their votes via an electronic voting procedure, 
+a voting slip or equivalent will, with the application of these provisions, be deemed to be present at 
+the Noteholders’ Meeting. Only those who were Noteholders on the Record Date, or representatives 
+of said Noteholders, and who are covered by the Adjusted Loan Amount, are entitled to vote and will 
+be included in the Voting List. The Company will have access to relevant voting calculations and the 
+supporting data for these. The minutes shall be completed as soon as possible and made available to 
+Noteholders, the Company, the Administrative Agent and the Issuing Dealer. 
+12.9 
+Decisions in the following matters require the approval of Noteholders representing at least ninety 
+(90) per cent. of the portion of the Adjusted Loan Amount for which Noteholders are voting under 
+the relevant Loan at the Noteholders’ Meeting:
+
+--- Page 34 ---
+34 
+(a) changing the Maturity Date, reduction of the Loan Amount, changing of terms relating to interest 
+or the amount to be repaid (other than in accordance with the Loan Terms and Conditions, 
+including what follows from the application of Section 13 (Replacement of Base Rate) and 
+changing of the relevant Currency of the Loan; 
+(b) change to the terms of the Noteholders’ Meeting under this Section 12;  
+(c) change of debtors; and 
+(d) mandatory exchange of MTN for other securities. 
+12.10 
+Matters that are not covered by Section 12.9 require the consent of Noteholders representing more 
+than fifty (50) per cent. of the portion of the Adjusted Loan Amount for which Noteholders are voting 
+under the relevant Loan at the Noteholders’ Meeting. This includes, but is not limited to, 
+amendments and waivers of rights in relation to the Loan Terms and Conditions which do not require 
+a greater majority (other than amendments according to Section 14 (Amendment of terms etc.)), as 
+well as early termination of Loans. 
+12.11 
+A quorum at a Noteholders’ Meeting requires the presence of Noteholders representing at least fifty 
+(50) per cent. of the Adjusted Loan Amount under the relevant Loan in respect of a matter in 
+Section 12.9, or twenty (20) per cent. of the Adjusted Loan Amount under the relevant Loan in 
+respect of other matters, attend the meeting in person or by telephone (or attend through an 
+authorised representative). 
+12.12 
+If the Noteholders’ Meeting has not met the necessary quorum requirements, the Administrative 
+Agent must convene a new Noteholders’ Meeting (in accordance with Section 12.2), provided that the 
+relevant proposal has not been withdrawn by the person or persons who initiated the Noteholders’ 
+Meeting. The quorum requirements in Section 12.11 is not applicable to such new Noteholders’ 
+Meeting. If the Noteholders’ Meeting has met the quorum requirement for some but not all of the 
+matters to be resolved on in the Noteholders’ Meeting, decisions shall be made on those matters for 
+which quorum is present, and other matters will be referred to a new Noteholders’ Meeting. 
+12.13 
+A decision at a Noteholders’ Meeting which imposes new obligations on, or limits the rights of, the 
+Company or an Issuing Dealer under the Loan Terms and Conditions requires the written approval 
+of the relevant party. 
+12.14 
+A Noteholder that holds more than one MTN does not need to vote for all the MTN they hold, nor 
+vote in the same way for all their MTN. 
+12.15 
+The Company may not, directly or indirectly, pay or contribute to the payment of any compensation 
+to any Noteholder for its approval under the Loan Terms and Conditions unless such compensation 
+is offered to all Noteholders who provide their consent at the relevant Noteholders’ Meeting. 
+12.16 
+A decision made at a Noteholders’ Meeting shall be binding on all Noteholders under the relevant 
+Loan, whether or not they were present at the Noteholders’ Meeting. Noteholders shall not be held 
+liable for any damage that the decision may cause another Noteholder. 
+12.17 
+At the request of the Administrative Agent, the Company must, without delay, provide the 
+Administrative Agent with a certificate indicating the total amount for all the MTN owned by Group 
+Companies on the Business Day specified in Section 12.1 and the relevant Record Date prior to a 
+Noteholders’ Meeting, regardless of whether said Group Company is directly registered as an owner 
+of MTN. The Administrative Agent will not be responsible for the content of said certificate or 
+otherwise be responsible for determining whether an MTN is owned by a Group Company.
+
+--- Page 35 ---
+35 
+12.18 
+Noteholders under the relevant Loan shall be notified, without delay, of any and all decisions made 
+at a Noteholders’ Meeting through a press release published on the Company’s website and in 
+accordance with Section 16 (Notices). At the request of a Noteholder or the Issuing Dealer, the 
+Administrative Agent shall provide the Noteholder with the minutes from the relevant Noteholders’ 
+Meeting. Failure to notify the Noteholders as stated above in this section does not affect the validity 
+of the decision. 
+13 
+REPLACEMENT OF BASE RATE 
+13.1 
+If a Base Rate Event as described in Section 13.2 below has occurred, the Company shall, in 
+consultation with the Arranger, initiate the procedure to, as soon as reasonably possible, determine 
+a Successor Base Rate, Adjustment Spread, as well as initiate the procedure to determine upon 
+necessary administrative, technical and operational amendments to the Loan Terms and Conditions 
+in order to apply, calculate and finally decide the applicable Base Rate. The Arranger is not obligated 
+to participate in such consultation or determination as described above. Should the Arranger not 
+participate in such consultation or determination, the Company shall, at the Company’s expense, as 
+soon as possible appoint an Independent Adviser to initiate the procedure to, as soon as reasonably 
+possible, determine upon the mentioned. Provided that the Successor Base Rate, the Adjustment 
+Spread and other amendments have been finally decided no later than prior to the relevant Interest 
+Determination Date in relation to the next succeeding Interest Period, they shall become effective 
+with effect from and including the commencement of the next succeeding Interest Period, always 
+subject to any technical limitations of Euroclear Sweden and any calculation methods applicable to 
+such Successor Base Rate. 
+13.2 
+A base rate event is an event where one or more of the following events occur (“Base Rate Event”) 
+which means: 
+(a) the Base Rate (for the relevant Interest Period of the relevant Loan) has ceased to exist or ceased 
+to be published for at least five (5) consecutive Business Days as a result of the Base Rate (for 
+the relevant Interest Period of the relevant Loan) ceasing to be calculated or administered; 
+(b) a public statement or publication of information by (i) the supervisor of the Base Rate 
+Administrator or (ii) the Base Rate Administrator that the Base Rate Administrator ceases to 
+provide the applicable Base Rate (for the relevant Interest Period of the relevant Loan) 
+permanently or indefinitely and, at the time of the statement or publication, no successor 
+administrator has been appointed or is expected to be appointed to continue to provide the Base 
+Rate; 
+(c) a public statement or publication of information in each case by the supervisor of the Base Rate 
+Administrator that the Base Rate (for the relevant Interest Period of the relevant Loan) is no 
+longer representative of the underlying market which the Base Rate is intended to represent and 
+the representativeness of the Base Rate will not be restored in the opinion of the supervisor of 
+the Base Rate Administrator; 
+(d) a public statement or publication of information in each case by the supervisor of the Base Rate 
+Administrator, with the consequence that it is unlawful for the Company, the Arranger or the 
+Administrative Agent to calculate any payments due to be made to any Noteholders using the 
+applicable Base Rate (for the relevant Interest Period of the relevant Loan) or it has otherwise 
+become prohibited to use the applicable Base Rate (for the relevant Interest Period of the 
+relevant Loan); 
+(e) a public statement or publication of information in each case by the bankruptcy trustee of the 
+Base Rate Administrator or by the trustee under the bank recovery and resolution framework 
+(krishanteringsregelverket), or in respect of EURIBOR, from the equivalent entity with
+
+--- Page 36 ---
+36 
+insolvency or resolution powers over the Base Rate Administrator , containing the information 
+referred to in paragraph (b) above; or 
+(f) a Base Rate Event Announcement has been made and the announced Base Rate Event as set out 
+in paragraphs (b)-(e) above will occur within six (6) months. 
+13.3 
+Upon a Base Rate Event Announcement, the Company may (but are not obligated to), if it is possible 
+at such time to determine the Successor Base Rate, Adjustment Spread and other amendments, in 
+consultation with the Arranger or through the appointment of an Independent Adviser, initiate the 
+procedure as described in Section 13.1 above to finally decide the Successor Base Rate, the 
+Adjustment Spread and other amendments, in order to change the Successor Base Rate at an earlier 
+time. 
+13.4 
+If a Base Rate Event set out in any of the paragraphs (a)-(e) of Section 13.2 has occurred but no 
+Successor Base Rate and Adjustment Spread have been finally decided at the latest prior to the 
+relevant Interest Determination Date or if such Successor Base Rate and Adjustment Spread have 
+been finally decided but due to technical limitations of Euroclear Sweden cannot be applied in 
+relation to the relevant Interest Determination Date, the interest applicable to the next succeeding 
+Interest Period shall be: 
+(a) if the previous Base Rate is available, determined pursuant to the terms that would apply to the 
+determination of the Base Rate as if no Base Rate Event had occurred; or  
+(b) if the previous Base Rate is no longer available or cannot be used in accordance with applicable 
+law or regulation, equal to the interest determined for the immediately preceding Interest 
+Period. 
+The provisions set out in this Section are applicable on subsequent Interest Periods, provided that 
+all relevant measures have been carried out regarding the application of and the adjustments 
+described in this Section 13 (Replacement of Base Rate) prior to every such subsequent Interest 
+Determination Date, but without success. 
+13.5 
+Prior to the Successor Base Rate, Adjustment Spread and any other amendments becoming effective, 
+the Company shall promptly, following the final decision by the Company in consultation with the 
+Arranger or the Independent Adviser of any Successor Base Rate, Adjustment Spread and other 
+amendments, give notice thereof to the Noteholders, the Administrative Agent, the Arranger and 
+Euroclear Sweden in accordance with Section 16 (Notices). The notice shall also include information 
+about the effective date of the amendments. If the MTN are admitted to trading on a Regulated 
+Market, the Company shall also give notice of the amendments to the relevant stock exchange. 
+13.6 
+The Arranger, the Independent Adviser and the Administrative Agent that carries out measures in 
+accordance with this Section 13 shall not be liable whatsoever for any damage or loss caused by 
+determinations, action taken or omitted by it in conjunction with the determination and final 
+decision of the Successor Base Rate, Adjustment Spread and any amendments thereto to the Loan 
+Terms and Conditions, unless directly caused by its gross negligence or wilful misconduct. The 
+Arranger, the Independent Adviser and the Administrative Agent shall never be responsible for 
+indirect or consequential loss. 
+13.7 
+In this Section 13, the following definitions have the meaning described below: 
+“Adjustment Spread” means a spread or a formula or methodology for calculating a spread to be 
+applied to a Successor Base Rate and that is: 
+(i) 
+formally recommended by any Relevant Nominating Body in relation to the replacement of 
+the Base Rate; or
+
+--- Page 37 ---
+37 
+(ii) 
+if item (i) is not applicable, the adjustment spread that the Company in consultation with 
+the Arranger or the Independent Adviser determines is reasonable to use in order to 
+eliminate, to the extent possible, any transfer of economic value from one party to another 
+as a result of a replacement of the Base Rate and is customarily applied in comparable debt 
+capital market transactions. 
+“Base Rate Administrator” means Swedish Financial Benchmark Facility AB (SFBF) in relation 
+to STIBOR and the European Money Markets Institute (EMMI) in relation to EURIBOR or any 
+person replacing it as administrator of the Base Rate. 
+“Base Rate Event Announcement” means a public statement or published information as set 
+out in paragraphs (b) to (e) of Section 13.2 that any event or circumstance specified therein will 
+occur. 
+“Independent Adviser” means an independent financial institution or advisor of repute in the 
+debt capital markets where the Base Rate is commonly used. 
+“Relevant Nominating Body” means, subject to applicable law, firstly any relevant supervisory 
+authority, secondly any applicable central bank, or any working group or committee of any of them 
+or thirdly, the Financial Stability Board or any part thereof. 
+“Successor Base Rate” means: 
+(i) 
+the screen or benchmark rate, including the methodology for calculating term structure 
+and calculation methods in respect of debt instruments with similar interest rate terms as 
+MTN, which is formally recommended as a successor to or replacement of the Base Rate by 
+a Relevant Nominating Body as successor; or 
+(ii) 
+if there is no such rate as described in item (i), such other rate as the Company in 
+consultation with the Arranger or the Independent Adviser determines is most comparable 
+to the Base Rate. 
+For the avoidance of doubt, in the event that the Successor Base Rate ceases to exist, this definition 
+shall be applied mutatis mutandis to such new Successor Base Rate. 
+14 
+AMENDMENT OF TERMS ETC. 
+14.1 
+The Company and the Dealers may agree on adjustments to clear and obvious errors in these General 
+Terms and Conditions. 
+14.2 
+The Company and the Administrative Agent may agree on adjustments to clear and obvious errors 
+in the Final Terms for a particular Loan. 
+14.3 
+The Company and the Arranger or the Independent Adviser may, without the approval of the 
+Noteholders’, amend the Loan Terms and Conditions in accordance with what is described in 
+Section 13 (Replacement of Base Rate). 
+14.4 
+The accession of a new Dealer to the MTN Programme may take place by means of a written 
+agreement between the Company, the relevant institution and existing Dealers. Dealers may retire 
+as Dealers, however the Administrative Agent in respect of a particular Loan may not retire as 
+Administrative Agent, unless a new Administrative Agent is appointed in its place for said Loan. 
+14.5 
+Amendments and waivers of Loan Terms and Conditions, other than as set out in Sections 14.1 to 
+14.4 shall take place through a decision at a Noteholders’ Meeting as described in Section 12 
+(Noteholders’ Meeting). 
+14.6 
+An approval at a Noteholders’ Meeting of an amendment to terms and conditions may cover the 
+substance of the amendment, and does not need to include the specific wording of the amendment.
+
+--- Page 38 ---
+38 
+14.7 
+A decision regarding an amendment of the terms shall also include a decision in respect of when the 
+amendment enters into force. However, an amendment shall not enter into force before it has been 
+registered with Euroclear Sweden and published on the Company’s website. 
+14.8 
+The amendment or concession of Loan Terms and Conditions in accordance with this Section 13 must 
+be notified to the Noteholders by the Company as soon as possible in accordance with Section 16 
+(Notices) and published in accordance with Section 10.5. 
+15 
+TIME-BAR FOR CLAIMS 
+15.1 
+Claims for repayment of principal shall be time-barred and become void ten (10) years from the 
+Maturity Date. Claims for interest shall be time-barred and become void three (3) years after each 
+relevant Interest Payment Date. The Company is entitled to any funds set aside for payments in 
+respect of which the Noteholders’ right to receive payment has been time-barred and has become 
+void. 
+15.2 
+If a limitation period is duly interrupted in accordance with the Swedish Act on Limitations 
+(preskriptionslag (1981:130)), a new limitation period of ten (10) years with respect to the right to 
+receive repayment of the principal, and of three (3) years with respect to receive payment of interest 
+will commence, in both cases calculated from the date of interruption of the limitation period, as such 
+date is determined pursuant to the provisions of the Swedish Act on Limitations. 
+16 
+NOTICES 
+16.1 
+Notifications shall be given to the Noteholders for the Loan in question at the address registered with 
+Euroclear Sweden on the Record Date prior to dispatch. A notification to the Noteholders must also 
+be made public by means of a press release and be published on the Company’s website. 
+16.2 
+Notification must be sent to the Company and the Dealers at the address registered with the Swedish 
+Companies Registration Office (Bolagsverket) at the time notice is given. 
+16.3 
+A notification to the Company or Noteholders in accordance with the Loan Terms and Conditions 
+that is sent by normal mail to the specified address will be deemed to have been received by the 
+recipient on the third Business Day after dispatch, and a notification sent by courier will be deemed 
+to have been received by the recipient when it has been delivered at the specified address.  
+16.4 
+In the event a notification has not been sent correctly to a particular Noteholder, this will not affect 
+the impact of the notification on other Noteholders. 
+17 
+LIMITATION OF LIABILITY ETC. 
+17.1 
+The Dealers shall not be liable for any damage as a consequence of Swedish or foreign legislation, 
+actions by Swedish or foreign public authorities, acts of war, strikes, blockades, boycotts, lockouts, 
+or any other similar circumstance. The reservation in respect of strikes, blockades, boycotts, and 
+lockouts applies notwithstanding that the Dealer itself takes such measures or is subject to such 
+measures. 
+17.2 
+Damage which arises in other cases shall not be compensated by the Dealer provided the Dealer acted 
+with normal care. 
+17.3 
+No Dealer shall be obligated in any circumstance to pay compensation for indirect loss. 
+17.4 
+In the event a Dealer is prevented from taking a measure as a consequence of a circumstance set forth 
+in Section 17.1, the measure may be postponed until such time as the impediment no longer exists. 
+17.5 
+The provision set forth above shall apply unless otherwise required by the Swedish Financial 
+Instruments Accounting Act.
+
+--- Page 39 ---
+39 
+18 
+GOVERNING LAW AND JURISDICTION  
+18.1 
+Swedish law will apply to the Loan Terms and Conditions and all non-contractual obligations that 
+arise in connection with the application of the Loan Terms and Conditions.  
+18.2 
+Disputes must be determined by a Swedish court. Stockholm District Court (Stockholms tingsrätt) 
+will be the court of first instance. 
+________________________ 
+ 
+It is hereby confirmed that the above General Terms and Conditions are binding on us 
+Umeå, 7 February 2025 
+VITEC SOFTWARE GROUP AB (PUBL)
+
+--- Page 40 ---
+40 
+FORM OF FINAL TERMS 
+The following template will be used for the preparation of the Final Terms for each loan issued under the 
+MTN Programme 
+ 
+FINAL TERMS 
+(“Final Terms”) 
+ 
+for loan no. [•] 
+under Vitec Software Group AB (publ)’s (the “Company”)  
+Swedish MTN Programme 
+ 
+The General Terms and Conditions dated 7 February 2025 together with the Final Terms set forth below shall 
+apply to the Loan. Unless otherwise stated, definitions used in these Final Terms are set forth in the Terms and 
+Conditions or otherwise in the Company’s base prospectus, approved and registered with the Swedish 
+Financial Supervisory Authority on 7 February 2025 (“Base Prospectus”), including any published 
+supplemental prospectus prepared for the MTN Programme from time to time in accordance with Regulation 
+(EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be 
+published when securities are offered to the public or admitted to trading on a regulated market, and repealing 
+Directive 2003/71/EC (the “Prospectus Regulation”). This document constitutes the Final Terms for the 
+Loan and has been prepared in accordance with Article 8 of the Prospectus Regulation. 
+Complete information about the Company and the MTN Programme can only be obtained through the Base 
+Prospectus, any published supplementary prospectuses and these Final Terms, which is why investors who are 
+considering investing in MTN should read these documents together and in full. The Base Prospectus and any 
+supplementary prospectuses to the Base Prospectus as applicable are available on the Company’s website 
+[website]. 
+[These Final Terms replace the Final Terms dated [date], whereby the Nominal Amount has been increased by 
+[SEK/EUR] [amount in figures] from [SEK/EUR] [amount in figures] to [SEK/EUR] [amount in figures].] 
+GENERAL 
+1.
+Loan number: 
+[•] 
+ 
+(i) 
+Tranche name: 
+[•] 
+2.
+Aggregate Nominal Amount: 
+ 
+ 
+(i) 
+for the loan: 
+[•] 
+ 
+(ii) 
+for tranche [•]: 
+(iii) 
+[for tranche [•] (indicate 
+previous tranches):] 
+[•] 
+[•] 
+3.
+Price per MTN: 
+[•] % of the Nominal Amount [plus accrued interest 
+as from [insert date] if applicable] 
+4.
+Currency: 
+[SEK/EUR] 
+5.
+Nominal Amount: 
+[SEK/EUR] [•] (Not less than EUR 100,000 or the 
+equivalent thereof in SEK) 
+6.
+Loan Date: 
+[•]
+
+--- Page 41 ---
+41 
+7.
+Interest Commencement Date: 
+[Loan Date/[•]] 
+8.
+Settlement Date: 
+[Loan Date/[•]] 
+9.
+Maturity Date: 
+[•] 
+10.
+Basis for calculation of interest: [Fixed Rate] 
+[Floating Rate (FRN)] 
+[Zero Coupon] 
+11.
+Amount as basis for calculation 
+of interest 
+[Nominal Amount/[•]] 
+BASIS FOR CALCULATION OF RETURN 
+12.
+Fixed Rate: 
+[Applicable/Not applicable] 
+(If not applicable, delete the remaining subheadings of 
+this paragraph) 
+ 
+(i) 
+Interest Rate: 
+[•] 
+% 
+annual 
+interest 
+calculated 
+on 
+[Nominal 
+Amount/[•]]. 
+ 
+(ii) 
+Interest Period: 
+The time from [•] up to and including [•] (the first 
+Interest Period) and thereafter each period of [•] months 
+with the end date on an Interest Payment Date 
+ 
+(iii) 
+Interest Payment Date(s): 
+[Annually/Semi-Annually/Quarterly] on [•], the first 
+time on [•] and the last time on [•] 
+(The above is adjusted in the event of a shortened or 
+extended Interest Period) 
+ 
+(iv) 
+Day Count Convention 
+Method: 
+30/360 [Specify] 
+ 
+(v) 
+Risk factors: 
+[In accordance with the risk factor with the heading 
+[“Notes with fixed interest rate”] in the Base 
+Prospectus.] 
+13.
+Floating Rate (FRN): 
+[Applicable/Not applicable] 
+(If not applicable, delete the remaining subheadings of 
+this paragraph) 
+ 
+(i) 
+Base Rate: 
+[•] months [STIBOR/EURIBOR] 
+[The [first/last] coupon’s Base Rate will be interpolated 
+linearly between [•] months [STIBOR/EURIBOR] and 
+[•] months [STIBOR/EURIBOR].] 
+ 
+(ii) 
+Margin: 
+[+/-][•] % annual interest calculated on [Nominal 
+Amount/[•]] 
+ 
+(iii) 
+Interest Determination 
+Date: 
+[•] Business Days before each Interest Period, the first 
+time on [•] 
+ 
+(iv) 
+Interest Period: 
+The time from [•] up to and including [•] (the first 
+Interest Period) and thereafter each period of approx. [•] 
+months with the end date on an Interest Payment Date.
+ 
+(v) 
+Interest Payment(s): 
+The final day in each Interest Period, [the [•], the [•], the 
+[•] and the [•],] the first time on [•] and the last time [the 
+[•]/on the Maturity Date].
+
+--- Page 42 ---
+42 
+ 
+(vi) 
+Day Count Convention 
+Method: 
+Actual/360 [Specify] 
+ 
+(vii) 
+Risk factors: 
+In accordance with the risk factor with the heading[s] 
+[“Notes with floating interest rate”] [and “Risks 
+relating to benchmarks”] in the Base Prospectus. 
+14.
+Zero Coupon: 
+[Applicable/Not applicable] 
+(If not applicable, delete the remaining subheadings of 
+this paragraph) 
+ 
+(i) 
+Terms for Loans without 
+interest: 
+[Specify details] 
+ 
+(ii) 
+Risk factors: 
+In accordance with the risk factor with the heading 
+[“Notes with zero coupon”] in the Base Prospectus. 
+REPAYMENT 
+15.
+Amount at which MTN is to be 
+repaid on the Maturity Date: 
+[•] % of [Nominal Amount/[•]] 
+16.
+Early voluntary redemption 
+(call option): 
+[Applicable/Not applicable] 
+(If not applicable, delete the remaining subheadings of 
+this paragraph) 
+[The Company may redeem all, but not some only, of the 
+MTN in full on any Business Day falling after [specify] 
+at an amount per MTN equal to [percentage] of the 
+Nominal Amount, together with accrued but unpaid 
+Interest.]/[Specify terms] 
+OTHER 
+17.
+Estimated net proceeds: 
+[SEK]/[EUR] [•] [less customary transaction costs and 
+fees]/[Specify]. 
+18.
+Use of net proceeds: 
+[General corporate purposes]/[Specify] 
+19.
+Admission to trading on a 
+Regulated Market: 
+[Applicable/Not applicable] 
+(If not applicable, delete the remaining subheadings of 
+this paragraph) 
+ 
+(i) 
+Regulated Market: 
+[Nasdaq Stockholm/Specify other Regulated Market] 
+ 
+(ii) 
+Estimated total costs 
+associated with admission to 
+trading 
+[•] 
+ 
+(iii) 
+Total number of securities 
+admitted to trading: 
+[•] 
+ 
+(iv) 
+Earliest date for admission 
+to trading: 
+[•] 
+20.
+Conflict of interests: 
+[Specify/Not applicable]  
+(Interests and any conflicts of interest for individuals 
+who are involved in the share issue and that are of 
+significance for the Loan must be described) 
+21.
+Credit rating for Loans: 
+[Specify/Not applicable]
+
+--- Page 43 ---
+43 
+22.
+Resolutions as basis of the 
+issue: 
+[Not applicable/Resolutions regarding this Loan were 
+taken on [insert date]/Specify] 
+(If resolutions regarding issues under the MTN 
+Programme are described in the Base Prospectus and 
+this issue is covered by such a decision, “Not applicable” 
+must be used) 
+23.
+Information from third parties: [Information presented in these Final Terms originating 
+from third parties has been reproduced accurately and, 
+as far as the Company is aware and can ascertain from 
+information published by that third party, no facts have 
+been omitted that would render the reproduced 
+information inaccurate or misleading]/ [Not applicable]
+24.
+Issuing Dealer: 
+ 
+ 
+(i) 
+for tranche [•]: 
+[(ii) for tranche [•] (indicate previous 
+tranches):] 
+[[Skandinaviska Enskilda Banken AB (publ)][Nordea 
+Bank Abp] 
+25.
+Administrative Agent: 
+[[Skandinaviska Enskilda Banken AB (publ)][Nordea 
+Bank Abp]] 
+26.
+ISIN: 
+SE[•] 
+ 
+The Company confirms that the above Final Terms are applicable to the Loan, together with the General Terms 
+and Conditions, and undertakes, in accordance therewith, to repay the Loan and to pay interest in accordance 
+herewith. 
+The Company further confirms that any material event after the date of the Base Prospectus that could affect 
+the market’s assessment of the Loan and the Company to this MTN have been publicly disclosed. 
+[Place and date for signing the Final Terms] 
+ 
+VITEC SOFTWARE GROUP AB (PUBL)
+
+--- Page 44 ---
+44 
+DESCRIPTION OF THE ISSUER AND THE GROUP 
+General information regarding the Issuer 
+The Issuer’s legal and commercial name is Vitec Software Group AB (publ). The Issuer is a Swedish public 
+limited liability company, governed by the Swedish Companies Act (Sw. aktiebolagslagen (2005:551)), 
+incorporated in Sweden on 5 February 1985 and registered with the Swedish Companies Registration Office 
+(Sw. Bolagsverket) on 2 May 1985. The Issuer’s corporate registration number is 556258-4804 and its legal 
+entity identifier (LEI) code is 5493005EB5RV1QHE6H94. The Issuer’s registered office is Tvistevägen 47 A, 
+907 29 Umeå, Sweden. The telephone number of the Group’s headquarters is +46 90 15 49 00 and the Group’s 
+website is www.vitecsoftware.com. The information on the Group’s website does not form part of this 
+Prospectus unless explicitly incorporated by reference into the Prospectus and potential investors should not 
+rely on such information in making a decision to invest in Notes. 
+Pursuant to the Issuer’s current Articles of Association adopted on 28 April 2021, the objects of the Issuer’s 
+business are to purchase, manage and sell real and personal property and to conduct activities compatible 
+therewith. 
+The Group’s business and operations 
+Vitec is active in the market for vertical software and has its origin and headquarters in Umeå, Sweden. Vitec 
+develops and delivers standardised software for various functions in society. They can be found at the heart of 
+a variety of businesses and activities, including energy, insurance, retail, hotels, churches and health care. 
+Vitec’s products enable the Company to help customers achieve greater efficiency and to generate societal 
+benefit. The expertise of Vitec’s employees, combined with the Company’s shared corporate culture and 
+business model, enable continuous improvement and innovation. Vitec is listed on the Nasdaq Stockholm 
+Large Cap list. Vitec has business units located in Sweden, Finland, Norway, Denmark, the Netherlands and 
+Belgium. 
+Vitec is an industry acquirer with a long-term outlook. The Group’s growth mainly occurs through corporate 
+acquisitions, but also organically. The Group’s strong cash flow enables it to both reinvest in products and 
+make acquisitions. Continual development of Vitec’s products is crucial to ensure that the Company’s offering 
+will remain relevant in the future. 
+Vitec’s business model is based on a high percentage of recurring revenues. This provides the Group with stable 
+and predictable cash flows that create the prerequisites for a long-term approach. It also makes the Group less 
+sensitive to temporary declines within individual business units. 
+Within the framework of Vitec’s decentralised organisation, the corporate culture plays a significant role in 
+corporate governance and is important for long-term success. Our values, brand promise and Code of Conduct 
+are the three cornerstones of Vitec’s corporate culture. Through an array of forums, Vitec creates conditions 
+for employees and leaders to become part of its corporate culture. 
+Sustainability is integral to Vitec’s business model and culture. To structure the Company’s work, Vitec has 
+defined four focus areas: Responsible growth, Enabling products, Empowered people and Reduced footprint. 
+They are specified based on where and how Vitec’s business has the greatest impact on the world around us, 
+as well as areas where Vitec believes it can make the greatest difference. 
+History and development of the Group 
+Below is a summary of the history and development of the Group. 
+ 
+1985 – Vitec is founded by research colleagues Lars Stenlund and Olov Sandberg.
+
+--- Page 45 ---
+45 
+ 
+1990 – Operations are scaled up and the Board of Directors is reinforced with external Board 
+members. 
+ 
+1998 – Vitec is listed on Innovationsmarknaden (currently known as the Nordic Growth Market). 
+ 
+2003 – Vitec formulated its acquisition-driven growth strategy. 
+ 
+2011 – Vitec listed on Nasdaq Stockholm. Acquisition of IT-Makeriet AS in Norway, the first 
+acquisition of a foreign company. 
+ 
+2012 – Vitec records its values, which become a cornerstone of the corporate culture. 
+ 
+2016 – The governance model is clarified and strengthened with the implementation of the role of 
+Vice President of Operations (VPO). 
+ 
+2017 – Vitec is moved from the Small Cap to Mid Cap list on the Nasdaq Stockholm. Olov Sandberg, 
+one of the founders of Vitec, retired. Olov remains as one of the Vitec's principal owners. 
+ 
+2021 – Vitec acquired the Dutch company Vabi Holding B.V., the first acquisition outside the Nordic 
+region. Lars Stenlund was elected to serve as Chairman of the Board of Vitec and Olle Backman was 
+appointed CEO and President. 
+ 
+2022 – Vitec is moved from the Mid Cap to Large Cap list on the Nasdaq Stockholm. 
+ 
+2023 – Vitec acquired six vertical software companies. 
+ 
+2024 – Vitec acquired Trinergy, the first acquisition in Belgium. In total Vitec acquired seven new 
+companies this year. 
+Overview of the Group 
+As of the date of this Prospectus, the Issuer has, directly and indirectly, 89 subsidiaries of which 87 are wholly 
+owned. The Group’s operations are mainly conducted by the subsidiaries and the Issuer is thus dependent on 
+its subsidiaries to generate revenues and profit in order to be able to fulfil the Issuer’s payment obligations 
+under the Notes. The structure of the Group is illustrated by the below table. All subsidiaries are wholly owned 
+unless otherwise stated within parentheses. 
+The Issuer 
+Direct subsidiary of the 
+Issuer 
+Indirect subsidiaries of the Issuer 
+Vitec Software 
+Group AB (publ) 
+Vitec Energy AB  
+Vitec IT-Drift AB 
+Vitec AB 
+Vitec Mäklarsystem AB
+Vitec Förvaltningssystem AB 
+Vitec Capitex AB 
+Vitec Megler AS 
+Vitec Megler AB
+Vitec Acute Oy (53%)
+Vitec Shared Services Oy
+Vitec Acute Oy (47%)
+Vitec Autosystemer AS 
+Vitec Aloc A/S 
+Vitec Aloc AS 
+Vitec Datamann A/S 
+Carlogistic ApS 
+Vitec Forsikring AS 
+Vitec Tietomitta Oy 
+Vitec Futursoft Oy 
+Vitec Plania AS  
+Vitec Facility Management 
+System ApS 
+Vitec MV A/S 
+Vitec MV AB
+Vitec MV AS
+Vitec Shared Services AS 
+Vitec Agrando AS 
+Vitec Cito A/S 
+Vitec Smart Visitor System AB
+
+--- Page 46 ---
+46 
+Vitec Avoine Oy 
+Vitec Fixit Systemer AS 
+Vitec Katrina Oy 
+Vitec HK data AS 
+Malmkroppen AB 
+Vitec Shared Services ApS 
+Vitec Appva AB 
+Evig AB
+Vitec Samfundssystem AB 
+Agrando Asia 
+Vitec Alma Oy 
+Vitec Visiolink Aps
+Vitec LIVEdition ApS
+Vitec Unikum Datasystem AB
+Vitec Travelize AB
+Vitec Nordman AB
+Vitec Vabi B.V.
+Vitec DocuBizz Aps
+Vitec Hotellinx Oy
+ABS Information Systems Group 
+B.V. 
+ABS LBS Group B.V. 
+ABS Japan LCC 
+ABS France SA
+ 
+ 
+Laundry Services 
+International Inc 
+ABS Scandinavia Aps
+ 
+ 
+ABS Belgium N.V. 
+ABS Deutschland 
+GmbH 
+ABS Holding International B.V.
+ABS Boxtel Software B.V.
+Inter Data ABS SRL
+Vitec Scanrate A/S
+Vitec Raisoft Oy
+Enova Holding B.V.
+Enova B.V.
+Enova Grid Management 
+B.V. 
+ 
+Enova Storage Systems B.V.
+Vitec Shared Services B.V.
+Vitec DL Systems AB
+Vitec Entry Event AB
+Vitec Neagen Oy
+Vitec Memorix B.V.
+Vitec Codea Oy
+Vitec Navicode Oy
+Vitec LDC B.V.
+Vitec Bidtheatre AB
+Vitec Bidtheatre AS
+Taxiteknik Nordic AB (60%)
+Gautama SRL (60%)
+Trinergy SRL
+Juloro SAS
+Olyslager Group B.V. 
+Olyslager Holding B.V. 
+Olyslager
+International B.V. 
+Olyslager North 
+America Inc. 
+ 
+ 
+Olyslager Organisation 
+B.V. 
+Olyslager Licence B.V.
+Vitec Roidu Oy
+Vitec Figlo Holding B.V.
+Vitec Figlo Distribution B.V.
+Vitec Figlo SSC B.V.
+Vitec Figlo B.V.
+Vitec Intergrip B.V.
+
+--- Page 47 ---
+47 
+Material agreements 
+No Group company has concluded any material contracts that are not entered into in the ordinary course of its 
+business which could result in any Group company being under an obligation or entitlement that is material 
+to the Issuer’s ability to meet its obligations to Noteholders. 
+Recent events particular to the Issuer 
+There have been no recent events particular to the Issuer which are to a material extent relevant to the 
+evaluation of the Issuer’s solvency. 
+Significant changes etc. 
+There has been no material adverse change in the prospects of the Issuer since 31 December 2023 (which was 
+the last day of the period to which the Issuer’s most recently published audited financial statements relate). 
+There has been no significant change in the financial performance or financial position of the Group since 31 
+December 2024 (which was the last day of the period to which the Issuer’s most recently published non-audited 
+interim financial statements relate). 
+Legal, governmental and arbitration proceedings 
+The Issuer is not, and has not during the last twelve (12) months been, involved in any legal, governmental or 
+arbitration proceedings which may have, or have had in the recent past, significant effects on the Issuer’s 
+and/or the Group’s financial position or profitability, nor is the Issuer aware of any such proceedings which 
+are pending or threatened. 
+Credit rating 
+No credit rating has been assigned to the Issuer.
+
+--- Page 48 ---
+48 
+SHARE CAPITAL, SHARES AND OWNERSHIP STRUCTURE 
+Share capital and shares 
+According to its current Articles of Association adopted on 28 April 2021, the Issuer’s share capital shall be no 
+less than SEK 1,600,000 and not more than SEK 6,400,000 divided into not less than 16,000,000 shares and 
+not more than 64,000,000 shares which may be issued in two classes, class A and class B, where class A shares 
+carry ten (10) votes and class B shares carry one (1) vote at general meetings. As at the date of this Prospectus, 
+the total number of shares in the Issuer is 39,849,341 shares, divided among 2,490,000 class A shares and 
+37,359,341 class B shares. The Issuer’s class B shares (ISIN code SE0007871363) are listed on Nasdaq 
+Stockholm under the short name (ticker) VIT B. The Issuer’s class A shares are not publicly traded. 
+Ownership structure 
+As at 31 December 2024, the Issuer’s largest shareholders are the Chairman of the Board of Directors Lars 
+Stenlund, who owns, directly and indirectly, 3.48% of the shares and 19.14% of the votes in the Issuer, and co-
+founder Olov Sandberg, who owns, directly and indirectly, 2.90% of the shares and 18.05% of the votes in the 
+Issuer. 
+The shareholders exercise their voting rights at general meetings, e.g., with regard to the composition of the 
+Board of Directors and election of external auditors. Major shareholders’ influence over the Issuer is inter alia 
+limited by the Swedish Companies Act (e.g., by its provisions on shareholder minority protection) and the 
+Swedish Corporate Governance Code (Sw. Svensk kod för bolagsstyrning).  
+To the Issuer’s knowledge, there are no shareholders’ agreements or other arrangements the operation of 
+which may result in a change in control of the Issuer. 
+The below table sets out the Issuer’s largest shareholders as at 31 December 2024. 
+No. 
+Name 
+No. of 
+class A 
+shares 
+No. of class B 
+shares 
+Percentage 
+of shares 
+Percentage 
+of votes 
+1 
+Lars Stenlund 
+1,170,000
+216,746
+3.48%
+19.14%
+2 
+Olov Sandberg 
+1,120,000
+34,995
+2.90%
+18.05%
+3 
+Capital Group 
+-
+3,092,881
+7.76%
+4,97%
+4 
+Cliens Fonder 
+-
+2,242,512
+5.63%
+3.60%
+5 
+Jerker Vallbo 
+200,000
+117,598
+0.80%
+3.40%
+6 
+SEB Investment 
+Management 
+-
+2,107,562
+5.29%
+3.39%
+7 
+Thomas Eklund 
+-
+1,670,805
+4.19%
+2.68%
+8 
+Lannebo 
+Kapitalförvaltning 
+-
+1,626,015
+4.08%
+2.61%
+9 
+Carnegie Fonder 
+-
+1,459,093
+3.66%
+2.34%
+
+--- Page 49 ---
+49 
+10 
+Vanguard 
+-
+1,316,487
+3.30%
+2.11%
+ 
+Top 10 
+2,490,000
+13,884,694
+41.09%
+62.29%
+  
+Others 
+-
+23,474,647
+58.91%
+37.71%
+ 
+Total 
+2,490,000
+37,359,341
+100.00%
+100.00%
+
+--- Page 50 ---
+50 
+BOARD OF DIRECTORS, GROUP MANAGEMENT AND 
+AUDITORS 
+General 
+The Board of Directors of the Issuer currently consists of six (6) Board members elected by the Annual General 
+Meeting and no deputy Board members. The Board members elected by the Annual General Meeting are 
+elected for one year until the end of the next Annual General Meeting. According to the Issuer’s current Articles 
+of Association adopted on 28 April 2021, the Board of Directors shall comprise not less than three (3) and not 
+more than seven (7) members, with not more than three (3) deputies. The Group Management team currently 
+consists of thirteen (13) members. 
+The division of responsibilities between the Board of Directors and the CEO follows from Swedish law and is 
+further set out in the Board of Directors’ Rules of Procedure and the Board of Directors’ Instructions to the 
+CEO. The CEO is subordinate to the Board of Directors and is responsible for the Company’s day-to-day 
+management and operations in accordance with applicable laws and the Board of Directors’ instructions. The 
+CEO is also responsible for providing the Board of Directors with decision-aiding materials.  
+The business address of the members of the Board of Directors and the Group Management team is Vitec 
+Software Group AB (publ), Tvistevägen 47 A, 907 29 Umeå, Sweden. 
+Board of Directors 
+The below table presents the members of the Issuer’s Board of Directors. 
+Name 
+Position 
+Year first 
+elected  
+Other assignments significant to Vitec 
+Lars Stenlund 
+Chairman 
+2021 
+Chairman of the Board of Directors at Umeå 
+universitet Holding AB. 
+Chairman of the Board of Directors at TREAC 
+Aktiebolag. 
+Jan Friedman 
+Member 
+2010 
+Chairman of the Board of Directors at Kjell Group 
+AB. 
+Chairman of the Board at Stiftelsen Anna Whitlocks 
+Minnesfond. 
+Birgitta 
+Johansson-
+Hedberg 
+Member  
+2011 
+Chairman of the Board of Directors at Sörmlands 
+Sparbank. 
+Member of the Board of Directors at Stellae Energia 
+Consilidata AB. 
+Member of the Board of Directors at Sparbankernas 
+ägarförening. 
+Malin Ruijsenaars 
+Member 
+2023 
+Member of the Board of Directors at Probi AB.  
+Member of the Board of Directors at Bulten AB. 
+Kaj Sandart 
+Member 
+1998 
+Chairman of the Board of Directors at Catch23 AB.
+
+--- Page 51 ---
+51 
+Member of the Board of Directors at Vallabacken 
+Invest AB. 
+Member of the Board of Directors at Milox AB. 
+Senior advisor at Hallvarsson & Halvarsson. 
+Anna Valtonen 
+Member 
+2012 
+Vice-chancellor, Konstfack, University of Arts, 
+Crafts and Design. 
+Chairman at the Board of Directors at Kalevala 
+Jewelry. 
+ 
+Group Management  
+The below table presents the member of Vitec’s Group Management team. 
+Name 
+Position 
+Employed since
+Other assignments 
+significant to Vitec 
+Olle Backman 
+CEO 
+2019 
+N/A 
+Anna Andersson 
+Head of HR 
+2017 
+N/A 
+Kerstin Anderson 
+Vice President of Operations 
+2018 
+N/A 
+Gert Gustafsson 
+COO 
+2017 
+N/A 
+Pia Kantola 
+Vice President Operations 
+2024 
+N/A 
+Peter Lidström 
+CFO 
+2024 
+N/A 
+Kim Møller Jensen 
+Vice President Operations 
+2016 
+N/A 
+Anna-Karin Nilsson 
+Head of Brand 
+2020 
+N/A 
+Pien Oosterman 
+Vice President Operations 
+2023 
+N/A 
+Magnus Persson 
+Vice President Operations 
+2008 
+N/A 
+Jerker Vallbo 
+CIO/CTO 
+1988 
+N/A 
+Svein Roger Westengren 
+Vice President Operations 
+2014 
+N/A 
+Aleš Zobec 
+Head of M&A 
+2018 
+N/A 
+ 
+Conflicts of interest 
+With the exception of the Chairman, Lars Stenlund, all members of the Board of Directors are independent in 
+relation to Vitec. Furthermore, with the exception of the Chairman, Lars Stenlund, who is Vitec’s largest 
+shareholder in terms of voting rights, all members of the Board of Directors and all members of the Group 
+Management team are independent in relation to Vitec’s major shareholders. Several of the members of the 
+Board of Directors and Group Management team have financial interests in the Group as a result of their 
+shareholding in Vitec.
+
+--- Page 52 ---
+52 
+Apart from the foregoing, the members of the Board of Directors and the Group Management team have no 
+conflicts of interest between their duties to the Issuer and their private interests or other duties. 
+Auditors 
+The Issuer’s current auditor, elected at the Issuer’s Annual General Meeting in 2024 for the period until the 
+end of the Annual General Meeting 2025, is the authorised audit firm Deloitte AB with Richard Peters as 
+auditor in charge. Richard Peters is a member of FAR (the professional institute for authorised public 
+accountants in Sweden). Deloitte AB’s business address is Rehnsgatan 11, 113 79 Stockholm, Sweden. 
+The Issuer’s auditor during the period from the Issuer’s Annual General Meeting in 2014 until and including 
+the Issuer’s Annual General Meeting in 2024 was the authorised audit firm PricewaterhouseCoopers AB. 
+PricewaterhouseCoopers AB’s business address is Torsgatan 21, 113 97 Stockholm, Sweden.
+
+--- Page 53 ---
+53 
+FINANCIAL INFORMATION 
+Historical financial information incorporated by reference 
+The historical financial information set out in the below table has been incorporated into this Prospectus by 
+reference and should be read as part of the Prospectus. The documents containing the incorporated 
+information have been made public prior to the publication of this Prospectus and are available, at least during 
+the period of validity of this Prospectus, in electronic format on Vitec’s website via the links included in the 
+below table. 
+Potential investors should read all historical financial information which is incorporated in the Prospectus by 
+reference. Information in the below documents that have not been incorporated by reference is either deemed 
+by Vitec not to be relevant for potential investors or is covered elsewhere in the Prospectus. 
+All financial information in this Prospectus relating to the financial periods January–December 2022 or 
+January–December 2023 is derived from Vitec’s audited consolidated financial statements for the financial 
+year ended in December 2024. All financial information in this Prospectus relating to the financial period 
+January–December 2024 is derived from Vitec’s unaudited consolidated year-end report for the period 
+January–December 2024 or from the Group’s internal accounting systems and has not been audited or 
+reviewed by the Issuer’s auditor. 
+No. 
+Document 
+Information incorporated by reference 
+1.  
+Vitec’s audited consolidated 
+financial statements, including 
+the auditor’s report, for the 
+financial year ended in 
+December 2022 (which can be 
+found through the following 
+link) 
+ 
+The consolidated statement of profit/loss and 
+consolidated statement of comprehensive income, 
+which can be found on pages 106–107. 
+ 
+The consolidated statement of financial position, 
+which can be found on pages 108–109. 
+ 
+The consolidated statement of changes in equity, which 
+can be found on page 110. 
+ 
+The consolidated statement of cash flows, which can be 
+found on page 111. 
+ 
+The notes to the consolidated financial statements 
+(including information on accounting and 
+measurement policies), which can be found on pages 
+112–141. 
+ 
+The auditor’s report, which can be found on pages 
+160–165. 
+2.  
+Vitec’s audited consolidated 
+financial statements, including 
+the auditor’s report, for the 
+financial year ended in 
+December 2023 (which can be 
+found through the following 
+link) 
+ 
+The consolidated statement of profit/loss and 
+consolidated statement of comprehensive income, 
+which can be found on page 113. 
+ 
+The consolidated statement of financial position, 
+which can be found on page 114. 
+ 
+The consolidated statement of changes in equity, which 
+can be found on page 115. 
+ 
+The consolidated statement of cash flows, which can be 
+found on page 116.
+
+--- Page 54 ---
+54 
+ 
+The notes to the consolidated financial statements 
+(including information on accounting and 
+measurement policies), which can be found on pages 
+117–145. 
+ 
+The auditor’s report, which can be found on pages 
+165–170. 
+3.  
+Vitec’s unaudited consolidated 
+year-end report for the period 
+January–December 2024 
+(which can be found through the 
+following link) 
+ 
+The consolidated statement of comprehensive income, 
+which can be found on page 21. 
+ 
+The condensed consolidated statement of financial 
+position, which can be found on page 22. 
+ 
+The condensed consolidated statement of changes in 
+equity, which can be found on page 23. 
+ 
+The condensed consolidated statement of cash flow, 
+which can be found on page 24. 
+ 
+Future financial information incorporated by reference 
+The future financial information set out in the below table has been incorporated into this Prospectus by 
+reference and should, once made public, be read as part of the Prospectus. The documents containing the 
+incorporated information are expected to be made public on the respective dates indicated in the below table, 
+whereupon they will become available, at least during the period of validity of this Prospectus, in electronic 
+format on Vitec’s website via the following link.  
+The expected publication dates for the documents are also presented in Vitec’s financial calendar, which is 
+available on Vitec’s website via the following link. If the expected publication date for a document changes, 
+Vitec will as soon as possible update the financial calendar on its website accordingly. If such change occurs 
+later than two (2) weeks before the last communicated expected publication date in question or later than two 
+(2) weeks before the new publication date, Vitec will publicly announce the new publication date through a 
+press release. 
+Potential investors should read all future financial information which is incorporated in the Prospectus by 
+reference as it becomes available. Information in the below documents that have not been incorporated by 
+reference is either deemed by Vitec not to be relevant for potential investors or is covered elsewhere in the 
+Prospectus. 
+No. 
+Document 
+Information incorporated by reference 
+1.  
+Vitec’s audited consolidated 
+financial statements, including 
+the auditor’s report, for the 
+financial year ended in 
+December 2024 (expected to be 
+made public on or around 1 
+April 2025) 
+ 
+The consolidated statement of profit/loss and 
+consolidated statement of comprehensive income. 
+ 
+The consolidated statement of financial position. 
+ 
+The consolidated statement of changes in equity. 
+ 
+The consolidated statement of cash flows. 
+ 
+The notes to the consolidated financial statements 
+(including information on accounting and 
+measurement policies). 
+ 
+The auditor’s report.
+
+--- Page 55 ---
+55 
+2.  
+Vitec’s unaudited consolidated 
+interim report for the period 
+January–March 2025 (expected 
+to be made public on or around 
+23 April 2025) 
+ 
+The condensed consolidated statement of 
+comprehensive income. 
+ 
+The condensed consolidated statement of financial 
+position. 
+ 
+The condensed consolidated statement of changes in 
+equity. 
+ 
+The condensed consolidated statement of cash flow. 
+3.  
+Vitec’s unaudited consolidated 
+interim report for the period 
+January–June 2025 (expected 
+to be made public on or around 
+11 July 2025) 
+ 
+The condensed consolidated statement of 
+comprehensive income. 
+ 
+The condensed consolidated statement of financial 
+position. 
+ 
+The condensed consolidated statement of changes in 
+equity. 
+ 
+The condensed consolidated statement of cash flow. 
+4.  
+Vitec’s unaudited consolidated 
+interim report for the period 
+January–September 2025 
+(expected to be made public on 
+or around 16 October 2025) 
+ 
+The condensed consolidated statement of 
+comprehensive income. 
+ 
+The condensed consolidated statement of financial 
+position. 
+ 
+The condensed consolidated statement of changes in 
+equity. 
+ 
+The condensed consolidated statement of cash flow. 
+5.  
+Vitec’s unaudited consolidated 
+year-end report for the period 
+January–December 2025 
+(expected to be made public on 
+or around 6 February 2026) 
+ 
+The consolidated statement of comprehensive income. 
+ 
+The condensed consolidated statement of financial 
+position. 
+ 
+The condensed consolidated statement of changes in 
+equity. 
+ 
+The condensed consolidated statement of cash flow. 
+ 
+Accounting standards for the financial information 
+Vitec’s consolidated financial statements for the financial years ended in December 2022 and 2023, 
+respectively, have been, and Vitec’s consolidated financial statements for the financial year ended in December 
+2024 are expected to be, prepared pursuant to the Swedish Annual Accounts Act (Sw. årsredovisningslagen 
+(1995:1554)), International Financial Reporting Standards (IFRS) issued by the International Accounting 
+Standards Board (IASB) (including interpretations by the International Financial Reporting Interpretations 
+Committee (IFRIC)), as adopted by the European Union for application within the European Union, and 
+Recommendation RFR 1, Supplementary accounting rules for corporate groups, issued by the Swedish 
+Financial Reporting Board. 
+Vitec’s unaudited consolidated year-end report for the period January–December 2024 has been, and Vitec’s 
+unaudited consolidated interim reports for the periods January–March, January–June and January–
+September 2025, respectively, and Vitec’s unaudited consolidated year-end report for the period January–
+December 2025 are expected to be, prepared in accordance with IAS 34 Interim Financial Reporting.
+
+--- Page 56 ---
+56 
+Auditing of the financial information 
+Vitec’s consolidated financial statements for the financial years ended in December 2022 and December 2023, 
+respectively, have been audited by the authorised audit firm PricewaterhouseCoopers AB with Alexander 
+Lyckow as auditor in charge. Vitec’s consolidated financial statements for the financial year ended in December 
+2024 are expected to be audited by the authorised audit firm Deloitte AB with Richard Peters as the auditor in 
+charge. Alexander Lyckow and Richard Peters are members of FAR (the professional institute for authorised 
+public accountants in Sweden). Unless otherwise explicitly stated, no other information contained in this 
+Prospectus has been audited or reviewed by the Issuer’s auditors.
+
+--- Page 57 ---
+57 
+LEGAL CONSIDERATIONS AND SUPPLEMENTARY 
+INFORMATION 
+Approval of the Prospectus 
+This Prospectus has been approved and registered by the Swedish Financial Supervisory Authority (Sw. 
+Finansinspektionen) (the “SFSA”) as competent authority under Regulation (EU) 2017/1129 of the European 
+Parliament and of the Council of 14 June 2017, as amended (the “Prospectus Regulation”). This Prospectus 
+is a base prospectus pursuant to Article 8 of the Prospectus Regulation. The SFSA only approves this 
+Prospectus as meeting the standards of completeness, comprehensibility and consistency imposed by the 
+Prospectus Regulation. Such approval should not be considered as an endorsement of the Issuer or of the 
+quality of the Notes, and investors should make their own assessment as to the suitability of investing in the 
+Notes. 
+Responsibility 
+The members of the Board of Directors of the Issuer are responsible for the information contained in the 
+Prospectus under the conditions and to the extent set forth in Swedish law. The members of the Board of 
+Directors of the Issuer hereby declare that, to the best of their knowledge, the information contained in the 
+Prospectus is in accordance with the facts and the Prospectus makes no omission likely to affect its import. 
+Information from third parties 
+No information in this Prospectus has been sourced form a third party. 
+Arrangements with advisors 
+The Dealers, and other entities within their groups and/or their affiliates, may have performed, and may in the 
+future perform, investment, insurance, banking, lending or other services for the Group in the ordinary course 
+of business, for which they may have received, and may continue to receive, customary fees, interests and 
+commissions. Where existing financial indebtedness is wholly or partly refinanced with proceeds from an 
+issuance of Notes, such financial indebtedness may include indebtedness provided by one or more of the 
+Dealers. 
+Snellman Advokatbyrå AB has acted as legal advisor in relation to the MTN Programme and has provided, and 
+may in the future provide, additional legal services to the Group in the ordinary course of business, for which 
+it has received, and may continue to receive, customary fees. 
+Taxation 
+Potential investors should be aware that the tax legislation of their home jurisdiction and of the Issuer’s country 
+of incorporation may have an impact on the income received from Notes and that they may be required to pay 
+taxes or other documentary charges or duties in accordance with the laws and practices of the country where 
+Notes are transferred or other jurisdictions. Potential investors are advised to ask for their own tax advisor’s 
+advice on their individual taxation. 
+Documents available for inspection 
+The Issuer’s Articles of Association and Certificate of Registration may be inspected during the period of 
+validity of this Prospectus at the Issuer’s registered address, Tvistevägen 47 A, 907 29 Umeå, Sweden on 
+weekdays 
+during 
+ordinary 
+business 
+hours 
+and 
+are 
+also 
+available 
+at 
+the 
+Issuer’s 
+website, 
+www.vitecsoftware.com.
+
+--- Page 58 ---
+58 
+ADDRESSES 
+Issuer 
+Vitec Software Group AB (publ) 
+Tvistevägen 47 A 
+907 29 Umeå, Sweden 
+ 
+Auditor 
+Deloitte AB 
+Rehnsgatan 11 
+113 79 Stockholm, Sweden 
+ 
+Legal advisor 
+Snellman Advokatbyrå AB 
+Kungsträdgårdsgatan 20 
+111 47 Stockholm, Sweden 
+ 
+Arranger and Dealer 
+Skandinaviska Enskilda Banken AB (publ) 
+Debt Capital Markets 
+Kungsträdgårdsgatan 8 
+106 40 Stockholm, Sweden 
+www.seb.se 
+ 
+Dealer 
+Nordea Bank Abp 
+Debt Capital Markets 
+Smålandsgatan 17  
+105 71 Stockholm, Sweden 
+www.nordea.com

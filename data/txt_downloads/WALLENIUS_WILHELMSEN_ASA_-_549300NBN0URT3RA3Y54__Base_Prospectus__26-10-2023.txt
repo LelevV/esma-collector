@@ -1,0 +1,3833 @@
+--- Page 1 ---
+Wallenius Wilhelmsen ASA 
+ 
+ 
+Base Prospectus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Joint Lead Managers: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Oslo, 26 October 2023
+
+--- Page 2 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+2
+Important information 
+ 
+The Base Prospectus is based on sources such as annual reports and publicly available information and forward-
+looking information based on current expectations, estimates and projections about global economic conditions, as 
+well as the economic conditions of the regions and industries that are major markets for Wallenius Wilhelmsen 
+ASA’s (the Company) lines of business. 
+ 
+A prospective investor should consider carefully the factors set forth in Chapter 1 Risk factors, and elsewhere in the 
+Prospectus, and should consult his or her own expert advisers as to the suitability of an investment in the bonds. 
+ 
+IMPORTANT – EEA AND UK RETAIL INVESTORS - If the Final Terms in respect of any bonds includes a legend 
+titled "Prohibition of Sales to EEA Retail Investors" and/or "Prohibition of Sales to UK Retail Investors", the bonds 
+are not intended to be offered, sold or otherwise made available to and should not be offered, sold or otherwise 
+made available to any retail investor in the European Economic Area (‘EEA’) and/or in the United Kingdom (the 
+“UK”). Consequently no key information document required by Regulation (EU) No. 1286/2014 (as amended) (the 
+PRIIPs Regulation) (and for UK, as it forms part of domestic law by virtue of the EUWA (the UK PRIIPs Regulation)) 
+for offering or selling the bonds or otherwise making them available to retail investors in the EEA and/or the UK has 
+been prepared and therefore offering or selling the bonds or otherwise making them available to any retail investor 
+in the EEA and/or the UK may be unlawful under the PRIIPs Regulation and/ or the UK PRIIPS Regulation. 
+ 
+MiFID II product governance and/or UK MiFIR product governance – The Final Terms in respect of any bonds 
+will include a legend titled “MiFID II product governance” and/or “UK MiFIR product governance” which will outline 
+the target market assessment in respect of the bonds and which channels for distribution of the bonds are 
+appropriate. Any person subsequently offering, selling or recommending the bonds (a “distributor”) should take into 
+consideration the target market assessment; however, a distributor subject to MiFID II is responsible for undertaking 
+its own target market assessment in respect of the bonds (by either adopting or refining the target market 
+assessment) and determining appropriate distribution channels. 
+ 
+This Base Prospectus is subject to the general business terms of the Joint Lead Managers, available at their 
+websites (www.danskebank.no, www.dnb.no, www.nordea.no and www.spb1markets.no).  
+ 
+The Joint Lead Managers and/or any of their affiliated companies and/or officers, directors and employees may be 
+a market maker or hold a position in any instrument or related instrument discussed in this Base Prospectus and 
+may perform or seek to perform financial advisory or banking services related to such instruments. The Joint Lead 
+Managers' corporate finance department may act as manager or co-manager for this Company in private and/or 
+public placement and/or resale not publicly available or commonly known.   
+ 
+Copies of this Base Prospectus are not being mailed or otherwise distributed or sent in or into or made available in 
+the United States. Persons receiving this document (including custodians, nominees and trustees) must not 
+distribute or send such documents or any related documents in or into the United States. 
+ 
+Other than in compliance with applicable United States securities laws, no solicitations are being made or will be 
+made, directly or indirectly, in the United States. Securities will not be registered under the United States Securities 
+Act of 1933 and may not be offered or sold in the United States without registration or an applicable exemption from 
+registration requirements. 
+ 
+The distribution of the Base Prospectus may be limited by law also in other jurisdictions, for example in non-EEA 
+countries. Approval of the Base Prospectus by Finanstilsynet (the Norwegian FSA) implies that the Base Prospectus 
+may be used in any EEA country. No other measures have been taken to obtain authorisation to distribute the Base 
+Prospectus in any jurisdiction where such action is required. 
+ 
+The Base Prospectus dated 26 October 2023 together with the Final Terms and any supplements to these 
+documents constitute the Prospectus. 
+ 
+The content of this Base Prospectus does not constitute legal, financial or tax advice and potential investors should 
+seek legal, financial and/or tax advice. 
+ 
+Unless otherwise stated, this Base Prospectus is subject to Norwegian law. In the event of any dispute regarding 
+the Base Prospectus, Norwegian law will apply.
+
+--- Page 3 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+3
+TABLE OF CONTENTS:  
+ 
+DESCRIPTION OF THE BASE PROSPECTUS ..............................................................................4 
+1 RISK FACTORS .................................................................................................................5 
+2 DEFINITIONS ................................................................................................................. 10 
+3 PERSONS RESPONSIBLE .................................................................................................. 12 
+4 STATUTORY AUDITORS ................................................................................................... 13 
+5 INFORMATION ABOUT THE ISSUER ................................................................................... 14 
+6 BUSINESS OVERVIEW ..................................................................................................... 15 
+7 TREND INFORMATION ..................................................................................................... 20 
+8 ADMINISTRATIVE, MANAGEMENT AND SUPERVISORY BODIES ............................................. 21 
+9 MAJOR SHAREHOLDERS .................................................................................................. 24 
+10 FINANCIAL INFORMATION CONCERNING THE COMPANY'S ASSETS AND LIABILITIES, 
+FINANCIAL POSITION AND PROFITS AND LOSSES ...................................................... 25 
+11 REGULATORY DISCLOSURES .......................................................................................... 27 
+12 DOCUMENTS AVAILABLE ................................................................................................ 29 
+13 FINANCIAL INSTRUMENTS THAT CAN BE ISSUED UNDER THE BASE PROSPECTUS ................ 30 
+14 THIRD PARTY INFORMATION AND STATEMENT BY EXPERTS AND DECLARATIONS OF 
+ANY INTEREST ....................................................................................................... 44 
+JOINT LEAD MANAGERS’ DISCLAIMER ................................................................................. 46 
+ANNEX 1 ARTICLES OF ASSOCIATION FOR WALLENIUS WILHELMSEN ASA ............................... 47 
+ANNEX 2 TEMPLATE FOR FINAL TERMS FOR FIXED AND FLOATING RATE BONDS ...................... 49
+
+--- Page 4 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+4
+Description of the Base Prospectus 
+ 
+Under this Base Prospectus (as supplemented and amended from time to time), the Issuer may occasionally issue 
+and list bonds (“Bonds”) denominated in any currency agreed between the Issuer and the relevant dealer.  
+The Bonds will be issued on a senior basis as secured or unsecured, with fixed or floating interest rate. The Bonds 
+may have put- and call options and they may be sustainability-linked. 
+The Bonds will be electronically registered in the Norwegian Central Securities Depository or any other CSD that 
+allows for bonds issued in uncertificated and dematerialised book-entry form. 
+There is no limit with regard to the maximum aggregate nominal amount of all bonds from time to time outstanding 
+under the prospectus. However, each issue of bonds will have either a given borrowing amount in the case where 
+there is only one tranche, or a given borrowing limit in the case of more than one tranche.     
+The Bonds may be issued on a continuing basis to any dealer that the Issuer decides upon.  
+The Base Prospectus is valid within twelve months from the date of the Base Prospectus. 
+ 
+Information on website(s) mentioned in the Base Prospectus/the Final Terms does not form part of the Base 
+Prospectus/the Final Terms unless that information is incorporated by reference into the Base Prospectus/the Final 
+Terms.
+
+--- Page 5 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+5
+1 Risk factors   
+Investing in bonds issued by Wallenius Wilhelmsen ASA involves inherent risks, and an investment in the bonds 
+is suitable only for investors who understand the risk factors associated with this type of investment and who can 
+afford a loss of all or part of their investment. 
+ 
+As the Company is the parent company of the Group, the risk factors for the Group are deemed to be equivalent 
+for the purpose of this Base Prospectus. 
+ 
+Prospective investors should consider, among other things, the risk factors set out in the Base Prospectus before 
+making an investment decision. The risks and uncertainties described in the Prospectus are risks of which Wallenius 
+Wilhelmsen ASA considers to be most material (in each category) to our business. If any of these risks were to 
+occur, the Company’s business, financial position, operating results or cash flows could be materially adversely 
+affected, and the Company could be unable to pay interest, principal or other amounts on or in connection with the 
+bonds. 
+ 
+1.1 Risks related to the Group and the market in which it operates 
+ 
+Risks relating to the industry, competition and customer contracts 
+The shipping and logistics industries in which the Group operates are highly competitive. The Group obtains 
+employment for its vessels in competitive markets, where it encounters competition from owners and operators of 
+roll-on roll-off vessels, large car and truck carriers (“LCTCs”), pure car and truck carriers (“PCTCs”) and pure car 
+carriers (“PCCs”), as well as by logistics services providers. The Group’s logistics services providers operate in 
+highly competitive markets in which they face competition from landbased transportation and logistics services 
+companies, as well as international logistics service providers. 
+ 
+Historically, the shipping industry has been highly cyclical, experiencing volatility in profitability and asset values. 
+This has primarily been due to changes in the level and pattern of global economic growth, the highly competitive 
+nature of the world of the shipping industry and changes in the supply of and demand for vessel capacity. 
+ 
+The Group’s performance and growth depends heavily on the demand for deep-sea transportation of cars, high and 
+heavy machinery and break bulk cargo, including US governmental cargo (which the Group has more of than 
+immediate competitors). Market development is also dependent on the supply of vessels built and old vessels 
+recycled, converted to other uses or lost, as well as government and industry regulation of maritime transportation. 
+An increase in the supply of vessels or other vessel capacity without a corresponding increase in demand for 
+transportation could cause freight rates to decline. . 
+ 
+The competition in the markets where the Group operates may lead to reduced profitability and/or expansion 
+opportunities and the Group’s market share and competitive position in these markets may erode in the future. Any 
+new markets that are entered into could include participants that have greater experience or financial strength than 
+the Group, and it may thus not be successful in entering such new markets.  
+ 
+As the markets in which the Group operates are highly competitive, there can be no assurance that the Group will 
+be able to renew its existing customer contracts and/or establish additional customer agreements, or that any such 
+future agreements will be on terms equally favourable to the Group as is currently the case. The largest customer 
+contract is with the Hyundai Motor Group where we transport 40% of their export volume. 
+ 
+If any of these risks were to materialize, they may have a materially adverse affect on the Group’s business, results 
+of operations, cash flows and financial condition. 
+ 
+ 
+Environmental risk 
+The activities of the Group are subject to environmental regulation pursuant to a variety of international conventions 
+and state and municipal laws and regulations. The International Maritime Organization (IMO), the European Union 
+(EU) and the United States (US) being some examples. Changes in regulations concerning emission of greenhouse 
+gases is one such risk factor for the Company. Compliance with such regulations may require significant 
+expenditures, and a breach may result in the imposition of fines and penalties, some of which may be material. 
+Environmental legislation is evolving in a manner expected to result in stricter standards and enforcement, larger 
+fines and liability and potentially increased capital expenditures and operating costs. Changes in environmental 
+laws may result in a material increase in the cost of operating the Group’s units or otherwise materially adversely 
+affect its business, profitability, cash flows and financial condition.
+
+--- Page 6 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+6
+ 
+Risk related to change in production patterns  
+The geographical pattern of production and sales of cars and rolling equipment may change going forward, because 
+of, inter alia, restructuring in the industries, growing protectionism and currency concerns. A potential shift in the 
+balance between locally produced and exported cargo may affect the overall demand for ocean transportation, and 
+could result in lower and less efficient utilisation of the Group’s fleet. Shifts in production and sales may also result 
+in lower and less utilisation of the Group’s landbased logistics facilities and transportation networks, which in turn 
+may have a material adverse effect on the business, results of operations, cash flows and the financial condition of 
+the Group. 
+ 
+The Company cannot predict the future level of demand for its services or future conditions in the industries it 
+serves. 
+ 
+Geopolitical risk and sanctions 
+The Group is active in a number of regions, which expose the Group to political, governmental and economic 
+instability, which could in turn harm operations. 
+ 
+Changes in the legislative, political, governmental and economic framework in the regions in which the Group 
+carries on business could have a material impact on the business. In particular, changing laws and policies affecting 
+trade, investment and changes in tax regulations could have a materially adverse effect on the Group’s revenues, 
+profitability, cash flows and financial condition. 
+ 
+As a direct consequence of the Russian invasion of Ukraine 24 February 2022 and the newly implemented sanctions 
+regime, the Group has suspended operations in Russia and Belarus until further notice. The Group has limited 
+direct exposure in the region. 
+ 
+Incidents involving significant damage, loss or environmental contamination 
+The Group’s vessels work in harsh environments, and the Group also operates and/or manages/procures 
+transportation of cargo by truck, rail and barge. Human errors, severe weather conditions and marine disasters are 
+all probable events with the potential to cause damage to and loss of vessel and cargo. Natural disasters, grounding, 
+collisions, fire, faulty constructions, war and terrorism and explosions are lower probability events that also has the 
+potential to cause damage to or loss of vessel and cargo. Consequences for the Group of any such event will 
+depend on exactly what occurred and short- and long-term effects thereof, where even no two (similar) incidents 
+are likely to have the same effects. While it is more probable that a human error will occur than a natural disaster, 
+the effect and consequence for the Group might be the same. Each event has individually the potential to have a 
+material adverse effect on the Group’s business, results of operations, cash flow and financial conditions. While the 
+Group has customary insurances in place for these risks, there is no assurance that the Group is adequately insured 
+against these risks or that the insurers will pay all claims in full. In the event of environmental contamination, the 
+Group may be subject to strict liability.  
+ 
+Risks related to disputes and litigation and anti-trust 
+The Group operates in various legal and regulatory environments world-wide. The Group might because of this be 
+involved in disputes and legal, administrative and governmental proceedings in Norway and other jurisdictions. 
+Potential outcomes of such disputes and proceedings are subject to many uncertainties which can expose the 
+Group to losses and liabilities. The final results of such disputes and proceedings may have a material adverse 
+effect on the business, profitability, cash flows and financial condition of the Group. 
+ 
+The operating entities WW Ocean and EUKOR have been part of authority anti-trust investigations in several 
+jurisdictions since 2012. These proceedings are now resolved. Some related civil claims are still pending, and the 
+timeline for full and final resolution of these claims is uncertain. As per the second quarter of 2023, no provisions 
+are set aside for anti-trust claims. 
+ 
+Risks related to piracy, armed robbery, hijackings and kidnapping 
+Acts of piracy and armed robbery have historically occurred in areas where the Group has operated and while the 
+Group has not experienced this in recent years, there is a risk that acts of piracy, armed robbery, hijackings and 
+kidnapping will continue to occur in these areas. Indian Ocean and Gulf of Guinea are the two areas most at risk.  
+ 
+1.2 Financial risks related to the Group 
+Interest rate risk 
+The Group’s long-term debt is primarily based on floating interest rates, and the Group has entered into interest 
+rate swaps to obtain a certain level of fixed interest rate exposure. Interest rate fluctuations will influence the level 
+of interest expense payable on the floating rate debt. Interest rate fluctuations will also influence the fair value of 
+this portfolio of financial derivatives and thereby its financial results. An increase in interest rates can therefore 
+materially adversely affect the Group’s financial results, cash flow and financial condition
+
+--- Page 7 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+7
+Restrictive covenants in the Company’s secured loan facilities and the bond terms, financial and other 
+restrictions 
+The Group has a number of covenants related to its loans and other financial commitments. Similarly, the bond 
+terms will provide certain restrictions on the Group from certain actions. The restrictions in such terms and 
+conditions may prevent the Group from taking actions that it believes would be in its best interest and may make it 
+difficult for the Group to execute its business strategy successfully or compete effectively with companies that are 
+not similarly restricted. Furthermore, any additional debt financing, if available, may involve restrictive covenants. 
+Failure to comply with financial and other covenants may result in increased financial costs, requirement for 
+additional security or cancellation of loans, which in turn may have a material adverse effect on the Group’s results 
+of operations, cash flow and financial condition. 
+ 
+Liquidity risk 
+Liquidity risk is the risk that the Group may not be able to meet its liabilities as they fall due. An insufficient liquidity 
+position may have a material adverse effect on the operations and development of the Group, which in turn may 
+have a material adverse effect on the Group’s results of operations, cash flow and financial condition. 
+ 
+Credit risk 
+The Group routinely executes a large volume of transactions involving daily settlement of substantial amounts, 
+many of which expose the Group to the risk of contractual default by a counterparty. Due to the current macro 
+conditions, this risk has increased. The Group’s profitability, cash flows and financial condition may be materially 
+adversely affected, should its counterparties fail to meet their contractual obligations. 
+ 
+The Group’s customer base consists of diverse customers with no single material source of credit risk. However, a 
+downturn in financial markets and economic activity may result in a higher volume of late payments and outstanding 
+receivables. Even though the Group routinely seeks to recover all outstanding receivables, the amounts of write-
+offs may increase and have a materially adverse effect on the results of operations, cash flow and financial condition 
+of the Group. 
+ 
+Fuel price risk 
+The profitability and cash flow of the Group is influenced by the market price of fuel, which is affected by numerous 
+factors beyond the control of the Company. The price of fuel oil has historically been volatile. An increase in fuel 
+prices may materially affect the Group’s profitability and put pressure on the operating margins, particularly in 
+periods with price increases, as there is a lagging effect in the fuel compensation mechanism in the Group’s 
+customer contracts. Thus, the market price of fuel may have a material adverse effect on the business, results of 
+operations, cash flows and financial condition of the Group. 
+ 
+Currency risk 
+The reporting currency for the Group is USD. The Group is exposed to currency risk on revenues and expenses 
+incurred (transaction risk) and balance sheet items (translation risk) in currencies other than USD, including CNY, 
+EUR, GBP, JPY, KRW, NOK, SEK, as well as other currencies. Fluctuations in currency exchange rates may 
+materially adversely affect the Group’s financial results, cash flow and financial condition. 
+ 
+1.3 Risk factors related to the bonds 
+ 
+General 
+All investments in interest bearing securities have risk associated with such investment. The is related to the general 
+volatility in the market for such securities, varying liquidity in a single bond issue as well as company specific risk 
+factors. There are four main risk factors that sum up the investor’s total risk exposure when investing in interest 
+bearing securities with a floating interest rates: liquidity risk, interest rate risk, settlement risk and market risk (both 
+in general and issuer specific). 
+ 
+Interest-rate risk 
+Interest rate risk is the risk that results from the variability of the NIBOR interest rate. The coupon payments, which 
+depend on the NIBOR interest rate and the margin, will vary in accordance with the variability of the NIBOR interest 
+rate. The interest rate risk related to this bond issue will be limited, since the coupon rate will be adjusted quarterly 
+according to the change in the reference interest rate (NIBOR 3 months) over the tenor of the Bonds. The primary 
+price risk for a floating rate bond issue will be related to the market view of the correct trading level for the credit 
+spread related to the bond issue at a certain time during the tenor, compared with the credit margin the bond issue 
+is carrying. A possible increase in the credit spread trading level relative to the coupon defined credit margin may 
+relate to general changes in the market conditions and/or Company specific circumstances. However, under normal 
+market circumstances the anticipated tradable credit spread will fall as the duration of the bond issue becomes 
+shorter. In general, the price of bonds will fall when the credit spread in the market increases, and conversely the 
+bond price will increase when the market spread decreases.
+
+--- Page 8 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+8
+The regulation and reform of “benchmarks” may adversely affect the value of securities linked to or 
+referencing such “benchmarks” 
+Interest rates and indices which are deemed to be “benchmarks”, (including NIBOR) are subject of recent national 
+and international regulatory guidance and proposals for reform. Some of these reforms are already effective whilst 
+others are still to be implemented. These reforms may cause such benchmarks to perform differently than in the 
+past, to disappear entirely, or have other consequences which cannot be predicted. Any such consequence could 
+have a material adverse effect on any securities linked to or referencing such a “benchmark”. The Benchmarks 
+Regulation could have a material impact on any Bonds linked to or referencing a “benchmark”, in particular, if the 
+methodology or other terms of the “benchmark” are changed in order to comply with the requirements of the 
+Benchmarks Regulation. Such changes could, among other things, have the effect of reducing, increasing or 
+otherwise affecting the volatility of the published rate or level of the “benchmark”. The Bonds are linked to NIBOR 
+and there is a risk that any discontinuance or reforms of NIBOR may material adverse effect the pricing of the 
+Bonds. No guarantees can be made as to the continuance of the current underlying reference rate of the Bonds 
+and the possible consequences a potential discontinuance of NIBOR may have of the value of the Bonds. 
+ 
+Risk of being unable to repay the Bonds 
+During the lifetime of the Bonds, the Company will be required to make payments on the Bonds. The Company is 
+dependent upon its and its subsidiaries’ ability to generate cash flow from operations and to make distributions to 
+the Company in order for the Company to make scheduled payments on the indebtedness, including the Bonds. 
+ 
+The future financial performance of the Group will be affected by a range of economic, competitive, governmental, 
+operating and other business factors, many of which cannot be controlled, such as general economic and financial 
+conditions in the business or the economy at large. A significant reduction in operating cash flows resulting from 
+changes in economic conditions, increased competition or other events could increase the need for additional or 
+alternative sources of liquidity and could have a material adverse effect on the business, financial condition or 
+results of operations, as well as the Group’s ability to service its debt, including the Bonds, and other obligations. 
+ 
+If the Group is unable to service its indebtedness, it will be forced to adopt an alternative strategy that may include 
+actions such as reducing or delaying capital expenditures, selling assets, restructuring or refinancing indebtedness 
+or seeking equity capital. The Group cannot assure investors that any of these alternative strategies could be 
+affected on satisfactory terms, if at all, or that they would yield sufficient funds to make required payments on the 
+Bonds and the Group’s other indebtedness. In addition, any failure to make scheduled payments of interest and 
+principal on outstanding indebtedness is likely to result in a reduction of credit rating, which could harm the ability 
+to incur additional indebtedness on acceptable terms. 
+ 
+ 
+The Bonds are effectively subordinated to the secured debt of the Company 
+The Bonds will be the Company’s direct senior unsecured obligations and will rank equal in right of payment (except 
+as to claims preferred by operation of law) with all of its other existing and future senior indebtedness. The Bonds 
+will be effectively subordinated to all of the Company’s existing and future secured indebtedness to the extent of 
+the assets securing such indebtedness. If the Company is involved in any bankruptcy, dissolution, liquidation or 
+reorganization, the secured debt holders would, to the extent of the value of the assets securing the secured debt, 
+be paid before the holders of the Bonds. In that event, a holder of Bonds may not be able to recover any principal 
+or interest due to it under the Bonds. 
+ 
+The Bonds will be unsecured obligations and are structurally subordinated to the liabilities of any of the 
+Company’s subsidiaries 
+Generally, creditors under indebtedness and trade creditors of the Company’s subsidiaries will be entitled to 
+payments of their claims from the assets of such subsidiaries before these assets are made available for distribution 
+to the Company, as a direct or indirect shareholder. Accordingly, in the event that any of the Group’s subsidiaries 
+becomes subject to any foreclosure, dissolution, winding-up, liquidation, recapitalisation, administrative or other 
+bankruptcy or insolvency proceeding, the Company’s creditors (including the holders of the Bonds) will have no 
+right to proceed against the assets of any such subsidiary, and creditors of the Group’s subsidiaries, including 
+financial indebtedness and trade creditors, will generally be entitled to payment in full from the sale or other disposal 
+of the assets of such subsidiary before the Company, as a direct or indirect shareholder, will be entitled to receive 
+any distributions from such subsidiary. 
+ 
+The trading price of the Bonds may be volatile 
+Historically, the market for non-investment grade debt has been subject to disruptions that have caused substantial 
+volatility in the prices of securities similar to the Bonds. Any such disruptions could adversely affect the prices at 
+which investors may sell their Bonds. In addition, subsequent to their initial issuance, the Bonds may trade at a 
+discount from their initial placement, depending on the prevailing interest rates, the market for similar securities, the 
+performance of the Company and other factors, many of which are beyond the Group’s control.
+
+--- Page 9 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+9
+Risks related to the market for the Bonds 
+The Bonds are a new issue of securities with no established trading history. Even though the Group will apply for 
+listing of the Bonds on Oslo Børs (or any other regulated market), no assurance can be made that the Bonds will 
+be successfully listed. 
+ 
+The Group has not entered into any market-making scheme to ensure liquidity of the Bonds. A liquid trading market 
+for the Bonds may not develop or be maintained and investors may not be able to sell the Bonds quickly or at a 
+favourable price. If an active market does not develop or is not maintained, the price and liquidity of the Bonds may 
+be adversely affected. The Group cannot assure investors as to the future liquidity of the Bonds and as a result, 
+investors bear the financial risk of their investment in the Bonds.
+
+--- Page 10 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+10
+2 Definitions 
+ 
+Annual Report 2022 
+Wallenius Wilhelmsen ASA’s annual report of 2022 
+ 
+Articles of Association 
+The articles of association of Wallenius Wilhelmsen ASA, as amended and 
+currently in effect. 
+ 
+Base Prospectus 
+This document dated 26 October 2023. The Base Prospectus has been 
+approved by the Norwegian FSA, as competent authority under Regulation 
+(EU) 2017/1129. The Norwegian FSA only approves this Base Prospectus 
+as meeting the standards of completeness, comprehensibility and 
+consistency imposed by Regulation (EU) 2017/1129. Such approval shall 
+not be considered as an endorsement of the Issuer that is the subject of this 
+Base Prospectus. The Base Prospectus has been drawn up as part of a 
+simplified prospectus in accordance with Article 14 of Regulation (EU) 
+2017/1129.  
+ 
+Board or  
+Board of Directors 
+The board of directors of Wallenius Wilhelmsen ASA 
+ 
+Companies Registry 
+The Norwegian Registry of Business Enterprises (Foretaksregisteret) 
+ 
+Company/Issuer/Wallenius  
+Wilhelmsen/Wallenius  
+Wilhelmsen ASA 
+Wallenius Wilhelmsen ASA, a Norwegian public limited liability company 
+incorporated under the laws of Norway, including the public limited 
+companies act. 
+Consolidated Financial 
+Statements 
+The consolidated financial statements and notes included in the Annual 
+Report 2022. 
+ 
+CEU 
+Car Equivalent Units 
+ 
+CNY 
+Chinese Yuan 
+ 
+CO2 
+Carbon dioxide 
+ 
+EUR 
+Euro 
+ 
+EUKOR 
+EUKOR Car Carriers Ltd. 
+ 
+Final Terms 
+Document to be prepared for each new issue of bonds under the 
+Prospectus. The template for Final Terms is included in the Base 
+Prospectus as Annex 2. 
+ 
+ 
+The template for Final Terms has been approved by the Norwegian FSA, 
+as competent authority under Regulation (EU) 2017/1129. The Norwegian 
+FSA only approves this template for Final Terms as meeting the standards 
+of completeness, comprehensibility and consistency imposed by Regulation 
+(EU) 2017/1129. Such approval should not be considered as an 
+endorsement of the quality of the securities that are the subject of this 
+template for Final Terms. Investors should make their own assessment as 
+to the suitability of investing in the securities. 
+ 
+GBP 
+Pound Sterling 
+ 
+Group 
+The Issuer and its subsidiaries from time to time 
+ 
+Interim Report Q1 2023 
+Wallenius Wilhelmsen ASA’s interim report for first quarter 2023 
+ 
+Interim Report Q2 2023 
+Wallenius Wilhelmsen ASA’s interim report for second quarter 2023 
+ 
+IFRS 
+International Financial Reporting Standards 
+ 
+ISIN 
+International Securities Identification Number
+
+--- Page 11 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+11
+JPY 
+Japanese Yen 
+ 
+KRW 
+South Korean Won 
+ 
+LCTC 
+Large car and truck carriers 
+ 
+NOK 
+Norwegian kroner 
+ 
+PCC 
+Pure Car Carrier 
+ 
+PCTC 
+Pure Car and Truck Carrier 
+ 
+Prospectus 
+The Base Prospectus together with a Final Terms constitutes the 
+Prospectus. 
+ 
+QoQ 
+Quarter on quarter 
+ 
+ 
+RoRo 
+'Roll-on, Roll-off' 
+ 
+SEK 
+Swedish Krona 
+ 
+US 
+United States 
+ 
+USD 
+US Dollar 
+ 
+VPS or VPS System 
+The Norwegian Central Securities Depository, Verdipapirsentralen ASA 
+ 
+We, us, our and the Group 
+     and other similar terms refer, unless the context otherwise requires, to the  
+ 
+     Company and its consolidated subsidiaries.
+
+--- Page 12 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+12
+3 Persons responsible  
+3.1 Persons responsible for the information 
+Persons responsible for the information given in the Base Prospectus are as follows: 
+Wallenius Wilhelmsen ASA, Strandveien 20, 1366 Lysaker, Norway 
+ 
+3.2 Declaration by persons responsible 
+Wallenius Wilhelmsen ASA declares that to the best of its knowledge, the information contained in the Base 
+Prospectus is in accordance with the facts and that the Base Prospectus makes no omission likely to affect its 
+import.    
+ 
+ 
+Lysaker, 26 October 2023 
+ 
+ 
+Wallenius Wilhelmsen ASA 
+ 
+ 
+ 
+____________________________________ 
+Torbjørn M Wist 
+Chief Financial Officer 
+ 
+ 
+ 
+ 
+ 
+ 
+Statements regarding Regulation (EU) 2017/1129 
+The Base Prospectus has been approved by the Norwegian FSA, as competent authority under Regulation (EU) 
+2017/1129. The Norwegian FSA only approves this Base Prospectus as meeting the standards of completeness, 
+comprehensibility and consistency imposed by Regulation (EU) 2017/1129. Such approval should not be 
+considered as an endorsement of the Issuer that is the subject of this Base Prospectus. The Base Prospectus has 
+been drawn up as part of a simplified prospectus in accordance with Article 14 of Regulation (EU) 2017/1129. 
+Investors should make their own assessment as to the suitability of investing in the securities.
+
+--- Page 13 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+13
+4 Statutory Auditors   
+The statutory auditor for the Issuer for the period covered by the historical financial information in this Base 
+Prospectus has been PricewaterhouseCoopers AS, Dronning Eufemias gate 71, 0194 Oslo, independent public 
+accountants.  
+ 
+PricewaterhouseCoopers AS is member of The Norwegian Institute of Public Accountants (Norwegian: Den Norske 
+Revisorforeningen).
+
+--- Page 14 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+14
+5 Information about the Issuer 
+5.1 Legal and commercial name of the Issuer 
+The legal name of the Issuer is Wallenius Wilhelmsen ASA, the commercial name is Wallenius Wilhelmsen. 
+5.2 Domicile, legal form and contact details 
+The Company is domiciled and incorporated in Norway and registered in the Norwegian Companies Registry with 
+registration number 995 216 604. The Company is a public limited liability company incorporated under the laws of 
+Norway, including the Public Limited Companies Act. 
+ 
+The Company's registered address is Strandveien 20, 1366 Lysaker, Norway. Postal address is P O Box 33, 1324 
+Lysaker, Norway. The Company’s LEI code is 549300NBN0URT3RA3Y54. 
+ 
+The Company's telephone number is +47 67 58 40 00. 
+ 
+The Company’s website is http://www.walleniuswilhelmsen.com. The information on the website does not form part 
+of the Base Prospectus unless that information is incorporated by reference into the Base Prospectus.
+
+--- Page 15 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+15
+6 Business overview    
+6.1 Principal activities 
+ 
+Wallenius Wilhelmsen is a shipping and logistics service provider delivering premium end-to-end supply chain 
+services. We connect and facilitate world trade from the end of the production line to delivery to ports, transport 
+across oceans, perform services at our processing centers and delivery to dealers and other customers. We 
+transport cars, tractors, trains, airplane parts, windmills and even components to entire factories. To ensure long-
+term viability and prosperity for our company and our industry, we build innovative and more sustainable solutions 
+that create value for everyone in our value chain, from our customers and partners to our employees and society 
+at large. This takes place while simultaneously reducing our carbon footprint. See 13.8 for a high-level overview of 
+our sustainability approach. 
+ 
+We have a longstanding commitment and proactive approach to sustainability and continue to step up our ambitions 
+and efforts. Delivering on these commitments is central to the work of everyone in the organization. Please see our 
+Sustainability-Linked Financing Framework (https://www.walleniuswilhelmsen.com/storage/downloads/220201-
+Sustainability-Linked-Financing-Framework.pdf) for further information. 
+ 
+Our competitive advantage is the investments and knowledge we have built over decades to deliver end-to-end 
+services to our customers, both on land and at sea. As we operate across the entire outbound supply chain, we are 
+well positioned to improve operations, increase efficiency, reduce waste along the way and ensure a holistic 
+customer experience. Our flexible vessels with strong ramps and hoistable decks make us an attractive logistics 
+partner, especially for high & heavy and breakbulk cargo. Wallenius Wilhelmsen is ideally positioned to deliver cargo 
+with services from A to Z. 
+ 
+Wallenius Wilhelmsen today has operations in three key segments: Shipping services, logistics services and 
+government services.  
+ 
+We take pride in how our global customer service teams ensure efficiency and coordination of our services.  
+ 
+Our business model has over time yielded resilient free cash flow, as can be seen in our historical quarterly and 
+annual reports. At the end of 2022, we find ourselves in a solid strategic and financial position and well positioned 
+to weather an uncertain macroeconomic global outlook. We are committed to paying regular dividends to our 
+shareholders, in accordance with our policy, and to delivering on our long-term financial targets. We believe that 
+continued and future success will only be ensured by fully integrating sustainability and innovation into our business 
+model. 
+ 
+ 
+ 
+Source: Wallenius Wilhelmsen ASA Sustainability-Linked Bond Investor Presentation August 2023
+
+--- Page 16 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+16
+6.1.1 Shipping segment 
+Wallenius Wilhelmsen’s main objective for the shipping segment is to strengthen its position as a leading player in 
+the RoRo shipping market with unrivaled high & heavy and breakbulk capabilities (source: Clarksons, see clause 
+14.1). This shall be done while driving the decarbonization journey to zero emissions by digitalizing the supply 
+chain and driving technological innovation and operational effectiveness. See 13.8 for further information.  
+ 
+Our main customers are global car manufacturers as well as manufacturers of high & heavy equipment for 
+construction, agriculture and mining. We are different from other global players operating in the RoRo shipping 
+space due to the scale of our capabilities to lift high, heavy and complex cargoes. This allows us to secure higher 
+margins. 
+ 
+6.1.2 Logistics segment 
+Logistics services mainly serve the same customer groups as shipping services. Customers operating globally are 
+offered sophisticated logistics services through four distinct products on a global scale. These include vehicle 
+processing centers, equipment processing centers and inland distribution networks. We operate eight strategically 
+placed RoRo terminals, 39 vehicle processing centers and 27 equipment processing centers around the world. The 
+two segments, shipping and logistics, have a clear link, as about half our shipping volume passes through our 
+terminals. 
+ 
+Auto is the largest product group in the logistics portfolio, providing light vehicle processing services to auto 
+producers globally. High and heavy (H&H) includes equipment processing centers on and off port sites globally with 
+the largest concentration in the US. Terminal offers our cargo processing, handling and storage at some of the 
+world’s largest RoRo ports. Inland includes the global transporting of cargo by road or rail to a port or final point of 
+sale. 
+ 
+6.1.3 Government segment 
+The government services segment provides ocean transport of US flag cargoes and performs global logistics 
+services for the US government. Ocean transport includes RoRo cargo, breakbulk and vehicles. It also includes 
+charters of vessels to affiliated companies in the shipping services segment and charters or sales of vessels to 
+the US government. Logistics services for the US government are primarily related to multimodal transportation, 
+third party logistics support, stevedoring and terminal operations. The primary customer is the US government, 
+but the segment also includes US Flag commercial cargos such as those generated by the financial sponsorship 
+of a federal program, or a guarantee provided by the US government. 
+ 
+6.2 Wallenius Wilhelmsen’s history in brief 
+ 
+ 
+Source: Wallenius Wilhelmsen ASA Sustainability-Linked Bond Investor Presentation August 2023
+
+--- Page 17 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+17
+6.3 Strategy 
+Our strategy is to lead the transformation of shipping and logistics towards the goal of zero emission. 
+ 
+Source: Wallenius Wilhelmsen ASA Annual Report 2022 
+ 
+Becoming the leading supply chain and mobility orchestrator means that we will work to optimize finished vehicle 
+logistics flows together with customers through a digitally enabled platform. We will partner with customers along a 
+continuum of orchestration services critical to their daily and long-term decision support as they execute the supply 
+chain from production through to the end users, whether they be dealer networks, fleet / rental companies or 
+consumers. 
+ 
+Being our customers’ first choice in shipping entails securing a number one position in targeted trades, reduction of 
+carbon intensity from our vessels with 27.5 percent by 2030, introducing a net-zero emission trade by 2027, and 
+transforming our shipping operation and creating a fully data driven organization. 
+ 
+Being the preferred partner in processing and terminal services requires that we expand our already global footprint 
+and double our logistics services over the next five years to achieve the scope and scale to deliver on customers’ 
+increasing finished vehicle logistics demands. Logistics services will also deliver components of our net-zero 
+emission end-to-end offering by 2027, and improved profitability through a digitally enabled, highly differentiated 
+service portfolio and a focused labor strategy. 
+ 
+Introducing one net-zero emission end-to-end service by 2027 is goal number one in our strategy. As a first step on 
+this ambitious journey, we aim to introduce a carbon-neutral freight and logistics service during 2024. We will 
+establish verified and audited emission tracking and mass balancing and bring our customers fully onboard through 
+commercializing our net-zero emission offerings to carbon-conscious customers.
+
+--- Page 18 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+18
+6.4 Fleet information 
+Overview 
+At the end of Q2 2023, Wallenius Wilhelmsen controlled a fleet of 126 vessels, down from 128 vessels in the 
+previous quarter as Grand Quest and Thruxton were redelivered to their owners. As stated last quarter, three 
+vessels on long-term charter to Armacup were added to the fleet count, including historical figures. Charter rates 
+for tonnage continue to be high and the company had no vessels on short-term charter in Q2 20231. In general, 
+the decision to add, extend or redeliver charters will depend on the overall market situation, including price of 
+charters, demand growth and the long-term fleet strategy. 
+ 
+ 
+ 
+Global fleet 
+The global car carrier fleet (with size >1,000 car equivalent units, “CEU”) totaled 7602 vessels with a capacity of 
+4.02m CEU at the end of Q2 2023. Two new vessels were delivered, and no vessels were recycled during Q2 2023. 
+16 new orders were confirmed for the official orderbook in the period since early April (for vessels >1,000 CEU). 
+The orderbook for deep-sea vehicle carriers (>4,000 CEU) stands at 152 vessels and 154 vessels (>1,000 CEU), 
+representing some 29% of the global fleet capacity. Six newbuildings are expected to be delivered during the 
+remaining 2023, and the rest in 2024 or beyond. The RoRo market is expected to be at a high utilization rate during 
+2023, due to limited amount of new vessels joining the fleet, continued congestion and solid cargo volumes. 
+ 
+A complete overview of the core fleet can be found here:  https://www.walleniuswilhelmsen.com/what-we-
+do/ocean-transportation/our-vessels 
+6.5 Sustainability 
+In Q2 2023 we signed our first biofuel contract with ExxonMobil. The agreement marks a significant milestone in 
+our commitment to sustainable operations and is in line with our strategic goal of delivering one net-zero emissions 
+integrated supply chain service by 2027. 
+ 
+People 
+Safety is priority number one for Wallenius Wilhelmsen. We work diligently to implement measures to ensure 
+consistent and strong safety performance across our operations.  
+ 
+Shipping and governmental services had no Lost Time Incidents or serious injuries in Q2 2023, resulting in a lost 
+time injuries frequency (LTIF)3 of 0, compared to 1.39 in Q1 2023. Shipping has just completed a fleet wide survey 
+with the mission to strengthen organizational culture and to improve safety performance. The results of the survey, 
+which included our ship managers and relevant areas of our port and terminal operations, are currently being 
+analyzed. The next steps will be to identify improvement areas and determine actions. The survey achieved a high 
+participation rate and we are grateful for the engagement from our colleagues at sea and ashore on this important 
+topic. 
+ 
+1 Except Grand Quest which was recognized as a regular short-term charter in Q2 2023 as the vessel was prolonged for a short 
+period of time after original contract expiry. 
+2 after reclassification of vessel size to >1000CEU 
+3Per million exposure hours, which for our crew means 24 hours a day while at sea, including free time.
+
+--- Page 19 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+19
+ 
+ 
+In Logistics, LTIF4 decreased from 18.385 in Q1 2023 to 11.84 in Q2 2023. Key factors driving LTIF in Logistic  
+include congestion, weather and labor volatility related to holidays. No serious injuries were reported in Q2 2023. 
+We have initiated enhanced safety engagement on sites that underperform relative to overall results. In Americas, 
+we are preparing for upcoming Occupational Health and Safety (ISO 45001) certification audits, with the final audit 
+to be completed in Q4 2023. 
+ 
+ 
+ 
+Planet 
+Wallenius Wilhelmsen has for several years been working to reduce our carbon emissions, both on land and at sea. 
+This work will only accelerate further into 2023 as we aspire to lead the way in transforming shipping and logistics. 
+ 
+In 2021, we set a target to reduce our carbon emission intensity by 27.5% by 2030 compared to 2019. This is an 
+ambitious target, particularly due to the recent operational challenges and tight global fleet situation which lead to 
+higher speed for our vessels. See 13.8 for further information. 
+ 
+Our total CO2 emissions for Q2 2023 was 1,109 thousand metric tonnes and relatively stable QoQ and YoY. Our 
+CO2 intensity in Q2 2023 was 27.3 gCO2 per tonne-km6 and below our 2023 intensity target of 31.16 g CO2 per 
+Tonne-km. This is a 10% reduction of CO2 intensity QoQ, which is mainly an effect of increased cargo-work in Q2 
+2023. 
+ 
+ 
+In Q2 2023 we signed our first biofuel contract which will be bunkered in the months July to November this year. 
+The contract, signed with ExxonMobil, will be for the supply of sustainable biofuel to vessels calling Zeebrugge, 
+with an option for Antwerp.  
+ 
+While the contracted volume represents a small portion compared to our annual fuel consumption, it marks a 
+significant milestone in our commitment to sustainable operations and is in line with our strategic goal of delivering 
+one net-zero emissions integrated supply chain service by 2027. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 Per million man-hours, reflects actual hours worked. 
+5 LTIF of 15.81 was disclosed in Q1 report. This number has been updated as a result of late incoming data. 
+6 Energy Efficiency Operational Indicator (EEOI
+
+--- Page 20 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+20
+7 Trend information 
+7.1 Prospects and financial performance 
+There has been no material adverse change in the prospects of the Issuer since the date of its last published audited 
+financial statements.  
+ 
+There has been no significant change in the financial performance of the Group since the end of the last financial 
+period for which financial information has been published to the date of the Base Prospectus.  
+ 
+7.2 Known trends, uncertainties, demands, commitments or events 
+As of Q2 2023, short-term market demand remains robust despite tightening financial conditions. As vehicle 
+inventories are returning to pre-pandemic levels, consumer confidence and demand for vehicles will be a key driver 
+for volume in the medium term. Renewal of multi-year contracts at higher rates is expected to lend support to the 
+revenue base in the years ahead. Reduction in high-paying breakbulk volumes will somewhat offset this. The 
+underlying fundamentals remain strong longer term, though with higher levels of uncertainty. This is related to the 
+newbuild additions to the global fleet, the macro-economic situation, and any deterioration in geopolitical dynamics. 
+Overall, we expect to continue to strengthen our financial position, enabling us to deliver on our dividend policy and 
+invest in our business, while delivering on our financial targets.
+
+--- Page 21 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+21
+8 Administrative, management and supervisory bodies 
+8.1 Information about persons 
+ 
+Board of Directors 
+For the members of the Board of Directors of the Company the description below sets out the names, business 
+address and functions within the Issuer and an indication of the principal activities performed by them outside the 
+Issuer where these are significant with respect to the Issuer:  
+ 
+Name  
+Position  
+Rune Bjerke 
+Chairman 
+Kerstin Margareta Alestig Johnsen 
+Board member 
+Yngvil Signe Eriksson Åsheim 
+Board member  
+Anna Elsa Felländer 
+Board member 
+Hans Lennart Åkervall* 
+Board member 
+Thomas Wilhelmsen* 
+Board member 
+ 
+* Each of the two large shareholders have respectively nominated one observer in Wallenius Wilhelmsen’s board, namely Christian 
+Berg and Peter Augustsson. 
+ 
+For all members of the Board of Directors, the business address is Strandveien 20, 1366 Lysaker, Norway. 
+ 
+ 
+Rune Bjerke, Chair of the board 
+Extensive career in international energy and banking corporations in Norway, most recently as CEO of DNB.  
+ 
+Previously: CEO at Hafslund, CEO at Scancem International, advisor at the Norwegian Ministry of Petroleum and  
+Energy, city commissioner of finance in the city cabinet of Oslo. 
+ 
+On the boards of amongst other Norsk Hydro, Schibsted and Reitan Retail. 
+ 
+Degree in economics, University of Oslo, a master’s degree in public administration, Harvard University. 
+ 
+Kerstin Margareta Alestig Johnsen, Board member 
+Extensive experience from the financial, shipping and logistics industries.  
+ 
+Previously: CFO at Broström AB, CFO at JCE Group, Deputy Managing Director at Sjätte AP-fonden (AP6) and 
+Swisslog AB. 
+ 
+Chair of the Board in Erik Thun AB, Board member in Inission AB, Tjörns Sparbank, Svenska Fribrevsbolaget  
+and Brännehylte Lagersystem AB. 
+ 
+MBA degree, University of Örebro, Sweden. 
+ 
+Yngvil Signe Eriksson Åsheim, Board member 
+Long career in the maritime industry and currently Managing Director of BW LNG owning and operating one of the  
+world’s biggest fleet of LNG carriers and floating regasification terminals (FSRUs). 
+ 
+Previously: Various positions at the classification society DNV for a decade. Joined Höegh Fleet Services in 2002 
+as EVP of Höegh Autoliners responsible for global operation and ship management. Joined BW in 2010 and has 
+had different positions incl. LPG, LNG and oil tankers. 
+ 
+On several boards, currently Director of Board at BW Ideol. 
+ 
+Master in marine engineering, the Norwegian Institute of Technology (NTNU). 
+ 
+Anna Elsa Felländer, Board member 
+One of Sweden’s leading experts on the effects of digitalization on the economy, society and businesses. Founder  
+and president anch.AI, a SaaS governance platform for responsible AI. Has been engaged with responsible AI from 
+a policy, academic, organizational as well as from a start-up perspective since 2016. 
+ 
+Previously: Chief economist at Swedbank. Working for the Swedish government 10+ years in numerous positions.
+
+--- Page 22 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+22
+Master’s degree in macroeconomics, Stockholm School of Economic. 
+ 
+Hans Lennart Åkervall, Board member 
+Extensive experience as lead partner for a diverse portfolio of large clients across financing, manufacturing, and 
+logistics. Deep insight into audit, corporate governance, M&A and the capital market.  
+ 
+Now on board of Rederi AB Soya. 
+ 
+Previously: CEO of KPMG Sweden, Partner in KPMG. 
+ 
+Chartered accountant, bachelor´s degree in business and economics, University of Stockholm. 
+ 
+Thomas Wilhelmsen, Board member 
+Group CEO at Wilh. Wilhelmsen Holding ASA since 2010. Has held numerous positions in the group, including 
+group vice president for shipping and regional director for Europe in Ships Service.  
+ 
+Has also been in charge of the family’s investments in Australia. In addition to holding directorships in several 
+industry related companies and organizations, he sits on the boards of many group and family-owned companies. 
+ 
+Master of arts in business, Heriot-Watt University in Scotland. Has numerous courses from other universities 
+including the program for executive leadership from IMD, Switzerland. 
+ 
+Management 
+For the members of the Management of the Company the description below sets out the names, business address 
+and functions within the Issuer and an indication of the principal activities performed by them outside the Issuer 
+where these are significant with respect to the Issuer: 
+ 
+Name  
+Position  
+Lasse Kristoffersen 
+Chief Executive Officer 
+Torbjørn Wist 
+Chief Financial Officer 
+Pia Synnerman 
+Chief Customer Officer 
+Wenche Agerup 
+Chief People and Corporate Affairs Officer 
+Michael (Mike) Hynekamp 
+COO Logistics Services 
+Xavier Leroi 
+COO Shipping Services 
+Anette Maltun Koefod 
+Chief Communications and Marketing Officer 
+Gro Rognstad  
+Chief Technology and Information Officer 
+ 
+For all members of the Management, the business address is Strandveien 20, 1366 Lysaker, Norway. 
+ 
+Lasse Kristoffersen, Chief Executive Officer 
+Lasse Kristoffersen started as President and CEO in Wallenius Wilhelmsen on June 1st, 2022. Prior to Wallenius 
+Wilhelmsen, Kristoffersen worked in Torvald Klaveness for 15 years – the last 11 years as President and CEO. 
+Kristoffersen was the first company CEO from outside the Klaveness family. 
+ 
+Kristoffersen has been very visible in the maritime industry over the recent years and a frequent speaker at various 
+high-level conferences and seminars. 
+ 
+He was the President of the Norwegian Shipowners Association from 2018 to 2020 and played a major role in 
+developing their new positions and strategies on Decarbonization and Digitization. 
+ 
+Torbjørn Wist, Chief Financial Officer 
+Torbjørn Wist joined Wallenius Wilhelmsen ASA as EVP & CFO on 1 October 2020. He has previously served as 
+EVP & CFO in Scandinavian Airlines System, and has held several managerial positions within both the tele-
+communications and financial services industries internationally. 
+ 
+Pia Synnerman, Chief Customer Officer 
+Pia Synnerman has a strong track record of driving customer value and building leading commercial teams in a 
+global environment. 
+ 
+Synnerman joined Wallenius Wilhelmsen in 2021 as Head of Sales to EMEA. She came from Ericsson where she 
+has held various sales and commercial roles. She has extensive commercial experience transforming organizations 
+to meet increasing demands, execute new strategies and improve performance. She has nearly 20 years of 
+experience from international sales, both in Sweden, Russia and South Africa.
+
+--- Page 23 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+23
+Wenche Agerup, Chief People and Corporate Affairs Officer 
+Wenche Agerup has a broad international leadership, compliance and HR experience and joined Wallenius 
+Wilhelmsen from Telenor where she has worked out of Singapore for Telenor Asia over the last couple of years. 
+ 
+Before that she was part of the executive team with responsibility for Corporate Affairs including sustainability and 
+governance. In Hydro Agerup was part of the executive team responsible for People & Organization, health, safety 
+and environment amongst other things. She also worked as a plant manager for one of Hydro’s aluminum smelters 
+in Norway. 
+ 
+Michael (Mike) Hynekamp, Chief Oprating Officer Logistics Services 
+Michael (Mike) Hynekamp joined Wallenius Wilhelmsen ASA after approximately 10 years in Wallenius Wilhelmsen 
+AS. His previous experience includes thirteen years with Mercedes Benz (Daimler AG) across various roles in 
+Operations and Finance both in the US and in Europe. He started his career with Ernst & Young LLP. 
+ 
+Xavier Leroi, Chief Oprating Officer Shipping Services 
+Xavier Leroi started as EVP & COO Shipping Services in Wallenius Wilhelmsen on November 1, 2022. He is an 
+international executive and managing director with more than 25 years of multicultural leadership experience across 
+several continents. 
+ 
+Anette Maltun Koefod, Chief Communications and Marketing Officer 
+Anette M. Koefoed joined Wallenius Wilhelmsen ASA as VP Corporate Communications in August 2021. She was 
+appointed Chief Communications and Marketing Officer in March 2023 and joined the group executive management 
+team. 
+ 
+Gro Rognstad, Chief Technology and Information Officer 
+Gro Rognstad took on the role as acting Chief Technology and Information Officer in March 2023 and was appointed 
+to the role permanently from October 2023. She joined Wallenius Wilhelmsen in the beginning of 2022 as head of 
+Global Digital Platforms. 
+8.2 Potential conflicts of interest 
+ 
+There are no potential conflicts of interest between any duties carried out on behalf of the Issuer by the persons 
+referred to in item 8.1 and their private interests and/or other duties.
+
+--- Page 24 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+24
+9 Major shareholders 
+9.1 Ownership  
+As of the date of this Base Prospectus the share capital of Wallenius Wilhelmsen ASA is NOK 220,014,568, divided 
+into 423,104,938 shares, with a par value of NOK 0.52 each. There is one class of shares and all shares confer the 
+same rights. 
+ 
+An overview of the Company’s major shareholders as of 19 September 2023 is set out in the table below: 
+ 
+ 
+ 
+The two main shareholders of Wallenius Wilhelmsen ASA are Wilh. Wilhelmsen Holding AS with an ownership of 
+37.8 percent, and Walleniusrederierna AB with 37.8 percent percent of the shares (the latter are held in custody 
+account at Skandinaviska Enskilda Banken AB). The Wilhelmsen family controls Wilh. Wilhelmsen Holding ASA 
+through Tallyman AS, and the Wallenius Kleberg family controls Walleniusrederierna AB through Rederi AB Soya 
+(Soya group). 
+9.2 Change of control of the company 
+There are no arrangements, known to the Company, the operation of which may at a subsequent date result in a 
+change in control in Wallenius Wilhelmsen ASA.
+
+--- Page 25 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+25
+10 Financial information concerning the Company's assets 
+and liabilities, financial position and profits and losses 
+10.1 Financial statements 
+Wallenius Wilhelmsen ASA's consolidated financial statements have been prepared in accordance with the  
+International Financial Reporting Standards (IFRS), as adopted by the European Union and additional disclosure 
+requirements in the Norwegian Accounting Act as effective December 31, 2022. The Group's accounting policies 
+are shown in the Annual Report 2022, pages 116-128. 
+ 
+The financial statements for the parent company have been prepared and presented in accordance with simplified 
+IFRS as stated by § 3-9 of the Accounting Act and the Regulations on the Simplified Application of International 
+Accounting Standards established by the Norwegian Ministry of Finance on February 7, 2022.  
+ 
+According to the Regulation (EU) 2017/1129 of the European Parliament and of the Council, the historical 
+financial information and financial statements is incorporated by reference to the Interim Report 2Q 2023 , Interim 
+Report 1Q 2023 and Annual Report 2022. See Cross Reference List for complete web addresses.  
+ 
+Interim Report
+Interim Report
+Annual Report 2022
+Q2 2023
+Q1 2023
+Page(s)
+Wallenius Wilhelmsen ASA Group
+Consolidated income statement 
+21
+18
+112
+ 
+Consolidated statement of comprehensive income
+ 
+22
+ 
+19
+ 
+112
+ 
+Consolidated balance Sheet
+ 
+23
+ 
+20
+ 
+113
+ 
+Consolidated statement of cash flows
+ 
+24
+ 
+21
+ 
+114
+ 
+Notes to the consolidated financial statements
+ 
+26-38
+ 
+23-34
+ 
+129-184
+Wallenius Wilhelmsen ASA Parent
+Income statement  
+- 
+- 
+190 
+ 
+Statement of comprehensive income  
+ 
+- 
+ 
+- 
+ 
+190 
+ 
+Balance Sheet 
+- 
+- 
+ 
+191 
+ 
+Statement of cash flows 
+ 
+- 
+ 
+- 
+ 
+192 
+ 
+Notes to the financial statements 
+- 
+- 
+ 
+193-213 
+ 
+ 
+10.2 Auditing of historical annual financial information 
+The historical financial information for 2022 has been audited by PricewaterhouseCoopers AS. The audit has 
+been conducted in accordance with International Standards on Auditing (ISAs). 
+ 
+A statement of audited historical financial information for the Company is given in the Annual Report 2022, 
+pages 235-240. 
+ 
+10.3 Legal and arbitration proceedings   
+In 2012 several jurisdictions launched an investigation into potential cartel behavior in the global car-carrier industry. 
+These proceedings were to our best knowledge finalized during 2022. Other than the anti-trust cartel cases and 
+civil cases following thereto, there has been no governmental, legal or arbitration proceedings (including any such 
+proceedings which are pending or threatened of which the Issuer is aware), during a period covering at least the 
+previous 12 months which may have, or have had in the recent past, significant effects on the Issuer and/or Group's 
+financial position or profitability.
+
+--- Page 26 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+26
+10.4 Significant change in the Issuer’s financial position 
+There has been no significant change in the financial position of the Group which has occurred since the end of 
+the last financial period for which interim financial information has been published.
+
+--- Page 27 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+27
+11 Regulatory disclosures 
+The below tables are a summary of the information disclosed by the Issuer under Regulation (EU) 596/2014 over 
+the last 12 months which is relevant at the date of the Base Prospectus. 
+ 
+Additional regulated information required to be disclosed under the laws of a member state
+Date
+Information
+05.09.2023 
+Wallenius Wilhelmsen: Initiation of share repurchase programme as part of its long-term 
+incentive scheme; 
+In accordance with the authorisation from the AGM, the maximum number of shares that can 
+be repurchased is 42,310,494 shares, equivalent to 10% of the share capital of the Company. 
+The share repurchase for the long-term incentive scheme will however be capped at 500,000 
+shares, in line with the number of shares required for the scheme outlined in the notice of 
+annual general meeting. 
+18.08.2023 
+Wallenius Wilhelmsen ASA: Partial repurchase of WALWIL03; 
+In conjunction with the bond issue, the company has bought back a further NOK 76 million o 
+the outstanding bond WALWIL03 (ISIN NO0010891971) in conjunction with the bond issue 
+18.08.2023 
+Wallenius Wilhelmsen ASA: Partial repurchase of WALWIL03; 
+In conjunction with the bond issue, the company has bought back NOK 452 million of the 
+outstanding bond WALWIL03 (ISIN NO0010891971) 
+17.08.2023 
+Wallenius Wilhelmsen ASA: Successful placement of new sustainability-linked senior 
+unsecured bonds; 
+Wallenius Wilhelmsen ASA has today successfully completed the issuance of new NOK 1 
+billion sustainability-linked senior unsecured bonds with a coupon of 3m NIBOR plus 3.25% 
+p.a. and maturity date on 31 August 2028. 
+15.08.2023 
+Wallenius Wilhelmsen ASA: Wallenius Wilhelmsen delivers another strong quarter improving 
+performance across all segments; 
+Disclosure of the results of Q2 2023 
+04.05.2023 
+Wallenius Wilhelmsen reports Q1 results - third best quarter ever; 
+ 
+Disclosure of the results for Q1 2023 
+26.04.2023 
+Wallenius Wilhelmsen ASA: Minutes of Annual General Meeting 2023; 
+The annual general meeting in Wallenius Wilhelmsen ASA was held, on Wednesday, 26 April 
+2023 at 13:00 (CEST). All proposals on the agenda were adopted , as per notice of the 
+annual general meeting published on NewsWeb Oslo Stock Exchange on 31.03.2023. 
+20.02.2023 
+CORRECTION: Wallenius Wilhelmsen: Key information relating to proposed cash dividend; 
+The correction relates to incorrectly writing total dividend proposal is USD 0.85 cent per 
+share, the correct proposal is USD 0.85 per share. As reported in the Q4-22 results, on 7 
+February 2023 the board of directors of Wallenius Wilhelmsen ASA decided to propose a 
+dividend of USD 0.85 per share for the fiscal year 2022. The dividend will be declared in USD 
+and paid in NOK in two tranches. USDNOK conversion will take place shortly before each 
+payment. The dividend payment is to be resolved by the Annual General Meeting on 26 April 
+2023. 
+08.02.2023 
+Wallenius Wilhelmsen: Delivers an exceptional 2022 – strengthening the position as a leading 
+shipping and logistics partner; 
+ 
+Disclosure of the results of Q4 2022 
+09.11.2022 
+Wallenius Wilhelmsen: Allocation of shares under Long-Term Incentive Plan; 
+ 
+On November 9, 2022, Wallenius Wilhelmsen transferred 2,864 shares to a former executive 
+who has exercised options as granted under Wallenius Wilhelmsen's Long-Term Incentive 
+Program (“LTI”). The purpose of the LTI program is to drive the growth and performance of 
+Wallenius Wilhelmsen leading to long-term value creation and thus increased shareholder 
+value. 
+08.11.2022 
+Wallenius Wilhelmsen: Ex dividend USD 0.06 tomorrow 9 November 2022; 
+ 
+As of 9 November 2022, the shares in Wallenius Wilhelmsen ASA will be traded ex dividend 
+USD 0.06, declared in USD and converted to NOK resulting in a payment of NOK 0.6152. In 
+2023, the company pays in total USD 0.15 per share, declared in USD and converted to NOK 
+resulting in a total payment of NOK 1.44. This represents 36% of net profit for the fiscal year 
+of 2021. 
+02.11.2022 
+Q3 2022: Strongest quarter on record 
+Disclosure of the results of Q3 2022
+
+--- Page 28 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+28
+ 
+ 
+Non-regulatory press relases
+Date
+Information
+22.06.2023 
+Wallenius Wilhelmsen signs a new contract with major EV manufacturer; 
+Wallenius Wilhelmsen has signed a new contract with a major EV manufacturer lasting until 
+the end of 2025. The contract includes both land and sea services from Asia to Europe, as 
+well as from Asia to North America at rates reflecting the current strong demand and tight 
+balance in the market. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annual financial and audit reports
+Date
+Information
+16.03.2023 
+Wallenius Wilhelmsen’s 2022 annual report is now available Disclosure of annual report for 
+2022 
+ 
+ 
+ 
+ 
+Mandatory notification of trade primary insiders
+Date
+Information
+25.05.2023 
+Wallenius Wilhelmsen: Mandatory notification of trade; 
+ 
+Lasse Kristoffersen, CEO of Wallenius Wilhelmsen ASA and a primary insider, has bought 
+5000 shares at 66.00 NOK in WAWI today, 25 May 2023. 
+09.05.2023 
+Wallenius Wilhelmsen: Primary insiders have been allocated shares under the long-term 
+incentive program; 
+Wallenius Wilhelmsen transferred 486,273 shares to current and former executives under 
+Wallenius Wilhelmsen's long-term incentive program ("LTI"). The purpose of the LTI program 
+is to drive the growth and performance of Wallenius Wilhelmsen leading to long-term value 
+creation and thus increased shareholder value. 
+05.05.2023 
+Wallenius Wilhelmsen: Mandatory notification of trade; 
+Nils Holger Koefoed, a close associate of the Chief Communications and Marketing Officer 
+and a primary insider Anette Maltun Koefoed, has bought 1,300 shares in WAWI today, 5 May 
+2023 
+04.05.2023 
+Wallenius Wilhelmsen: Mandatory notification of trade; 
+Anna Felländer (board member in WAWI) bought 1 400 shares today, 4 May 2023 
+04.05.2023 
+Wallenius Wilhelmsen: Mandatory notification of trade; 
+Yngvil Åsheim (board member in WAWI) bought 4 250 shares today, 4 May 2023 
+24.03.2023 
+Mandatory notification of trade; 
+Michael Hynekamp, a primary insider in Wallenius Wilhelmsen ASA (OSE: WAWI) has sold 
+shares 
+20.03.2023 
+Wallenius Wilhelmsen: Mandatory notification of trade; 
+ 
+Margareta Alestig (board member) bought 600 shares today, 20 March 2023. 
+ 
+ 
+ 
+ 
+Acquisition or disposal of the Issuer’s own shares
+Date
+Information
+19.09.2023 
+Wallenius Wilhelmsen: Share buyback programme completed; 
+ 
+Disclosure of the Issuer’s share buyback programme 
+13.09.2023 
+Wallenius Wilhelmsen: Transactions made under the share buyback programme: 
+Disclosure of transactions made under the share buyback programme
+
+--- Page 29 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+29
+12 Documents available  
+ 
+For the term of the Base Prospectus the following documents, where applicable, can be inspected at the Issuer's 
+website https://www.walleniuswilhelmsen.com. 
+ 
+(a) 
+the up to date memorandum and articles of association of the Issuer; 
+ 
+(b) 
+all reports, letters, and other documents, valuations and statements prepared by any expert at the Issuer's 
+request any part of which is included or referred to in the Base Prospectus.
+
+--- Page 30 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+30
+13 Financial instruments that can be issued under the Base 
+Prospectus 
+The Base Prospectus, as approved in accordance with the EU Prospectus Regulation 2017/1129, allows for Bonds 
+to be offered to the public or admitted to trading on a regulated market situated or operating within any EEA country.  
+ 
+This chapter describes the form, type, definitions, general terms and conditions, return and redemption 
+mechanisms, rating and template for Final Terms associated with the Bonds. 
+ 
+Risk factors related to the Bonds are described in Chapter 1 Risk Factors. 
+ 
+13.1 Securities Form 
+A Bond is a financial instrument as defined in Norwegian Securities Trading Act’s (Verdipapirhandellovens)  
+§ 2-2.  
+ 
+The Bonds are electronically registered in book-entry form with the Securities Depository.  
+ 
+13.2 Security Type 
+Borrowing limit – tap issue 
+The Loan may be either open or closed for increase of the Borrowing Amount during the tenor. A tap issue can take 
+place until five banking days before the Maturity Date. If the issue is open, the First Tranche and Borrowing Limit 
+will be specified in the Applicable Final Terms. 
+ 
+Return 
+Fixed Rate (FIX) 
+A Bond issue with a fixed Interest Rate will bear interest at a fixed rate as specified in the applicable Final Terms.  
+ 
+The Interest Rate will be payable annually or semi-annually on the Interest Payment Dates as specified in the 
+applicable Final Terms. 
+ 
+Floating Rate (FRN) 
+A Bond issue with a floating Interest Rate will bear interest equal to a Reference Rate plus a fixed Margin for a 
+specified period (3, 6 or 12 months). Interest Rate or Reference Rate may be deemed to be zero. The period lengths 
+are equal throughout the term of the Loan, but each Interest Payment Date is adjusted in accordance with the 
+Business Day Convention. The Interest Rate for each forthcoming period is determined two Business Days prior to 
+each Interest Payment Date based on the then current value of the Reference Rate plus the Margin. 
+ 
+The Interest Rate will be payable quarterly, semi-annually or annually on the the Interest Payment Dates as 
+specified in the applicable Final Terms. 
+ 
+The relevant Reference Rate, the Margin, the Interest Payment Dates and the then current Interest Rate will be 
+specified in the applicable Final Terms. 
+ 
+Redemption 
+The Outstanding Bonds will mature in full on the Maturity Date and shall be redeemed by the Issuer on the Maturity 
+Date at a price equal to: 
+ 
+a) 
+100 per cent. of the Nominal Amount, if no Trigger Event has occurred, or 
+b) 
+101.50 per cent. of the Nominal Amount in case a Trigger Event has occurred. 
+ 
+The Issuer may have the option to prematurely redeem the Loan in full at terms specified in the applicable Final 
+Terms. 
+ 
+The Bondholders may have the right to require that the Issuer purchases all or some of the Bonds held by that 
+Bondholder at terms specified in the applicable Final terms. 
+ 
+Security 
+The Bonds may be either secured or unsecured. Details will be specified in the applicable Final Terms. 
+ 
+Negative pledge 
+The Bonds may have negative pledge clause. Details will be specified in the applicable Final Terms.
+
+--- Page 31 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+31
+ 
+13.3 Definitions 
+This section includes a summary of the definitions set out in any Bond Terms as well as certain other definitions 
+relevant for this Prospectus. If these definitions at any point in time no longer represents the correct understanding 
+of the definitions set out in the Bond Terms, the Bond Terms shall prevail. 
+ 
+Additional Bonds: 
+Means debt instruments issued under a Tap Issue, including any Temporary Bonds as 
+defined in the Bond Terms. 
+ 
+ 
+Applicable Interim SPT 
+Means the Interim SPT, subject to adjustments pursuant to any Trajectory Adjustments, for 
+the Target Observation Date as further outlined in Schedule 2 in the Bond Terms.  
+ 
+ 
+Attachment: 
+Means any schedule, appendix or other attachment to the Bond Terms. 
+ 
+ 
+Base Prospectus: 
+This document. Describes the Issuer and predefined features of Bonds that can be offered or 
+listed under the Base prospectus, as specified in the Prospectus Regulation (EU) 2017/1129. 
+Valid for 12 months after it has been published. In this period, a prospectus may be 
+constituted by the Base Prospectus, any supplement(s) to the Base Prospectus and a Final 
+Terms for each new issue. 
+Bond Issue/Bonds/ 
+Notes/the Loan: 
+Means (i) the debt instruments issued by the Issuer pursuant to the Bond Terms, and (ii) any 
+overdue and unpaid principal which has been issued under a separate ISIN in accordance 
+with the regulations of the CSD from time to time. 
+ 
+ 
+Bond Terms: 
+The terms and conditions, including all Attachments which form an integrated part of the 
+Bond Terms, in each case as amended and/or supplemented from time to time. 
+ 
+ 
+Bondholder: 
+A person who is registered in the CSD as directly registered owner or nominee holder of a 
+Bond, subject however to the Bondholders’ rights in the Bond Terms. 
+ 
+ 
+Bondholders’ decisions: 
+The Bondholders’ Meeting represents the supreme authority of the Bondholders community in 
+all matters relating to the Bonds and has the power to make all decisions altering the terms and 
+conditions of the Bonds, including, but not limited to, any reduction of principal or interest and 
+any conversion of the Bonds into other capital classes. 
+ 
+At the Bondholders’ meeting each Bondholder may cast one vote for each voting bond owned 
+at close of business on the day prior to the date of the Bondholders’ meeting in the records 
+registered in the Securities Depository.  
+ 
+In order to form a quorum, at least half (1/2) of the voting bonds must be represented at the 
+Bondholders' meeting. See also the clause for repeated Bondholders’ meeting in the Bond 
+Terms.  
+ 
+Resolutions shall be passed by simple majority of the votes at the Bondholders' Meeting, 
+however, a majority of at least 2/3 of the voting bonds represented at the Bondholders’ Meeting 
+is required for any waiver or amendment of any terms of the Bond Terms. 
+ 
+(For more details, see also the clause for Bondholders’ decisions in the Bond Terms) 
+ 
+ 
+Bondholders rights: 
+Bondholders' rights are specified in the Bond Terms.  
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with the CSD, the 
+Bondholders are bound by the Bond Terms. 
+ 
+ 
+Bond Trustee: 
+Nordic Trustee AS, Postboks 1470 Vika, 0116 Oslo, or its successor(s) Website: 
+https://nordictrustee.com 
+ 
+The Bond Trustee has power and authority to act on behalf of, and/or represent, the 
+Bondholders in all matters, including but not limited to taking any legal or other action, 
+including enforcement of the Bond Terms, and the commencement of bankruptcy or other 
+insolvency proceedings against the Issuer, or others. 
+ 
+The Bond Trustee shall represent the Bondholders in accordance with the finance 
+documents. The Bond Trustee is not obligated to assess or monitor the financial condition of 
+the Issuer or any other obligor unless to the extent expressly set out in the Bond Terms, or to
+
+--- Page 32 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+32
+take any steps to ascertain whether any event of default has occurred. The Bond Trustee is 
+entitled to take such steps that it, in its sole discretion, considers necessary or advisable to 
+protect the rights of the Bondholders in all matters pursuant to the terms of the finance 
+documents. 
+ 
+ 
+Borrowing Limit – Tap 
+Issue and Borrowing 
+Amount/First Tranche 
+Borrowing Limit – Tap Issue is the maximum issue amount for an open Bond issue.  
+ 
+Borrowing Amount/First Tranche is the borrowing amount for a closed Bond Issue, eventually 
+the borrowing amount for the first tranche of an open Bond Issue. 
+ 
+Borrowing Limit – Tap Issue and Borrowing Amount/First Tranche will be specified in the 
+Final Terms. 
+ 
+ 
+Business Day: 
+Means a day on which both the relevant CSD settlement system is open, and the relevant 
+currency of the Bonds settlement system is open. 
+ 
+ 
+Business Day 
+Conventon: 
+If the last day of any Interest Period originally falls on a day that is not a Business Day, the 
+Interest Payment Date will be as follow: 
+ 
+If Fixed Rate, the Interest Payment Date shall be postponed to the next day which is a Business 
+Day (Following Business Day convention). However, no adjustment will be made to the Interest 
+Period. 
+ 
+If FRN, the Interest Period will be extended to include the first following Business Day unless  
+that day falls in the next calendar month, in which case the Interest Period will be shortened to
+the first preceding Business Day (Modified Following Business Day convention). The Interest 
+ Period is adjusted accordingly. 
+ 
+ 
+Calculation Agent: 
+The Bond Trustee, if not otherwise stated in the applicable Final Terms. 
+ 
+ 
+Call Option: 
+The Final Terms may specify that the Issuer may redeem all but not only some of the 
+Outstanding Bonds on any Business Day.  
+ 
+In such case the Call Date(s), the Call Price(s) and the Call Notice Period will be specified in 
+the Final Terms. 
+ 
+ 
+CII 
+Means carbon intensity indicator, being grams of CO2 emissions per cargo-carrying capacity 
+and nautical mile and measures how effectively a ship transports cargo. The CII per vessel is 
+calculated based on fuel consumption, distance travelled and (for vehicle carriers) the gross 
+tonnage of the vessel. CII shall be calculated according to following cgDIST formula:  
+ 
+ , 
+where,  
+a) 
+Ci is the carbon emissions for voyage i, using the fuel consumption and carbon 
+factor of each type of fuel;  
+b) 
+GT is the gross tonnage of the vessel; and  
+c) 
+Di is the distance travelled on voyage i.  
+ 
+The unit is grams of CO2 per gross ton-miles (gCO2/GT-nm). 
+ 
+ 
+Controlled Fleet: 
+Means all vessels owned by the Group and long-term charter vessels under the Group’s 
+control, where long-term charter is defined as periods of 12 months or longer. 
+ 
+ 
+Currency: 
+The currency in which the bond issue is denominated. 
+ 
+Currency will be specified in the Final Terms. 
+ 
+ 
+Day Count Convention: 
+The convention for calculation of payment of interest; 
+a) If Fixed Rate, the interest shall be calculated on the basis of a 360-day year comprised of 
+twelve months of 30 days each and, in case of an incomplete month, the actual number 
+of days elapsed (30/360-days basis), unless: 
+(i) the last day in the relevant Interest Period is the 31st calendar day but the first day of 
+that Interest Period is a day other than the 30th or the 31st day of a month, in which
+
+--- Page 33 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+33
+case the month that includes that last day shall not be shortened to a 30–day 
+month; or 
+(ii) the last day of the relevant Interest Period is the last calendar day in February, in 
+which case February shall not be lengthened to a 30-day month. 
+(b) If FRN, the interest shall be calculated on the basis of the actual number of days in the 
+Interest Period in respect of which payment is being made divided by 360 (actual/360-
+days basis). 
+ 
+ 
+Decisive Influence: 
+Means a person having, as a result of an agreement or through the ownership of shares or 
+interests in another person (directly or indirectly): 
+(a) a majority of the voting rights in that other person; or 
+(b) a right to elect or remove a majority of the members of the board of directors of that other    
+person. 
+ 
+ 
+Denomination – Each 
+Bond: 
+The nominal amount of each Bond. 
+ 
+Denomination of each bond will be specified in the Final Terms. 
+ 
+ 
+Disbursement Date / 
+Issue Date 
+Date of bond issue.  
+ 
+On the Issue Date the bonds will be delivered to the Bondholder’s VPS-account against 
+payment or to the Bondholder’s custodian bank if the Bondholder does not have his/her own 
+VPS-account. 
+ 
+The Issue Date will be specified in the Final Terms. 
+ 
+ 
+Early redemption option 
+due to a tax event: 
+The Final Terms may specify that the Issuer is entitled to redeem all (but not only some) of 
+the Outstanding Bonds prior to the Maturity Date due to a tax event. 
+ 
+ 
+Event of Default 
+Means any of the events or circumstances specified in the Bond Terms (Events of Default). 
+ 
+ 
+Exchange: 
+Means: 
+(a) Oslo Børs (the Oslo Stock Exchange); or 
+(b) any regulated market as such term is understood in accordance with the Markets in 
+Financial Instruments Directive 2014/65/EU (MiFID II) and Regulation (EU) No. 600/2014 on 
+markets in financial instruments (MiFIR). 
+ 
+ 
+External Reviewer: 
+Means a qualified provider of third-party assurance or attestation services appointed by the 
+Issuer in accordance with the voluntary guidelines for external reviewers developed by the 
+International Capital Markets Association (ICMA) and any other applicable guideline. 
+ 
+ 
+Final Terms: 
+Document describing securities as specified in Prospectus Regulation (EU) 2017/1129, 
+prepared as part of the Prospectus. Final Terms will be prepared for each new security as 
+specified in Prospectus Regulation (EU) 2017/1129, issued by the Issuer. 
+ 
+ 
+Interest Determination 
+Date(s): 
+In the case of NIBOR: Second Oslo business day prior to the start of each Interest Period. 
+ 
+Interest Determination Date(s) for other Reference Rates, see Final Terms. 
+ 
+ 
+Interest Payment 
+Date(s): 
+The Interest Rate is paid in arrears on the last day of each Interest Period.  
+ 
+Any adjustment will be made according to the Business Day Convention. 
+ 
+The Interest Payment Date(s) will be specified in the Final Terms. 
+ 
+ 
+Interest Period: 
+The first Interest Period runs from and including the Issue Date to but excluding the first 
+Interest Payment Date. The subsequent Interest Periods run from and including an Interest 
+Payment Date to but excluding the next Interest Payment Date. The last Interest Payment 
+Date corresponds to the Maturity Date. 
+ 
+ 
+Interest Rate: 
+Rate of interest applicable to the Bonds; 
+ 
+(i) 
+If Fixed Rate, the Bonds shall bear interest at the percentage rate per annum (based 
+on the Day Count Convention)
+
+--- Page 34 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+34
+(ii) If FRN, the Bonds shall bear interest at a rate per annum equal to the Reference 
+Rate plus a Margin (based on the Day Count Convention). Interest Rate or 
+Reference Rate may be deemed to be zero. 
+ 
+The Interest Rate is specified in Final Terms. 
+ 
+ 
+Interest Rate Adjustment 
+Date: 
+Date(s) for adjusting of the interest rate for bond issue with floating interest rate. 
+ 
+The Interest Rate Adjustment Date will coincide with the Interest Payment Date. 
+ 
+ 
+Interim SPT: 
+Means any of the targeted KPI reductions for the period 2021-2029 compared to the 2019 
+baseline (with the 2030 target defined as the SPT) as outlined in Schedule 2 hereto, subject 
+to adjustments pursuant to any Trajectory Adjustments 
+ 
+ 
+ISIN: 
+International Securities Identification Number for the Bond Issue. ISIN is specified in Final 
+Terms. 
+ 
+ 
+Issuer: 
+Wallenius Wilhelmsen ASA is the Issuer under the Base Prospectus. 
+ 
+ 
+Issuer’s Bonds: 
+Means any Bonds which are owned by the Issuer or any affiliate of the Issuer. 
+ 
+ 
+Issue Price: 
+The price in percentage of the Denomination, to be paid by the Bondholders at the Issue 
+Date. 
+ 
+Issue price will be specified in Final Terms.  
+ 
+ 
+Joint Lead Managers: 
+The bond issue’s Joint Lead Manager(s), as specified in the Final Terms. 
+ 
+ 
+LEI-code: 
+Legal Entity Identifier (LEI) is a 20-character reference code to uniquely identify legally 
+distinct entities that engage in financial transactions. 
+ 
+LEI-code is specified in Final Terms. 
+ 
+ 
+KPI: 
+Means the CII in the Controlled Fleet for a given time period, based on gross tonnage  
+and distance travelled. 
+ 
+ 
+KPI Performance 
+means the actual KPI at any time for the previous twelve months period, as reported in the 
+Sustainability-Linked Finance Progress Report and as verified by an External Reviewer, 
+compared to the 2019 baseline (subject to any Trajectory Adjustments) and expressed as a 
+percentage. 
+ 
+ 
+Listing: 
+Listing of a bond issue on an Exchange is due to the Base Prospectus, any supplement(s) to 
+the Base Prospectus and a Final Terms. 
+ 
+An application for listing will be sent after the Disbursement Date and as soon as possible 
+after the Prospectus has been approved by the Norwegian FSA. 
+ 
+Bonds listed on an Exchange are freely negotiable. See also Market Making. 
+ 
+ 
+Listing Failure Event: 
+Means: 
+a) 
+that the Bonds (save for any Temporary Tap Bonds) have not been admitted to listing 
+on an Exchange within 6 months following the Issue Date,  
+ 
+b) 
+in the case of a successful admission to listing, that a period of six (6) months has 
+elapsed since the Bonds ceased to be admitted to listing on an Exchange; or  
+ 
+c) 
+that the Temporary Tap Bonds have not been admitted to listing on the Exchange 
+where the other Bonds are listed within 6 months following the issue date for such 
+Temporary Bonds. 
+ 
+The Issuer shall promptly inform the Bond Trustee in writing if a Listing Failure Event has 
+occurred. However, no Event of Default shall occur if the Issuer fails (i) to list the Bonds in 
+accordance with Clause 4 (Admission to Listing) in the Bond Terms or (ii) to inform of such 
+Listing Failure Event, and such failure shall result in the accrual of default interest in accordance 
+with paragraph (c) of Clause 8.2 (Default interest) in the Bond Terms for as long as such Listing 
+Failure Event is continuing.
+
+--- Page 35 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+35
+ 
+ 
+Market Making: 
+For Bonds listed on an Exchange, a market-maker agreement between the Issuer and a 
+Manager may be entered into.  
+ 
+This will be specified in the Final Terms. 
+ 
+ 
+Margin: 
+The margin, specified in percentage points, to be added to the Reference rate. 
+ 
+Margin will be specified in the Final Terms.  
+ 
+ 
+Maturity Date: 
+The date the bond issue is due for payment, if not already redeemed pursuant to Call Option, 
+Put Option or Early redemption option due to a tax event. The Maturity Date coincides with 
+the last Interest Payment Date and is adjusted in accordance with the Business Day 
+Convention.  
+ 
+The Maturity Date is specified in the Final Terms. 
+ 
+ 
+Outstanding Bonds: 
+Means any Bonds not redeemed or otherwise discharged. 
+ 
+The Issuer will issue on the Issue date the first tranche of the bond issue as specified in Final 
+Terms. During the term of the bond issue, new tranches may be issued up to the Borrowing 
+Limit, as specified in Final Terms. 
+ 
+ 
+Paying Agent: 
+The entity designated by the Issuer to manage (maintain the Issuer Account for) the bond 
+issue in the Securities Depository. 
+ 
+The Paying Agent is specified in the Final Terms. 
+ 
+ 
+Principal amount: 
+Outstanding amounts under the Loan from time to time. 
+ 
+ 
+Prospectus: 
+The Prospectus consists of the Base Prospectus, any supplement(s) to the Base Prospectus 
+and the relevant Final Terms prepared in connection with application for listing on an 
+Exchange.  
+ 
+ 
+Put Option: 
+The Final Terms may specify that upon the occurrence of a Put Option Event, each 
+Bondholder will have the right to require that the Issuer purchases all or some of the Bonds 
+held by that Bondholder. 
+ 
+In such case the exercise procedures, the repayment date and redemption price will be 
+specified in the Final Terms. 
+ 
+ 
+Put Option Event: 
+ Means a Change of Control Event or a De-Listing Event 
+ 
+ 
+Redemption: 
+The Outstanding Bonds will mature in full on the Maturity Date and shall be redeemed by the 
+Issuer on the Maturity Date at a price equal to: 
+ 
+a) 
+100 per cent. of the Nominal Amount, if no Trigger Event has occurred; or 
+ 
+b) 
+101.50 per cent. of the Nominal Amount in case a Trigger Event has occurred. 
+ 
+The Issuer may have the option to prematurely redeem the Loan in full at terms specified in 
+the applicable Final Terms. 
+ 
+ 
+Redemption Price: 
+The price determined as a percentage of the Denomination to which the bond issue is to be 
+redeemed, as specified in the Final Terms. 
+ 
+ 
+Reference Rate:  
+For FRN, the Reference Rate shall be NIBOR or any other rate as specified in the Final 
+Terms, which appears on the Relevant Screen Page as at the specified time on the Interest 
+Determination Date in question. 
+ 
+The Reference Rate, the Relevant Screen Page, the specified time, information about the 
+past and future performance and volatility of the Reference Rate and any fallback provisions 
+will be specified in Final Terms.  
+ 
+ 
+Relevant Screen Page: 
+For FRN, an internet address or an electronic information platform belonging to a renowed 
+provider of Reference Rates.
+
+--- Page 36 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+36
+ 
+The Relevant Screen Page will be specified in the Final Terms. 
+ 
+ 
+Securities Depository 
+/CSD: 
+The securities depository in which the bonds are registered, in accordance with the 
+Norwegian Act of 2019 no. 6 regarding Securities depository. 
+ 
+Unless otherwise specified in the Final Terms, the following Securities Depository will be 
+used: 
+Norwegian Central Securities Depository (“Verdipapirsentralen” or ”VPS”), P.O. Box 4, 0051 
+Oslo. 
+ 
+ 
+SPT: 
+Means the Group’s sustainability performance target, being the Group’s targeted reduction in 
+carbon intensity from its shipping operations with 27.5 per cent. by 2030 compared to the 2019 
+baseline, as calculated by the KPI. 
+ 
+ 
+Sustainability Linked 
+Finance Framework: 
+Means the Issuer’s Sustainability Linked Finance Framework adopted by the Issuer in 
+January 2022 establishing the Issuer’s sustainability strategy priorities and goals with respect 
+to its KPI Performance. Available on: 
+https://www.walleniuswilhelmsen.com/storage/downloads/220201-Sustainability-Linked-
+Financing-Framework.pdf 
+ 
+ 
+Sustainability-Linked 
+Finance Progress 
+Report 
+Means the Issuer’s status report, either as a separate document or as part of other company 
+reports, including the KPI Performance for the relevant time period and all relevant 
+information needed to assess the KPI Performance compared to the applicable level set out 
+in the Trajectory. 
+ 
+ 
+Tap Issues: 
+The Issuer may, provided that the conditions set out in the Bond Terms are met, at one or 
+more occasions up until five banking days before the Maturity Date or any earlier date when 
+the Bonds have been redeemed in full, issue Additional Bonds until the aggregate nominal 
+amount of the Bonds outstanding equals in aggregate the maximum issue amount (less the 
+aggregate nominal amount of any previously redeemed Bonds) 
+ 
+If N/A is specified in the Borrowing Limit in the Final Terms, the Issuer may not make Tap 
+issues under the Bond Terms. 
+ 
+ 
+Target Observation 
+Date: 
+Means 31 December 2027. 
+ 
+ 
+Tax Event Repayment 
+Date: 
+Means the date set out in a notice from the Issuer to the Bondholders pursuant to Clause 
+10.2 (Early redemption option due to a tax event) in the Bond Terms 
+ 
+ 
+Temporary Bonds: 
+If the Bonds are listed on an Exchange and there is a requirement for a supplement to the 
+Base Prospectus in order for the Additional Bonds to be listed together with the Bonds, the 
+Additional Bonds may be issued under a separate ISIN which, upon the approval of the 
+supplement, will be converted into the ISIN for the Bonds issued on the initial Issue Date. The 
+Bond Terms governs such Temporary Bonds. The Issuer shall inform the Bond Trustee, the 
+Exchange and the Paying Agent once such supplement is approved. 
+ 
+ 
+Trajectory: 
+Means the Group’s Interim SPTs and SPT until 2030 as outlined in Schedule 2 in the Bond 
+Terms. 
+ 
+ 
+Trajectory Adjustments: 
+Means changes to the 2019 baseline (in reference to paragraph (a), (b), and/or (c) below) 
+and/or Trajectory (in reference to paragraph (c)) either due to: 
+ 
+a) 
+changes to the calculation methodology for the KPI, for example (but not limited to) 
+changes in IMO’s CII definition and relevant input factors; 
+ 
+b) 
+significant changes in data due to better data accessibility; or  
+ 
+c) 
+a fleet sale or purchase of 10 or more vessels in one transaction or a group of related 
+transactions such as, but not limited to, transactions in the form of sale, purchase, 
+merger, acquisition, spin-off of vessels or of companies. Such transactions may 
+require a recalculation or pro forma adjustment of the Trajectory (with adjustments to 
+the 2019 baseline when applicable). 
+ 
+All recalculations or pro forma adjustments will have to be verified and approved by an
+
+--- Page 37 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+37
+External Reviewer. 
+ 
+ 
+Trigger Event: 
+Means that:  
+a) 
+the KPI Performance is higher (i.e. less reduction) than the Applicable Interim SPT 
+on the Target Observation Date; or 
+ 
+b) 
+the Issuer has failed to provide and made public annual Sustainability-Linked 
+Finance Progress Reports within 120 calendar days after the end of each financial 
+year (with first reporting after the financial year 2023); or 
+ 
+c) 
+any KPI Performance included in the Sustainability-Linked Finance Progress Report 
+              published by the Issuer in accordance with paragraph (b) above was not subject to  
+              Verification. 
+  
+ 
+Verification: 
+Means, for any relevant period, any verification by the External Reviewer of the KPI 
+Performance and compare this to the relevant Interim SPT in the Trajectory as set out  
+in Schedule 2 under the Bond Terms. 
+ 
+ 
+Yield: 
+Dependent on the Market Price for bond issue with floating rate. Yield for the first interest 
+period can be determined when the interest is known, normally two Business Days before the 
+Issue Date. 
+  
+For bond issue with fixed rate, yield is dependent on the market price and number of Interest 
+Payment Dates. 
+ 
+The yield is calculated in accordance with «Anbefaling til Konvensjoner for det norske 
+sertifikat- og obligasjonsmarkedet» prepared by Forening for finansfag in March 2022: 
+https://finansfag.no/wp-content/uploads/2022/06/Rentekonvensjon_oppdatert2022.pdf 
+ 
+Yield is specified in Final Terms. 
+ 
+13.4 General terms and conditions 
+These general terms and condtions summarize and describe the general terms and conditions set out in any Bond 
+Terms. If these general terms and conditions at any point in time no longer represents the correct understanding of 
+the general terms and conditions set out in the Bond Terms, the Bond Terms shall prevail. 
+13.4.1 Use of proceeds 
+Use of proceeds will be specified in the Final Terms. 
+13.4.2 Publication 
+The Base Prospectus, any supplement(s) to the Base Prospectus and the Final Terms will be published on 
+Issuer’s website https://www.walleniuswilhelmsen.com  or on the Issuer's visit address, Strandveien 20, 1366 
+Lysaker, Norway, or their successor (s). 
+ 
+The Prospectus will be published by a stock exchange announcement. 
+ 
+13.4.3 Redemption 
+Matured interest and matured principal will be credited each Bondholder directly from the Securities Registry. 
+Claims for interest and principal shall be limited in time pursuant the Norwegian Act relating to the Limitation 
+Period Claims of 18 May 1979 no 18, p.t. 3 years for interest rates and 10 years for principal. 
+ 
+13.4.4 Fees, Expenses and Tax legislation 
+The tax legislation of the investor’s Member State and of the Issuer’s country of incorporation may have an impact 
+on the income received from the securities. 
+ 
+The Issuer shall pay any stamp duty and other public fees in connection with the loan. Any public fees or taxes on 
+sales of Bonds in the secondary market shall be paid by the Bondholders, unless otherwise decided by law or 
+regulation. The Issuer is responsible for withholding any withholding tax imposed by Norwegian law.
+
+--- Page 38 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+38
+13.4.5 Security Depository and secondary trading 
+The Bonds are electronically registered in book-entry form with the Securities Depository, see also the definition of 
+"Securities Depository". Securities Depository is specified in the Final Terms. 
+ 
+Secondary trading will be made over an Exchange for Bonds listed on a marketplace. See also definition of “Market 
+Making”. 
+ 
+Prospectus fee for the Base Prospectus including templates for Final Terms is NOK 98,000. In addition, there is a 
+listing fee for listing of the Bonds in accordance with the current price list of the Exchange. The listing fees will be 
+specified in the Final Terms.  
+ 
+13.4.6 Status of the Bonds and Security 
+The Bonds will constitute senior debt obligations of the Issuer. The Bonds will rank pari passu between 
+themselves. 
+ 
+Further information about status of the bonds and security will be specified in the Final Terms. 
+ 
+13.4.7 Bond Terms 
+The Bond Terms has been entered into between the Issuer and the Bond Trustee. The Bond Terms regulates the 
+Bondholders’ rights and obligations in relations with the bond issue. The Bond Trustee enters into the Bond Terms 
+on behalf of the Bondholders and is granted authority to act on behalf of the Bondholders to the extent provided for 
+in the Bond Terms. 
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with the CSD, the Bondholders are bound by 
+the Bond Terms and any other Finance Document, without any further action required to be taken or formalities to 
+be complied with by the Bond Trustee, the Bondholders, the Issuer or any other party. 
+ 
+The Bond Terms will be attached to the Final Terms for each Bond issue and is also available through the 
+Manager(s), Issuer and the Bond Trustee. 
+ 
+13.4.8 Legislation 
+The Bond Terms is governed by and construed in accordance with Norwegian law. The Issuer is subject to 
+Norwegian legislation, the most relevant law for the Group's operations is the Public Limited Companies Act, the 
+Norwegian Securities Trading Act and the Norwegian Stock Exchange Regulations. 
+ 
+13.4.9 Approvals 
+The Bonds will be issued in accordance with the Issuer’s Board of Directors approval. 
+ 
+The date of the Issuer’s Board of Directors approval will be specified in the Final Terms 
+ 
+The Base Prospectus has been submitted to the Norwegian Financial Supervisory Authority (Finanstilsynet) before 
+listing of the Bonds takes place. 
+ 
+Final Terms will be submitted to Finanstilsynet for information in connection with an application for listing of a Bond 
+Issue. 
+ 
+The Base prospectus will not be the basis for offers for subscription in bonds that are not subject to a prospectus 
+obligation. 
+ 
+13.4.10 Restrictions on the free transferability of the securities 
+Any restrictions on the free transferability of the securities will be specified in the Final Terms. 
+ 
+13.5 Return and redemption 
+Bonds may have return and redemption mechanisms as explained below. The relevant Final Terms refer to these 
+mechanisms and provide relevant parameter values for the specific bond issue.
+
+--- Page 39 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+39
+13.5.1 Bonds with floating rate 
+13.5.1.a Return (interest) 
+The Interest Rate is specified in Interest Rate ii). Payment of the Interest Rate is calculated on basis of the Day 
+Count Convention (b). 
+ 
+Interest Rate or Reference Rate may be deemed to be zero.  
+ 
+The period lengths are equal throughout the term of the Loan, but each Interest Payment Date is adjusted in 
+accordance with the Business Day Convention. The Interest Rate for each forthcoming period are determined two 
+Business Days prior to each Interest Payment Date based on the then current value of the Reference Rate plus the 
+Margin. 
+ 
+The Interest Rate is paid in arrears on each Interest Payment Date. The first Interest Period runs from and including 
+the Issue Date to but excluding the first Interest Payment Date. The subsequent Interest Periods run from and 
+including an Interest Payment Date to but excluding the next Interest Payment Date. The last Interest Payment 
+Date corresponds to the Maturity Date. 
+ 
+The relevant Reference Rate, the Margin, the Interest Payment Dates and the then current Interest Rate will be 
+specified in the applicable Final Terms. 
+ 
+Interest calculation method for secondary trading is given by act/360, modified following. 
+ 
+13.5.1.b Redemption 
+Redemption is made in accordance with Redemption. 
+ 
+13.5.2 Bonds with fixed rate 
+13.5.2.a Return (interest) 
+The interest rate is specified in Interest Rate (i). Payment of the the Interest Rate is calculated on basis of the Day 
+Count Convention (a).  
+ 
+The Interest Rate is paid in arrears on each Interest Payment Date. The first Interest Period runs from and including 
+the Issue Date to but excluding the first Interest Payment Date. The subsequent Interest Periods run from and 
+including an Interest Payment Date to but excluding the next Interest Payment Date. The last Interest Payment 
+Date corresponds to the Maturity Date. 
+ 
+The Interest Rate and the Interest Payment Dates will be specified in the applicable Final Terms. 
+ 
+Interest calculation method for secondary trading is given by act/365 for bond issue with fixed rate.  
+ 
+13.5.2.b Redemption 
+Redemption is made in accordance with Redemption. 
+ 
+13.6 Rating 
+ 
+The Issuer has not been rated. 
+ 
+The Bonds have not been rated.  
+13.7 Final Terms 
+Template for Final Terms for fixed and floating bond issue, see Annex 2. 
+ 
+13.8 ESG 
+The Issuer established a Sustainability Linked Finance Framework in January 2022 setting out the Issuer’s 
+sustainability strategy priorities and goals, in particular with respect to its KPI Performance (see 13.8.1 below). By 
+establishing the Sustainability-Linked Financing Framework, we wish to invite financial partners who share our 
+commitment to align their investments with our carbon emission reduction strategy and positively influence the 
+further development of sustainable financial markets. 
+ 
+This Framework has been developed in accordance with the Sustainability-Linked Bond Principles (SLBP), 
+established by the International Capital Markets Association in June 2020 and the Sustainability Linked Loan
+
+--- Page 40 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+40
+Principles (SLLP) updated by the Loan Market Association, the Asia Pacific Loan Market Association and the Loan 
+Syndications and Trading Association in May 2021.  
+ 
+The Issuer has set the following 3 critical milestones to enable us to reach our carbon ambitions: 
+- 
+by 2023 all new equipment at terminals and yards be zero-emissions 
+- 
+by 2025 all owned vessels equipped for zero-emissions as berth 
+- 
+100% of our energy from sustainable sources by 2050 
+ 
+The Sustainability-Linked Finance Framework is available at 
+https://www.walleniuswilhelmsen.com/storage/downloads/220201-Sustainability-Linked-Financing-Framework.pdf 
+13.8.1 Key Performance Indicator (KPI) 
+We have chosen CO2 emissions from Shipping as the basis for our KPI to measure our carbon footprint. The KPI 
+is aligned with our company target and focuses on our Shipping segment as this accounts for approximately 99 per 
+cent of the group’s Scope 1 and Scope 2 CO2 emissions (2020)*. Moreover, we have chosen a CO2 intensity, rather 
+than absolute emissions. With an intensity target we will be able to monitor and manage our performance over time, 
+where a target for reductions of absolute CO2 emissions would lead to problems of comparability over the years. 
+As for the 2030 target in the initial IMO 2030 strategy, our target is specific to CO2 intensity and excludes other 
+greenhouse gases. 
+ 
+To align with the new IMO emission requirements entering into force 2023 and IMO’s mandatory fuel oil data 
+collection system (“IMO DCS”; see Factbox on page 13 in the Sustainability-linked Financing Framework), the 
+chosen KPI for the Framework is the fleet weighted average carbon intensity, measured by the Carbon Intensity 
+Indicator (CII). The weighted average is based on gross tonnage and distance travelled, in other words transport 
+work.  
+ 
+We have decided to include all owned vessels and long-term charter vessels under WalWil’s control (the “Controlled 
+fleet”). Vessels on short-term charter with typical contract duration less than 12 months are not included since these 
+vessels are not material to our total emissions. Short-term charter has historically amounted to less than 10% of the 
+vessels in operation and the average contract duration for WalWil’s short-term charter vessels is about three (3) 
+months (2017-2020). We have limited ability to influence how the short-term charter vessels are operated, or ability 
+to influence, monitor and control their annual emission levels. The exact number of vessels is dynamic as the fleet 
+will develop over time. For Q3-21 our total fleet included 129 vessels, whereof 119 owned and on long-term charter.  
+ 
+The way the Framework KPI is defined differs slightly from how the corporate carbon intensity target is measured, 
+however both contribute to reduce carbon intensity by 2030. The key reasons for the differences are related to data  
+collection and availability of information as of today: the KPI better matches IMO-DCS reporting for which we already 
+report externally verified vessel fuel consumption data and there are currently no existing global standards to  
+calculate well-to-wake emissions for existing and future fuels. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+* In 2020, total Scope 1 CO2e emissions from shipping were 3,764,260 tonnes, whilst logistics has 8,322 Scope 1 
+emissions and 6,166 tonnes Scope 2 emissions.
+
+--- Page 41 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+41
+ 
+ 
+ 
+KPI calculation methodology 
+The KPI will be calculated as the average CII of the vessels in the Controlled Fleet for a given time period. The CII 
+per vessel is calculated based on fuel consumption, distance travelled and (for vehicle carriers) the gross tonnage  
+of the vessel, according to the following cgDIST formula: 
+ 
+ 
+ 
+Ci is the carbon emissions for voyage i, using the fuel consumption and carbon factor of each type of fuel 
+ 
+GT is the gross tonnage of the vessel  
+ 
+Di is the distance travelled on voyage i. 
+ 
+The unit is grams of CO2 per gross ton-miles (gCO2/GT-nm). 
+ 
+ 
+13.8.2 Calibration of Sustainability Performance Targets (SPTs)  
+WalWil’s Sustainability Performance Target (SPT) is to reduce CO2 intensity from our shipping operations with 
+27.5% by 2030 compared to the base year 2019, as per the defined KPI.  
+ 
+For 2019 and 2020, the KPI data reflect the average CII for the Controlled fleet based on data as reported to IMO 
+DCS, which has been subject to external assurance by the organization authorized by each ship’s flag 
+administration.  
+ 
+Historical data from 2008 to 2019 is estimated based on indexation using historically reported Energy Efficiency 
+Operational Indicator (“EEOI”). The reductions from 2008 have been achieved through many initiatives such as 
+increased vessels size, a large fleet replacement program around 2010, reduced average speed by 5%, improved 
+vessel utilization and operational efficiency, engine upgrades, intensified hull cleaning and retrofit of bulbous bows. 
+The data has not been subject to external assurance and may contain some inherent uncertainties. 
+ 
+The SPT has been established to guide our decarbonization efforts in line with current climate science and the Paris 
+Agreement. The SPT is ambitious and represent a material improvement beyond “business as usual”: We are 
+aiming for more than a 50% reduction in our CO2 intensity from 2008 to 2030 and we will indeed exceed our IMO 
+2030 obligation of a 40% reduction in CO2 intensity across international shipping from 2008-2030.  
+ 
+The Trajectory consists of annual targets (per December 31st of each year) of which one or several could be 
+designated as Interim SPTs in the security documentation of a financial instrument. An Interim SPT is defined as a 
+target linked to a Trigger Event. 
+ 
+Mid-year targets may be calculated using linear interpolation between the annual levels in the Trajectory.
+
+--- Page 42 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+42
+Strategy to achive the SPT 
+Carbon emission reduction is integrated into our overall business strategy and long-term planning. Our work to 
+reach 
+the 
+SPT 
+in 
+2030 
+includes 
+technical, 
+operational 
+and 
+asset 
+replacement 
+initiatives:
+  
+ 
+13.8.3 Security Characteristics 
+The financial and structural characteristics of any security issued under the Framework will be specified in its 
+corresponding security documentation, including the potential changes to the financial and/or structural 
+characteristics which may follow post any Trigger Event(s). 
+ 
+Trigger Events 
+The occurrence of any of the following events (the Trigger Events) may trigger a change in the financial and/or 
+structural characteristic of the relevant security.  
+ 
+ 
+WalWiI’s KPI performance in relation to the applicable Interim SPT(s) (or the SPT) for the relevant 
+Target Observation Date(s) as reported on or before the Reporting End Date following the applicable 
+Reference Period, or 
+ 
+ 
+WalWiI’s reporting does not meet the requirements as set out in section 4 (Reporting) of the Framework 
+each year up until and including the last Target Observation Date, or 
+ 
+ 
+The verification of the KPI performance in accordance with section 5 (Verification) of the Framework has 
+not been provided and, when applicable, made public by the time of the Reporting End Date for each 
+year up until and including the last Target Observation Date. 
+ 
+The Target Observation Date is defined as any date when KPI performance is observed and if applicable 
+measured against a relevant target or an Interim SPT (or the SPT). 
+ 
+The Reporting End Date for any given year shall be the date falling 120 days after the 31st of December of that 
+year (or if relevant, 120 days after a midyear Interim SPT). 
+ 
+The Reference Period sets out the twelve-month period up until and including the Target Observation Date for 
+which the KPI performance is observed.  
+ 
+Further details regarding Trigger Events and the potential impact on the financial and/or structural characteristics 
+of any relevant security will be described in the respective security documentation (Final Terms). 
+ 
+Changes in Securities Characteristics 
+The occurrence of a Trigger Event may result in changes to the financial and/or structural securities 
+characteristics. Such changes will be described in the relevant securities documentation (Final Terms).
+
+--- Page 43 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+43
+13.8.4 Reporting  
+WalWil will provide relevant periodic reporting to investors, lenders and other stakeholders about WalWil’s 
+implementation of our sustainability strategy in general, the progress made on the KPI, and the level of target 
+achievements (including relevant Interim SPT(s) and/or the SPT) as outlined by the Trajectory set out in this 
+Framework and in security specific documentation. The reporting shall be made publicly available on an annual 
+basis and in any case for any date/period relevant for assessing the KPI performance leading to a potential 
+adjustment of the financial and/or structural characteristics of the securities issued hereunder.  
+ 
+The reporting shall be published on the company webpage no later than the Reporting End Date for any given year 
+at least up to and including any final Target Observation Date(s) and shall be accompanied by a verification (as set 
+out under section 13.8.5 “Verification”). 
+ 
+The reporting (together with the verification) will form the basis for evaluating the potential impact on the security 
+characteristics as outlined in section 13.8.3 “Security characteristics”.  
+ 
+Failure to provide the ex-post reporting before any applicable Reporting End Date shall result in a Trigger event 
+with a potential adjustment in the financial and/or structural characteristics as outlined in the security specific  
+documentation. 
+ 
+The reporting will contain all the relevant information needed to assess the progress towards the targets in the 
+Trajectory (including the relevant Interim SPT(s) and the SPT for the applicable Target Observation Date(s)) 
+including but not limited to: 
+ 
+ 
+The performance of the KPI, as per the relevant Reference Period and the applicable Target Observation 
+Date(s) including the calculation methodology and baselines where relevant; 
+ 
+ 
+Information about recalculations, if any, of the KPI levels; 
+ 
+ 
+A verification report relative to the KPI performance against the relevant target and/or or Interim SPT or 
+the SPT in the Trajectory; and 
+ 
+ 
+Information on relevant updates to WalWil’s emission reduction strategy and/or governance with an impact 
+on the KPI and Trajectory. 
+ 
+ 
+13.8.5 Verification  
+In order to provide transparency to investors, lenders and other stakeholders, and in alignment with the 
+Sustainability-Linked Bond Principles and the Sustainability Linked Loan Principles, WalWil will ensure an external 
+and independent verification by one or more qualified external reviewers with relevant expertise, as outlined in the 
+Guidelines for Green, Social, Sustainability and Sustainability-Linked Bonds External Reviews developed by the 
+Green and Social Bond Principles (Established by the International Capital Markets Association in February 2021), 
+of its actual KPI performance level against the targets (including the relevant Interim SPT(s) and/or the SPT) in the 
+Trajectory).  
+ 
+The verification shall be conducted with limited assurance by the external reviewer. WalWil has the discretion to 
+change the external reviewer subject to fulfilling the requirements set out herein. The verification shall be made 
+public together with WalWil’s annual reporting on the company’s webpage no later than the Reporting End Date 
+and in any case for an Interim SPT or the SPT related Trigger Event. The verification, together with the reporting, 
+will form the basis for evaluating any change in the financial and/or structural characteristics of any securities issued 
+under this Framework. Failure to provide the ex-post verification before any applicable Reporting End Date shall 
+result in an automatic adjustment in the financial and/or structural characteristics as outlined in the security specific 
+documentation (Final Terms).
+
+--- Page 44 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+44
+14 Third party information and statement by experts and 
+declarations of any interest 
+14.1 Third party information 
+Part of the information given in this Base Prospectus has been sourced from a third party. It is hereby confirmed 
+that the information has been accurately reproduced and that as far as Wallenius Wilhelmsen ASA is aware and is 
+able to ascertain from information published by that third party, no facts have been omitted which would render the 
+reproduced information inaccurate or misleading. The following table lists such third parties:  
+ 
+Kind of information 
+Publicly available for 
+a fee 
+Name of third 
+party 
+Business 
+address 
+Qualifications 
+Material 
+interest in 
+the Company 
+Clause 6.1.1 source: 
+A leading player for the 
+RoRo shipping 
+https://www.clarksons.
+com/ 
+Clarksons  
+Clarkson 
+Research 
+Services 
+Limited , 
+Commodity 
+Quay, St 
+Katharine 
+Docks, 
+London, E1W 
+1BF, United 
+Kingdom 
+Transcript 
+/statistics 
+None
+
+--- Page 45 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+45
+ 
+Cross reference list 
+Reference in 
+Base 
+Prospectus
+Refers to 
+Details 
+10.1 Financial 
+statements 
+Annual Report 2022, available at: 
+https://www.walleniuswilhelmsen.c
+om/storage/images/2022-
+wallenius-wilhelmsen-annual-
+report.pdf 
+Wallenius Wilhelmsen ASA’s consolidated accounting 
+policies, pages 116-128 
+ 
+ 
+Annual Report 2022, available at: 
+https://www.walleniuswilhelmsen.c
+om/storage/images/2022-
+wallenius-wilhelmsen-annual-
+report.pdf 
+Wallenius Wilhelmsen ASA Consolidated 
+Consolidated income statement page 112 
+Consolidated statement of comprehensive income, page 
+112 
+Conolidated balance sheet, page 113 
+Consolidated statement of cash flows page 114 
+Notes to the consolidated financial statements pages 129-
+184 
+ 
+Wallenius Wilhelmsen ASA Parent 
+Income statement page 190 
+Statement of comprehensive income, page 190 
+Balance sheet, page 191 
+Statement of cash flows page 192 
+Notes to the financial statements pages 193-213 
+ 
+Interim Report Q1 2023, available 
+at: 
+https://www.walleniuswilhelmsen.c
+om/storage/images/Q1-2023-
+quarterly-report.pdf 
+Wallenius Wilhelmsen ASA Consolidated 
+Consolidated income statement page 18 
+Consolidated statement of comprehensive income, page 
+19 
+Conolidated balance sheet, page 20 
+Consolidated statement of cash flows page 21 
+Notes to the consolidated financial statements pages 23-
+34
+ 
+Interim Report Q2 2023, available 
+at: 
+https://www.walleniuswilhelmsen.c
+om/storage/images/Q2-2023-
+quarterly-report-Wallenius-
+Wilhelmsen.pdf 
+Wallenius Wilhelmsen ASA Consolidated 
+Consolidated income statement page 21 
+Consolidated statement of comprehensive income, page 
+22 
+Conolidated balance sheet, page 23 
+Consolidated statement of cash flows page 24 
+Notes to the consolidated financial statements pages 26-
+38
+10.2 Auditing of 
+historical 
+annual financial 
+information 
+Annual Report 2022, available at: 
+https://www.walleniuswilhelmsen.c
+om/storage/images/2022-
+wallenius-wilhelmsen-annual-
+report.pdf 
+Auditors report pages 235-240 
+ 
+ 
+ 
+ 
+ 
+References to the documents mentioned above are limited to information given in “Details”, e.g. that the non- 
+incorporated parts are either not relevant for the investor or covered elsewhere in the prospectus.
+
+--- Page 46 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+46
+Joint Lead Managers’ disclaimer 
+ 
+Danske Bank A/S, Norwegian Branch, DNB Markets, a part of DNB Bank ASA, Nordea Bank Apb, filial i Norge and 
+SpareBank 1 Markets, the Joint Lead Managers, have assisted the Company in preparing the Base Prospectus. 
+The Joint Lead Managers have not verified the information contained herein. Accordingly, no representation, 
+warranty or undertaking, expressed or implied, is made and the Joint Lead Managers expressly disclaim any legal 
+or financial liability as to the accuracy or completeness of the information contained in this Base Prospectus or any 
+other information supplied in connection with the issuance or distribution of bonds by Wallenius Wilhelmsen ASA. 
+The statements made in this paragraph are without prejudice to the responsibility of the Company. 
+ 
+This Base Prospectus is subject to the general business terms of the Joint Lead Managers, available at their 
+websites. Confidentiality rules and internal rules restricting the exchange of information between different parts of 
+the Joint Lead Managers may prevent employees of the Joint Lead Managers who are preparing this Base 
+Prospectus from utilizing or being aware of information available to the Joint Lead Managers and/or any of its 
+affiliated companies and which may be relevant to the recipient's decisions. 
+ 
+Each person receiving this Base Prospectus acknowledges that such person has not relied on the Joint Lead 
+Managers, nor on any person affiliated with it in connection with its investigation of the accuracy of such information 
+or its investment decision. 
+ 
+Oslo, 26 October 2023 
+ 
+ 
+Joint Lead Managers: 
+ 
+ 
+ 
+      Danske Bank, Norwegina Branch    DNB Bank ASA     Nordea Bank Abp, filial i Norge     SpareBank 1 Markets 
+ 
+(www.danskebank.no) 
+       (www.dnb.no) 
+(www.nordea.no)  
+   (www.spb1markets.no)
+
+--- Page 47 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+47
+Annex 1 Articles of Association for Wallenius Wilhelmsen 
+ASA 
+ 
+Article 1 – Name 
+The name of the company is Wallenius Wilhelmsen ASA. The company is a public limited liability company. 
+ 
+Article 2 – Registered Address 
+The company has its registered address in the municipality of Bærum. 
+ 
+Article 3 – Business Activities 
+The objective of the company is to engage in shipping, maritime services, aviation, industry, commerce, finance 
+business, brokerage, agencies and forwarding, to own or manage real estate, and to run business related thereto 
+or associated therewith. This may take place in a direct manner, or in an indirect manner by way of guarantee, 
+share subscription, or in other ways. 
+ 
+Article 4 – Share capital 
+The share capital shall be NOK 220,014,568, divided into 423,104,938 shares, with a par value of NOK 0.52 each. 
+ 
+Article 5 – Board of Directors 
+The company's Board of Directors shall consist of between 3 and 9 shareholder elected members and up to 3 
+deputy members. It chooses its own chairman. 
+ 
+Article 6 – Signature 
+The Chair of the Board of Directors, acting singly, or any two Directors, acting jointly, shall be authorised to sign on 
+behalf of the company. 
+ 
+Article 7 – General Meeting 
+The following matters are to be dealt with and decided on at the Annual General Meeting: 
+ 
+ 
+Adoption of the annual report and accounts, including the consolidated accounts and the distribution of 
+dividend. 
+ 
+Adoption of the Auditor's remuneration. 
+ 
+Determination of the remuneration for Board members and Deputy board members. 
+ 
+Election of members and deputy members to the Board, and election of the auditors (if they are up for 
+election). 
+ 
+Any other matters that belong under the Annual General Meeting by law or according to the Articles of 
+Association. 
+ 
+Shareholders who wish to participate in the general meeting must give the company notice of this in advance. Such 
+notice must be received by the company no later than two working days prior to the general meeting. The board 
+may, however, before the notice to the general meeting has been sent, set a later deadline for such notice. 
+ 
+It is not necessary to forward to the shareholders documents relating to matters to be deliberated by the General 
+Meeting, hereunder documents required by statute to be included in, or appended to, the notice of the General 
+Meeting, provided that such documents are available on the website of the company. A shareholder may 
+nevertheless request that documents relating to matters to be deliberated by the General Meeting are forwarded to 
+him or her. 
+ 
+Shareholders are able to vote through electronic communication in a period prior to the general meeting. The Board 
+of directors can stipulate guidelines for such advance voting. It must be stated in the notice of general meeting 
+which guidelines have been set. 
+ 
+Article 8 – Nomination Committee 
+The company shall have a Nomination Committee consisting of 3 members elected by the General Meeting. Any 
+shareholder with more than 20 % of the share capital of the company shall be entitled to elect one member of the 
+nomination committee, but with the chairman always being independent of any such major shareholder. 
+ 
+The majority of the members of the Nomination Committee shall be independent of the Board of Directors and the 
+general management. 
+ 
+The Nomination Committee shall recommend candidates to the Board of Directors and the Nomination Committee, 
+and remuneration of the Board of Directors, the Auditor Committee and members of the Nomination Committee. 
+The Nomination Committee’s recommendations shall be well-grounded. 
+ 
+Members of the Nomination Committee are elected for a term of two years at a time.
+
+--- Page 48 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+48
+ 
+ 
+25.04.2018 
+26.04.2022 
+26.04.2023
+
+--- Page 49 ---
+Wallenius Wilhelmsen ASA, 26 October 2023 
+ 
+Base Prospectus 
+ 
+ 
+49
+Annex 2 Template for Final Terms for fixed and floating rate 
+Bonds
+
+--- Page 50 ---
+[Annex 2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Final Terms 
+ 
+for 
+ 
+[ISIN] 
+[Title of the bond issue] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Oslo, [Date]
+
+--- Page 51 ---
+Wallenius Wilhelmsen ASA 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+2  
+Terms used herein shall be deemed to be defined as such for the purpose of the conditions set forth in the Base 
+Prospectus clauses 2 Definitions and 13.3 Definitions, these Final Terms and the attached Bond Terms. 
+ 
+ 
+[In case MiFID II identified target market are professional investors and eligible counterparties, insert the 
+following:] 
+[MIFID II product governance / Professional investors and eligible counterparties (ECPs) only target 
+market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is eligible 
+counterparties and professional clients only, each as defined in Directive 2014/65/EU (as amended) (MiFID II); 
+and (ii) all channels for distribution of the Bonds to eligible counterparties and professional clients are appropriate. 
+[Consider any negative target market]. Any person subsequently offering, selling or recommending the Bonds (a 
+distributor) should take into consideration the manufacturer[’s/s’] target market assessment; however, a 
+distributor subject to MiFID II is responsible for undertaking its own target market assessment in respect of the 
+Bonds (by either adopting or refining the manufacturer[’s/s’] target market assessment) and determining 
+appropriate 
+distribution 
+channels.] 
+ 
+[UK MiFIR product governance / Professional investors and eligible counterparties only (ECPs) target 
+market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is only 
+eligible counterparties, as defined in the FCA Handbook Conduct of Business Sourcebook, and professional 
+clients, as defined in Regulation (EU) No 600/2014 as it forms part of domestic law by virtue of the European 
+Union (Withdrawal) Act 2018 (UK MiFIR); and (ii) all channels for distribution of the Bonds to eligible 
+counterparties and professional clients are appropriate. [Consider any negative target market]. Any person 
+subsequently offering, selling or recommending the Bonds (a distributor) should take into consideration the 
+manufacturer[’s/s’] target market assessment; however, a distributor subject to the FCA Handbook Product 
+Intervention and Product Governance Sourcebook (the UK MiFIR Product Governance Rules) is responsible for 
+undertaking its own target market assessment in respect of the Bonds (by either adopting or refining the 
+manufacturer[’s/s’] target market assessment) and determining appropriate distribution channels.] 
+ 
+[PROHIBITION OF SALES TO EEA RETAIL INVESTORS – The Bonds are not intended to be offered, sold or 
+otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in 
+the European Economic Area (EEA). For these purposes, a retail investor means a person who is one (or more) 
+of: (i) a retail client as defined in point (11) of Article 4(1) of MiFID II; (ii) a customer within the meaning of 
+Directive (EU) 2016/97 where that customer would not qualify as a professional client as defined in point (10) of 
+Article 4(1) of MiFID II; or (iii) not a qualified investor as defined in the Prospectus Regulation (as defined below). 
+Consequently no key information document required by Regulation (EU) No. 1286/2014 (as amended) (the 
+PRIIPs Regulation) for offering or selling the Bonds or otherwise making them available to retail investors in the 
+EEA has been prepared and therefore offering or selling the Bonds or otherwise making them available to any 
+retail investor in the EEA may be unlawful under the PRIIPs Regulation.] 
+ 
+[PROHIBITION OF SALES TO UK RETAIL INVESTORS – The Bonds are not intended to be offered, sold or 
+otherwise made available to and should not be offered, sold or otherwise made available to any retail investor in 
+the United Kingdom (UK). For these purposes, a retail investor means a person who is one (or more) of: (i) a 
+retail client, as defined in point (8) of Article 2 of Regulation (EU) No. 2017/565 as it forms part of domestic law by 
+virtue of the European Union (Withdrawal) Act 2018 (EUWA); (ii) a customer within the meaning of the provisions 
+of FSMA and any rules or regulations made under the FSMA to implement Directive (EU) 2016/97, where that 
+customer would not qualify as a professional client, as defined in point (8) of Article 2(1) of Regulation (EU) No. 
+600/2014 as it forms part of domestic law by virtue of the EUWA; or (iii) not a qualified investor as defined in 
+Article 2 of Regulation (EU) 2017/1129 as it forms part of domestic law by virtue of the EUWA. Consequently no 
+key information document required by Regulation (EU) No. 1286/2014 as it forms part of domestic law by virtue of 
+the EUWA (the UK PRIIPs Regulation) for offering or selling the Bonds or otherwise making them available to 
+retail investors in the UK has been prepared and therefore offering or selling the Bonds or otherwise making them 
+available to any retail investor in the UK may be unlawful under the UK PRIIPs Regulation.] 
+ 
+[In case MiFID II identified target market are retail investors, professional investors and eligible counterparties, 
+insert the following:] 
+[MIFID II product governance / Retail investors, professional investors and eligible counterparties (ECPs) 
+target market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is eligible 
+counterparties, professional clients and retail clients, each as defined in Directive 2014/65/EU (as amended) 
+(MiFID II); EITHER [and (ii) all channels for distribution of the Bonds are appropriate[, including investment 
+advice, portfolio management, non-advised sales and pure execution services]] OR [(ii) all channels for 
+distribution to eligible counterparties and professional clients are appropriate; and (iii) the following channels for 
+distribution of the Bonds to retail clients are appropriate – investment advice[,/and] portfolio management[,/ 
+and][non-advised sales][and pure execution services][, subject to the distributor’s suitability and appropriateness 
+obligations under MiFID II, as applicable]]. [Consider any negative target market]. Any person subsequently
+
+--- Page 52 ---
+Wallenius Wilhelmsen ASA 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+3  
+offering, selling or recommending the Bonds (a distributor) should take into consideration the manufacturer[’s/s’] 
+target market assessment; however, a distributor subject to MiFID II is responsible for undertaking its own target 
+market assessment in respect of the Bonds (by either adopting or refining the manufacturer[‘s/s’] target market 
+assessment) and determining appropriate distribution channels[, subject to the distributor’s suitability and 
+appropriateness obligations under MiFID II, as applicable].] 
+ 
+[UK MiFIR product governance / Retail investors, professional investors and eligible counterparties target 
+market – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market 
+assessment in respect of the Bonds has led to the conclusion that: (i) the target market for the Bonds is retail 
+clients, as defined in point (8) of Article 2 of Regulation (EU) 2017/565 as it forms part of domestic law by virtue of 
+the European Union (Withdrawal) Act 2018 (EUWA), and eligible counterparties, as defined in the FCA Handbook 
+Conduct of Business Sourcebook (COBS), and professional clients, as defined in Regulation (EU) No 600/2014 
+as it forms part of domestic law by virtue of the EUWA (UK MiFIR); EITHER [and (ii) all channels for distribution of 
+the Bonds are appropriate, including investment advice, portfolio management, non-advised sales and pure 
+execution services] OR [(ii) all channels for distribution to eligible counterparties and professional clientsare 
+appropriate; and (iii) the following channels for distribution of the Bonds to retail clients are appropriate – 
+investment advice[,/and] portfolio management[,/ and][non-advised sales][and pure execution services][, subject 
+to the distributor’s (as defined below) suitability and appropriateness obligations under COBS, as applicable]]. 
+[Consider any negative target market]. Any person subsequently offering, selling or recommending the Bonds (a 
+distributor) should take into consideration the manufacturer[’s/s’] target market assessment; however, a 
+distributor subject to FCA Handbook Product Intervention and Product Governance Sourcebook (the UK MiFIR 
+Product Governance Rules) is responsible for undertaking its own target market assessment in respect of the 
+Bonds (by either adopting or refining the manufacturer[’s/s’] target market assessment) and determining 
+appropriate distribution channels[, subject to the distributor’s suitability and appropriateness obligations under 
+COBS, as applicable].] 
+ 
+This document constitutes the Final Terms of the Bonds described herein pursuant to the Regulation (EU) 
+2017/1129 and must be read in conjunction with the Base Prospectus dated 26 October 2023 and [the 
+supplement[s] to the Base Prospectus dated [date]].  
+ 
+The Base Prospectus dated 26 October 2023 [and the supplement[s] to the Base Prospectus dated [date]] 
+[together] constitute[s] a base prospectus for the purposes of the Regulation (EU) 2017/1129 ([together,] the 
+“Base Prospectus”). 
+ 
+Final Terms include a summary of each Bond Issue. 
+ 
+These Final Terms and the Base Prospectus [and the supplement[s] to the Base Prospectus] are available on the 
+Issuer's website http://www.walleniuswilhelmsen.com, or on the Issuer's visit address, Strandveien 20, 1366 
+Lysaker, Norway., or their successor (s).
+
+--- Page 53 ---
+Wallenius Wilhelmsen ASA 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+4  
+1 Summary  
+The below summary has been prepared in accordance with the disclosure requirements in Article 7in the 
+Regulation (EU) 2017/1129 as of 14 June 2017. 
+ 
+Introduction and warning 
+Disclosure requirement 
+Disclosure 
+Warning 
+This summary should be read as introduction to the Base 
+Prospectus. Any decision to invest in the securities should be 
+based on consideration of the Base Prospectus as a whole by the 
+investor. The investor could lose all or part of the invested capital.  
+Where a claim relating to the information contained in the Base 
+Prospectus is brought before a court, the plaintiff investor might, 
+under the national law, have to bear the costs of translating the 
+Base Prospectus before the legal proceedings are initiated. Civil 
+liability attaches only to those persons who have tabled the 
+summary including any translation thereof, but only where the 
+summary is misleading, inaccurate or inconsistent, when read 
+together with the other parts of the Base Prospectus, or where it 
+does not provide, when read together with the other parts of the 
+prospectus, key information in order to aid investors when 
+considering whether to invest in such securities. 
+Name and international securities 
+identification number (‘ISIN’) of the 
+securities. 
+[●] 
+Identity and contact details of the issuer, 
+including its legal entity identifier (‘LEI’). 
+Wallenius Wilhelmsen ASA, Strandveien 20, 1366 Lysaker, 
+Norway. Telephone +47 67 58 40 00. 
+Registration number 995 216 604 in the Norwegian Companies 
+Registry.  
+LEI-code (legal entity identifier): 549300NBN0URT3RA3Y54. 
+Identity and contact details of the offeror or 
+of the person asking for admission to trading 
+on a regulated market. 
+There is no offeror, the Base Prospectus has been produced in 
+connection with listing of the securities on an Exchange. The 
+Issuer is going to ask for admission to trading on a regulated 
+market. 
+Identity and contact details of the competent 
+authority that approved the prospectus 
+Financial Supervisory Authority of Norway (Finanstilsynet), 
+Revierstredet 3, 0151 Oslo.   
+Telephone number is +47 22 93 98 00.  
+E-mail: prospekter@finanstilsynet.no. 
+Date of approval of the prospectus. 
+The Base Prospectus was approved on 26 October 2023. 
+ 
+Key information on the Issuer 
+Disclosure requirements
+Disclosure
+Who is the issuer of the securities
+Wallenius Wilhelmsen ASA 
+Domicile and legal form 
+The Company is a public limited liability company incorporated in 
+Norway and organized under the laws of Norway, including the 
+Public Limited Liability Companies Act 
+Principal activities 
+The Wallenius Wilhelmsen group is a market leader in roll-on/roll-
+off (RoRo) shipping and vehicle logistics, managing the 
+distribution of cars, trucks, rolling equipment and breakbulk to 
+customers all over the world. The company operates around 125 
+vessels servicing 15 trade routes to six continents, a global inland 
+distribution network, 66 processing centers and eight marine 
+terminals. Headquartered in Oslo, Norway, the Wallenius 
+Wilhelmsen group has 8,875 employees in 29 countries 
+worldwide.
+
+--- Page 54 ---
+Wallenius Wilhelmsen ASA 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+5  
+ 
+Major shareholders 
+An overview of the Company’s major shareholders as of 19 September 2023 is set out in the table below: 
+ 
+ 
+ 
+The two main shareholders of Wallenius Wilhelmsen ASA are Wilh. Wilhelmsen Holding AS with an ownership of 
+37.8 percent, and Walleniusrederierna AB with 37.8 percent percent of the shares. (the latter are held in custody 
+account at Skandinaviska Enskilda Banken AB).  The Wilhelmsen family controls Wilh. Wilhelmsen Holding ASA 
+through Tallyman AS, and the Wallenius Kleberg family controls Walleniusrederierna AB through Rederi AB Soya 
+(Soya group). 
+ 
+There are no arrangements, known to the Company, the operation of which may at a subsequent date result in a 
+change in control of the Company.  
+ 
+Management 
+ 
+ 
+The management of the Company can be seen below: 
+ 
+Name  
+Position  
+Lasse Kristoffersen 
+Chief Executive Officer 
+Torbjørn Wist 
+Chief Financial Officer 
+Pia Synnerman 
+Chief Customer Officer 
+Wenche Agerup 
+Chief People and Corporate Affairs Officer 
+Michael (Mike) Hynekamp 
+COO Logistics Services 
+Xavier Leroi 
+COO Shipping Services 
+Anette Maltun Koefod 
+Chief Communications and Marketing Officer 
+Gro Rognstad  
+Chief Technology and Information Officer 
+ 
+Statutory auditors 
+PricewaterhouseCoopers AS 
+ 
+What is the key financial information 
+regarding the issuer
+ 
+Key financial information
+
+--- Page 55 ---
+Wallenius Wilhelmsen ASA 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+6  
+ 
+Wallenius Wilhelmsen ASA Consolidated 
+ 
+Amounts in USD million 
+Interim Report 
+Q2 2023
+Interim Report 
+Q1 2023
+Annual Report 
+2022
+Operating profit 
+477 
+398 
+1,548 
+Net interest-bearing debt 
+(taking into account all interest-bearing 
+debt)
+2,457 
+2,490 
+2,872 
+Net Cash flows from operating activities 
+396 
+469 
+1,297 
+Net Cash flows from financing activities 
+(474) 
+(224) 
+(729) 
+Net Cash flow from investing activities 
+(15) 
+(22) 
+(62) 
+ 
+ 
+Wallenius Wilhelmsen ASA  
+ 
+Amounts in USD million 
+Annual Report 2022 
+Operating profit 
+(23) 
+Net interest-bearing debt 
+((taking into account all interest-bearing debt) 
+508 
+Net Cash flows from operating activities 
+(50) 
+Net Cash flows from financing activities 
+101 
+Net Cash flow from investing activities 
+(30) 
+ 
+There is no description of any qualifications in the audit report for the Annual Report 2022. 
+ 
+What are the key risk factors that are specific 
+to the issuer 
+ 
+The Group’s performance and growth depends heavily 
+on the demand for deep-sea transportation of cars, high 
+and heavy machinery and break-bulk cargo, including US 
+governmental cargo, supply of vessels built and old 
+vessels recycled, converted to other uses or lost, as well 
+as government and industry regulation of maritime 
+transportation.  
+ 
+ 
+The operating entities WW Ocean and EUKOR have 
+been part of authority anti-trust investigations in several 
+jurisdictions since 2012. These proceedings are now 
+resolved. Some related civil claims are still pending, and 
+the timeline for full and final resolution of these claims is 
+uncertain. As per the second quarter of 2023, no 
+provisions are set aside for anti-trust claims. 
+ 
+Key information on the securities 
+Disclosure requirements
+Disclosure
+What are the main features of the securities
+ 
+Description of the securities, including ISIN 
+code. 
+[●]
+Currency for the bond issue
+[●]
+Borrowing Limit and Borrowing Amount  
+ [● tranche] 
+[●] 
+Denomination – Each Bond 
+[●] 
+Any restrictions on the free transferability of 
+the securities. 
+[●] 
+Description of the rights attached to the 
+securities, limitations to those rights and 
+ranking of the securities. 
+[●]
+Information about Issue and Maturity Date, 
+interest rate, instalment and representative 
+of the bondholders 
+[●] 
+Status of the bonds and security 
+[●] 
+Where will the securities be traded 
+ 
+Indication as to whether the securities 
+offered are or will be the object of an 
+application for admission to trading. 
+[●]
+
+--- Page 56 ---
+Wallenius Wilhelmsen ASA 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+7  
+ 
+What are the key risks that are specific to the 
+securities 
+ 
+Most material key risks 
+The regulation and reform of “benchmarks” may adversely 
+affect the value of securities linked to or referencing such 
+“benchmarks” 
+Interest rates and indices which are deemed to be “benchmarks”, 
+(including NIBOR) are subject of recent national and international 
+regulatory guidance and proposals for reform. Some of these 
+reforms are already effective whilst others are still to be 
+implemented. These reforms may cause such benchmarks to 
+perform differently than in the past, to disappear entirely, or have 
+other consequences which cannot be predicted. No guarantees 
+can be made as to the continuance of the current underlying 
+reference rate of the Bonds and the possible consequences a 
+potential discontinuance of NIBOR may have of the value of the 
+Bonds. 
+ 
+Risk of being unable to repay the Bonds 
+During the lifetime of the Bonds, the Company will be required to 
+make payments on the Bonds. The Company is dependent upon 
+its and its subsidiaries’ ability to generate cash flow from 
+operations and to make distributions to the Company in order for 
+the Company to make scheduled payments on the indebtedness, 
+including the Bonds. 
+ 
+The future financial performance of the Group will be affected by a 
+range of economic, competitive, governmental, operating and 
+other business factors, many of which cannot be controlled, such 
+as general economic and financial conditions in the business or 
+the economy at large. 
+ 
+If the Group is unable to service its indebtedness, it will be forced 
+to adopt an alternative strategy that may include actions such as 
+reducing or delaying capital expenditures, selling assets, 
+restructuring or refinancing indebtedness or seeking equity 
+capital. The Group cannot assure investors that any of these 
+alternative strategies could be affected on satisfactory terms, if at 
+all, or that they would yield sufficient funds to make required 
+payments on the Bonds and the Group’s other indebtedness.  
+ 
+ 
+The Bonds are effectively subordinated to the secured debt 
+of the Company 
+The Bonds will be the Company’s direct senior unsecured 
+obligations and will rank equal in right of payment (except as to 
+claims preferred by operation of law) with all of its other existing 
+and future senior indebtedness. The Bonds will be effectively 
+subordinated to all of the Company’s existing and future secured 
+indebtedness to the extent of the assets securing such 
+indebtedness. 
+ 
+ 
+The Bonds will be unsecured obligations and are structurally 
+subordinated to the liabilities of any of the Company’s 
+subsidiaries 
+Generally, creditors under indebtedness and trade creditors of the 
+Company’s subsidiaries will be entitled to payments of their claims 
+from the assets of such subsidiaries before these assets are 
+made available for distribution to the Company, as a direct or 
+indirect shareholder.
+
+--- Page 57 ---
+Wallenius Wilhelmsen ASA 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+8  
+ 
+Key information on the admission to trading on a regulated marked 
+Disclosure requirements 
+Disclosure 
+Under which conditions and timetable can I 
+invest in this security? 
+ [●] 
+ 
+The estimate of total expenses related to the admission to trading, 
+please see clause 13.4.5 in the Base Prospectus. 
+ 
+[/ Other: (specify)] 
+ 
+Listing fee Oslo Børs [●] 
+Registration fee Oslo Børs [●] 
+ 
+Why is the prospectus being produced 
+In connection with listing of the securities on the Oslo Børs. 
+Reasons for the admission to trading on a 
+regulated marked and use of. 
+Use of proceeds [●] 
+ 
+Estimated net amount of the proceeds [●] 
+ 
+Description of material conflicts of interest to 
+the issue including conflicting interests. 
+[●]
+
+--- Page 58 ---
+Wallenius Wilhelmsen ASA 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+9  
+2 Detailed information about the security 
+ 
+Generally:
+ 
+ISIN code: 
+[ISIN] 
+ 
+ 
+The Loan/The Bonds: 
+[Title of the bond issue] 
+ 
+ 
+Borrower/Issuer: 
+Wallenius Wilhelmsen ASA registered in the Norwegian Companies 
+Registry with registration number 995 216 604. The Company’s LEI code 
+is 549300NBN0URT3RA3Y54. 
+ 
+ 
+Group: 
+Means the Issuer and its subsidiaries from time to time. 
+ 
+Security Type: 
+[Un]secured [open] bond issue with [fixed/floating] rate 
+ 
+Borrowing Limit – Tap Issue: 
+[Currency]  
+[Amount borrowing limit]  
+ 
+Borrowing Amount [●] tranche: 
+[Currency]   
+ [Amount [●] tranche]  
+ 
+ 
+ 
+Outstanding Amount: 
+[Currency]   
+ [Outstanding Amount]  
+ 
+ 
+ 
+Denomination – Each bond: 
+[Currency] 
+[Amount denomination] - each and ranking pari 
+passu among themselves
+ 
+ 
+Securities Form: 
+As set out in the Base Prospectus clause 13.1. 
+ 
+ 
+Publication: 
+As specified in the Base Prospectus section 13.4.2. 
+ 
+ 
+Issue Price: 
+[As defined in the Base Prospectus section 13.3] 
+ 
+[Issue price] % 
+ 
+ 
+Disbursement Date/Issue Date: 
+[As defined in the Base Prospectus section 13.3] 
+ 
+[Issue date] 
+ 
+ 
+Maturity Date: 
+[As defined in the Base Prospectus section 13.3] 
+ 
+[Maturity Date] 
+ 
+ 
+ 
+Interest Rate:
+ 
+Interest Bearing from and Including: 
+[Issue date 
+ 
+/ Other: (specify)] 
+ 
+ 
+Interest Bearing To: 
+[As defined in the Base Prospectus section 13.3] 
+ 
+[Maturity Date] 
+ 
+/ Other: (specify)] 
+ 
+ 
+Reference Rate: 
+[As defined in the Base Prospectus section 13.3] 
+ 
+Floating rate: [NIBOR] [3 / 6 / 12] months  
+ 
+[description of Reference Rate] 
+ 
+Relevant Screen Page: [Relevant Screen Page] 
+ 
+Specified time: [specified time] 
+ 
+Information about the past and future performance and volatility of the 
+Reference Rate is available at [Relevant Screen Page / other: (specify)]
+
+--- Page 59 ---
+Wallenius Wilhelmsen ASA 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+10  
+Fallback provisions: [Provisions] 
+ 
+/ Other: (specify)] 
+ 
+/ Fixed Rate: N/A] 
+ 
+ 
+Margin: 
+[As defined in the Base Prospectus section 13.3] 
+ 
+Floating Rate: [Margin] % p.a. 
+ 
+/ Fixed Interest: N/A 
+ 
+/ Other: (specify)] 
+ 
+ 
+Interest Rate: 
+[Bond issue with floating rate (as defined in the Base Prospectus section 
+13.3): [Reference Rate + Margin] % p.a. 
+ 
+Current Interest Rate: [current interest rate] 
+ 
+/ Bond Issue with fixed rate (as defined in the Base Prospectus section 
+13.3): [Interest rate] % p.a. 
+ 
+ 
+ 
+Day Count Convention: 
+[Floating Rate: As defined in the Base Prospectus section 13.3] 
+ 
+/ Fixed Rate: As defined in the Base Prospectus section 13.3 
+ 
+ 
+Day Count Fraction – Secondary 
+Market: 
+[Floating Rate: As specified in the Base Prospectus section 13.5.1.a 
+ 
+/ Fixed Rate: As specified in the Base Prospectus section 13.5.2.a 
+ 
+Interest Determination Date: 
+[Floating Rate: As defined in the Base Prospectus section 13.3.  
+ 
+Interest Rate Determination Date: [Interest Rate Determination Date(s)] 
+each year.  
+ 
+/ Fixed rate: N/A 
+ 
+/ Other: (specify)] 
+ 
+ 
+Interest Rate Adjustment Date: 
+[Floating Rate: As defined in the Base Prospectus section 13.3.  
+ 
+/ Fixed rate: N/A] 
+ 
+Interest Payment Date: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.5.1 (FRN) / section 13.5.2 (fixed rate) 
+ 
+Interest Payment Date: [Date(s)] each year.  
+ 
+The first Interest Payment Date is [Date].  
+ 
+ 
+#Days first term: 
+[Number of interest days] days 
+ 
+ 
+Yield: 
+As defined in the Base Prospectus section 13.3. 
+ 
+The Yield is [yield]  
+ 
+ 
+Business Day: 
+As defined in the Base Prospectus section 13.3. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Amortisation and Redemption:
+ 
+Redemption: 
+As defined in the Base Prospectus section 13.3 and as specified in the 
+Base Prospectus section 13.4.3, 13.5.1.b and 13.5.2.b. 
+ 
+The Maturity Date is [maturity date]
+
+--- Page 60 ---
+Wallenius Wilhelmsen ASA 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+11  
+Call Option: 
+As defined in the Base Prospectus section 13.3. 
+ 
+[terms of the call option] 
+ 
+Call Date(s): [call date(s)] 
+ 
+Call Price(s): [call price(s)] 
+ 
+Call Notice Period: [call notice period] 
+ 
+[Not applicable: N/A] 
+ 
+Put Option: 
+As defined in the Base Prospectus section 13.3. 
+ 
+[terms of the put option] 
+ 
+[Not applicable: N/A] 
+ 
+Early redemption option due to a tax 
+event: 
+As defined in the Base Prospectus section 13.3. 
+ 
+[terms of the early redemption option] 
+ 
+ 
+Obligations:
+ 
+Issuer’s special obligations during the 
+term of the Bond Issue: 
+As specified in the Base Prospectus section 13.4.7. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Listing:
+ 
+Listing of the Bond Issue/Marketplace: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.5. 
+ 
+Exchange for listing of the Bonds: [Exchange] 
+ 
+/ The Bonds will not be applied for listing on any Exchange. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Any restrictions on the free 
+transferability of the securities: 
+ 
+As specified in the Base prospectus section 13.4.10. 
+ 
+Restrictions on the free transferability of the securities: [specify] 
+ 
+ 
+Purpose/Use of proceeds: 
+As specified in the Base Prospectus section 13.4.1. 
+ 
+Estimated total expenses related to the offer: [specify] 
+ 
+External party 
+Cost 
+The Norwegian FSA 
+NOK [•] 
+The stock exchange 
+NOK [•] 
+The Bond Trustee 
+NOK [•] (annual fee) 
+The Joint Lead Managers 
+NOK [•] 
+ 
+Estimated net amount of the proceeds: [specify] 
+ 
+Use of proceeds: [specify] 
+ 
+[Other: (specify)] 
+ 
+ 
+Prospectus and Listing fees: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.5. 
+ 
+Listing fees: [specify] 
+ 
+/ Other: (specify)] 
+ 
+ 
+Market-making: 
+As defined in the Base Prospectus section 13.3.
+
+--- Page 61 ---
+Wallenius Wilhelmsen ASA 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+12  
+[A market-making agreement has been entered into between the Issuer 
+and [name of market maker]] 
+ 
+/ Other: (specify)] 
+ 
+ 
+Approvals: 
+As specified in the Base Prospectus section 13.4.9. 
+ 
+Date of the Board of Directors’ approval: [date] 
+ 
+/ Other: (specify)] 
+ 
+ 
+Bond Terms: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.7.  
+ 
+By virtue of being registered as a Bondholder (directly or indirectly) with 
+the CSD, the Bondholders are bound by the Bond Terms and any other 
+Finance Document, without any further action required to be taken or 
+formalities to be complied with by the Bond Trustee, the Bondholders, 
+the Issuer or any other party. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Status and security: 
+As specified in the Base Prospectus section 13.4.6.  
+ 
+Status and security of the securities: [specify] 
+ 
+ 
+Bondholders’ meeting/ 
+Voting rights: 
+As defined in the Base Prospectus section 13.3. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Availability of the Documentation: 
+https://www.walleniuswilhelmsen.com 
+ 
+ 
+Joint Lead Managers: 
+[name of Joint Lead Managers] 
+ 
+[LEI for Joint Lead Managers] 
+ 
+ 
+Bond Trustee: 
+As defined in the Base prospectus section 13.3. 
+ 
+The Bond Trustee is [name of the Bond Trustee] 
+ 
+Paying Agent: 
+As defined in the Base prospectus section 13.3. 
+ 
+The Paying Agent is [name of the Paying Agent] 
+ 
+ 
+Securities Depository / CSD: 
+As defined in the Base Prospectus section 13.3 and specified in the 
+Base Prospectus section 13.4.5. 
+ 
+/ Other: (specify)] 
+ 
+ 
+Calculation Agent: 
+[As defined in the Base Prospectus section 13.3] 
+ 
+/ Other: (specify)]  
+ 
+ 
+Listing fees: 
+Prospectus fee for the Base Prospectus including template for Final 
+Terms is NOK 98,000. 
+ 
+[Listing and other fees at the Exchange: (specify)  
+ 
+/ No listing: N/A]
+
+--- Page 62 ---
+Wallenius Wilhelmsen ASA 
+ 
+Final Terms - [Title of Bonds] 
+ 
+ISIN [ISIN] 
+ 
+ 
+13  
+3 Additional information 
+Advisor 
+The Issuer has mandated [name of Joint Lead Managers] as Joint Lead Managers for the issuance of the Loan. 
+The Joint Lead Managers have acted as advisor[s] to the Issuer in relation to the pricing of the Loan. 
+ 
+The Joint Lead Managers will be able to hold position in the Loan.  
+ 
+/ Other: (specify)] 
+ 
+Interests and conflicts of interest 
+[The involved persons in the Issuer or offer of the Bonds have no interest, nor conflicting interests that are 
+material to the Bond Issue. 
+ 
+/ Other: (specify)] 
+ 
+Rating 
+[There is no official rating of the Loan. 
+ 
+The Issuer is rated as follows: 
+Standard & Poor’s: [•] 
+Moody’s: [•] 
+ 
+/ Other: (specify)]  
+ 
+Listing of the Loan: 
+[As defined in the Base Prospectus section 13.3] 
+ 
+The Prospectus will be published in [country]. An application for listing at [Exchange] will be sent as soon as 
+possible after the Issue Date. Each bond is negotiable. 
+ 
+Statement from the Joint Lead Managers: 
+[name of Joint Lead managers] have assisted the Issuer in preparing the prospectus. The Joint Lead Managers 
+have not verified the information contained herein. Accordingly, no representation, warranty or undertaking, 
+express or implied, is made, and the Joint Lead Managers expressively disclaim[s] any legal or financial liability 
+as to the accuracy or completeness of the information contained in this prospectus or any other information 
+supplied in connection with bonds issued by the Issuer or their distribution. The statements made in this 
+paragraph are without prejudice to the responsibility of the Issuer. Each person receiving this prospectus 
+acknowledges that such person has not relied on the Joint Lead Managers nor on any person affiliated with them 
+in connection with its investigation of the accuracy of such information or its investment decision. 
+ 
+[place], [date] 
+ 
+ 
+[name of Joint Lead Managers] 
+[web address of Joint Lead Managers]
