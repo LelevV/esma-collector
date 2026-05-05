@@ -1,0 +1,2973 @@
+--- Page 1 ---
+This Base Prospectus was approved by the Swedish Financial Supervisory Authority on 31 May 2022 and is valid 
+for a period of up to 12 months from such date. The obligation to supplement this Base Prospectus in the event of 
+significant new factors, material mistakes or material inaccuracies does not apply when the Base Prospectus is 
+no longer valid. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AAK AB (publ) 
+ 
+Base Prospectus for Swedish medium term note programme 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Arranger 
+Svenska Handelsbanken AB (publ) 
+Dealers 
+Nykredit Bank A/S 
+Svenska Handelsbanken AB (publ) 
+Danske Bank A/S Danmark, Sverige filial 
+Skandinaviska Enskilda Banken AB (publ)
+
+--- Page 2 ---
+2(51) 
+ 
+Important information 
+Words and expressions defined in the general terms and conditions for medium term notes (the “General Terms and Conditions”) beginning on page 18, and, as the case may 
+be, in the final terms, the form of which beginning on page 33 (the “Final Terms”) have the same meanings when used in this Base Prospectus, unless expressly stated or the 
+context requires otherwise. 
+In this Base Prospectus, the “Company” means AAK AB (publ). “AAK” and the “Group” means the Company with all its Subsidiaries from time to time (each a “Group 
+Company”). The “Arranger” means Svenska Handelsbanken AB (publ). The “CSD” or “Euroclear Sweden” means Euroclear Sweden AB. “SEK” refers to Swedish kronor 
+and “EUR” means the single currency of the participating member states in accordance with the legislation of the European Community relating to Economic and Monetary 
+Union. 
+Notice to investors 
+This Base Prospectus has been prepared by the Company and contains information about its programme for senior unsecured notes (the “MTN Programme”). The MTN 
+Programme has been established by AAK to constitute a framework under which the Company from time to time may issue senior unsecured notes (“MTNs”) in SEK or EUR 
+in a minimum Nominal Amount corresponding to an amount of EUR 100,000, and with a minimum term of one (1) year. The Company has undertaken towards the Dealers that 
+the total outstanding Nominal Amount of MTNs under the MTN Programme shall not exceed an amount corresponding to an amount of SEK 4,000,000,000 at any time. AAK 
+and the Dealers may agree to increase or decrease such amount. This Base Prospectus does not contain and does not constitute an offer or a solicitation to buy or sell MTNs.  
+The Base Prospectus has been approved and registered by the Swedish Financial Supervisory Authority (Finansinspektionen) (the “SFSA”) pursuant to Article 20 of Regulation 
+(EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the Prospectus to be published when securities are offered to the public or admitted to trading 
+on a regulated market, and repealing Directive 2003/71/EC (the “Prospectus Regulation”) and is valid for a period of twelve months from the day of approval. The SFSA only 
+approves this Base Prospectus as meeting the standards of completeness, comprehensibility and consistency imposed by the Prospectus Regulation. The SFSA’s approval should 
+not be considered as an endorsement of the Company that is the subject of this Base Prospectus, nor should it be considered as an endorsement of the quality of the securities 
+that are subject of this Base Prospectus. Investors should make their own assessment as to the suitability of investing in the securities. 
+This Base Prospectus is governed by Swedish law. The courts of Sweden have exclusive jurisdiction to settle any dispute arising out of or in connection with this Base Prospectus. 
+This Base Prospectus may not be distributed in any jurisdiction where such distribution would require any additional prospectus, registration or measures other than those 
+required under Swedish law, or otherwise would conflict with regulations in such jurisdiction. Persons into whose possession this Base Prospectus may come are required to 
+inform themselves about, and comply with such restrictions. Any failure to comply with such restrictions may result in a violation of applicable securities regulations. The 
+MTNs have not been, and will not be, registered under the United States Securities Act of 1933 (the “Securities Act”) or the securities laws of any state or other jurisdiction 
+outside Sweden. The MTNs may not be offered, sold or delivered within the United States or to, or for the account or benefit of, U.S. persons. 
+No person has been authorised to provide any information or make any statements other than those contained in this Base Prospectus. Should such information or statements 
+nevertheless be furnished, it/they must not be relied upon as having been authorised or approved by the Company and the Company assumes no responsibility for such 
+information or statements. Neither the publication of this Base Prospectus nor the offering, sale or delivery of any Note implies that the information in this Base Prospectus is 
+correct and current as at any date other than the date of this Base Prospectus or that there have not been any changes in the Company’s or the Group’s business since the date of 
+this Base Prospectus. If the information in this Base Prospectus becomes subject to any material change, such material change will be made public in accordance with the 
+provisions governing the publication of supplements to prospectuses in the Trading Act. 
+Each potential investor in the MTNs must in light of its own circumstances determine the suitability of the investment. In particular, each potential investor should:  
+(a) 
+have sufficient knowledge and experience to make a meaningful evaluation of the MTNs, the merits and risks of investing in the MTNs and the information contained 
+or incorporated by reference in this Base Prospectus or any applicable supplement; 
+(b) 
+have access to, and knowledge of, appropriate analytical tools to evaluate, in the context of its particular financial situation, an investment in the MTNs and the 
+impact the MTNs will have on its overall investment portfolio; 
+(c) 
+have sufficient financial resources and liquidity to bear all of the risks of an investment in the MTNs, including MTNs where the currency for principal or interest 
+payments is different from the potential investor’s currency; 
+(d) 
+understand thoroughly the terms of the MTNs and be familiar with the behaviour of any relevant indices and financial markets; and 
+(e) 
+be able to evaluate (either alone or with the help of a financial adviser) possible scenarios for economic, interest rate and other factors that may affect its investment 
+and its ability to bear the applicable risks. 
+The Base Prospectus may contain market data, including information related to the sizes of the markets in which the Group participates. The information has been extracted 
+from a number of sources. Although the Company regards these sources as reliable, the information contained in them has not been independently verified and therefore it 
+cannot be guaranteed that this information is accurate and complete. However, as far as the Company is aware and can assure by comparison with other information made public 
+by these sources, no information has been omitted in such a way as to render the information reproduced incorrect or misleading. 
+The Base Prospectus contains certain forward-looking statements that reflect the Company’s current views or expectations with respect to future events and financial and 
+operational performance. Although the Company believes that these statements are based on reasonable assumptions and expectations, the Company cannot give any assurances 
+that such statements will materialise. Because these forward-looking statements involve known and unknown risks and uncertainties, the outcome could differ materially from 
+those set out in the forward-looking statement. 
+For the purpose of the MiFID II Product Governance rules under EU Delegated Directive 2017/593 (the “MiFID Product Governance Rules”), a determination will be made 
+in relation to each issue about whether any Dealer participating in the issue of the MTNs is a manufacturer in respect of such MTNs. No Dealer nor any of its respective affiliates 
+that do not participate in an issue will be a manufacturer for the purpose of the MIFID Product Governance Rules. Each person offering, selling or recommending the MTNs 
+that is subject to Directive 2014/65/EU (as amended, “MiFID II”) is responsible for undertaking its own target market assessment in respect of the MTNs (by either adopting 
+or refining the target market assessment made by the manufacturer) and determining appropriate channels for distribution of the MTNs.  
+ 
+Presentation of financial information 
+This Base Prospectus contains the Company’s consolidated and unconsolidated financial statements for the periods 1 January 2020–31 December 2020 and 1 January 2021–31 
+December 2021. The Company’s financial statements have been prepared in accordance with International Financial Reporting Standards (“IFRS”) as adopted by the EU and 
+have been audited by the Company’s auditor. This Base Prospectus further contains the unaudited (but reviewed) interim consolidated and unconsolidated financial statements 
+of the Company for the period 1 January 2022–31 March 2022. With the exception of the Company’s consolidated and unconsolidated financial information for the periods 1 
+January 2020–31 December 2020 and 1 January 2021–31 December 2021, no information in this Base Prospectus has been audited or reviewed by the Company’s or another 
+Group Company’s auditor. Financial data in this Base Prospectus that have not been audited by the Company’s auditor stem from internal accounting and reporting systems. 
+Use of benchmark 
+Amounts payable on the MTNs will be calculated by reference to STIBOR or EURIBOR. As at the date of this Base Prospectus, the administrator of STIBOR, Swedish Financial 
+Benchmark Facility AB, is not registered as an administrator in the register provided by the European Securities and Markets Authority (“ESMA”) pursuant to Article 36 of 
+Regulation (EU) 2016/1011 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds (the “Benchmark 
+Regulation”), but has lodged an application with the SFSA on 27 December 2021 to operate as an authorised administrator. The administrator of EURIBOR, the European 
+Money Markets Institute, was registered in ESMA’s register of administrators under Article 36 of the Benchmark Regulation 2 July 2019.
+
+--- Page 3 ---
+3(51) 
+ 
+Table of contents 
+Description of the MTN Programme ................................................................................................................. 4 
+Risk Factors ....................................................................................................................................................... 7 
+General Terms and Conditions ......................................................................................................................... 18 
+Form of Final Terms ........................................................................................................................................ 33 
+Business description and structure ................................................................................................................... 37 
+The Company ................................................................................................................................................... 40 
+Legal considerations and supplementary information ...................................................................................... 43 
+Addresses ......................................................................................................................................................... 50
+
+--- Page 4 ---
+4(51) 
+ 
+DESCRIPTION OF THE MTN PROGRAMME 
+The following is a description of the MTN Programme and is qualified in its entirety by the full Conditions included 
+in the section “General Terms and Conditions and form of Final Terms”. 
+General 
+The MTN Programme has been established by the Company for the issuance of medium term notes in SEK or 
+EUR, in accordance with the resolution made by the Board of Directors of the Company on 24 October 2018. A 
+Note may be issued in a minimum Nominal Amount of EUR 100 000 (or the equivalent in SEK) and with a 
+minimum term of one year. MTN may be issued with fixed rate, floating rate or as zero couponing notes. The 
+Company has undertaken towards the Dealers that the total outstanding Nominal Amount of MTNs under the 
+MTN Programme shall not exceed SEK 4,000,000,000 (or the equivalent in EUR) at any time. The Company and 
+the Dealers may agree to increase or decrease such amount. 
+The Company has appointed Svenska Handelsbanken AB (publ) as Arranger, and Nykredit Bank A/S, Svenska 
+Handelsbanken AB (publ), Danske Bank A/S Danmark, Sverige filial and Skandinaviska Enskilda Banken AB 
+(publ) as Dealers, in respect of the MTN Programme. Further Dealers may be appointed. 
+General Terms and Conditions and Final Terms 
+MTNs issued under the MTN Programme will be governed by the General Terms and Conditions as well as the 
+applicable Final Terms. The General Terms and Conditions are standardised and apply to all MTNs issued under 
+the MTN Programme. For each Loan, Final Terms are prepared that include supplementary terms and conditions 
+for the relevant Loan. Applicable Final Terms must therefore be read in conjunction with the General Terms and 
+Conditions. Any amendments (other than adjustments to clear and obvious errors) to the General Terms and 
+Conditions will not be effective to MTNs issued prior to such amendment, unless a Holders’ Meeting resolves 
+otherwise. 
+Form of MTNs 
+MTNs will be issued in dematerialised book-entry form and registered on a Securities Account (maintained with 
+Euroclear Sweden) on behalf of the relevant Holder. Hence, no physical notes will be issued. MTNs will be 
+registered in accordance with the Swedish Central Securities Depositories and Financial Instruments Accounts Act 
+(lag (1998:1479) om värdepapperscentraler och kontoföring av finansiella instrument). Registration requests 
+relating to MTNs shall be directed to an Account Operator. 
+Status of MTNs 
+Upon issuance, MTNs will constitute direct, unconditional, unsubordinated and unsecured debt obligations of the 
+Company and rank pari passu and without any preference among themselves and shall rank at least pari passu 
+with all other present and future unsubordinated and unsecured obligations (except those obligations preferred by 
+law) of the Company. 
+Pricing and interest 
+The Pricing of the MTN cannot be established in advance but set in connection with the relevant issue on the bases 
+of the prevailing market conditions. MTN may be issued at a price below or exceeding the relevant Nominal 
+Amount. The interest (if any) applicable to MTN depends on several factors, one of which is the interest applicable 
+to other investments with a corresponding term. Interest (if any) may be set at a floating interest rate based on 
+EURIBOR or STIBOR, plus a margin, or at a fixed interest rate. 
+Admission to trading  
+MTNs issued may be listed on a Regulated Market. If relevant, any intended listing of MTNs will be set out in the 
+applicable Final Terms. The estimated costs associated with such listing will also be set out in the applicable Final 
+Terms. 
+Time barring of claims 
+Claims for the repayment of the principal of MTNs will be prescribed and become void ten (10) years after the 
+Maturity Date. Claims for the payment of interest will be prescribed and become void three (3) years from the 
+relevant Interest Payment Date. Upon prescription, the Company will be entitled to keep any funds that may have 
+been reserved for such payments.
+
+--- Page 5 ---
+5(51) 
+ 
+If a limitation period is duly interrupted in accordance with the Swedish Limitations Act (preskriptionslagen 
+(1981:130)) a new prescription period of ten (10) years will commence for claims in respect of principal and three 
+years for claims in respect of interest amounts, in both cases calculated from the day indicated by provisions laid 
+down in the Swedish Limitations Act concerning the effect of an interruption in the limitation period. 
+Governing law 
+The Conditions and any non-contractual obligations issues which arise in connection therewith, shall be governed 
+by the laws of Sweden. Disputes shall be settled by Swedish courts. Stockholm District Court (Stockholms 
+tingsrätt) shall be the court of first instance. 
+Product description 
+Interest structures 
+MTNs issued under the MTN Programme may have a fixed or floating interest rate. The interest structure 
+applicable to a specific Loan will be stated in the Final Terms. Below is a short description of the available interest 
+structures. 
+Fixed interest rate 
+If the relevant Final Terms of a Loan specify fixed interest rate as applicable to it, the Loan shall bear interest on 
+its Nominal Amount at the Interest Rate from, but excluding, the Interest Commencement Date up to and including 
+the Maturity Date. 
+Interest accrued during an Interest Period is calculated using the Day Count Convention 30/360, or such other Day 
+Count Convention as may be specified in the Final Terms, and paid in arrears on the relevant Interest Payment 
+Date or, to the extent such day is not a Business Day, the first following day that is a Business Day. Day Count 
+Convention 30/360 means that the amount is to be calculated based on a year with 360 days consisting of twelve 
+months each consisting of 30 days and, in the event of a partial month, the actual number of days which have 
+elapsed in the month. Interest is calculated and payable, however, only up to and including the Interest Payment 
+Date. 
+Floating interest rate (FRN) 
+If the relevant Final Terms of a Loan specify ‘floating interest rate’ as applicable to it, the Loan shall bear interest 
+on its Nominal Amount from, but excluding, the Interest Commencement Date up to and including the Maturity 
+Date. 
+The Interest Rate applicable to each respective Interest Period shall, when possible, be calculated by the 
+Administrative Dealer on the respective Interest Quotation Date and is the sum of the Base Interest and the Base 
+Interest Margin for the relevant period. The relevant Base Interest Margin will be set out in the relevant Final 
+Terms and the Base Interest will be either of EURIBOR and STIBOR, or any Successor Base Rate, as established 
+in accordance with Section 7 of the General Terms and Conditions, following the occurrence of a Base Rate Event 
+(each as defined in the General Terms and Conditions).  
+Interest accrued during an Interest Period is calculated using the Day Count Convention Actual/360, or such other 
+Day Count Convention as may be specified in the Final Terms, and paid in arrears on the relevant Interest Payment 
+Date or, to the extent such day is not a Business Day, the Interest Payment Date shall instead be the next Business 
+Day provided that such Business Day does not fall in the new calendar month, in which case the Interest Payment 
+Date shall be the preceding Business Day. Interest is calculated and payable up to and including each relevant 
+Interest Payment Date. 
+Zero Coupon 
+Zero Coupon Loans do not bear interest. 
+Repayment of Loans and payment of interest 
+Repayment at maturity 
+MTNs become due and payable in the Nominal Amount on the Maturity Date as set out in the relevant Final 
+Terms. Interest shall be paid on each Interest Payment Date set out in the relevant Final Terms. If the due date in 
+respect of a repayment or payment (other than interest) falls on a day which is not a Business Day, the Loan is not 
+repaid until the following Business Day (and, in respect of interest, as set out above in section “Interest structures”).
+
+--- Page 6 ---
+6(51) 
+ 
+Repurchase of MTNs by the Company  
+The Company may repurchase MTNs from time to time provided that repurchase is in compliance with applicable 
+law. MTNs owned by the Company may, in the discretion of the Company, be retained, sold or cancelled. 
+Mandatory repurchase 
+Each Holder is entitled to demand repurchase of all, or some, of the MTNs held by the Holder in accordance with 
+the General Terms and Conditions, provided that (a) the shares in the Company cease to be admitted to trading on 
+the Regulated Market at Nasdaq Stockholm; or (b) an event, or series of events, occurs which leads to any person 
+(other than Mr. Melker Schörling, his spouse, child, brother or sister, or any entity directly or indirectly controlled 
+by any or all of them), alone or together with any other person or persons who are acting in concert with that person 
+acquires shares representing more than fifty (50) per cent. of the total number of shares and/or more than fifty (50) 
+per cent. of the voting rights in the Company. 
+Termination of Loans 
+The Administrative Dealer shall declare in writing a relevant Loan, together with accrued interest (if any), 
+immediately due and payable, or payable at such time as the Administrative Dealer or the Holders’ Meeting (as 
+applicable) decides, upon the occurrence of any circumstance stated in section 12.1 in the General Terms and 
+Conditions and if: 
+i. 
+so decided by the Holders under Loan at a Holders’ Meeting; or 
+ii. 
+so requested in writing by a Holder who, at the time of the request, represents at least one tenth of the 
+Adjusted Loan Amount under the relevant Loan (such requests can only be made by Holders listed in the 
+Debt Register maintained by Euroclear Sweden on the Business Day immediately preceding the day on 
+which the request was received by the Administrative Dealer and shall, if made by multiply Holders each 
+representing less than one tenth of the Adjusted Loan Amount under the relevant Loan, be made jointly).
+
+--- Page 7 ---
+7(51) 
+ 
+RISK FACTORS 
+Investments in corporate bonds always entail a certain degree of risk, including the risk of losing the value of the 
+entire investment. A number of factors affect and may come to affect AAK’s operations, result, financial position 
+and the MTNs. In this section a number of risk factors are described, which are significant for AAK and includes 
+market and commercial risks, operational risks, financial risks, legal risks and risks related the MTNs in their 
+capacity as financial instruments. The Company’s assessment of the materiality of each risk factor is based on the 
+probability of their occurrence and the expected magnitude of their negative impact. The description of the risk 
+factors below is based on information available and estimates made on the date of this Base Prospectus. The risk 
+factors are presented in categories where the most material risk factors in a category are presented first under 
+that category. Subsequent risk factors in the same category are not ranked in order of materiality or probability 
+of occurrence. Where a risk factor may be categorised in more than one category, such risk factor appears only 
+once and in the most relevant category for such risk factor. 
+Additional risk factors which are currently unknown or which are currently not deemed to be material may also 
+affect AAK’s future operations, result and financial position and thus also the Company’s ability to fulfil its 
+obligations under the MTNs. 
+Risks relating to the Company and the Group 
+Market and industry risks  
+Macro-economic and geopolitical risks 
+AAK operates globally and the Group’s business is therefore affected by international, national and regional 
+economic conditions. Economic downturns and uncertainty in the international financial markets have an adverse 
+effect on the global economy. Market turbulence and downturns in the global economy can affect the financial 
+position of customers and suppliers and impact their ability to conduct business with the Group. This may occur 
+due to, among other things, inflation, raw material prices (as described under Risks relating to raw materials and 
+raw material prices), trade barriers, changes in national or regional legislation and natural disasters.  
+Due to its global presence, the Group is also exposed to risks related to the political climate. These include political 
+instability, a decrease in international cooperation, terrorism, military conflicts and social unrest. For example, the 
+ongoing Russo- Ukrainian war, and the sanctions imposed as a consequence thereof, may significantly affect, e.g., 
+interest rates, inflation and exchange rates, and lead to lower growth and disruptions to the global economy, the 
+financial markets and global trade. The Russo-Ukrainian war may also affect AAK directly. On 27 April 2022, 
+AAK announced that it has decided to make a controlled exit from its operations and investments in Russia. Prior 
+to this, the Russian market made up for approximately 3 per cent of the Group’s sales volumes in metric tonnes. 
+Part of the exit refers to leaving a local joint venture, in which AAK holds a 75 per cent stake and which makes 
+up for approximately half of the Group’s volumes in Russia. AAK estimates that the Group’s exit from Russia will 
+lead to a cost of MSEK 300 to 350 and have a total impact on the Group’s operating profit at approximately MSEK 
+75 to 100 in 2022.  
+Risks relating to the political climate also include other political, regulatory and tax-related risks. Changes to 
+government policies and regulations on industrial production, foreign investments, the environment, health and 
+safety and taxes in countries where the Group operates may adversely impact the Group’s operations in these 
+countries.  
+While the Group conducts much of its operations in USA and Europe, nearly a quarter of its sales occur in countries 
+where the political and commercial risks are deemed to be higher than on Western, more mature markets. Much 
+of the Group’s growth is generated in developing markets, which are vulnerable to political instability that can 
+impact, among other things, currencies and exchange rates. The Group operates in Eastern Europe, the Middle 
+East, Asia, Africa and South America, in countries where instability may arise, such as China. An example of such 
+instability is the abovementioned Russo-Ukrainian war. Political instability or other types of turbulence which 
+negatively impacts the economies in which the Group conducts business can have an adverse negative impact on 
+the Group’s revenues and growth.  
+During 2021, the Covid-19 pandemic has continued to impact the world economy and financial markets. 
+Lockdowns in many regions which are vital for the Group’s business has led to a reduced demand from customers 
+in a number of business areas. In 2020, the Group’s net sales decreased by MSEK 576 million, which was partly 
+a consequence of the Covid-19-pandemic. Due to lockdowns, consumer spending became more cautionary, which 
+had a negative impact on the eating-out market and this consequently affected demand for the Group’s foodservice
+
+--- Page 8 ---
+8(51) 
+ 
+products. Contrary to the trend of recent years, Food Ingredients decreased its sales by approximately 7 per cent 
+in 2020, compared to 2019.  
+The future development of the Covid-19 situation remains uncertain and depends on the spread of the virus, the 
+emergence of new strains and the response of local authorities and the global community, including in respect of 
+the efficacy of vaccines. Accordingly, COVID-19 continues to present material uncertainty and risk and could 
+have adverse effects on the Group’s revenues, net assets, cash flows, financial condition and results of operations.  
+Risks relating to raw materials and raw material prices 
+The Group’s annual costs for raw materials account for 75 to 80 per cent. of the sales value of the finished products. 
+This makes its operations highly exposed to market price risks. Rapeseed oil, palm oil, palm kernel oil, shea 
+kernels, soy bean oil, sunflower oil and coconut oil are some of the most important raw materials for the Group’s 
+production. These materials are agricultural products which are harvested, and availability may therefore vary due 
+to climatic and other external factors. While a year of poor harvests drives up prices, a year of successful harvests 
+reduces them. Most of the Group’s raw materials is bought on international markets, which exposes AAK’s cost 
+of raw materials to market fluctuations in both the price of the raw materials and the exchange rates of the 
+currencies involved. Moreover, raw material prices may be affected by geopolitical events (as described under 
+Macro-economic and geopolitical risks). One such example is the Russo-Ukrainian war, which has impacted 
+sunflower oil prices, a raw material which is largely produced in Ukraine and is of importance in AAK’s production 
+operations. As per 31 March 2022,, the Company estimated that a 10 per cent. change in raw material prices would 
+have a cash flow impact of approximately MSEK 700.  
+During 2021, prices on raw materials have been highly volatile. Prices have increased significantly, and based on 
+the duration of the Group’s contract portfolio, there is a time lag of 6-9 months until the effect from the price 
+volatility is shown in the cash flow, which has led to a negative impact on the Group’s working capital during 
+2021. As per the financial year 2021, the Group estimated that increased prices on raw materials had a negative 
+impact on the Group’s net working capital with more than MSEK 2,000.  
+AAK hedges both operational raw material price risk and the underlying operational currency risk (see also under 
+Currency risk) when sales agreements are signed with customers. Raw material procurement is managed by the 
+Group’s procurement organization, which monitors and controls the Group’s raw material market exposure. As 
+per 31 December 2021, the Group’s net exposure to raw material price risk in oils and fats amounted to -40,000 
+metric tonnes. If the Group’s raw material positions are not managed appropriately, it may have an adverse impact 
+on the Group’s profitability. 
+Moreover, the Group generally hedges sales contracts with physical purchases of raw material. For long-term sales 
+contracts, the Group typically uses financial derivatives to hedge its exposure, since there is low liquidity in the 
+market for longer-period physical purchase contracts. The Group uses exotic raw materials in its operations, the 
+most important one being shea. Such raw materials must be sourced when they are available right after the harvest 
+season. As no efficient hedge market exists for exotic raw materials, the Group is typically left with a significant 
+unhedged volume of exotic raw materials during certain months. If the group does not manage to limit this 
+exposure by entering into new exotic-raw-material-based sales contracts, or otherwise fails to hedge raw material 
+price risk, it may have an adversely negative effect on the Group’s operations, result and financial position. 
+Since many raw materials are produced at a considerable distance from AAK’s production plants and markets, 
+transports costs and utility costs are also important factors. Particularly, the potential impact on margins from the 
+growing demand for environmentally-acceptable transport methods has to be taken into consideration.  
+The exposure to raw material related risks demands that the Group deals actively to manage these risks. If they 
+materialise, and the Group fails to pass on price increases to its customers or otherwise fails to manage them, it 
+could impact the Group’s total sales and requirement for working capital and have a material adverse effect on the 
+Group’s business, results and financial position.  
+Reputational risks and customer trends 
+AAK’s brand and reputation is a valuable asset and the Group relies on a positive brand recognition as part of its 
+strategy. The Group is reliant on being able to adapt its operations to meet the demands set by consumers, following 
+shifting trends on markets on which the Group operates. Consumer demands are highly inspired by consumer 
+health trends, which requires that the Group is able to provide products with high functionality while reducing the 
+majority of saturated fat solutions, believed to increase the risk of cardiovascular disease. Furthermore, the on-
+going debate on trans-fats has led consumers to avoid such fats. A failure by AAK to adhere to these trends, or to 
+any future trends which affect consumer demands, may damage the Group’s reputation.
+
+--- Page 9 ---
+9(51) 
+ 
+Moreover, the Group is exposed to other reputational risks, in relation to the demands set by its counterparties with 
+regard to sustainable development. In the wake of rapid globalization, individual consumers are more aware of 
+how their consumption patterns affect the environment and social/ethical conditions around the world. Consumers 
+are focused on sourcing practices, sustainability, climate matters, animal welfare and ingredient labelling.  
+The sustainability demands set by customers do not only apply to the Group’s own direct operations, but also to 
+the operations of its commercial counterparties (such as suppliers). Ethical guidelines have been drawn up for the 
+Group, aiming to clarify the Group’s approach to ethical issues, both within the Group and externally with regard 
+to suppliers. However, there is a risk that Group Companies or their counterparties do not meet the requirements 
+set out in such guidelines, or otherwise fail to ensure that adequate responsibility is taken with regard to sustainable 
+development. Failure by the Group or its commercial counterparties to operate at a sufficiently high standard in 
+these regards may adversely affect the Group’s reputation and prejudice the forging of future business 
+relationships. The degree to which a harmed reputation may affect AAK is uncertain, and presents a significant 
+risk to the Group’s ability to recruit employees and maintain a good relationship with the society and people 
+affected by its operations. 
+Risks relating to competition 
+AAK operates in a highly competitive market and competition has grown as retailers challenge food 
+manufacturers. Several global competitors deliver large volumes of bult products with limited margins, and many 
+of whom have larger financial resources. These companies may also expand and diversify their commodity 
+sourcing, processing or marketing operations or engage in pricing or other financial or operational practices that 
+could increase competitive pressure on the Group across each of its business segments. The Group’s response is 
+to focus more on customer co-developed solutions with better margins and higher-added value. These include 
+confectionery products and cosmetics, as well as value-adding solutions for the bakery, dairy and infant nutrition 
+industries. 
+The competitive environment exposes the Group to risks related to competitors finding better and more cost-
+efficient ways to produce products and deliver them at lower prices. The Group focuses on high value and 
+traceability and sustainability throughout the value chain. If competitors choose to increase their sales quota 
+through aggressive pricing, or if more customers should prefer low price products to refined and specialised 
+products, or if the Group cannot play an active role in the structural change of the sector or adapt to other changes 
+on the markets, it may negatively affect the Group’s earnings. The degree to which competition may affect AAK 
+is uncertain, and presents a significant risk to the Group’s ability to maintain profitable pricing, retain market 
+shares and expand operations. 
+Operational risks 
+New products and technological development 
+AAK operates in a sector which is undergoing structural change, facing new technologies, business models, global 
+trends and requirements from customers. As a sector that has existed for just over a century and has a fundamental 
+dependence on natural products, there is great pressure for more intensive development. This includes demands 
+for sustainable and ethical production. The Group’s long term growth and profitability are dependent on its ability 
+to develop and successfully launch and market new products. This can be done by working with a broad range of 
+plant-based oils and reformulating existing products.  
+To promote technological development in collaborations with its customers, the Group has set up 15 Customer 
+Innovation Centers globally, which function as pilot facilities for testing and developing new solutions. The Group 
+has to adapt its product range quickly to meet the demands of its customers, which raises a demand for 
+comprehension of the customers’ present and future needs, demands and wishes. For example, this applies to 
+current and future health trends, which may lead to a shift in the customers’ demands for new products that meet 
+the requirements set by these trends. Another area which is strongly characterized by innovation due to changing 
+demand is plant-based foods. In this segment, AAK has developed AkoPlanetTM, with a range of oil ingredients 
+for plant-based foods.  
+The Group’s revenues and market share may suffer if it is unable to successfully introduce new products in a 
+timely fashion or if new or enhanced products or services are introduced by its competitors that its customers find 
+more advanced and/or better suited to their needs. There is also a risk that the money invested in researching and 
+developing new technologies will, to a considerable extent, have been spent in vain if the technologies developed 
+or the products derived therefrom are unsuccessful in the market. If the Group does not act swiftly and efficiently 
+with regard to changing technology and fails to improve its existing products and to develop and introduce new
+
+--- Page 10 ---
+10(51) 
+ 
+products that are in line with technical advances and new industry standards, there is a risk that the Group may not 
+be able to compete effectively and will lose customers and market share, in turn negatively affecting the Group’s 
+results. 
+Environmental risks 
+AAK’s production is resource intensive, depending on raw materials and energy with a high environmental impact. 
+The environmental impact from AAK’s plants includes emissions of odorous substances, solvents, smoke and 
+gases into the atmosphere, as well as discharging fats, oxygen-consuming material, and nutrients into the water, 
+and also creating organic waste and noise. In 2021, the Group had over 20 production plants worldwide. Most 
+companies within the Group are performing activities that require permits or notification according to relevant 
+local environment laws and regulations. In the consumer goods industry, sustainability standards are constantly 
+raised, which is also reflected in actions taken by policy makers in different jurisdictions. AAK monitors material 
+new and upcoming legislation and assesses its own physical and operational climate risks for its production plants. 
+In this context, AAK is subject both to transition risks, relating to changes in climate and energy policies and the 
+potential liability issues which may appear therewith, and to physical environmental risks, such as flooding, 
+earthquakes and heavy weather which may affect AAK’s production plants.  
+There is a risk that the Company’s assessment that the Group’s operations are carried out in accordance with 
+applicable laws and regulations concerning the environment, health and safety is incorrect or that it does not 
+correspond to the interpretation of applicable laws and regulations made by relevant authorities. In particular, this 
+applies as climate and energy policies change and become stricter over time. While the Group believes that it is in 
+material compliance with applicable environmental regulation, there can be no assurance that substantial costs and 
+liabilities will not be incurred in the future. Failure by the Group to comply with applicable legislation and 
+regulation in this area may lead to significant costs. Environmental regulations, limits and quotas may require the 
+Group to temporarily decrease its production levels or lead to increased costs or delays, whereas non-compliance 
+with such regulations and restrictions may lead to fines, sanctions and increased costs, thus adversely impacting 
+the Group’s operations and results. Moreover, as environmental regulation becomes stricter, the Group may incur 
+increased expenses, and need further investments, in order to be compliant with such regulation. More stringent 
+environmental rules can also affect the opportunities for the Group to expand its operations. Despite complying 
+with applicable regulation and therefore not incurring costs due to legal liability, environmental costs may still be 
+significant.  
+The Group may also incur costs relating to requirements under various local environmental legislation, e.g. to 
+reduce emissions, to restore land at previously or currently owned industrial sites, to arrange more effective waste 
+disposal or to obtain prolonged or new concessions. Furthermore, many of the laws and regulations relating to 
+climate change provide for substantial civil and criminal fines for non-compliance which, if imposed, could result 
+in material costs or liabilities.  
+The degree to which environmental risks may affect the Group is uncertain, and presents a risk of subjecting the 
+Group to (among other things) penalties, fines, loss of operating licences and lost revenues. Should any 
+environmental risks as described above materialise, it would cause reputational harm to the Group. Any of these 
+consequences could in turn risk having a material adverse effect on the Group’s operations and results. 
+ 
+Risks relating to acquisitions 
+AAK operates on the basis of an organic growth and selective acquisition strategy. An important part of the 
+Group’s growth is related to acquisitions and it regularly acquires companies operating in the same or adjacent 
+lines of business as the Group. During the past decade, AAK has acquired 15 companies. In 2021, cash outflow 
+from investing activities amounted to MSEK 650, whereof MSEK 31 was related to acquisitions. The Group’s 
+strategy for mergers and acquisitions is based on geographic expansion, adding production capacity, technological 
+development and expansion of its product portfolio. There is a risk that the Group may not be able to carry out all 
+desired acquisitions or investments in the future, due to, for example, competition from other buyers or 
+circumstances beyond the Group’s control. If the Group fails to carry out acquisitions in line with its strategic 
+goals, there is a risk that the Group’s expansion and growth may be adversely affected. 
+When acquiring other companies, there is a risk that the due diligence review performed by the Group does not 
+include all the information that is required in order to make an optimal decision from a financial and cultural 
+perspective. There is also a risk that the acquisition agreement is not correctly designed for managing the risks 
+discovered during the due diligence review.
+
+--- Page 11 ---
+11(51) 
+ 
+Furthermore, the management of integration of the businesses, systems and culture of any acquired business 
+requires, among other things, the continued development of its financial and management controls, including the 
+integration of information systems and structure, the integration of product offerings and customer base and the 
+training of new personnel, any of which could disrupt and place a strain on the Group’s management resources as 
+well as require significant expenditure. Another integration related risk is that dissatisfaction arise among the 
+personnel of the acquired business and the Group’s personnel, ultimately leading to key employees choosing to 
+terminate their employment. Failing to successfully integrate acquired businesses within the Group, from an 
+operational, commercial, financial as well as a business integrity perspective, or to retain key personnel in acquired 
+businesses, may have a significant negative effect on the Group’s operations, results and financial position. 
+There is also a risk that the Group may not be able to realise the expected benefits and synergies from a certain 
+acquisition and that the profitability of the acquired company is lower than expected. Furthermore, there is also a 
+risk that the Group may not be able to satisfy the expectations from existing customers resulting in loss of important 
+parts of the acquired business. Future acquisitions may also lead to incurrence of liabilities and contingent 
+liabilities, as well as depreciation costs related to intangible assets. Such liabilities may, for example, be incurred 
+due to environmental regulation applicable to the operations of acquired businesses (as described under 
+“Environmental risks”). If such risks were to materialise, this could result in a significant adverse effect on the 
+Group’s results and financial position. 
+Risks relating to suppliers 
+The Group’s products consist of raw materials from several different suppliers. As described above (see “Risks 
+relating to raw materials and raw material prices”), the Group’s annual costs for raw materials are two-thirds of 
+the sales value of the finished products. To be able to produce, sell and deliver its products, the Group is dependent 
+on deliveries from its suppliers in accordance with agreed requirements such as quantity, quality and time of 
+delivery. If suppliers deliver incorrectly, or otherwise fail to fulfil agreed deliveries, the Group’s ability to meet its 
+commitments to its customers may in turn be reduced. Other than the Group being in breach of its commitments 
+to its customers, this may also lead to a decline in customer confidence. Supply interruptions can arise for a number 
+of reasons, such as shortage of raw materials, labour disputes, weather conditions, transportation disruptions or 
+other factors beyond the Group’s control. Moreover, if a supplier is unable or unwilling to make deliveries to the 
+Group at favourable terms, or at all, or if its products do not meet the Group’s requirements with respect to quantity, 
+quality, price or other standards, or if a supplier should terminate its operations, the Group may not be able to 
+identify and enter into business relations with new suppliers who can meet the Group’s requirements.  
+In addition, with its global supply chain, the Group is subject to sustainability risks that require the Group to 
+actively work with its suppliers to ensure sustainable sourcing in order to meet the expectations of stakeholders 
+and customers concerning these issues. The Group regularly engages with suppliers to ensure that raw materials 
+are produced in a sustainable way to protect the environment while safeguarding human rights. One example is 
+palm oil, a crop which has been subject to major discussions in politics and media. Customers may expect palm 
+oil to meet certain standards with regard to traceability, non-deforestation and Roundtable on Sustainable Palm 
+Oil (RSPO) certifications. These expectations are also reflected in recent regulatory proposals, such as the 
+European Commission’s proposal for a new regulation on deforestation-free products, which applies to raw 
+materials such as palm oil and aims to promote products and value chains which do not contribute to deforestation. 
+The proposal was launched on 17 November 2021 and, on the date of this Prospectus, its impact on the Group’s 
+operations are uncertain. However, it could have a significant impact on the requirements which the Group must 
+set on its suppliers in order to ensure deforestation-free supply chains and could lead to increased costs. The Group 
+is also exposed to other sustainability risks in its supply chain, related to, among other things, human rights and 
+ethics. If supply interruptions occur, the Group may therefore struggle to enter into business relations with new 
+suppliers that meet the Group’s sustainability requirements on favourable terms. If this happens, or if the Group 
+otherwise fails to mitigate the negative consequences of faults or default in deliveries from its suppliers, the 
+Group’s operating margins may be subject to pressure and this could have a material adverse effect on the Group’s 
+business, results and financial condition.  
+Key personnel and employees 
+As per December 31 2021, AAK had, group-wide, 4,013 employees globally and the average time of employment 
+is 8.8 years. The Group’s future success depends largely on its ability to keep, recruit and train qualified personnel. 
+The conditions for the Group to recruit, develop, retain and replace appropriately skilled employees are affected 
+by global competition for relevant and skilled personnel. The Group’s production and other operations require 
+certain qualifications, and if key personnel in these areas leave AAK, and the Group cannot recruit adequately
+
+--- Page 12 ---
+12(51) 
+ 
+skilled personnel to replace them, this may have a negative impact on the Group’s productivity, innovation and 
+growth.  
+Certain aspects of the Group’s production involve risks for the Group’s employees. Some employees work with 
+dangerous machinery and equipment and are therefore exposed to a risk for workplace accidents. The Group’s 
+safety procedures may prove insufficient and employees may not follow safety instructions or procedures and this 
+may lead to accidents. In 2021, the Group reported a Long Time Injury Rate1 of 0.4. If workplace accidents occur 
+at the Group’s production plants, it may lead to dissatisfaction among employees, which in turn may adversely 
+affect the Group’s productivity and reputation as an employer.  
+There is a risk that the Group’s competitors attract staff by increasing their levels of renumeration and that the 
+Group must do the same, in order to attract and retain appropriate staff. This may lead to increased costs and in 
+turn adversely effect the Group’s operations. In 2021, the Group’s costs for wages and social charges amounted to 
+a total of MSEK 2,402. As intense competition for skilled employees may lead to increased remuneration levels 
+and in turn adversely affect the Group’s results of operations, conversely, if the Group were to offer lower 
+remuneration levels, that may lead to employees choosing to terminate their employment, this could result in a 
+lack of resources and competence and would adversely affect the Group’s current and future operations. In 
+addition, if the Group were to hire unsuitable staff, in permanent or temporary positions, or recruit such personnel 
+as subcontractors, there is a risk that this could damage the Group’s reputation and have an adverse effect on the 
+growth and profitability of the Group. 
+Moreover, many of the Group’s employees are represented by trade union organisations under various collective 
+labour agreements. The Group may not be able to satisfactorily renegotiate its collective labour agreements when 
+they expire and may face tougher negotiation or higher wage demands. In addition, existing labour agreements 
+may not prevent a strike or work stoppage at its facilities in the future. A failure to renegotiate labour agreements 
+on reasonable terms and a failure to maintain positive employee relations could adversely impact the Group’s 
+operations, financial position and results.  
+Business interruptions 
+The Group has 20 production plants spread across Europe, Asia and North and South America. For its operations, 
+the Group is dependent on well-functioning production processes as it refines plant-based oils that are value-adding 
+ingredients in food, special nutrition and personal care products. If its production plants do not function efficiently, 
+it may have an adverse effect on the Group’s overall business. Single units or functions within the Group may be 
+hit by business interruptions or inferior performance due to, among other things, human technical errors, power 
+outages, sabotage, weather, natural disasters, pandemics or problems due to deficient care and maintenance. 
+Should any such risk occur, the Group’s production plants can suffer significant damage, leading to production 
+interruptions and decreased production, which in turn can lead to lost sales and costs and cause harm to the Group’s 
+productivity and business operations.  
+The Group’s production and other operations are highly dependent on a well-functioning IT infrastructure, which 
+has become more important following the trend of increased digitalisation and the need to adjust to digital 
+interaction. Such systems are important in order for it to coordinate allocation of resources, control product 
+inventories, purchase and transport raw materials and for capturing and compiling operational and statistical 
+information. For example, in 2020, the Group invested in digital platforms for satellite monitoring to achieve full 
+transparency in the palm oil supply chain. A reliance on well-functioning IT infrastructure also exposes the Group 
+to risks in connection therewith. AAK is exposed to a high degree of risk of IT security breaches, such as 
+ransomware attacks. Moreover, errors and other damage to IT systems, operational disruptions or defective or 
+incorrect deliveries of IT services to the Group may lead to extensive disruption of its business and in turn have 
+an adverse effect on the Group’s earnings and profitability. IT incidents may also spread to businesses elsewhere 
+and therefore present a significant risk to the Group. Moreover, a logistic system shut down may hinder AAK from 
+delivering products to customers. Such logistic delays would negatively affect AAK’s reputation and confidence 
+amongst customers. 
+ 
+1 Long Time Injury Rate means the number of work injuries that result in one or more days of sick leave per 
+200,000 working hours at production sites.
+
+--- Page 13 ---
+13(51) 
+ 
+Legal risks 
+Compliance-related risks  
+The Group operates in a global market and its activities are subject to extensive laws and regulations, both general 
+and industry-specific. In connection therewith, the Group is exposed to risks related to these laws and regulations. 
+These include, but are not limited to, regulation on environment (as described above under “Environmental risks”), 
+labour and occupational health and safety standards, trade sanctions laws, export control regulations, data 
+protection legislation, IT security, IFRS and other rules relating to accounting and financial reporting and 
+legislation on anti-corruption, anti-money laundering and fraud. Since AAK operates within foodservice segment, 
+where Food Ingredients is the Group’s largest business area, it is also subject to various health and safety 
+regulations and standards in respect of its products. For example, AAK focuses on decreasing food safety risks 
+within infant nutrition. 
+AAK is present worldwide and is thus exposed to risks relating to sanctions laws. Sanctions compliance does not 
+only encompass the own operations, but also requires that the Group evaluates and monitors its counterparties in 
+this respect. In addition, sanctions compliance regimes are complex and constantly changing. Compliance with 
+sanctions laws or the enactment of new such legislation may result in a risk of reduced revenues and/or increased 
+costs.  
+The Group’s failure to comply with applicable laws and other standards could subject it to fines, loss of operating 
+licenses, reputational harm and may also lead to termination of its financing agreements. Effective internal controls 
+are necessary for the Group to provide reliable financial reports and effectively prevent and detect fraud. If the 
+Group cannot provide reliable financial reports or prevent fraud, it could have a material adverse effect on AAK’s 
+financial results. Additionally, at the operational level, individual employees may not comply with the Group’s 
+policies and guidelines and as a result may cause the Group to incur compliance costs and incur reputational 
+damage. Inadequate internal controls could also cause reporting errors that could result in management drawing 
+wrong conclusions and investors and other third parties to lose confidence in the Group’s reported financial 
+information, which could have a material adverse effect on the Group’s business, results of operations and financial 
+condition. Furthermore, estimations often form a large portion of the Group’s reported sustainability data, and, 
+thus, by its nature, the reported information may not be representative of the Group’s impact. 
+Disputes and legal proceedings  
+The Group is engaged in extensive national and international operations and is, from time to time, involved in 
+disputes and legal proceedings that arise in the course of its business and operations. These disputes may relate to 
+the Group’s ordinary business operations, such as product liability, defective products and other contractual issues, 
+antitrust and alleged market abuse, environmental issues and intellectual property rights. For example, legal 
+proceedings may occur if the Group is subject to claims for damages based on product liability due to poor food 
+product handling. Food product handling sets high standards on traceability and hygiene. Poor control may result 
+in contamination, infection or allergic reactions among consumers, which may lead to legal claims and costs in 
+connection therewith, regardless of whether a counterparty may succeed in its claim.   
+Moreover, legal costs may arise as a result of Group companies making legal claims against other parties. Disputes 
+may also arise outside of the Group’s ordinary business operations, for example in relation to acquisitions of 
+businesses. The Group, or its executive managers, employees or related parties, may also be subject to criminal or 
+regulatory investigations and proceedings. Legal proceedings may be time-consuming and resource-intensive, 
+adversely affect customer relationships and entail both administrative and legal sanctions, which in turn may lead 
+to the Group incurring significant costs.  
+Intellectual property rights 
+The Group’s intellectual property is important to its business. It owns patents and trademarks and in order to secure 
+the return on the resources that the Group puts into research and development, the Group aims to protect its 
+technical innovations. Patent infringements and copying is a risk that the Group is constantly facing. The Group 
+claims its intellectual property rights through legal proceedings when the Group finds such action is motivated. 
+There is, however, a risk that the Group cannot protect the patents, trademarks and other intellectual property rights 
+obtained or that filed applications will be granted, which in turn could negatively affect the Group’s operations, 
+results and financial position. 
+The Company cannot guarantee that the Group is not considered to infringe the intellectual property rights 
+belonging to other persons. Infringement disputes can, like any other dispute be costly and time-consuming and 
+thereby the Group’s operations, results and financial position and the performance of the Company. Moreover, 
+there can be no assurance that third parties will not assert claims against Group companies alleging infringement
+
+--- Page 14 ---
+14(51) 
+ 
+of their own intellectual property rights, and the Group may incur significant costs as a result thereof, regardless 
+of whether a court may find that an infringement has been committed by the Group company in question.  
+Tax 
+The Group carries out its operations via subsidiaries in a number of different countries, and it is therefore subject 
+to taxation in many jurisdictions, with different tax laws and regulations. In 2021, the Group’s total tax expenses 
+amounted to MSEK 540, corresponding to a weighted average tax rate of 24 per cent. The Group’s operations, 
+including transactions between Group companies, are conducted in accordance with the Group’s interpretation of 
+applicable tax laws, tax treaties and regulations in each of the different countries involved as well as with the 
+requirements of the relevant tax authorities.  
+However, there is a risk that the Group’s interpretation of applicable laws, tax treaties and regulations, or 
+interpretation of relevant government agencies’ decisions or of administrative case law, is incorrect, or that such 
+regulations change, potentially with a retroactive effect. If this occurs, the Group’s taxation situation may be 
+negatively affected, which in turn may have a negative effect on the Group’s results and financial position.  
+ 
+Financial risks 
+Currency risk 
+Since a significant part of the Group’s operations are outside of Sweden, it is exposed to risk relating to currency 
+rate changes. The Group operates in countries such as Brazil and Turkey, in which high risk currencies are used. 
+Currency risk can be divided into transaction exposure, which relates to exchange rate fluctuations affecting the 
+currency flows that arise due to business activities, and translation exposure, which relates to the translation of the 
+parent company’s subsidiaries’ statements on financial position from local currency to SEK. As per 2021, a 10 per 
+cent change in the exchange rates of all foreign currencies relative to SEK would have an effect of MSEK 185 on 
+the Group’s operating profit. Furthermore, a 10 per cent change in the exchange rates of all foreign currencies 
+relative SEK would affect the Group net sales by MSEK 3,555. The Group’s largest exposure is EUR and USD. 
+A significant part of the Group’s buying and selling of raw materials is denominated in foreign currency. Moreover, 
+most of the Group’s operational subsidiaries are located outside Sweden. Sales contracts and raw material contracts 
+give rise to transaction risk. Profits for the non-Swedish subsidiaries of the Company are affected by changes in 
+currency rates, when they are translated to SEK. Further, the Group’s equity is affected when equity in the 
+Company’s non-Swedish subsidiaries are translated to SEK. Exchange fluctuations and currency risk can have an 
+adversely negative impact on the Group’s operating profits and cash flows. 
+Interest rate risk 
+The Group is exposed to interest rate movements through its floating rate financing arrangements. As per 31 
+December 2021, the Group’s interest-bearing debt, including pensions, amounted to MSEK 3,817 and the Group 
+had a floating-rate-based net debt of MSEK 2,289. At year-end 2021, the Group’s net debt to EBITDA ratio was 
+1.25. Interest rates can move in response to numerous factors, such as government and central bank policy in the 
+geographic markets in which the Group operates. Based on the Group’s debt and interest rates in 2021, a 1 per 
+cent change in interest rates would have a full-year effect of MSEK 23 on the Group’s interest costs before tax. 
+An increase in interest rates would cause the Group’s interest obligations to increase and could have a material 
+adverse effect on the Group’s business, financial condition or results of operations and the performance of the 
+Company under the MTNs. 
+There is a risk that current or future hedging will not protect the Group sufficiently from the adverse effects of 
+interest rate movement. Moreover, the success of the Group’s hedging activities depends on the accuracy of its 
+assumptions and forecasts. Any errors affecting such assumptions and forecasts could have a material adverse 
+effect on the Group’s financial condition. If the risks related to interest rates materialise, they can have an adversely 
+negative effect on the Group’s operations, results and financial position.  
+Financing risk 
+AAK’s interest-bearing net debt amounted to MSEK 3,817 at year-end 2021. Financing risk is the risk that AAK’s 
+capital needs and refinancing of outstanding debt may become more difficult or more expensive. This risk can be 
+reduced by maintaining an even maturity profile for loans and a solid credit rating. The Group may also be in need 
+of debt financing in order to make corporate acquisitions or achieve certain strategic objectives. Access to 
+additional financing is affected by a number of factors, such as restrictions on the Group’s current and future 
+financing arrangements, market conditions, the general availability of credit, and the Group’s credit rating and
+
+--- Page 15 ---
+15(51) 
+ 
+credit capacity. Disruptions and uncertainty in the capital and credit markets may also limit access to the capital 
+resources required to conduct the business. Moreover, AAK’s loan agreements carry loan covenants which oblige 
+the Group to comply with certain defined key ratio conditions in order to avoid early repayment. If, in the future, 
+AAK would be unable to satisfy covenants in its financing agreements and not be granted waivers, loans may be 
+terminated pursuant to the terms of the financing agreements. Any such termination can, in turn, lead to outstanding 
+amounts under other financing agreements also becoming immediately due and payable (so-called cross default). 
+Should the Group fail to procure financial resources for any purpose mentioned above, or any other purpose, on 
+favourable terms or at all, it will have an adversely negative effect on the Group’s operations, results and financial 
+position.  
+Credit and counterparty risk 
+The Group is exposed to credit risk, i.e. the risk of losses due to failure to meet payment obligations by the Group’s 
+counterparties in financial agreements or by its customers. Its exposure to credit risk is primarily in relation to 
+accounts receivables and customer contracts. Risk in the latter case is represented by customers’ failure to meet 
+their commitments. At year-end 2020, the Group’s provisions for doubtful accounts receivables amounted to 
+MSEK 70 and its past due assets not considered impaired amounted to MSEK 468. During periods of economic 
+uncertainty, the Group’s counterparties may experience financial difficulties and have difficulty in making 
+payments to the Group. Such risks may be higher in countries where the political and commercial risks generally 
+are deemed to be higher than in Western countries. Nearly a quarter of the Group’s total sales occur in such 
+countries.  
+The customer structure for the Group is such that its single-largest customer is responsible for less than 5 per cent 
+of its total sales, and the average customer corresponds to less than 1 per cent. However, a failure by the Group’s 
+largest customers to meet their financial commitments to any Group company can have a notable impact on the 
+Group’s sales.  
+There is a risk that the Group’s counterparties cannot fulfil their commitments to the Group. Losses related to the 
+Group’s counterparties are foremost connected with the bankruptcy of such counterparty or, in any case, if the 
+counterparty for other reasons is unable to fulfil its payment obligations. If the credit and counterparty risks 
+materialise, and the Group is subject to increase credit losses, it would have a material adverse effect on the 
+Group’s liquidity and financial position. 
+Liquidity risk 
+Liquidity risk is the risk that the Group cannot meet its payment obligations at their maturity dates without the cost 
+for obtaining cash or cash equivalents increasing significantly. As per 31 December 2021, the Group’s total 
+financial liabilities and interest on liabilities to banks and credit institutions amounted to MSEK 12,347. Moreover, 
+the Group had account payables amounting to MSEK 5,696 at year-end 2021 and the majority of these were due 
+within three months.  
+The Group’s short term liquidity needs to be covered through various measures. Moreover, unforeseen costs may 
+be accrued and unforeseen income reductions may occur, which can lead to a strained liquidity for the Group. 
+Such costs may, for example, be accrued due to unforeseen changes in commodity prices (as described under Risks 
+relating to raw materials and raw material prices). If the Group’s liquidity sources prove not to be sufficient, there 
+is a risk that the Group can only meet its payment obligations by raising funds on terms significantly increasing 
+its financing costs or that the Group cannot meet its payment obligations at all and as a result thereof being in 
+default under material agreements entered into by the Group.  
+Insurance 
+There is a risk that AAK’s insurance coverage may be insufficient to cover for every potential risk associated with 
+the Group’s operations. The Group has insurance programmes with respect to, among other things, property, 
+business interruption, product liability, transport, life and pensions. Although the Group strives to maintain an 
+insurance coverage that entails an appropriate insurance protection, the Group is not fully insured against all 
+possible risks and the insurance coverage obtained may be insufficient to compensate for the loss incurred by the 
+Group. Hence, if an accident were to occur causing damage in excess of the applicable insurance limits or not 
+covered by insurance, this could have a material adverse effect on the Group’s business, financial condition and 
+results of operations.
+
+--- Page 16 ---
+16(51) 
+ 
+Risks relating to the MTNs  
+Structural subordination and insolvency of subsidiaries 
+The Company is a holding company and holds no significant assets other than the shares in its directly owned 
+subsidiaries, and as such the Company is reliant on the ability of other entities within the Group to advance loans 
+or make dividend distributions to the Company so as to enable it to make payments under the MTNs. The Company 
+is thus dependent upon receipt of sufficient income arising from the operations of the Group. The ability of any 
+operating company of the Group to make payments to the Company is subject to, among other things, the 
+availability of funds, corporate restrictions, the terms of each company’s indebtedness and local law. In 2021, the 
+Company’s operating income amounted to MSEK 116, which can be compared with the Group’s total operating 
+income of MSEK 35,638. 
+The subsidiaries are legally distinct from the Company and have no obligation to make payments to the Company 
+of any profits generated from their business. The ability for the subsidiaries to make payments to the Company is 
+subject to, among other things, the availability of funds (which in turn will depend on the future performance of 
+the subsidiary concerned and therefore to a certain extent on general economic, financial, competitive, legislative, 
+regulatory and other factors that may be beyond its control), corporate law (e.g. limitations on value transfers), 
+local law and the terms of each subsidiary’s financing arrangements. 
+The Company’s subsidiaries will have debt obligations in relation to other creditors. If any subsidiary of the 
+Company is subject to any foreclosure, dissolution, winding-up, liquidation, recapitalisation, administrative or 
+other bankruptcy or insolvency proceeding, the creditors of such subsidiary of the Company will generally be 
+prioritised due to their position in the capital structure and will generally be entitled to payment in full from the 
+sale or other disposal of the assets of such a subsidiary before the Company, as a direct or indirect shareholder, 
+will be entitled to receive any distributions from such a subsidiary. 
+The Group and its assets are not protected from action taken by the creditors of any subsidiary of the Group, 
+whether under bankruptcy law, under a contract or otherwise. In addition, defaults by, or the insolvency of, certain 
+subsidiaries could result in the Group being obliged to make payments under parent company financial or 
+performance guarantees in respect of such subsidiaries’ obligations or the occurrence of cross defaults on certain 
+borrowings of the Group. 
+The Company is not prohibited from incurring further debt, which may rank parri 
+passu or with priority to MTNs 
+The Company and the other Group Companies are not prohibited from issuing or incurring further debt. As per 31 
+December 2021, the Group had total committed credit facilities of MSEK 6,374. There is no restriction in the 
+General Terms and Conditions on the amount or type of debt that the Company or any other Group Company may 
+issue or incur. Similarly, there are no limitations on security pursuant to the General Terms and Conditions which 
+limit the ability of the Company or any other Group Company to provide security for debt obligations, other than 
+security for other Market Loans. The incurrence of any debt ranking parri passu or with priority to MTNs and/or 
+being secured may reduce the amount recoverable by Holders in the event of the voluntary or involuntary 
+liquidation, resolution or bankruptcy of the Company or other Group Company. 
+Risks relating to interest rate constructions  
+MTNs with a fixed interest rate bear interest at a fixed rate until the Maturity Date for such MTN. The value of 
+such MTNs is highly influenced by the market interest rate level. As the market interest rate level changes, the 
+value of the MTNs with a fixed interest rate typically changes in the opposite direction, i.e. if the market interest 
+rate level increases, the market value of such MTNs falls and if the general interest rate level falls, the market 
+value of such MTNS increases. Since the price of MTNs is adversely affected by changes in the market interest 
+rate level, there is a risk that Holders may lose all or a significant part of their investment in such MTNs. 
+MTNs with Zero Coupon bears no interest and may be issued at a discount, par or premium. The price is normally 
+determined by the market interest rate level. When there is a positive market interest rate, the MTNs with Zero 
+Coupon are normally issued at a discount. The market value of such notes may be adversely affected by changes 
+in the market interest rate level. If the market interest rate level increases in relation to the level at the issue date, 
+the market value of Zero Coupon Notes will typically decrease. Hence, there is a risk that changes in the market 
+interest rate will result in Holders losing all or a significant part of their investment in such MTNs. MTNs issued 
+at a discount or premium tend to fluctuate more as a result of a change in the market interest rate than MTNs issued 
+at par.
+
+--- Page 17 ---
+17(51) 
+ 
+Use of Benchmarks 
+The process of the calculation of EURIBOR, STIBOR and other interest rate benchmarks have been subject to a 
+number of legislative measures, whereof some have been implemented and others are pending implementation. 
+The most important initiative on the subject matter is the Benchmarks Regulation which regulates the provision of 
+a benchmark, contribution of input data for the purpose of determining a benchmark and the operation of 
+benchmarks within the EU. These reforms may cause STIBOR or EURIBOR to perform differently than in the 
+past, or to disappear entirely, or have other consequences which cannot be predicted. Any such consequence could 
+have a material adverse effect on floating interest rate MTNs and poses a risk to the value of and return on the 
+investments of the Holders. 
+The Benchmarks Regulation could have a material impact on any floating interest Notes, in particular, if the 
+methodology or other terms of STIBOR or EURIBOR (as applicable) are changed in order to comply with the 
+terms of the Benchmarks Regulation. Such changes could (amongst other things) have the effect of reducing or 
+increasing the rate or level, or affecting the volatility of the published rate or level, of the benchmark. The General 
+Terms and Conditions contain provisions for establishing a Successor Base Rate if STIBOR or EURIBOR ceases 
+to be published. However, there is a risk that a Successor Base Rate may be unfavourable for the Holders. 
+Moreover, there is a risk that the process of establishing a Successor Base Rate leads to time consuming processes 
+and discussions and/or legal disputes, which may have an adverse effect on the interests of the Holders.  
+There may not be an active trading market for the MTNs 
+Although the Company shall use its best efforts to ensure that the MTNs are listed on a Regulated Market, there 
+can be no assurance that such application will be accepted or that the MTNs will be so admitted. Prior to any 
+admission to trading, there has been no public market for the MTNs. There can be no assurance that an active 
+trading market for the MTNs will develop or, if developed, will be sustained. The Nominal Amount may not be 
+indicative of the market price for the MTNs. Furthermore, following a listing of the MTNs, the liquidity and trading 
+price of the MTNs may be subject to fluctuations in response to many factors, including those referred to in this 
+section, as well as to market fluctuations and general economic conditions that may adversely affect the liquidity 
+and price of the MTNs, regardless of the actual performance of the Company or any other member of the Group. 
+In addition, transaction costs in any secondary market may be high. Therefore, Holders may not be able to sell 
+their MTNs easily or at prices that will provide them with a yield comparable to similar investments that have a 
+developed secondary market. Accordingly, the purchase of MTNs is suitable only for investors who can bear the 
+risks associated with a lack of liquidity in the MTNs and the financial and other risks associated with an investment 
+in the MTNs. Investors must be prepared to hold the MTNs until maturity.
+
+--- Page 18 ---
+18(51) 
+ 
+GENERAL TERMS AND CONDITIONS  
+GENERAL TERMS AND CONDITIONS FOR LOANS UNDER THE MTN PROGRAMME 
+ 
+The following general terms and conditions (“General Terms and Conditions”) apply to loans issued by AAK 
+AB (publ) (corporate identity number 556669-2850) (the “Company”) in the capital markets, pursuant to the 
+agreement entered into on 23 November 2018 (as it may be amended and/or restated from time to time) between 
+the Company and Nykredit Bank A/S and Svenska Handelsbanken AB (publ) regarding an MTN Programme 
+(“MTN Programme”), by means of issuing bonds with varying maturity periods, although a minimum of one 
+year, known as Medium Term Notes. 
+1. 
+DEFINITIONS 
+1.1 
+In addition to the above definitions, the following terms are to have the meanings stated below.  
+“Account Operator” means a bank or other party which has been granted the right to be an account 
+operator according to the Swedish Central Securities Depositaries and Financial Instruments Accounts 
+Act (1998:1479) and with which a Holder has opened a Securities Account in respect of its MTN.  
+“Adjusted Loan Amount” means the Loan Amount less the amount of all MTNs owned by a Group 
+Company or Main Owner, regardless of whether such Group Company or Main Owner is directly 
+registered as the owner of the MTN or not. 
+“Administrative Dealer” means (i) if Loans have been issued through two or more Relevant Dealers, 
+the Relevant Dealer designated by the Company to be responsible for certain administrative duties 
+regarding the Loan in accordance with the Final Terms, and (ii) if Loans have been issued through 
+one Relevant Dealer, the Relevant Dealer, provided in each case that the Relevant Dealer having 
+received specific authorisation from Euroclear Sweden to manage and register issuances in the VPC 
+system.  
+“Arranger” means Svenska Handelsbanken AB (publ) or another Dealer which, pursuant to an 
+agreement with the Company, may assume this role. 
+“Base Rate” means in regards to Loans with Floating Interest Rate, the base rate STIBOR or 
+EURIBOR as described in the Final Terms or any reference rate replacing STIBOR or EURIBOR in 
+accordance with Section 7 (Replacement of Base Rate).  
+“Business Day” means a day other than a Sunday or general public holiday in Sweden or which, 
+concerning payment of instruments of debt, is not equivalent to such public holiday. In this definition, 
+Saturdays, Midsummer Eve, Christmas Eve and New Year’s Eve are considered to be the same as 
+general public holidays.  
+”Conditions” means, for a specific Loan, these General Terms and Conditions, and the Final Terms 
+for such Loan.  
+“Day Count Convention” means the basis of calculation, specified in the Final Terms, applied in the 
+calculation of an amount for a specific calculation period. 
+(a) 
+If the “30/360” basis of calculation is specified as applicable, the amount shall be calculated 
+for a period of one year of 360 days, comprised of 12 months of 30 days each and, for split 
+months, the actual number of days taking place in the month. 
+(b) 
+If the “Actual/360” basis of calculation is specified as applicable, the amount shall be 
+calculated for the actual number of days during the relevant period divided by 360. 
+“Dealer” means Svenska Handelsbanken AB (publ), Nykredit Bank A/S, Danske Bank A/S, 
+Danmark, Sverige filial and Skandinaviska Enskilda Banken AB (publ) as well as every other Dealer 
+which is affiliated with this MTN Programme, although only to the extent that such institution has not 
+retired as Dealer.  
+“Debt Register” means the debt register held by Euroclear Sweden of Holders in respect of a Loan.
+
+--- Page 19 ---
+19(51) 
+ 
+“EURIBOR” means: 
+(a) 
+the annual Interest Rate as displayed as of or around 11.00 a.m. on the relevant day on page 
+EURIBOR01 of the Refinitiv screen (or in such other system or other page that replaces this 
+system/page) for loans or deposits in euro during a period comparable with the relevant 
+Interest Period; or 
+(b) 
+if no such interest rate is available for the relevant Interest Period as described in paragraph 
+(a), the arithmetic mean of the rates (rounded upwards to four decimal places) as supplied 
+to the Administrative Dealer at its request quoted by the European Reference Banks for 
+deposits of EUR 10,000,000 for the relevant Interest Period; or 
+(c) 
+if no interest rate as described in paragraph (a) or Error! Reference source not found. is 
+available, the interest rate which, according to the reasonable assessment of the 
+Administrative Dealer, best reflects the interest rate for deposits in EUR offered for the 
+relevant Interest Period. 
+“Euro” and “EUR” means the currency used by participating member states in accordance with the 
+European Union’s regulatory framework for its Economic and Monetary Union (EMU).  
+“Euroclear Sweden” means Euroclear Sweden AB (Corporate identity number 556112-8074). 
+“European Reference Banks” means the four major commercial banks which, at the time in 
+question, quote EURIBOR and which are designated by the Administrative Dealer. 
+“Final Terms” means the Final Terms established for a specific Loan under this MTN Programme in 
+accordance with Appendix 1 (Form of Final Terms) (including any future additions and amendments). 
+“Group” means the group in which the Company is parent company (where the concepts of group 
+and parent company shall have the meaning of “koncern” and “moderbolag” respectively as defined 
+in the Swedish Companies Act (2005:551) as amended from time to time). 
+“Group Company” means any legal entity being a member of the Group at any given time. 
+“Holder” means the person who is registered on a Securities Account as the direct registered owner 
+(Sw: ägare) or nominee (Sw: förvaltare) of an MTN. 
+“Holders’ Meeting” means a meeting of Holders as described in Section 13 (Holders’ Meeting). 
+“Interest Commencement Date” means, according to the Final Terms, the date from which interest 
+(where applicable) is to begin to accrue. 
+“Loan” means each loan of a certain series, comprising one or more MTNs, issued by the Company 
+under this MTN Programme.  
+“Loan Amount” means, according to the Final Terms, the total aggregate outstanding Nominal 
+Amount of MTNs relating to a specific Loan, less any amount already repaid. 
+“Main Owner” mean any person owning or controlling more than 50 per cent of the shares or votes 
+of the Company.  
+“Market Loan” means a loan obtained by issuing certificates, bonds or other securities (including 
+loans under an MTN or other Market Loan programme), which are sold, distributed or placed in a 
+structured form or which are, or may be, traded on a Regulated Market.  
+“Material Group Company” means (a) the Company and (b) every Group Company for which:  
+(i) 
+total assets constitute a minimum of five per cent of the Group’s total consolidated 
+assets, according to the most recently published annual financial statements; or 
+(ii) 
+EBIT or turnover constitutes a minimum of five per cent of the Group’s 
+consolidated EBIT or turnover, according to the most recently published annual 
+financial statements. 
+“Maturity Date” means the date on which an MTN is to be repaid according to the Final Terms.
+
+--- Page 20 ---
+20(51) 
+ 
+“MTN” means a unilateral debt instrument with a Nominal Amount which has been registered in 
+accordance with the Swedish Central Securities Depositaries and Financial Instruments Accounts Act 
+(1998:1479) and which constitutes a part of Loans issued by the Company under this MTN 
+Programme. 
+“Nominal Amount” means the amount for each MTN stated in the Final Terms. 
+“Record Day” means the fifth Business Day before (or other Business Day before the relevant date 
+which may generally be applicable in the Swedish bond market) (i) the due date for interest or 
+principal amount under the Conditions, (ii) any other date on which the Holders are to receive 
+payment, (iii) the date of a Holders’ Meeting, (iv) the date on which a notice is to be sent, or (v) any 
+other relevant date.  
+“Reference Banks” means Nordea Bank Abp, Skandinaviska Enskilda Banken AB (publ), Svenska 
+Handelsbanken AB (publ) and Swedbank AB (publ) or such substitute banks which provide, at any 
+given time, the Interest Rate for STIBOR and which are designated by the Administrative Dealer. 
+“Regulated Market” means a Regulated Market as defined in Directive 2014/65/EU on markets for 
+financial instruments (or any replacing or supplementing legal act). 
+“Relevant Dealer” means, according to the Final Terms, the Dealer through which a specific Loan 
+has been issued under this MTN Programme. 
+“Repurchase Date”  means the date set out in Section 10.2. 
+“Securities Account” means the Securities Account (VP-konto) with Euroclear Sweden pursuant to 
+the Swedish Central Securities Depositaries and Financial Instruments Accounts Act (1998:1479) in 
+which (i) an owner of a security is directly registered as the owner of securities or (ii) an owner’s 
+securities holdings are nominee registered under the nominee’s name.  
+“Settlement Date” means the date on which the proceeds of the issue of MTN are to be disbursed 
+according to the Final Terms. 
+“STIBOR” means: 
+(a) 
+the interest rate administered, calculated and distributed by the Swedish Financial 
+Benchmark Facility AB (or the replacing administrator or calculation agent) for the relevant 
+day and published on the information system Refinitiv’s page ”STIBOR=” (or through such 
+other system or on such other page as replaces the said system or page) for SEK for a period 
+comparable to the relevant Interest Period; or   
+(b) 
+if no such interest rate is available for the relevant Interest Period as described in paragraph 
+(a), the arithmetic mean of the rates (rounded upwards to four decimal places) as supplied to 
+the Administrative Dealer at its request quoted by the Reference Banks for deposits of SEK 
+100,000,000 for the relevant Interest Period; or 
+(c) 
+if no such interest rate as described in paragraph (a) or (b) is available, the interest rate which, 
+according to the reasonable assessment of the Administrative Dealer, best reflects the interest 
+rate for deposits in SEK offered in the Stockholm interbank market for the relevant Interest 
+Period 
+“Swedish krona” and “SEK” means the legal currency in Sweden.  
+1.2 
+When calculating whether a limit or threshold expressed in Swedish krona has been reached or 
+exceeded, an amount in a different currency is to be calculated according to the conversion rate 
+applying on the Business Day immediately preceding the relevant date in question and published on 
+Refinitiv’s “SEKFIX=” page (or using the equivalent system or page which replaces the 
+aforementioned system/page) or, if no such rate is published, according to the conversion rate for the 
+Swedish krona against the currency in question published by the Riksbank on its website 
+(www.riksbank.se) on the aforementioned date. 
+1.3 
+Additional definitions such as Interest Rate, Base Interest, Base Interest Margin, Interest Quotation 
+Date, Interest Payment Date, Interest Period and Currency are set out (where applicable) in the Final 
+Terms.
+
+--- Page 21 ---
+21(51) 
+ 
+1.4 
+The definitions listed in these General Terms and Conditions shall also apply to the Final Terms.  
+2. 
+ISSUANCE OF LOANS 
+2.1 
+Under this MTN Programme, the Company is entitled to issue MTNs in Swedish krona or euro with 
+a maturity of at least one year. Several tranches of MTNs can be issued under one Loan without the 
+approval of the Holders. 
+2.2 
+By subscribing to MTN, each initial Holder approves that MTN shall have the rights and be governed 
+by the terms and conditions set out in the Conditions. By acquiring MTN, each new Holder confirms 
+such approval. 
+2.3 
+The Company undertakes to make payments relating to issued MTNs and to otherwise comply with 
+the Conditions established under this MTN Programme.  
+2.4 
+In the event that the Company wishes to issue MTN under this MTN Programme, the Company shall 
+enter into a separate agreement for this purpose with one or more Dealer, which are to serve as the 
+Relevant Dealer(s) for such Loans.  
+2.5 
+Final Terms shall be established in relation to each particular Loan which together with these Terms 
+and Conditions shall constitute the complete Conditions for the Loan.  
+3. 
+REGISTRATION OF MTNS  
+3.1 
+MTNs shall be registered on behalf of a Holder on a Securities Account, and thus no physical 
+securities will be issued. Requests for any action with regard to registration of MTNs shall be directed 
+to the Account Operator.  
+3.2 
+Those who according to assignment, pledge, the provisions in the Children and Parent Code, terms 
+and conditions of a will or deed of gift or otherwise has acquired entitlement to receive payment under 
+an MTN shall have this right to payment registered.  
+3.3 
+The Administrative Dealer has the right to receive information from Euroclear Sweden on the content 
+of the Debt Register for MTNs, in order to enable the fulfilment of its duties pursuant to Section 12 
+(Events of Default) and Section 13 (Holders’ Meeting), or for other purposes, if allowed by Euroclear 
+Sweden. The Administrative Dealer shall accept no responsibility for the content of such excerpts or 
+in any other way accept responsibility for establishing the identities of the Holders. 
+4. 
+RIGHT TO ACT ON BEHALF OF A HOLDER 
+4.1 
+If an individual other than a Holder wishes to exercise the Holder’s rights under the Conditions or to 
+vote at a Holders’ Meeting, such person must provide a power of attorney or other authorisation 
+document issued by the Holder, or a chain of such powers of attorney and/or authorisation documents 
+from the Holder.  
+4.2 
+The Holder, or other person who exercises the Holder’s rights according to Section 4.1 above, can 
+grant one or more persons with the power of attorney to represent the Holder with regard to either 
+specific MTNs or all of the MTNs held by the Holder. Each such person with a power of attorney acts 
+independently.  
+5. 
+PAYMENTS 
+5.1 
+Payments relating to MTNs issued in Swedish krona shall be made in Swedish krona and, relating to 
+MTNs issued in euro, shall be made in euro.
+
+--- Page 22 ---
+22(51) 
+ 
+5.2 
+Payments relating to MTNs shall be made to the person registered as Holder on the Record Day in 
+respect of each due date, or to another person if such is registered with Euroclear Sweden as entitled 
+to receive these payments.  
+5.3 
+If a Holder has registered, via the Account Operator, that the principal amount and interest, 
+respectively, are to be deposited in a specific bank account, the deposit shall be made through 
+Euroclear Sweden on the respective due date.  
+5.4 
+If, due to a delay by the Company or due to another obstacle, Euroclear Sweden is not able to pay the 
+amount pursuant to the above, the Company will procure that this is paid as soon as the obstacle has 
+ceased, to the party which, on the Record Day, was registered as Holder.  
+5.5 
+If the Company is unable to fulfil its payment obligations via Euroclear Sweden, as stated above, due 
+to an obstacle for Euroclear Sweden, the Company is entitled to postpone payment until the obstacle 
+has ceased. In this case, interest is payable pursuant to Section 8.2.  
+5.6 
+If the person who has received an amount in accordance with this Section 5 has, in fact, no right to 
+receive it, the Company and Euroclear Sweden will nevertheless be considered to have fulfilled their 
+obligations. However, this will not apply if the Company or Euroclear Sweden was aware that the 
+payment was made to a person not entitled to receive the payment or if they had not observed normal 
+care. 
+6. 
+INTEREST 
+6.1 
+Interest on a specific Loan is calculated on the Nominal Amount and is payable in accordance with 
+the Conditions. 
+6.2 
+The Final Terms shall specify the relevant basis for calculation of return from the following 
+alternatives, or a combination thereof:  
+(a) 
+Fixed Interest Rate  
+If the Loan is specified as a Loan with Fixed Interest Rate, the Loan accrues interest 
+according to the Interest Rate from the Interest Commencement Date (exclusive) up to the 
+Maturity Date (inclusive).  
+Interest accruing during an Interest Period is payable in arrears on the respective Interest 
+Payment Date and is calculated with the application of the Day Count Convention specified 
+in the Final Terms. 
+(b) 
+Floating Interest Rate 
+If the Loan is specified as a Loan with Floating Interest Rate, the Loan accrues interest from 
+the Interest Commencement Date (exclusive) up to the Maturity Date (inclusive). The 
+Interest Rate for each Interest Period is calculated by the Administrative Dealer on the 
+appropriate Interest Quotation Date and comprises the Base Interest supplemented by the 
+Base Interest Margin for the same period, adjusted for the application of Section 7 
+(Replacement of Base Rate). If the calculated Interest Rate is below zero, the Interest Rate is 
+to be determined as zero. 
+If the Interest Rate cannot be calculated on the Interest Quotation Date due to some obstacle 
+referred to in Section 17.1, the Loan will continue to bear the Interest Rate which applies to 
+the Interest Period in question. As soon as the obstacle has ceased, the Administrative Dealer 
+will calculate a new Interest Rate to apply from the second Business Day following the day 
+for calculation, until the end of the Interest Period applying at that time.  
+Interest accruing during an Interest Period is payable in arrears after the respective Interest 
+Payment Date and is calculated with the application of the Day Count Convention specified
+
+--- Page 23 ---
+23(51) 
+ 
+in the Final Terms, or by using such other method of calculation as is applied for the relevant 
+Base Rate. 
+(c) 
+Zero Coupon 
+If the Loan is specified as a Zero Coupon it bears no interest. Loans with Zero Coupon may 
+be issued at a discount, par or premium. 
+6.3 
+Interest is calculated and paid up to the respective Interest Payment Date. 
+6.4 
+If the Interest Payment Date for a Loan with Fixed Interest Rate is on a day which is not a Business 
+Day, the interest will be paid on the next following Business Day. However, interest is calculated and 
+paid only up to the respective Interest Payment Date.  
+6.5 
+If the Interest Payment Date for a Loan with Floating Interest Rate falls on a day which is not a 
+Business Day, the next following Business Day is to serve as the Interest Payment Date, provided this 
+Business Day is not in a new calendar month, in which case the preceding Business Day will be the 
+Interest Payment Date.  
+7. 
+REPLACEMENT OF BASE RATE 
+7.1 
+If a Base Rate Event as described in Section 7.2 below has occurred, the Company shall, in 
+consultation with the Administrative Dealer, initiate the procedure to, as soon as reasonably possible, 
+determine a Successor Base Rate, Adjustment Spread, as well as initiate the procedure to determine 
+upon necessary administrative, technical and operative amendments to the Conditions in order to 
+apply, calculate and finally decide the applicable Base Rate. The Administrative Dealer is not 
+obligated to participate in such consultation or determination as described above. Should the 
+Administrative Dealer not participate in such consultation or determination, the Company shall, at the 
+Company’s expense, as soon as possible appoint an Independent Adviser to initiate the procedure to, 
+as soon as reasonably possible, determine upon the mentioned. Provided that the Successor Base Rate, 
+the Adjustment Spread and other amendments have been finally decided no later than prior to the 
+relevant Interest Determination Date in relation to the next succeeding Interest Period, they shall 
+become effective with effect from and including the commencement of the next succeeding Interest 
+Period, always subject to any technical limitations of Euroclear Sweden and any calculations methods 
+applicable to such Successor Base Rate.  
+7.2 
+A base rate event is an event where one or more of the following events occur (”Base Rate Event”) 
+which means:  
+(a) 
+the Base Rate (for the relevant Interest Period of the relevant Loan) has ceased to exist or 
+ceased to be published for at least five (5) consecutive Business Days as a result of the Base 
+Rate (for the relevant Interest Period of the relevant Loan) ceasing to be calculated or 
+administered;  
+(b) 
+a public statement or publication of information by (i) the supervisor of the Base Rate 
+Administrator or (ii) the Base Rate Administrator that the Base Rate Administrator ceases to 
+provide the applicable Base Rate (for the relevant Interest Period of the relevant Loan) 
+permanently or indefinitely and, at the time of the statement or publication, no successor 
+administrator has been appointed or is expected to be appointed to continue to provide the 
+Base Rate; 
+(c) 
+a public statement or publication of information in each case by the supervisor of the Base 
+Rate Administrator that the Base Rate (for the relevant Interest Period of the relevant Loan) 
+is no longer representative of the underlying market which the Base Rate is intended to 
+represent and the representativeness of the Base Rate will not be restored in the opinion of 
+the supervisor of the Base Rate Administrator; 
+(d) 
+a public statement or publication of information in each case by the supervisor of the Base 
+Rate Administrator with the consequence that it is unlawful for the Company or the 
+Administrative Dealer to calculate any payments due to be made to any Holder using the
+
+--- Page 24 ---
+24(51) 
+ 
+applicable Base Rate (for the relevant Interest Period of the relevant Loan) or it has otherwise 
+become prohibited to use the applicable Base Rate (for the relevant Interest Period of the 
+relevant Loan); 
+(e) 
+a public statement or publication of information in each case by the bankruptcy trustee of the 
+Base Rate Administrator or by the trustee under the bank recovery and resolution framework 
+(Sw. krishanteringsregelverket), or in respect of EURIBOR, from the equivalent entity with 
+insolvency or resolution powers over the Base Rate Administrator, containing the 
+information referred to in (b) above; or 
+(f) 
+a Base Rate Event Announcement has been made and the announced Base Rate Event as set 
+out in (b) to (e) above will occur within six (6) months. 
+7.3 
+Upon a Base Rate Event Announcement , the Company may (but is not obliged to), if it is possible at 
+such time to determine the Successor Base Rate, Adjustment Spread and other amendments, in 
+consultation with the Administrative Dealer or through the appointment of an Independent Adviser, 
+initiate the procedure as described in Section 7.1 above to finally decide the Successor Base Rate, the 
+Adjustment Spread and other amendments, in order to change to the Successor Base Rate at an earlier 
+time. 
+7.4 
+If a Base Rate Event set out in any of the paragraphs (a) to (e) of the Base Rate Event definition has 
+occurred but no Successor Base Rate and Adjustment Spread have been finally decided at the latest 
+prior to the relevant Interest Determination Date or if such Successor Base Rate and Adjustment 
+Spread have been finally decided but due to technical limitations of Euroclear Sweden, cannot be 
+applied in relation to the relevant Interest Determination Date, the interest applicable to the next 
+succeeding Interest Period shall be: 
+(a) 
+if the previous Base Rate is available, determined pursuant to the terms that would apply to 
+the determination of the Base Rate as if no Base Rate Event had occurred; or 
+(b) 
+if the previous Base Rate is no longer available or cannot be used in accordance with 
+applicable law or regulation, equal to the interest determined for the immediately preceding 
+Interest Period. 
+The provisions set out in this Section are applicable on subsequent Interest Periods, provided that all 
+relevant measures have been carried out regarding the application of and the adjustments described in 
+this Section 7 (Replacement of Base Rate) prior to every such subsequent Interest Determination Date, 
+but without success. 
+7.5 
+Prior to the Successor Base Rate, Adjustment Spread and any other amendments becoming effective, 
+the Company shall promptly, following the final decision by the Company in consultation with the 
+Administrative Dealer or the Independent Adviser of any Successor Base Rate, Adjustment Spread 
+and any other amendments, give notice thereof to the Holders, the Arranger and Euroclear Sweden in 
+accordance with Section 16 (Notices). The notice shall also include information about the effective 
+date of the amendments. If the MTN are admitted to trading on a Regulated Market, the Company 
+shall also give notice of the amendments to the relevant stock exchange. 
+7.6 
+The Administrative Dealer and the Independent Adviser that carries out measures in accordance with 
+this Section 7 shall not be liable whatsoever for any damage or loss caused by any determination, 
+action taken or omitted by it in conjunction with the determination and final decision of the Successor 
+Base Rate, Adjustment Spread and any amendments thereto to the Conditions, unless directly caused 
+by its gross negligence or wilful misconduct. The Administrative Dealer and the Independent Adviser 
+shall never be responsible for indirect or consequential loss. 
+7.7 
+In this section 7 the following definitions have the meaning described below: 
+”Adjustment Spread” means a spread or a formula or methodology for calculating a spread to be 
+applied to a Successor Base Rate and that is: 
+(a) 
+formally recommended by any Relevant Nominating Body in relation to the replacement of 
+the Base Rate; or 
+(b) 
+if (a) is not applicable, the adjustment spread that the Company in consultation with the 
+Administrative Dealer or the Independent Adviser determines is reasonable to use in order 
+to eliminate, to the extent possible, any transfer of economic value from one party to another
+
+--- Page 25 ---
+25(51) 
+ 
+as a result of a replacement of the Base Rate and is customarily applied in comparable debt 
+capital market transactions. 
+”Base Rate Administrator” means Swedish Financial Benchmark Facility AB (SFBF) in relation to 
+STIBOR, European Money Markets Institute (EMMI) in relation to EURIBOR, or any person 
+replacing it as administrator of the Base Rate. 
+”Base Rate Event Announcement” means a public statement or published information as set out in 
+paragraph 7.2 (b) to 7.2 (e) that any event or circumstance specified therein will occur. 
+”Independent Adviser” means an independent financial institution or adviser of repute in the debt 
+capital markets where the Base Rate is commonly used. 
+”Relevant Nominating Body” means, subject to applicable law, firstly any relevant supervisory 
+authority, secondly any applicable central bank, or any working group or committee of any of them, 
+or thirdly the Financial Stability Council (Finansiella stabilitetsrådet) or any part thereof. 
+”Successor Base Rate” means: 
+(a) 
+a screen or benchmark rate, including the methodology for calculating term structure and 
+calculation methods in respect of debt instruments with similar interest rate terms as MTN, 
+which is formally recommended as a successor to or replacement of the Base Rate by a 
+Relevant Nominating Body; or 
+(b) 
+if there is no such rate as described in paragraph (i), such other rate as the Company in 
+consultation with the Administrative Dealer or the Independent Adviser determines is most 
+comparable to the Base Rate. 
+For the avoidance of doubt, in the event that a Successor Base Rate ceases to exist, this definition 
+shall apply mutatis mutandis to such new Successor Base Rate. 
+8. 
+DEFAULT INTEREST 
+8.1 
+Where there is a delay in payment of the due amount, default interest is payable on the due amount 
+from the due date up to and including the date when payment is made, at a rate corresponding to the 
+average rate of one week STIBOR for MTNs issued in Swedish krona or one week EURIBOR for 
+MTNs issued in euro during the period of the delay with the addition of two (2) percentage points. 
+Under such circumstances, STIBOR and EURIBOR shall be determined on the first Business Day of 
+each calendar week for the duration of the delay. Default interest in accordance with this Section 8.1 
+for Loans on which interest accrues shall, however, never be payable at a lower rate than the rate 
+applicable to the relevant Loan on the due date, with the addition of two (2) percentage points. Default 
+interest may not be capitalised.  
+8.2 
+If the delay is due to an obstacle experienced by the Dealers or Euroclear Sweden, default interest is 
+payable at a rate corresponding to (i) for Loans accruing interest, the interest rate applying to the 
+relevant Loan on the due date in question, or (ii) for Zero Coupon Loans, the average of one week 
+STIBOR or one week EURIBOR, respectively, for the duration of the delay (whereby STIBOR and 
+EURIBOR, respectively, are obtained on the first Business Day of each calendar week for the duration 
+of the delay).  
+9. 
+REDEMPTION AND PURCHASE 
+9.1 
+The Loans shall be redeemed on the Maturity Date at an amount per MTN specified in the Final 
+Terms, together with accrued interest (if any). If the Maturity Date is on a day which is not a Business 
+Day, the Loan will be repaid on the next following Business Day.  
+9.2 
+The Company may repurchase MTNs at any time, provided that this is permitted under applicable 
+law. MTNs owned by the Company may be retained, sold or cancelled at the Company’s discretion.
+
+--- Page 26 ---
+26(51) 
+ 
+10. 
+CHANGE OF CONTROL – PUT OPTION 
+10.1 
+Each Holder is entitled to demand the repurchase of all, or some, of its MTNs, if: 
+(a) 
+any person (other than Mr. Melker Schörling, his spouse, child, brother or sister, or any entity 
+directly or indirectly controlled by any or all of them), alone or together with any other person 
+or persons who are acting in concert with that person acquires shares representing more than 
+fifty (50) per cent. of the total number of shares and/or more than fifty (50) per cent. of the 
+voting rights in the Company; or 
+(b) 
+the shares of the Company are delisted from the Regulated Market of Nasdaq Stockholm. 
+10.2 
+As soon as the Company becomes aware of a circumstance referred to in paragraph (a) or paragraph 
+(b) of Section 10.1, the Company is obliged to notify the Holders of such event by way of a press 
+release, information on the Company’s website and as set out in Section 16 (Notices). The notice is 
+to include instructions as to the actions a Holder who wishes to have its MTNs repurchased shall take 
+and is to specify the Repurchase Date. 
+10.3 
+The Repurchase Date is to be set at the earliest twenty (20) and, at the latest, forty (40) Business Days 
+after the notice is sent to the Holders pursuant to Section (a), although if the Repurchase Date is not a 
+Business Day, the next following Business Day shall be the Repurchase Date. 
+10.4 
+If a right to repurchase is applicable, the Company shall, if so requested by a Holder, repurchase 
+relevant MTNs on the Repurchase Date at the price per MTN which would have been repaid on the 
+final Maturity Date, together with accrued interest (if any). For MTN with Zero Coupon, an amount 
+per MTN calculated in accordance with Section 12.4 instead. 
+10.5 
+A request by a Holder for the repurchase of an MTN is to be delivered to the Company no later than 
+ten (10) Business Days prior to the Repurchase Date. 
+11. 
+GENERAL UNDERTAKINGS 
+For as long as any MTN is outstanding, the Company undertakes the following. 
+11.1 
+Status of the Loans 
+The Company shall ensure that its payment obligations under the Loans shall rank at least pari passu 
+with the Company’s other unsubordinated and unsecured payment obligations, except for those 
+obligations which are mandatorily preferred by law. 
+11.2 
+The Company’s business and fixed assets 
+The Company shall (i) ensure that no material change is made to the nature of the Group’s business, 
+and (ii) not divest or otherwise dispose of any fixed asset if such divestment or disposal would 
+materially adversely affect the Company’s ability to fulfil its payment obligations to the Holders. 
+11.3 
+Security for other Market Loans 
+The Company shall: 
+(a) 
+not itself provide security or permit another party to provide security – either in the form of 
+a guarantee or similar undertaking – for other Market Loans which have been issued or may 
+be issued by the Company;  
+(b) 
+not itself provide security for other Market Loans, which have been issued or which may be 
+issued by another party than the Company, other than in the form of guarantees which, in 
+turn, may not be secured; and
+
+--- Page 27 ---
+27(51) 
+ 
+(c) 
+ensure that Group Companies (other than the Company), if issuing Market Loans, complies 
+with the provisions in (a) and (b) above, whereby the same is to apply to the Group 
+Companies as applies to the Company (taking into account that the Group Companies are 
+permitted to accept such guarantees as the Company is permitted to provide pursuant to the 
+provisions in (b) above). 
+11.4 
+Admission to trading on a Regulated Market 
+In respect of Loans which, according to the Final Terms, shall be admitted to trading on a Regulated 
+Market, the Company undertakes to apply for this at Nasdaq Stockholm AB or another Regulated 
+Market, and to take the measures necessary to maintain the listing for as long as the relevant Loan is 
+outstanding, although no longer than is possible under applicable regulations.  
+11.5 
+Availability of Conditions 
+The Company undertakes to keep the latest version of these General Terms and Conditions and the 
+Final Terms for all outstanding Loans admitted to trading on a Regulated Market available on the 
+Company’s website.  
+12. 
+EVENTS OF DEFAULT 
+12.1 
+The Administrative Dealer shall, (i) if requested in writing by a Holder who, at the time of the request, 
+represents at least one tenth of the Adjusted Loan Amount under the relevant Loan (such requests can 
+only be made by Holders listed in the Debt Register maintained by Euroclear Sweden on the Business 
+Day immediately preceding the day on which the request was received by the Administrative Dealer 
+and shall, if made by multiple Holders each representing less than one tenth of the Adjusted Loan 
+Amount under the relevant Loan, be made jointly), or (ii) if decided by the Holders under a Loan at a 
+Holders’ Meeting, declare, in writing, the relevant Loan, together with interest (if any), due for 
+payment immediately or at the time determined by the Administrative Dealer or the Holder Meeting 
+(as applicable), if: 
+(a) 
+The Company fails to pay principal amounts or interest due for a Loan under this MTN 
+Programme on its due date, unless the delay: 
+(i) 
+is the result of a technical or administrative error; and  
+(ii) 
+is remedied within three (3) Business Days;  
+(b) 
+the Company, other than as stated in (a) above, does not fulfil its obligations under the 
+Conditions with regard to the relevant Loan, on the condition that, if the breach is capable of 
+being remedied, the Company has been requested by the Administrative Dealer in writing to 
+remedy the failure and no such remedy has occurred within fifteen (15) Business Days: 
+(c) 
+ 
+(i) 
+a Material Group Company does not fulfil its payment obligations under any other 
+loan on its due date or within any applicable grace period, and the relevant loan has 
+been accelerated as a result thereof, or could have been accelerated (or, if there is 
+no provision regarding acceleration or if the defaulted payment should have been 
+the final payment, the delay has continued for ten (10) Business Days); or 
+(ii) 
+a Material Group Company does not, within ten (10) Business Days of the date on 
+which the Material Group Company receives a rightful claim, fulfil its guarantee 
+liability for the payment obligations of another party, 
+provided that the outstanding debt under the relevant loan(s) or guarantee claim(s) referred 
+to under Section (c)(i)-(ii), amounts to at least of SEK 100,000,000 or the equivalent value 
+in a different currency;
+
+--- Page 28 ---
+28(51) 
+ 
+(d) 
+assets owned by a Material Group Company and which have a value in excess of 
+SEK 100,000,000 are subject to expropriation, attachment, sequestration, distress or 
+execution, or any analogous process in any applicable jurisdiction and is not discharged 
+within thirty (30) Business days from the date of the order notice or the decision to impose 
+a similar arrangement abroad; 
+(e) 
+a Material Group Company suspends its payments; 
+(f) 
+a Material Group Company applies for, or permits application for, company reconstruction, 
+or similar arrangement; 
+(g) 
+a Material Group Company is declared bankrupt; 
+(h) 
+it is resolved that the Company shall go into liquidation or be dissolved, or that a Material 
+Group Company shall be put into compulsory liquidation; or 
+(i) 
+the Company’s board prepares a merger plan under which the Company is the transferring 
+company. 
+The concepts of “loan” and “obligation” in Section (c) above also cover overdrafts and sums which 
+have not been obtained as a loan but which shall be paid on the basis of a debt instrument which is 
+clearly intended for trade.  
+12.2 
+The Administrative Dealer may not declare the relevant Loan, together with interest (if any), due and 
+payable according to Section 12.1, by reference to an event of default, if it has been established at a 
+Holders’ Meeting to waive such event of default (temporarily or permanently). 
+12.3 
+The Company shall immediately notify the Dealers and Holders pursuant to Section 16 (Notices) in 
+case a default as described in Section 12.1 has occurred. In the absence of such a notification, neither 
+the Administrative Dealer nor the Dealers shall be regarded as being aware of the default, regardless 
+of their actual knowledge thereof. Neither the Administrative Dealer nor the Dealers are required to 
+monitor whether a default as described in Section 12.1 has occurred. 
+12.4 
+With regard to the repayment of a Loan upon acceleration pursuant to Section 12.1: 
+(a) 
+interest bearing Loans shall be repaid at the amount per MTN which would have been repaid 
+on the final Maturity Date, together with accrued interest until and including the date of 
+repayment; and 
+(b) 
+non-interest-bearing Loans shall be redeemed at an amount per MTN determined by the 
+following formula as per the date of acceleration of the Loan: 
+Nominal Amount 
+(1 + r)t 
+r = 
+the ask rate quoted by the Administrative Agent for Swedish government bonds 
+with an outstanding term to maturity corresponding to the remaining term of the 
+relevant Loan. In the absence of such ask rate, the bid rate shall be used instead, 
+as reduced by a market bid/ask spread, expressed in percentage points. The 
+calculation shall be based on the closing quotation. 
+t = 
+the remaining term for the relevant Loan, expressed in the Day Count Convention 
+Actual/360 for MTN denominated in SEK or EUR. 
+13. 
+HOLDERS’ MEETING 
+13.1 
+The Administrative Dealer may and shall, if requested by the Company or a Holder who, at the time 
+of the request, represents a minimum of one tenth of the Adjusted Loan Amount under a specific Loan 
+(such requests can only be made by Holders listed in the Debt Register for MTNs maintained by
+
+--- Page 29 ---
+29(51) 
+ 
+Euroclear Sweden on the Business Day immediately preceding the day on which the request was 
+received by the Administrative Dealer and shall, if made by multiple Holders each representing less 
+than one tenth of the Adjusted Loan Amount, be made jointly), convene a Holders’ Meeting for the 
+Holders under the relevant Loan. 
+13.2 
+The Administrative Dealer shall convene a Holders’ Meeting by notifying each Holder and the 
+Company of this within five (5) Business Days of receiving the request from the Company or Holder 
+pursuant to Section 13.1 (or a later day if necessitated by technical or administrative reasons). The 
+Administrative Dealer shall immediately inform the Relevant Dealer, in writing, of the 
+aforementioned notification.  
+13.3 
+The Administrative Dealer may refrain from convening a Holders’ Meeting if (i) the proposed 
+resolution must be approved by any person in addition to the Holders and such person has informed 
+the Administrative Dealer that an approval will not be given, or (ii) the proposed resolution is not in 
+accordance with applicable law. 
+13.4 
+The notice of the meeting pursuant to Section 13.2 shall include (i) the time of the meeting, (ii) the 
+location of the meeting, (iii) the agenda for the meeting (including all requests for a decision from the 
+Holders), and (iv) a power of attorney form. Only matters included in the notice may be decided on 
+at the Holder Meeting. If it is a requirement that Holders communicate their intention to attend the 
+Holder Meeting, this requirement shall be stated in the notice. 
+13.5 
+The Holder Meeting must not be held earlier than fifteen (15) Business Days and not later than thirty 
+(30) Business Days after the notice was provided. Holders’ Meetings for multiple loans under the 
+MTN Programme can be held on the same occasion. 
+13.6 
+Insofar as it does not entail a deviation from these General Terms and Conditions, the Administrative 
+Dealer may impose additional provisions regarding the notice of and holding of the Holders’ Meeting, 
+as it finds necessary. Such provisions may refer to, for example, the option for Holders to vote without 
+personally attending the meeting, that voting can take place electronically or in writing. 
+13.7 
+Only persons who are, or have been granted power of attorney pursuant to Section 4 (Right to act on 
+behalf of Holders) by a person who is a Holder on the Record Day for the Holders’ Meeting are 
+entitled to exercise their voting rights at such Holders’ Meeting, on condition that the relevant MTNs 
+are included in the Adjusted Loan Amount. The Administrative Dealer is to ensure that a printed copy 
+of the Debt Register as at the Record Day for the Holder Meeting, is available at the meeting. 
+13.8 
+Holders and the Administrative Dealer and the Relevant Dealer, as well as their respective 
+representatives and assistants, are entitled to attend Holders’ Meetings. It can be resolved at the 
+Holders’ Meeting that additional persons may attend. Representatives must produce an authorised 
+power of attorney which is to be approved by the chairman of the Holders’ Meeting. Holders’ 
+Meetings shall begin with the appointment of a chairman, secretary and persons to verify the minutes. 
+The chairman shall prepare a list of Holders with voting rights in attendance, including information 
+on the proportion of the Adjusted Loan Amount represented by each Holder (“Voting List”). The 
+Voting List shall be approved by the Holders’ Meeting. Holders voting via an electronic voting 
+procedure, voting slip or equivalent, shall, in the application of these provisions, be regarded as 
+attending the Holders’ Meeting. Only those who, on the fifth Business Day prior to the Holders’ 
+Meeting, were registered as Holders, or as representatives for such Holders and who are included in 
+the Adjusted Loan Amount, are entitled to vote and are to be included on the Voting List. The 
+Company shall be granted access to relevant voting calculations and the basis for these. The minutes 
+of the meeting shall be completed as soon as possible and shall be made available to Holders, the 
+Company and the Administrative Dealer. 
+13.9 
+Resolutions on the following matters require the approval of Holders representing at least eighty (80) 
+per cent of the Adjusted Loan Amount for which the Holders are voting under the relevant Loan at 
+the Holders’ Meeting:
+
+--- Page 30 ---
+30(51) 
+ 
+(a) 
+amendment of the Maturity Date, reduction of Loan Amounts, amendment of terms related 
+to interest or amounts to be repaid (other than as stated in the Conditions, including what 
+follows from the application of Section 7 (Replacement of Base Rate)) and amendment of 
+the established Currency for the Loan; 
+(b) 
+amendment of the terms for Holders’ Meetings pursuant to this Section 13;  
+(c) 
+change of issuer; and 
+(d) 
+mandatory exchange of MTNs for other securities. 
+13.10 
+Matters not covered by Section 13.9 require the approval of Holders representing more than fifty (50) 
+per cent of the Adjusted Loan Amount for which the Holders are voting under the relevant Loan at 
+the Holders’ Meeting. This includes, but is not limited to, amendments to and waivers of rights in 
+relation to the Conditions which do not require a higher majority (other than amendments pursuant to 
+Section 14 (Amendments to Terms, etc.) and Section 7 (Replacement of Base Rate)) and acceleration 
+of Loans. 
+13.11 
+A Holders’ Meeting is quorate if Holders representing at least fifty (50) per cent of the Adjusted Loan 
+Amount under the relevant Loan, for matters included in Section 13.9 and, for other matters, twenty 
+(20) per cent of the Adjusted Loan Amount under the relevant Loan, attend the meeting in person or 
+via telephone (or appear through duly authorised representatives). 
+13.12 
+If the Holders’ Meeting is not quorate, the Administrative Dealer shall convene a new Holders’ 
+Meeting (pursuant to Section 13.2), on condition that the relevant proposal has not been withdrawn 
+by the party/parties initiating the Holders’ Meeting. The requirement for a quorum in Section 13.11 
+shall not apply to such a new Holders’ Meeting. If the Holders’ Meeting is quorate for certain matters 
+but not others on the agenda at the Holders’ Meeting, resolutions shall be made on the matters for 
+which the meeting is quorate and other matters shall be referred to the new Holders’ Meeting. 
+13.13 
+A resolution at a Holders’ Meeting that extends the obligations or restricts the rights of the Company 
+or the Relevant Dealers under the Conditions also requires the approval of the affected party. 
+13.14 
+A Holder holding more than one MTN need not use all its votes or cast all the votes to which it is 
+entitled in the same way and may in its discretion use or cast some of its votes only. 
+13.15 
+The Company may not, directly or indirectly, provide payment or contribute to the provision of 
+compensation to a Holder for giving their consent according to the Conditions, unless the same 
+compensation is offered to all Holders giving consent at the relevant Holders’ Meeting. 
+13.16 
+A resolution passed at a Holders’ Meeting is binding for all Holders under the relevant Loan, 
+regardless of whether they attended the Holders’ Meeting or not. Holders who did not vote for a 
+resolution shall not be held liable for any damages caused by the resolution to other Holders.  
+13.17 
+At the request of the Administrative Dealer, the Company shall, without delay, provide the 
+Administrative Dealer with a certificate specifying the total amount of all MTNs owned by Group 
+Companies on the Business Day specified in Section 13.1, and the relevant Record Day prior to a 
+Holders’ Meeting, regardless of whether such Group Company is directly registered as the owner of 
+MTNs. The Administrative Dealer shall accept no responsibility for the content of such a certificate 
+or in any other way accept responsibility for establishing whether an MTN is owned by a Group 
+Company. 
+13.18 
+Information regarding resolutions passed at a Holders’ Meeting shall be communicated to the Holders 
+under the relevant Loan without undue delay, by means of a press release, a statement on the 
+Company’s website and pursuant to Section 16 (Notices). The Administrative Dealer shall, if 
+requested by the Holders and/or Relevant Dealer, provide a copy of the minutes of the relevant 
+Holders’ Meeting. Failure to communicate with the Holders in the manner specified above shall not 
+affect the validity of the resolution.
+
+--- Page 31 ---
+31(51) 
+ 
+14. 
+AMENDMENT OF TERMS, ETC.  
+14.1 
+The Company and the Dealers may agree on the rectification of clear and obvious errors in these 
+General Terms and Conditions. 
+14.2 
+The Company and the Administrative Dealer may agree on the rectification of clear and obvious errors 
+in the Final Terms for a specific Loan. 
+14.3 
+The Company and the Administrative Dealer or the Independent Adviser may, without the approval 
+of the Holders, agree on and execute amendments to these General Terms and Conditions in 
+accordance with what is described in Section 7 (Replacement of Base Rate) and such amendments 
+will be binding on those covered by the Conditions.  
+14.4 
+Amendments or waivers of the Conditions in other cases than as set out in Sections 14.1 to 14.3 
+require a resolution to be passed at a Holders’ Meeting as stated in Section 13 (Holders’ Meeting).  
+14.5 
+Approval at a Holders’ Meeting to amend or waive any Condition can apply only to the substance of 
+the amendment and does not require the approval of the specific form of the amendment.  
+14.6 
+A decision to amend the terms of any Condition shall also include a decision regarding the effective 
+date of the amendment. However, a resolution cannot become effective before being registered with 
+Euroclear Sweden (where applicable) and published pursuant to Section 11.5.  
+14.7 
+Amendments or waivers in the Conditions pursuant to this Section 14 shall be communicated by the 
+Company to the Holders, without undue delay, pursuant to Section 16 (Notices) and published 
+pursuant to Section 11.5.  
+14.8 
+The Company and the Dealers may agree to increase or decrease the programme amount of the MTN 
+Programme. 
+15. 
+TIME BARRING OF CLAIMS   
+15.1 
+A claim to the principal amount becomes void ten years after the Maturity Date. A claim to interest 
+payments becomes void three years after the respective Interest Payment Date. If a claim becomes 
+void, the funds reserved for the payment of the claim accrue to the Company.  
+15.2 
+If a limitation period is duly interrupted then a new limitation period commences of ten years as 
+regards the principal amount and three years as regards interest amounts, in both cases counted from 
+the day specified in provisions in the Act of Limitations (1981:130) concerning the effect of 
+interruption of limitation periods. 
+16. 
+NOTICES 
+16.1 
+Notices shall be submitted to Holders for the Loan in question at the address registered with Euroclear 
+Sweden on the Record Day prior to dispatch. A notice to the Holders shall also be publicised by means 
+of a press release and be published on the Company’s website.  
+16.2 
+Notices shall be delivered to the Company and the Dealers at the addresses registered with the 
+Swedish Companies Registration Office on the Record Day prior to dispatch.  
+16.3 
+A notice to the Company or Holders under the Conditions sent by post to the registered address is to 
+be regarded as delivered to the recipient on the third Business Day after dispatch and notices sent via 
+courier is to be regarded as delivered to the recipient upon delivery at the registered address.  
+16.4 
+In the event that a notice is not delivered in the correct manner to certain Holders, this shall not affect 
+the validity of the notices to other Holders.
+
+--- Page 32 ---
+32(51) 
+ 
+17. 
+FORCE MAJURE AND LIMITATION OF LIABILITY 
+17.1 
+As regards duties of the Dealers, those are not to be held responsible for any loss or damage resulting 
+from a Swedish or foreign legal enactment, intervention of a Swedish or foreign public authority, act 
+of war, strike, blockade, boycott, lockout, or any other similar circumstance. The reservation in respect 
+of strikes, blockades, boycotts and lockouts applies even if the Dealer concerned is subjected to such 
+measures or takes such measures itself.  
+17.2 
+Any loss or damage that may occur under other circumstances shall not be indemnified by a Dealer, 
+provided that the Dealer concerned has observed normal care. In no case will indirect damages be 
+indemnified.  
+17.3 
+Where a Dealer is prevented from taking action as a consequence of such events as are set forth in 
+Section 17.1, the action shall be postponed until the cause of the delay ceases.  
+17.4 
+The above shall apply unless otherwise prescribed in the Swedish Central Securities Depositories and 
+Financial Instruments Accounts Act (1998:1479). 
+18. 
+GOVERNING LAW AND JURISDICTION  
+18.1 
+Swedish law is applicable to the Conditions and all non-contractual obligations arising in connection 
+with the application of the Conditions.  
+18.2 
+Disputes shall be settled by a Swedish court. Stockholm District Court shall be the court of first 
+instance. 
+ 
+ 
+We hereby confirm that we are bound by the above General Terms and Conditions. 
+Malmö, 31 May 2022 
+AAK AB (publ)
+
+--- Page 33 ---
+33(51) 
+ 
+FORM OF FINAL TERMS 
+The following form is used for the Final Terms for each Loan issued under the MTN Programme. 
+FORM OF FINAL TERMS 
+for loan no. [•] 
+under AAK AB (publ) (the “Company”) 
+Swedish MTN Programme 
+The General Terms and Conditions of the above-mentioned MTN Programme, as well as the Final Terms specified 
+below, shall apply to the Loan. Unless otherwise stated, definitions used in these Final Terms are set forth in the 
+Terms and Conditions or otherwise in the Company’s Base Prospectus, approved and registered with the Swedish 
+Financial Supervisory Authority on [●], including any published supplemental prospectus prepared for the MTN 
+Programme from time to time in accordance with Regulation (EU) 2017/1129 of the European Parliament and of 
+the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted 
+to trading on a regulated market, and repealing Directive 2003/71/EC, referred to as the “Prospectus Regulation” 
+(“Base Prospectus”).for the MTN Programme. This document constitutes the Final Terms for the Loan and has 
+been prepared in accordance with Article 8 of the Prospectus Regulation. Complete information regarding the 
+Company and the Loan may only be obtained through a reading of the Final Terms together with the Base 
+Prospectus (as supplemented). 
+The Base Prospectus and the supplementary prospectus(es) are available on the Company’s website at 
+www.aak.com.  
+[These Final Terms replace the Final Terms dated [date], in conjunction with the Loan Amount being raised by 
+[SEK/EUR] [amount in figures] from [SEK/EUR] [amount in figures] to [SEK/EUR] [amount in figures].] 
+GENERAL 
+1.  
+Loan Number: 
+[•] 
+ 
+(i)  
+Tranche name: 
+[•] 
+2. 
+Loan Amount: 
+ 
+ 
+(i)  
+for the Loan: 
+[•] 
+ 
+(ii)  for tranche [•]: 
+[(iii)    for tranche [•]: (state previous 
+tranches): 
+[•] 
+[•]] 
+3. 
+Price per MTN: 
+[•] % of the Nominal Amount [plus accrued interest 
+starting from [insert date] if appropriate] 
+4. 
+Currency: 
+[SEK]/[EUR] 
+5. 
+Nominal Amount: 
+[SEK]/[EUR] [•] (Minimum EUR 100,000 or the 
+countervalue thereof in SEK.) 
+6. 
+Loan Date: 
+[•] 
+7. 
+Interest Commencement Date: 
+[Loan Date]/[•] 
+8. 
+Settlement Date: 
+[Loan Date]/[•] 
+9. 
+Repayment Date: 
+[•] 
+10. 
+Basis for calculation of interest: 
+[Fixed Interest Rate] 
+[Floating Rate Notes (FRN)] 
+[Zero Coupon] 
+11. 
+Amount as basis for calculation of 
+interest:  
+[Nominal Amount]/[•]
+
+--- Page 34 ---
+34(51) 
+ 
+BASIS FOR CALCULATIONS OF RETURN 
+12. 
+Fixed Interest Rate: 
+[Applicable]/[Not applicable] 
+(If not applicable, delete the remaining sub-headings of 
+this section)  
+ 
+(i)  
+Interest Rate: 
+[•] %  annual interest rate calculated on [Nominal 
+Amount]/[•]. 
+ 
+(ii)  Interest Period: 
+The period commencing [•] up to and including [•] (the 
+first Interest Period) and thereafter each period of time of 
+[•] months ending on an Interest Payment Date 
+ 
+(iii)  Interest Payment Date(s): 
+[Annually]/[Semi-annually]/[Quarterly] on [•], the first 
+time on [•] and the last time on [•] 
+(The above is changed in the event of a shortened or 
+extended Interest Period) 
+ 
+(iv)  Day Count Convention: 
+[30/360]/[Specify] 
+ 
+(v)  Risk Factors: 
+In accordance with the risk factor headed “Risks relating 
+to interest rate constructions” in the Base Prospectus. 
+13. 
+Floating Interest Rate (FRN): 
+[Applicable]/[Not applicable] 
+(If not applicable, delete the remaining sub-headings of 
+this section) 
+ 
+(i)  
+Base Interest: 
+[•]-month [STIBOR]/[EURIBOR] 
+[The first coupon’s Base Interest shall be linearly 
+interpolated between [•]-month [STIBOR]/[EURIBOR] 
+and [•]-month [STIBOR]/[EURIBOR].] 
+ 
+(ii)  Base Interest Margin: 
+[+/-][•] % annual interest rate calculated on [Nominal 
+Amount]/[•]. 
+ 
+(iii)  Interest Quotation Date: 
+[Two] Business Days prior to each Interest Period, the first 
+occasion being [•] 
+ 
+(iv)  Interest Period: 
+The period commencing [•] up to and including [•] (the 
+first Interest Period) and thereafter each period of time of 
+approx. [•] months ending on an Interest Payment Date.  
+ 
+(v)  Interest Payments Date(s): 
+The last day of each Interest Period, [on [•], on [•], on [•] 
+and on [•],] the first time on [•] and the last time on [•]/[the 
+Repayment Date]. 
+ 
+(vi)  Day Count Convention: 
+[Actual/360]/[Specify] 
+14. 
+Zero Coupon: 
+[Applicable]/[Not applicable] 
+(If not applicable, delete the remaining sub-headings of 
+this section) 
+ 
+(i)  
+Terms for Loans without 
+interest: 
+[Specify details] 
+ 
+(ii)  Risk Factors: 
+In accordance with the risk factor headed “Risks relating 
+to interest rate constructions” in the Base Prospectus 
+REPAYMENT 
+15. 
+Amount of MTN to be repaid on the 
+Repayment Date: 
+[•] % of [Nominal Amount]/[•]
+
+--- Page 35 ---
+35(51) 
+ 
+OTHER 
+16. 
+Admittance to trading on a 
+Regulated Market: 
+[Applicable/Not applicable] 
+(If not applicable, delete the remaining sub-headings of 
+this section) 
+ 
+(i)  Regulated Market: 
+[Nasdaq Stockholm]/[Specify other Regulated Market] 
+ 
+(ii)  Estimate of total costs in 
+connection with admission to 
+trading: 
+[•] 
+ 
+(iii)  Total number of securities 
+admitted to trading: 
+[•] 
+ 
+(iv) Earliest date for admission to 
+trading: 
+[•] 
+17. 
+Interests: 
+[Specify]/[Not applicable]  
+(Interests and any possible conflicts of interest must be 
+described for persons involved in the issue who are of 
+importance regarding the Loan) 
+18. 
+Credit Rating for Loan: 
+[Specify]/[Not applicable] 
+19. 
+Resolution approving the issue:  
+[In accordance with the Base Prospectus]/[Resolution 
+regarding this Loan was taken on [insert date]/Specify] 
+20. 
+Information from third parties: 
+[Information in these Final Terms sourced from a third 
+party has been accurately reproduced and, as far as the 
+Company is aware and is able to ascertain from 
+comparison with other information published by that third 
+party, no facts have been omitted which would render the 
+reproduced information inaccurate or misleading]/[Not 
+applicable] 
+21. 
+Relevant Dealer(s): 
+ 
+ 
+(i)  
+for tranche [•]: 
+[(ii)    for tranche [•]: (state previous 
+tranches)] 
+[Svenska Handelsbanken AB (publ)]/[Nykredit Bank 
+A/S]/[Danske Bank A/S Danmark, Sverige 
+filial]/[Skandinaviska Enskilda Banken AB 
+(publ)]/[[Specify]] 
+[Svenska Handelsbanken AB (publ)]/[Nykredit Bank 
+A/S]/[Danske Bank A/S Danmark, Sverige 
+filial]/[Skandinaviska Enskilda Banken AB 
+(publ)]/[[Specify]] 
+22. 
+Administrative Dealer: 
+[Svenska Handelsbanken AB (publ)]/[Nykredit Bank 
+A/S]/[Danske Bank A/S Danmark, Sverige filial]/ 
+[Skandinaviska Enskilda Banken AB (publ)]/[[Specify]] 
+23. 
+ISIN: 
+SE[•] 
+24. 
+Use of proceeds: 
+[General financing of the Company’s and the Group’s 
+business activities] / [Specify] 
+25. 
+The estimated net amount of the 
+proceeds: 
+[EUR]/[SEK] less customary transaction costs and fees.
+
+--- Page 36 ---
+36(51) 
+ 
+The Company confirms that the above supplementary terms and conditions apply to the Loan, together with the 
+General Terms and Conditions, and accordingly undertakes to pay principal and (if applicable) interest. The 
+Company also confirms that all significant events after the date of this MTN Programme’s applicable Base 
+Prospectus which could affect the market’s perception of the Company have been published. 
+ 
+[Place, date] 
+AAK AB (publ)
+
+--- Page 37 ---
+37(51) 
+ 
+BUSINESS DESCRIPTION AND STRUCTURE 
+The business of the Group 
+Main operations  
+The Group’s core business is to provide plant-based oils that are the value-adding ingredients in the food, 
+confectionary, cosmetic and technical industries. The Group has more than 20 production facilities and 
+customisation plants and sales offices in more than 25 countries, 15 customer innovation centres and in total 
+approximately 4,000 employees. The Group’s business is divided into three business areas: Food Ingredients, 
+Chocolate & Confectionery Fats and Technical Products & Feed. 
+Food Ingredients 
+The business area Food Ingredients, which is the Group’s largest business area, primarily offers solutions to the 
+bakery, dairy, plant-based, nutrition and foodservice industries. For the bakery industry, AAK supplies specialty 
+oils and fats for major bakery applications. The Group’s solutions come in the form of shortenings, laminating 
+fats, frying oils, margarines, flaked shortenings, hardstocks, melanges, and many other products. For the dairy and 
+ice cream industry, AAK customises solutions for segments like ice cream, cheese, whipped toppings, yellow fats, 
+fermented milk products, milk drink & powder and coffee whitener. AAK Foodservice produces over 500 different 
+frying oils, speciality oils, condiments, sauces, dressings, and ingredients for foodservice operators and retailers. 
+For the special nutrition industry, AAK provides dietary products, beneficial oils and fat supplements that 
+constitute unique solutions for infant, medical and senior nutrition. In the plant-based foods segment, the Group 
+offers solutions for all major sub-segments, such as plant-based burgers, sausages, frozen desserts and ice cream, 
+and a wide range of cheeses, milk drinks and whipped toppings. In 2021, the operating profit of the business area 
+Food Ingredients totalled 54 per cent. of the operating profit of the Group. 
+Chocolate & Confectionery Fats 
+The Group’s second largest business area is Chocolate & Confectionery Fats, which supplies special vegetable 
+fats used as cocoa butter alternatives for chocolate products, and speciality fats for confectionery fillings. AAK 
+has a wide product portfolio based on customer requirements. The business area also includes personal care and 
+natural emulsifiers. Many of AAK’s new product launches are developed and customised in close collaboration 
+with the Group’s customers. AAK’s solutions for the chocolate and confectionery industry cover a wide range of 
+product applications, including chocolate fats and compound fats for coating and molding, filling fats, barrier fats 
+and spreads. In the area of personal care, the Group provides plant-derived emollient, primarily used for skin care 
+applications, including face care, body care, baby care, and sun care, as well as diaper coatings. The Group’s 
+business for natural emulsifiers serves customers with solutions based on lecithin from soy, sunflower, and 
+rapeseed origin, in both liquid and powder form. In 2021, the operating profit of the business area Chocolate & 
+Confectionary Fats totalled 38 per cent. of the operating profit of the Group. 
+Technical Products & Feed 
+The Technical Products & Feed business area offers fatty acids and glycerine for various applications, vegetable 
+candle waxes, and proteins and fats for animal feed. Fatty acids and glycerine are produced by splitting the fat 
+molecule and refining the outcome into high-purity products. Fatty acids are basic oleochemicals which are used 
+as raw materials for production of a wide range of products such as detergents, surfactants, paper chemicals, plastic 
+and rubber additives. They are also used directly in tire manufacturing and candle production. Glycerine is used 
+in a diversity of products, for example anti-freeze agents and surface coatings. In the feed segment, AAK supplies 
+ExPro®, a rapeseed meal, which is exposed to a special heat treatment process to improve the protein quality for 
+ruminants. The Group also supplies by-pass fats, which are used in dairy cattle feeds to increase milk yield, as 
+well as simple liquid fats. In 2021, the operating profit of the business area Technical Products & Feed totalled 8 
+per cent. of the operating profit of the Group. 
+Share information 
+Pursuant to the Company’s Articles of Association, its share capital shall be no less than SEK 300,000,000 and no 
+more than SEK 1,200,000,000, with its number of shares being no less than 180,000,000 and no more than 
+720,000,000. As at the date of this Base Prospectus, the Company’s registered share capital was SEK 430,917,510 
+and the registered number of shares was 258,550,506.
+
+--- Page 38 ---
+38(51) 
+ 
+The shares in the Company are listed on the regulated market of Nasdaq Stockholm. The below table sets out the 
+ten largest shareholders of the Company as at 30 March 2022. 
+The Company’s ten largest shareholders as at 30 March 2022 
+Name of shareholder 
+Percentage of votes and share capital 
+Melker Schörling AB 
+30.5 
+State Street Bank and Trust Co. 
+6.1 
+Alecta Pensionsförsäkringar 
+4.8 
+SEB Investment Management 
+4.2 
+JP Morgan Chase Bank 
+4.1 
+Didner & Gerge Fonder AB 
+3.9 
+BNY Mellon NA 
+2.2 
+Spiltan Fonder 
+2.0 
+Kirkibi Invset 
+1.9 
+Handelsbanken Fonder 
+1.8 
+Total, ten largest shareholders 
+61.5 
+The shares in the Company are listed on the Regulated Market of Nasdaq Stockholm, which means that the 
+Company must comply with provisions regarding independency of certain board members and the Swedish Code 
+of Corporate Governance, in order to ensure that any control of the Company is not abused. 
+There are shareholders’ agreements or other arrangements known to the Company, the operation of which may 
+result in a change in control of the Company. 
+Group structure 
+The Company is the parent company of the Group. The Company is a holding company and does not conduct any 
+direct business operations other than intra-group services which mainly consist of group functions connected to 
+the development and management of the Group. The Company is also responsible for the Group strategy and risk 
+management, and provides legal and tax-related services to companies within the Group. Consequently, the 
+Company is dependent on receipt of sufficient income related to the operations of the other entities within the 
+Group, which are legally separate and distinct from the Company. The ability of any operating company of the 
+Group to make payments to the Company is subject to, among other things, the availability of funds, corporate 
+restrictions, the terms of each company’s indebtedness and local law. 
+The below table sets out the Company’s directly owned subsidiaries as at 31 December 2021.  
+Name of subsidiary, registered office 
+Registration number 
+Shareholding and votes 
+AAK Denmark Holding A/S 
+45954919 
+100% 
+AAK Miyoshi JP 
+0118-01-031265 
+70% 
+AarhusKarlshamn Finance AB 
+556880-4339 
+100% 
+AarhusKarlshamn Holding AB 
+556759-7918 
+100% 
+AarhusKarlshamn Invest AB 
+556747-6931 
+100% 
+ 
+Through its ownership in AAK Denmark Holding A/S, AAK Miyoshi JP, AarhusKarlshamn Holding AB and 
+AarhusKarlshamn Invest AB, the Company owns a large number of indirect subsidiaries which are not set out 
+above (as of 31 December 2021, the Company has 75 indirect subsidiaries). Approximately 99.5 per cent. of the 
+Group’s revenues stem from operations carried out in AAK Denmark Holding A/S, AAK Miyoshi JP, 
+AarhusKarlshamn Holding AB and AarhusKarlshamn Invest AB and the subsidiaries of such companies.  
+The Company’s subsidiary AarhusKarlshamn Finance AB acts as the internal bank for the Group. The business of 
+AarhusKarlshamn Finance AB comprises, amongst other things, to manage the liquidity of the Group (e.g. by 
+being the top account holder in the Groups cash pool), to enter into currency hedging arrangements (raw material 
+hedging arrangements are entered into by the operating subsidiaries of the Company) and to borrow funds from 
+external lenders for the financing of the Group’s operations, which includes to provide intragroup loans to the 
+operating companies within the Group. AarhusKarlshamn Finance AB is thus the borrower in respect of a
+
+--- Page 39 ---
+39(51) 
+ 
+significant portion of the Group’s external debt. Generally, the Company provides guarantees for such external 
+debt. The subsidiaries of AarhusKarlshamn Finance AB only conduct treasury operations (they do not conduct any 
+other business operations).
+
+--- Page 40 ---
+40(51) 
+ 
+THE COMPANY 
+General corporate and Group information 
+The Company’s legal and commercial name is AAK AB (publ), its Swedish Reg. No. is 556669-2850 and its LEI 
+code is 549300GK4LGIDDWJWL07. The registered office is at Skrivaregatan 9, 215 32 Malmö, Sweden. The 
+Company is a public limited liability company (publikt aktiebolag) regulated by the Swedish Companies Act 
+(aktiebolagslagen (2005:551)). The Company was incorporated in Sweden on 15 June 2004 and was registered 
+with the Swedish Companies Registration Office (Bolagsverket) on 27 October 2004. The Company’s website is 
+www.aak.com. The information on the website does not form part of the Base Prospectus unless that information 
+is incorporated by reference into the Base Prospectus. 
+AAK’s history stretches back to the year 1871, when Aarhus Palmekærnefabrik was established to process kernels. 
+Pursuant to the Company’s Articles of Association, the object of the Company’s business shall be to, directly or 
+through subsidiaries, operate manufacturing and trading business, primarily within the food industry, and other 
+associated business.  
+Board of Directors 
+Pursuant to AAK’s Articles of Association, the Board of Directors shall consist of no less than three and no more 
+than ten members. Under Swedish law, employee organisations have a right to be represented on the Board of 
+Directors. The Board of Directors currently consists of five members elected by the Annual General Meeting held 
+in 2021 and two employee representatives (with two deputy employee representatives) appointed by the employee 
+organisations. 
+Georg Brunstam 
+Born 1957. Chairman of the Board of Directors since 2018. 
+Other on-going principal assignments: Board member of NIBE Industrier AB. 
+Gun Nilsson 
+Born 1955. Board member since 2017. 
+Other on-going principal assignments: Chairman of the Board of Directors of Hexagon AB. Board member of 
+Hexpol AB, Bonnier Group AB, Swedish Corporate Governance Board (Kollegiet för Svensk Bolagsstyrning) and 
+Absolent Group AB. CEO of Melker Schörling AB. 
+Marianne Kirkegaard 
+Born 1968. Board member since 2015. 
+Other on-going principal assignments: Board member of Dansk Supermarked. 
+Märta Schörling Andreen 
+Born 1984. Board member since 2013. 
+Other on-going principal assignments: Board member of Melker Schörling AB, Hexpol AB, Hexagon AB and 
+Absolent Group AB. 
+Patrik Andersson 
+Born 1963. Board member since 2019. 
+Other on-going principal assignments: Board member of Ecolean AB.  
+David Alfredsson 
+Born 1994. Board member, employee representative since 2022. 
+Other on-going principal assignments: Employed at AAK as Chief Safety Representative, IF Metall. 
+Lena Nilsson 
+Born 1960. Board member, employee representative since 2018. 
+Other on-going principal assignments: Employed at AAK as Marketing Coordinator.
+
+--- Page 41 ---
+41(51) 
+ 
+The Executive Committee 
+Johan Westman 
+Born 1973. President & CEO. Employed since 2018. 
+Qualifications: MSc. Industrial Engineering and Management. 
+Other on-going principal assignments: Board member of Absolent Group AB and Thule Group AB.  
+Tomas Bergendahl 
+Born 1974. CFO. Vice President AAK AB. Employed since 2021.  
+Qualifications: MSc: Business Administration. 
+Other on-going principal assignments: None.  
+Susanne Jaspers 
+Born 1973. President AAK Europe and Vice President AAK AB. Employed since 2022. 
+Qualifications: Diplom Betriebswirt (MBA), BSc International Business Administration.  
+Other on-going principal assignments: None. 
+David Smith  
+Born 1960. President Global Operations and Vice President AAK AB. Employed since 2001. 
+Qualifications: MBA, Graduate Diploma in Business Management. 
+Other on-going principal assignments: None. 
+Sten Estrup 
+Born 1968. President AAK Asia and Vice President AAK AB. Employed since 2020.  
+Qualifications: MBA, MSc. Dairy Science & Technology, Executive Master in Change, Diploma in HRM. 
+Other on-going principal assignments: None. 
+Octavio Diaz de Leon 
+Born 1967. President AAK USA and North Latin America and Vice President AAK AB. Employed since 2007. 
+Qualifications: MBA, BSc. Mechanical and Electrical Engineering.  
+Other on-going principal assignments: None. 
+Gerardo Garza Lopez de Heredia 
+Born 1961. President AAK South Latin America and Vice President AAK AB. Employed since 2014. 
+Qualifications: Graduate Diploma in Business Administration, Food Engineering.  
+Other on-going principal assignments: None. 
+Karsten Nielsen 
+Born 1963. CTO (Chief Technology Officer) and Vice President of AAK AB. Employed since 1988. 
+Qualifications: Graduate Diploma in Food Technology. 
+Other on-going principal assignments: None. 
+Anne Mette Olesen 
+Born 1964. Chief Strategy & Sustainability Officer, Head of People and Corporate and Vice President AAK AB. 
+Employed since 2010. 
+Qualifications: MBA, BSc. Chemical Engineering.  
+Other on-going principal assignments: Board member of Trelleborg AB (publ). 
+Tim Stephenson 
+Born 1961. President Global Sourcing & Trading and Vice President AAK AB. Employed since 1995. 
+Qualifications: MA (Oxon) in Mathematics, FCA 
+Other on-going principal assignments: None.
+
+--- Page 42 ---
+42(51) 
+ 
+René Schou 
+Born 1969. President Global Industries and Vice President of AAK AB. Employed since 2011.  
+Qualifications: MBA and Food Technologist 
+Other on-going principal assignments: None. 
+Additional information on the Board of Directors and the Executive 
+Committee 
+Business address 
+The business address for Johan Westman, Tomas Bergendahl, Susanne Jaspers, Anne-Mette Olesen and all 
+members of the Board of Directors is c/o AAK AB, Skrivaregatan 9, 215 32 Malmö, Sweden. 
+The business address for David Smith is Kreeftstraat 1 1544 CK Zaandijk, the Netherlands. 
+The business address for Sten Estrup, Karsten Nielsen, Tim Stephenson and René Schou is c/o AAK Denmark 
+A/S, Slipvej 4, 8000 Aarhus C, Denmark. 
+The business address for Octavio Diaz de Leon is 499 Thornall St. Edison, New Jersey 08837, USA. 
+The business address for Gerardo Garza Lopez de Hereida is c/o AAK do Brasil Indústria e Comércio de Óleos 
+Vegetais Ltda, Av. José Alves de Oliveira, 333, Distrito Industrial, Jundiaí, São Paulo, 13213-105 Brazil. 
+Conflicts of interest 
+The board member Märta Schörling Andreen is also member of the Board of Directors of Melker Schörling AB, 
+the largest shareholder in the Company. Further, the board member Gun Nilsson is the CEO of Melker Schörling 
+AB. Aside from this, the Company is not aware of any potential conflict of interest between, on one hand, the 
+duties to the Company of the members of the Board of Directors and the members of the Executive Committee 
+and, on the other hand, such persons’ private interests or other duties. 
+Auditor 
+PricewaterhouseCoopers AB (Box 4009. 203 11 Malmö, Sweden) has been the Company’s auditor for the financial 
+year 2020. In 2020, Bo Karlsson was the auditor in charge. Bo Karlsson is an authorised public accountant and 
+member of FAR, the professional institute for accountants in Sweden.  
+At the Annual General Meeting in 2021, KPMG AB (Box 227. 211 19 Malmö, Sweden) was elected as auditors 
+up to and including the Annual General Meeting in 2022. Jonas Nihlberg was appointed as auditor in charge at the 
+Meeting and has been the Company’s auditor for the financial year 2021. Jonas Nihlberg is an authorised public 
+accountant and a member of FAR.
+
+--- Page 43 ---
+43(51) 
+ 
+LEGAL CONSIDERATIONS AND SUPPLEMENTARY INFORMATION 
+Information about the Base Prospectus 
+The Base Prospectus has been approved by the Swedish Financial Supervisory Authority (Finansinspektionen) 
+(the “SFSA”) as a competent authority under Regulation (EU) 2017/1129. The SFSA only approves this Base 
+Prospectus as meeting the standards of completeness, comprehensibility and consistency imposed by Regulation 
+(EU) 2017/1129. The SFSA’s approval should not be considered as an endorsement of the Company that is the 
+subject of this Base Prospectus, nor should it be considered as an endorsement of the quality of the securities that 
+are the subject of this Base Prospectus. Investors should make their own assessment as to the suitability of investing 
+in the securities. 
+Authorisation and responsibility 
+The Company has obtained all necessary resolutions, authorisations and approvals required in conjunction with 
+the MTNs and the performance of its obligations relating thereto. On 24 October 2018, the Board of Directors of 
+the company resolved to establish the MTN Programme. This Base Prospectus was approved by the SFSA on 31 
+May 2022. 
+The Company accepts responsibility for the information contained in this Base Prospectus and declares that, having 
+taken all reasonable care to ensure that such is the case, the information contained in this Base Prospectus is, to 
+the best of its knowledge, in accordance with the facts and contains no omission likely to affect its import. The 
+Board of Directors of the Company is, to the extent provided by law, responsible for the information contained in 
+this Base Prospectus and declares that, having taken all reasonable care to ensure that such is the case, the 
+information contained in this Base Prospectus is, to the best of its knowledge, in accordance with the facts and 
+contains no omission likely to affect its import. 
+Use of benchmarks 
+Interest payable for MTNs issued under the MTN Programme may be calculated by reference to certain 
+benchmarks, being EURIBOR and STIBOR, as defined in the General Terms and Conditions. The benchmarks 
+are provided by the European Money Market Institute (EURIBOR) and the Swedish Financial Benchmark Facility 
+AB (STIBOR). At the date of this Base Prospectus, the Swedish Financial Benchmark Facility AB is not registered 
+as an administrator in the register provided by the European Securities and Markets Authority (ESMA) pursuant 
+to Article 36 of Regulation (EU) 2016/1011 on indices used as benchmarks in financial instruments and financial 
+contracts or to measure the performance of investment funds, but has lodged an application with the SFSA on 27 
+December 2021 to operate as an authorised administrator. The European Money Market Institute was registered 2 
+July 2019.  
+Material Agreements 
+Neither the Company nor any other Group Company has concluded any material agreements not entered into in 
+the ordinary course of its business which could result in a member of the Group being under an obligation or 
+entitlement that is material to the Company’s ability to meet its obligations to the Holders. 
+Legal and arbitration proceedings 
+No Group Company has been party to any governmental, legal or arbitration proceedings (including any such 
+proceedings which are pending or threatened which the Company is aware of) during the previous 12 months from 
+the date of this Base Prospectus which may have, or have had in the recent past, significant negative effects on the 
+Company’s and/or the Group’s financial position or profitability. 
+Certain material interests 
+The Dealers have engaged in, and may in the future engage in, investment banking and/or commercial banking or 
+other services for AAK in the ordinary course of business. In particular, it should be noted that any Dealer may be 
+lenders under certain credit facilities with a member of the Group as borrower. Therefore, conflicts of interest may 
+exist or may arise as a result of the Dealers have previously engaged, or will in the future engage, in transactions 
+with other parties, having multiple roles or carrying out other transactions for third parties with conflicting 
+interests.
+
+--- Page 44 ---
+44(51) 
+ 
+Trend information 
+There has been no material adverse change in the prospects of the Company since 21 April 2022, being the date 
+of the publication of the last audited financial information of the Group. 
+There has been no significant change in the financial performance of the Group since 31 March 2022, being the 
+end of the last financial period for which financial information has been published to the date of the Base 
+Prospectus. 
+Significant changes since 31 March 2022 
+There have been no significant changes in the financial or trading position of the Group since 31 March 2022, 
+being the end of the latest financial period for which interim financial information has been published. 
+Incorporation by reference 
+The information referred to below has been incorporated into this Base Prospectus by reference and should be read 
+as part of this Base Prospectus. The information incorporated by reference is available at the website of AAK 
+(www.aak.com/investors/financial-information/). 
+Information in the Annual Reports for 2020 and 2021 and the Interim Report for the period 1 January 2022–31 
+March 2022 which is not incorporated by reference is either deemed by the Company not to be relevant for 
+investors in MTNs or covered elsewhere in the Base Prospectus. The Interim Report for the period 1 January 2022–
+31 March 2022 has not been reviewed by the Company’s auditor. 
+The Company’s Annual Reports for 2020 and 2021 have been prepared in accordance with International Financial 
+Reporting Standards (IFRS) as adopted by EU and in accordance with the Swedish Annual Report Act 
+(årsredovisningslag (1995:1554)). With the exception of the Annual Reports, no information in this Base 
+Prospectus has been audited by the Company’s auditor, and with the exception of the Annual Reports, no 
+information in this Base Prospectus has been reviewed by the Company’s auditor. 
+Annual Report for 2020 
+Consolidated income statement 
+  
+page 56 
+Consolidated balance sheet 
+  
+pages 58-59 
+Consolidated changes in shareholders’ equity   
+page 60 
+Consolidated cash flow statement 
+  
+page 61 
+Unconsolidated income statement 
+  
+page 62 
+Unconsolidated balance sheet 
+  
+pages 64-65 
+Unconsolidated changes in shareholders’ equity  
+page 66 
+Unconsolidated cash flow statement 
+  
+page 67 
+Notes 
+  
+pages 68–110 
+Auditor’s report 
+  
+pages 123–127 
+Annual Report for 2021 
+Consolidated income statement 
+  
+page 54 
+Consolidated balance sheet 
+  
+pages 56-57 
+Consolidated changes in shareholders’ equity   
+page 58 
+Consolidated cash flow statement 
+  
+page 59 
+Unconsolidated income statement 
+  
+page 60 
+Unconsolidated balance sheet 
+  
+pages 62-63 
+Unconsolidated changes in shareholders’ equity  
+page 64
+
+--- Page 45 ---
+45(51) 
+ 
+Unconsolidated cash flow statement 
+  
+page 65 
+Notes 
+  
+pages 66–107 
+Auditor’s report 
+  
+pages 121–127 
+Interim Report for the period 1 January 2022–31 March 2022 
+Consolidated income statement (condensed) 
+  
+page 13 
+Consolidated balance sheet (condensed) 
+  
+page 14 
+Consolidated cash flow statement (condensed)   
+page 16 
+Unconsolidated income statement 
+  
+page 22 
+Unconsolidated balance sheet (condensed) 
+  
+page 23 
+Accounting policies 
+  
+page 11 
+General Terms and Conditions and Form of Final Terms from previous base prospectus 
+The General Terms and Conditions and Form of Final Terms under the Company’s base prospectus dated 28 
+November 2018 (pages 18–34) are incorporated into this Base Prospectus by reference. They are part of the 
+Company’s base prospectus dated 28 November 2018, which is available at the website of AAK via the following 
+link: www.aak.com/siteassets/investors/mtn-programme/aak-ab-556669-2850-base-prospectus.pdf  
+Key figures for the Group’s divisions 
+The below financial information is (i) in respect of the financial years 2020 and 2021, included in the Company’s 
+Annual Report for the financial year 2021, (ii) in respect of the financial year 2019, included in the Company’s 
+Annual Report for the financial year 2019 and (iii) in respect of the periods 1 January 2020–31 March 2021 and 1 
+January 2022–31 March 2022, included in the Company’s Interim Report for the period 1 January 2022–31 March 
+2022. The below information has not been audited by the Company’s auditors. 
+* Alternative performance measure  
+* Alternative performance measure 
+Food Ingredients 
+2019 
+2020 
+2021 
+1 Jan – 31 Mar 
+2021  
+1 Jan – 31 Mar 
+2022 
+Volumes, thousand tons 
+1,531 
+1,426 
+1,476 
+354 
+362 
+Net sales, SEK million 
+18,978 
+18,387 
+23,245 
+4,869 
+7,141 
+Operating profit excluding IAC, SEK 
+million * 
+1,366 
+1,286 
+1,380 
+313 
+369 
+Operating profit per Kilo excluding IAC, 
+SEK * 
+0.89 
+0.90 
+0.93 
+0.88 
+1.02 
+Chocolate & Confectionary Fats 
+2019 
+2020 
+2021 
+1 Jan – 31 Mar 
+2021  
+1 Jan – 31 Mar 
+2022 
+Volumes, thousand tons 
+459 
+449 
+519 
+130 
+137 
+Net sales, SEK million 
+8,076 
+7,949 
+10,116 
+2,263 
+3,407 
+Operating profit excluding IAC, SEK 
+million * 
+794 
+865 
+971 
+233 
+258 
+Operating profit per Kilo excluding IAC, 
+SEK * 
+1.73 
+1.93 
+1.87 
+1.79 
+1.88
+
+--- Page 46 ---
+46(51) 
+ 
+* Alternative performance measure 
+Alternative performance measures (APMs) for the Group 
+The below alternative performances have been prepared on the basis of (i) in respect of the financial year 2021, 
+financial information included in the Company’s Annual Report for the financial year 2021, (ii) in respect of the 
+financial years 2020 and 2019, financial information included in the Company’s Annual Report for the financial 
+year 2020 and (iii) in respect of the periods 1 January–31 March 2021 and 1 January–31 March 2022, financial 
+information included in the Company’s Interim Report for the period 1 January–31 March 2022. The financial 
+information for the financial years 2020 and 2021 on which the alternative performance measures have been 
+prepared has been audited by the Company’s auditors, with the exception of Volumes and Operating Profit Per 
+Kilo, which have not been audited. Of the calculations, only the calculations of EBITDA and Net Debt/EBITDA 
+have been audited. Neither financial information on which the alternative performance measures have been 
+prepared nor the calculations for the financial year 2021 and the periods 1 January–31 March 2021 and 1 January–
+31 March 2022 have been audited by the Company’s auditors. The financial information on which the alternative 
+performance measures have been prepared for the period 1 January–31 March 2022 has not been reviewed by the 
+Company’s auditors. Of the calculations of the alternative performance measures for the financial year 2021 and 
+the periods 1 January–31 March 2021 and 1 January–31 March 2022, none have been reviewed by the Company’s 
+auditors. 
+ 
+ 
+Technical Products & Feed 
+2019 
+2020 
+2021 
+1 Jan – 31 Mar 
+2021  
+1 Jan – 31 Mar 
+2022 
+Volumes, thousand tons 
+300 
+320 
+317 
+85 
+76 
+Net sales, SEK million 
+1,456 
+1,598 
+2,091 
+477 
+691 
+Operating profit excluding IAC, SEK 
+million * 
+150 
+157 
+214 
+44 
+81 
+Operating profit per Kilo excluding IAC, 
+SEK * 
+0.50 
+0.49 
+0,68 
+0.52 
+1.07 
+EBITDA 
+SEK million 
+2019 
+2020 
+2021 
+Operating Profit (EBIT) 
+2,142 
+2,167 
+2,089 
+Add back depreciation and amortisation 
+687 
+755 
+958 
+EBITDA, SEK million 
+2,829 
+2,922 
+3,047 
+Net Debt 
+SEK million 
+2019 
+2020 
+2021 
+Current interest-bearing receivables 
+11 
+4 
+31 
+Cash and cash equivalents 
+982 
+1,200 
+1,001 
+Pension liabilities 
+-241 
+-278 
+-271
+
+--- Page 47 ---
+47(51) 
+ 
+ 
+ 
+ 
+ 
+ 
+2 Net Debt includes lease liabilities in accordance with IFRS 16 as applied on 1 January 2021, however not included in Net Debt as defined 
+in the 2020 annual report. As 2019 figures are not included in the 2021 annual report, the 2019 Net Debt as defined in accordance with IFRS 
+16 is not included herein.  
+3 Higher Net Debt/EBITDA ratio than in accordance with the 2020 annual report due to the inclusion of leasing liabilities to Net Debt, in 
+accordance with IFRS 16 as applied on January 1 2021. As 2019 figures are not included in the 2021 annual report, the 2019 Net 
+Debt/EBITDA as defined in accordance with IFRS 16 is not included herein. 
+Lease liabilities2 
+- 
+-734 
+-621 
+Non-current liabilities to banks and credit 
+institutions 
+-2,987 
+-2,087 
+-1,611 
+Current liabilities to banks and credit 
+institutions 
+-870 
+-1,565 
+-2,333 
+Other non interest-bearing liabilities 
+-12 
+-12 
+-13 
+Net Debt, SEK million 
+-3,117 
+-3,472 
+-3,817 
+Net Debt/EBITDA 
+2019 
+2020 
+2021 
+Net Debt, SEK million 
+-3,117 
+-3,472 
+-3,817 
+EBITDA, SEK million 
+2,829 
+2,922 
+3,047 
+Net Debt/EBITDA, ratio3 
+1.10 
+1.19 
+1.25 
+Operating Profit Per Kilo (Group) 
+2019 
+2020 
+2021 
+1 Jan – 31 Mar 
+2021  
+1 Jan – 31 Mar 
+2022 
+Operating Profit (EBIT), SEK million 
+2,142 
+2,167 
+2,089 
+551 
+664 
+Volumes, thousand tons 
+2,290 
+2,195 
+2,312 
+569 
+575 
+Operating Profit Per Kilo (Group), SEK 
+0.94 
+0.99 
+0,90 
+0.97 
+1.15 
+Operating profit excluding IAC 
+(Group) 
+2019 
+2020 
+2021 
+1 Jan – 31 Mar 
+2021  
+1 Jan – 31 Mar 
+2022 
+Operating profit excluding IAC  
+- 
+2,165 
+2,393 
+551 
+664 
+Optimization European bakery business 
+- 
+- 
+-304 
+- 
+- 
+Optimization capital structure 
+- 
+206 
+- 
+- 
+- 
+Structural measures 
+- 
+-200 
+- 
+- 
+- 
+Acquisition costs 
+- 
+-4 
+- 
+- 
+- 
+Operating profit (EBIT) 
+- 
+2,167 
+2,089 
+551 
+664
+
+--- Page 48 ---
+48(51) 
+ 
+ 
+ 
+ 
+Definitions of alternative performance measures (APMs) 
+Alternative performance measure (APM) 
+Definition 
+Purpose 
+EBITDA 
+Operating Profit (EBIT) after adding 
+back depreciation and amortisation. 
+Component in Net Debt/EBITDA. 
+Net Debt 
+Pension liabilities, non-current liabilities 
+to banks and credit institutions, current 
+liabilities to banks and credit institutions 
+and other interest-bearing liabilities less 
+current interest-bearing receivables and 
+cash and cash equivalents. 
+Component in Net Debt/EBITDA. 
+Net Debt/EBITDA 
+Net Debt (as a positive amount) for a 
+specific date divided by EBITDA for the 
+12 month period ending on such date. 
+This performance measure shows the 
+ratio between the Group’s Net Debt at a 
+specific date and the Group’s EBITDA 
+for the 12 month period ending on such 
+date. 
+Operating Profit (EBIT) 
+Operating profit. 
+Component in EBITDA and Operating 
+Profit Per Kilo. 
+Operating Profit excluding IAC  
+Operating profit excluding acquisition 
+and restructuring costs and other items 
+affecting comparability (IAC).  
+Component in Operating Profit Per Kilo 
+excluding IAC.  
+Operating Profit Per Kilo excluding IAC 
+(Chocolate & Confectionary) 
+2019 
+2020 
+2021 
+1 Jan – 31 Mar 
+2021  
+1 Jan – 31 Mar 
+2022 
+Operating Profit excluding IAC, SEK 
+million 
+794 
+865 
+971 
+233 
+258 
+Volumes, thousand tons 
+459 
+449 
+519 
+130 
+137 
+Operating Profit Per Kilo excluding IAC 
+(Chocolate & Confectionary), SEK 
+1.73 
+1.93 
+1.87 
+1.79 
+1.88 
+Operating Profit Per Kilo excluding IAC 
+(Food Ingredients), SEK 
+2019 
+2020 
+2021 
+1 Jan – 31 Mar 
+2021  
+1 Jan – 31 Mar 
+2022 
+Operating Profit excluding IAC, SEK 
+million 
+1,366 
+1,286 
+1,380 
+313 
+369 
+Volumes, thousand tons 
+1,531 
+1,426 
+1,476 
+354 
+362 
+Operating Profit Per Kilo excluding IAC 
+(Food Ingredients), SEK 
+0.89 
+0.90 
+0.93 
+0.88 
+1.02 
+Operating Profit Per Kilo excluding 
+IAC (Technical Products & Feed), SEK 
+2019 
+2020 
+2021 
+1 Jan – 31 Mar 
+2021  
+1 Jan – 31 Mar 
+2022 
+Operating Profit excluding IAC, SEK 
+million 
+150 
+157 
+214 
+44 
+81 
+Volumes, thousand tons 
+300 
+320 
+317 
+85 
+76 
+Operating Profit Per Kilo excluding 
+IAC  (Technical Products & Feed), SEK 
+0.50 
+0.49 
+0.68 
+0.52 
+1.07
+
+--- Page 49 ---
+49(51) 
+ 
+Alternative performance measure (APM) 
+Definition 
+Purpose 
+Operating Profit Per Kilo 
+Operating Profit (EBIT) divided by 
+Volumes. 
+This performance measure shows the 
+Group’s operating profit in relation to 
+the Group’s Volumes. 
+Operating Profit Per Kilo excluding IAC 
+Operating Profit excluding IAC divided 
+by Volumes 
+This performance measure shows the 
+Group’s operating profit, excluding 
+items affecting comparability, in relation 
+to the Group’s Volumes.  
+Volumes 
+Sold quantity measured in weight. 
+Component in Operating Profit Per Kilo 
+and Operating Profit Per Kilo excluding 
+IAC. 
+ 
+Documents on display 
+Copies of the following documents are electronically available at www.aak.com. Paper copies of the documents 
+are also available at the Company’s office, Skrivaregatan 9, 215 32 Malmö, Sweden during the validity period of 
+this Base Prospectus (regular office hours): 
+• 
+the Company’s Certificate of Registration and Articles of Association; 
+• 
+financial statements for the Company’s subsidiaries for the financial years 2020 and 2021; and 
+• 
+all documents which are incorporated by reference into this Base Prospectus. 
+Privacy notice 
+The Dealers may collect and process personal data relating to the Holders, the Holders’ representatives or agents, 
+and other persons nominated to act on behalf of the Holders (name, contact details and, when relevant, holding of 
+MTNs). The personal data relating to the Holders is primarily collected from the registry kept by the CSD. The 
+personal data relating to other persons is primarily collected directly from such persons. 
+The personal data collected will be processed by the Dealers for the following purposes: 
+(a) 
+to exercise their respective rights and fulfil their respective obligations under the MTNs; 
+(b) 
+to manage the administration of the MTNs and payments under the MTNs; 
+(c) 
+to enable the Holders’ to exercise their rights under the MTNs; and  
+(d) 
+to comply with their obligations under applicable laws and regulations. 
+The processing of personal data by the Dealers in relation to items (a)-(c) is based on their legitimate interest to 
+exercise their respective rights and to fulfil their respective obligations under the MTNs. In relation to item (d), 
+the processing is based on the fact that such processing is necessary for compliance with a legal obligation 
+incumbent on the Dealers. Unless otherwise required or permitted by law, the personal data collected will not be 
+kept longer than necessary given the purpose of the processing.  
+Personal data collected may be shared with third parties, such as the CSD, when necessary to fulfil the purpose for 
+which such data is processed. 
+Subject to any legal preconditions, the applicability of which have to be assessed in each individual case, data 
+subjects have the rights as follows. Data subjects have right to get access to their personal data and may request 
+the same in writing at the address of the Dealers. In addition, data subjects have the right to (i) request that personal 
+data is rectified or erased, (ii) object to specific processing, (iii) request that the processing be restricted and (iv) 
+receive personal data provided by themselves in machine-readable format. Data subjects are also entitled to lodge 
+complaints with the relevant supervisory authority if dissatisfied with the processing carried out.  
+The Dealers’ addresses, and the contact details for their respective Data Protection Officers (if applicable), are 
+found on their websites www.handelsbanken.com, www.nykredit.com, www.danskebank.com and www.seb.se .
+
+--- Page 50 ---
+50(51) 
+ 
+ADDRESSES 
+The Company 
+AAK AB (publ) 
+Address 
+Skrivaregatan 9 
+215 32 Malmö 
+Telephone 
++46 (0) 40 627 83 00 
+www.aak.com 
+The Arranger 
+Svenska Handelsbanken AB (publ) 
+Postal Address  
+106 70 Stockholm 
+Visiting Address  
+Blasieholmstorg 11, Stockholm 
+Telephone 
++46 (0) 8 701 10 00 
+www.handelsbanken.se 
+Auditor to the Company 
+KPMG AB 
+Address 
+Box 227, SE-201 22 
+Nordenskiöldsgatan 8 
+211 19 Malmö 
+Telephone 
++46 (0) 40 35 62 11 
+Central Securities Depository 
+Euroclear Sweden AB 
+Postal address 
+Box 191 
+101 23 Stockholm 
+Visiting address 
+Klarabergsviadukten 63, Stockholm 
+www.euroclear.com/sweden/ 
+ 
+The Dealers 
+  
+Nykredit Bank A/S 
+Address 
+Kalvebod Brygge 1–3 
+1560 København V 
+Telephone 
++45 70 10 90 00 
+www.nykredit.dk 
+Svenska Handelsbanken AB (publ) 
+Postal Address  
+106 70 Stockholm 
+Visiting Address  
+Blasieholmstorg 11, Stockholm 
+Telephone 
++46 (0) 8 701 10 00 
+www.handelsbanken.se 
+Danske Bank A/S, Sverige filial 
+Address 
+Box 7523 
+103 92 Stockholm  
+Telephone 
++46 (0) 75 248 45 42  
+www.danskebank.se 
+Skandinaviska Enskilda Banken AB (publ) 
+Address 
+Kungsträdgården 8 
+106 40 Stockholm 
+Telephone 
++46 (0) 77 162 10 00 
+www.seb.se
+
+--- Page 51 ---
+www.aak.com

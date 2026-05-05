@@ -1,0 +1,2621 @@
+--- Page 1 ---
+This Base Prospectus was approved by the Swedish Financial Supervisory Authority on 2 May 2023. This Base 
+Prospectus is valid for twelve months after the date of the approval, provided that it is supplemented as required by 
+Article 23 of the Prospectus Regulation. The obligation to supplement this Base Prospectus in the event of significant 
+new factors, material mistakes or material inaccuracies does not apply when the Base Prospectus is no longer valid. 
+ 
+LEGAL#23558144v7 
+ 
+ 
+ 
+ 
+AB Bonnier Fastigheter Finans (publ) 
+ 
+Base prospectus for 
+SEK 5,000,000,000 Medium Term Note Programme 
+guaranteed by Bonnier Fastigheter AB 
+ 
+ 
+ 
+ 
+Arranger 
+Nordea Bank Abp 
+Dealers 
+Danske Bank A/S Danmark, Sverige Filial 
+DNB Bank ASA, filial Sverige 
+Nordea Bank Abp 
+Skandinaviska Enskilda Banken AB (publ) 
+Svenska Handelsbanken AB (publ)
+
+--- Page 2 ---
+2(55) 
+ 
+ 
+ 
+Important information 
+In this Base Prospectus, the “Issuer”, the “Company” means AB Bonnier Fastigheter Finans (publ). The “Guarantor” or “Bonnier 
+Fastigheter” means Bonnier Fastigheter AB. The “Group” means the Guarantor with all its subsidiaries from time to time (each a “Group 
+Company”). “Euroclear Sweden” refers to Euroclear Sweden AB. “VPS”, means Verdipapirsentralen ASA. “Nasdaq Stockholm” refers 
+to Nasdaq Stockholm AB. “SEK” refers to Swedish kronor. “NOK” refers to Norwegian kroner, “bn” refers to billion(s) and “M” refers to 
+million(s). 
+Words and expressions defined in the general terms and conditions for medium term notes (the “Terms and Conditions”) beginning on 
+page 18, and, as the case may be, in the final terms, the form of which beginning on page 38 (the “Final Terms”) have the same meanings 
+when used in this Base Prospectus, unless expressly stated or the context requires otherwise. Complete information regarding the Company 
+and the Loan may only be obtained through a reading of the Final Terms together with the Base Prospectus (as supplemented). 
+Notice to investors 
+This Base Prospectus has been prepared by the Issuer and contains information about its programme for medium term notes 
+(the “Programme”). The Programme has been established by the Issuer to constitute a framework under which the Issuer from time to time 
+may issue medium term notes (“Notes”) in SEK or NOK in a minimum Nominal Amount corresponding to an amount of EUR 100,000, 
+and with a minimum term of one year. The obligations under the Notes are guaranteed by Bonnier Fastigheter. The Issuer has undertaken 
+towards the Dealers that the total outstanding Nominal Amount of Notes under the Programme shall not exceed an amount corresponding 
+to an amount of SEK 5,000,000,000 (five billion) at any time. The Company and the Dealers may agree to increase or decrease such amount. 
+This Base Prospectus does not contain and does not constitute an offer or a solicitation to buy or sell Notes. The Base Prospectus has been 
+approved and registered by the Swedish Financial Supervisory Authority (Finansinspektionen) (the “SFSA”) pursuant to Article 20 in 
+Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities 
+are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (the “Prospectus Regulation”) 
+and is valid for a period of twelve months from the day of approval. This Prospectus is governed by Swedish law. The courts of Sweden 
+have exclusive jurisdiction to settle any dispute arising out of or in connection with this Prospectus. 
+This Base Prospectus may not be distributed in any jurisdiction where such distribution would require any additional prospectus, registration 
+or measures other than those required under Swedish law, or otherwise would conflict with regulations in such jurisdiction. Persons into 
+whose possession this Base Prospectus may come are required to inform themselves about, and comply with such restrictions. Any failure 
+to comply with such restrictions may result in a violation of applicable securities regulations. The Notes have not been, and will not be, 
+registered under the United States Securities Act of 1933 or the securities laws of any state or other jurisdiction outside Sweden. The Notes 
+may not be offered, sold or delivered within the United States or to, or for the account or benefit of, U.S. persons. Notes may not be offered, 
+sold or delivered directly or indirectly in Norway, unless in compliance with the Prospectus Regulation, as implemented into Norwegian 
+law through Chapter 7 of the Norwegian Securities Trading Act. 
+No person has been authorised to provide any information or make any statements other than those contained in this Base Prospectus. Should 
+such information or statements nevertheless be furnished, it/they must not be relied upon as having been authorised or approved by the 
+Issuer and the Issuer assumes no responsibility for such information or statements. Neither the publication of this Base Prospectus nor the 
+offering, sale or delivery of any Note implies that the information in this Base Prospectus is correct and current as at any date other than the 
+date of this Base Prospectus or that there have not been any changes in the Issuer’s or the Group’s business since the date of this Base 
+Prospectus. If the information in this Base Prospectus becomes subject to any material change, such material change will be made public in 
+accordance with the provisions governing the publication of supplements to prospectuses in the Prospectus Regulation. 
+Each potential investor in the Notes must in light of its own circumstances determine the suitability of the investment.  
+The Final Terms in respect of any Notes will include the target market assessment in respect of the Notes and appropriate channels for 
+distribution of the Notes. Any person subsequently offering, selling or recommending the Notes (a “distributor”) should take into 
+consideration the target market assessment. However, a distributor subject to Directive 2014/65/EU (as amended, “MiFID II”) is responsible 
+for undertaking its own target market assessment in respect of the Notes (by either adopting or refining the target market assessment) and 
+determining appropriate distribution channels. For the purpose of the MiFID Product Governance rules under EU Delegated Directive 
+2017/593 (the “MiFID Product Governance Rules”), a determination will be made in relation to each issue about whether the Arranger 
+or any Dealer participating in the issue of the Notes is a manufacturer in respect of such Notes. Neither the Arranger nor the Dealers nor 
+any of their respective affiliates that do not participate in an issue will be a manufacturer for the purpose of the MIFID Product Governance 
+Rules. 
+Forward-looking statements 
+The Base Prospectus contains certain forward-looking statements that reflect the Issuer’s current views or expectations with respect to future 
+events and financial and operational performance. The words “intend”, “estimate”, “expect”, “may”, “plan”, “anticipate” or similar 
+expressions regarding indications or forecasts of future developments or trends, which are not statements based on historical facts, constitute 
+forward-looking information. Although the Issuer believes that these statements are based on reasonable assumptions and expectations, the 
+Issuer cannot give any assurances that such statements will materialize. Because these forward-looking statements involve known and 
+unknown risks and uncertainties, the outcome could differ materially from those set out in the forward-looking statement. 
+Factors that could cause the Issuer’s and Bonnier Fastigheter’s actual operations, results or performance to differ from the forward-looking 
+statements include, but are not limited to, those described in “Risk factors”. The forward-looking statements included in this Base Prospectus 
+apply only to the date of the Base Prospectus. The Issuer undertakes no obligation to publicly update or revise any forward-looking 
+statements, whether as a result of new information, future events or otherwise, other than as required by law. Any subsequent forward-
+looking information that can be ascribed to the Issuer and the Group or persons acting on the Issuer behalf is subject to the reservations in 
+or referred to in this section.
+
+--- Page 3 ---
+3(55) 
+ 
+TABLE OF CONTENTS 
+DESCRIPTION OF THE PROGRAMME .................................................................................................. 4 
+RISK FACTORS ......................................................................................................................................... 9 
+GENERAL TERMS AND CONDITIONS ................................................................................................ 18 
+FORM OF FINAL TERMS ....................................................................................................................... 38 
+GUARANTEE ........................................................................................................................................... 43 
+BUSINESS DESCRIPTION ...................................................................................................................... 44 
+THE ISSUER ............................................................................................................................................. 46 
+THE GUARANTOR .................................................................................................................................. 48 
+LEGAL AND SUPPLEMENTARY INFORMATION ............................................................................. 51 
+ADDRESSES ............................................................................................................................................. 54
+
+--- Page 4 ---
+4(55) 
+ 
+DESCRIPTION OF THE PROGRAMME 
+The following is a description of the Programme and is qualified in its entirety by the full Conditions 
+included in the section “General Terms and Conditions” and “Form of Final Terms”. 
+General 
+The Programme has been established by AB Bonnier Fastigheter Finans (publ) for the issuance of 
+medium term notes in SEK or NOK. A Note may be issued in a minimum Nominal Amount of 
+EUR 100,000 (or the equivalent in SEK or NOK) and with a minimum term of one year. The Issuer has 
+undertaken towards the Dealers that the total outstanding Nominal Amount of Notes under the 
+Programme shall not exceed SEK 5,000,000,000 (five billion) at any time. The Issuer and the Dealers 
+may agree to increase or decrease such amount. 
+The Issuer has appointed Nordea Bank Abp as Arranger and Danske Bank A/S Danmark, Sverige Filial, 
+DNB Bank ASA, filial Sverige, Nordea Bank Abp, Skandinaviska Enskilda Banken AB (publ) and 
+Svenska Handelsbanken AB (publ) as Dealers, in respect of the Programme. Further Dealers may be 
+appointed. 
+General Terms and Conditions and Final Terms 
+Notes issued under the Programme will be governed by the Terms and Conditions as well as the 
+applicable Final Terms. The Terms and Conditions are standardised and apply to all Notes issued under 
+the Programme. For each Loan, Final Terms are prepared that include supplementary terms and 
+conditions for the relevant Loan. Applicable Final Terms must therefore be read in conjunction with the 
+Terms and Conditions. The Final Terms will be submitted to the SFSA and published on the webpage 
+of the Issuer. Any amendments (other than adjustments to clear and obvious errors and amendments 
+made in accordance with Section 12 (Replacement of Base Rate) in the Terms and Conditions) to the 
+Terms and Conditions will not be effective to Notes issued prior to such amendment, unless a 
+Noteholders’ Meeting resolves otherwise. 
+Form of the Notes 
+Notes will be issued in dematerialised book-entry form and registered on a Securities Account 
+(maintained with Euroclear Sweden or, if the Notes are denominated in NOK, with VPS) on behalf of 
+the relevant Noteholder. Hence, no physical notes will be issued. Notes will be registered in accordance 
+with the Swedish Financial Instruments Accounts Act (lagen (1998:1479) om värdepapperscentraler 
+och kontoföring av finansiella instrument) and, if the Notes are denominated in NOK, in accordance 
+with the Norwegian Financial Instruments Account Act (lov 2019:6) om verdipapisentraler og 
+verdipapiroppgjør mv.)) and the VPS Rules (VPS Rules for Registration of Financial Instruments). 
+Registration requests relating to Notes shall be directed to an Account Operator. 
+Registrar and Paying Agent 
+If the Issuer is to issue MTN denominated in NOK, it shall appoint a registrar and paying agent to 
+establish and manage the Issuer’s account in the VPS’s book-entry system in accordance with 
+Norwegian law and the VPS rules, to register the Issuer’s issues of Notes denominated in NOK in the 
+VPS’s book-entry system and assist the Issuer with payments of interest and principle in respect of such 
+Notes denominated in NOK.
+
+--- Page 5 ---
+5(55) 
+ 
+Status of the Notes 
+Upon issuance, Notes will constitute direct, unconditional, unsubordinated and unsecured debt 
+obligations of the Issuer and rank pari passu and without any preference among themselves and shall 
+rank at least pari passu with all other present and future unsubordinated and unsecured obligations 
+(except those obligations preferred by law) of the Issuer. 
+Pricing and interest 
+The Pricing of the MTN cannot be established in advance but is set in connection with the relevant issue 
+on the bases of the prevailing market conditions. MTN may be issued at a price below or exceeding the 
+relevant Nominal Amount. The interest (if any) applicable to MTN depends on several factors, one of 
+which is the interest applicable to other investments with a corresponding term. Interest (if any) may be 
+set at a floating interest rate based on STIBOR or NIBOR, plus a margin, or at a fixed interest rate. 
+Admission to trading 
+Notes issued may be listed on a Regulated Market. If relevant, any intended listing of Notes will be set 
+out in the applicable Final Terms. The estimated costs associated with such listing will also be set out 
+in the applicable Final Terms. Although the Issuer has undertaken to apply for registration on a 
+Regulated Market for Loans which according to the Final Terms must be admitted to trading on a 
+Regulated Market, and, as long as permitted under applicable laws and regulations, to take any measures 
+that may be required to maintain the admission as long as the relevant Loan is outstanding, there is no 
+assurance that such application will be accepted, that Notes will be so admitted or that an active trading 
+market will develop. 
+Time-bar 
+Claims for the repayment of the principal of Notes will be time-barred and become void ten (10) years 
+after the Maturity Date. Claims for the payment of interest will be time-barred and become void three 
+(3) years from the relevant Interest Payment Date. Upon time-bar, the Issuer will be entitled to keep any 
+funds that may have been reserved for such payments. 
+If the time-bar period is duly interrupted in accordance with the Swedish Limitations Act 
+(preskriptionslagen (1981:130)) a new time-bar period of ten years will commence for claims in respect 
+of principal and three years for claims in respect of interest amounts, in both cases calculated from the 
+day indicated by provisions laid down in the Swedish Limitations Act concerning the effect of an 
+interruption in the limitation period. 
+Governing law 
+The Loan Terms and any non-contractual obligations issues which arise in connection therewith, shall 
+be governed by the laws of Sweden. Disputes shall be settled by Swedish courts. The Stockholm District 
+Court (Stockholms tingsrätt) shall be the court of first instance. Norwegian law and jurisdiction will be 
+applicable with regards to the registration of Notes denominated in NOK in VPS. 
+Product description 
+Interest structures 
+Notes issued under the Programme may have a fixed or floating interest rate or have Zero Coupon. The 
+interest structure applicable to a specific Loan will be stated in the Final Terms. Below is a short 
+description of the available interest structures.
+
+--- Page 6 ---
+6(55) 
+ 
+Fixed interest rate 
+If the relevant Final Terms of a Loan specify fixed interest rate as applicable to it, the Loan shall bear 
+interest according to the Interest Rate: 
+(i) 
+in respect of Loans issued in SEK, from, but excluding, the Interest Commencement Date up to 
+and including the Maturity Date; and 
+(ii) 
+in respect of Loans issued in NOK, from (and including) the Interest Commencement Date up 
+to (but excluding) the Maturity Date. 
+Interest is calculated using the Day Count Convention 30/360. 
+Floating interest rate (FRN) 
+If a Loan is specified as a Loan with Floating Rate, the Loan will bear interest at the Interest Rate: 
+(i) 
+in respect of Loans issued in SEK, from, but excluding, the Interest Commencement Date up to 
+and including the Maturity Date. The Interest Rate for the relevant Interest Period shall be 
+calculated by the Calculation Agent on the respective Interest Determination Date and is the 
+sum of the Base Rate and the Margin for the relevant period, adjusted for the application of 
+Section 12 (Replacement of Base Rate); and 
+(ii) 
+in respect of Loans issued in NOK, from (and including) the Interest Commencement Date up 
+to (but excluding) the Maturity Date. The Interest Rate for the relevant Interest Period shall be 
+calculated by the Calculation Agent on the respective Interest Determination Date and shall be 
+notified to the Paying Agent and is the sum of the Base Rate and the Margin for the relevant 
+period, adjusted for the application of Section 12 (Replacement of Base Rate).  
+Interest is calculated using the Day Count Convention Actual/360 or by using such other method of 
+calculation as is applied for the relevant Base Rate. 
+Zero Coupon 
+If the Loan is specified as a Zero Coupon it bears no interest. Loans with Zero Coupon may be issued 
+at a discount, par or premium. 
+European Benchmarks Regulation 
+Interest payable for Notes issued under the Programme may be calculated by reference to certain 
+benchmarks, being NIBOR and STIBOR, as defined in the Terms and Conditions. The benchmarks are 
+provided by Norske Finansielle Referanser AS (NoRe) and calculated in cooperation with Global Rate 
+Set Systems Ltd. acting as calculation agent (NIBOR) and the Swedish Financial Benchmark Facility 
+(STIBOR). Norske Finansielle Referanser AS are registered in the register of administrators provided 
+by the European Securities and Markets Authority (ESMA) pursuant to Article 36 of Regulation (EU) 
+2016/1011 on indices used as benchmarks in financial instruments and financial contracts or to measure 
+the performance of investment funds (the “Benchmarks Regulation”). On 27 December 2021, Swedish 
+Financial Benchmark Facility filed its application with the SFSA to operate as such an administrator. 
+As far as the Company is aware, at the time for the approval of this Base Prospectus, the transitional 
+provisions in article 51 Benchmark Regulation are applicable, pursuant to which STIBOR may continue 
+to be used while the SFSA examines the application.
+
+--- Page 7 ---
+7(55) 
+ 
+Repayment of Loans and payment of interest 
+Repayment at maturity 
+Each Loan shall be redeemed on its Maturity Date in an amount equal to its Nominal Amount (or such 
+other amount specified in the relevant Final Terms, together with accrued but unpaid interest. If the 
+Maturity Date is not a Business Day, redemption shall occur on this first following Business Day. 
+Repurchase of Notes by the Issuer 
+The Company may repurchase MTN at any time and at any price in the open market or otherwise 
+provided that repurchase is in compliance with applicable law. MTN owned by the Company may, in 
+the discretion of the Company, be retained, resold or cancelled. 
+Repurchase upon change of control 
+Each Noteholder is entitled to demand repurchase of all, or some, of the MTN held by the Noteholder, 
+if: 
+(a) 
+for as long as no shares of the Guarantor are listed on any Regulated Market, Albert Bonnier 
+AB (a private limited liability company incorporated under the laws of Sweden with Swedish 
+Reg. No. 556520-0341), directly or indirectly, ceases to own shares in the Guarantor 
+representing more than 50 per cent. of the votes in the Guarantor; 
+(b) 
+if the shares in the Guarantor have been listed on any exchange, one or more persons (other than 
+the Albert Bonnier AB) acting together, acquire control over the Guarantor and where “control” 
+means: 
+(i) 
+acquiring or controlling, directly or indirectly, more than 50 per cent. of the votes in the 
+Guarantor; or 
+(ii) 
+the right to, directly or indirectly, appoint or remove the whole or a majority of the 
+directors of the board of directors of the Guarantor; or 
+(c) 
+the Guarantor ceases to own 100 per cent. of the shares in the Company representing 100 per 
+cent. of the votes in the Company. 
+As soon as the Company obtains knowledge of such an event, the Company shall be obligated to notify 
+the Noteholders of such event through a press release published on the Company’s website and in 
+accordance with the Terms and Conditions. The notice shall contain instructions regarding how a 
+Noteholder wishing to have an MTN repurchased must proceed as well as specifying the repurchase 
+date. 
+The repurchase date shall occur no earlier than twenty (20) and no later than forty (40) Business Days 
+after notice of change mentioned in the Terms and Conditions. However, in the event the repurchase 
+date is not a Business Day, the repurchase date shall be deemed to be the Business Day immediately 
+following. 
+Where a right to repurchase exists, the Company shall, upon demand by a Noteholder, repurchase the 
+relevant MTN on the repurchase date at its Nominal Amount together with accrued interest (if any) 
+which would have been repaid on the final Maturity Date, together with accrued interest (where 
+applicable). For MTN with Zero Coupon, an amount per MTN calculated in accordance with the Terms 
+and Conditions shall be paid instead.
+
+--- Page 8 ---
+8(55) 
+ 
+Notices from Noteholders regarding demands for repurchase of MTN’s shall be drafted in accordance 
+with the instructions set forth in the notice provided to the Noteholders in accordance with the Terms 
+and Conditions. The Notice from the Noteholder must be received by the Company at least ten (10) 
+Business Days before repurchase date. 
+Green Financing Framework 
+The Company shall by no later than the first trade date of a Green MTN under the Terms and Conditions 
+maintain a Green Finance Framework, which shall thereafter and for as long as any Green MTN remain 
+outstanding, be published on the Company’s website. The Company may elect to issue MTN where the 
+proceeds from such issuance shall, if so provided in the relevant Final Terms, be applied in accordance 
+with the Green Finance Framework. It should be noted that any failure of the Company to comply with 
+the Green Financial Framework does not constitute an event of default or termination event under the 
+Terms and Conditions. Neither are Noteholders entitled to early payment, repurchase or redemption of 
+any Notes, or other type of compensation for non-compliance with the Green Financial Framework. 
+The Company’s Green Financing Framework has been developed in alignment with the Green Bond 
+Principles 2018 established by the International Capital Market Association (“GBP”). The Green 
+Financing Framework is applicable for issuance of Green MTN and other types of debt instruments 
+where net proceeds will be applied to finance or re-finance, in part or in full, new and/or existing eligible 
+projects/assets with clear environmental benefits. The Green Financing Framework is, moreover, 
+aligned with the four recommended components of the GBP; Use of Proceeds, Process for Project/Asset 
+Evaluation and Selection, Management of Proceeds and Reporting. The Green Bond Framework is 
+focusing on environmentally friendly and energy-efficient buildings and investments in energy 
+efficiency solutions. The Green Financing Framework has been reviewed by the impartial firm CICERO 
+Shades of Green, which has provided a second opinion, and has rated the Green Finance Framework 
+CICERO Medium Green. The Green Finance Framework and second opinion are available on the 
+Group’s website www.bonnierfastigheter.se/debt-investors.
+
+--- Page 9 ---
+9(55) 
+ 
+RISK FACTORS 
+In this section, material risk factors are illustrated and discussed, including both risks pertaining to the 
+Issuer’s and the Group’s business and risks related to the Notes. The Issuer’s assessment of the 
+materiality of each risk factor is based on the probability of their occurrence and the expected magnitude 
+of their negative impact. The description of the risk factors below is based on information available and 
+estimates made on the date of this Base Prospectus. 
+The risk factors are presented in categories where the most material risk factors in a category are 
+presented first under that category. Subsequent risk factors in the same category are not ranked in order 
+of materiality or probability of occurrence. Where a risk factor may be categorised in more than one 
+category, such risk factor appears only once and in the most relevant category for such risk factor. 
+Risks relating to the Group 
+Economic and market risks 
+The macroeconomic environment 
+The Group owns, manages and develops commercial properties in selected regions in Sweden, primarily 
+in the city region of Stockholm and Uppsala. The Group’s operations are therefore affected by 
+macroeconomic factors that are beyond its control. These factors include but are not limited to growth 
+measured as gross domestic product (GDP), inflation and possible deflation. For example, the rent levels 
+and the occupancy rate are affected by, among other things, the economic growth in Sweden, the rate of 
+production of new premises, changes in infrastructure, level of employment and population structure. 
+Albeit, economic development in Sweden in general has been positive since the early 1990’s (save for 
+during the financial crisis in 2008-2009), the growth rate has been declining since the mid 2010’s. 
+Economic stagnation affects the level of employment, which is an essential basis for supply and demand 
+in the rental market and thus is expected to result in a reduced demand for premises, more vacancies, 
+reduced production of new premises and potentially reduced market rents. An economic downturn will 
+also increase the risk of payment difficulties, which could have a direct negative effect on the Group’s 
+cash flow, performance and result. 
+Changes in interest rates and inflation could also affect yield requirements and therefore the market 
+value of the Group’s property portfolio (see further “Project developments, property investments and 
+property transactions” below). Since the Group is affected by factors relating to general economic and 
+business development, Bonnier Fastigheter’s ability to affect its financial result in the short term are to 
+some extent limited.  
+The occurrence of extraordinary events, such as the outbreak of disease epidemics and acts of war, have 
+an adverse impact on the global economy as a whole and may lead to a global recession, or even 
+depression. A recent example of such an extraordinary event is the COVID-19 pandemic which has had, 
+and continues to have, a material adverse effect on the global economy, as well as on people and 
+businesses around the world (including, for the avoidance of doubt, on the Group and its customers). 
+The spread of the COVID-19 virus, including its mutations and variations, continues to be unpredictable, 
+with uncertainty surrounding the full effects that have been, or will be, caused by the pandemic 
+throughout its duration. Further, in February 2022, Russia launched a military assault on Ukraine. The 
+assault started after a prolonged military build-up and the Russian recognition of the self-proclaimed 
+Donetsk People's Republic and the Luhansk People's Republic in the days prior to the military assault. 
+The situation in Eastern Europe have led to significant volatility in the financial markets and on the 
+global economy. The degree to which macro-economic and political factors, such as the situation in 
+Ukraine, may affect Bonnier Fastigheter is uncertain and presents a significant risk to its access to 
+financing and financing costs which in turn would have a negative impact on Bonnier Fastigheter’s 
+financial position and earnings.
+
+--- Page 10 ---
+10(55) 
+ 
+The Group operates in a competitive sector 
+Bonnier Fastigheter operates in a competitive sector, competing with e.g. Axfast, Huvudstaden, 
+Kungsleden, Castellum and Vasakronan. Among other things, the Group’s competitiveness depends on 
+its ability to attract and retain tenants, to anticipate future changes and trends in the sector, and to rapidly 
+adapt to both current and future market needs. Furthermore, Bonnier Fastigheter’s competitors may have 
+more resources at their disposal and may have the capacity to better withstand market downturns, to 
+compete more successfully, to better retain skilled personnel, and to respond more rapidly to evolving 
+tenant needs. Accordingly, Bonnier Fastigheter may have to make investments and restructurings or 
+agree to price reductions in order to adapt to a changed competitive situation, for example through the 
+renegotiation of lease terms. There is a risk that the Group will not be able to successfully counteract 
+the effects of competition in the business sector it operates in. If Bonnier Fastigheter is unable to 
+successfully compete, this failure will materially impact on rent levels and vacancy rates, and the 
+Group’s revenues could decline, which in turn may have a materially adverse impact on Bonnier 
+Fastigheter’s operations and financial position.  
+Supply and demand for properties, and therefore the yield on property investments, varies between 
+different geographic markets and property categories, and can thus develop differently within such 
+geographic markets and property categories. There is a risk that demand will fall, and the market’s yield 
+requirement will therefore increase within those geographic markets and property categories in which 
+Bonnier Fastigheter operates. This may have a material adverse impact on the Group’s profits and result. 
+Risks related to properties and development projects 
+Fluctuations in property value 
+The Group reports its property holdings at fair value, which for properties imply market value. The fair 
+value is based on an annual external valuation, supported by internal valuations of the properties carried 
+out continuously (currently twice a year). 
+As of 31 December 2022, Bonnier Fastigheter’s consolidated property portfolio has been externally 
+valuated to SEK 15,8 b. The result and financial position of the Group are therefore exposed to changes 
+in the property portfolio’s market value. A 50% value loss of the properties will lead to a loan-to-value 
+ratio of 71% for the Group, compared with the loan-to-value ratio of 35% of the Group on the date of 
+this prospectus. 
+The value of properties is impacted by several factors, which are outside the control of the Group, that 
+affect supply and demand such as the business cycle, interest rate level, financing and required yield. 
+The structure of contracts and customer base, as well as Bonnier Fastigheter’s capability to manage, 
+improve and develop its properties also impact the property portfolio’s valuation. Furthermore, a 
+property’s market value could be difficult to assess in a market with low turn-over. The value of the 
+properties is, assuming a fully functioning credit and transaction market, affected by supply and demand, 
+where the price is mainly dependent on the expected operational result of the relevant property and yield 
+requirements of the buyer. A reduced demand, higher yield requirements and negative growth will result 
+in a decreased market value. There is a risk that a negative development of the properties’ value will 
+adversely affect the Group’s net property assets value. 
+Rental income 
+Bonnier Fastigheter’s income primarily comprises rental income from its properties. Rents as well as 
+vacancies are strongly influenced by the growth of the Swedish economy as a whole, but also by the 
+growth on a regional and local level where the Group operates. The rental income and vacancies may 
+further be affected negatively in the event of bad customer care and/or property maintenance by the 
+Group. On 31 December 2022, the average contract duration was 3,6 years for all tenants (excluding
+
+--- Page 11 ---
+11(55) 
+ 
+garages and residentials). As a result, short-term variations in market rents would not have an immediate 
+impact on the Group’s rental revenues. Nevertheless, there is a risk that long-term rent levels are reduced 
+due to a decreasing demand, such a rent decrease will adversely affect the Group’s result and financial 
+position. 
+The risk of rental losses and vacancies is further affected by the Group’s tenant structure. The Groups 
+tenants comprise some 300 tenants secured through about 630 contracts. The largest tenant is Öhrlings 
+PricewaterhouseCoopers (PWC), standing for about 14 per cent of total rental income. Having large 
+commercial tenants may result in concentration risks. As of 31 December 2022, Bonnier Fastigheter’s 
+ten largest tenants accounted for close to 40 per cent of the rental income. There is a risk that one or 
+more of the Group’s larger tenants fail to fulfil their obligations to pay the agreed rents, which in turn 
+poses a significant risk to the operations and results of the Group. 
+There is also a risk that Bonnier Fastigheter’s tenants will not renew or extend their leases as they expire. 
+As an example, during a large part of the COVID-19 pandemic, it has been recommended that all persons 
+in Sweden who are able should work from home. Following the COVID-19 pandemic, the way many 
+people work could be permanently changed to more home-based, which could have an impact on the 
+Group’s tenants’ assessment for future office space, resulting in once or several tenants not renewing 
+their leases. Moreover, there is a risk that it will not be possible to find new tenants, or that new tenants 
+will have other requirements and preferences resulting in increased restructuring costs, which may not 
+always be compensated by increased rent levels. If tenants fail to perform their obligations at all – for 
+example in the event of bankruptcy – or only after debt collection measures have been taken, this may 
+also result in loss of revenue and an increased vacancy rate, with lower property values as a consequence. 
+This possible event is to a larger extent more likely to happen for certain sectors than others, e.g. 
+restaurants. If tenants fail to renew or extend their leases as they expire, or fail to pay agreed rents on 
+time or otherwise fail to perform their obligations, this may have a material adverse impact on the 
+Group’s operations and results. 
+Operating and maintenance costs 
+Operating and maintenance costs are mainly costs for electricity, cleaning, water, heating and snow 
+removal. Some of these services can only be purchased from a few operators, which can affect the price. 
+Further, the costs for electricity, heating and snow removal are affected by weather conditions. 
+Notwithstanding that most of Bonnier Fastigheter’s leases are structured in a manner that the tenant 
+defrays a significant part of these costs, there may be material adverse impact in the Group’s result in 
+case that it is not possible to receive increased rental payments to cover any such increased costs incurred 
+by the Group (for example in case of vacancies). 
+Measures aimed at maintaining the standard of Bonnier Fastigheter’s properties in the long-term and/or 
+modernising properties require maintenance and renovation expenditures. Such expenditures as are 
+necessary to satisfy market or legal requirements may be significant and unforeseen. Furthermore, there 
+are risks associated with the technical operation of properties, such as the risk of structural defects, other 
+defects or deficiencies, damage (for example, through fire or other forces of nature) and contamination. 
+Climate change also presents a risk of property damage caused by weather conditions, increased water 
+levels and changes in other physical environments that affect real estate. There is a risk that, in respect 
+of large-scale operating expenses, maintenance or renovation work, it may not be possible to (i) pass on 
+the associated costs to Bonnier Fastigheter’s tenants through increased rents or (ii) receive compensation 
+through insurance indemnification. 
+The property tax, which is based on the assessed value of the property, is based on political decisions. 
+This applies both to the basis of the calculation, the assessed value and the tax level. The property tax is 
+normally charged to the tenants for leased areas, whereas the tax for vacant areas is carried by the Group.
+
+--- Page 12 ---
+12(55) 
+ 
+To the extent Bonnier Fastigheter is not compensated for increased operating costs or losses in income, 
+there is a risk that the Group’s result and financial position is adversely affected. 
+Project developments, property investments and property transactions 
+Project development and property investments 
+Development projects, such as construction of new buildings and reconstructions and refurbishments of 
+existing buildings, are value creating but also associated with risk. Bonnier Fastigheter is dependent on 
+receiving relevant approvals from authorities to carry out such projects. Major tailor-made projects 
+entail substantial investments. Should the tenants of such project be unable to fulfil their obligation to 
+pay rent and Bonnier Fastigheter is unable to find other tenants for such premises, there is a risk that 
+Bonnier Fastigheter is unable to regain its investment in such projects. Certain projects will be 
+commenced without contracted tenants for all areas of the building, which entails a risk that there will 
+be vacancies when the project is finalised and in turn result in increased costs and/or decreased income, 
+having a negative impact on the Group’s operations and results. Further, there is a risk that major 
+constructions, reconstructions or refurbishments on any of the Group’s properties become more 
+expensive than initially expected and/or, are delayed and such delay results in the tenants not being able 
+to use the premises from the expected date, which in turn will result in increased costs and/or decreased 
+income for the Group, having an adverse effect on the financial position and result of the Group. 
+Going forward, the Group intends to expand its investments in new development projects which exposes 
+the Group to transaction costs or cancelled acquisitions, which could have a negative effect on the 
+Group’s earnings and financial position. Such new investments also exposes the Group to the risk that 
+it is unable to lease such properties, or where the rental value of such properties turns out to be less 
+profitable than expected, or where premises remain unsold and the Group has undesired tied-up capital 
+on the balance sheet, any of these factors or a combination of them, could have a material adverse effect 
+on the Group’s earnings and financial position. 
+Further, there is a risk connected to the failure of making the relevant and necessary investments, failing 
+which could result in the properties not maintaining, inter alia, satisfactory technical standards. Failure 
+to uphold such standards may result in unforeseen costs or investments or result in dissatisfied tenants 
+not prolonging or seeking to terminate their lease agreements. It is important for Bonnier Fastigheter to 
+maintain a close dialogue with its current tenants and have a decentralised organisation close to 
+customers, as well as local presence, to ensure that the properties are satisfactory to the tenants. If 
+Bonnier Fastigheter fails to continue to make relevant investments and improvements to its properties, 
+fails to maintain the dialogue with its tenants making it possible to make the necessary and relevant 
+improvements, or if the developments are unsuccessful that would adversely affect Bonnier 
+Fastigheter’s business and results. 
+Property transactions 
+A part of Bonnier Fastigheter’s operating activities consists of acquiring and divesting properties and 
+property-owning companies. Suitable investment targets for sale at reasonable prices are required in 
+order for transactions to be implemented. When the demand for the type of properties which in is line 
+with Bonnier Fastigheter investment strategy, there is a limited number of property companies and 
+property portfolios for sale or such property companies and /or properties are only available on 
+unfavourable terms for Bonnier Fastigheter, there is a risk Bonnier Fastigheter will be unable to acquire 
+properties in line with its investment strategy, posing a risk to Bonnier Fastigheter’s future business. In 
+addition, there is a risk that competitors with similar investment strategies will have access to greater 
+financial resources and have lower costs of capital than Bonnier Fastigheter, hence, prohibiting Bonnier 
+Fastigheter from making acquisitions which are in line with its investment strategy. If Bonnier 
+Fastigheter fails to make investments as intended, there is a risk that Bonnier Fastigheter would have an 
+unnecessary high over-head cost and accordingly lower future earnings. Future vacancies, tenants’
+
+--- Page 13 ---
+13(55) 
+ 
+inability to pay, environmental conditions and technical defects are other examples of transaction related 
+risks. Furthermore, the acquisition of companies incorporates legal and tax risks related to the historical 
+conditions of companies. It is therefore vital that the organisation has appropriate experience of property 
+transactions and that external advisors with relevant skills are appointed when deemed necessary. There 
+is a risk that the acquired businesses or properties will adversely affect Bonnier Fastigheter’s financial 
+position and result. In several of Bonnier Fastigheter’s divestment contracts in respect of divestment of 
+properties and property-owning companies it is possible for each buyer to invoke warranty claims. There 
+is a risk that claims will arise in the future and that such claims will adversely affect Bonnier 
+Fastigheter’s financial position and result. 
+Acquisitions of new properties and property-owning companies are also part of the Group’s strategy to 
+diversify its property portfolio by investing in residential properties. Should the Group not be able to 
+acquire new properties in accordance with its strategy, it will result in the Group’s exposure to 
+commercial properties not being risk balanced exposing, posing a risk that the Group’s financial position 
+and earnings should the demand for commercial properties decline. 
+Financial and liquidity risks 
+Liquidity and financing risks 
+A financing risk is defined as the risk of lack of funding or the ability to achieve funding only under 
+disadvantageous conditions. Liquidity risk is the risk that Bonnier Fastigheter will not be able to meet 
+its payment obligations when they fall due at all or without the related cost increasing significantly. The 
+Issuer’s business model is based on real estate assets being funded with equity and external borrowings 
+to generate returns on investor capital. Accordingly, access to external capital is a critical factor to enable 
+successful real estate operations. Neither the Guarantor nor the Bonnier group’s ultimate parents has 
+any obligation to inject additional equity to the Issuer and given that the Issuer cannot access the external 
+equity capital markets, the Issuer cannot rely on equity funding, whereby it can be essential to obtain 
+external capital solely through external borrowing, such as the Notes. Should the Issuer not be able to 
+obtain funds through external borrowing or if such borrowing won’t be made on attractive terms, it poses 
+a risk that the Issuer will be unable to fulfil its obligation under the Notes. 
+External borrowing accounts for a material part of Bonnier Fastigheter’s supply of funds, which on 31 
+December 2022 amounted to SEK 5,6 bn. Although Bonnier Fastigheter has access to long-term 
+financing at the moment, it is possible that the Group may in future breach the financial obligations 
+pursuant to its credit agreements, which may cause the lenders in question to terminate the agreements. 
+Bonnier Fastigheter is further dependent on its ability to refinance existing financing arrangements as 
+they fall due and to obtain additional financing at market terms in connection with for example property 
+acquisitions. In addition, major payment obligations may arise in conjunction with the refinancing of 
+loans in the event that lenders demand a lower loan-to-value ratio or if the relevant property falls in 
+value following the drawing of the relevant loan by Bonnier Fastigheter. In case the Group is unable to 
+refinance existing facilities or obtain additional financing at market terms, as a result of a deficiency in 
+the capital markets or for any other reason, or only at a materially increased cost there is a risk that this 
+would adversely affect Bonnier Fastigheter’s operations and financial position. 
+Moreover, if major unforeseen payment obligations with respect to operating expenses, such as costs 
+for heating, electricity, water and refuse collection, agreed maintenance charges, investments in project 
+development and other investments, as well as interest on, and the repayment of, external debt, arise for 
+Bonner Fastigheter, there is a risk that the Group’s liquidity will be insufficient to cover the performance 
+of such payment obligations. This may in turn have a material adverse impact on Bonnier Fastigheter’s 
+cash flow and liquidity.
+
+--- Page 14 ---
+14(55) 
+ 
+Interest rate fluctuation risks 
+Bonnier Fastigheter’s operations are primarily financed through equity and interest-bearing debts. For 
+example, as of 31 December 2022, the Group’s financing consisted of 61 per cent equity, 30 per cent 
+interest-bearing liabilities and 10 per cent of other liabilities. Bonnier Fastigheter’s capital structure 
+results in interest expenses being one of the main cost items. As a consequence, Bonnier Fastigheter is 
+exposed to the risk of changes in market interest rates and loan margins. On short maturities, market 
+interest rates are primarily impacted by the monetary policy of Sweden’s central bank, while for longer 
+maturities, interest rates are determined by expectations of future economic progress and inflation, 
+nationally and internationally. Changes in market interest rates can have an impact on earnings and cash 
+flow. Accordingly, finance with short fixed interest periods implies uncertainty regarding future 
+financing costs and ongoing cash flow. If the rates for Bonnier Fastigheter’s external liabilities were 
+raised by 1 percentage points, this would increase the Group’s financial costs by approximately 
+MSEK 25. Increased interest expenses may thus have a material adverse impact on the Group’s result 
+and financial position. 
+Credit and counterparty risks 
+A credit risk is mainly defined as the risk of Bonnier Fastigheter’s counterparties not fulfilling their 
+obligations to pay agreed rent or purchase price. The Group depends on its tenants to pay the agreed rent 
+when due. There is a risk that Bonnier Fastigheter’s counterparties default on their payments or 
+otherwise fail to meet their obligations. 
+Furthermore, Bonnier Fastigheter is exposed to counterparty risk in that the Group would suffer a loss 
+in the event of default by a bank counterparty. The risk arises as a result of occasional cash deposits 
+placed with clearing banks and the use of derivative financial instruments with banks. A default occurs 
+when a bank or other financial institutions fails to honour payments as they fall due. 
+The degree to which failure by contractual counterparties to satisfy obligations owing to the Group and 
+other credit risks may affect the Group is uncertain, and presents a significant risk to the Group’s 
+financial condition and results of operations. 
+Legal and compliance risks 
+Changes in applicable tax law and other regulations 
+Bonnier Fastigheter’s operations are affected by the applicable corporation tax, value added tax and 
+property tax rules in force from time to time in Sweden. This is also the case as regards other 
+governmental and municipal charges and contributions. Notwithstanding that Bonnier Fastigheter’s 
+operations are conducted in accordance with the Group’s interpretation of applicable laws and rules in 
+respect of taxes, there is a risk that its interpretation is incorrect or that applicable tax law and rules may 
+be amended with possible retroactive effect. In addition, future changes to applicable tax laws and rules 
+may affect the conditions for Bonnier Fastigheter’s earnings and/or costs. 
+As an example, the government has previously expressed an intention to increase the taxation of the real 
+estate sector, e.g. by imposing tax on transfer of “packaged” real estate. A proposed legislation, 
+(Paketeringsutredningen, (SOU 2017:27)), was presented by the Swedish government on 30 March 
+2017, but has at the date of this Base Prospectus not resulted in new legislation. There is a risk that, if 
+new legislation in relation to the taxation of the real estate sector would be implemented, this could lead 
+to tax payable upon Bonnier Fastigheter’s future disposal of property owning companies, which could 
+have a materially adverse effect on the Group’s business, financial position and earnings, considering 
+the difference between the fair market value and tax residual value of the properties held by the Group.
+
+--- Page 15 ---
+15(55) 
+ 
+There is a risk that such changes and other changes in the laws governing corporate, real estate and other 
+taxes will affect the conditions for Bonnier Fastigheter’s business and lead to tax payable upon the 
+Group’s future disposal of property-owning companies. There is also a risk that such decisions and 
+changes will adversely affect Bonnier Fastigheter’s profit and financials. 
+Environmental and related regulatory risks 
+Bonnier Fastigheter is subject to extensive and increasingly stringent environmental, health and safety 
+legislation and regulations relating to its acquisition, ownership, possession and management of 
+properties. Properties affect the environment through their construction, on-going maintenance and 
+through the activities conducted within them. According to the Swedish Environmental Code 
+(miljöbalken (1998:808)), entities and persons who pursue activities that have contributed to 
+contamination are responsible for remedying any harm caused. In Bonnier Fastigheter’s case, it would 
+normally be its tenants who are pursuing such activities. However, if the person pursuing the activity is 
+unable to investigate, carry out or defray the cost of remediation, responsibility for the investigation and 
+after-treatment may be imposed on the party that has acquired the property and, at the time of the 
+acquisition, was aware or should have been aware of the contamination. Consequently, there is a risk 
+that in certain circumstances claims may be brought against Bonnier Fastigheter for investigations, 
+remedying and monitoring contamination or for the clean-up of contamination that has taken place, in 
+order to maintain or restore properties to a condition that complies with the Swedish Environmental 
+Code. In the event such liability is imposed on the Group, it may have a material adverse impact on its 
+costs, revenues and result.  
+Further, changed legislation or regulatory requirements regarding environmental and energy use, 
+climate-related conversion risks and physical risks (e.g. extreme weather events such as torrential rains 
+and floods) as well as increasing customer requirements regarding environmental work and 
+environmental certifications can entail a risk of increased costs and financial losses. 
+Risks relating to the Notes 
+The claims of Noteholders are structurally subordinated 
+As is common for property companies, the Issuer’s and the Guarantor’s operations is to some extent 
+conducted through subsidiaries and other companies within the Group. Accordingly, the Issuer and the 
+Guarantor can be dependent on operations of other companies within the Group to service its payment 
+obligations in respect of the Notes. The Notes are structurally subordinated to the claims of all holders 
+of debt securities and other creditors, including creditors of the subsidiaries, and structurally and/or 
+effectively subordinated to the extent of the value of collateral to all the Issuer’s and the Guarantor and 
+its subsidiaries’ and other companies within the Group’s secured creditors. The Notes will be guaranteed 
+by the Guarantor but not by any of the Issuer’s or the Guarantor’s subsidiaries. In the event of an 
+insolvency, bankruptcy, liquidation, reorganisation, dissolution or winding up of the business of any of 
+the subsidiaries or other companies within the Group, unsecured creditors of such companies, secured 
+creditors and obligations that may be preferred by provisions of law that are mandatory and of general 
+application will generally have the right to be paid in full before any distribution is made to the Issuer 
+or the Guarantor (as applicable). Hence, there is a risk that a Noteholder loses part of or its entire 
+investment in the Notes, should the Issuer or the Guarantor, or any subsidiary or other company within 
+the Group, experience difficulties with meeting its financial obligations through an insolvency, 
+bankruptcy, liquidation, reorganisation, dissolution or winding up of the business. 
+Bonnier Fastigheter may provide collateral for other debt 
+Bonnier Fastigheter finances a portion of its operations through bank loans or other debt instruments, 
+with security interest over properties normally constituting a preferential claim on the borrower. The 
+Terms and Conditions do not contain any negative pledge undertaking other than in relation to Market
+
+--- Page 16 ---
+16(55) 
+ 
+Loans and, consequently, the Issuer and Bonnier Fastigheter may retain, provide or renew security over 
+its current or future assets to secure existing or additional bank loans. For example, the majority of 
+Bonnier Fastigheter’s properties are pledged as security for certain loans and debt instruments. Hence, 
+should the Issuer and/or the Guarantor provide collateral for debt other than the Notes, there is a risk 
+that there won’t be sufficient funds to repay the Noteholders in the event of the Issuer’s or the 
+Guarantor’s liquidation, reorganisation or bankruptcy. 
+Risks relating to the Guarantee 
+Although the Notes are unsecured, the Noteholders benefit from a guarantee issued by the Guarantor for 
+the Issuer’s obligations under the Notes (the “Guarantee”). There are no provisions in the Guarantee 
+that prevent the Guarantor from taking up loans or to provide security for other loans (including other 
+Market Loans). The Noteholders’ right to payment from the Guarantor under the Guarantee is subject 
+to, amongst other things, the availability of funds, the terms of the Guarantor’s indebtedness and local 
+law. In the event of insolvency, liquidation or a similar event relating to the Guarantor, all other 
+unsecured creditors of the Guarantor would be entitled to receive any proceeds from the realisation of 
+the Guarantor’s assets pari passu with the Noteholders’ claim under the Guarantee but only once 
+prioritised creditors (including secured creditors (if any)) of the Guarantor have been paid in full. 
+Since, subject to the Guarantee, neither the obligations of the Issuer under the Notes nor the Guarantor’s 
+obligations under the Guarantee are secured, there is a risk that the proceeds of any enforcement sale of 
+assets in connection with any insolvency procedure or winding-up of the Issuer or the Guarantor would 
+not be sufficient to satisfy all amounts then due on or in respect of the Notes. Accordingly, there is a 
+risk that an investor loses its investment or parts thereof in the event of the Issuer’s or Guarantor’s 
+liquidation, company reorganisation or bankruptcy. 
+Risks associated with Green MTN 
+What constitutes a Green MTN is determined by the criteria set out in the Issuer’s Green Financial 
+Framework (as defined in the Terms and Conditions). There is a risk that Green MTN’s in accordance 
+with these criteria does not fit all investors’ requirements or specific investment mandate. It is the 
+obligation of every investor to obtain up-to-date information regarding risks and principles for such 
+Notes as these may change or develop over time. Both the Green Financial Framework and market 
+practice may develop after the first issue date of a Green MTN. Any changes made to the Green Financial 
+Framework made following an issuance of Notes will not affect Noteholders of previously issued Green 
+MTN. 
+Any failure of Bonnier to comply with the Green Financial Framework does not constitute an event of 
+default or termination event under the Terms and Conditions. Neither are Noteholders entitled to early 
+payment, repurchase or redemption of any Notes, or other type of compensation for non-compliance 
+with the Green Financial Framework. Accordingly, there is a risk for investors in Green MTN that the 
+relevant Notes will cease to be classified as Green MTN forcing the relevant Noteholder to divest the 
+Note on unfavourable terms or that the relevant Noteholder will be unable to make a reinvestment in 
+securities which would give returns which are comparable with the Notes.  
+Furthermore, it should be noted that there is currently no clear definition (legal, regulatory or otherwise) 
+of, nor market consensus as to what constitutes, a “green” or equivalently-labelled projector as to what 
+precise attributes are required for a particular project to be defined as “green” or such other equivalent 
+label. A basis for the determination of such a definition has been established in the EU by Regulation 
+(EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 (the “Sustainable 
+Finance Taxonomy Regulation”) on the establishment of a framework to facilitate sustainable 
+investment (the “EU Sustainable Finance Taxonomy”). The EU Sustainable Finance Taxonomy is 
+subject to further development by way of the implementation by the European Commission through 
+delegated regulations of technical screening criteria for the environmental objectives set out in the
+
+--- Page 17 ---
+17(55) 
+ 
+Sustainable Finance Taxonomy Regulation. While the Issuer’s Green Finance Framework is expected 
+to be developed in alignment with the relevant objectives for the EU Sustainable Finance Taxonomy, 
+until the technical screening criteria for such objectives have been developed it is not known whether 
+the Issuer’s Green Finance Framework will satisfy those criteria. Accordingly, there is risk that the 
+Green MTN won’t fulfil the requirements set out in the EU Sustainable Finance Taxonomy and that 
+such non-compliance results in the market value of the Green MTN decreasing, posing a risk to a single 
+investor. 
+Risks relating to interest rate constructions 
+Notes with a fixed interest rate bear interest at a fixed rate until the Maturity Date for such Notes. The 
+value of such Notes is highly influenced by the market interest rate level. As the market interest rate 
+level changes, the value of the Notes with a fixed interest rate typically changes in the opposite direction, 
+i.e. if the market interest rate level increases, the market value of such Notes falls and if the general 
+interest rate level falls, the market value of such Notes increases. Since the price of Notes is adversely 
+affected by changes in the market interest rate level, there is a risk that Noteholders may lose all or a 
+significant part of their investment in such Notes. 
+Notes with a floating interest rate bear interest with a floating rate until the Maturity for such Notes. A 
+decrease in the general interest rate level generally means that the return of Notes bearing floating 
+interest rate may decrease. Investments in Notes with floating interest can be subject to fast and 
+substantial interest rate variations. There is a risk that the Base Rate decreases during the term of the 
+Notes, whereby the Interest Rate will decrease or even be zero. Such a decrease of the Interest Rate 
+presents a significant risk to the return on a Noteholder’s investment. 
+Notes with Zero Coupon bears no interest and may be issued at a discount, par or premium. The price 
+is normally determined by the market interest rate level. When there is a positive market interest rate, 
+the Notes with Zero Coupon are normally issued at a discount. The market value of such notes may be 
+adversely affected by changes in the market interest rate level. If the market interest rate level increases 
+in relation to the level at the issue date, the market value of Zero Coupon Notes will typically decrease. 
+Hence, there is a risk that changes in the market interest rate will result in Noteholders losing all or a 
+significant part of their investment in such Notes. Notes issued at a discount or premium tend to fluctuate 
+more as a result of a change in the market interest rate than Notes issued at par. 
+Risks relating to the regulation and reform of benchmarks, including STIBOR and 
+NIBOR 
+In order to ensure the reliability of reference rates, legislative action at EU level has been taken. Hence, 
+the Regulation (EU) no 2016/1011 of the European parliament and of the Council of 8 June 2016 on 
+indices used as benchmarks in financial instruments and financial contracts or to measure the 
+performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation 
+(EU) no 596/2014 (the “Benchmark Regulation”) which regulates the provision of reference values, 
+reporting of data bases for reference values and use of reference values within the EU. There is a risk 
+that the benchmark regulation may affect how certain reference rates are calculated. These reforms may 
+cause STIBOR and NIBOR to perform differently than in the past, or to disappear entirely, or have other 
+consequences which cannot be predicted. If this would be the case for STIBOR and/or NIBOR, and e.g. 
+the relevant fall-back solution evident from the Terms and Conditions should not work properly or 
+negatively for either or both of Bonnier or the Noteholders, this may lead to difficulties with determining 
+and calculating interest which in turn risks leading to costly and time consuming discussions (and maybe 
+even disputes) in respect of the matter, which in each case risks having an adverse effect on Bonnier 
+and/or the Noteholders. In addition, the increased administrative requirements and the associated 
+regulatory risks may decrease the will of some parties to participate in the determination of interest rate 
+benchmarks, potentially to the effect that certain reference interest rates will cease to be published 
+entirely.
+
+--- Page 18 ---
+18(55) 
+ 
+GENERAL TERMS AND CONDITIONS  
+The following terms and conditions (“Terms and Conditions”) shall apply to loans which AB Bonnier Fastigheter 
+Finans (publ) (Swedish Reg. No. 556068-1701) (the “Company”) issues on the capital market under this MTN 
+Programme (“MTN Programme”) by issuing bonds in SEK or NOK with varying terms, however not less than 
+one year, commonly referred to as medium term notes (“MTN”). 
+1. DEFINITIONS 
+ 
+In addition to the definitions set forth above, as used in these Terms and Conditions, the following 
+terms shall have the meanings set forth below. 
+“Account Operator” means a bank or other party duly authorised to operate as an account operator 
+(kontoförande institut) pursuant to the Swedish Financial Instruments Accounts Act (lag (1998:1479) 
+om värdepapperscentraler och kontoföring av finansiella instrument) or (kontofører) pursuant to the 
+Norwegian Financial Instruments Accounts Act and through which a Noteholder has opened a 
+Securities Account in respect of its MTN. 
+“Adjusted Loan Amount” means the total outstanding Nominal Amount of MTN in respect of a 
+particular Loan less the amount of all MTN held by a Group Company, whether or not the Group 
+Company is directly registered as owner of such MTN. 
+”Base Rate” means in regards to Loans with Floating Rate, the base rate STIBOR or NIBOR as 
+described in the Final Terms or any reference rate replacing STIBOR or NIBOR in accordance with 
+Section 12 (Replacement of Base Rate). 
+“Business Day” means: 
+(a) 
+in respect of Loans denominated in SEK, a day in Sweden other than a Sunday or other public 
+holiday or, with respect to the payment of promissory notes, a day which is not the equivalent 
+of a public holiday in Sweden (Saturdays, Midsummer’s Eve, Christmas Eve and New Year’s 
+Eve shall for the purpose of this definition be deemed to be public holidays); and 
+(b) 
+in respect of Loans denominated in NOK, a day which is not a Sunday or other public holiday 
+in Norway or which is not treated as a public holiday for the purpose of payment of promissory 
+notes and on which VPS is open for business in accordance with the VPS Rules. 
+“Calculation Agent” means: 
+(a) 
+if a Loan has been issued by two or more Issuing Dealers, the Issuing Dealer designated by the 
+Company to be responsible for certain administrative tasks regarding the Loan in accordance 
+with the Final Terms; and 
+(b) 
+if a Loan has been issued by only one Issuing Dealer, the Issuing Dealer. 
+“CSD” means the central securities depository in which MTN are registered, being Euroclear Sweden 
+for MTN denominated in SEK, and VPS for MTN denominated in NOK. 
+“Day Count Convention” means, when calculating an amount for a certain period, the basis of 
+calculation stated in the Final Terms and which: 
+(a) 
+if the calculation method “30/360” is specified as applicable, means that the amount is to be 
+calculated based on a year with 360 days consisting of twelve months each consisting of 30
+
+--- Page 19 ---
+19(55) 
+ 
+days each and, in the event of a partial month, the actual number of days which have elapsed 
+in the month; and 
+(b) 
+if the calculation method “Actual/360” is specified as applicable, means that the amount is to 
+be calculated on the actual number of days elapsed in the relevant period divided by 360. 
+“Dealers” means Danske Bank A/S, Danmark, Sverige Filial, DNB Bank ASA, filial Sverige, Nordea 
+Bank Abp, Skandinaviska Enskilda Banken AB (publ) and Svenska Handelsbanken AB (publ) and 
+every other dealer specially authorised by a CSD to process and register issues in the relevant CSD’s 
+system that accedes to this MTN Programme in accordance with Section 14.3, however only as long 
+as such institution has not retired as a dealer. 
+“Euroclear Sweden” means Euroclear Sweden AB (Swedish Reg. No. 556112-8074). 
+“Final Terms” means the final terms established for a particular Loan under this MTN Programme 
+in accordance with Appendix 1 (Form of Final Terms), with the additions and changes that may be 
+made from time to time. 
+“Framework Amount” is the framework amount which the Company and the Dealers agree on from 
+time to time, initially being SEK 5,000,000,000. 
+“Green Finance Framework” means the Company’s green finance framework as at the time of 
+issuance of the relevant Loan and as further specified in the relevant Final Terms. 
+“Green MTN” means any MTN issued under the MTN Programme in relation to which the paragraph 
+“Green MTN” in the relevant Final Terms is applicable. 
+“Group” means the Guarantor and its Subsidiaries from time to time (each a “Group Company”). 
+“Guarantee” means the Guarantor’s undertaking, according to Appendix 2 (Guarantee) to these 
+Terms and Conditions, as for its own debt (proprieborgen) for all of the Company’s obligations under 
+the Loans taken up by the Company under the MTN Programme. 
+“Guarantor” means Bonnier Fastigheter AB, a Swedish private limited liability company with 
+Swedish Reg. No. 556058-2354. 
+"Insolvent" means, in respect of a relevant person, that it is deemed to be insolvent, or admits inability 
+to pay its debts as they fall due, in each case within the meaning of Chapter 2, Sections 7-9 of the 
+Swedish Bankruptcy Act (konkurslagen (1987:672)) (or its equivalent in any other relevant 
+jurisdiction). 
+“Interest Commencement Date” means, according to the Final Terms, the date from which interest 
+(where applicable) begins to accrue. 
+“Issuing Dealer”, means, in accordance with the Final Terms, that or those Dealers through which 
+MTN will be or have been issued. 
+“Loan” means every Loan, comprising of one or more MTN, issued by the Company under this MTN 
+Programme. 
+“Loan Terms” means, for a particular Loan, these Terms and Conditions and the Final Terms for 
+such Loan. 
+“Margin” has the meaning specified in the Final Terms. 
+“Market Loan” means loans taken up through the issuance of commercial paper, bonds or other 
+securities (including loans under MTN or other market loan programmes) which are sold, brokered, 
+or invested in an organised form and which are, or may be, admitted to trading on a Regulated Market.
+
+--- Page 20 ---
+20(55) 
+ 
+“Maturity Date” means, in accordance with the Final Terms, the date when MTN shall be repaid. 
+“MTN” means a unilateral debt instrument in the Nominal Amount which has been registered in 
+accordance with: 
+(a) 
+in relation to MTN denominated in SEK, the Swedish Financial Instruments Accounts Act (lag 
+(1998:1479) om värdepapperscentraler och kontoföring av finansiella instrument); and 
+(b) 
+in relation to MTN denominated in NOK, the Norwegian Financial Instruments Accounts Act, 
+and which is part of a Loan issued by the Company under this MTN Programme. 
+“NIBOR” means: 
+(a) 
+the interest rate administered, calculated and distributed by the Norske Finansielle Referenser 
+AS and calculated in cooperation with Global Rate Set Systems Ltd (or the replacing 
+administrator or calculation agent) for the relevant day and published on the information 
+system Refinitiv’s page ”OIBOR=” (or through such other system or on such other page as 
+replaces the said system or page) for NOK for a period comparable to the relevant Interest 
+Period; or 
+(b) 
+if no such interest rate is available for the relevant Interest Period as described in paragraph 
+(a), the arithmetic mean of the rates (rounded upwards to four decimal places) as supplied to 
+the Calculation Agent at its request quoted by the Reference Banks for deposits of 
+NOK 100,000,000 for the relevant Interest Period; or 
+(c) 
+if no such interest rate as described in paragraph (a) or (b) is available, the interest rate which, 
+according to the reasonable assessment of the Calculation Agent, best reflects the interest rate 
+for deposits in NOK offered in the Oslo interbank market for the relevant Interest Period.  
+“NOK” means the lawful currency of Norway. 
+“Nominal Amount” means the amount of each MTN as stated in the Final Terms. 
+“Norwegian Financial Instruments Accounts Act” means the Norwegian Financial Instruments 
+Accounts Act (lov (2019:6) om verdipapirsentraler og verdipapiroppgjør mv.). 
+“Norwegian Record Date” means the second (2) Business Day prior to: 
+(a) 
+an Interest Payment Date; 
+(b) 
+a Maturity Date or any other date when payment is to be made to Noteholders; 
+(c) 
+the date of a Noteholders’ Meeting; or 
+(d) 
+another relevant date, 
+or in each case such other Business Day falling prior to a relevant date if generally applicable on the 
+Norwegian debt capital market. 
+“Noteholder” means the person who is registered on a Securities Account as direct registered owner 
+(direktregistrerad ägare) or nominee (förvaltare) with respect to an MTN.
+
+--- Page 21 ---
+21(55) 
+ 
+“Noteholders’ Meeting” means a meeting among the Noteholders held in accordance with Section 13 
+(Noteholders’ Meeting). 
+“Paying Agent” shall have the meaning given in clause 5.3 below. 
+“Record Date” means a Norwegian Record Date in respect of Notes denominated in NOK or, in the 
+event of Loans denominated in SEK, the fifth Business Day (or another Business Day prior to the 
+relevant day which is market practice on the Swedish bond market), prior to: 
+(a) 
+the payment date for interest or principal in accordance with the Loan Terms; or  
+(b) 
+another day on which payment is to be made to Noteholders; 
+(c) 
+the date of the Noteholders’ Meeting;  
+(d) 
+dispatch of notice; or 
+(e) 
+another relevant date. 
+“Reference Banks” means: 
+(a) 
+the Dealers (or, if applicable, any relevant branch of any of the Dealers) appointed under this 
+MTN Programme; or 
+(b) 
+if none, or only one, of the Dealers provide a quotation for STIBOR or NIBOR, such replacing 
+banks who at the relevant time provide a quotation for STIBOR or NIBOR and as appointed 
+by the Calculation Agent. 
+“Regulated Market” means any regulated market as defined in Directive 2014/65/EU on markets in 
+financial instruments. 
+“Securities Account” means a securities account maintained, if the MTN are denominated in SEK, 
+by Euroclear Sweden in accordance with the Swedish Financial Instruments Accounts Act or, if the 
+MTN are denominated in NOK, by VPS pursuant to the Norwegian Financial Instruments Accounts 
+Act and the VPS Rules, in which: 
+(a) 
+an owner of securities is directly registered as the owner of securities; or 
+(b) 
+an owner’s holding of securities is registered in the name of a nominee. 
+“SEK” means the lawful currency of Sweden. 
+“STIBOR” means: 
+(a) 
+the interest rate administered, calculated and distributed by the Swedish Financial 
+Benchmark Facility AB (or the replacing administrator or calculation agent) for the relevant 
+day and published on the information system Refinitiv’s page ”STIBOR=” (or through such 
+other system or on such other page as replaces the said system or page) for SEK for a period 
+comparable to the relevant Interest Period; or  
+(b) 
+if no such interest rate is available for the relevant Interest Period as described in 
+paragraph (a), the arithmetic mean of the rates (rounded upwards to four decimal places) as 
+supplied to the Calculation Agent at its request quoted by the Reference Banks for deposits 
+of SEK 100,000,000 for the relevant Interest Period; or
+
+--- Page 22 ---
+22(55) 
+ 
+(c) 
+if no such interest rate as described in paragraph (a) or (b) is available, the interest rate which, 
+according to the reasonable assessment of the Calculation Agent, best reflects the interest 
+rate for deposits in SEK offered in the Stockholm interbank market for the relevant Interest 
+Period.  
+“Subsidiary” means, in relation to any person, any Swedish or foreign legal entity (whether 
+incorporated or not), which at the time is a subsidiary (dotterföretag) to such person, directly or 
+indirectly, as defined in the Swedish Companies Act (aktiebolagslagen (2005:551)). 
+“VPS” means the central securities depository in which MTN denominated in NOK are registered, 
+being Verdipapirsentralen ASA, a limited liability company incorporated under the laws of Norway 
+with Reg. No. 985 140 421. 
+“VPS Rules” means the VPS Rules for Registration of Financial Instruments. 
+ 
+Additional definitions, such as Interest Structure, Base Rate, Interest Determination Date, Interest 
+Payment Date(s) and Interest Period are set forth (where applicable) in the Final Terms. 
+ 
+The definitions set forth in these Terms and Conditions also apply to the Final Terms. 
+ 
+Upon calculation of whether a limit described in SEK has been reached or exceeded, an amount in 
+another currency shall be calculated based on the exchange rate applicable on the Business Day 
+immediately preceding the relevant point in time and which is published on Refinitiv’s screen 
+”SEKFIX=” (or through another system or another screen which replaces such system or screen) or, 
+where such rate is not published, according to the rate for SEK for the relevant currency on the 
+aforementioned day which is published by the Swedish Central Bank on its website 
+(www.riksbank.se). 
+2. 
+ISSUANCE OF LOANS 
+2.1 
+Under this MTN Programme, the Company may issue MTN, denominated in SEK or in NOK, with a 
+maturity of at least one year. Under a Loan, MTN may be issued in multiple tranches without the 
+approval of any Noteholder. 
+2.2 
+By subscribing to MTN, each initial Noteholder approves that its MTN shall have the rights and be 
+subject to the conditions set forth in, and be governed by, the provisions of the Loan Terms. By 
+acquiring MTN, each new Noteholder confirms such approval. 
+2.3 
+The Company undertakes to make payments in respect of issued MTN and to otherwise comply with 
+the Loan Terms for the Loans issued under this MTN Programme. 
+2.4 
+If the Company wishes to issue MTN under this MTN Programme, the Company shall enter into a 
+separate agreement for this purpose with one or more Dealers which shall be the Issuing Dealer for 
+such Loan. 
+2.5 
+Final Terms shall be established in relation to each particular Loan which together with these Terms 
+and Conditions shall constitute the complete Loan Terms for the Loan.  
+3. 
+REGISTRATION OF MTN 
+3.1 
+MTN will be registered on a Securities Account on behalf of Noteholders and, accordingly, no 
+physical securities will be issued. Registration requests relating to MTN shall be directed to an 
+Account Operator. 
+3.2 
+Any person who on the basis of an assignment, pledge, the provisions of the Children and Parents 
+Code (föräldrabalken), the terms of a will or deed of gift or otherwise is entitled to receive payment 
+in respect of an MTN must cause their rights to be registered with the CSD in order to receive such 
+payment.
+
+--- Page 23 ---
+23(55) 
+ 
+3.3 
+The Calculation Agent and the Paying Agent shall be entitled to obtain information from the CSD 
+regarding the contents of its debt register for MTN for the purpose of carrying out its duties in 
+accordance with these Terms and Conditions. The Calculation Agent and the Paying Agent shall not 
+be responsible for the content of such excerpt nor are they in any other way obligated to verify who is 
+a Noteholder. 
+4. 
+RIGHT TO ACT ON BEHALF OF A NOTEHOLDER 
+4.1 
+Any person other than a Noteholder wishing to exercise the Noteholder’s rights under the Loan Terms 
+or vote at a Noteholders’ Meeting must present a power of attorney or other proof of authorisation 
+from the Noteholder or a successive, coherent chain of powers of attorney or proof of authorisation 
+starting with the Noteholder. 
+4.2 
+A Noteholder may issue one or several powers of attorney to third parties to represent it in relation to 
+some, or all, of the MTN held by the Noteholder. Any such representative may act independently. 
+4.3 
+The Calculation Agent shall only have to examine the face of a power of attorney or other 
+authorisation that has been provided to it pursuant to clause 4.1 and may assume that such document 
+has been duly authorised, is valid, has not been revoked or superseded and that it is in full force and 
+effect, unless otherwise is apparent from its face or the Calculation Agent has actual knowledge to the 
+contrary. 
+4.4 
+These Terms and Conditions shall not affect the relationship between a Noteholder who is the nominee 
+(förvaltare) with respect to an MTN and the owner of such MTN, and it is the responsibility of such 
+nominee to observe and comply with any restrictions that may apply to it in this capacity. 
+5. 
+PAYMENTS 
+5.1 
+MTN become due and payable in the Nominal Amount including interest (if applicable) on the 
+Maturity Date. In the event the Maturity Date is a day which is not a Business Day, the Loan is not 
+repaid until the following Business Day. Interest according to Section 6 (Interest) shall be paid on the 
+relevant Interest Payment Date. The Company’s obligations under the MTN and each Loan are 
+guaranteed by the Guarantor, in accordance with the terms of the Guarantee. 
+5.2 
+Payment in respect of MTN denominated in SEK shall be made in SEK and, in respect of MTN 
+denominated in NOK, shall be made in NOK and made to the person who is registered as a Noteholder 
+on the Record Date for the respective payment date or to such person who is registered with the 
+relevant CSD on the relevant Record Date as being entitled to receive such payment. 
+5.3 
+The Company shall if any Loans denominated in NOK are to be issued, appoint a paying agent 
+(“Paying Agent”) to facilitate payments of interest and repayment of principal amount for Loans 
+issued in NOK. The Company undertakes to, for as long as any Loans registered with VPS are 
+outstanding, procure that payments of interest and repayment of principal amounts for such Loans 
+may be made by the Paying Agent in accordance with the conditions, the rules and regulations of VPS 
+and the relevant agreements between the Company and the Paying Agent. 
+5.4 
+If a Noteholder has registered, through an Account Operator, that principal or interest shall be 
+deposited into a certain bank account, such deposit shall be effected by the CSD or the Paying Agent 
+on the relevant payment date. In all other cases, the CSD or the Paying Agent shall transfer the amount 
+on the respective payment date to the Noteholder to the address registered with the CSD on the Record 
+Date. 
+5.5 
+Should the CSD or the Paying Agent not be able to effect payments as aforesaid due to an impediment 
+attributable to the Company or due to any other impediment, the Company shall ensure that such 
+payments are made to the persons who are registered as Noteholders on the relevant Record Date as
+
+--- Page 24 ---
+24(55) 
+ 
+soon as possible after such impediment no longer exists. In such case, interest shall be payable 
+according to Section 7.1. 
+5.6 
+In the event the Company is unable to perform a payment obligation through the CSD due to an 
+impediment attributable to the CSD or the Paying Agent, the Company shall be entitled to postpone 
+the payment obligation until such time as the impediment no longer exists. In such case, interest shall 
+be payable according to Section 7.2. 
+5.7 
+If payment is made in accordance with this Section 5 to a person not entitled to receive such amount, 
+the Company and the CSD and the Paying Agent shall nonetheless be deemed to have fulfilled their 
+payment obligations. However, the aforementioned shall not apply if the Company or the CSD or the 
+Paying Agent were aware that payment was made to a person not entitled to receive the payment or if 
+the Company or the CSD or the Paying Agent did not act with normal care. 
+6. 
+INTEREST 
+6.1 
+For Loans on which interest accrues, interest shall be calculated on the Nominal Amount. 
+6.2 
+Interest on a certain Loan is calculated and payable (where applicable) in accordance with the Final 
+Terms. The relevant Interest Structure shall be stated in the Final Terms according to one of the 
+following alternatives: 
+(a) 
+Fixed Rate 
+If a Loan is specified as a Loan with a Fixed Rate, the Loan will bear interest according to the 
+Interest Rate: 
+(i) 
+In respect of Loans issued in SEK, from, but excluding, the Interest 
+Commencement Date up to and including the Maturity Date; and 
+(ii) 
+in respect of Loans issued in NOK, from (and including) the Interest 
+Commencement Date up to (but excluding) the Maturity Date.  
+Interest is calculated using the Day Count Convention 30/360. 
+(b) 
+Floating Rate (FRN) 
+If a Loan is specified as a Loan with Floating Rate, the Loan will bear interest at the Interest 
+Rate: 
+(i) 
+in respect of Loans issued in SEK, from, but excluding, the Interest 
+Commencement Date up to and including the Maturity Date. The Interest Rate for 
+the relevant Interest Period shall be calculated by the Calculation Agent on the 
+respective Interest Determination Date and is the sum of the Base Rate and the 
+Margin for the relevant period, adjusted for the application of Section 12 
+(Replacement of Base Rate); and 
+(ii) 
+in respect of Loans issued in NOK, from (and including) the Interest 
+Commencement Date up to (but excluding) the Maturity Date. The Interest Rate 
+for the relevant Interest Period shall be calculated by the Calculation Agent on the 
+respective Interest Determination Date and shall be notified to the Paying Agent 
+and is the sum of the Base Rate and the Margin for the relevant period, adjusted 
+for the application of Section 12 (Replacement of Base Rate).  
+If the Interest Rate cannot be determined on the Interest Determination Date due to such 
+impediment as referred to in Section 17.1, interest shall continue to accrue on the Loan at the
+
+--- Page 25 ---
+25(55) 
+ 
+interest rate applicable to the preceding Interest Period. As soon as the impediment no longer 
+exists, the Calculation Agent or the Paying Agent, as applicable, shall calculate a new Interest 
+Rate which shall be effective from the second Business Day following the day of the 
+calculation until the expiration of the current Interest Period. 
+Interest is calculated using the Day Count Convention Actual/360 or by using such other 
+method of calculation as is applied for the relevant Base Rate. 
+(c) 
+Zero Coupon 
+If the Loan is specified as a Zero Coupon it bears no interest. Loans with Zero Coupon may be 
+issued at a discount, par or premium. 
+6.3 
+Accrued interest (where applicable) is paid in arrears on the relevant Interest Payment Date. 
+6.4 
+If the Interest Payment Date for a Loan bearing a Fixed Rate is not a Business Day, interest will be 
+paid on the next Business Day. Interest is calculated and accrued only up to and including the Interest 
+Payment Date for Loans issued in SEK and up to, but excluding, the Interest Payment Date for Loans 
+issued in NOK. 
+6.5 
+If the Interest Payment Date for a Loan with a Floating Rate is not a Business Day, the next Business 
+Day shall be the Interest Payment Date provided that such Business Day does not occur in a new 
+calendar month, in which case the Interest Payment Date shall be the previous Business Day. Interest 
+is calculated and payable up to and including the Interest Payment Date for Loans issued in SEK and 
+up to, but excluding the Interest Payment Date for Loans issued in NOK. 
+7. 
+DEFAULT INTEREST 
+7.1 
+In the event of any default in payment, default interest shall be payable on the overdue amount from 
+its due date up to and including the date on which payment is made at a rate corresponding to the 
+average of one week STIBOR for MTN denominated in SEK and one week NIBOR for MTN 
+denominated in NOK for the duration of the delay, plus two percentage points in each case. For this 
+purpose, STIBOR and NIBOR shall be determined on the first Business Day in each calendar week 
+for the duration of the period of default. Default interest in accordance with this Section 7.1 for 
+interest-bearing Loans shall never be paid at an interest rate lower than the interest rate applicable to 
+the relevant Loan on its relevant due date plus two percentage points. Default interest shall not be 
+capitalised. 
+7.2 
+If the default in payment is due to an impediment affecting a Dealer or the CSD, default interest shall 
+accrue at a rate corresponding to: 
+(a) 
+for interest-bearing Loans, the interest rate applicable to the relevant Loan on its relevant due 
+date; or  
+(b) 
+for Zero Coupon Loans, the average of one week STIBOR or NIBOR respectively for the 
+duration of the delay (whereby STIBOR and NIBOR shall be determined on the first Business 
+Day of each calendar week for the duration of the period of default). 
+8. 
+REPAYMENT AND REPURCHASE 
+8.1 
+Each Loan shall be redeemed on its Maturity Date in an amount equal to its Nominal Amount or such 
+other amount specified in the relevant Final Terms, together with accrued but unpaid interest. If the 
+Maturity Date is not a Business Day, redemption shall occur on the first following Business Day.
+
+--- Page 26 ---
+26(55) 
+ 
+8.2 
+The Company may repurchase MTN at any time and at any price in the open market or otherwise 
+provided that repurchase is in compliance with applicable law. MTN owned by the Company may, in 
+the discretion of the Company, be retained, resold or cancelled. 
+9. 
+REPURCHASE UPON CHANGE OF CONTROL 
+9.1 
+Each Noteholder is entitled to demand repurchase of all, or some, of the MTN held by the Noteholder, 
+if: 
+(a) 
+for as long as no shares of the Guarantor are listed on any Regulated Market, Albert Bonnier 
+AB (a private limited liability company incorporated under the laws of Sweden with Swedish 
+Reg. No. 556520-0341), directly or indirectly, ceases to own shares in the Guarantor 
+representing more than 50 per cent. of the votes in the Guarantor; 
+(b) 
+if the shares in the Guarantor have been listed on any exchange, one or more persons (other 
+than the Albert Bonnier AB) acting together, acquire control over the Guarantor and where 
+“control” means: 
+(i) 
+acquiring or controlling, directly or indirectly, more than 50 per cent. of the votes in the 
+Guarantor; or 
+(ii) 
+the right to, directly or indirectly, appoint or remove the whole or a majority of the 
+directors of the board of directors of the Guarantor; or 
+(c) 
+the Guarantor ceases to own 100 per cent. of the shares in the Company representing 100 per 
+cent. of the votes in the Company. 
+9.2 
+As soon as the Company obtains knowledge of such an event according to Section 9.1, the Company 
+shall be obligated to notify the Noteholders of such event through a press release published on the 
+Company’s website and in accordance with Section 16 (Notices). The notice shall contain instructions 
+regarding how a Noteholder wishing to have an MTN repurchased must proceed as well as specifying 
+the repurchase date.  
+9.3 
+The repurchase date shall occur no earlier than twenty (20) and no later than forty (40) Business Days 
+after notice of change mentioned in Section 9.2. However, in the event the repurchase date is not a 
+Business Day, the repurchase date shall be deemed to be the Business Day immediately following. 
+9.4 
+Where a right to repurchase exists, the Company shall, upon demand by a Noteholder, repurchase the 
+relevant MTN on the repurchase date at its Nominal Amount together with accrued interest (if any) 
+which would have been repaid on the final Maturity Date, together with accrued interest (where 
+applicable). For MTN with Zero Coupon, an amount per MTN calculated in accordance with 
+Section 11.5 shall be paid instead. 
+9.5 
+Notices from Noteholders regarding demands for repurchase of MTN’s shall be drafted in accordance 
+with the instructions set forth in the notice provided to the Noteholders in accordance with Section 9.2. 
+The Notice from the Noteholder must be received by the Company at least ten (10) Business Days 
+before repurchase date.
+
+--- Page 27 ---
+27(55) 
+ 
+10. 
+GENERAL UNDERTAKINGS 
+As long as any MTN is outstanding the Company and the Guarantor, where applicable, undertake as 
+follows. 
+10.1 
+Status of the Loan 
+The Company shall ensure that its payment obligations under the Loan rank at least pari passu with 
+its other unsubordinated and unsecured payment obligations, save for such obligations as may be 
+preferred by provisions of law that are both mandatory and of general application. 
+10.2 
+The Company’s operations and assets 
+The Company and the Guarantor undertake not to materially change the nature of the Group’s 
+operations or to sell or otherwise dispose of any asset where such sale or disposition has a material 
+adverse effect on the Company’s or the Guarantor’s ability to perform their respective obligations 
+towards the Noteholders. 
+10.3 
+Securing of other Market Loans 
+The Company and the Guarantor undertake to ensure, as long as any MTN is outstanding, that no 
+Group Company maintains, prolongs or provides any guarantee or security over any of the Group’s 
+present or future assets to secure any Market Loan, other than any guarantee provided by the 
+Guarantor which shall always be permitted. 
+10.4 
+Admission to trading on a regulated market 
+The Company undertakes to apply for admission on the relevant Regulated Market for Loans which 
+according to the Final Terms must be admitted to trading on a Regulated Market, and to take any 
+measures that may be required to maintain the admission as long as the relevant Loan is outstanding, 
+however, not longer than as permitted under applicable laws and regulations. 
+10.5 
+Governing law 
+The Company undertakes to comply in all material respects with any rules and instructions issued 
+from time to time by Swedish or relevant foreign governmental authorities, central banks, or other 
+public authorities or Regulated Markets to which the MTN have been admitted to trading. 
+10.6 
+Green Finance Framework 
+The Company shall by no later than the first trade date of a Green MTN under these Terms and 
+Conditions maintain a Green Finance Framework, which shall thereafter and for as long as any Green 
+MTN remain outstanding, be published on the Company’s website. The Company may elect to issue 
+MTN where the proceeds from such issuance shall, if so provided in the relevant Final Terms, be 
+applied in accordance with the Green Finance Framework. 
+10.7 
+Availability of Loan Terms 
+The Company undertakes to make the current version of these Terms and Conditions, the Guarantee, 
+and the Final Terms for all outstanding Loans admitted to trading on a Regulated Market available on 
+the Company’s website and to ensure that the Guarantee is valid for all outstanding Loans.
+
+--- Page 28 ---
+28(55) 
+ 
+11. 
+TERMINATION OF LOANS 
+11.1 
+The Calculation Agent shall declare in writing a relevant Loan, together with accrued interest (if any), 
+immediately due and payable, or payable at such time as the Calculation Agent or the Noteholders’ 
+Meeting (as applicable) decides, upon the occurrence of any circumstance stated in Section 11.2 and 
+if: 
+(a) 
+so decided by the Noteholders under a Loan at the Noteholders’ Meeting; or 
+(b) 
+so demanded in writing by Noteholders who, at the time of demand, represent not less than 10 
+per cent. of the total outstanding Adjusted Loan Amount for the relevant Loan. Upon demand, 
+a Noteholder shall provide evidence that the Noteholder is a Noteholder on the relevant 
+Business Day. 
+Demand for acceleration may only be made by a Noteholder who alone represents 10 per cent. of the 
+total outstanding Nominal Amount or jointly by Noteholders who, together, represent 10 per cent. of 
+the total outstanding Nominal Amount on the relevant Business Day.  
+11.2 
+Loans may only be declared due and payable in accordance with Section 11.1 provided that: 
+(a) 
+Non-Payment 
+The Company or the Guarantor fails to make timely payment of principal or interest regarding 
+the relevant Loan under this MTN Programme, unless the delay: 
+(i) 
+is a result of a technical or administrative error; and  
+(ii) 
+does not continue for more than three (3) Business Days. 
+(b) 
+Other obligations 
+The Company or the Guarantor does not comply with any terms of or acts in violation of the 
+Loan Terms regarding relevant Loans under this MTN Programme (other than those terms 
+referred to in paragraph (a) above), unless the non-compliance: 
+(i) 
+is capable of remedy; and 
+(ii) 
+is remedied within twenty (20) Business Days of the earlier of a written demand by the 
+Calculation Agent, Issuing Dealer or Noteholders representing not less than 10 per cent. 
+of the total outstanding Nominal Amount of the relevant Loan and the Company 
+becoming aware of the non-compliance. 
+Notwithstanding the above, any failure to comply with (A) the undertaking set out in 
+Section 10.6 (Green Finance Framework), (B) the terms of the Green Finance Framework 
+itself, in respect of the paragraph “Green MTN” in any Final Terms and/or (C) if the paragraph 
+“Green MTN” in any Final Terms is applicable, the section “The use of the proceeds” in the 
+Final Terms, shall under no circumstances constitute a breach of the Terms and Conditions or 
+any Loan Terms. 
+(c) 
+Cross payment default and acceleration 
+Any financial indebtedness of a Group Company is not paid when due as extended by any 
+originally applicable grace period, or is declared to be or otherwise becomes due and payable 
+prior to its specified maturity as a result of an event of default (however described), provided
+
+--- Page 29 ---
+29(55) 
+ 
+that Loans may only be declared due and payable under this paragraph (c) if the aggregate 
+amount of financial indebtedness referred to herein is at least SEK 25,000,000 or its equivalent. 
+(d) 
+Insolvency 
+Any of the Company or the Guarantor is, or is deemed for the purposes of any applicable 
+regulation to be, Insolvent. 
+(e) 
+Insolvency proceedings 
+Any corporate action, legal proceedings or other procedure or step other than vexatious or 
+frivolous and as disputed in good faith and discharged within thirty (30) Business Days is taken 
+in relation to: 
+(i) 
+the suspension of payments, a moratorium of any indebtedness, winding-up, 
+dissolution, administration, company reorganisation (företagsrekonstruktion) or 
+bankruptcy (konkurs) of the Company or the Guarantor; 
+(ii) 
+a composition, compromise, assignment or arrangement with creditors of the Company 
+or the Guarantor generally; 
+(iii) 
+the appointment of a liquidator, administrator or other similar officer in respect of the 
+Company or the Guarantor or any of their respective assets; or 
+(iv) 
+any step analogous to paragraphs (i)-(iii) above is taken in any jurisdiction in relation 
+to the Company or the Guarantor. 
+(f) 
+Creditors’ process 
+Any attachment, sequestration, distress or execution, or any analogous process in any 
+jurisdiction, affects any asset of the Company or the Guarantor having a value of not less than 
+SEK 100,000,000 or its equivalent and which is not discharged within thirty (30) Business 
+Days. 
+(g) 
+Merger 
+A circumstance occurs which entails that the Company or the Guarantor is replaced as the 
+debtor under a relevant Loan by another party (or a decision to do so has been adopted, for 
+example by the Company’s board of directors preparing a merger plan under which the 
+Company will be the transferring company) and such decision has not been approved by the 
+Noteholders in accordance with Section 13.9. 
+(h) 
+Invalidity of the Guarantee 
+The Guarantee is not valid for any outstanding Loan. 
+11.3 
+The Calculation Agent may not declare the relevant Loan together with interest (if any) due for 
+payment in accordance with this Section 11 by reference to circumstances constituting an event of 
+default if a Noteholders’ Meeting has resolved that the relevant circumstances shall not give rise 
+(temporarily or permanently) to an acceleration pursuant to Section 11. 
+11.4 
+The Company shall be obligated to immediately notify the Issuing Dealers and the Noteholders in 
+accordance with Section 16 (Notices) in the event grounds for acceleration exist as stated in 
+Section 11.2. In the absence of such notice, neither the Calculation Agent nor the Issuing Dealer, 
+irrespective of actual knowledge, shall be deemed to be aware of grounds for acceleration. Neither the 
+Calculation Agent nor the Issuing Dealer is obligated itself to monitor whether the conditions for 
+acceleration exist according to Section 11.2.
+
+--- Page 30 ---
+30(55) 
+ 
+11.5 
+Upon redemption of Loans following acceleration in accordance with Section 11.1: 
+(a) 
+interest-bearing Loans shall be redeemed at an amount per MTN which, together with accrued 
+interest, would have been redeemed on the final Maturity Date; and 
+(b) 
+non-interest-bearing Loans shall be redeemed at an amount per MTN determined by the 
+following formula as per the date of acceleration of the Loan: 
+Nominal Amount 
+(1 + r)t 
+r =  
+the ask rate quoted by the Calculation Agent for Swedish government bonds with 
+an outstanding term to maturity corresponding to the remaining term of the 
+relevant Loan. In the absence of such ask rate, the bid rate shall be used instead, 
+as reduced by a market bid/ask spread, expressed in percentage points. The 
+calculation shall be based on the closing quotation. 
+t =  
+the remaining term for the relevant Loan, expressed in the Day Count Convention 
+Actual/360 for MTN denominated in SEK or NOK. 
+12. 
+REPLACEMENT OF BASE RATE 
+12.1 
+If a Base Rate Event as described in Clause 12.2 below has occurred, the Company shall, in 
+consultation with the Arranger, initiate the procedure to, as soon as reasonably possible, determine a 
+Successor Base Rate, Adjustment Spread, as well as initiate the procedure to determine upon 
+necessary administrative, technical and operative amendments to the Loan Terms in order to apply, 
+calculate and finally decide the applicable Base Rate. The Arranger is not obligated to participate in 
+such consultation or determination as described above. Should the Arranger not participate in such 
+consultation or determination, the Company shall, at the Company’s expense, as soon as possible 
+appoint an Independent Adviser to initiate the procedure to, as soon as reasonably possible, 
+determine upon the mentioned. Provided that the Successor Base Rate, the Adjustment Spread and 
+other amendments have been finally decided no later than prior to the relevant Interest 
+Determination Date in relation to the next succeeding Interest Period, they shall become effective 
+with effect from and including the commencement of the next succeeding Interest Period, always 
+subject to any technical limitations of the relevant CSD and any calculations methods applicable to 
+such Successor Base Rate. 
+12.2 
+A base rate event is an event where one or more of the following events occur (”Base Rate Event”) 
+which means:  
+(a) 
+the Base Rate (for the relevant Interest Period of the relevant Loan) has ceased to exist or 
+ceased to be published for at least five (5) consecutive Business Days as a result of the Base 
+Rate (for the relevant Interest Period of the relevant Loan) ceasing to be calculated or 
+administered;  
+(b) 
+a public statement or publication of information by (i) the supervisor of the Base Rate 
+Administrator or (ii) the Base Rate Administrator that the Base Rate Administrator ceases to 
+provide the applicable Base Rate (for the relevant Interest Period of the relevant Loan) 
+permanently or indefinitely and, at the time of the statement or publication, no successor 
+administrator has been appointed or is expected to be appointed to continue to provide the Base 
+Rate; 
+(c) 
+a public statement or publication of information in each case by the supervisor of the Base Rate 
+Administrator that the Base Rate (for the relevant Interest Period of the relevant Loan) is no
+
+--- Page 31 ---
+31(55) 
+ 
+longer representative of the underlying market which the Base Rate is intended to represent 
+and the representativeness of the Base Rate will not be restored in the opinion of the supervisor 
+of the Base Rate Administrator; 
+(d) 
+a public statement or publication of information in each case by the supervisor of the Base Rate 
+Administrator with the consequence that it is unlawful for the Company or the Calculation 
+Agent to calculate any payments due to be made to any Noteholder using the applicable Base 
+Rate (for the relevant Interest Period of the relevant Loan) or it has otherwise become 
+prohibited to use the applicable Base Rate (for the relevant Interest Period of the relevant 
+Loan); 
+(e) 
+a public statement or publication of information in each case by the bankruptcy trustee of the 
+Base Rate Administrator or by the trustee under the bank recovery and resolution framework 
+(Sw. krishanteringsregelverket), or in respect of NIBOR, from the equivalent entity with 
+insolvency or resolution powers over the Base Rate Administrator, containing the information 
+referred to in (b) above; or 
+(f) 
+a Base Rate Event Announcement has been made and the announced Base Rate Event as set 
+out in (b) to (e) above will occur within six (6) months. 
+12.3 
+Upon a Base Rate Event Announcement, the Company may (but are not obligated to), if it is possible 
+at such time to determine the Successor Base Rate, Adjustment Spread and other amendments, in 
+consultation with the Arranger or through the appointment of an Independent Adviser, initiate the 
+procedure as described in Clause 12.1 above to finally decide the Successor Base Rate, the 
+Adjustment Spread and other amendments, in order to change to the Successor Base Rate at an earlier 
+time. 
+12.4 
+If a Base Rate Event set out in any of the paragraphs (a) to (e) of the Base Rate Event definition has 
+occurred but no Successor Base Rate and Adjustment Spread have been finally decided at the latest 
+prior to the relevant Interest Determination Date or if such Successor Base Rate and Adjustment 
+Spread have been finally decided but due to technical limitations of the relevant CSD, cannot be 
+applied in relation to the relevant Interest Determination Date, the interest applicable to the next 
+succeeding Interest Period shall be: 
+(a) 
+if the previous Base Rate is available, determined pursuant to the terms that would apply to the 
+determination of the Base Rate as if no Base Rate Event had occurred; or 
+(b) 
+if the previous Base Rate is no longer available or cannot be used in accordance with applicable 
+law or regulation, equal to the interest determined for the immediately preceding Interest 
+Period. 
+The provisions set out in this clause are applicable on subsequent Interest Periods, provided that all 
+relevant measures have been carried out regarding the application of and the adjustments described 
+in this Section 12 (Replacement of Base Rate) prior to every such subsequent Interest Determination 
+Date, but without success.  
+12.5 
+Prior to the Successor Base Rate, Adjustment Spread and any other amendments becoming effective, 
+the Company shall promptly, following the final decision by the Company in consultation with the 
+Arranger or the Independent Adviser of any Successor Base Rate, Adjustment Spread and any other 
+amendments, give notice thereof to the Noteholders, the Calculation Agent and the relevant CSD in 
+accordance with Section 16 (Notices). The notice shall also include information about the effective 
+date of the amendments. If the MTN are admitted to trading on a Regulated Market, the Company 
+shall also give notice of the amendments to the relevant stock exchange.  
+12.6 
+The Arranger, the Independent Adviser and the Calculation Agent that carries out measures in 
+accordance with this Section 12 shall not be liable whatsoever for any damage or loss caused by any 
+determination, action taken or omitted by it in conjunction with the determination and final decision 
+of the Successor Base Rate, Adjustment Spread and any amendments thereto to the Loan Terms,
+
+--- Page 32 ---
+32(55) 
+ 
+unless directly caused by its gross negligence or wilful misconduct. The Arranger, the Independent 
+Adviser and the Calculation Agent shall never be responsible for indirect or consequential loss. 
+12.7 
+In this Section 12 the following definitions have the meaning described below: 
+”Adjustment Spread” means a spread or a formula or methodology for calculating a spread to be 
+applied to a Successor Base Rate and that is: 
+(i) 
+formally recommended by any Relevant Nominating Body in relation to the replacement of 
+the Base Rate; or 
+(ii) 
+if (i) is not applicable, the adjustment spread that the Company in consultation with the 
+Arranger or the Independent Adviser determines is reasonable to use in order to eliminate, to 
+the extent possible, any transfer of economic value from one party to another as a result of a 
+replacement of the Base Rate and is customarily applied in comparable debt capital market 
+transactions. 
+“Arranger” means Nordea Bank Abp. 
+”Base Rate Administrator” means Swedish Financial Benchmark Facility AB (SFBF) in relation to 
+STIBOR and Norske Finansielle Referanser AS (NoRe) in relation to NIBOR or any person replacing 
+it as administrator of the Base Rate. 
+”Base Rate Event Announcement” means a public statement or published information as set out in 
+paragraph 12.2 (b) to 12.2 (e) that any event or circumstance specified therein will occur. 
+”Independent Adviser” means an independent financial institution or adviser of repute in the debt 
+capital markets where the Base Rate is commonly used. 
+”Relevant Nominating Body” means, subject to applicable law, firstly any relevant supervisory 
+authority, secondly any applicable central bank, or any working group or committee of any of them, 
+or thirdly the Financial Stability Council (Finansiella stabilitetsrådet) or any part thereof. 
+”Successor Base Rate” means:  
+(i) 
+a screen or benchmark rate, including the methodology for calculating term structure and 
+calculation methods in respect of debt instruments with similar interest rate terms as MTN, 
+which is formally recommended as a successor to or replacement of the Base Rate by a 
+Relevant Nominating Body; or 
+(ii) 
+if there is no such rate as described in paragraph (i), such other rate as the Company in 
+consultation with the Arranger or the Independent Adviser determines is most comparable to 
+the Base Rate. 
+For the avoidance of doubt, in the event that a Successor Base Rate ceases to exist, this definition 
+shall apply mutatis mutandis to such new Successor Base Rate. 
+13. 
+NOTEHOLDERS’ MEETING 
+13.1 
+The Calculation Agent is entitled to convene a Noteholders’ Meeting for the Noteholders under the 
+relevant Loan, and must convene a Noteholders’ Meeting for the Noteholders under the relevant Loan 
+at the request of an Issuing Dealer, the Company, or Noteholders who at the time of the request 
+represent at least one-tenth of the Adjusted Loan Amount under the relevant Loan (such request may 
+only be made by Noteholders who are registered in the debt register maintained by the CSD on the 
+next Business Day after the day the request was received by the Calculation Agent and must be made 
+together if a request is made by several Noteholders who alone represent less than ten (10) per cent of 
+the Adjusted Loan Amount).
+
+--- Page 33 ---
+33(55) 
+ 
+13.2 
+The Calculation Agent shall convene a Noteholders’ Meeting by written notice to each Noteholder, 
+the Company, and the Issuing Dealer within five (5) Business Days from the date when a request was 
+received from the Company, Noteholders, or the Issuing Dealer in accordance with Section 13.1 (or 
+such later date as necessary for technical or administrative reasons). 
+13.3 
+The Calculation Agent may refrain from convening a Noteholders’ Meeting if: 
+(a) 
+the proposed resolution must be approved by a person in addition to the Noteholders, and this 
+person has notified the Calculation Agent that such approval will not be given; or 
+(b) 
+the proposed resolution is not compatible with applicable law. 
+13.4 
+The notice in accordance with Section 13.2, shall contain: 
+(a) 
+the time of the meeting; 
+(b) 
+the place of the meeting; 
+(c) 
+an agenda (including each request by a Noteholder for a resolution); and 
+(d) 
+a proxy form. 
+A decision may not be made at the Noteholders’ Meeting in respect of any matter that is not listed in 
+the notice. If Noteholders are required to announce their intention to participate in the Noteholders’ 
+Meeting, the notice shall contain information regarding such requirement. 
+13.5 
+The Noteholders’ Meeting shall be held no earlier than fifteen (15) Business Days and no later than 
+thirty (30) Business Days after the notice. Noteholders’ Meetings for several Loans under the MTN 
+Programme may be held on the same occasion. 
+13.6 
+Without deviating from the provisions in these Terms and Conditions, the Calculation Agent may 
+stipulate further provisions, as it deems appropriate, regarding the convening and holding of the 
+Noteholders’ Meeting. Such provisions may, among other things, include provisions enabling 
+Noteholders to vote without attending the meeting in person, or to allow the voting to take place 
+electronically or through written voting procedures. 
+13.7 
+Only a person who has been issued a power of attorney in accordance with Section 4 (Right to act on 
+behalf of a Noteholder) by someone who is a Noteholder on the Record Date for the Noteholders’ 
+Meeting may exercise voting rights at such Noteholders’ Meeting, provided that the relevant MTN is 
+covered by the Adjusted Loan Amount. The Calculation Agent may attend the Noteholders’ Meeting 
+and shall ensure that an extract from the debt register maintained by the CSD on the Record Date for 
+the Noteholders’ Meeting is available at the Noteholders’ Meeting. 
+13.8 
+The Noteholders and the Calculation Agent, and their respective representatives or assistants, are 
+entitled to attend a Noteholders’ Meeting. The Noteholders’ Meeting may resolve that other persons 
+may attend. Representatives shall submit a duly issued power of attorney to be approved by the 
+chairperson of the Noteholders’ Meeting. The Noteholders’ Meeting shall commence with the 
+appointment of a chairperson, a secretary to take the minutes, and persons to attest the minutes. The 
+chairperson shall prepare a list of Noteholders that are present and entitled to vote at the meeting, with 
+information on the proportion of the Adjusted Loan Amount that is held by each respective Noteholder 
+(the “Voting Register”). The Voting Register shall thereafter be approved by the Noteholders’ 
+Meeting. When applying these provisions, Noteholders who have cast their vote via electronic voting, 
+ballot paper or the equivalent shall be deemed to be present at the Noteholders’ Meeting. Only those 
+who were Noteholders or representatives for such Noteholders on the relevant Record Date, and who 
+are covered by the Adjusted Loan Amount, are entitled to vote and shall be included in the Voting 
+Register. The Company shall be granted access to relevant voting calculations and the basis for these.
+
+--- Page 34 ---
+34(55) 
+ 
+The minutes shall be completed as soon as possible and made available to Noteholders, the Company, 
+and the Calculation Agent. 
+13.9 
+Decisions on the following matters require the approval of Noteholders representing at least 
+90 per cent of that portion of the Adjusted Loan Amount for which Noteholders are voting under the 
+relevant Loan at the Noteholders’ Meeting: 
+(a) 
+any change in the Maturity Date, reduction of the Nominal Amount, change in terms relating 
+to interest or the amount to be repaid (other than in accordance with the Loan Terms including 
+what follows from the application of section 12 (Replacement of Base Rate)) and changing of 
+the relevant currency for the Loan; 
+(b) 
+any change in the provisions governing the Noteholders’ Meeting according to this Section 13; 
+(c) 
+mandatory exchange of MTN into another security; and 
+(d) 
+substitution of debtor. 
+13.10 
+Matters which are not covered by Section 13.9 require the approval of Noteholders representing more 
+than 50 per cent of the portion of the Adjusted Loan Amount for which Noteholders are voting under 
+the relevant Loan at the Noteholders’ Meeting. This includes, but is not limited to, amendments and 
+waivers of rights in relation to the Loan Terms which do not require a greater majority (other than 
+changes in accordance with Section 14 (Amendments of terms etc.) and acceleration of Loans. 
+13.11 
+A quorum at a Noteholders’ Meeting requires the presence of Noteholders, in person or via telephone 
+(or by a representative with a power of attorney), representing at least 50 per cent of the Adjusted 
+Loan Amount for matters listed in Section 13.9 and for any other matter 20 per cent of the Adjusted 
+Loan Amount 
+13.12 
+If the Noteholders’ Meeting has not met the necessary quorum requirements, the Calculation Agent 
+shall convene a new Noteholders’ Meeting (in accordance with Section 13.2) provided that the 
+relevant proposal has not been withdrawn by the initiator of the Noteholders’ Meeting. The quorum 
+requirement in Section 13.11 is not applicable to such new Noteholders’ Meeting. If the Noteholders’ 
+Meeting has met the quorum requirement for some, but not all, matters which are to be resolved on in 
+the Noteholders’ Meeting, decisions shall be made on those matters for which a quorum is present, 
+and any other matter shall be referred to a new Noteholders’ Meeting. 
+13.13 
+A decision at a Noteholders’ Meeting which imposes new obligations on, or limits the rights of, the 
+Company or an Issuing Dealer under the Terms and Conditions requires the written approval of the 
+relevant party. 
+13.14 
+A Noteholder which holds more than one MTN need not vote for all, or vote in the same way for all, 
+MTN held. 
+13.15 
+The Company may not, directly or indirectly, pay or contribute to the payment of any compensation 
+to any Noteholder for its approval under the Loan Terms unless such compensation is offered to all 
+Noteholders who provide their consent at the relevant Noteholders’ Meeting. 
+13.16 
+A decision made at a Noteholders’ Meeting shall be binding on all Noteholders under the relevant 
+Loan, whether or not they were present at the Noteholders’ Meeting. Noteholders shall not be held 
+liable for any damage that the decision may cause another Noteholder. 
+13.17 
+The Company shall reimburse the Calculation Agent for costs and disbursements incurred by it in 
+connection with the Noteholders’ Meeting including reasonable compensation for the Calculation 
+Agent. 
+13.18 
+At the request of the Calculation Agent, the Company shall provide the Calculation Agent with a 
+certificate, without delay, stating the Nominal Amount for MTN owned by Group Companies on the
+
+--- Page 35 ---
+35(55) 
+ 
+relevant Record Date before a Noteholders’ Meeting, regardless of whether such Group Company is 
+directly registered as an owner of MTN. The Calculation Agent shall not be held responsible for the 
+content of such certificate or otherwise for determining whether an MTN is owned by a Group 
+Company. 
+13.19 
+Noteholders under the relevant Loan shall be notified, without delay, of any and all decisions made at 
+a Noteholders’ Meeting through a press release published on the Company’s website and in 
+accordance with Section 16 (Notices). At the request of a Noteholder or the Issuing Dealer, the 
+Calculation Agent shall provide the Noteholder with the minutes from the relevant Noteholders’ 
+Meeting. Failure to notify the Noteholders as stated above in this section does not affect the validity 
+of the decision. 
+13.20 
+Without amending or varying these Terms and Conditions, the Calculation Agent may prescribe such 
+further regulations regarding the convening and holding of a Noteholders’ Meeting as the Calculation 
+Agent may deem appropriate. Such regulations may include a possibility for Noteholders to vote 
+without attending the meeting in person and that voting can take place by electronic or written 
+procedure.  
+14. 
+AMENDMENT OF TERMS, ETC. 
+14.1 
+The Company and the Dealers may agree on adjustments to clear and obvious errors in these Terms 
+and Conditions. 
+14.2 
+The Company and the Calculation Agent may agree on adjustments to clear and obvious errors in the 
+Final Terms for certain Loans. 
+14.3 
+The Company and the Arranger or the Independent Adviser may, without the approval of the 
+Noteholders, agree on and execute amendments to the Loan Terms in accordance with what is 
+described in section 12 (Replacement of Base Rate) and such amendments will be binding on those 
+covered by the Loan Terms. 
+14.4 
+Appointment of a Dealer to the MTN Programme may be made through an agreement between the 
+Company, the relevant Dealer, and other Dealers. A Dealer may retire as a Dealer. However, a 
+Calculation Agent under a particular Loan may only retire as such if a new Calculation Agent is 
+simultaneously appointed in its place. 
+14.5 
+Changes to, or waivers of, Loan Terms in cases other than those set forth in Sections 14.1 to 14.3 
+(inclusive) must be made through a decision taken at a Noteholders’ Meeting according to Section 13 
+(Noteholders’ Meeting).  
+14.6 
+An approval at a Noteholders’ Meeting of an amendment of the terms may cover the substantive 
+content of the change and need not contain a specific drafting of the change. 
+14.7 
+A decision regarding an amendment of the terms shall also include a decision in respect of when the 
+amendment enters into force. However, an amendment shall not enter into force before it has been 
+registered with the CSD (where applicable) and published on the Company’s website. 
+14.8 
+Notice of amendments or waivers of Loan Terms in accordance with this Section 14 must be given to 
+the Noteholders in accordance with Section 16 (Notices) and published on the Company’s website. 
+15. 
+TIME-BAR 
+15.1 
+Claims for repayment of principal shall be time-barred an become void ten (10) years from the 
+Maturity Date. Claims for interest shall be shall be time-barred and become void three (3) years after 
+each relevant Interest Payment Date. The Company is entitled to any funds set aside for payments in 
+respect of which the Noteholders’ right to receive payment has been time-barred and has become void.
+
+--- Page 36 ---
+36(55) 
+ 
+15.2 
+If a limitation period is duly interrupted in accordance with the Swedish Act on Limitations 
+(preskriptionslag (1981:130)), a new limitation period of ten (10) years with respect to the right to 
+receive repayment of the principal, and of three (3) years with respect to receive payment of interest 
+will commence, in both cases calculated from the date of interruption of the limitation period, as such 
+date is determined pursuant to the provisions of the Swedish Act on Limitations. 
+16. 
+NOTICES 
+16.1 
+Notices shall be given to the Noteholders of the relevant Loan at the address registered with the CSD 
+on the Record Date prior to dispatch and, in respect of Loans denominated in NOK, by the VPS to the 
+Noteholders in accordance with the Norwegian Financial Instruments Account Act and the VPS Rules. 
+A notice to the Noteholders shall also be published through a press release and published on the 
+Company’s website. 
+16.2 
+Notice shall be given to the Company and each Dealer at the address registered with the Swedish 
+Companies Registration Office (Bolagsverket) at the time notice is given. 
+16.3 
+A notice to the Company or the Noteholders according to the Loan Terms which is sent by normal 
+mail to the stated address shall be deemed to have been received by the recipient on the third Business 
+Day after dispatch and notice sent by courier shall be deemed to have been received by the recipient 
+when handed over at the stated address. 
+16.4 
+The failure to send notice to a particular Noteholder in the correct manner shall not have any impact 
+on the legal effect of notice to other Noteholders.  
+17. 
+LIMITATION OF LIABILITY, ETC. 
+17.1 
+The Dealers shall not be liable for any damage as a consequence of Swedish or foreign legislation, 
+actions by Swedish or foreign public authorities, acts of war, strikes, blockades, boycotts, lockouts, 
+or any other similar circumstance. The reservation in respect of strikes, blockades, boycotts, and 
+lockouts applies notwithstanding that the Dealer itself takes such measures or is subject to such 
+measures. 
+17.2 
+Damage which arises in other cases shall not be compensated by the Dealer provided the Dealer acted 
+with normal care. 
+17.3 
+Neither the Company nor the Dealer shall be obligated in any circumstance to pay compensation for 
+indirect loss. 
+17.4 
+In the event a Dealer is prevented from taking a measure as a consequence of a circumstance set forth 
+in Section 17.1, the measure may be postponed until such time as the impediment no longer exists. 
+17.5 
+The provision set forth above shall apply unless otherwise required by the Swedish Financial 
+Instruments Accounting Act. 
+18. 
+GUARANTEE 
+In accordance with Appendix 2 (Guarantee), the Guarantor has provided a guarantee as for its own 
+debt (proprieborgen) for all of the Company’s obligations under the Loans issued under the MTN 
+Programme.
+
+--- Page 37 ---
+37(55) 
+ 
+19. 
+GOVERNING LAW AND JURISDICTION 
+19.1 
+Swedish law shall apply to the Loan Terms and any non-contractual issues which arise in conjunction 
+with the Loan Terms, save for the registration of Loans issued in NOK in VPS which will be governed 
+by, and construed in accordance with, Norwegian law. 
+19.2 
+Any dispute shall be resolved by a Swedish court of law. The District Court of Stockholm (Stockholms 
+tingsrätt) shall be the court of first instance. 
+ 
+It is hereby confirmed that the above terms and conditions are binding on us. 
+Stockholm, 25 March 2022 
+AB BONNIER FASTIGHETER FINANS (PUBL)
+
+--- Page 38 ---
+38(55) 
+ 
+FORM OF FINAL TERMS 
+The following form is used for the Final Terms for each Loan issued under the MTN Programme. 
+Final Terms 
+for Loan number [●] 
+under AB Bonnier Fastigheter Finans (publ)’s (“Company”) Swedish MTN Programme 
+The Terms and Conditions dated 25 March 2022 and the Final Terms set forth below shall apply to the Loan. 
+Unless otherwise stated, definitions used in these Final Terms are set forth in the Terms and Conditions or 
+otherwise in the Company’s Base Prospectus, approved and registered with the Swedish Financial Supervisory 
+Authority on 2 May 2023, including any published supplemental prospectus prepared for the MTN Programme 
+from time to time in accordance with Regulation (EU) 2017/1129 of the European Parliament and of the Council 
+of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading 
+on a regulated market, and repealing Directive 2003/71/EC, referred to as the “Prospectus Regulation” (“Base 
+Prospectus”). This document constitutes the Final Terms for the Loan and has been prepared in accordance with 
+Article 8 of the Prospectus Regulation. Complete information regarding the Company and the Loan may only be 
+obtained through a reading of the Final Terms together with the Base Prospectus (as supplemented). 
+The Base Prospectus and any supplemental prospectus are available on the Company’s website 
+(https://www.bonnierfastigheter.se/). 
+GENERAL 
+1.  Loan number: 
+[●] 
+ 
+(i)  Tranche name:  
+[●] 
+2.  Aggregate Nominal Amount: 
+ 
+ (i) 
+For [the Loan:] 
+[SEK]/[NOK] [●] 
+ (ii) 
+Tranche 1: 
+[SEK]/[NOK] [●] 
+ (iii) 
+[Tranche 2:] 
+[SEK]/[NOK] [●] 
+3.  Price per MTN: 
+[●] % of the Nominal Amount [plus accrued interest from and 
+including [date] (if applicable)] 
+4.  Currency: 
+[SEK]/[NOK] 
+5.  Nominal amount: 
+[SEK]/[NOK] [●] (the stated amount may not be less than 
+EUR 100,000 or an equivalent amount in SEK or NOK) 
+6.  Loan Date: 
+[●]  
+7.  Interest Commencement Date: 
+[Loan Date]/[●] 
+8.  Settlement Date: 
+[Loan Date]/[●]
+
+--- Page 39 ---
+39(55) 
+ 
+ 
+(i) 
+[Tranche 1:] 
+[●] 
+ 
+(ii) 
+[Tranche 2:]  
+[●] 
+9.  Maturity Date: 
+[●] 
+10.  Interest Structure: 
+[Fixed Rate]/[Floating Rate (FRN)]/[Zero Coupon] 
+BASIS FOR CALCULATION OF RETURN 
+11.  Fixed Interest Rate: 
+[Applicable]/[Not applicable] 
+(if not applicable, delete the remaining subheadings under 
+this heading) 
+(i) 
+ Interest Rate: 
+[●] % per year 
+(ii) 
+ Interest Period: 
+Period from [●] up to and including [●] (the first Interest 
+Period) and thereafter each period of approximately [●] 
+months with the final day on an Interest Payment Date 
+(Correct the above in the event of a short or long first 
+coupon) 
+ 
+(iii) 
+ Interest Payment Date(s): 
+[Annually [●]] [Semi-annually [●] and [●] ] [Quarterly [●], 
+[●], [●] and [●]], the first time on [●] and the last time on [●], 
+however if such a day is not a Business Day, interest will not 
+be paid until the following Business Day. Interest is calculated 
+and payable, however, only up to and including the Interest 
+Payment Date. 
+ 
+(iv) 
+ Day Count Convention: 
+30/360 [Adjusted]/[Unadjusted] 
+ 
+(v) 
+ Risk factors:  
+In accordance with the Risk Factor with the heading Risks 
+relating to interest rate constructions in the Base Prospectus. 
+12.  Floating Rate (FRN): 
+[Applicable]/[Not applicable] 
+(If not applicable, delete the remaining subheadings under 
+this heading) 
+ (i) 
+ Base Rate: 
+[●] months [STIBOR]/[NIBOR] 
+[The Interest Base for the first coupon will be [[●]/a linear 
+interpolation between [●] months [STIBOR]/ [NIBOR] and 
+[●] months [STIBOR]/ [NIBOR]] 
+ (ii) 
+ Margin: 
+[+/-] [●] % per year
+
+--- Page 40 ---
+40(55) 
+ 
+ (iii) 
+ Interest Determination Date: 
+[Second] Business Day prior to the start of each Interest 
+Period, the first time on [●] 
+ (iv) 
+ Interest Period: 
+The period from [●] up to and including [●] (the first interest 
+period) and thereafter each period of about [●] months with 
+the final day on an Interest Payment Date 
+ (v) 
+ Interest Payment Date(s): 
+[●], [●], [●] and [●] of each year, the first time on [●] and the 
+last time on [●]. However, if such a day is not a Business Day, 
+the Interest Payment Date shall instead be the next Business 
+Day provided that such Business Day does not fall in the new 
+calendar month, in which case the Interest Payment Date shall 
+be the preceding Business Day. Interest is calculated and 
+payable up to and including each relevant Interest Payment 
+Date. 
+ (vi) 
+ Day Count Convention: 
+Actual/360 [Adjusted]/[Unadjusted] 
+13.  Zero Coupon: 
+[Applicable]/[Not applicable]  
+(if not applicable, delete the remaining subheadings under this 
+section) 
+(i) 
+ Terms for Loans without interest: [Specify details] 
+(ii) 
+ Risk Factors: 
+In accordance with the Risk Factor with the heading “Risks 
+relating to interest rate constructions in the Base Prospectus”
+OTHER 
+14.  Green MTN: 
+[Applicable/Not Applicable] 
+(if applicable, specify below) 
+(i) 
+ Terms: 
+Green Finance Framework dated [●] are applicable to this 
+Loan. 
+(ii) 
+ Risk factor: 
+In accordance with the risk factor with the heading [“include 
+heading of relevant risk factor(s)”] in the Base Prospectus. 
+REPAYMENT 
+15.  Amount with which MTN is to be repaid 
+at the Maturity date: 
+[●]% of [Nominal Amount/[●]] 
+MISCELLANEOUS 
+16.  CSD 
+[Euroclear Sweden] / [VPS] 
+17.  Issuing Dealer[s]: 
+[Danske Bank A/S, Danmark, Sverige Filial]/[DNB Bank 
+ASA, filial Sverige]/[Nordea Bank Abp]/[Skandinaviska
+
+--- Page 41 ---
+41(55) 
+ 
+Enskilda Banken AB (publ)]/[ Svenska Handelsbanken AB 
+(publ)]/[specify] 
+18.  Calculation agent: 
+[Danske Bank A/S, Danmark, Sverige Filial]/[DNB Bank 
+ASA, filial Sverige]/[Nordea Bank Abp]/[Skandinaviska 
+Enskilda Banken AB (publ)]/[Svenska Handelsbanken AB 
+(publ)]/[specify] 
+19.  Paying Agent 
+[Not applicable]/ [●] 
+20.  Admission to trading: 
+[Applicable]/[Not applicable] (if not applicable, delete the 
+remaining subheadings under this section) 
+ 
+(i) 
+ Relevant market: 
+An application for registration will be submitted to [Nasdaq 
+Stockholm]/[Other regulated market] 
+ 
+(ii) 
+ Estimate of all costs in 
+conjunction with admission to 
+trading: 
+SEK [●] 
+ 
+(iii) 
+ Total number of securities 
+admitted to trading: 
+[●] 
+ 
+(iv) 
+ Earliest date for admission to 
+trading: 
+[Loan date]/[●]  
+[Tranche 1:] 
+[Tranche 2:] 
+21.  ISIN: 
+SE[●] / NO[●] 
+22.  Credit rating for the Loan: 
+[Not applicable]/[specify] 
+23.  Resolution as basis for the Issue: 
+[In accordance with the Base Prospectus]/[specify] 
+24.  Interests of natural or legal persons 
+involved in the Issue: 
+[Other than the compensation paid to the Issuing Dealers 
+based on their participation in the MTN Programme and this 
+Issue, the Company is not aware of any persons involved with 
+any interest of significance to the Issue]/[description of the 
+interests of significance to the Issue for any natural or legal 
+persons involved in the issue, including conflicts of interest] 
+25.  Information from third parties: 
+[Information contained in these Final Terms that comes from 
+a third party has been accurately reproduced and, to the extent 
+the Company is aware and is able to ascertain from a 
+comparison with other information that has been published by 
+the relevant third party, no facts have been omitted in a way
+
+--- Page 42 ---
+42(55) 
+ 
+that would render the reproduced information inaccurate or 
+misleading]/[Not Applicable] 
+26.  The use of the proceeds: 
+[General financing of the Company’s and the Group’s 
+business activities]/[In accordance with the Green Finance 
+Framework]/[specify] 
+27.  The estimated net amount of the 
+proceeds: 
+[NOK]/[SEK] [●] less customary transaction costs and fees. 
+ 
+The Company confirms that it has disclosed all material events after the date of this MTN Programme regarding 
+the Base Prospectus that could affect the market’s assessment of the Company. 
+The Company further confirms that the above Final Terms are applicable to the Loan, together with the Terms and 
+Conditions, and undertakes accordingly to pay principal and, where applicable, interest. 
+ 
+Stockholm, [date for signing of Final Terms] 
+AB BONNIER FASTIGHETER FINANS (PUBL)
+
+--- Page 43 ---
+43(55) 
+ 
+GUARANTEE 
+Between AB Bonnier Fastigheter Finans (publ) (Swedish Reg. No. 556068-1701) (the “Company”) and Danske 
+Bank A/S, Danmark, Sverige filial, DNB Bank ASA, filial Sverige, Nordea Bank Abp, Skandinaviska Enskilda 
+Banken AB (publ) and Svenska Handelsbanken AB (publ) (together the “Dealers”), an agreement was signed on 
+25 March 2022 (emissionsavtal) (the “Agreement”) regarding the establishment of a Swedish Medium Term Note 
+Programme (“MTN Programme”) under which the Company intends to raise loans on the capital market by 
+issuing notes in SEK or NOK. With reference to the MTN Programme, Bonnier Fastigheter AB (Swedish Reg. 
+No. 556058-2354) (the “Guarantor”) hereby guarantees as principal obligor as for its own debt (proprieborgen) 
+all of the Company’s obligations, as agreed in this guarantee (the “Guarantee”). In addition to the definitions set 
+forth in this Guarantee, the terms defined in the Agreement and in the Terms and Conditions (appended to the 
+Agreement) shall have the same meaning when used in this Guarantee. 
+The Terms and Conditions and the relevant Final Terms shall apply to each MTN. 
+1. 
+The Guarantor has reviewed and approved the conditions set forth in the Agreement and the Terms and 
+Conditions (as amended from time to time). 
+2. 
+All of the Company’s obligations according to the Agreement, the Terms and Conditions and all Loans issued 
+under the MTN Programme are guaranteed by the Guarantor as principal obligor as for its own debt 
+(proprieborgen). The Guarantee continues in force until all obligations under the Agreement, the Terms and 
+Conditions and all Loans issued under the MTN Programme have been fulfilled. The obligations under this 
+Guarantee shall be in force even if the Framework Amount has been exceeded. 
+3. 
+The Guarantor further guarantees that as long as there are outstanding MTN the Guarantor shall not sell or 
+otherwise dispose of any material fixed assets if such disposal threatens the Guarantor’s ability to fulfil its 
+payment obligations under this Guarantee. 
+4. 
+The Guarantor hereby confirms that its execution of this Guarantee do not violate any law, agreement, other 
+rules or regulations binding on the Guarantor. 
+5. 
+All the notices to the Guarantor shall be made to the following address: 
+Postal address:  
+Bonnier Fastigheter AB 
+ 
+ 
+ 
+Box 3167 
+ 
+ 
+103 63 Stockholm 
+Telephone: 
+ 
++46-8-545 198 00 
+ 
+If a notice has been sent by registered letter (rekommenderat brev), the notice shall be deemed to have been 
+received by the recipient no later than the third Business Day following the dispatch. If a message has been 
+sent by e-mail, the message shall be deemed to have reached the addressee when it is actually received. 
+However, if the e-mail reaches the recipient after normal business hours, the message shall be deemed to 
+have been received by the recipient at the beginning of the following Business Day. 
+6. 
+This Guarantee, and any non-contractual obligations arising out of or in connection herewith, shall be 
+governed by and construed in accordance with the laws of Sweden. The courts of Sweden have exclusive 
+jurisdiction to settle any dispute arising out of or in connection with the Guarantee. The District Court of 
+Stockholm (Stockholms tingsrätt) shall be the court of first instance. 
+ 
+Stockholm, 25 March 2022 
+BONNIER FASTIGHETER AB
+
+--- Page 44 ---
+44(55) 
+ 
+BUSINESS DESCRIPTION 
+The Issuer is acting as an internal bank for the Group. The Issuer supports the Group with services 
+related to funding, treasury and cash management. The Issuer conducts most of the financial transactions 
+of the Group. The Issuer is responsible for all interest-bearing assets and liabilities as well as all 
+derivatives and funding operations within the Bonnier Fastigheter Group. The Parent owns 100 per cent. 
+of the shares of the Issuer and therefore holds all the voting rights at the shareholder’s general meetings. 
+The Issuer’s operations are carried out according to centrally determined risk mandates and limits 
+designed to minimise the interest rate and liquidity risks to which the Bonnier Fastigheter Group is 
+exposed. 
+Legal group structure 
+The Issuer is wholly owned by the Bonnier Fastigheter. Bonnier Fastigheter in turn is owned by Albert 
+Bonnier AB (20 per cent. of the capital and 71 per cent. of the votes) and by individual members of the 
+Bonnier family (80 per cent. of the capital and 29 per cent. of the votes). No individual owns (directly 
+or indirectly) more than 10,23 per cent. of the shares or the capital in the Issuer. The following chart 
+shows an overview of the Bonnier Group’s legal structure. If the number of vote and capital differs, the 
+votes are set out within brackets. The Group is marked with a yellow square. 
+ 
+The Issuer is dependent on the Guarantor and the other Group Companies, as the Issuer serves as an 
+internal bank to the other Group Companies. Further, as is common for property companies, the Issuer’s 
+and the Guarantor’s operations is to some extent conducted through and dependent on subsidiaries and 
+other companies within the Group.  
+The Bonnier family in this context means all the lineal descendants in direct line of Karl-Otto Bonnier 
+(born 1856) and any husband and wife or widow or widower of any of the foregoing individuals or any 
+trustee, administrator or other legal representative of an estate or any assets of any of the foregoing
+
+--- Page 45 ---
+45(55) 
+ 
+individuals (including, for the avoidance of doubt, any companies, trusts or other legal entities controlled 
+(for each such entity, by way of capital and votes) by one or several of the abovementioned individuals). 
+History of the Group 
+The Bonnier family has owned and developed properties in Stockholm since the mid-1800’s. Initially 
+with the primary purpose to create solutions for the business within Bonnier, but over time it has evolved 
+as a separate business. Bonnier Fastigheter still owns and manages many of the Properties acquired by 
+the Bonnier family in the 1800’s.  
+Bonnier Fastigheter was founded in 1985, is wholly owned by the Bonnier family and part of Bonnier 
+Group. In 2019 Bonnier Fastigheter started investments in residential properties through a joint venture, 
+HållBo AB, to own and manage residential properties in the Stockholm area. 
+In 2018, AB Bonnier Fastigheter Finans (publ) was established as the Group’s internal bank. 
+Below is a summary of major events in the Group’s history: 
+1800’s 
+The Bonnier family started to invest in properties. 
+1921 
+Kv. Moraset, Vasastaden – The property of Albert Bonniers Förlag was acquired, and is 
+still owned by the Group. 
+1929 
+Kv. Stormkransen, Vasastaden – The acquistion of Åhlén och Åkerlund included several 
+properties, which still are owned by the Group.  
+1946 
+Bonnierhuset, Vasastaden – Was built for Bonnier, and is still owned by the Group. 
+1985 
+Bonnier Fastigheter was established.  
+1990 
+DN/EX Tryckeriet, Kista – Was built for the Bonnier group. The property was sold in 2020.  
+2008 
+Bulten och Sågen, Hornstull – Acquisition of existing properties as hubs to develop the new 
+district centre Hornstull.  
+2018  
+Stationsgallerian (renamed to Centralhuset) – Bonnier’s first acquisition in Uppsala. 
+2018 
+Kv Munin– Bonnier’s second acquisition in Uppsala was completed.  
+2018 
+AB Bonnier Fastigheter Finans (publ) was established as the Group’s internal bank. 
+2019 
+Bonnier Fastigheter Bostad AB – was established as a subsidiary and business area formed 
+for investments in residential properties, through the joint venture Hållbo AB.  
+2020  
+Kv Kvarngärdet – Bonnier’s third acquisition in Uppsala of a whole block (Cykelfabriken).  
+2021 
+Munin Next – Bonnier’s first construction project in Uppsala was initiated.  
+2021 
+Bonnier Fastigheter Invest AB was established as a subsidiary and business area formed for 
+investments in real estate shares. 
+2022 
+Bonnier Fastigheter Invest AB acquired 50% of the shares in Trecore Fastigheter AB, which 
+owns 45 properties in Sweden within the grocery segment, of which ICA Group is the main 
+tenant. ICA Fastigheter AB owns the remaining quote of the shares.
+
+--- Page 46 ---
+46(55) 
+ 
+THE ISSUER 
+General corporate and Group information 
+The Issuer’s legal and commercial name is AB Bonnier Fastigheter Finans (publ), and its Swedish 
+Corporate ID No. is 556068-1701 and its legal entity identifier LEI code is 549300IKMNJ0HH52S033. 
+The registered office of the board is located in Stockholm, Sweden. The registered postal address of the 
+Issuer is Box 3167, SE-103 63 Stockholm, Sweden. The Issuers phone number is +468 545 198 00. The 
+Issuer’s website is https://www.bonnierfastigheter.se/. The information on the Issuer’s website does not 
+form part of this Base Prospectus unless such information is incorporated by reference into this Base 
+Prospectus.  
+The Issuer was incorporated in Sweden on 20 January 1959 and registered with the Swedish Companies 
+Registration Office (Bolagsverket) on 2 February 1959. The Issuer is a public limited liability company 
+(publikt aktiebolag) regulated by the Swedish Companies Act (aktiebolagslagen (2005:551)).  
+Under its current articles of association, the Issuer’s share capital shall not be less than SEK 3,000,000, 
+and not more than SEK 12,000,000, divided into not fewer than 30,000 and not more than 120,000 
+shares. The Issuer has two classes of shares: Class A-shares and Class B-shares. The Issuer’s share 
+capital is SEK 5,500,000.00 represented by 55,000 shares. Each share has a quotient value of SEK 100. 
+There are 49,500 Class A-shares and 5,500 Class B-shares issued. 
+The Issuer is a subsidiary of the Guarantor, and the Guarantor owns one hundred (100) per cent. of the 
+shares in the issuer. 
+Board of directors, senior management and auditor 
+Board of Directors 
+The board of directors of the Issuer consists of the below listed five directors, which are elected by the 
+annual general meeting, with no deputies. 
+Tomas Hermansson 
+Born 1968. Chairman of the Board since 2018. Director of the Board since 2018. 
+Other on-going assignments/positions: President and CEO, Bonnier Fastigheter AB, Member of the Board, 
+Stockholms Stads Brandförsäkringskontor, Member of the Board, Hifab Group AB 
+Tomas Winqvist 
+Born 1967. Director of the Board since 2018 
+Other on-going assignments/positions: Managing Director, AB Bonnier Finans 
+Mario Pagliaro 
+Born 1964. Director of the Board since 2022.
+
+--- Page 47 ---
+47(55) 
+ 
+Other on-going assignments/positions: Chief Financial Officer, Bonnier Fastigheter AB 
+Thomas Tranberg 
+Born 1967. Director of the Board since 2018 
+Other on-going assignments/positions: Vice President and Head of Business Area Commercial Properties, 
+Bonnier Fastigheter AB 
+Anneli Albäck 
+Born 1968. Director of the Board since 2018. 
+Other on-going assignments/positions: Head of Finance, Bonnier Fastigheter AB 
+ 
+Senior Management 
+The Senior Management of the Issuer consists of a team of 3 persons. The table below sets forth the 
+name and current position of each member of the Group Management. 
+Name 
+Position 
+Tomas Winqvist 
+ 
+President and Chief Executive Officer 
+Tomas Hermansson 
+ 
+Chairman and Board Member 
+Mario Pagliaro 
+ 
+Chief Financial Officer and Board Member 
+Auditors 
+PricewaterhouseCoopers AB (SE-113 97 Stockholm, Sweden) is the Issuer’s auditor since 2018. Helena 
+Ehrenborg, born 1965, is the auditor in charge. Helena Ehrenborg is an authorised public accountant 
+and member of FAR, the professional institute for accountants in Sweden. 
+Other information regarding the Board of Directors and Senior Management 
+Business address 
+The address for all members of the board of directors and members of the Senior Management is c/o 
+AB Bonnier Fastigheter Finans (publ), Box 3167, SE-103 63 Stockholm, Sweden. 
+Conflicts of interest 
+No member of the board of directors of the Issuer or Senior Management has any private interest that 
+might conflict with the Issuer’s interests.
+
+--- Page 48 ---
+48(55) 
+ 
+THE GUARANTOR 
+GENERAL 
+The Guarantor’s legal and commercial name is Bonnier Fastigheter AB, and its Swedish Reg. No. is 
+556058-2354 and its legal entity identifier (LEI) code is 49300NIQSZAN3I3T551. The registered office 
+of the board is located in Stockholm, Sweden. The registered postal address of the Issuer is Box 3167, 
+SE-103 63 Stockholm, Sweden. The Guarantor’s website is https://www.bonnierfastigheter.se/. The 
+information on the Guarantor’s website does not form part of this Base Prospectus unless such 
+information is incorporated by reference into this Prospectus.  
+The Guarantor was incorporated in Sweden on 9 July 1953 and registered with the Swedish Companies 
+Registration Office (Bolagsverket) on 17 July 1953. The Issuer is a limited liability company 
+(aktiebolag) regulated by the Swedish Companies Act. 
+BUSINESS OVERVIEW 
+The business idea of Bonnier Fastigheter is to acquire, develop, add value to and manage properties in 
+selected markets with local presence and long-term commitment. Local presence and own staff are keys 
+to Bonnier Fastigheter. The property portfolio has focus on office premises in central Stockholm and 
+Uppsala. The property value of the Group amounts to approximately SEK 15.8 bn, and in 2022 revenues 
+amounted to around MSEK 704. The Group is organised in the following four Business Areas: 
+Commercial Properties 
+Portfolio mainly comprised of office properties in central Stockholm and Uppsala. Portfolio market 
+value of approx. SEK 15.8 bn. Uppsala is a new and growing sub-area for the Group since 2018. The 
+portfolio comprise of 18 properties totalling approx. 300,000 m2. Approx. 70% of the Group’s total 
+revenues derive from office premises. Almost 80% of the properties, representing 74% of total lettable 
+area, have obtained green building certifications. Bonnier Fastigheter has around 300 tenants secured 
+through about 650 contracts. The occupancy rate is 90%, and the average lease term 3.6 years. The 
+Group has land allocation of 80,000 m2 in Värtahamnen, in central Stockholm (office and retail). The 
+existing portfolio building rights amounts to approximately 20,000 m2 BTA.  
+Residential 
+Bonnier Fastigheter commenced its diversification into residential properties in 2019, aiming at 25% of 
+total portfolio long term. The first diversification step was taken in 2019 through a 50% joint venture 
+(Hållbo AB, Swedish Reg. No.559208-2746) with ByggVesta AB (Swedish Reg. No. 556807-4149). 
+Bonnier Fastigheter is aiming at a wholly owned residential property portfolio going forward. 
+Stockholm and Uppsala are focus markets for upcoming residential investments. Portfolio market value 
+of approximately MSEK 1.274. 
+The Hållbo AB portfolio includes five residential management properties with 480 rental apartments in 
+Greater Stockholm and four ongoing residential projects (799 apartments). 
+Furthermore, HållBo AB is currently planning to initiate six residential building projects, two of which 
+that is currently ingoing, comprising of 1 021 rental apartments in Greater Stockholm and Uppsala. 
+Invest 
+In 2021 Bonnier Fastigheter AB established Bonnier Fastigheter Invest AB (Swedish Reg. No. 559324-
+2992) as a subsidiary and business area formed for investments in real estate shares. In September 2021 
+Bonnier Fastigheter Invest AB acquired ca 83% of Fastighets AB Hemmaplan (Swedish Reg.
+
+--- Page 49 ---
+49(55) 
+ 
+No. 559317-8568), which is a joint venture with Brunswick Real Estate (Swedish Reg. No. 559105-
+3136). The joint venture has the aim to invest in areas with potential for social development. Fastighets 
+AB Hemmaplan owns 50% of Rosengård centrum, a shopping mall in Malmö, Sweden. 
+Late in 2021 Bonnier Fastigheter Invest acquired 13.7% of the Shares in Eastnine AB (publ) (Swedish 
+Reg. No. 556693-7404) a company who owns and manages commercial areas in the Baltic listed at 
+Stockholm Nasdaq Mid Cap.  
+In April 2022 Bonnier Fastigheter Invest acquired 50% of the shares in Trecore Fastigheter AB (Swedish 
+Reg. No. 559352-4159), which is a joint venture with ICA Fastigheter AB (Swedish Reg. No. 556033-
+8518). The joint venture manages 45 retail properties with different locations within Sweden. The main 
+tenant is ICA Group. 
+Services 
+Bonnier Fastigheter offers facility management services such as workplace services, cleaning, security, 
+project management, conference facilities, reception, office hotel etc to its tenants. Revenues in 2022 
+amounted to approximately MSEK 59. 
+BOARD OF DIRECTORS AND SENIOR MANAGEMENT OF THE GUARANTOR 
+Board of Directors 
+Name 
+Position  
+Erik Haegerstrand 
+Chairman 
+Ingalill Berglund 
+Director 
+Carl-Johan Bonnier 
+Director 
+Fabian Bonnier 
+Director 
+Jens Engwall 
+Director 
+Thomas Persson 
+Director 
+Stina Andersson 
+Director 
+ 
+ 
+Senior Management 
+Name 
+Position 
+Sara Björnberg 
+Head of Sustainable Development 
+Björn Boestad 
+Head of Transactions 
+Camilo Bossi 
+Head of business area Residential
+
+--- Page 50 ---
+50(55) 
+ 
+Name 
+Position 
+Ki Hummelgren 
+Head of Human Relations 
+Tomas Hermansson 
+President and CEO 
+Mario Pagliaro 
+Chief Financial Officer 
+Thomas Tranberg 
+Vice President and Head of business area Commercial 
+Properties 
+AUDITORS OF BONNIER FASTIGHETER 
+PricewaterhouseCoopers AB (SE-113 97 Stockholm, Sweden) is the Guarantor’s auditor since 2012. 
+Helena Ehrenborg, born 1965, is the auditor in charge. Helena Ehrenborg is an authorised public 
+accountant and member of FAR, the professional institute for accountants in Sweden. 
+OTHER INFORMATION REGARDING THE BOARD OF DIRECTORS AND SENIOR 
+MANAGEMENT 
+Business address 
+The address for all board members and members of the Senior Management is c/o Bonnier Fastigheter 
+AB, Box 3167, SE-103 63 Stockholm, Sweden. 
+Conflicts of interest 
+No member of the board of directors or the Senior Management of Bonnier Fastigheter has any private 
+interest that might conflict with the Issuer’s interests.
+
+--- Page 51 ---
+51(55) 
+ 
+LEGAL AND SUPPLEMENTARY INFORMATION 
+Approval by the Swedish Financial Supervisory Authority 
+The Base Prospectus has been approved by the Swedish Financial Supervisory Authority 
+(Finansinspektionen) (the “SFSA”) pursuant to Article 20 of Regulation (EU) 2017/1129 of the 
+European Parliament and of the Council of 14 June 2017 on the prospectus to be published when 
+securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 
+2003/71/EC. The SFSA only approves this Base Prospectus as meeting the standards of completeness, 
+comprehensibility and consistency imposed by the Regulation (EU) 2017/1129. The SFSA’s approval 
+should not be considered as an endorsement of the Issuer that is the subject of this Prospectus, nor should 
+it be considered as an endorsement of the quality of the securities that are the subject of this Prospectus. 
+Investors should make their own assessment as to the suitability of investing in the securities.  
+Authorisation and responsibility 
+The Issuer has obtained all necessary resolutions, authorisations and approvals required in conjunction 
+with the establishment on the Programme. The decision to establish the Programme was authorised by 
+a resolution of the Board of Directors of the Issuer on 18 February 2022. 
+The Issuer accepts responsibility for the information contained in this Base Prospectus and declares that, 
+to the best of its knowledge, the information contained in this Base Prospectus is in accordance with the 
+facts and the Base Prospectus makes no omission likely to affect its import. The board of directors of 
+the Issuer is, to the extent provided by law, responsible for the information contained in this Base 
+Prospectus and declares that, to the best of its knowledge, the information contained in this Prospectus 
+is in accordance with the facts and the Base Prospectus makes no omission likely to affect its import.  
+Material contracts 
+The Group has not entered into any material contracts which currently are in full force and effect entered 
+into outside of the ordinary course of its business and which could result in the Group being under an 
+obligation or entitlement that is material to its ability to meet its obligations to Noteholders in respect of 
+the Notes. 
+Legal and arbitration proceedings 
+Neither the Issuer, nor the Guarantor is or has been party to any governmental, legal or arbitration 
+proceedings (including any such proceedings which are pending or threatening which the Issuer is aware 
+of) during the previous 12 months which may have, or have had in the recent past, significant effects on 
+the Issuer’s or the Group’s financial position or profitability. 
+Certain material interests 
+The Dealers (and closely related companies) have provided, and may in the future provide, certain 
+investment banking and/or commercial banking and other services to the Issuer and the Group for which 
+they have received, or will receive, remuneration. Accordingly, conflicts of interest may exist or may 
+arise as a result of the Dealers having previously engaged, or in the future engaging, in transactions with 
+other parties, having multiple roles or carrying out other transactions for third parties. 
+Trend information 
+There has been no material adverse change in the prospects of the Issuer since 30 March 2023 or the 
+Guarantor since 28 March 2023, being the date of publication of their last audited financial statements.
+
+--- Page 52 ---
+52(55) 
+ 
+There has been no significant change in the financial performance of the Group since 31 December 
+2022, being the end of the last financial period for which financial information has been published to 
+the date of this Prospectus. 
+Significant changes since 31 December 2022 
+There has been no significant change in the financial position of the Group since 31 December 2022, 
+being the end of the last financial period for which financial information of the Issuer has been presented. 
+Incorporation by reference 
+The following information has been incorporated into this Base Prospectus by reference and should be 
+read as part of this Base Prospectus: 
+The Issuer’s Annual Report January–December 
+20221 
+Statement of income on page 5; 
+Balance sheet on page 6; 
+Statement of changes in equity on page 8; 
+Cash-flow statement on page 9; 
+Notes to the financial statements on pages 10-17; and 
+Auditor’s report on pages 18-19. 
+The Issuer’s Annual Report January–December 20212 
+Statement of income on page 5; 
+Balance sheet on page 6; 
+Statement of changes in equity on page 8; 
+Cash-flow statement on page 9; 
+Notes to the financial statements on pages 10-17; and 
+Auditor’s report on pages 18-19. 
+ 
+ 
+The 
+Guarantor’s 
+Annual 
+Report 
+January–
+December 20223 
+Consolidated statement of income on page 63; 
+Consolidated balance sheet on page 65-66; 
+Consolidated statement of changes in equity on page 67; 
+Consolidated cash-flow statement on page 68; 
+Notes to the consolidated financial statements on pages 69-
+91;  
+Statement of income on page 92; 
+Balance sheet on page 93-94; 
+Statement of changes in equity on page 95; 
+Cash-flow statement on page 96; 
+Notes to the financial statements on pages 97-103; and 
+Auditor’s report on pages 120-123.. 
+The 
+Guarantor’s 
+Annual 
+Report 
+January–
+December 20214 
+Consolidated statement of income on page 31; 
+Consolidated balance sheet on page 32-33; 
+Consolidated statement of changes in equity on page 34; 
+Consolidated cash-flow statement on page 35; 
+Notes to the consolidated financial statements on pages 36-
+57;  
+Statement of income on page 58; 
+Balance sheet on page 59-60; 
+Statement of changes in equity on page 61; 
+Cash-flow statement on page 62; 
+Notes to the financial statements on pages 63-70; and 
+Auditor’s report on pages 73-74. 
+ 
+1 www.bonnierfastigheter.se/debt-investors.  
+2 www.bonnierfastigheter.se/debt-investors.  
+3 https://www.bonnierfastigheter.se/finansiellt/  
+4 https://www.bonnierfastigheter.se/finansiellt/
+
+--- Page 53 ---
+53(55) 
+ 
+Information in the above documents that is not incorporated by reference is either deemed by the Issuer 
+not to be relevant for investors in Notes or is covered elsewhere in the Base Prospectus. 
+This Base Prospectus contains the Issuer’s historical financial statements and the Guarantor’s audited 
+consolidated historical financial statements for the financial years ended 31 December 2022 and 2021, 
+respectively, which have been prepared in accordance with the Annual Accounts Act and 
+recommendation RFR 2 – Accounting Rules for Legal Entities. Certain financial and other information 
+presented in this Base Prospectus has been rounded off for the purpose of making this Base Prospectus 
+more easily accessible for the reader. As a result, the figures in tables may not tally with the stated 
+results. Unless otherwise stated, no information in this Base Prospectus has been audited or reviewed 
+by the Issuer’s current or previous auditor. 
+Documents on display 
+The Issuer’s Certificate of Registration and Articles of Association are electronically available at the 
+Issuer’s website.5 
+ 
+ 
+ 
+5 www.bonnierfastigheter.se/debt-investors.
+
+--- Page 54 ---
+54(55) 
+ 
+ADDRESSES 
+The Issuer 
+The Guarantor 
+AB Bonnier Fastigheter Finans (publ) 
+Box 3167, 103 63 Stockholm, Sweden 
+www.bonnierfastigheter.se/ 
+Bonnier Fastigheter AB 
+Box 3167, 103 63 Stockholm, Sweden 
+www.bonnierfastigheter.se/ 
+Arranger 
+Nordea Bank Abp 
+Aleksis Kiven Katu 9 
+FI-00020 Nordea 
+Helsinki, Finland 
+www.nordea.com 
+Dealers 
+Danske Bank A/S, Danmark, Sverige 
+Filial 
+P.O Box 7523, 103 92 Stockholm, Sweden 
+www.danskebank.se 
+DNB Bank ASA, filial Sverige 
+Regeringsgatan 59 
+105 88 Stockholm, Sweden 
+www.dnb.se 
++46 (0)8 473 48 60 
+Nordea Bank Abp 
+Nordea Markets 
+Smålandsgatan 17 
+SE-105 71 Stockholm, Sweden 
+www.nordeamarkets.com/sv 
++46 (0)8 407 90 85 
++46 (0)8 407 91 11  
++46 (0)8 407 92 03 
+Skandinaviska Enskilda Banken AB (publ) 
+SE-111 47 Stockholm, Sweden 
+www.seb.se 
++46 (0)8 506 232 09 
+Svenska Handelsbanken AB (publ) 
+Credit Sales 
+Blasieholmstorg 11 
+106 70 Stockholm, Sweden 
+www.handelsbanken.se  
++46 (0)8-463 46 50 
+Legal Adviser to the Issuer 
+Mannheimer Swartling Advokatbyrå 
+Norrlandsgatan 21, SE-111 87 Stockholm, Sweden 
+Telephone: +46 8 595 060 00 
+www.mannheimerswartling.se 
+Account Operators 
+Euroclear Sweden AB 
+Klarabergsviadukten 63, SE-101 23 Stockholm, 
+Sweden 
+Telephone: +46 8 402 90 00 
+www.euroclear.com/sweden/ 
+Verdipapirsentralen ASA 
+P.O. Box 1174 
+Sentrum, 0107 Oslo, Norway 
+Telephone: +47 22 63 53 00 
+www.euronextvps.no
+
+--- Page 55 ---
+55(55) 
+ 
+ 
+ 
+ 
+Box 3167, 103 63 Stockholm, Sweden 
+www.bonnierfastigheter.se/
