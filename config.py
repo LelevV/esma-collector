@@ -3,6 +3,7 @@ CONFIG_DICT = {
     # general 
     'DATA_FOLDER':'.//data//',
     'DOC_DOWNLOADS_FOLDER':'.//data//downloads//',
+    'TXT_DOWNLOADS_FOLDER':'.//data//txt_downloads//',
 
     # esma_prospectus_collector.py
     'METADATA_RESULT_CSV': 'esma_prospectus_metadata.csv',
